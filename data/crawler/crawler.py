@@ -9,7 +9,7 @@ class Crawler:
     def __init__(self, config):
         self.config = config
 
-        self._log_name = './{}/logs/{}.log'.format(self.config.name.lower(), datetime.now().strftime('%Y.%m.%d.%H.%M.%S'))
+        self._log_name = './logs/{}.log'.format(self.config.name.lower(), datetime.now().strftime('%Y.%m.%d.%H.%M.%S'))
 
         self.logger = logging.getLogger('crawler')
         logging.basicConfig(format='%(asctime)s [' + config.name + '] %(message)s',

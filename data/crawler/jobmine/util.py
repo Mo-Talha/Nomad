@@ -24,6 +24,7 @@ term_data = {
     }
 }
 
+"""
 4 AHS-(unspecified)
 5 AHS-Hlth Studies & Gerontology
 6 AHS-Kinesiology
@@ -126,3 +127,5 @@ term_data = {
 58 SCI-Physics
 103 SCI-Psychology
 60 SCI-Science/Business
+
+"""
