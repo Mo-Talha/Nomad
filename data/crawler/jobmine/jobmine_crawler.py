@@ -44,13 +44,7 @@ class JobmineCrawler(crawler.Crawler):
 
         try:
 
-            # Wait for iFrame to load (issue in PhantomJS)
-            WebDriverWait(self.driver, 10).until(
-                EC.presence_of_element_located((By.ID, 'ptifrmtgtframe'))
-            )
-
-            # Switch to job search iFrame and wait 10 seconds for search parameters to appear
-            self.driver.switch_to.frame(self.driver.find_element_by_id('ptifrmtgtframe'))
+            self._switch_to_iframe('ptifrmtgtframe')
 
             WebDriverWait(self.driver, 10).until(
                 EC.presence_of_element_located((By.ID, 'UW_CO_JOBSRCH_UW_CO_COOP_JR'))
@@ -153,6 +147,8 @@ class JobmineCrawler(crawler.Crawler):
 
                     employer_name = self.driver.find_element_by_id('UW_CO_JOBRES_VW_UW_CO_PARENT_NAME${}'.format(index)).text
 
+                    job_title = self.driver.find_element_by_id('UW_CO_JOBTITLE_HL${}'.format(index)).text
+
                     location = self.driver.find_element_by_id('UW_CO_JOBRES_VW_UW_CO_WORK_LOCATN${}'.format(index)).text
 
                     openings = self.driver.find_element_by_id('UW_CO_JOBRES_VW_UW_CO_OPENGS${}'.format(index)).text
@@ -164,21 +160,35 @@ class JobmineCrawler(crawler.Crawler):
                     # Wait for new window to open containing job information
                     WebDriverWait(self.driver, 10).until(lambda d: len(d.window_handles) == 2)
 
+                    # Switch to new window
                     self.driver.switch_to.window(self.driver.window_handles[1])
 
-                    # Wait for iFrame to load (issue in PhantomJS)
-                    WebDriverWait(self.driver, 10).until(
-                        EC.presence_of_element_located((By.ID, 'ptifrmtgtframe'))
-                    )
-
-                    # Switch to job search iFrame and wait 10 seconds for search parameters to appear
-                    self.driver.switch_to.frame(self.driver.find_element_by_id('ptifrmtgtframe'))
+                    self._switch_to_iframe('ptifrmtgtframe')
 
                     summary = self.driver.find_element_by_id('UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
 
-                    print employer_name, location, openings, applicants, summary
+                    self.driver.close()
 
-                    break
+                    # Wait for job window to close
+                    WebDriverWait(self.driver, 10).until(lambda d: len(d.window_handles) == 1)
+
+                    # Switch back to job search page
+                    self.driver.switch_to.window(self.driver.window_handles[0])
+
+                    self._switch_to_iframe('ptifrmtgtframe')
+
+                    print employer_name, job_title, location, openings, applicants, summary
+
+                break
+
+    def _switch_to_iframe(self, name, time=10):
+        # Wait for iFrame to load (issue in PhantomJS)
+        WebDriverWait(self.driver, time).until(
+            EC.presence_of_element_located((By.ID, name))
+        )
+
+        # Switch to job search iFrame and wait 10 seconds for search parameters to appear
+        self.driver.switch_to.frame(self.driver.find_element_by_id(name))
 
 if __name__ == '__main__':
     jobmine_crawler = JobmineCrawler()
