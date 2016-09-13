@@ -24,9 +24,11 @@ class JobmineCrawler(crawler.Crawler):
             job_search_ele_xpath = "(//li[@id='crefli_UW_CO_JOBSRCH_LINK']/a[1])[2]"
 
             # Wait for 10 seconds job search element to appear
-            job_search_ele = self._wait_till_find_element_by(By.XPATH, job_search_ele_xpath)
+            self._wait_till_find_element_by(By.XPATH, job_search_ele_xpath)
 
-            self.actions.move_to_element(job_search_ele).click().perform()
+            self.actions.move_to_element(self.driver.find_element_by_xpath(
+                job_search_ele_xpath
+            )).click().perform()
 
         except TimeoutException:
             self.logger.error('Job search link not found.')

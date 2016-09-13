@@ -25,11 +25,14 @@ class Crawler:
         self.keys = Keys
 
     def run(self):
-        self.login()
-        self.navigate()
-        self.crawl()
-        self.take_screen_shot()
-        self.driver.close()
+        try:
+            self.login()
+            self.navigate()
+            self.crawl()
+            self.driver.close()
+        except Exception as e:
+            self.take_screen_shot()
+            raise e
 
     def login(self):
         pass
@@ -67,4 +70,4 @@ class Crawler:
             raise TimeoutException('Could not find iFrame: ' + name)
 
     def take_screen_shot(self, name='screenshot'):
-        self.driver.save_screenshot('./{}/{}.png'.format(self.config.name.lower(), name))
+        self.driver.save_screenshot('./{}.png'.format(name))
