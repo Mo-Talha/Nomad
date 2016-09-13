@@ -1,6 +1,6 @@
-import data.crawler.crawler
-import data.crawler.config.jobmine as config
-import util
+import data.crawler.crawler as crawler
+import shared.jobmine as config
+import shared.jobmine_data as data
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -8,9 +8,9 @@ from selenium.common.exceptions import TimeoutException
 from datetime import datetime
 
 
-class JobmineCrawler(data.crawler.crawler.Crawler):
+class JobmineCrawler(crawler.Crawler):
     def __init__(self):
-        data.crawler.crawler.Crawler.__init__(self, config)
+        crawler.Crawler.__init__(self, config)
 
     def login(self):
         self.driver.get(config.url)
@@ -43,6 +43,12 @@ class JobmineCrawler(data.crawler.crawler.Crawler):
     def set_search_params(self):
 
         try:
+
+            # Wait for iFrame to load (issue in PhantomJS)
+            WebDriverWait(self.driver, 10).until(
+                EC.presence_of_element_located((By.ID, 'ptifrmtgtframe'))
+            )
+
             # Switch to job search iFrame and wait 10 seconds for search parameters to appear
             self.driver.switch_to.frame(self.driver.find_element_by_id('ptifrmtgtframe'))
 
@@ -82,11 +88,11 @@ class JobmineCrawler(data.crawler.crawler.Crawler):
             now = datetime.now()
 
             # Get current term
-            term = self._get_term(now.month)
+            term = data.get_term(now.month)
 
             coop_term_ele = self.driver.find_element_by_id('UW_CO_JOBSRCH_UW_CO_WT_SESSION')
 
-            coop_term_ele.send_keys(util.term_data[now.year][term])
+            coop_term_ele.send_keys(data.term_data[now.year][term])
 
             coop_discipline_menu_1 = self.driver.find_element_by_id('UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
             coop_discipline_menu_2 = self.driver.find_element_by_id('UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
@@ -139,25 +145,40 @@ class JobmineCrawler(data.crawler.crawler.Crawler):
                     self.logger.error('Job search results did not not load.')
                     raise TimeoutException('Job search results did not not load')
 
-                # From 1 to total_results
-                total_results = self.driver.find_element_by_class_name('PSGRIDCOUNTER').text
+                # From 1 to and including total_results
+                total_results = int(self.driver.find_element_by_class_name('PSGRIDCOUNTER').text.split()[2])
 
-                print total_results
+                # Iterate through all jobs in current page
+                for index in range(0, total_results):
 
-                break
+                    employer_name = self.driver.find_element_by_id('UW_CO_JOBRES_VW_UW_CO_PARENT_NAME${}'.format(index)).text
 
-    @staticmethod
-    def _get_term(month):
-        # Fall = September - December, Winter = January - April, Spring = May - August
-        term = ''
-        if 1 <= month <= 4:
-            term = 'Winter'
-        elif 5 <= month <= 8:
-            term = 'Spring'
-        elif 9 <= month <= 12:
-            term = 'Fall'
+                    location = self.driver.find_element_by_id('UW_CO_JOBRES_VW_UW_CO_WORK_LOCATN${}'.format(index)).text
 
-        return term
+                    openings = self.driver.find_element_by_id('UW_CO_JOBRES_VW_UW_CO_OPENGS${}'.format(index)).text
+
+                    applicants = self.driver.find_element_by_id('UW_CO_JOBAPP_CT_UW_CO_MAX_RESUMES${}'.format(index)).text
+
+                    self.driver.find_element_by_id('UW_CO_JOBTITLE_HL${}'.format(index)).click()
+
+                    # Wait for new window to open containing job information
+                    WebDriverWait(self.driver, 10).until(lambda d: len(d.window_handles) == 2)
+
+                    self.driver.switch_to.window(self.driver.window_handles[1])
+
+                    # Wait for iFrame to load (issue in PhantomJS)
+                    WebDriverWait(self.driver, 10).until(
+                        EC.presence_of_element_located((By.ID, 'ptifrmtgtframe'))
+                    )
+
+                    # Switch to job search iFrame and wait 10 seconds for search parameters to appear
+                    self.driver.switch_to.frame(self.driver.find_element_by_id('ptifrmtgtframe'))
+
+                    summary = self.driver.find_element_by_id('UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
+
+                    print employer_name, location, openings, applicants, summary
+
+                    break
 
 if __name__ == '__main__':
     jobmine_crawler = JobmineCrawler()
