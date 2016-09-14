@@ -2,7 +2,6 @@ import data.crawler.crawler as crawler
 import shared.jobmine as config
 import shared.jobmine_data as data
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 from datetime import datetime
@@ -21,6 +20,12 @@ class JobmineCrawler(crawler.Crawler):
 
     def navigate(self):
         try:
+            # Workaround for PhantomJS's incorrect xpath
+            self.driver.get('https://jobmine.ccol.uwaterloo.ca/psp/SS/EMPLOYEE/WORK/c/UW_CO_STUDENTS.UW_CO_JOBSRCH.GBL'
+                            '?pslnkid=UW_CO_JOBSRCH_LINK&FolderPath=PORTAL_ROOT_OBJECT.UW_CO_JOBSRCH_LINK&IsFolder=fal'
+                            'se&IgnoreParamTempl=FolderPath%2cIsFolder')
+
+            '''
             job_search_ele_xpath = "(//li[@id='crefli_UW_CO_JOBSRCH_LINK']/a[1])[2]"
 
             # Wait for 10 seconds job search element to appear
@@ -29,6 +34,7 @@ class JobmineCrawler(crawler.Crawler):
             self.actions.move_to_element(self.driver.find_element_by_xpath(
                 job_search_ele_xpath
             )).click().perform()
+            '''
 
         except TimeoutException:
             self.logger.error('Job search link not found.')
@@ -36,7 +42,101 @@ class JobmineCrawler(crawler.Crawler):
 
     def crawl(self):
         self.set_search_params()
-        pass
+
+        coop_discipline_menu_1 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
+        coop_discipline_menu_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
+        coop_discipline_menu_3 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
+
+        all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')
+
+        disciplines_len = len(all_disciplines)
+
+        search_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCHDW_UW_CO_DW_SRCHBTN')
+
+        # Iterate through all disciplines
+        for i, option in enumerate(all_disciplines):
+
+            # Skip empty discipline
+            if not option.get_attribute("value"):
+                continue
+
+            # Select discipline 1
+            option.click()
+
+            # If next discipline exists, set it to discipline 2
+            if 0 <= i + 1 < disciplines_len:
+                coop_discipline_menu_2.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP2']"
+                                                              "/option[@value='{}']"
+                                                    .format(all_disciplines[i + 1]
+                                                            .get_attribute("value"))).click()
+            else:
+                coop_discipline_menu_2.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP2']"
+                                                              "/option[@value='']").click()
+            # If next discipline exists, set it to discipline 3
+            if 0 <= i + 2 < disciplines_len:
+                coop_discipline_menu_3.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP3']"
+                                                              "/option[@value='{}']"
+                                                    .format(all_disciplines[i + 2]
+                                                            .get_attribute("value"))).click()
+            else:
+                coop_discipline_menu_3.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP3']"
+                                                              "/option[@value='']").click()
+
+            # Initiate search
+            search_ele.click()
+
+            # Wait for 15 seconds for results to appear
+            try:
+                self._wait_till_find_element_by(By.ID, 'WAIT_win0', 15)
+
+            except TimeoutException:
+                self.logger.error('Job search results did not not load.')
+                raise TimeoutException('Job search results did not not load')
+
+            # From 1 to and including total_results
+            total_results = int(self.driver.find_element_by_class_name('PSGRIDCOUNTER').text.split()[2])
+
+            # Iterate through all jobs in current page
+            for index in range(0, total_results):
+                employer_name = self._wait_till_find_element_by \
+                    (By.ID, 'UW_CO_JOBRES_VW_UW_CO_PARENT_NAME${}'.format(index)).text
+
+                job_title = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBTITLE_HL${}'.format(index)).text
+
+                location = self._wait_till_find_element_by \
+                    (By.ID, 'UW_CO_JOBRES_VW_UW_CO_WORK_LOCATN${}'.format(index)).text
+
+                openings = self._wait_till_find_element_by \
+                    (By.ID, 'UW_CO_JOBRES_VW_UW_CO_OPENGS${}'.format(index)).text
+
+                applicants = self._wait_till_find_element_by \
+                    (By.ID, 'UW_CO_JOBAPP_CT_UW_CO_MAX_RESUMES${}'.format(index)).text
+
+                self._wait_till_find_element_by(By.ID, 'UW_CO_JOBTITLE_HL${}'.format(index)).click()
+
+                # Wait for new window to open containing job information
+                WebDriverWait(self.driver, 10).until(lambda d: len(d.window_handles) == 2)
+
+                # Switch to new window
+                self.driver.switch_to.window(self.driver.window_handles[1])
+
+                self._switch_to_iframe('ptifrmtgtframe')
+
+                summary = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
+
+                self.driver.close()
+
+                # Wait for job window to close
+                WebDriverWait(self.driver, 10).until(lambda d: len(d.window_handles) == 1)
+
+                # Switch back to job search page
+                self.driver.switch_to.window(self.driver.window_handles[0])
+
+                self._switch_to_iframe('ptifrmtgtframe')
+
+                print employer_name, job_title, location, openings, applicants, summary
+
+            break
 
     def set_search_params(self):
         try:
@@ -75,105 +175,13 @@ class JobmineCrawler(crawler.Crawler):
 
             now = datetime.now()
 
-            # Get current term
+            # TODO: Set correct term
             term = data.get_term(now.month)
 
             coop_term_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_WT_SESSION')
 
             coop_term_ele.send_keys(data.term_data[now.year][term])
 
-            coop_discipline_menu_1 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
-            coop_discipline_menu_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
-            coop_discipline_menu_3 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
-
-            all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')
-
-            disciplines_len = len(all_disciplines)
-
-            search_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCHDW_UW_CO_DW_SRCHBTN')
-
-            # Iterate through all disciplines
-            for i, option in enumerate(all_disciplines):
-
-                # Skip empty discipline
-                if not option.get_attribute("value"):
-                    continue
-
-                # Select discipline 1
-                option.click()
-
-                # If next discipline exists, set it to discipline 2
-                if 0 <= i + 1 < disciplines_len:
-                    coop_discipline_menu_2.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP2']"
-                                                                  "/option[@value='{}']"
-                                                                  .format(all_disciplines[i + 1]
-                                                                          .get_attribute("value"))).click()
-                else:
-                    coop_discipline_menu_2.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP2']"
-                                                                  "/option[@value='']").click()
-                # If next discipline exists, set it to discipline 3
-                if 0 <= i + 2 < disciplines_len:
-                    coop_discipline_menu_3.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP3']"
-                                                                  "/option[@value='{}']"
-                                                                  .format(all_disciplines[i + 2]
-                                                                          .get_attribute("value"))).click()
-                else:
-                    coop_discipline_menu_3.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP3']"
-                                                                  "/option[@value='']").click()
-
-                # Initiate search
-                search_ele.click()
-
-                # Wait for 15 seconds for results to appear
-                try:
-                    self._wait_till_find_element_by(By.ID, 'WAIT_win0', 15)
-
-                except TimeoutException:
-                    self.logger.error('Job search results did not not load.')
-                    raise TimeoutException('Job search results did not not load')
-
-                # From 1 to and including total_results
-                total_results = int(self.driver.find_element_by_class_name('PSGRIDCOUNTER').text.split()[2])
-
-                # Iterate through all jobs in current page
-                for index in range(0, total_results):
-
-                    employer_name = self._wait_till_find_element_by\
-                        (By.ID, 'UW_CO_JOBRES_VW_UW_CO_PARENT_NAME${}'.format(index)).text
-
-                    job_title = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBTITLE_HL${}'.format(index)).text
-
-                    location = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBRES_VW_UW_CO_WORK_LOCATN${}'.format(index)).text
-
-                    openings = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBRES_VW_UW_CO_OPENGS${}'.format(index)).text
-
-                    applicants = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBAPP_CT_UW_CO_MAX_RESUMES${}'.format(index)).text
-
-                    self._wait_till_find_element_by(By.ID, 'UW_CO_JOBTITLE_HL${}'.format(index)).click()
-
-                    # Wait for new window to open containing job information
-                    WebDriverWait(self.driver, 10).until(lambda d: len(d.window_handles) == 2)
-
-                    # Switch to new window
-                    self.driver.switch_to.window(self.driver.window_handles[1])
-
-                    self._switch_to_iframe('ptifrmtgtframe')
-
-                    summary = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
-
-                    self.driver.close()
-
-                    # Wait for job window to close
-                    WebDriverWait(self.driver, 10).until(lambda d: len(d.window_handles) == 1)
-
-                    # Switch back to job search page
-                    self.driver.switch_to.window(self.driver.window_handles[0])
-
-                    self._switch_to_iframe('ptifrmtgtframe')
-
-                    print employer_name, job_title, location, openings, applicants, summary
-
-                break
 
 if __name__ == '__main__':
     jobmine_crawler = JobmineCrawler()
