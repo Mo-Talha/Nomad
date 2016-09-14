@@ -2,4 +2,3 @@ selenium==2.53.6
 pymongo==3.3.0
 mongoengine==0.10.6
 lxml==3.6.4
-cryptography==1.5

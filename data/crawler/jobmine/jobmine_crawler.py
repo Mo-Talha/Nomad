@@ -1,7 +1,7 @@
 import data.crawler.crawler as crawler
 import shared.jobmine as config
-import shared.jobmine_data as data
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 from datetime import datetime
@@ -20,21 +20,14 @@ class JobmineCrawler(crawler.Crawler):
 
     def navigate(self):
         try:
-            # Workaround for PhantomJS's incorrect xpath
-            self.driver.get('https://jobmine.ccol.uwaterloo.ca/psp/SS/EMPLOYEE/WORK/c/UW_CO_STUDENTS.UW_CO_JOBSRCH.GBL'
-                            '?pslnkid=UW_CO_JOBSRCH_LINK&FolderPath=PORTAL_ROOT_OBJECT.UW_CO_JOBSRCH_LINK&IsFolder=fal'
-                            'se&IgnoreParamTempl=FolderPath%2cIsFolder')
-
-            '''
             job_search_ele_xpath = "(//li[@id='crefli_UW_CO_JOBSRCH_LINK']/a[1])[2]"
 
             # Wait for 10 seconds job search element to appear
-            self._wait_till_find_element_by(By.XPATH, job_search_ele_xpath)
+            WebDriverWait(self.driver, 10).until(
+                EC.presence_of_element_located((By.XPATH, job_search_ele_xpath))
+            )
 
-            self.actions.move_to_element(self.driver.find_element_by_xpath(
-                job_search_ele_xpath
-            )).click().perform()
-            '''
+            self.driver.find_element_by_xpath(job_search_ele_xpath).click()
 
         except TimeoutException:
             self.logger.error('Job search link not found.')
@@ -51,10 +44,19 @@ class JobmineCrawler(crawler.Crawler):
 
         disciplines_len = len(all_disciplines)
 
-        search_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCHDW_UW_CO_DW_SRCHBTN')
-
         # Iterate through all disciplines
         for i, option in enumerate(all_disciplines):
+
+            if i is not 0:
+                # Each time we iterate through we click and/or interact with the DOM thus changing it. This
+                # means that our old references to elements are stale and need to be reloaded.
+                coop_discipline_menu_1 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
+                coop_discipline_menu_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
+                coop_discipline_menu_3 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
+
+                all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')
+
+                option = all_disciplines[i]
 
             # Skip empty discipline
             if not option.get_attribute("value"):
@@ -66,7 +68,7 @@ class JobmineCrawler(crawler.Crawler):
             # If next discipline exists, set it to discipline 2
             if 0 <= i + 1 < disciplines_len:
                 coop_discipline_menu_2.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP2']"
-                                                              "/option[@value='{}']"
+                                                              "/option[@value='41']"
                                                     .format(all_disciplines[i + 1]
                                                             .get_attribute("value"))).click()
             else:
@@ -82,13 +84,16 @@ class JobmineCrawler(crawler.Crawler):
                 coop_discipline_menu_3.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP3']"
                                                               "/option[@value='']").click()
 
+            search_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCHDW_UW_CO_DW_SRCHBTN')
+
             # Initiate search
             search_ele.click()
 
             # Wait for 15 seconds for results to appear
             try:
-                self._wait_till_find_element_by(By.ID, 'WAIT_win0', 15)
-
+                WebDriverWait(self.driver, 15).until_not(
+                    EC.element_to_be_clickable((By.ID, 'WAIT_win0'))
+                )
             except TimeoutException:
                 self.logger.error('Job search results did not not load.')
                 raise TimeoutException('Job search results did not not load')
@@ -97,7 +102,7 @@ class JobmineCrawler(crawler.Crawler):
             total_results = int(self.driver.find_element_by_class_name('PSGRIDCOUNTER').text.split()[2])
 
             # Iterate through all jobs in current page
-            for index in range(0, total_results):
+            for index in range(0, total_results - 1):
                 employer_name = self._wait_till_find_element_by \
                     (By.ID, 'UW_CO_JOBRES_VW_UW_CO_PARENT_NAME${}'.format(index)).text
 
@@ -112,7 +117,7 @@ class JobmineCrawler(crawler.Crawler):
                 applicants = self._wait_till_find_element_by \
                     (By.ID, 'UW_CO_JOBAPP_CT_UW_CO_MAX_RESUMES${}'.format(index)).text
 
-                self._wait_till_find_element_by(By.ID, 'UW_CO_JOBTITLE_HL${}'.format(index)).click()
+                self.driver.execute_script("javascript:submitAction_win0(document.win0,'UW_CO_JOBTITLE_HL${}');".format(index))
 
                 # Wait for new window to open containing job information
                 WebDriverWait(self.driver, 10).until(lambda d: len(d.window_handles) == 2)
@@ -135,8 +140,6 @@ class JobmineCrawler(crawler.Crawler):
                 self._switch_to_iframe('ptifrmtgtframe')
 
                 print employer_name, job_title, location, openings, applicants, summary
-
-            break
 
     def set_search_params(self):
         try:
@@ -175,12 +178,37 @@ class JobmineCrawler(crawler.Crawler):
 
             now = datetime.now()
 
-            # TODO: Set correct term
-            term = data.get_term(now.month)
+            term = self.get_coop_term(now)
+
+            # Get next term since ach term is looking for a co-op position for next term
+            if 1 <= now.month <= 4:
+                term += 4
+            elif 5 <= now.month <= 8:
+                term += 4
+            elif 9 <= now.month <= 12:
+                term += 2
 
             coop_term_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_WT_SESSION')
+            coop_term_ele.clear()
 
-            coop_term_ele.send_keys(data.term_data[now.year][term])
+            coop_term_ele.send_keys(term)
+
+    @staticmethod
+    def get_coop_term(date):
+        # Reference starts at Fall 2016
+        term = 1169
+
+        # Add 2 each year.
+        for i in range(2016, date.year):
+            term += 2
+
+            # Add 4 each term.
+            if 5 <= date.month <= 8:
+                term += 4
+            elif 9 <= date.month <= 12:
+                term += 8
+
+        return term
 
 
 if __name__ == '__main__':
