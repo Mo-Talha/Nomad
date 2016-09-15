@@ -68,7 +68,7 @@ class JobmineCrawler(crawler.Crawler):
             # If next discipline exists, set it to discipline 2
             if 0 <= i + 1 < disciplines_len:
                 coop_discipline_menu_2.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP2']"
-                                                              "/option[@value='41']"
+                                                              "/option[@value='41']" # TODO: remove 41 and replace with {}
                                                     .format(all_disciplines[i + 1]
                                                             .get_attribute("value"))).click()
             else:
@@ -172,7 +172,7 @@ class JobmineCrawler(crawler.Crawler):
             coop_job_status_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_JS_JOBSTATUS')
 
             for option in coop_job_status_ele.find_elements_by_tag_name('option'):
-                if option.text == 'Posted':
+                if option.text == 'Approved': # TODO: change to Posted
                     option.click()
                     break
 
@@ -180,7 +180,7 @@ class JobmineCrawler(crawler.Crawler):
 
             term = self.get_coop_term(now)
 
-            # Get next term since ach term is looking for a co-op position for next term
+            # Get next term since each term is looking for a co-op position for next term
             if 1 <= now.month <= 4:
                 term += 4
             elif 5 <= now.month <= 8:

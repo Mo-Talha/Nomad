@@ -20,7 +20,7 @@ class Crawler:
                             datefmt='%m/%d/%Y %I:%M:%S %p', filename=self._log_name)
         self.logger.setLevel(config.loggerStatus)
 
-        self.driver = webdriver.Firefox()#PhantomJS(service_args=['--web-security=no', '--webdriver-logfile=' + self._log_name])
+        self.driver = webdriver.PhantomJS(service_args=['--web-security=no', '--webdriver-logfile=' + self._log_name])
         self.actions = ActionChains(self.driver)
         self.keys = Keys
 
