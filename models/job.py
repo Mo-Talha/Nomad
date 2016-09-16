@@ -26,6 +26,9 @@ class Job(Document):
     # Number of remaining job openings
     remaining = IntField(required=True, max_value=openings, min_value=0, default=openings)
 
+    # Programs that the job is targeted for
+    programs = ListField(StringField(), default=[])
+
     # Comments about job (either crawled from ratemycoopjob or added by UW students)
     comments = EmbeddedDocumentListField(comment, default=[])
 

@@ -1,5 +1,6 @@
 import data.crawler.crawler as crawler
 import shared.jobmine as config
+import shared.constants as constants
 
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -10,8 +11,8 @@ from datetime import datetime
 
 
 class JobmineCrawler(crawler.Crawler):
-    def __init__(self):
-        crawler.Crawler.__init__(self, config)
+    def __init__(self, importer):
+        crawler.Crawler.__init__(self, config, importer)
 
     def login(self):
         self.driver.get(config.url)
@@ -141,7 +142,8 @@ class JobmineCrawler(crawler.Crawler):
 
                 self._switch_to_iframe('ptifrmtgtframe')
 
-                print employer_name, job_title, location, openings, applicants, summary
+                print employer_name, job_title, location, openings, applicants, summary, \
+                    self.get_term(datetime.now().month)
 
     def set_search_params(self):
         try:
@@ -212,7 +214,20 @@ class JobmineCrawler(crawler.Crawler):
 
         return term
 
+    @staticmethod
+    def get_term(month):
+        # Fall = September - December, Winter = January - April, Spring = May - August
+        term = None
+        if 1 <= month <= 4:
+            term = constants.WINTER_TERM
+        elif 5 <= month <= 8:
+            term = constants.SPRING_TERM
+        elif 9 <= month <= 12:
+            term = constants.FALL_TERM
+
+        return term
+
 
 if __name__ == '__main__':
-    jobmine_crawler = JobmineCrawler()
+    jobmine_crawler = JobmineCrawler(None)
     jobmine_crawler.run()

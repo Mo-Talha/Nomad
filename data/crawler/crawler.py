@@ -12,8 +12,9 @@ import logging
 
 
 class Crawler:
-    def __init__(self, config):
+    def __init__(self, config, importer):
         self.config = config
+        self.importer = importer
 
         self._log_name = './logs/{}.log'.format(datetime.now().strftime('%Y.%m.%d.%H.%M.%S'))
 
