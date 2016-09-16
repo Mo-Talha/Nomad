@@ -1,9 +1,11 @@
 import data.crawler.crawler as crawler
 import shared.jobmine as config
+
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
+
 from datetime import datetime
 
 
