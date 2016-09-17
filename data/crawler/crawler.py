@@ -1,3 +1,9 @@
+import os
+import traceback
+import logging
+
+from datetime import datetime
+
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -6,17 +12,16 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 
-from datetime import datetime
-
-import logging
-
 
 class Crawler:
     def __init__(self, config, importer):
         self.config = config
         self.importer = importer
 
-        self._log_name = './logs/{}.log'.format(datetime.now().strftime('%Y.%m.%d.%H.%M.%S'))
+        self._base_path = '{}/{}/'.format(os.path.dirname(os.path.abspath(__file__)),
+                                          config.name.lower())
+
+        self._log_name = '{}/logs/{}.log'.format(self._base_path, datetime.now().strftime('%Y.%m.%d.%H.%M.%S'))
 
         self.logger = logging.getLogger('crawler')
         logging.basicConfig(format='%(asctime)s [' + config.name + '] %(message)s',
@@ -35,6 +40,7 @@ class Crawler:
             self.driver.close()
         except Exception as e:
             self.take_screen_shot()
+            print traceback.format_exc()
             raise e
 
     def login(self):
@@ -73,4 +79,4 @@ class Crawler:
             raise TimeoutException('Could not find iFrame: ' + name)
 
     def take_screen_shot(self, name='screenshot'):
-        self.driver.save_screenshot('./{}.png'.format(name))
+        self.driver.save_screenshot('{}/{}.png'.format(self._base_path, name))

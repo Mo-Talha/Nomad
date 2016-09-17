@@ -1,13 +1,16 @@
 from mongoengine import *
 
+from models.employer import Employer
+from models.job import Job
+
 import shared.constants as constants
 
 
-def import_job(employer, job_title, year, term, location, openings, remaining, summary):
+def import_job(employer_name, job_title, summary, year, term, location, openings, remaining=None):
     """Import job from Jobmine.
 
     Keyword arguments:
-    employer -- Employer name
+    employer_name -- Employer name
     job_title -- Title of job
     year -- Year the job was advertised
     term -- Term job was advertised [Fall -> 1, Winter -> 2, Spring -> 3]
@@ -17,32 +20,27 @@ def import_job(employer, job_title, year, term, location, openings, remaining, s
     summary -- Job summary
     """
 
-    if not employer:
-        raise AttributeError("Employer attribute cannot be empty")
+    # Convert to ASCII (ignore Unicode) and int
+    employer_name = employer_name.encode('ascii', 'ignore')
+    job_title = job_title.encode('ascii', 'ignore')
+    summary = summary.encode('ascii', 'ignore')
+    year = int(year)
+    term = int(term)
+    location = location.encode('ascii', 'ignore')
+    openings = int(openings)
 
-    if not job_title:
-        raise AttributeError("Job title attribute cannot be empty")
+    if remaining is not None:
+        remaining = int(remaining)
 
-    if not year:
-        raise AttributeError("Year attribute cannot be empty")
+    if not Employer.employer_exists(employer_name):
+        employer = Employer(name=employer_name)
 
-    if term not in [constants.FALL_TERM, constants.WINTER_TERM, constants.SPRING_TERM]:
-        raise AttributeError("Term attribute: {} is invalid".format(term))
+        job = Job(title=job_title.lower(), summary=summary, year=year, term=term, location=location,
+                  openings=openings, remaining=remaining)
 
-    if not location:
-        raise AttributeError("Location attribute cannot be empty")
+        employer.jobs.append(job)
+        job.save()
 
-    if not openings >= 1:
-        raise AttributeError("Openings attribute: {} must be greater than 1".format(openings))
+        employer.save()
 
-    if not remaining >= 1:
-        raise AttributeError("Remaining attribute: {} must be greater than 1".format(remaining))
 
-    if remaining > openings:
-        raise AttributeError("Remaining attribute: {} must less than or equal to openings: {}"
-                             .format(remaining, openings))
-
-    if not summary:
-        raise AttributeError("Summary attribute cannot be empty")
-
-    

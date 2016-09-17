@@ -120,7 +120,8 @@ class JobmineCrawler(crawler.Crawler):
                 applicants = self._wait_till_find_element_by \
                     (By.ID, 'UW_CO_JOBAPP_CT_UW_CO_MAX_RESUMES${}'.format(index)).text
 
-                self.driver.execute_script("javascript:submitAction_win0(document.win0,'UW_CO_JOBTITLE_HL${}');".format(index))
+                self.driver.execute_script("javascript:submitAction_win0(document.win0,'UW_CO_JOBTITLE_HL${}');"
+                                           .format(index))
 
                 # Wait for new window to open containing job information
                 WebDriverWait(self.driver, 10).until(lambda d: len(d.window_handles) == 2)
@@ -142,8 +143,14 @@ class JobmineCrawler(crawler.Crawler):
 
                 self._switch_to_iframe('ptifrmtgtframe')
 
-                print employer_name, job_title, location, openings, applicants, summary, \
-                    self.get_term(datetime.now().month)
+                now = datetime.now()
+
+                self.importer.import_job(employer_name, job_title, summary, now.year, self.get_term(now.month),
+                                         location, openings)
+
+                break
+
+            break
 
     def set_search_params(self):
         try:
