@@ -1,7 +1,6 @@
-# Jobmine constants
-FALL_TERM = 1
-WINTER_TERM = 2
-SPRING_TERM = 3
+"""
+This module is used to manage UW programs.
+"""
 
 programs = [
     'AHS-(unspecified)',

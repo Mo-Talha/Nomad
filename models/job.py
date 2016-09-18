@@ -1,8 +1,7 @@
 from mongoengine import *
 
 import comment
-
-import shared.constants as constants
+import term
 
 
 class Job(Document):
@@ -22,7 +21,7 @@ class Job(Document):
     year = IntField(required=True)
 
     # Term job was advertised
-    term = IntField(choices=(constants.FALL_TERM, constants.WINTER_TERM, constants.WINTER_TERM))
+    term = IntField(choices=(term.FALL_TERM, term.WINTER_TERM, term.WINTER_TERM))
 
     # Job location
     location = StringField(required=True)
@@ -32,6 +31,9 @@ class Job(Document):
 
     # Number of remaining job openings
     remaining = IntField(required=True, max_value=openings, min_value=0)
+
+    # History of number of applicants that applied to job
+    applicants = ListField(IntField(), required=True, min_value=0)
 
     # Programs that the job is targeted for
     #programs = ListField(StringField(), choices=constants.programs, default=[])
@@ -48,5 +50,7 @@ class Job(Document):
 
         return super(Job, self).save(*args, **kwargs)
 
-
+    @classmethod
+    def job_exists(cls, job_title):
+        return True if cls.objects(name=job_title.lower()).count() > 0 else False
 

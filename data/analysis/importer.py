@@ -3,10 +3,8 @@ from mongoengine import *
 from models.employer import Employer
 from models.job import Job
 
-import shared.constants as constants
 
-
-def import_job(employer_name, job_title, summary, year, term, location, openings, remaining=None):
+def import_job(employer_name, job_title, summary, year, term, location, openings, remaining=None, applicants=0):
     """Import job from Jobmine.
 
     Keyword arguments:
@@ -28,19 +26,69 @@ def import_job(employer_name, job_title, summary, year, term, location, openings
     term = int(term)
     location = location.encode('ascii', 'ignore')
     openings = int(openings)
+    applicants = int(applicants)
 
     if remaining is not None:
         remaining = int(remaining)
 
+    # If employer does not exist, create it
     if not Employer.employer_exists(employer_name):
         employer = Employer(name=employer_name)
 
-        job = Job(title=job_title.lower(), summary=summary, year=year, term=term, location=location,
-                  openings=openings, remaining=remaining)
+        job = Job(title=job_title.lower(), summary=summary, year=year, term=term, location=location.lower(),
+                  openings=openings, remaining=remaining, applicants=[applicants])
 
         employer.jobs.append(job)
-        job.save()
-
         employer.save()
+
+    # Employer already exists
+    else:
+        employer = Employer.objects(name=employer_name).no_dereference().first()
+
+        # If job does not exist, create it
+        if not Job.job_exists(job_title):
+            job = Job(title=job_title.lower(), summary=summary, year=year, term=term, location=location.lower(),
+                      openings=openings, remaining=remaining, applicants=[applicants])
+
+            employer.jobs.append(job)
+            employer.save()
+
+        # Job already exists
+        else:
+            job = Job.objects(_id__in=employer.jobs, title=job_title).first()
+
+            # Check if job is 'same'
+
+#            if summary.strip() == job.summary.strip() :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -1,6 +1,7 @@
 import data.crawler.crawler as crawler
 import shared.jobmine as config
-import shared.constants as constants
+
+import models.term as term
 
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -145,8 +146,8 @@ class JobmineCrawler(crawler.Crawler):
 
                 now = datetime.now()
 
-                self.importer.import_job(employer_name, job_title, summary, now.year, self.get_term(now.month),
-                                         location, openings)
+                self.importer.import_job(employer_name, job_title, summary, now.year, term.get_term(now.month),
+                                         location, openings, applicants)
 
                 break
 
@@ -189,50 +190,20 @@ class JobmineCrawler(crawler.Crawler):
 
             now = datetime.now()
 
-            term = self.get_coop_term(now)
+            coop_term = term.get_coop_term(now)
 
             # Get next term since each term is looking for a co-op position for next term
             if 1 <= now.month <= 4:
-                term += 4
+                coop_term += 4
             elif 5 <= now.month <= 8:
-                term += 4
+                coop_term += 4
             elif 9 <= now.month <= 12:
-                term += 2
+                coop_term += 2
 
             coop_term_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_WT_SESSION')
             coop_term_ele.clear()
 
-            coop_term_ele.send_keys(term)
-
-    @staticmethod
-    def get_coop_term(date):
-        # Reference starts at Fall 2016
-        term = 1169
-
-        # Add 2 each year.
-        for i in range(2016, date.year):
-            term += 2
-
-            # Add 4 each term.
-            if 5 <= date.month <= 8:
-                term += 4
-            elif 9 <= date.month <= 12:
-                term += 8
-
-        return term
-
-    @staticmethod
-    def get_term(month):
-        # Fall = September - December, Winter = January - April, Spring = May - August
-        term = None
-        if 1 <= month <= 4:
-            term = constants.WINTER_TERM
-        elif 5 <= month <= 8:
-            term = constants.SPRING_TERM
-        elif 9 <= month <= 12:
-            term = constants.FALL_TERM
-
-        return term
+            coop_term_ele.send_keys(coop_term)
 
 
 if __name__ == '__main__':

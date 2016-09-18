@@ -93,5 +93,4 @@ ENV/
 .idea
 
 #Local Configurations
-*.log
 jobmine.py
