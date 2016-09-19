@@ -9,21 +9,19 @@ def filter_summary(summary):
     location_info_patt = re.compile('(\*\*\*\sPLEASE NOTE:[\s\S]*?\*\*\*)')
     filtered_summary = re.sub(location_info_patt, '', summary)
 
-    # Remove non-characters
-    filtered_summary = (re.sub('[^a-zA-Z\d\s:http]', '', filtered_summary)).strip()
+    for text in filters.remove:
+        text_patt_str = ['(']
+        filtered_text = text.replace('.', '\.').replace('*', '\*').replace('(', '\(').replace(')', '\)')
 
-    #auth_patt = ['([*|\n]*?']
+        for word in filtered_text.split():
+            text_patt_str.append(word + r'[\s|\n]*?')
 
-    #for word in filters.employment_authorization.split():
-    #    auth_patt.append(word + '[*|\n]*?]')
+        text_patt_str.append(')')
+        text_patt = ''.join(text_patt_str)
 
-    #print ''.join(auth_patt)
+        filtered_summary = re.sub(re.compile(text_patt), '', filtered_summary)
 
-    #auth_patt = re.compile('([*|\n]*?important note about employment authorizations:[\s\S]*?\*+)')
-
-    # Jobs outside America (Canada & US) have a note about international employment
-    # Note: This regex assumes note is written at end of job. It will ignore everything after note.
-    #outside_america_patt = re.compile('([*|\n]*?IMPORTANT NOTE FROM CECA RE: EMPLOYMENT OUTSIDE Canada and USA [\s\S]*)')
+    filtered_summary = (re.sub('[^a-zA-Z\d\s]', '', filtered_summary)).strip()
 
     print filtered_summary
 
