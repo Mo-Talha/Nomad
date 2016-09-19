@@ -21,7 +21,7 @@ def filter_summary(summary):
 
         filtered_summary = re.sub(re.compile(text_patt), '', filtered_summary)
 
-    filtered_summary = (re.sub('[^a-zA-Z\d\s]', '', filtered_summary)).strip()
+    filtered_summary = (re.sub('[*]', '', filtered_summary)).strip()
 
     print filtered_summary
 
