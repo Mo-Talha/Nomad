@@ -2,6 +2,8 @@ from mongoengine import *
 
 import comment
 import term
+import applicant
+import rating
 
 
 class Job(Document):
@@ -32,8 +34,11 @@ class Job(Document):
     # Number of remaining job openings
     remaining = IntField(required=True, max_value=openings, min_value=0)
 
+    # Percentage of how many positions hires vs. how many advertised
+    hire_rate = EmbeddedDocumentField(rating.AggregateRating, default=rating.AggregateRating())
+
     # History of number of applicants that applied to job
-    applicants = ListField(IntField(), required=True, min_value=0)
+    applicants = EmbeddedDocumentListField(applicant.Applicant, default=[])
 
     # Programs that the job is targeted for
     #programs = ListField(StringField(), choices=constants.programs, default=[])

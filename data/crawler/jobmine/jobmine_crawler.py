@@ -48,7 +48,7 @@ class JobmineCrawler(crawler.Crawler):
 
         disciplines_len = len(all_disciplines)
 
-        # Iterate through all disciplines
+        # Iterate through all disciplines # TODO: Iterate 3 disciplines instead of 1
         for i, option in enumerate(all_disciplines):
 
             if i is not 0:
@@ -146,8 +146,9 @@ class JobmineCrawler(crawler.Crawler):
 
                 now = datetime.now()
 
-                self.importer.import_job(employer_name, job_title, summary, now.year, term.get_term(now.month),
-                                         location, openings, applicants)
+                self.importer.import_job(employer_name=employer_name, job_title=job_title, year=now.year,
+                                         term=term.get_term(now.month), location=location, openings=openings,
+                                         applicants=applicants, summary=summary)
 
                 break
 

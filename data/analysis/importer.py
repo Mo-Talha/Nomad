@@ -1,10 +1,16 @@
 from mongoengine import *
 
+from datetime import datetime
+
 from models.employer import Employer
 from models.job import Job
+from models.applicant import Applicant
+
+import engine
+import filters
 
 
-def import_job(employer_name, job_title, summary, year, term, location, openings, remaining=None, applicants=0):
+def import_job(**kwargs):
     """Import job from Jobmine.
 
     Keyword arguments:
@@ -18,25 +24,31 @@ def import_job(employer_name, job_title, summary, year, term, location, openings
     summary -- Job summary
     """
 
-    # Convert to ASCII (ignore Unicode) and int
-    employer_name = employer_name.encode('ascii', 'ignore')
-    job_title = job_title.encode('ascii', 'ignore')
-    summary = summary.encode('ascii', 'ignore')
-    year = int(year)
-    term = int(term)
-    location = location.encode('ascii', 'ignore')
-    openings = int(openings)
-    applicants = int(applicants)
+    # Convert to ASCII (ignore Unicode)
+    employer_name = kwargs['employer_name'].encode('ascii', 'ignore')
+    job_title = kwargs['job_title'].encode('ascii', 'ignore')
+    year = int(kwargs['year'])
+    term = int(kwargs['term'])
+    location = kwargs['location'].encode('ascii', 'ignore')
+    openings = int(kwargs['openings'])
+    summary = kwargs['summary']
 
-    if remaining is not None:
-        remaining = int(remaining)
+    applicants = 0
+
+    if not kwargs['applicants'].encode('ascii', 'ignore'):
+        applicants = int(kwargs['applicants'])
 
     # If employer does not exist, create it
     if not Employer.employer_exists(employer_name):
         employer = Employer(name=employer_name)
 
-        job = Job(title=job_title.lower(), summary=summary, year=year, term=term, location=location.lower(),
-                  openings=openings, remaining=remaining, applicants=[applicants])
+        applicant = Applicant(applicants=applicants, date=datetime.now())
+
+        # Assume new job so number of remaining positions is same as openings
+        job = Job(title=job_title.lower(), summary=engine.filter_summary(summary), year=year, term=term,
+                  location=location.lower(), openings=openings, remaining=openings, applicants=[applicant])
+
+        job.save()
 
         employer.jobs.append(job)
         employer.save()
@@ -47,8 +59,13 @@ def import_job(employer_name, job_title, summary, year, term, location, openings
 
         # If job does not exist, create it
         if not Job.job_exists(job_title):
-            job = Job(title=job_title.lower(), summary=summary, year=year, term=term, location=location.lower(),
-                      openings=openings, remaining=remaining, applicants=[applicants])
+            applicant = Applicant(applicants=applicants, date=datetime.now())
+
+            # Assume new job so number of remaining positions is same as openings
+            job = Job(title=job_title.lower(), summary=engine.filter_summary(summary), year=year, term=term,
+                      location=location.lower(), openings=openings, remaining=openings, applicants=[applicant])
+
+            job.save()
 
             employer.jobs.append(job)
             employer.save()
@@ -57,38 +74,6 @@ def import_job(employer_name, job_title, summary, year, term, location, openings
         else:
             job = Job.objects(_id__in=employer.jobs, title=job_title).first()
 
+            filtered_summary = engine.filter_summary(summary)
+
             # Check if job is 'same'
-
-#            if summary.strip() == job.summary.strip() :
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -94,3 +94,4 @@ ENV/
 
 #Local Configurations
 jobmine.py
+*.png
