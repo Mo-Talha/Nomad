@@ -26,7 +26,7 @@ class Job(Document):
     term = IntField(choices=(term.FALL_TERM, term.WINTER_TERM, term.WINTER_TERM))
 
     # Job location
-    location = StringField(required=True)
+    location = ListField(StringField(required=True))
 
     # Number of job openings
     openings = IntField(required=True, min_value=1)

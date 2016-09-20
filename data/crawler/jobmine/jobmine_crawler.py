@@ -146,9 +146,9 @@ class JobmineCrawler(crawler.Crawler):
 
                 now = datetime.now()
 
-                self.importer.import_job(employer_name=employer_name, job_title=job_title, year=now.year,
+                self.importer.import_job(employer_name=employer_name, job_title=job_title,
                                          term=term.get_term(now.month), location=location, openings=openings,
-                                         applicants=applicants, summary=summary)
+                                         applicants=applicants, summary=summary, date=now)
 
                 break
 

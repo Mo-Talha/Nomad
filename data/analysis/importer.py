@@ -25,13 +25,14 @@ def import_job(**kwargs):
     """
 
     # Convert to ASCII (ignore Unicode)
-    employer_name = kwargs['employer_name'].encode('ascii', 'ignore')
-    job_title = kwargs['job_title'].encode('ascii', 'ignore')
-    year = int(kwargs['year'])
+    employer_name = kwargs['employer_name'].encode('ascii', 'ignore').lower()
+    job_title = kwargs['job_title'].encode('ascii', 'ignore').lower()
     term = int(kwargs['term'])
-    location = kwargs['location'].encode('ascii', 'ignore')
+    location = kwargs['location'].encode('ascii', 'ignore').lower()
     openings = int(kwargs['openings'])
     summary = kwargs['summary']
+    date = kwargs['date']
+    year = date.year
 
     applicants = 0
 
@@ -42,11 +43,11 @@ def import_job(**kwargs):
     if not Employer.employer_exists(employer_name):
         employer = Employer(name=employer_name)
 
-        applicant = Applicant(applicants=applicants, date=datetime.now())
+        applicant = Applicant(applicants=applicants, date=date)
 
         # Assume new job so number of remaining positions is same as openings
-        job = Job(title=job_title.lower(), summary=engine.filter_summary(summary), year=year, term=term,
-                  location=location.lower(), openings=openings, remaining=openings, applicants=[applicant])
+        job = Job(title=job_title, summary=engine.filter_summary(summary), year=year, term=term,
+                  location=[location], openings=openings, remaining=openings, applicants=[applicant])
 
         job.save()
 
@@ -59,11 +60,11 @@ def import_job(**kwargs):
 
         # If job does not exist, create it
         if not Job.job_exists(job_title):
-            applicant = Applicant(applicants=applicants, date=datetime.now())
+            applicant = Applicant(applicants=applicants, date=date)
 
             # Assume new job so number of remaining positions is same as openings
-            job = Job(title=job_title.lower(), summary=engine.filter_summary(summary), year=year, term=term,
-                      location=location.lower(), openings=openings, remaining=openings, applicants=[applicant])
+            job = Job(title=job_title, summary=engine.filter_summary(summary), year=year, term=term,
+                      location=[location], openings=openings, remaining=openings, applicants=[applicant])
 
             job.save()
 
@@ -72,8 +73,16 @@ def import_job(**kwargs):
 
         # Job already exists
         else:
-            job = Job.objects(_id__in=employer.jobs, title=job_title).first()
-
+            job = Job.objects(id__in=[job.id for job in employer.jobs], title=job_title).first()
+    
             filtered_summary = engine.filter_summary(summary)
 
-            # Check if job is 'same'
+            # Job is the same
+            if filtered_summary == job.summary:
+
+                if location not in job.location:
+
+
+
+
+
