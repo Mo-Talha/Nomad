@@ -11,3 +11,4 @@ Jobmine statistics on employers and employees.
 - Show keywords for each job (Ex. software jobs: programming languages)
 - Comment section crawled from ratemycoopjob.com
 - Google maps location of most probable location (for employer)
+- Allow user to input jobs that they are interested in (either by job title, keywords etc.) and mail them jobs they might be interested in
