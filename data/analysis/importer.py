@@ -68,8 +68,7 @@ def import_job(**kwargs):
 
             job.save()
 
-            employer.jobs.append(job)
-            employer.save()
+            employer.update_one(push__jobs=job)
 
         # Job already exists
         else:
@@ -77,12 +76,28 @@ def import_job(**kwargs):
     
             filtered_summary = engine.filter_summary(summary)
 
-            # Job is the same
-            if filtered_summary == job.summary:
-
-                if location not in job.location:
-
-
+            # Job is not the same. In this case the employer most likely changed the job
+            if not filtered_summary == job.summary:
+                job.update_one(set__deprecated=True)
+                
+                applicant = Applicant(applicants=applicants, date=date)
+    
+                # Assume new job so number of remaining positions is same as openings
+                new_job = Job(title=job_title, summary=filtered_summary, year=year, term=term,
+                          location=[location], openings=openings, remaining=openings, applicants=[applicant])
+    
+                new_job.save()
+    
+                employer.update_one(push__jobs=job)
+            
+            # Job is the same. In this case we need to update job year, term, location, openings, remaining,
+            # hire_rate, applicants
+            else:
+                # Since job title and description is same, update to new year, term and location.
+                if year >= job.year:
+                    applicant = Applicant(applicants=applicants, date=date)
+                    
+                    job.update(set__year=year, set__term=term, add_to_set__location=location, set__)
 
 
 
