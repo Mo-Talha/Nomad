@@ -23,7 +23,7 @@ class Job(Document):
     year = IntField(required=True)
 
     # Term job was advertised
-    term = IntField(choices=(term.FALL_TERM, term.WINTER_TERM, term.WINTER_TERM))
+    term = IntField(choices=(term.FALL_TERM, term.WINTER_TERM, term.SPRING_TERM))
 
     # Job location
     location = ListField(StringField(required=True))
