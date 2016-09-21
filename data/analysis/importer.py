@@ -97,6 +97,11 @@ def import_job(**kwargs):
             else:
                 # If job is being advertised in new term
                 if year != job.year and term != job.term:
+                    # Add hire ratio for previous term
+                    hire_ratio = float(job.openings - remaining) / job.openings
+                    
+                    job.hire_rate.add_rating(hire_ratio)
+                    
                     job.update(set__year=year, set__term=term, add_to_set__location=location, set__openings=openings,
                                set__remaining=openings, push__applicants=Applicant(applicants=applicants, date=date))
 
@@ -111,8 +116,5 @@ def import_job(**kwargs):
                     if openings > job.openings:
                         raise ValueError('Job: {} by {} has more openings than in DB'.format(job_title, employer_name))
 
-                    hire_ratio = float(job.openings - remaining) / job.openings
-
                     job.update(add_to_set__location=location, remaining=remaining,
-                               push__applicants=Applicant(applicants=applicants, date=date),
-                               hire_rate=job.hire_rate.add_rating(hire_ratio))
+                               push__applicants=Applicant(applicants=applicants, date=date))
