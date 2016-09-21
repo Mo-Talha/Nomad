@@ -61,7 +61,8 @@ class JobmineCrawler(crawler.Crawler):
         self.logger.info('*' * 10 + ' Beginning crawl ' + '*' * 10)
 
         # Iterate through all disciplines
-        for i, option, a in izip_longest(*[all_disciplines] * 3, fillvalue=None): #TODO: Fix. Seems to be returning 3 option objects, Could use?
+        for i, option in enumerate(
+                [disciplines[0] for disciplines in izip_longest(*[all_disciplines[1:]] * 3, fillvalue=None)]): #TODO: Fix. Seems to be returning 3 option objects, Could use?
 
             if i is not 0:
                 # Each time we iterate through we click and/or interact with the DOM thus changing it. This
@@ -75,8 +76,8 @@ class JobmineCrawler(crawler.Crawler):
                 option = all_disciplines[i]
 
             # Skip empty discipline
-            if not option.get_attribute("value"):
-                continue
+            #if not option.get_attribute("value"):
+            #    continue
 
             # Select discipline 1
             option.click()

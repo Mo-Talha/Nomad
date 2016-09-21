@@ -9,8 +9,7 @@ import rating
 class Job(Document):
     meta = {
         'indexes': [
-            '$title',
-            '$summary'
+            '$title'
         ]
     }
 
@@ -61,7 +60,7 @@ class Job(Document):
 
     @classmethod
     def job_exists(cls, job_title):
-        return True if cls.objects(name=job_title.lower()).count() > 0 else False
+        return True if cls.objects(title=job_title.lower()).count() > 0 else False
 
     def to_dict(self):
         return {
