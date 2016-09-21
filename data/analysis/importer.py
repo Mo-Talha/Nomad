@@ -7,7 +7,6 @@ from models.job import Job
 from models.applicant import Applicant
 
 import engine
-import filters
 
 
 def import_job(**kwargs):
@@ -76,6 +75,10 @@ def import_job(**kwargs):
     
             filtered_summary = engine.filter_summary(summary)
 
+            if not year >= job.year:
+                raise ValueError('Job: {} by {} cannot be advertised before {}'
+                                 .format(job_title, employer_name, job.year))
+
             # Job is not the same. In this case the employer most likely changed the job
             if not filtered_summary == job.summary:
                 job.update_one(set__deprecated=True)
@@ -84,20 +87,32 @@ def import_job(**kwargs):
     
                 # Assume new job so number of remaining positions is same as openings
                 new_job = Job(title=job_title, summary=filtered_summary, year=year, term=term,
-                          location=[location], openings=openings, remaining=openings, applicants=[applicant])
+                              location=[location], openings=openings, remaining=openings, applicants=[applicant])
     
                 new_job.save()
     
                 employer.update_one(push__jobs=job)
             
-            # Job is the same. In this case we need to update job year, term, location, openings, remaining,
-            # hire_rate, applicants
+            # Job is the same (same title and description)
             else:
-                # Since job title and description is same, update to new year, term and location.
-                if year >= job.year:
-                    applicant = Applicant(applicants=applicants, date=date)
-                    
-                    job.update(set__year=year, set__term=term, add_to_set__location=location, set__)
+                # If job is being advertised in new term
+                if year != job.year and term != job.term:
+                    job.update(set__year=year, set__term=term, add_to_set__location=location, set__openings=openings,
+                               remaining=openings, push__applicants=Applicant(applicants=applicants, date=date))
 
+                # Job is being updated. We need to update location, openings, remaining, hire_rate, applicants
+                else:
+                    remaining = job.openings
 
+                    # Job posting has decreased, some positions filled up
+                    if openings < job.openings:
+                        remaining = openings
 
+                    if openings > job.openings:
+                        raise ValueError('Job: {} by {} has more openings than in DB'.format(job_title, employer_name))
+
+                    hire_ratio = float(job.openings - remaining) / job.openings
+
+                    job.update(add_to_set__location=location, remaining=remaining,
+                               push__applicants=Applicant(applicants=applicants, date=date),
+                               hire_rate=job.hire_rate.add_rating(hire_ratio))

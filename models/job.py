@@ -25,7 +25,7 @@ class Job(Document):
     # Term job was advertised
     term = IntField(choices=(term.FALL_TERM, term.WINTER_TERM, term.SPRING_TERM))
 
-    # Job location
+    # Job location. Latest entry is most probable job location
     location = ListField(StringField(required=True))
 
     # Number of job openings
@@ -49,6 +49,9 @@ class Job(Document):
     # Keywords for job (ex. programming languages for software jobs)
     _keywords = ListField(StringField(), default=[])
 
+    # Deprecated
+    deprecated = BooleanField(default=False)
+
     def save(self, *args, **kwargs):
         if not self.remaining:
             self.remaining = self.openings
@@ -59,3 +62,14 @@ class Job(Document):
     def job_exists(cls, job_title):
         return True if cls.objects(name=job_title.lower()).count() > 0 else False
 
+    def to_dict(self):
+        return {
+            'title': self.title,
+            'summary': self.summary,
+            'year': self.year,
+            'term': self.term,
+            'location': self.location,
+            'openings': self.openings,
+            'remaining': self.remaining,
+            'hire_rate': self.hire_rate
+        }

@@ -1,7 +1,5 @@
 from mongoengine import *
 
-import term
-
 import datetime
 
 
