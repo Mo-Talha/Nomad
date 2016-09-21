@@ -8,6 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 
+from itertools import izip_longest
 from datetime import datetime
 
 
@@ -17,14 +18,21 @@ class JobmineCrawler(crawler.Crawler):
 
     def login(self):
         self.driver.get(config.url)
+
+        self.logger.info('Loaded {} homepage'.format(config.name))
+
         self._wait_till_find_element_by(By.ID, 'userid').send_keys(config.username)
         pass_ele = self._wait_till_find_element_by(By.ID, 'pwd')
         pass_ele.send_keys(config.password)
         pass_ele.send_keys(self.keys.ENTER)
 
     def navigate(self):
+        self.wait()
+
         try:
             job_search_ele_xpath = "(//li[@id='crefli_UW_CO_JOBSRCH_LINK']/a[1])[2]"
+
+            self.logger.info('Loaded menu')
 
             # Wait for 10 seconds job search element to appear
             WebDriverWait(self.driver, 10).until(
@@ -38,6 +46,8 @@ class JobmineCrawler(crawler.Crawler):
             raise TimeoutException('Job search link not found')
 
     def crawl(self):
+        self.logger.info('Loaded job search page')
+
         self.set_search_params()
 
         coop_discipline_menu_1 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
@@ -48,8 +58,10 @@ class JobmineCrawler(crawler.Crawler):
 
         disciplines_len = len(all_disciplines)
 
-        # Iterate through all disciplines # TODO: Iterate 3 disciplines instead of 1
-        for i, option in enumerate(all_disciplines):
+        self.logger.info('*' * 10 + ' Beginning crawl ' + '*' * 10)
+
+        # Iterate through all disciplines
+        for i, option in enumerate(izip_longest(*[all_disciplines] * 3, fillvalue=None)):
 
             if i is not 0:
                 # Each time we iterate through we click and/or interact with the DOM thus changing it. This
@@ -69,8 +81,12 @@ class JobmineCrawler(crawler.Crawler):
             # Select discipline 1
             option.click()
 
+            self.logger.info('Setting discipline 1: {}'.format(all_disciplines[i].get_attribute("value")))
+
             # If next discipline exists, set it to discipline 2
             if 0 <= i + 1 < disciplines_len:
+                self.logger.info('Setting discipline 2: {}'.format(all_disciplines[i + 1].get_attribute("value")))
+
                 coop_discipline_menu_2.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP2']"
                                                               "/option[@value='41']" # TODO: remove 41 and replace with {}
                                                     .format(all_disciplines[i + 1]
@@ -80,6 +96,8 @@ class JobmineCrawler(crawler.Crawler):
                                                               "/option[@value='']").click()
             # If next discipline exists, set it to discipline 3
             if 0 <= i + 2 < disciplines_len:
+                self.logger.info('Setting discipline 3: {}'.format(all_disciplines[i + 2].get_attribute("value")))
+
                 coop_discipline_menu_3.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP3']"
                                                               "/option[@value='{}']"
                                                     .format(all_disciplines[i + 2]
@@ -90,8 +108,12 @@ class JobmineCrawler(crawler.Crawler):
 
             search_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCHDW_UW_CO_DW_SRCHBTN')
 
+            self.logger.info('Initiating search..')
+
             # Initiate search
             search_ele.click()
+
+            self.wait()
 
             # Wait for 15 seconds for results to appear
             try:
@@ -105,12 +127,16 @@ class JobmineCrawler(crawler.Crawler):
             # From 1 to and including total_results
             total_results = int(self.driver.find_element_by_class_name('PSGRIDCOUNTER').text.split()[2])
 
+            self.logger.info('{} results found'.format(total_results))
+
             # Iterate through all jobs in current page
             for index in range(0, total_results - 1):
                 employer_name = self._wait_till_find_element_by \
                     (By.ID, 'UW_CO_JOBRES_VW_UW_CO_PARENT_NAME${}'.format(index)).text
 
                 job_title = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBTITLE_HL${}'.format(index)).text
+
+                self.logger.info('Importing job: {} from {}'.format(job_title, employer_name))
 
                 location = self._wait_till_find_element_by \
                     (By.ID, 'UW_CO_JOBRES_VW_UW_CO_WORK_LOCATN${}'.format(index)).text
@@ -123,6 +149,8 @@ class JobmineCrawler(crawler.Crawler):
 
                 self.driver.execute_script("javascript:submitAction_win0(document.win0,'UW_CO_JOBTITLE_HL${}');"
                                            .format(index))
+
+                self.wait()
 
                 # Wait for new window to open containing job information
                 WebDriverWait(self.driver, 10).until(lambda d: len(d.window_handles) == 2)
@@ -156,6 +184,8 @@ class JobmineCrawler(crawler.Crawler):
 
     def set_search_params(self):
         try:
+            self.logger.info('Setting job search parameters')
+
             self._switch_to_iframe('ptifrmtgtframe')
 
             self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_COOP_JR')

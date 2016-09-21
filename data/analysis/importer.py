@@ -79,7 +79,7 @@ def import_job(**kwargs):
                 raise ValueError('Job: {} by {} cannot be advertised before {}'
                                  .format(job_title, employer_name, job.year))
 
-            # Job is not the same. In this case the employer most likely changed the job
+            # Job summary is not the same. In this case the employer most likely changed the job
             if not filtered_summary == job.summary:
                 job.update_one(set__deprecated=True)
                 
@@ -91,14 +91,14 @@ def import_job(**kwargs):
     
                 new_job.save()
     
-                employer.update_one(push__jobs=job)
+                employer.update_one(push__jobs=new_job)
             
             # Job is the same (same title and description)
             else:
                 # If job is being advertised in new term
                 if year != job.year and term != job.term:
                     job.update(set__year=year, set__term=term, add_to_set__location=location, set__openings=openings,
-                               remaining=openings, push__applicants=Applicant(applicants=applicants, date=date))
+                               set__remaining=openings, push__applicants=Applicant(applicants=applicants, date=date))
 
                 # Job is being updated. We need to update location, openings, remaining, hire_rate, applicants
                 else:

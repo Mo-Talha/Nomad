@@ -40,7 +40,7 @@ class Crawler:
             self.driver.close()
         except Exception as e:
             self.take_screen_shot()
-            print traceback.format_exc()
+            self.logger.error(traceback.format_exc())
             raise e
 
     def login(self):
@@ -51,6 +51,10 @@ class Crawler:
 
     def crawl(self):
         pass
+
+    def wait(self):
+        self.logger.info('Waiting {} seconds'.format(self.config.crawler_interval))
+        self.driver.implicitly_wait(self.config.crawler_interval)
 
     def _wait_till_find_element_by(self, by, element_id, time=10):
         try:

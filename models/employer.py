@@ -24,9 +24,6 @@ class Employer(Document):
     # Percentage rating for employer
     overall = EmbeddedDocumentField(rating.AggregateRating, default=rating.AggregateRating())
 
-    # Percentage of how many positions employer usually hires vs. how many advertised
-    hire_rate = EmbeddedDocumentField(rating.AggregateRating, default=rating.AggregateRating())
-
     # Warnings for employer
     warnings = ListField(StringField)
 

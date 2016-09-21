@@ -9,6 +9,7 @@ import rating
 class Job(Document):
     meta = {
         'indexes': [
+            '$title',
             '$summary'
         ]
     }
