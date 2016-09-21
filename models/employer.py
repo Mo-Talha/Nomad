@@ -9,9 +9,7 @@ class Employer(Document):
     meta = {
         'indexes': [
             'overall.rating',
-            'overall.count',
-            'hire_rate.rating',
-            'hire_rate.count'
+            'overall.count'
         ]
     }
 

@@ -1,6 +1,7 @@
 import os
 import traceback
 import logging
+import time
 
 from datetime import datetime
 
@@ -28,7 +29,9 @@ class Crawler:
                             datefmt='%m/%d/%Y %I:%M:%S %p', filename=self._log_name)
         self.logger.setLevel(config.loggerStatus)
 
-        self.driver = webdriver.PhantomJS(service_args=['--web-security=no', '--webdriver-logfile=' + self._log_name])
+        self.driver = webdriver.Firefox()#(service_args=['--web-security=no', '--webdriver-logfile=' + self._log_name])
+        self.driver.implicitly_wait(self.config.crawler_interval)
+
         self.actions = ActionChains(self.driver)
         self.keys = Keys
 
@@ -40,7 +43,9 @@ class Crawler:
             self.driver.close()
         except Exception as e:
             self.take_screen_shot()
-            self.logger.error(traceback.format_exc())
+            error = traceback.format_exc()
+            self.logger.error(error)
+            print error
             raise e
 
     def login(self):
@@ -54,7 +59,7 @@ class Crawler:
 
     def wait(self):
         self.logger.info('Waiting {} seconds'.format(self.config.crawler_interval))
-        self.driver.implicitly_wait(self.config.crawler_interval)
+        time.sleep(self.config.crawler_interval)
 
     def _wait_till_find_element_by(self, by, element_id, time=10):
         try:
