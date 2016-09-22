@@ -1,6 +1,5 @@
 import os
 import traceback
-import logging
 import time
 
 from datetime import datetime
@@ -13,6 +12,8 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 
+import shared.logger as logger
+
 
 class Crawler:
     def __init__(self, config, importer):
@@ -24,12 +25,9 @@ class Crawler:
 
         self._log_name = '{}/logs/{}.log'.format(self._base_path, datetime.now().strftime('%Y.%m.%d.%H.%M.%S'))
 
-        self.logger = logging.getLogger('crawler')
-        logging.basicConfig(format='%(asctime)s [' + config.name + '] %(message)s',
-                            datefmt='%m/%d/%Y %I:%M:%S %p', filename=self._log_name)
-        self.logger.setLevel(config.loggerStatus)
+        self.logger = logger
 
-        self.driver = webdriver.Firefox()#(service_args=['--web-security=no', '--webdriver-logfile=' + self._log_name])
+        self.driver = webdriver.PhantomJS(service_args=['--web-security=no', '--webdriver-logfile=' + self._log_name])
         self.driver.implicitly_wait(self.config.crawler_interval)
 
         self.actions = ActionChains(self.driver)
@@ -44,7 +42,7 @@ class Crawler:
         except Exception as e:
             self.take_screen_shot()
             error = traceback.format_exc()
-            self.logger.error(error)
+            self.logger.error(self.config.name, error)
             print error
             raise e
 
@@ -58,7 +56,7 @@ class Crawler:
         pass
 
     def wait(self):
-        self.logger.info('Waiting {} seconds'.format(self.config.crawler_interval))
+        self.logger.info(self.config.name, 'Waiting {} seconds'.format(self.config.crawler_interval))
         time.sleep(self.config.crawler_interval)
 
     def _wait_till_find_element_by(self, by, element_id, time=10):
@@ -70,7 +68,7 @@ class Crawler:
             return self.driver.find_element(by, element_id)
 
         except TimeoutException:
-            self.logger.error('Could not find element: ' + element_id)
+            self.logger.error(self.config.name, 'Could not find element: ' + element_id)
             raise TimeoutException('Could not find element: ' + element_id)
 
     def _switch_to_iframe(self, name, time=10):
@@ -84,7 +82,7 @@ class Crawler:
             self.driver.switch_to.frame(self.driver.find_element_by_id(name))
 
         except TimeoutException:
-            self.logger.error('Could not find iFrame: ' + name)
+            self.logger.error(self.config.name, 'Could not find iFrame: ' + name)
             raise TimeoutException('Could not find iFrame: ' + name)
 
     def take_screen_shot(self, name='screenshot'):

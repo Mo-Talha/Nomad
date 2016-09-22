@@ -19,7 +19,7 @@ class JobmineCrawler(crawler.Crawler):
     def login(self):
         self.driver.get(config.url)
 
-        self.logger.info('Loaded {} homepage'.format(config.name))
+        self.logger.info(self.config.name, 'Loaded {} homepage'.format(config.name))
 
         self._wait_till_find_element_by(By.ID, 'userid').send_keys(config.username)
         pass_ele = self._wait_till_find_element_by(By.ID, 'pwd')
@@ -32,7 +32,7 @@ class JobmineCrawler(crawler.Crawler):
         try:
             job_search_ele_xpath = "(//li[@id='crefli_UW_CO_JOBSRCH_LINK']/a[1])[2]"
 
-            self.logger.info('Loaded menu')
+            self.logger.info(self.config.name, 'Loaded menu')
 
             # Wait for 10 seconds job search element to appear
             WebDriverWait(self.driver, 10).until(
@@ -46,7 +46,7 @@ class JobmineCrawler(crawler.Crawler):
             raise TimeoutException('Job search link not found')
 
     def crawl(self):
-        self.logger.info('Loaded job search page')
+        self.logger.info(self.config.name, 'Loaded job search page')
 
         self.set_search_params()
 
@@ -54,15 +54,15 @@ class JobmineCrawler(crawler.Crawler):
         coop_discipline_menu_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
         coop_discipline_menu_3 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
 
-        all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')
+        all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')[1:]
 
         disciplines_len = len(all_disciplines)
 
-        self.logger.info('*' * 10 + ' Beginning crawl ' + '*' * 10)
+        self.logger.info(self.config.name, '*' * 10 + ' Beginning crawl ' + '*' * 10)
 
         # Iterate through all disciplines
         for i, option in enumerate(
-                [disciplines[0] for disciplines in izip_longest(*[all_disciplines[1:]] * 3, fillvalue=None)]): #TODO: Fix. Seems to be returning 3 option objects, Could use?
+                [disciplines[0] for disciplines in izip_longest(*[all_disciplines] * 3, fillvalue=None)]):
 
             if i is not 0:
                 # Each time we iterate through we click and/or interact with the DOM thus changing it. This
@@ -75,18 +75,14 @@ class JobmineCrawler(crawler.Crawler):
 
                 option = all_disciplines[i]
 
-            # Skip empty discipline
-            #if not option.get_attribute("value"):
-            #    continue
+            self.logger.info(self.config.name, 'Setting discipline 1: {}'.format(all_disciplines[i].text))
 
             # Select discipline 1
             option.click()
 
-            self.logger.info('Setting discipline 1: {}'.format(all_disciplines[i].get_attribute("value")))
-
             # If next discipline exists, set it to discipline 2
             if 0 <= i + 1 < disciplines_len:
-                self.logger.info('Setting discipline 2: {}'.format(all_disciplines[i + 1].get_attribute("value")))
+                self.logger.info(self.config.name, 'Setting discipline 2: {}'.format(all_disciplines[i + 1].text))
 
                 coop_discipline_menu_2.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP2']"
                                                               "/option[@value='41']" # TODO: remove 41 and replace with {}
@@ -97,7 +93,7 @@ class JobmineCrawler(crawler.Crawler):
                                                               "/option[@value='']").click()
             # If next discipline exists, set it to discipline 3
             if 0 <= i + 2 < disciplines_len:
-                self.logger.info('Setting discipline 3: {}'.format(all_disciplines[i + 2].get_attribute("value")))
+                self.logger.info(self.config.name, 'Setting discipline 3: {}'.format(all_disciplines[i + 2].text))
 
                 coop_discipline_menu_3.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP3']"
                                                               "/option[@value='{}']"
@@ -109,7 +105,7 @@ class JobmineCrawler(crawler.Crawler):
 
             search_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCHDW_UW_CO_DW_SRCHBTN')
 
-            self.logger.info('Initiating search..')
+            self.logger.info(self.config.name, 'Initiating search..')
 
             # Initiate search
             search_ele.click()
@@ -128,7 +124,7 @@ class JobmineCrawler(crawler.Crawler):
             # From 1 to and including total_results
             total_results = int(self.driver.find_element_by_class_name('PSGRIDCOUNTER').text.split()[2])
 
-            self.logger.info('{} results found'.format(total_results))
+            self.logger.info(self.config.name, '{} results found'.format(total_results))
 
             # Iterate through all jobs in current page
             for index in range(0, total_results - 1):
@@ -136,8 +132,6 @@ class JobmineCrawler(crawler.Crawler):
                     (By.ID, 'UW_CO_JOBRES_VW_UW_CO_PARENT_NAME${}'.format(index)).text
 
                 job_title = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBTITLE_HL${}'.format(index)).text
-
-                self.logger.info('Importing job: {} from {}'.format(job_title, employer_name))
 
                 location = self._wait_till_find_element_by \
                     (By.ID, 'UW_CO_JOBRES_VW_UW_CO_WORK_LOCATN${}'.format(index)).text
@@ -150,8 +144,6 @@ class JobmineCrawler(crawler.Crawler):
 
                 self.driver.execute_script("javascript:submitAction_win0(document.win0,'UW_CO_JOBTITLE_HL${}');"
                                            .format(index))
-
-                self.wait()
 
                 # Wait for new window to open containing job information
                 WebDriverWait(self.driver, 10).until(lambda d: len(d.window_handles) == 2)
@@ -179,13 +171,15 @@ class JobmineCrawler(crawler.Crawler):
                                          term=term.get_term(now.month), location=location, openings=openings,
                                          applicants=applicants, summary=summary, date=now)
 
+                self.wait()
+
                 break
 
             break
 
     def set_search_params(self):
         try:
-            self.logger.info('Setting job search parameters')
+            self.logger.info(self.config.name, 'Setting job search parameters')
 
             self._switch_to_iframe('ptifrmtgtframe')
 
