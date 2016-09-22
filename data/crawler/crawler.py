@@ -27,7 +27,7 @@ class Crawler:
 
         self.logger = logger
 
-        self.driver = webdriver.PhantomJS(service_args=['--web-security=no', '--webdriver-logfile=' + self._log_name])
+        self.driver = webdriver.Firefox()#PhantomJS(service_args=['--web-security=no', '--webdriver-logfile=' + self._log_name])
         self.driver.implicitly_wait(self.config.crawler_interval)
 
         self.actions = ActionChains(self.driver)
@@ -43,7 +43,6 @@ class Crawler:
             self.take_screen_shot()
             error = traceback.format_exc()
             self.logger.error(self.config.name, error)
-            print error
             raise e
 
     def login(self):
@@ -71,10 +70,10 @@ class Crawler:
             self.logger.error(self.config.name, 'Could not find element: ' + element_id)
             raise TimeoutException('Could not find element: ' + element_id)
 
-    def _switch_to_iframe(self, name, time=10):
+    def _switch_to_iframe(self, name, wait=10):
         try:
             # Wait for iFrame to load (issue in PhantomJS)
-            WebDriverWait(self.driver, time).until(
+            WebDriverWait(self.driver, wait).until(
                 EC.presence_of_element_located((By.ID, name))
             )
 
