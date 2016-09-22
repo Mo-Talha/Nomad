@@ -4,6 +4,7 @@ import comment
 import term
 import applicant
 import rating
+import program
 
 
 class Job(Document):
@@ -41,7 +42,10 @@ class Job(Document):
     applicants = EmbeddedDocumentListField(applicant.Applicant, default=[])
 
     # Programs that the job is targeted for
-    #programs = ListField(StringField(), choices=constants.programs, default=[])
+    programs = ListField(StringField(choices=program.programs), default=[])
+
+    # What level job is intended for
+    levels = ListField(StringField(choices=('Junior', 'Intermediate', 'Senior')), default=[])
 
     # Comments about job (either crawled from ratemycoopjob or added by UW students)
     comments = EmbeddedDocumentListField(comment.Comment, default=[])

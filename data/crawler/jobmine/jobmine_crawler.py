@@ -155,6 +155,11 @@ class JobmineCrawler(crawler.Crawler):
 
                 summary = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
 
+                programs = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR').text + ',' + \
+                                self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100').text
+
+                levels = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR_100').text
+
                 self.driver.close()
 
                 # Wait for job window to close
@@ -168,8 +173,9 @@ class JobmineCrawler(crawler.Crawler):
                 now = datetime.now()
 
                 self.importer.import_job(employer_name=employer_name, job_title=job_title,
-                                         term=term.get_term(now.month), location=location, openings=openings,
-                                         applicants=applicants, summary=summary, date=now)
+                                         term=term.get_term(now.month), location=location, levels=levels,
+                                         openings=openings, applicants=applicants, summary=summary, date=now,
+                                         programs=programs)
 
                 self.wait()
 

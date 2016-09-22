@@ -2,6 +2,8 @@
 This module is used to manage UW programs.
 """
 
+#<type 'list'>: ['All Health Informatics', 'AHS- (unspecified)', 'MATH- (unspecified)', 'SCI- (unspecified)', 'SCI-Physics']
+
 programs = [
     'AHS-(unspecified)',
     'AHS-Hlth Studies & Gerontology',

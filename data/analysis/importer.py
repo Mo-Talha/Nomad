@@ -22,6 +22,8 @@ def import_job(**kwargs):
     job_title -- Title of job
     year -- Year the job was advertised
     term -- Term job was advertised [Fall -> 1, Winter -> 2, Spring -> 3]
+    levels -- Levels job is intended for [Junior, Intermediate, Senior]
+    programs -- Programs the job is specified for
     location -- Location job was advertised
     openings -- Number of job openings
     remaining -- Number of job openings remaining
@@ -32,6 +34,8 @@ def import_job(**kwargs):
     employer_name = kwargs['employer_name'].encode('ascii', 'ignore').lower()
     job_title = kwargs['job_title'].encode('ascii', 'ignore').lower()
     term = int(kwargs['term'])
+    levels = [level.encode('ascii', 'ignore').strip() for level in kwargs['levels'].split(',')]
+    programs = [program.encode('ascii', 'ignore').strip() for program in kwargs['programs'].split(',')]
     location = kwargs['location'].encode('ascii', 'ignore').lower()
     openings = int(kwargs['openings'])
     summary = kwargs['summary']
@@ -57,7 +61,8 @@ def import_job(**kwargs):
 
         # Assume new job so number of remaining positions is same as openings
         job = Job(title=job_title, summary=engine.filter_summary(summary).encode('ascii', 'ignore'), year=year,
-                  term=term, location=[location], openings=openings, remaining=openings, applicants=[applicant])
+                  term=term, location=[location], openings=openings, remaining=openings, applicants=[applicant],
+                  levels=levels, programs=programs)
 
         job.save()
 
@@ -78,7 +83,8 @@ def import_job(**kwargs):
 
             # Assume new job so number of remaining positions is same as openings
             job = Job(title=job_title, summary=engine.filter_summary(summary).encode('ascii', 'ignore'), year=year,
-                      term=term, location=[location], openings=openings, remaining=openings, applicants=[applicant])
+                      term=term, location=[location], openings=openings, remaining=openings, applicants=[applicant],
+                      levels=levels, programs=programs)
 
             job.save()
 
@@ -107,7 +113,8 @@ def import_job(**kwargs):
     
                 # Assume new job so number of remaining positions is same as openings
                 new_job = Job(title=job_title, summary=filtered_summary, year=year, term=term,
-                              location=[location], openings=openings, remaining=openings, applicants=[applicant])
+                              location=[location], openings=openings, remaining=openings, applicants=[applicant],
+                              levels=levels, programs=programs)
     
                 new_job.save()
     
@@ -125,9 +132,10 @@ def import_job(**kwargs):
                     job.hire_rate.add_rating(hire_ratio)
                     
                     job.update(set__year=year, set__term=term, add_to_set__location=location, set__openings=openings,
-                               set__remaining=openings, push__applicants=Applicant(applicants=applicants, date=date))
+                               set__remaining=openings, push__applicants=Applicant(applicants=applicants, date=date),
+                               set__levels=levels, set__programs=programs)
 
-                # Job is being updated. We need to update location, openings, remaining, hire_rate, applicants
+                # Job is being updated. We need to update location, openings, levels, remaining, hire_rate, applicants
                 else:
                     logger.info(COMPONENT, 'Job: {}: updating for current term'.format(job_title))
 
@@ -142,4 +150,6 @@ def import_job(**kwargs):
                                                  .format(job_title, employer_name))
 
                     job.update(add_to_set__location=location, set__remaining=remaining,
-                               push__applicants=Applicant(applicants=applicants, date=date))
+                               push__applicants=Applicant(applicants=applicants, date=date),
+                               set__levels=list(set(levels + job.levels)),
+                               set__programs=list(set(programs + job.programs)))
