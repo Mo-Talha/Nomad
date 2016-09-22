@@ -42,7 +42,7 @@ class Job(Document):
     applicants = EmbeddedDocumentListField(applicant.Applicant, default=[])
 
     # Programs that the job is targeted for
-    programs = ListField(StringField(choices=program.programs), default=[])
+    programs = ListField(StringField(choices=program.get_programs()), default=[])
 
     # What level job is intended for
     levels = ListField(StringField(choices=('Junior', 'Intermediate', 'Senior')), default=[])

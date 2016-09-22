@@ -1,10 +1,10 @@
+import re
+
 """
 This module is used to manage UW programs.
 """
 
-#<type 'list'>: ['All Health Informatics', 'AHS- (unspecified)', 'MATH- (unspecified)', 'SCI- (unspecified)', 'SCI-Physics']
-
-program = {
+programs = {
     'AHS-(unspecified)': {
         'program': 'unspecified',
         'faculty': 'Applied Health Sciences'
@@ -248,150 +248,168 @@ program = {
         'program': 'Environment & Business',
         'faculty': 'Environment'
     },
-    'ENV-Geomatics',
-    'ENV-International Development',
-    'ENV-Knowledge Integration',
-    'ENV-Planning',
-    'MATH MASTERS-Health Info',
-    'MATH- (unspecified)',
-    'MATH-Actuarial Science',
-    'MATH-Applied Mathematics',
-    'MATH-Bioinformatics',
-    'MATH-Business Administration',
-    'MATH-Combinatorics & Optimizat',
-    'MATH-Computational Math',
-    'MATH-Computer Science',
-    'MATH-Computing & Financial Mgm',
-    'MATH-Fin Analysis & Risk Mgmt',
-    'MATH-IT Management',
-    'MATH-Mathematical Economics',
-    'MATH-Mathematical Finance',
-    'MATH-Mathematical Optimization',
-    'MATH-Mathematical Physics',
-    'MATH-Mathematical Studies',
-    'MATH-Pure Mathematics',
-    'MATH-Scientific Computation',
-    'MATH-Statistics',
-    'MATH-Statistics for Health',
-    'MATH-Teaching',
-    'SCI- (unspecified)',
-    'SCI-Biochemistry',
-    'SCI-Bioinformatics',
-    'SCI-Biology',
-    'SCI-Biotechnology/Economics',
-    'SCI-Chemistry',
-    'SCI-Earth Sciences',
-    'SCI-Environmental Science',
-    'SCI-Geology and Hydrogeology',
-    'SCI-Optometry',
-    'SCI-Pharmacy',
-    'SCI-Physics',
-    'SCI-Psychology',
-    'SCI-Science/Business',
-
+    'ENV-Geomatics': {
+        'program': 'Geomatics',
+        'faculty': 'Environment'
+    },
+    'ENV-International Development': {
+        'program': 'International Development',
+        'faculty': 'Environment'
+    },
+    'ENV-Knowledge Integration': {
+        'program': 'Knowledge Integration',
+        'faculty': 'Environment'
+    },
+    'ENV-Planning': {
+        'program': 'Planning',
+        'faculty': 'Environment'
+    },
+    'MATH MASTERS-Health Info': {
+        'program': 'MASTERS-Health Info',
+        'faculty': 'Math'
+    },
+    'MATH- (unspecified)': {
+        'program': 'unspecified',
+        'faculty': 'Math'
+    },
+    'MATH-Actuarial Science': {
+        'program': 'Actuarial Science',
+        'faculty': 'Math'
+    },
+    'MATH-Applied Mathematics': {
+        'program': 'Applied Mathematics',
+        'faculty': 'Math'
+    },
+    'MATH-Bioinformatics': {
+        'program': 'Bioinformatics',
+        'faculty': 'Math'
+    },
+    'MATH-Business Administration': {
+        'program': 'Business Administration',
+        'faculty': 'Math'
+    },
+    'MATH-Combinatorics & Optimizat': {
+        'program': 'Combinatorics & Optimization',
+        'faculty': 'Math'
+    },
+    'MATH-Computational Math': {
+        'program': 'Computational Math',
+        'faculty': 'Math'
+    },
+    'MATH-Computer Science': {
+        'program': 'Computer Science',
+        'faculty': 'Math'
+    },
+    'MATH-Computing & Financial Mgm': {
+        'program': 'Computing & Financial Management',
+        'faculty': 'Math'
+    },
+    'MATH-Fin Analysis & Risk Mgmt': {
+        'program': 'Financial Analysis & Risk Management',
+        'faculty': 'Math'
+    },
+    'MATH-IT Management': {
+        'program': 'IT Management',
+        'faculty': 'Math'
+    },
+    'MATH-Mathematical Economics': {
+        'program': 'Mathematical Economics',
+        'faculty': 'Math'
+    },
+    'MATH-Mathematical Finance': {
+        'program': 'Mathematical Finance',
+        'faculty': 'Math'
+    },
+    'MATH-Mathematical Optimization': {
+        'program': 'Mathematical Optimization',
+        'faculty': 'Math'
+    },
+    'MATH-Mathematical Physics': {
+        'program': 'Mathematical Physics',
+        'faculty': 'Math'
+    },
+    'MATH-Mathematical Studies': {
+        'program': 'Mathematical Studies',
+        'faculty': 'Math'
+    },
+    'MATH-Pure Mathematics': {
+        'program': 'Pure Mathematics',
+        'faculty': 'Math'
+    },
+    'MATH-Scientific Computation': {
+        'program': 'Scientific Computation',
+        'faculty': 'Math'
+    },
+    'MATH-Statistics': {
+        'program': 'Statistics',
+        'faculty': 'Math'
+    },
+    'MATH-Statistics for Health': {
+        'program': 'Statistics for Health',
+        'faculty': 'Math'
+    },
+    'MATH-Teaching': {
+        'program': 'Teaching',
+        'faculty': 'Math'
+    },
+    'SCI- (unspecified)': {
+        'program': 'unspecified',
+        'faculty': 'SCI'
+    },
+    'SCI-Biochemistry': {
+        'program': 'Biochemistry',
+        'faculty': 'SCI'
+    },
+    'SCI-Bioinformatics': {
+        'program': 'Bioinformatics',
+        'faculty': 'SCI'
+    },
+    'SCI-Biology': {
+        'program': 'Biology',
+        'faculty': 'SCI'
+    },
+    'SCI-Biotechnology/Economics': {
+        'program': 'Biotechnology/Economics',
+        'faculty': 'SCI'
+    },
+    'SCI-Chemistry': {
+        'program': 'Chemistry',
+        'faculty': 'SCI'
+    },
+    'SCI-Earth Sciences': {
+        'program': 'Earth Sciences',
+        'faculty': 'SCI'
+    },
+    'SCI-Environmental Science': {
+        'program': 'Environmental Science',
+        'faculty': 'SCI'
+    },
+    'SCI-Geology and Hydrogeology': {
+        'program': 'Geology and Hydrogeology',
+        'faculty': 'SCI'
+    },
+    'SCI-Optometry': {
+        'program': 'Optometry',
+        'faculty': 'SCI'
+    },
+    'SCI-Pharmacy': {
+        'program': 'Pharmacy',
+        'faculty': 'SCI'
+    },
+    'SCI-Physics': {
+        'program': 'Physics',
+        'faculty': 'SCI'
+    },
+    'SCI-Psychology': {
+        'program': 'Psychology',
+        'faculty': 'SCI'
+    },
+    'SCI-Science/Business': {
+        'program': 'Science/Business',
+        'faculty': 'SCI'
+    },
 }
 
-programs = [
-    'AHS-(unspecified)',
-    'AHS-Hlth Studies & Gerontology',
-    'AHS-Kinesiology',
-    'AHS-Public Health',
-    'AHS-Rec. & Leisure Studies',
-    'AHS-Sport & Business',
-    'ARCH-Architecture',
-    'ARTS MASTERS-Economics',
-    'ARTS MASTERS-Exp Digital Media',
-    'ARTS MASTERS-Literary Studies',
-    'ARTS MASTERS-Political Science',
-    'ARTS MASTERS-Public Service',
-    'ARTS MASTERS-Rhet/Comm Design',
-    'ARTS-(unspecified)',
-    'ARTS-Anthropology',
-    'ARTS-Arts & Business',
-    'ARTS-Digital Arts Comm',
-    'ARTS-Economics',
-    'ARTS-English Lit & Rhetoric',
-    'ARTS-English Literature',
-    'ARTS-Financial Management',
-    'ARTS-Fine Arts',
-    'ARTS-French',
-    'ARTS-Global Bus & Digital Arts',
-    'ARTS-Global Engagement',
-    'ARTS-HR Management',
-    'ARTS-History',
-    'ARTS-International Trade',
-    'ARTS-Legal Studies',
-    'ARTS-Management Accounting',
-    'ARTS-Mathematical Economics',
-    'ARTS-Philosophy',
-    'ARTS-Political Science',
-    'ARTS-Psychology',
-    'ARTS-Rhetoric & Prof Writing',
-    'ARTS-Sociology',
-    'ARTS-Speech Communication',
-    'All Business (unspecified)',
-    'All Chart Prof Acct (CPA)',
-    'All Finance (unspecified)',
-    'All Health Informatics',
-    'All Info Tech (unspecified)',
-    'ENG MASTERS-Civil',
-    'ENG MASTERS-Management Science',
-    'ENG-(unspecified)',
-    'ENG-Biomedical',
-    'ENG-Chemical',
-    'ENG-Civil',
-    'ENG-Computer',
-    'ENG-Electrical',
-    'ENG-Environmental',
-    'ENG-Geological',
-    'ENG-Management',
-    'ENG-Mechanical',
-    'ENG-Mechatronics',
-    'ENG-Nanotechnology',
-    'ENG-Software',
-    'ENG-Systems Design',
-    'ENV- (unspecified)',
-    'ENV-Env & Resource Studies',
-    'ENV-Environment & Business',
-    'ENV-Geog & Env Management',
-    'ENV-Geomatics',
-    'ENV-International Development',
-    'ENV-Knowledge Integration',
-    'ENV-Planning',
-    'MATH MASTERS-Health Info',
-    'MATH- (unspecified)',
-    'MATH-Actuarial Science',
-    'MATH-Applied Mathematics',
-    'MATH-Bioinformatics',
-    'MATH-Business Administration',
-    'MATH-Combinatorics & Optimizat',
-    'MATH-Computational Math',
-    'MATH-Computer Science',
-    'MATH-Computing & Financial Mgm',
-    'MATH-Fin Analysis & Risk Mgmt',
-    'MATH-IT Management',
-    'MATH-Mathematical Economics',
-    'MATH-Mathematical Finance',
-    'MATH-Mathematical Optimization',
-    'MATH-Mathematical Physics',
-    'MATH-Mathematical Studies',
-    'MATH-Pure Mathematics',
-    'MATH-Scientific Computation',
-    'MATH-Statistics',
-    'MATH-Statistics for Health',
-    'MATH-Teaching',
-    'SCI- (unspecified)',
-    'SCI-Biochemistry',
-    'SCI-Bioinformatics',
-    'SCI-Biology',
-    'SCI-Biotechnology/Economics',
-    'SCI-Chemistry',
-    'SCI-Earth Sciences',
-    'SCI-Environmental Science',
-    'SCI-Geology and Hydrogeology',
-    'SCI-Optometry',
-    'SCI-Pharmacy',
-    'SCI-Physics',
-    'SCI-Psychology',
-    'SCI-Science/Business',
-]
+
+def get_programs():
+    return [re.sub('\s*-\s*', '-', program) for program in programs]

@@ -1,6 +1,7 @@
 from mongoengine import *
 
 from datetime import datetime
+import re
 
 from models.exceptions import DataIntegrityError
 import shared.logger as logger
@@ -35,7 +36,8 @@ def import_job(**kwargs):
     job_title = kwargs['job_title'].encode('ascii', 'ignore').lower()
     term = int(kwargs['term'])
     levels = [level.encode('ascii', 'ignore').strip() for level in kwargs['levels'].split(',')]
-    programs = [program.encode('ascii', 'ignore').strip() for program in kwargs['programs'].split(',')]
+    programs = [re.sub('\s*-\s*', '-', program.encode('ascii', 'ignore').strip())
+                for program in kwargs['programs'].split(',')]
     location = kwargs['location'].encode('ascii', 'ignore').lower()
     openings = int(kwargs['openings'])
     summary = kwargs['summary']
