@@ -10,6 +10,9 @@ log_name = '{}/../logs/{}.log'.format(os.path.dirname(os.path.abspath(__file__))
 logger = logging.getLogger('main')
 logger.setLevel(logging.INFO)
 
+console = logging.StreamHandler()
+logger.addHandler(console)
+
 logging.basicConfig(format='%(asctime)s %(message)s',
                     datefmt='%m/%d/%Y %I:%M:%S %p', filename=log_name)
 
