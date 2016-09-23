@@ -27,7 +27,7 @@ class Crawler:
 
         self.logger = logger
 
-        self.driver = webdriver.PhantomJS(service_args=['--web-security=no', '--webdriver-logfile=' + self._log_name])
+        self.driver = webdriver.Firefox()#PhantomJS(service_args=['--web-security=no', '--webdriver-logfile=' + self._log_name])
         self.driver.implicitly_wait(self.config.crawler_interval)
 
         self.actions = ActionChains(self.driver)
