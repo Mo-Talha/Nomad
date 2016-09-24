@@ -62,15 +62,18 @@ class RateMyCoopJobCrawler(crawler.Crawler):
                 job_rating = job_rating_img_ele.get_attribute('alt').split('_')[0]
 
                 job_comment_text = job_comment_ele.text
-
-                # TODO: fix regex
-                job_comment = re.search("([\"'])(?:(?=(\\?))\2.)*?\1", job_comment_text)
+                job_comment = re.search("\"(.*)\"", job_comment_text).group(1)
 
                 job_comment_date = job_comment_date_ele.text
 
                 job_salary = job_salary_ele.text
 
-                print job_rating, job_comment, job_comment_date, job_salary
+                self.importer.import_comment(employer_name=employer_name, job_title=job_title,
+                                             comment=job_comment, comment_date=job_comment_date,
+                                             salary=float(job_salary.replace('$', '').replace('/week', '')) / 40,
+                                             rating=job_rating)
+
+                self.importer.import_comment(employer_name)
 
             self.wait()
 

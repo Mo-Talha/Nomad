@@ -9,6 +9,7 @@ import shared.logger as logger
 from models.employer import Employer
 from models.job import Job
 from models.applicant import Applicant
+from models.comment import Comment
 
 import engine
 
@@ -35,9 +36,12 @@ def import_job(**kwargs):
     employer_name = kwargs['employer_name'].encode('ascii', 'ignore').lower()
     job_title = kwargs['job_title'].encode('ascii', 'ignore').lower()
     term = int(kwargs['term'])
+
     levels = [level.encode('ascii', 'ignore').strip() for level in kwargs['levels'].split(',')]
+
     programs = [re.sub('\s*-\s*', '-', program.encode('ascii', 'ignore').strip())
                 for program in kwargs['programs'].split(',')]
+
     location = kwargs['location'].encode('ascii', 'ignore').lower()
     openings = int(kwargs['openings'])
     summary = kwargs['summary']
@@ -155,3 +159,84 @@ def import_job(**kwargs):
                                push__applicants=Applicant(applicants=applicants, date=date),
                                set__levels=list(set(levels + job.levels)),
                                set__programs=list(set(programs + job.programs)))
+
+
+def import_comment(**kwargs):
+    """Import comment from RateMyCoopJob.
+
+    Keyword arguments:
+    employer_name -- Employer name
+    job_title -- Title of job
+    comment -- Comment
+    comment_date -- Date comment was submitted. Note: in non-standard form such as: 5 years ago, 3 weeks ago
+    salary -- Job salary (hourly)
+    rating -- Job rating out of 5
+    """
+
+    # Convert to ASCII (ignore Unicode)
+    employer_name = kwargs['employer_name'].encode('ascii', 'ignore').lower()
+    job_title = kwargs['job_title'].encode('ascii', 'ignore').lower()
+    comment = kwargs['comment'].encode('ascii', 'ignore')
+    comment_date = _get_comment_date(kwargs['comment_date'].encode('ascii', 'ignore'))
+    salary = float(kwargs['salary'])
+    rating = float(kwargs['rating']) / 5
+
+    logger.info(COMPONENT, 'Importing comment for job: {} from {}'.format(job_title, employer_name))
+
+    # If employer does not exist
+    if not Employer.employer_exists(employer_name):
+        logger.info(COMPONENT, 'Employer: {} does not exist, ignoring..'.format(employer_name))
+
+    # Employer already exists
+    else:
+        employer = Employer.objects(name=employer_name).no_dereference().first()
+
+        logger.info(COMPONENT, 'Employer: {} exists'.format(employer_name))
+
+        # If job does not exist
+        if not Job.job_exists(job_title):
+            logger.info(COMPONENT, 'Job: {} does not exist, ignoring..'.format(job_title))
+
+        # Job already exists
+        else:
+            logger.info(COMPONENT, 'Job: {} exists'.format(job_title))
+
+            job = Job.objects(id__in=[job.id for job in employer.jobs], title=job_title).first()
+
+            # If comment does not exist
+            if job.comment_exists(comment):
+                logger.info(COMPONENT, 'Comment already exists for job: {}, ignoring..'.format(job_title))
+
+            else:
+                logger.info(COMPONENT, 'Job: {}: adding new comment'.format(job_title))
+
+                new_comment = Comment(comment=comment, comment_date=comment_date, salary=salary, crawled=True)
+                new_comment.rating.add_rating(rating)
+                new_comment.save()
+
+
+def _get_comment_date(date_str):
+    date = datetime.now()
+
+    date_re = re.search(r'(\d+)\s(month[s]?|year[s]?|day[s]?)', date_str)
+
+    # Ex. for 5 days ago, date_num = 5
+    date_num = int(date_re.group(1))
+
+    # Ex. for 5 days ago, date_time = days
+    date_time = date_re.group(2)
+
+    day, month, year = date.day, date.month, date.year
+
+    if 'day' in date_time:
+        day = date.day - date_num
+
+    elif 'month' in date_time:
+        month = date.month - date_num
+
+    elif 'year' in date_time:
+        year = date.year - date_num
+
+    return datetime(year, month, day)
+
+

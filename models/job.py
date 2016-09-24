@@ -66,6 +66,9 @@ class Job(Document):
     def job_exists(cls, job_title):
         return True if cls.objects(title=job_title.lower()).count() > 0 else False
 
+    def comment_exists(self, job_comment):
+        return True if self.objects(comments__summary=job_comment).count() > 0 else False
+
     def to_dict(self):
         return {
             'title': self.title,
