@@ -60,9 +60,10 @@ class JobmineCrawler(crawler.Crawler):
 
         self.logger.info(self.config.name, '*' * 10 + ' Beginning crawl ' + '*' * 10)
 
+        i = 0
+
         # Iterate through all disciplines
-        for i, option in enumerate(
-                [disciplines[0] for disciplines in izip_longest(*[all_disciplines] * 3, fillvalue=None)]):
+        for option in [disciplines[0] for disciplines in izip_longest(*[iter(all_disciplines)] * 3)]:
 
             if i is not 0:
                 # Each time we iterate through we click and/or interact with the DOM thus changing it. This
@@ -85,7 +86,7 @@ class JobmineCrawler(crawler.Crawler):
                 self.logger.info(self.config.name, 'Setting discipline 2: {}'.format(all_disciplines[i + 1].text))
 
                 coop_discipline_menu_2.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP2']"
-                                                              "/option[@value='41']" # TODO: remove 41 and replace with {}
+                                                              "/option[@value='{}']"
                                                     .format(all_disciplines[i + 1]
                                                             .get_attribute("value"))).click()
             else:
@@ -103,6 +104,8 @@ class JobmineCrawler(crawler.Crawler):
                 coop_discipline_menu_3.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP3']"
                                                               "/option[@value='']").click()
 
+            i += 4
+
             search_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCHDW_UW_CO_DW_SRCHBTN')
 
             self.logger.info(self.config.name, 'Initiating search..')
@@ -112,41 +115,38 @@ class JobmineCrawler(crawler.Crawler):
 
             self.wait()
 
-            # Wait for 15 seconds for results to appear
-            try:
-                WebDriverWait(self.driver, 15).until_not(
-                    EC.element_to_be_clickable((By.ID, 'WAIT_win0'))
-                )
-            except TimeoutException:
-                self.logger.error('Job search results did not not load.')
-                raise TimeoutException('Job search results did not not load')
+            self._wait_for_job_results()
 
             # From 1 to and including total_results
             total_results = int(self.driver.find_element_by_class_name('PSGRIDCOUNTER').text.split()[2])
 
             self.logger.info(self.config.name, '{} results found'.format(total_results))
 
-            # Iterate through all jobs in current page
-            for index in range(0, total_results - 1):
-                employer_name = self._wait_till_find_element_by \
-                    (By.ID, 'UW_CO_JOBRES_VW_UW_CO_PARENT_NAME${}'.format(index)).text
+            # Jobmine job index is from 0-24 for each page assuming view is 25 per page
+            job_index = 0
 
-                job_title = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBTITLE_HL${}'.format(index)).text
+            # Iterate through all jobs in current page
+            for index in range(0, total_results):
+
+                employer_name = self._wait_till_find_element_by \
+                    (By.ID, 'UW_CO_JOBRES_VW_UW_CO_PARENT_NAME${}'.format(job_index)).text
+
+                job_title = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBTITLE_HL${}'.format(job_index)).text
 
                 location = self._wait_till_find_element_by \
-                    (By.ID, 'UW_CO_JOBRES_VW_UW_CO_WORK_LOCATN${}'.format(index)).text
+                    (By.ID, 'UW_CO_JOBRES_VW_UW_CO_WORK_LOCATN${}'.format(job_index)).text
 
                 openings = self._wait_till_find_element_by \
-                    (By.ID, 'UW_CO_JOBRES_VW_UW_CO_OPENGS${}'.format(index)).text
+                    (By.ID, 'UW_CO_JOBRES_VW_UW_CO_OPENGS${}'.format(job_index)).text
 
                 applicants = self._wait_till_find_element_by \
-                    (By.ID, 'UW_CO_JOBAPP_CT_UW_CO_MAX_RESUMES${}'.format(index)).text
+                    (By.ID, 'UW_CO_JOBAPP_CT_UW_CO_MAX_RESUMES${}'.format(job_index)).text
 
                 self.driver.execute_script("javascript:submitAction_win0(document.win0,'UW_CO_JOBTITLE_HL${}');"
-                                           .format(index))
+                                           .format(job_index))
 
                 # Wait for new window to open containing job information
-                WebDriverWait(self.driver, 10).until(lambda d: len(d.window_handles) == 2)
+                WebDriverWait(self.driver, 15).until(lambda d: len(d.window_handles) == 2)
 
                 # Switch to new window
                 self.driver.switch_to.window(self.driver.window_handles[1])
@@ -155,15 +155,19 @@ class JobmineCrawler(crawler.Crawler):
 
                 summary = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
 
-                programs = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR').text + ',' + \
-                                self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100').text
+                programs = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR').text
+
+                programs_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100').text
+
+                if not programs_2.isspace():
+                    programs += ',' + programs_2
 
                 levels = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR_100').text
 
                 self.driver.close()
 
                 # Wait for job window to close
-                WebDriverWait(self.driver, 10).until(lambda d: len(d.window_handles) == 1)
+                WebDriverWait(self.driver, 15).until(lambda d: len(d.window_handles) == 1)
 
                 # Switch back to job search page
                 self.driver.switch_to.window(self.driver.window_handles[0])
@@ -177,11 +181,20 @@ class JobmineCrawler(crawler.Crawler):
                                          openings=openings, applicants=applicants, summary=summary, date=now,
                                          programs=programs)
 
+                if 0 <= job_index < 24:
+                    job_index += 1
+
+                else:
+                    self.logger.info(self.config.name, 'Transversing to next page..')
+
+                    job_index = 0
+
+                    next_page = self._wait_till_find_element_by(By.NAME, 'UW_CO_JOBRES_VW$hdown$img$0')
+                    next_page.click()
+
+                    self._wait_for_job_results()
+
                 self.wait()
-
-                break
-
-            break
 
     def set_search_params(self):
         try:
@@ -216,7 +229,7 @@ class JobmineCrawler(crawler.Crawler):
             coop_job_status_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_JS_JOBSTATUS')
 
             for option in coop_job_status_ele.find_elements_by_tag_name('option'):
-                if option.text == 'Approved': # TODO: change to Posted
+                if option.text == 'Posted':
                     option.click()
                     break
 
@@ -237,6 +250,15 @@ class JobmineCrawler(crawler.Crawler):
 
             coop_term_ele.send_keys(coop_term)
 
+    def _wait_for_job_results(self, wait=15):
+        # Wait for 15 seconds for results to appear
+        try:
+            WebDriverWait(self.driver, wait).until_not(
+                EC.element_to_be_clickable((By.ID, 'WAIT_win0'))
+            )
+        except TimeoutException:
+            self.logger.error('Job search results did not not load.')
+            raise TimeoutException('Job search results did not not load')
 
 if __name__ == '__main__':
     jobmine_crawler = JobmineCrawler(None)

@@ -1,10 +1,11 @@
 from mongoengine import *
 
-import comment
-import term
-import applicant
-import rating
+from comment import Comment
+from applicant import Applicant
+from rating import AggregateRating
+
 import program
+import term
 
 
 class Job(Document):
@@ -36,10 +37,10 @@ class Job(Document):
     remaining = IntField(required=True, max_value=openings, min_value=0)
 
     # Percentage of how many positions hires vs. how many advertised
-    hire_rate = EmbeddedDocumentField(rating.AggregateRating, default=rating.AggregateRating())
+    hire_rate = EmbeddedDocumentField(AggregateRating, default=AggregateRating())
 
     # History of number of applicants that applied to job
-    applicants = EmbeddedDocumentListField(applicant.Applicant, default=[])
+    applicants = EmbeddedDocumentListField(Applicant, default=[])
 
     # Programs that the job is targeted for
     programs = ListField(StringField(choices=program.get_programs()), default=[])
@@ -48,7 +49,7 @@ class Job(Document):
     levels = ListField(StringField(choices=('Junior', 'Intermediate', 'Senior')), default=[])
 
     # Comments about job (either crawled from ratemycoopjob or added by UW students)
-    comments = EmbeddedDocumentListField(comment.Comment, default=[])
+    comments = EmbeddedDocumentListField(Comment, default=[])
 
     # Keywords for job (ex. programming languages for software jobs)
     _keywords = ListField(StringField(), default=[])
@@ -63,11 +64,8 @@ class Job(Document):
         return super(Job, self).save(*args, **kwargs)
 
     @classmethod
-    def job_exists(cls, job_title):
-        return True if cls.objects(title=job_title.lower()).count() > 0 else False
-
-    def comment_exists(self, job_comment):
-        return True if self.objects(comments__summary=job_comment).count() > 0 else False
+    def comment_exists(cls, job_comment):
+        return True if cls.objects(comments__summary=job_comment).count() > 0 else False
 
     def to_dict(self):
         return {

@@ -2,7 +2,7 @@ from mongoengine import *
 
 from datetime import datetime
 
-import rating
+from rating import AggregateRating
 
 
 class Comment(EmbeddedDocument):
@@ -11,12 +11,12 @@ class Comment(EmbeddedDocument):
     comment = StringField(required=True)
 
     # Date comment was recorded
-    date = DateTimeField(required=True, default=datetime.datetime.now())
+    date = DateTimeField(required=True, default=datetime.now())
 
     # Salary (hourly)
     salary = FloatField(required=True, default=0.0)
 
     # Rating
-    rating = EmbeddedDocumentField(rating.AggregateRating, default=rating.AggregateRating())
+    rating = EmbeddedDocumentField(AggregateRating, default=AggregateRating())
 
     crawled = BooleanField(required=True, default=False)

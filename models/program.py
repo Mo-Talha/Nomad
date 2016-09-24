@@ -356,6 +356,11 @@ programs = {
         'program': 'unspecified',
         'faculty': 'SCI'
     },
+    # Apparently jobmine misspells university programs..
+    'SCI- (unspecfied)': {
+        'program': 'unspecified',
+        'faculty': 'SCI'
+    },
     'SCI-Biochemistry': {
         'program': 'Biochemistry',
         'faculty': 'SCI'
@@ -407,7 +412,7 @@ programs = {
     'SCI-Science/Business': {
         'program': 'Science/Business',
         'faculty': 'SCI'
-    },
+    }
 }
 
 

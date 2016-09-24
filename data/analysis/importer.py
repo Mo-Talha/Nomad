@@ -82,7 +82,7 @@ def import_job(**kwargs):
         logger.info(COMPONENT, 'Employer: {} already exists'.format(employer_name))
 
         # If job does not exist, create it
-        if not Job.job_exists(job_title):
+        if not employer.job_exists(job_title):
             logger.info(COMPONENT, 'Creating job: {}..'.format(job_title))
 
             applicant = Applicant(applicants=applicants, date=date)
@@ -94,7 +94,7 @@ def import_job(**kwargs):
 
             job.save()
 
-            employer.update_one(push__jobs=job)
+            employer.update(push__jobs=job)
 
         # Job already exists
         else:
@@ -113,7 +113,7 @@ def import_job(**kwargs):
                 logger.info(COMPONENT, 'Job: {}: different summary detected, deprecating and creating new job..'
                             .format(job_title))
 
-                job.update_one(set__deprecated=True)
+                job.update(set__deprecated=True)
                 
                 applicant = Applicant(applicants=applicants, date=date)
     
@@ -124,7 +124,7 @@ def import_job(**kwargs):
     
                 new_job.save()
     
-                employer.update_one(push__jobs=new_job)
+                employer.update(push__jobs=new_job)
             
             # Job is the same (same title and description)
             else:
@@ -194,7 +194,7 @@ def import_comment(**kwargs):
         logger.info(COMPONENT, 'Employer: {} exists'.format(employer_name))
 
         # If job does not exist
-        if not Job.job_exists(job_title):
+        if not employer.job_exists(job_title):
             logger.info(COMPONENT, 'Job: {} does not exist, ignoring..'.format(job_title))
 
         # Job already exists
