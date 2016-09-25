@@ -1,0 +1,14 @@
+systemLog:
+   destination: file
+   path: "/home/nomad/logs/mongo/mongo.log"
+   logAppend: true
+storage:
+   dbPath: "/home/nomad/data/mongo"
+   journal:
+      enabled: true
+   bindIp: 127.0.0.1
+   port: 27017
+setParameter:
+   enableLocalhostAuthBypass: false
+processManagement:
+   fork: true

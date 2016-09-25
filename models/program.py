@@ -5,416 +5,418 @@ This module is used to manage UW programs.
 """
 
 programs = {
-    'AHS-(unspecified)': {
-        'program': 'unspecified',
+    'AHS\s*?-?\s*?\(?unspecified\)?': {
+        'program': 'AHS-(unspecified)',
         'faculty': 'Applied Health Sciences'
     },
-    'AHS-Hlth Studies & Gerontology': {
-        'program': 'Health Studies & Gerontology',
+    'AHS\s*?-?\s*?(Hlth|Health)\s*?Studies\s*?&?\s*?Gerontology': {
+        'program': 'AHS-Health Studies & Gerontology',
         'faculty': 'Applied Health Sciences'
     },
-    'AHS-Kinesiology': {
-        'program': 'Kinesiology',
+    'AHS\s*?-?\s*?Kinesiology': {
+        'program': 'AHS-Kinesiology',
         'faculty': 'Applied Health Sciences'
     },
-    'AHS-Public Health': {
-        'program': 'Public Health',
+    'AHS\s*?-?\s*?\Public\s*?Health': {
+        'program': 'AHS-Public Health',
         'faculty': 'Applied Health Sciences'
     },
-    'AHS-Rec. & Leisure Studies': {
-        'program': 'Rec. & Leisure Studies',
+    'AHS\s*?-?\s*?Rec\.?\s*?&?\s*?Leisure\s*?Studies': {
+        'program': 'AHS-Rec. & Leisure Studies',
         'faculty': 'Applied Health Sciences'
     },
-    'AHS-Sport & Business': {
-        'program': 'Sport & Business',
+    'AHS\s*?-?\s*?Sport\s*?&?\s*?Business': {
+        'program': 'AHS-Sport & Business',
         'faculty': 'Applied Health Sciences'
     },
-    'ARCH-Architecture': {
-        'program': 'Architecture',
+    'ARCH\s*?-?\s*Architecture': {
+        'program': 'ARCH-Architecture',
         'faculty': 'Architecture'
     },
-    'ARTS MASTERS-Economics': {
-        'program': 'Master-Economics',
+    'ARTS\s*?-?\s*MASTERS\s*?-?\s*(Economics|Econ)': {
+        'program': 'ARTS-Master-Economics',
         'faculty': 'Arts'
     },
-    'ARTS MASTERS-Exp Digital Media': {
-        'program': 'MASTERS-Exp Digital Media',
+    'ARTS\s*?-?\s*?MASTERS\s*?-?\s*?Exp\s*?Digital\s*?Media': {
+        'program': 'ARTS-MASTERS-Exp Digital Media',
         'faculty': 'Arts'
     },
-    'ARTS MASTERS-Literary Studies': {
-        'program': 'MASTERS-Literary Studies',
+    'ARTS\s*?-?\s*?MASTERS\s*?-?\s*?Literary\s*?Studies': {
+        'program': 'ARTS-MASTERS-Literary Studies',
         'faculty': 'Arts'
     },
-    'ARTS MASTERS-Political Science': {
-        'program': 'MASTERS-Political Science',
+    'ARTS\s*?-?\s*?MASTERS\s*?-?\s*?Political\s*?Science': {
+        'program': 'ARTS-MASTERS-Political Science',
         'faculty': 'Arts'
     },
-    'ARTS MASTERS-Public Service': {
-        'program': 'MASTERS-Political Science',
+    'ARTS\s*?-?\s*?MASTERS\s*?-?\s*?Public\s*?Service': {
+        'program': 'ARTS-MASTERS-Public Science',
         'faculty': 'Arts'
     },
-    'ARTS MASTERS-Rhet/Comm Design': {
-        'program': 'MASTERS-Rhet/Comm Design',
+    'ARTS\s*?-?\s*?MASTERS\s*?-?\s*?(Rhet|Rhetoric)\/(Comm|Communication)\s*?Design': {
+        'program': 'ARTS-MASTERS-Rhetoric/Communication Design',
         'faculty': 'Arts'
     },
-    'ARTS-(unspecified)': {
-        'program': 'unspecified',
+    'ARTS\s*?-?\s*?\(?unspecified\)?': {
+        'program': 'ARTS-(unspecified)',
         'faculty': 'Arts'
     },
-    'ARTS-Anthropology': {
-        'program': 'Anthropology',
+    'ARTS\s*?-?\s*?Anthropology': {
+        'program': 'ARTS-Anthropology',
         'faculty': 'Arts'
     },
-    'ARTS-Arts & Business': {
-        'program': 'Arts & Business',
+    'ARTS\s*?-?\s*?Arts\s*?&?\s*?Business': {
+        'program': 'ARTS-Arts & Business',
         'faculty': 'Arts'
     },
-    'ARTS-Digital Arts Comm': {
-        'program': 'Digital Arts Comm',
+    'ARTS\s*?-?\s*?Digital\s*?Arts\s*?(Comm|Communication)': {
+        'program': 'ARTS-Digital Arts Communication',
         'faculty': 'Arts'
     },
-    'ARTS-Economics': {
-        'program': 'Economics',
+    'ARTS\s*?-?\s*?Economics': {
+        'program': 'ARTS-Economics',
         'faculty': 'Arts'
     },
-    'ARTS-English Lit & Rhetoric': {
-        'program': 'English Lit & Rhetoric',
+    'ARTS\s*?-?\s*?English\s*?(Lit|Literature)\s*?&?\s*?Rhetoric': {
+        'program': 'ARTS-English Literature & Rhetoric',
         'faculty': 'Arts'
     },
-    'ARTS-English Literature': {
-        'program': 'English Literature',
+    'ARTS\s*?-?\s*?English\s*?Literature': {
+        'program': 'ARTS-English Literature',
         'faculty': 'Arts'
     },
-    'ARTS-Financial Management': {
-        'program': 'Financial Management',
+    'ARTS\s*?-?\s*?Financial\s*?Management': {
+        'program': 'ARTS-Financial Management',
         'faculty': 'Arts'
     },
-    'ARTS-Fine Arts': {
-        'program': 'Fine Arts',
+    'ARTS\s*?-?\s*?Fine\s*?Arts': {
+        'program': 'ARTS-Fine Arts',
         'faculty': 'Arts'
     },
-    'ARTS-French': {
-        'program': 'French',
+    'ARTS\s*?-?\s*?French': {
+        'program': 'ARTS-French',
         'faculty': 'Arts'
     },
-    'ARTS-Global Bus & Digital Arts': {
-        'program': 'Global Bus & Digital Arts',
+    'ARTS\s*?-?\s*?Global\s*?Bus\s*?&?\s*?Digital\s*?Arts': {
+        'program': 'ARTS-Global Bus & Digital Arts',
         'faculty': 'Arts'
     },
-    'ARTS-Global Engagement': {
-        'program': 'Global Engagements',
+    'ARTS\s*?-?\s*?Global\s*?Engagement': {
+        'program': 'ARTS-Global Engagements',
         'faculty': 'Arts'
     },
-    'ARTS-HR Management': {
-        'program': 'HR Management',
+    'ARTS\s*?-?\s*?HR\s*?Management': {
+        'program': 'ARTS-HR Management',
         'faculty': 'Arts'
     },
-    'ARTS-History': {
-        'program': 'History',
+    'ARTS\s*?-?\s*?History': {
+        'program': 'ARTS-History',
         'faculty': 'Arts'
     },
-    'ARTS-International Trade': {
-        'program': 'International Trade',
+    'ARTS\s*?-?\s*?International\s*?Trade': {
+        'program': 'ARTS-International Trade',
         'faculty': 'Arts'
     },
-    'ARTS-Legal Studies': {
-        'program': 'Legal Studies',
+    'ARTS\s*?-?\s*?Legal\s*?Studies': {
+        'program': 'ARTS-Legal Studies',
         'faculty': 'Arts'
     },
-    'ARTS-Management Accounting': {
-        'program': 'Management Accounting',
+    'ARTS\s*?-?\s*?Management\s*?Accounting': {
+        'program': 'ARTS-Management Accounting',
         'faculty': 'Arts'
     },
-    'ARTS-Mathematical Economics': {
-        'program': 'Mathematical Economics',
+    'ARTS\s*?-?\s*?Mathematical\s*?Economics': {
+        'program': 'ARTS-Mathematical Economics',
         'faculty': 'Arts'
     },
-    'ARTS-Philosophy': {
-        'program': 'Philosophy',
+    'ARTS\s*?-?\s*?Philosophy': {
+        'program': 'ARTS-Philosophy',
         'faculty': 'Arts'
     },
-    'ARTS-Political Science': {
-        'program': 'Political Science',
+    'ARTS\s*?-?\s*?Political\s*?Science': {
+        'program': 'ARTS-Political Science',
         'faculty': 'Arts'
     },
-    'ARTS-Psychology': {
-        'program': 'Psychology',
+    'ARTS\s*?-?\s*?Psychology': {
+        'program': 'ARTS-Psychology',
         'faculty': 'Arts'
     },
-    'ARTS-Rhetoric & Prof Writing': {
-        'program': 'Rhetoric & Prof Writing',
+    'ARTS\s*?-?\s*?Rhetoric\s*?&?\s*?Prof\s*?Writing': {
+        'program': 'ARTS-Rhetoric & Prof Writing',
         'faculty': 'Arts'
     },
-    'ARTS-Sociology': {
-        'program': 'Sociology',
+    'ARTS\s*?-?\s*?Sociology': {
+        'program': 'ARTS-Sociology',
         'faculty': 'Arts'
     },
-    'ARTS-Speech Communication': {
-        'program': 'Speech Communication',
+    'ARTS\s*?-?\s*?Speech\s*?Communication': {
+        'program': 'ARTS-Speech Communication',
         'faculty': 'Arts'
     },
-    'All Business (unspecified)': {
+    'All\s*?Business\s*?\(?unspecified\)?': {
         'program': 'All Business (unspecified)'
     },
-    'All Chart Prof Acct (CPA)': {
+    'All\s*?Chart\s*?Prof\s*?Acct\s*?\(?CPA\)?': {
         'program': 'All Chart Prof Acct (CPA)'
     },
-    'All Finance (unspecified)': {
+    'All\s*?Finance\s*?\(?unspecified\)?': {
         'program': 'All Finance (unspecified)'
     },
-    'All Health Informatics': {
+    'All\s*?Health\s*?Informatics': {
         'program': 'All Health Informatics'
     },
-    'All Info Tech (unspecified)': {
+    'All\s*?Info\s*?Tech\s*?\(?unspecified\)?': {
         'program': 'All Info Tech (unspecified)'
     },
-    'ENG MASTERS-Civil': {
-        'program': 'MASTERS-Civil',
+    'ENG\s*?-?\s*?MASTERS\s*?-?\s*?Civil': {
+        'program': 'ENG-MASTERS-Civil',
         'faculty': 'Engineering'
     },
-    'ENG MASTERS-Management Science': {
-        'program': 'MASTERS-Management Science',
+    'ENG\s*?-?\s*?MASTERS\s*?-?\s*?Management\s*?Science': {
+        'program': 'ENG-MASTERS-Management Science',
         'faculty': 'Engineering'
     },
-    'ENG-(unspecified)': {
-        'program': 'unspecified',
+    'ENG\s*?-?\s*?\(?unspecified\)?': {
+        'program': 'ENG-(unspecified)',
         'faculty': 'Engineering'
     },
-    'ENG-Biomedical': {
-        'program': 'Biomedical',
+    'ENG\s*?-?\s*?Biomedical': {
+        'program': 'ENG-Biomedical',
         'faculty': 'Engineering'
     },
-    'ENG-Chemical': {
-        'program': 'Chemical',
+    'ENG\s*?-?\s*?Chemical': {
+        'program': 'ENG-Chemical',
         'faculty': 'Engineering'
     },
-    'ENG-Civil': {
-        'program': 'Civil',
+    'ENG\s*?-?\s*?Civil': {
+        'program': 'ENG-Civil',
         'faculty': 'Engineering'
     },
-    'ENG-Computer': {
-        'program': 'Computer',
+    'ENG\s*?-?\s*?Computer': {
+        'program': 'ENG-Computer',
         'faculty': 'Engineering'
     },
-    'ENG-Electrical': {
-        'program': 'Electrical',
+    'ENG\s*?-?\s*?Electrical': {
+        'program': 'ENG-Electrical',
         'faculty': 'Engineering'
     },
-    'ENG-Environmental': {
-        'program': 'Environmental',
+    'ENG\s*?-?\s*?Environmental': {
+        'program': 'ENG-Environmental',
         'faculty': 'Engineering'
     },
-    'ENG-Geological': {
-        'program': 'Geological',
+    'ENG\s*?-?\s*?Geological': {
+        'program': 'ENG-Geological',
         'faculty': 'Engineering'
     },
-    'ENG-Management': {
-        'program': 'Management',
+    'ENG\s*?-?\s*?Management': {
+        'program': 'ENG-Management',
         'faculty': 'Engineering'
     },
-    'ENG-Mechanical': {
-        'program': 'Mechanical',
+    'ENG\s*?-?\s*?Mechanical': {
+        'program': 'ENG-Mechanical',
         'faculty': 'Engineering'
     },
-    'ENG-Mechatronics': {
-        'program': 'Mechatronics',
+    'ENG\s*?-?\s*?Mechatronics': {
+        'program': 'ENG-Mechatronics',
         'faculty': 'Engineering'
     },
-    'ENG-Nanotechnology': {
-        'program': 'Nanotechnology',
+    'ENG\s*?-?\s*?Nanotechnology': {
+        'program': 'ENG-Nanotechnology',
         'faculty': 'Engineering'
     },
-    'ENG-Software': {
-        'program': 'Software',
+    'ENG\s*?-?\s*?Software': {
+        'program': 'ENG-Software',
         'faculty': 'Engineering'
     },
-    'ENG-Systems Design': {
-        'program': 'Systems Design',
+    'ENG\s*?-?\s*?Systems\s*?Design': {
+        'program': 'ENG-Systems Design',
         'faculty': 'Engineering'
     },
-    'ENV- (unspecified)': {
-        'program': 'unspecified',
+    'ENV\s*?-?\s*?\(?unspecified\)?': {
+        'program': 'ENV-(unspecified)',
         'faculty': 'Environment'
     },
-    'ENV-Env & Resource Studies': {
-        'program': 'Env & Resource Studies',
+    'ENV\s*?-?\s*?Env\s*?&?\s*?Resource\s*?Studies': {
+        'program': 'ENV-Env & Resource Studies',
         'faculty': 'Environment'
     },
-    'ENV-Environment & Business': {
-        'program': 'Environment & Business',
+    'ENV\s*?-?\s*?Environment\s*?&?\s*?Business': {
+        'program': 'ENV-Environment & Business',
         'faculty': 'Environment'
     },
-    'ENV-Geog & Env Management': {
-        'program': 'Environment & Business',
+    'ENV\s*?-?\s*?Geog\s*?&?\s*?Env\s*?Management': {
+        'program': 'ENV-Environment & Business',
         'faculty': 'Environment'
     },
-    'ENV-Geomatics': {
-        'program': 'Geomatics',
+    'ENV\s*?-?\s*?Geomatics': {
+        'program': 'ENV-Geomatics',
         'faculty': 'Environment'
     },
-    'ENV-International Development': {
-        'program': 'International Development',
+    'ENV\s*?-?\s*?International\s*?Development': {
+        'program': 'ENV-International Development',
         'faculty': 'Environment'
     },
-    'ENV-Knowledge Integration': {
-        'program': 'Knowledge Integration',
+    'ENV\s*?-?\s*?Knowledge\s*?Integration': {
+        'program': 'ENV-Knowledge Integration',
         'faculty': 'Environment'
     },
-    'ENV-Planning': {
-        'program': 'Planning',
+    'ENV\s*?-?\s*?Planning': {
+        'program': 'ENV-Planning',
         'faculty': 'Environment'
     },
-    'MATH MASTERS-Health Info': {
-        'program': 'MASTERS-Health Info',
+    'MATH\s*?-?\s*?MASTERS\s*?-?\s*?Health\s*?Info': {
+        'program': 'MATH-MASTERS-Health Info',
         'faculty': 'Math'
     },
-    'MATH- (unspecified)': {
-        'program': 'unspecified',
+    'MATH\s*?-?\s*?\(?unspecified\)?': {
+        'program': 'MATH-(unspecified)',
         'faculty': 'Math'
     },
-    'MATH-Actuarial Science': {
-        'program': 'Actuarial Science',
+    'MATH\s*?-?\s*?Actuarial\s*?Science': {
+        'program': 'MATH-Actuarial Science',
         'faculty': 'Math'
     },
-    'MATH-Applied Mathematics': {
-        'program': 'Applied Mathematics',
+    'MATH\s*?-?\s*?Applied\s*?Mathematics': {
+        'program': 'MATH-Applied Mathematics',
         'faculty': 'Math'
     },
-    'MATH-Bioinformatics': {
-        'program': 'Bioinformatics',
+    'MATH\s*?-?\s*?Bioinformatics': {
+        'program': 'MATH-Bioinformatics',
         'faculty': 'Math'
     },
-    'MATH-Business Administration': {
-        'program': 'Business Administration',
+    'MATH\s*?-?\s*?Business\s*?Administration': {
+        'program': 'MATH-Business Administration',
         'faculty': 'Math'
     },
-    'MATH-Combinatorics & Optimizat': {
-        'program': 'Combinatorics & Optimization',
+    'MATH\s*?-?\s*?Combinatorics\s*?&?\s*?(Optimizat|Optimization)': {
+        'program': 'MATH-Combinatorics & Optimization',
         'faculty': 'Math'
     },
-    'MATH-Computational Math': {
-        'program': 'Computational Math',
+    'MATH\s*?-?\s*?Computational\s*?Math': {
+        'program': 'MATH-Computational Math',
         'faculty': 'Math'
     },
-    'MATH-Computer Science': {
-        'program': 'Computer Science',
+    'MATH\s*?-?\s*?Computer\s*?Science': {
+        'program': 'MATH-Computer Science',
         'faculty': 'Math'
     },
-    'MATH-Computing & Financial Mgm': {
-        'program': 'Computing & Financial Management',
+    'MATH\s*?-?\s*?Computing\s*?&?\s*?Financial\s*?(Mgm|Mgmt|Management)': {
+        'program': 'MATH-Computing & Financial Management',
         'faculty': 'Math'
     },
-    'MATH-Fin Analysis & Risk Mgmt': {
-        'program': 'Financial Analysis & Risk Management',
+    'MATH\s*?-?\s*?Fin\s*?Analysis\s*?&?\s*?Risk\s*?(Mgmt|Mgm|Management)': {
+        'program': 'MATH-Financial Analysis & Risk Management',
         'faculty': 'Math'
     },
-    'MATH-IT Management': {
-        'program': 'IT Management',
+    'MATH\s*?-?\s*?IT\s*?Management': {
+        'program': 'MATH-IT Management',
         'faculty': 'Math'
     },
-    'MATH-Mathematical Economics': {
-        'program': 'Mathematical Economics',
+    'MATH\s*?-?\s*?Mathematical\s*?Economics': {
+        'program': 'MATH-Mathematical Economics',
         'faculty': 'Math'
     },
-    'MATH-Mathematical Finance': {
-        'program': 'Mathematical Finance',
+    'MATH\s*?-?\s*?Mathematical\s*?Finance': {
+        'program': 'MATH-Mathematical Finance',
         'faculty': 'Math'
     },
-    'MATH-Mathematical Optimization': {
-        'program': 'Mathematical Optimization',
+    'MATH\s*?-?\s*?Mathematical\s*?Optimization': {
+        'program': 'MATH-Mathematical Optimization',
         'faculty': 'Math'
     },
-    'MATH-Mathematical Physics': {
-        'program': 'Mathematical Physics',
+    'MATH\s*?-?\s*?Mathematical\s*?Physics': {
+        'program': 'MATH-Mathematical Physics',
         'faculty': 'Math'
     },
-    'MATH-Mathematical Studies': {
-        'program': 'Mathematical Studies',
+    'MATH\s*?-?\s*?Mathematical\s*?Studies': {
+        'program': 'MATH-Mathematical Studies',
         'faculty': 'Math'
     },
-    'MATH-Pure Mathematics': {
-        'program': 'Pure Mathematics',
+    'MATH\s*?-?\s*?Pure\s*?-?\s*?Mathematics': {
+        'program': 'MATH-Pure Mathematics',
         'faculty': 'Math'
     },
-    'MATH-Scientific Computation': {
-        'program': 'Scientific Computation',
+    'MATH\s*?-?\s*?Scientific\s*?Computation': {
+        'program': 'MATH-Scientific Computation',
         'faculty': 'Math'
     },
-    'MATH-Statistics': {
-        'program': 'Statistics',
+    '^MATH\s*?-?\s*?Statistics$': {
+        'program': 'MATH-Statistics',
         'faculty': 'Math'
     },
-    'MATH-Statistics for Health': {
-        'program': 'Statistics for Health',
+    'MATH\s*?-?\s*?Statistics\s*?for\s*?Health': {
+        'program': 'MATH-Statistics for Health',
         'faculty': 'Math'
     },
-    'MATH-Teaching': {
-        'program': 'Teaching',
+    'MATH\s*?-?\s*?Teaching': {
+        'program': 'MATH-Teaching',
         'faculty': 'Math'
-    },
-    'SCI- (unspecified)': {
-        'program': 'unspecified',
-        'faculty': 'SCI'
     },
     # Apparently jobmine misspells university programs..
-    'SCI- (unspecfied)': {
-        'program': 'unspecified',
+    'SCI\s*?-?\s*?\(?unspeci?fied\)?': {
+        'program': 'SCI-(unspecified)',
         'faculty': 'SCI'
     },
-    'SCI-Biochemistry': {
-        'program': 'Biochemistry',
+    'SCI\s*?-?\s*?Biochemistry': {
+        'program': 'SCI-Biochemistry',
         'faculty': 'SCI'
     },
-    'SCI-Bioinformatics': {
-        'program': 'Bioinformatics',
+    'SCI\s*?-?\s*?Bioinformatics': {
+        'program': 'SCI-Bioinformatics',
         'faculty': 'SCI'
     },
-    'SCI-Biology': {
-        'program': 'Biology',
+    'SCI\s*?-?\s*?Biology': {
+        'program': 'SCI-Biology',
         'faculty': 'SCI'
     },
-    'SCI-Biotechnology/Economics': {
-        'program': 'Biotechnology/Economics',
+    'SCI\s*?-?\s*?Biotechnology\/Economics': {
+        'program': 'SCI-Biotechnology/Economics',
         'faculty': 'SCI'
     },
-    'SCI-Chemistry': {
-        'program': 'Chemistry',
+    'SCI\s*?-?\s*?Chemistry': {
+        'program': 'SCI-Chemistry',
         'faculty': 'SCI'
     },
-    'SCI-Earth Sciences': {
-        'program': 'Earth Sciences',
+    'SCI\s*?-?\s*?Earth\s*?Sciences': {
+        'program': 'SCI-Earth Sciences',
         'faculty': 'SCI'
     },
-    'SCI-Environmental Science': {
-        'program': 'Environmental Science',
+    'SCI\s*?-?\s*?Environmental\s*?Science': {
+        'program': 'SCI-Environmental Science',
         'faculty': 'SCI'
     },
-    'SCI-Geology and Hydrogeology': {
-        'program': 'Geology and Hydrogeology',
+    'SCI\s*?-?\s*?Geology\s*?and\s*?Hydrogeology': {
+        'program': 'SCI-Geology and Hydrogeology',
         'faculty': 'SCI'
     },
-    'SCI-Optometry': {
-        'program': 'Optometry',
+    'SCI\s*?-?\s*?Optometry': {
+        'program': 'SCI-Optometry',
         'faculty': 'SCI'
     },
-    'SCI-Pharmacy': {
-        'program': 'Pharmacy',
+    'SCI\s*?-?\s*?Pharmacy': {
+        'program': 'SCI-Pharmacy',
         'faculty': 'SCI'
     },
-    'SCI-Physics': {
-        'program': 'Physics',
+    'SCI\s*?-?\s*?Physics': {
+        'program': 'SCI-Physics',
         'faculty': 'SCI'
     },
-    'SCI-Psychology': {
-        'program': 'Psychology',
+    'SCI\s*?-?\s*?Psychology': {
+        'program': 'SCI-Psychology',
         'faculty': 'SCI'
     },
-    'SCI-Science/Business': {
-        'program': 'Science/Business',
+    'SCI\s*?-?\s*?Science\/Business': {
+        'program': 'SCI-Science/Business',
         'faculty': 'SCI'
     }
 }
 
 
 def get_programs():
-    return [re.sub('\s*-\s*', '-', program) for program in programs]
+    return [programs[re_program]['program'] for re_program in programs]
+
+
+def get_program(name):
+    for re_program in programs:
+        if re.match(re_program, name, re.IGNORECASE):
+            return programs[re_program]['program']

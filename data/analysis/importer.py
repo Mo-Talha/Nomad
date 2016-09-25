@@ -11,6 +11,8 @@ from models.job import Job
 from models.applicant import Applicant
 from models.comment import Comment
 
+import models.program as Program
+
 import engine
 
 COMPONENT = 'Importer'
@@ -39,7 +41,7 @@ def import_job(**kwargs):
 
     levels = [level.encode('ascii', 'ignore').strip() for level in kwargs['levels'].split(',')]
 
-    programs = [re.sub('\s*-\s*', '-', program.encode('ascii', 'ignore').strip())
+    programs = [Program.get_program(program.encode('ascii', 'ignore').strip())
                 for program in kwargs['programs'].split(',')]
 
     location = kwargs['location'].encode('ascii', 'ignore').lower()
@@ -150,10 +152,6 @@ def import_job(**kwargs):
                     # Job posting has decreased, some positions filled up
                     if openings < job.openings:
                         remaining = openings
-
-                    elif openings > job.openings:
-                        raise DataIntegrityError('Job: {} by {} has more openings than in DB'
-                                                 .format(job_title, employer_name))
 
                     job.update(add_to_set__location=location, set__remaining=remaining,
                                push__applicants=Applicant(applicants=applicants, date=date),

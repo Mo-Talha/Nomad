@@ -54,7 +54,7 @@ class JobmineCrawler(crawler.Crawler):
         coop_discipline_menu_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
         coop_discipline_menu_3 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
 
-        all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')[1:]
+        all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')[20:] #TODO: change to 1:
 
         disciplines_len = len(all_disciplines)
 
@@ -155,9 +155,9 @@ class JobmineCrawler(crawler.Crawler):
 
                 summary = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
 
-                programs = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR').text
+                programs = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR').text.strip(',')
 
-                programs_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100').text
+                programs_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100').text.strip(',')
 
                 if not programs_2.isspace():
                     programs += ',' + programs_2

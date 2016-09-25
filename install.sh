@@ -26,6 +26,20 @@ install_mongodb(){
     fi
 }
 
+install_redis(){
+    # Get latest version of Redis
+    wget http://download.redis.io/redis-stable.tar.gz
+
+    tar xvzf redis-stable.tar.gz
+
+    cd redis-stable
+    sudo make install
+
+    cd ..
+    sudo rm -rf redis-stable
+    sudo rm -rf redis-stable.tar.gz
+}
+
 install_phantom(){
     if ! which phantomjs >/dev/null; then
         cd /usr/local/share
@@ -47,4 +61,5 @@ sudo echo
 
 install_git
 install_mongodb
+install_redis
 install_phantom
