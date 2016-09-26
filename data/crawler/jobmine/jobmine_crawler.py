@@ -1,5 +1,9 @@
+import redis
+
 import data.crawler.crawler as crawler
 import shared.jobmine as config
+
+import data.analysis.importer as importer
 
 import models.term as term
 
@@ -13,10 +17,13 @@ from datetime import datetime
 
 
 class JobmineCrawler(crawler.Crawler):
-    def __init__(self, importer):
-        crawler.Crawler.__init__(self, config, importer)
+    def __init__(self):
+        crawler.Crawler.__init__(self, config)
 
     def login(self):
+        #TODO: remove and abstract
+        self.connection = redis.Redis('localhost')
+
         self.driver.get(config.url)
 
         self.logger.info(self.config.name, 'Loaded {} homepage'.format(config.name))
@@ -54,7 +61,7 @@ class JobmineCrawler(crawler.Crawler):
         coop_discipline_menu_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
         coop_discipline_menu_3 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
 
-        all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')[20:] #TODO: change to 1:
+        all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')[47:] #TODO: change to 1:
 
         disciplines_len = len(all_disciplines)
 
@@ -65,21 +72,18 @@ class JobmineCrawler(crawler.Crawler):
         # Iterate through all disciplines
         for option in [disciplines[0] for disciplines in izip_longest(*[iter(all_disciplines)] * 3)]:
 
-            if i is not 0:
-                # Each time we iterate through we click and/or interact with the DOM thus changing it. This
-                # means that our old references to elements are stale and need to be reloaded.
-                coop_discipline_menu_1 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
-                coop_discipline_menu_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
-                coop_discipline_menu_3 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
+            # Each time we iterate through we click and/or interact with the DOM thus changing it. This
+            # means that our old references to elements are stale and need to be reloaded.
+            coop_discipline_menu_1 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
+            coop_discipline_menu_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
+            coop_discipline_menu_3 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
 
-                all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')
-
-                option = all_disciplines[i]
+            all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')[47:] #TODO: change to 1
 
             self.logger.info(self.config.name, 'Setting discipline 1: {}'.format(all_disciplines[i].text))
 
             # Select discipline 1
-            option.click()
+            all_disciplines[i].click()
 
             # If next discipline exists, set it to discipline 2
             if 0 <= i + 1 < disciplines_len:
@@ -142,6 +146,20 @@ class JobmineCrawler(crawler.Crawler):
                 applicants = self._wait_till_find_element_by \
                     (By.ID, 'UW_CO_JOBAPP_CT_UW_CO_MAX_RESUMES${}'.format(job_index)).text
 
+                # FIX DRY
+                if self.connection.exists('{}:{}'.format(employer_name, job_title)):
+                    self.logger.info(self.config.name, 'Job: {} from {} already exists in Redis, skipping..'.format(employer_name, job_title))
+
+                    if 0 <= job_index < 24:
+                        job_index += 1
+
+                    else:
+                        self.logger.info(self.config.name, 'Transversing to next page..')
+
+                        job_index = 0
+
+                    continue
+
                 self.driver.execute_script("javascript:submitAction_win0(document.win0,'UW_CO_JOBTITLE_HL${}');"
                                            .format(job_index))
 
@@ -176,10 +194,13 @@ class JobmineCrawler(crawler.Crawler):
 
                 now = datetime.now()
 
-                self.importer.import_job(employer_name=employer_name, job_title=job_title,
-                                         term=term.get_term(now.month), location=location, levels=levels,
-                                         openings=openings, applicants=applicants, summary=summary, date=now,
-                                         programs=programs)
+                importer.import_job(employer_name=employer_name, job_title=job_title,
+                                    term=term.get_term(now.month), location=location, levels=levels,
+                                    openings=openings, applicants=applicants, summary=summary, date=now,
+                                    programs=programs)
+
+                self.connection.set('{}:{}'.format(employer_name, job_title), 1)
+                self.connection.expire('{}:{}'.format(employer_name, job_title), 25000)
 
                 if 0 <= job_index < 24:
                     job_index += 1
@@ -261,5 +282,5 @@ class JobmineCrawler(crawler.Crawler):
             raise TimeoutException('Job search results did not not load')
 
 if __name__ == '__main__':
-    jobmine_crawler = JobmineCrawler(None)
+    jobmine_crawler = JobmineCrawler()
     jobmine_crawler.run()

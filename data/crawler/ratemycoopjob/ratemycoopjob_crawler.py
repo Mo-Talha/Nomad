@@ -1,5 +1,6 @@
 import re
 
+import data.analysis.importer as importer
 import data.crawler.crawler as crawler
 import shared.ratemycoopjob as config
 
@@ -8,8 +9,8 @@ from selenium.common.exceptions import NoSuchElementException
 
 
 class RateMyCoopJobCrawler(crawler.Crawler):
-    def __init__(self, importer):
-        crawler.Crawler.__init__(self, config, importer)
+    def __init__(self):
+        crawler.Crawler.__init__(self, config)
 
     def login(self):
         self.driver.get(config.url)
@@ -68,15 +69,13 @@ class RateMyCoopJobCrawler(crawler.Crawler):
 
                 job_salary = job_salary_ele.text
 
-                self.importer.import_comment(employer_name=employer_name, job_title=job_title,
-                                             comment=job_comment, comment_date=job_comment_date,
-                                             salary=float(job_salary.replace('$', '').replace('/week', '')) / 40,
-                                             rating=job_rating)
-
-                self.importer.import_comment(employer_name)
+                importer.import_comment(employer_name=employer_name, job_title=job_title,
+                                        comment=job_comment, comment_date=job_comment_date,
+                                        salary=float(job_salary.replace('$', '').replace('/week', '')) / 40,
+                                        rating=job_rating)
 
             self.wait()
 
 if __name__ == '__main__':
-    ratemycoopjob_crawler = RateMyCoopJobCrawler(None)
+    ratemycoopjob_crawler = RateMyCoopJobCrawler()
     ratemycoopjob_crawler.run()

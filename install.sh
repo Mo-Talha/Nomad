@@ -12,7 +12,7 @@ install_git(){
 }
 
 install_mongodb(){
-    if ! ls /etc/apt/sources.list.d/ 2>&1 | grep -q mongodb.list; then
+    if ! ls /etc/apt/sources.list.d/ 2>&1 | grep -q mongodb-org-3.2; then
         # Import mongodb public GPG key
         sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv EA312927
 
@@ -63,5 +63,5 @@ sudo echo
 
 install_git
 install_mongodb
-install_redis
+#install_redis
 install_phantom

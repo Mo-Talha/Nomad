@@ -1,7 +1,10 @@
+import sys
+
 from mongoengine import *
 
-import analysis.importer as importer
 import data.crawler.jobmine.jobmine_crawler as jobmine
+import data.crawler.ratemycoopjob.ratemycoopjob_crawler as ratemycoopjob
+
 import shared.secrets as secrets
 
 
@@ -12,5 +15,15 @@ def connect_mongo():
 if __name__ == '__main__':
     connect_mongo()
 
-    jobmine_crawler = jobmine.JobmineCrawler(importer)
-    jobmine_crawler.run()
+    if sys.argv[1]:
+        if sys.argv[1] == 'jobmine':
+            jobmine_crawler = jobmine.JobmineCrawler()
+            jobmine_crawler.run()
+
+        elif sys.argv[1] == 'ratemycoopjob':
+            ratemycoopjob_crawler = ratemycoopjob.RateMyCoopJobCrawler()
+            ratemycoopjob_crawler.run()
+
+        else:
+            jobmine_crawler = jobmine.JobmineCrawler()
+            jobmine_crawler.run()

@@ -16,9 +16,8 @@ import shared.logger as logger
 
 
 class Crawler:
-    def __init__(self, config, importer):
+    def __init__(self, config):
         self.config = config
-        self.importer = importer
 
         self._base_path = '{}/{}/'.format(os.path.dirname(os.path.abspath(__file__)),
                                           config.name.lower())

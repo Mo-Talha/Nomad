@@ -236,6 +236,10 @@ programs = {
         'program': 'ENV-(unspecified)',
         'faculty': 'Environment'
     },
+    'ENV\s*?-?\s*?ERS': {
+        'program': 'ENV-(unspecified)',
+        'faculty': 'Environment'
+    },
     'ENV\s*?-?\s*?Env\s*?&?\s*?Resource\s*?Studies': {
         'program': 'ENV-Env & Resource Studies',
         'faculty': 'Environment'
@@ -245,7 +249,7 @@ programs = {
         'faculty': 'Environment'
     },
     'ENV\s*?-?\s*?Geog\s*?&?\s*?Env\s*?Management': {
-        'program': 'ENV-Environment & Business',
+        'program': 'ENV-Geog & Env Management',
         'faculty': 'Environment'
     },
     'ENV\s*?-?\s*?Geomatics': {
