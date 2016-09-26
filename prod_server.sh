@@ -4,10 +4,10 @@
 sudo echo
 
 echo "Configuring Mongo"
-sudo cp -v ./config/mongodb_dev.yaml /etc/mongod.conf
+sudo cp -v ./config/mongodb_prod.yaml /etc/mongod.conf
 
 echo "Configuring Redis"
-sudo cp -v ./config/redis_dev.conf /etc/redis/redis.conf
+sudo cp -v ./config/redis_prod.conf /etc/redis/redis.conf
 
 
 echo "Starting Mongo"

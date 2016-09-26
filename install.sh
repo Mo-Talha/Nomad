@@ -38,6 +38,8 @@ install_redis(){
     cd ..
     sudo rm -rf redis-stable
     sudo rm -rf redis-stable.tar.gz
+
+    sudo apt-get install redis-server
 }
 
 install_phantom(){

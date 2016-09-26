@@ -1,9 +1,9 @@
 systemLog:
    destination: file
-   path: "/home/nomad/logs/mongo/mongo.log"
+   path: "/home/Nomad/logs/mongo/mongo.log"
    logAppend: true
 storage:
-   dbPath: "/home/nomad/data/mongo"
+   dbPath: "/home/Nomad/data/mongo"
    journal:
       enabled: true
    bindIp: 127.0.0.1
