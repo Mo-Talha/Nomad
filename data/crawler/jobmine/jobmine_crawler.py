@@ -61,7 +61,7 @@ class JobmineCrawler(crawler.Crawler):
         coop_discipline_menu_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
         coop_discipline_menu_3 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
 
-        all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')[47:] #TODO: change to 1:
+        all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option') #TODO: change to 1:
 
         disciplines_len = len(all_disciplines)
 
@@ -78,37 +78,37 @@ class JobmineCrawler(crawler.Crawler):
             coop_discipline_menu_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
             coop_discipline_menu_3 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
 
-            all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')[47:] #TODO: change to 1
+            all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option') #TODO: change to 1
 
-            self.logger.info(self.config.name, 'Setting discipline 1: {}'.format(all_disciplines[i].text))
+            self.logger.info(self.config.name, 'Setting discipline 1: {}'.format(all_disciplines[49].text))
 
             # Select discipline 1
-            all_disciplines[i].click()
+            all_disciplines[49].click() #TODO: change to i
 
             # If next discipline exists, set it to discipline 2
             if 0 <= i + 1 < disciplines_len:
-                self.logger.info(self.config.name, 'Setting discipline 2: {}'.format(all_disciplines[i + 1].text))
+                self.logger.info(self.config.name, 'Setting discipline 2: {}'.format(all_disciplines[57].text))
 
                 coop_discipline_menu_2.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP2']"
-                                                              "/option[@value='{}']"
-                                                    .format(all_disciplines[i + 1]
+                                                              "/option[@value='{}']" #TODO: change to i
+                                                    .format(all_disciplines[57]
                                                             .get_attribute("value"))).click()
             else:
                 coop_discipline_menu_2.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP2']"
                                                               "/option[@value='']").click()
             # If next discipline exists, set it to discipline 3
             if 0 <= i + 2 < disciplines_len:
-                self.logger.info(self.config.name, 'Setting discipline 3: {}'.format(all_disciplines[i + 2].text))
+                self.logger.info(self.config.name, 'Setting discipline 3: {}'.format(all_disciplines[75].text))
 
                 coop_discipline_menu_3.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP3']"
-                                                              "/option[@value='{}']"
-                                                    .format(all_disciplines[i + 2]
+                                                              "/option[@value='{}']" #TODO: change to i
+                                                    .format(all_disciplines[75]
                                                             .get_attribute("value"))).click()
             else:
                 coop_discipline_menu_3.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP3']"
                                                               "/option[@value='']").click()
 
-            i += 4
+            i += 3
 
             search_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCHDW_UW_CO_DW_SRCHBTN')
 
@@ -147,18 +147,19 @@ class JobmineCrawler(crawler.Crawler):
                     (By.ID, 'UW_CO_JOBAPP_CT_UW_CO_MAX_RESUMES${}'.format(job_index)).text
 
                 # FIX DRY
-                if self.connection.exists('{}:{}'.format(employer_name, job_title)):
-                    self.logger.info(self.config.name, 'Job: {} from {} already exists in Redis, skipping..'.format(employer_name, job_title))
+     #           if self.connection.exists('{}:{}'.format(employer_name, job_title)):
+    #                self.logger.info(self.config.name, 'Job: {} from {} already exists in Redis, skipping..'.format(employer_name, job_title))
 
-                    if 0 <= job_index < 24:
-                        job_index += 1
+   #                 if 0 <= job_index < 24:
+  #                      job_index += 1
 
-                    else:
-                        self.logger.info(self.config.name, 'Transversing to next page..')
+ #                   else:
+#                        self.logger.info(self.config.name, 'Transversing to next page..')
 
-                        job_index = 0
+                 #       job_index = 0
 
-                    continue
+                 #   continue
+                 #
 
                 self.driver.execute_script("javascript:submitAction_win0(document.win0,'UW_CO_JOBTITLE_HL${}');"
                                            .format(job_index))
@@ -199,8 +200,8 @@ class JobmineCrawler(crawler.Crawler):
                                     openings=openings, applicants=applicants, summary=summary, date=now,
                                     programs=programs)
 
-                self.connection.set('{}:{}'.format(employer_name, job_title), 1)
-                self.connection.expire('{}:{}'.format(employer_name, job_title), 25000)
+                #self.connection.set('{}:{}'.format(employer_name, job_title), 1)
+                #self.connection.expire('{}:{}'.format(employer_name, job_title), 25000)
 
                 if 0 <= job_index < 24:
                     job_index += 1

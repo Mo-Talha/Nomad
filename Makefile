@@ -18,14 +18,23 @@ import_jobs:
 	@echo
 
 	@echo "Importing jobs"
-	PYTHONPATH=.. python data/main.py jobmine
+	PYTHONPATH=.
+	python data/main.py jobmine
+
+	@echo
+	@echo "*** Done ***"
 
 import_comments:
-	@echo "*** Importing RateMyCoopJob data. This may take several hours or less."
+	@echo "*** Importing RateMyCoopJob data. This may take several hours or less. ***"
 	@echo
 
 	@echo "Importing comments"
-	PYTHONPATH=.. python data/main.py ratemycoopjob
+	PYTHONPATH=.
+	python data/main.py ratemycoopjob
+
+	@echo
+	@echo "*** Done ***"
+
 
 import: import_jobs import_comments
 

@@ -15,7 +15,7 @@ def connect_mongo():
 if __name__ == '__main__':
     connect_mongo()
 
-    if sys.argv[1]:
+    if len(sys.argv) > 1:
         if sys.argv[1] == 'jobmine':
             jobmine_crawler = jobmine.JobmineCrawler()
             jobmine_crawler.run()
@@ -24,6 +24,6 @@ if __name__ == '__main__':
             ratemycoopjob_crawler = ratemycoopjob.RateMyCoopJobCrawler()
             ratemycoopjob_crawler.run()
 
-        else:
-            jobmine_crawler = jobmine.JobmineCrawler()
-            jobmine_crawler.run()
+    else:
+        jobmine_crawler = jobmine.JobmineCrawler()
+        jobmine_crawler.run()

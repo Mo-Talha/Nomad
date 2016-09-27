@@ -52,7 +52,7 @@ def import_job(**kwargs):
 
     applicants = 0
 
-    if not kwargs['applicants'].encode('ascii', 'ignore'):
+    if kwargs['applicants'].encode('ascii', 'ignore'):
         applicants = int(kwargs['applicants'])
 
     logger.info(COMPONENT, 'Importing job: {} from {}'.format(job_title, employer_name))
