@@ -1,11 +1,9 @@
-from mongoengine import *
-
 from datetime import datetime
 import re
 
-from models.exceptions import DataIntegrityError
-import shared.logger as logger
+import engine
 
+from models.exceptions import DataIntegrityError
 from models.employer import Employer
 from models.job import Job
 from models.applicant import Applicant
@@ -13,7 +11,8 @@ from models.comment import Comment
 
 import models.program as Program
 
-import engine
+import shared.logger as logger
+
 
 COMPONENT = 'Importer'
 
@@ -24,21 +23,22 @@ def import_job(**kwargs):
     Keyword arguments:
     employer_name -- Employer name
     job_title -- Title of job
+    summary -- Job summary
     year -- Year the job was advertised
     term -- Term job was advertised [Fall -> 1, Winter -> 2, Spring -> 3]
-    levels -- Levels job is intended for [Junior, Intermediate, Senior]
-    programs -- Programs the job is specified for
     location -- Location job was advertised
     openings -- Number of job openings
     remaining -- Number of job openings remaining
-    summary -- Job summary
-    url -- URL of job in Jobmine. Optional
-    applicants -- Number of applicants job has. Pass -1 for unchanged if job exists
+    applicants -- Number of applicants job has. (-1 for unchanged, if job exists, Optional)
+    levels -- Levels job is intended for [Junior, Intermediate, Senior]
+    programs -- Programs the job is specified for
+    url -- URL of job in Jobmine (Optional)
     """
 
-    # Convert to ASCII (ignore Unicode)
     employer_name = kwargs['employer_name'].encode('ascii', 'ignore').lower()
+
     job_title = kwargs['job_title'].encode('ascii', 'ignore').lower()
+
     term = int(kwargs['term'])
 
     levels = [level.encode('ascii', 'ignore').strip() for level in kwargs['levels'].split(',')]
@@ -47,8 +47,11 @@ def import_job(**kwargs):
                 for program in kwargs['programs'].split(',')]
 
     location = kwargs['location'].encode('ascii', 'ignore').lower()
+
     openings = int(kwargs['openings'])
+
     summary = kwargs['summary']
+
     date = kwargs['date']
     year = date.year
 
@@ -70,14 +73,14 @@ def import_job(**kwargs):
 
         employer = Employer(name=employer_name)
 
-        applicant = Applicant(applicants=applicants, date=date)
-
         logger.info(COMPONENT, 'Creating job: {}..'.format(job_title))
 
-        # Assume new job so number of remaining positions is same as openings
-        job = Job(title=job_title, summary=engine.filter_summary(summary).encode('ascii', 'ignore'), year=year,
-                  term=term, location=[location], openings=openings, remaining=openings, applicants=[applicant],
-                  levels=levels, programs=programs, url=url)
+        applicant = Applicant(applicants=applicants, date=date)
+
+        # New job so number of remaining positions is same as openings
+        job = Job(title=job_title, summary=engine.filter_summary(summary), year=year,
+                  term=term, location=[location], openings=openings, remaining=openings,
+                  applicants=[applicant], levels=levels, programs=programs, url=url)
 
         job.save()
 
@@ -96,10 +99,10 @@ def import_job(**kwargs):
 
             applicant = Applicant(applicants=applicants, date=date)
 
-            # Assume new job so number of remaining positions is same as openings
-            job = Job(title=job_title, summary=engine.filter_summary(summary).encode('ascii', 'ignore'), year=year,
-                      term=term, location=[location], openings=openings, remaining=openings, applicants=[applicant],
-                      levels=levels, programs=programs, url=url)
+            # New job so number of remaining positions is same as openings
+            job = Job(title=job_title, summary=engine.filter_summary(summary), year=year,
+                      term=term, location=[location], openings=openings, remaining=openings,
+                      applicants=[applicant], levels=levels, programs=programs, url=url)
 
             job.save()
 
@@ -111,7 +114,7 @@ def import_job(**kwargs):
 
             job = Job.objects(id__in=[job.id for job in employer.jobs], title=job_title).first()
     
-            filtered_summary = engine.filter_summary(summary).encode('ascii', 'ignore')
+            filtered_summary = engine.filter_summary(summary)
 
             if not year >= job.year:
                 raise DataIntegrityError('Job: {} by {} cannot be advertised before {}'
@@ -163,7 +166,7 @@ def import_job(**kwargs):
                         remaining = openings
 
                     # Applicants are unchanged. This is done because a job is being updated (i.e. not posted but we
-                    # want to update positions available)
+                    # want to update it regardless)
                     if applicants == -1:
                         job.update(add_to_set__location=location, set__remaining=remaining,
                                    set__levels=list(set(levels + job.levels)),

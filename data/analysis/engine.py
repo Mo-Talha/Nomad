@@ -1,7 +1,6 @@
 import re
 
 import filters
-import patterns
 
 
 def filter_summary(summary):
