@@ -1,11 +1,10 @@
-import redis
-
 import data.crawler.crawler as crawler
 import shared.jobmine as config
 
 import data.analysis.importer as importer
 
-import models.term as term
+from models.job import Job
+import models.term as Term
 
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -21,9 +20,6 @@ class JobmineCrawler(crawler.Crawler):
         crawler.Crawler.__init__(self, config)
 
     def login(self):
-        #TODO: remove and abstract
-        self.connection = redis.Redis('localhost')
-
         self.driver.get(config.url)
 
         self.logger.info(self.config.name, 'Loaded {} homepage'.format(config.name))
@@ -61,7 +57,7 @@ class JobmineCrawler(crawler.Crawler):
         coop_discipline_menu_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
         coop_discipline_menu_3 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
 
-        all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option') #TODO: change to 1:
+        all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')[1:]
 
         disciplines_len = len(all_disciplines)
 
@@ -72,37 +68,39 @@ class JobmineCrawler(crawler.Crawler):
         # Iterate through all disciplines
         for option in [disciplines[0] for disciplines in izip_longest(*[iter(all_disciplines)] * 3)]:
 
+            break
+
             # Each time we iterate through we click and/or interact with the DOM thus changing it. This
             # means that our old references to elements are stale and need to be reloaded.
             coop_discipline_menu_1 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
             coop_discipline_menu_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
             coop_discipline_menu_3 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
 
-            all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option') #TODO: change to 1
+            all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')[1:]
 
-            self.logger.info(self.config.name, 'Setting discipline 1: {}'.format(all_disciplines[49].text))
+            self.logger.info(self.config.name, 'Setting discipline 1: {}'.format(all_disciplines[i].text))
 
             # Select discipline 1
-            all_disciplines[49].click() #TODO: change to i
+            all_disciplines[i].click()
 
             # If next discipline exists, set it to discipline 2
             if 0 <= i + 1 < disciplines_len:
-                self.logger.info(self.config.name, 'Setting discipline 2: {}'.format(all_disciplines[57].text))
+                self.logger.info(self.config.name, 'Setting discipline 2: {}'.format(all_disciplines[i + 1].text))
 
                 coop_discipline_menu_2.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP2']"
-                                                              "/option[@value='{}']" #TODO: change to i
-                                                    .format(all_disciplines[57]
+                                                              "/option[@value='{}']"
+                                                    .format(all_disciplines[i + 1]
                                                             .get_attribute("value"))).click()
             else:
                 coop_discipline_menu_2.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP2']"
                                                               "/option[@value='']").click()
             # If next discipline exists, set it to discipline 3
             if 0 <= i + 2 < disciplines_len:
-                self.logger.info(self.config.name, 'Setting discipline 3: {}'.format(all_disciplines[75].text))
+                self.logger.info(self.config.name, 'Setting discipline 3: {}'.format(all_disciplines[i + 2].text))
 
                 coop_discipline_menu_3.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP3']"
-                                                              "/option[@value='{}']" #TODO: change to i
-                                                    .format(all_disciplines[75]
+                                                              "/option[@value='{}']"
+                                                    .format(all_disciplines[i + 2]
                                                             .get_attribute("value"))).click()
             else:
                 coop_discipline_menu_3.find_element(By.XPATH, "//select[@id='UW_CO_JOBSRCH_UW_CO_ADV_DISCP3']"
@@ -132,6 +130,10 @@ class JobmineCrawler(crawler.Crawler):
             # Iterate through all jobs in current page
             for index in range(0, total_results):
 
+                # For some reason when there are no jobs posted, jobmine says 1 total results
+                if total_results <= 1:
+                    continue
+
                 employer_name = self._wait_till_find_element_by \
                     (By.ID, 'UW_CO_JOBRES_VW_UW_CO_PARENT_NAME${}'.format(job_index)).text
 
@@ -146,62 +148,57 @@ class JobmineCrawler(crawler.Crawler):
                 applicants = self._wait_till_find_element_by \
                     (By.ID, 'UW_CO_JOBAPP_CT_UW_CO_MAX_RESUMES${}'.format(job_index)).text
 
-                # FIX DRY
-     #           if self.connection.exists('{}:{}'.format(employer_name, job_title)):
-    #                self.logger.info(self.config.name, 'Job: {} from {} already exists in Redis, skipping..'.format(employer_name, job_title))
+                job_key = '{}.{}'.format(employer_name, job_title).replace(' ', '.')
 
-   #                 if 0 <= job_index < 24:
-  #                      job_index += 1
+                if not self.redis.exists(job_key):
+                    self.driver.execute_script("javascript:submitAction_win0(document.win0,'UW_CO_JOBTITLE_HL${}');"
+                                               .format(job_index))
 
- #                   else:
-#                        self.logger.info(self.config.name, 'Transversing to next page..')
+                    # Wait for new window to open containing job information
+                    WebDriverWait(self.driver, 15).until(lambda d: len(d.window_handles) == 2)
 
-                 #       job_index = 0
+                    # Switch to new window
+                    self.driver.switch_to.window(self.driver.window_handles[1])
 
-                 #   continue
-                 #
+                    self._switch_to_iframe('ptifrmtgtframe')
 
-                self.driver.execute_script("javascript:submitAction_win0(document.win0,'UW_CO_JOBTITLE_HL${}');"
-                                           .format(job_index))
+                    summary = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
 
-                # Wait for new window to open containing job information
-                WebDriverWait(self.driver, 15).until(lambda d: len(d.window_handles) == 2)
+                    programs = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR').text.strip(',')
+                    programs_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100').text.strip(',')
 
-                # Switch to new window
-                self.driver.switch_to.window(self.driver.window_handles[1])
+                    if not programs_2.isspace():
+                        programs += ',' + programs_2
 
-                self._switch_to_iframe('ptifrmtgtframe')
+                    levels = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR_100').text
 
-                summary = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
+                    url = self.driver.current_url
 
-                programs = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR').text.strip(',')
+                    self.driver.close()
 
-                programs_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100').text.strip(',')
+                    # Wait for job window to close
+                    WebDriverWait(self.driver, 15).until(lambda d: len(d.window_handles) == 1)
 
-                if not programs_2.isspace():
-                    programs += ',' + programs_2
+                    # Switch back to job search page
+                    self.driver.switch_to.window(self.driver.window_handles[0])
 
-                levels = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR_100').text
+                    self._switch_to_iframe('ptifrmtgtframe')
 
-                self.driver.close()
+                    now = datetime.now()
 
-                # Wait for job window to close
-                WebDriverWait(self.driver, 15).until(lambda d: len(d.window_handles) == 1)
+                    importer.import_job(employer_name=employer_name, job_title=job_title,
+                                        term=Term.get_term(now.month), location=location, levels=levels,
+                                        openings=openings, applicants=applicants, summary=summary, date=now,
+                                        programs=programs, url=url)
 
-                # Switch back to job search page
-                self.driver.switch_to.window(self.driver.window_handles[0])
+                    self.redis.set(job_key, 1)
+                    self.redis.expire(job_key, 43200)
 
-                self._switch_to_iframe('ptifrmtgtframe')
+                    self.wait()
 
-                now = datetime.now()
-
-                importer.import_job(employer_name=employer_name, job_title=job_title,
-                                    term=term.get_term(now.month), location=location, levels=levels,
-                                    openings=openings, applicants=applicants, summary=summary, date=now,
-                                    programs=programs)
-
-                #self.connection.set('{}:{}'.format(employer_name, job_title), 1)
-                #self.connection.expire('{}:{}'.format(employer_name, job_title), 25000)
+                else:
+                    self.logger.info(self.config.name, 'Job: {} from {} already exists in cache, skipping..'
+                                     .format(job_title, employer_name))
 
                 if 0 <= job_index < 24:
                     job_index += 1
@@ -216,7 +213,45 @@ class JobmineCrawler(crawler.Crawler):
 
                     self._wait_for_job_results()
 
+        self.logger.info(self.config.name, 'Done importing new jobs')
+        self.logger.info(self.config.name, 'Updating active jobs..')
+
+        for job_url in Job.get_active_job_urls():
+            self.driver.get(job_url)
+
+            employer_name = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_EMPUNITDIV').text
+
+            job_title = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_TITLE').text
+
+            job_key = '{}.{}'.format(employer_name, job_title).replace(' ', '.')
+
+            if not self.redis.exists(job_key):
+                location = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_WORK_LOCATN').text
+
+                openings = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_AVAIL_OPENGS').text
+
+                summary = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
+
+                programs = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR').text.strip(',')
+                programs_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100').text.strip(',')
+
+                if not programs_2.isspace():
+                    programs += ',' + programs_2
+
+                levels = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR_100').text
+
+                now = datetime.now()
+
+                importer.import_job(employer_name=employer_name, job_title=job_title,
+                                    term=Term.get_term(now.month), location=location, levels=levels,
+                                    openings=openings, summary=summary, date=now,
+                                    programs=programs, applicants=-1)
+
                 self.wait()
+
+            else:
+                self.logger.info(self.config.name, 'Job: {} from {} already exists in cache, skipping..'
+                                 .format(job_title, employer_name))
 
     def set_search_params(self):
         try:
@@ -257,7 +292,7 @@ class JobmineCrawler(crawler.Crawler):
 
             now = datetime.now()
 
-            coop_term = term.get_coop_term(now)
+            coop_term = Term.get_coop_term(now)
 
             # Get next term since each term is looking for a co-op position for next term
             if 1 <= now.month <= 4:

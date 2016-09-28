@@ -32,6 +32,8 @@ def import_job(**kwargs):
     openings -- Number of job openings
     remaining -- Number of job openings remaining
     summary -- Job summary
+    url -- URL of job in Jobmine. Optional
+    applicants -- Number of applicants job has. Pass -1 for unchanged if job exists
     """
 
     # Convert to ASCII (ignore Unicode)
@@ -52,8 +54,13 @@ def import_job(**kwargs):
 
     applicants = 0
 
-    if kwargs['applicants'].encode('ascii', 'ignore'):
+    if 'applicants' in kwargs and kwargs['applicants']:
         applicants = int(kwargs['applicants'])
+
+    url = None
+
+    if 'url' in kwargs:
+        url = kwargs['url']
 
     logger.info(COMPONENT, 'Importing job: {} from {}'.format(job_title, employer_name))
 
@@ -70,7 +77,7 @@ def import_job(**kwargs):
         # Assume new job so number of remaining positions is same as openings
         job = Job(title=job_title, summary=engine.filter_summary(summary).encode('ascii', 'ignore'), year=year,
                   term=term, location=[location], openings=openings, remaining=openings, applicants=[applicant],
-                  levels=levels, programs=programs)
+                  levels=levels, programs=programs, url=url)
 
         job.save()
 
@@ -92,7 +99,7 @@ def import_job(**kwargs):
             # Assume new job so number of remaining positions is same as openings
             job = Job(title=job_title, summary=engine.filter_summary(summary).encode('ascii', 'ignore'), year=year,
                       term=term, location=[location], openings=openings, remaining=openings, applicants=[applicant],
-                      levels=levels, programs=programs)
+                      levels=levels, programs=programs, url=url)
 
             job.save()
 
@@ -122,7 +129,7 @@ def import_job(**kwargs):
                 # Assume new job so number of remaining positions is same as openings
                 new_job = Job(title=job_title, summary=filtered_summary, year=year, term=term,
                               location=[location], openings=openings, remaining=openings, applicants=[applicant],
-                              levels=levels, programs=programs)
+                              levels=levels, programs=programs, url=url)
     
                 new_job.save()
     
@@ -138,10 +145,12 @@ def import_job(**kwargs):
                     hire_ratio = float(job.openings - job.remaining) / job.openings
                     
                     job.hire_rate.add_rating(hire_ratio)
+
+                    applicant = Applicant(applicants=applicants, date=date)
                     
                     job.update(set__year=year, set__term=term, add_to_set__location=location, set__openings=openings,
-                               set__remaining=openings, push__applicants=Applicant(applicants=applicants, date=date),
-                               set__levels=levels, set__programs=programs)
+                               set__remaining=openings, push__applicants=applicant,
+                               set__levels=levels, set__programs=programs, url=url)
 
                 # Job is being updated. We need to update location, openings, levels, remaining, hire_rate, applicants
                 else:
@@ -153,10 +162,19 @@ def import_job(**kwargs):
                     if openings < job.openings:
                         remaining = openings
 
-                    job.update(add_to_set__location=location, set__remaining=remaining,
-                               push__applicants=Applicant(applicants=applicants, date=date),
-                               set__levels=list(set(levels + job.levels)),
-                               set__programs=list(set(programs + job.programs)))
+                    # Applicants are unchanged. This is done because a job is being updated (i.e. not posted but we
+                    # want to update positions available)
+                    if applicants == -1:
+                        job.update(add_to_set__location=location, set__remaining=remaining,
+                                   set__levels=list(set(levels + job.levels)),
+                                   set__programs=list(set(programs + job.programs)))
+
+                    else:
+                        applicant = Applicant(applicants=applicants, date=date)
+
+                        job.update(add_to_set__location=location, set__remaining=remaining,
+                                   set__levels=list(set(levels + job.levels)), push__applicants=applicant,
+                                   set__programs=list(set(programs + job.programs)), url=url)
 
 
 def import_comment(**kwargs):

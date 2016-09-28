@@ -2,6 +2,8 @@ import os
 import traceback
 import time
 
+import redis
+
 from datetime import datetime
 
 from selenium import webdriver
@@ -13,11 +15,13 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 
 import shared.logger as logger
+import shared.secrets as secrets
 
 
 class Crawler:
     def __init__(self, config):
         self.config = config
+        self.redis = redis.StrictRedis(host=secrets.REDIS_HOST, port=secrets.REDIS_PORT, db=secrets.REDIS_DB)
 
         self._base_path = '{}/{}/'.format(os.path.dirname(os.path.abspath(__file__)),
                                           config.name.lower())

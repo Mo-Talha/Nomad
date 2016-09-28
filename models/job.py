@@ -1,11 +1,13 @@
+from datetime import datetime
+
 from mongoengine import *
 
 from comment import Comment
 from applicant import Applicant
 from rating import AggregateRating
 
-import program
-import term
+import program as Program
+import term as Term
 
 
 class Job(Document):
@@ -18,6 +20,9 @@ class Job(Document):
     # Job title
     title = StringField(required=True)
 
+    # URL of job
+    url = URLField(required=False, default=None)
+
     # Job summary
     summary = StringField(required=True)
 
@@ -25,7 +30,7 @@ class Job(Document):
     year = IntField(required=True)
 
     # Term job was advertised
-    term = IntField(choices=(term.FALL_TERM, term.WINTER_TERM, term.SPRING_TERM))
+    term = IntField(choices=(Term.FALL_TERM, Term.WINTER_TERM, Term.SPRING_TERM))
 
     # Job location. Latest entry is most probable job location
     location = ListField(StringField(required=True))
@@ -43,7 +48,7 @@ class Job(Document):
     applicants = EmbeddedDocumentListField(Applicant, default=[])
 
     # Programs that the job is targeted for
-    programs = ListField(StringField(choices=program.get_programs()), default=[])
+    programs = ListField(StringField(choices=Program.get_programs()), default=[])
 
     # What level job is intended for
     levels = ListField(StringField(choices=('Junior', 'Intermediate', 'Senior')), default=[])
@@ -66,6 +71,12 @@ class Job(Document):
     @classmethod
     def comment_exists(cls, job_comment):
         return True if cls.objects(comments__summary=job_comment).count() > 0 else False
+
+    @staticmethod
+    def get_active_job_urls():
+        now = datetime.now()
+        return [job.url for job in Job.objects(year=now.year, term=Term.get_term(now.month), deprecated=False)
+                if job.url]
 
     def to_dict(self):
         return {
