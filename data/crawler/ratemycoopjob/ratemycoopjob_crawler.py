@@ -4,8 +4,9 @@ import data.analysis.importer as importer
 import data.crawler.crawler as crawler
 import shared.ratemycoopjob as config
 
+from models.employer import Employer
+
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import NoSuchElementException
 
 
 class RateMyCoopJobCrawler(crawler.Crawler):
@@ -34,48 +35,51 @@ class RateMyCoopJobCrawler(crawler.Crawler):
             self.driver.get('http://www.ratemycoopjob.com/job/{}'.format(i))
 
             # Ratemycoopjob.com sometimes has errors when querying for certain jobs
-            try:
+            if len(self.driver.find_elements_by_css_selector('.dialog')) > 0:
                 dialog = self.driver.find_element_by_class_name('dialog')
-            except NoSuchElementException:
-                pass
-            else:
+
                 self.logger.info(self.config.name, 'Error while querying for job: {}. Returned: {}'
                                  .format(i, dialog.text))
                 continue
 
-            title = self._wait_till_find_element_by(By.CLASS_NAME, 'job_title').text.split('at')
+            title = self._wait_till_find_element_by(By.CLASS_NAME, 'job_title').text
+            title = re.compile('\s+at\s+').split(title)
 
-            job_title = title[0].strip()
             employer_name = title[1].strip()
+            job_title = title[0].strip()
 
-            rating_list = self._wait_till_find_element_by(By.ID, 'job_rating_list')\
-                .find_elements_by_xpath("//div[@class='job_rating_box']")
+            if Employer.employer_and_job_exists(employer_name, job_title):
+                rating_list = self._wait_till_find_element_by(By.ID, 'job_rating_list')\
+                    .find_elements_by_xpath("//div[@class='job_rating_box']")
 
-            # Iterate through ratings which display comment, rating, salary etc.
-            for rating in rating_list:
-                rating_content = rating.find_element(By.CLASS_NAME, 'job_rating_content')
+                # Iterate through ratings which display comment, rating, salary etc.
+                for rating in rating_list:
+                    rating_content = rating.find_element(By.CLASS_NAME, 'job_rating_content')
 
-                job_rating_img_ele = rating_content.find_element(By.XPATH, ".//div[@class='job_rating']/img[1]")
-                job_comment_ele = rating_content.find_element(By.XPATH, ".//div[@class='job_rating_comment']")
-                job_comment_date_ele = job_comment_ele.find_element(By.XPATH, ".//span[@class='rating_date']/p[1]")
-                job_salary_ele = rating_content.find_element(By.XPATH, ".//div[@class='job_rating_salary_label']")
+                    job_rating_img_ele = rating_content.find_element(By.XPATH, ".//div[@class='job_rating']/img[1]")
 
-                job_rating = job_rating_img_ele.get_attribute('alt').split('_')[0]
+                    job_comment_ele = rating_content.find_element(By.XPATH, ".//div[@class='job_rating_comment']")
+                    job_comment_date_ele = job_comment_ele.find_element(By.XPATH, ".//span[@class='rating_date']/p[1]")
 
-                job_comment_text = job_comment_ele.text
-                job_comment = re.search("\"(.*)\"", job_comment_text).group(1)
+                    job_salary_ele = rating_content.find_element(By.XPATH, ".//div[@class='job_rating_salary_label']")
 
-                job_comment_date = job_comment_date_ele.text
+                    job_rating = job_rating_img_ele.get_attribute('alt').split('_')[0]
 
-                job_salary = job_salary_ele.text
+                    job_comment_text = job_comment_ele.text
+                    job_comment = re.search("\"(.*)\"", job_comment_text).group(1)
 
-                importer.import_comment(employer_name=employer_name, job_title=job_title,
-                                        comment=job_comment, comment_date=job_comment_date,
-                                        salary=float(job_salary.replace('$', '').replace('/week', '')) / 40,
-                                        rating=job_rating)
+                    job_comment_date = job_comment_date_ele.text
 
-            self.wait()
+                    job_salary = job_salary_ele.text
 
-if __name__ == '__main__':
-    ratemycoopjob_crawler = RateMyCoopJobCrawler()
-    ratemycoopjob_crawler.run()
+                    importer.import_comment(employer_name=employer_name, job_title=job_title,
+                                            comment=job_comment, comment_date=job_comment_date,
+                                            salary=float(job_salary.replace('$', '').replace('/week', '')
+                                                         .replace('Based on', '')) / 40,
+                                            rating=job_rating)
+
+                self.wait()
+
+            else:
+                self.logger.info(self.config.name, 'Job: {} from {} does not exist, ignoring..'
+                                 .format(job_title, employer_name))

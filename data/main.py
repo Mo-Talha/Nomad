@@ -2,8 +2,8 @@ import sys
 
 from mongoengine import *
 
-import data.crawler.jobmine.jobmine_crawler as jobmine
-import data.crawler.ratemycoopjob.ratemycoopjob_crawler as ratemycoopjob
+from data.crawler.jobmine.jobmine_crawler import JobmineCrawler
+from data.crawler.ratemycoopjob.ratemycoopjob_crawler import RateMyCoopJobCrawler
 
 import shared.secrets as secrets
 
@@ -17,13 +17,13 @@ if __name__ == '__main__':
 
     if len(sys.argv) > 1:
         if sys.argv[1] == 'jobmine':
-            jobmine_crawler = jobmine.JobmineCrawler()
+            jobmine_crawler = JobmineCrawler()
             jobmine_crawler.run()
 
         elif sys.argv[1] == 'ratemycoopjob':
-            ratemycoopjob_crawler = ratemycoopjob.RateMyCoopJobCrawler()
+            ratemycoopjob_crawler = RateMyCoopJobCrawler()
             ratemycoopjob_crawler.run()
 
     else:
-        jobmine_crawler = jobmine.JobmineCrawler()
+        jobmine_crawler = JobmineCrawler()
         jobmine_crawler.run()

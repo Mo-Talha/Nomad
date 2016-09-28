@@ -27,19 +27,21 @@ install_mongodb(){
 }
 
 install_redis(){
-    # Get latest version of Redis
-    wget http://download.redis.io/redis-stable.tar.gz
+    if ! dpkg -s redis-server | grep -q "install ok installed"; then
+        # Get latest version of Redis
+        wget http://download.redis.io/redis-stable.tar.gz
 
-    tar xvzf redis-stable.tar.gz
+        tar xvzf redis-stable.tar.gz
 
-    cd redis-stable
-    sudo make install
+        cd redis-stable
+        sudo make install
 
-    cd ..
-    sudo rm -rf redis-stable
-    sudo rm -rf redis-stable.tar.gz
+        cd ..
+        sudo rm -rf redis-stable
+        sudo rm -rf redis-stable.tar.gz
 
-    sudo apt-get install redis-server
+        sudo apt-get install redis-server
+    fi
 }
 
 install_phantom(){
@@ -63,5 +65,5 @@ sudo echo
 
 install_git
 install_mongodb
-#install_redis
+install_redis
 install_phantom

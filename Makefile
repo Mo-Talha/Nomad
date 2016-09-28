@@ -12,13 +12,15 @@ prod:
 
 clean:
 	find . -name '*.pyc' -delete
+	find . -name 'ghostdriver.log' -delete
+	find . -name 'screenshot.png' -delete
 
 import_jobs:
 	@echo "*** Importing Jobmine data. This may take several hours. ***"
 	@echo
 
 	@echo "Importing jobs"
-	PYTHONPATH=.
+	export PYTHONPATH=.
 	python data/main.py jobmine
 
 	@echo
@@ -29,7 +31,7 @@ import_comments:
 	@echo
 
 	@echo "Importing comments"
-	PYTHONPATH=.
+	export PYTHONPATH=.
 	python data/main.py ratemycoopjob
 
 	@echo

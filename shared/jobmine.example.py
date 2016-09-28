@@ -1,10 +1,8 @@
-import logging
-
-# Logger status for PhantomJS crawl
-loggerStatus = logging.INFO
-
 # Interval to crawl site (in seconds)
 crawler_interval = 10
+
+# How long each job is cached in seconds (cached jobs will be skipped in crawl)
+cache_interval = 43200
 
 # Name of crawl job
 name = 'Jobmine'

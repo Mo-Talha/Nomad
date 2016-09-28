@@ -1,8 +1,5 @@
 import re
 
-"""
-This module is used to manage UW programs.
-"""
 
 programs = {
     'AHS\s*?-?\s*?\(?unspecified\)?': {

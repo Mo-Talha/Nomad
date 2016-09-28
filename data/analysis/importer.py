@@ -248,10 +248,20 @@ def _get_comment_date(date_str):
         day = date.day - date_num
 
     elif 'month' in date_time:
-        month = date.month - date_num
+        if datetime == 12:
+            year = date.year - 1
+
+        else:
+            month = date.month - date_num
 
     elif 'year' in date_time:
         year = date.year - date_num
+
+    if day < 1:
+        day = 1
+
+    if not 1 <= month <= 12:
+        month = 1
 
     return datetime(year, month, day)
 

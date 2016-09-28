@@ -1,6 +1,6 @@
-from datetime import datetime
-
 from mongoengine import *
+
+from datetime import datetime
 
 from comment import Comment
 from applicant import Applicant
@@ -51,7 +51,7 @@ class Job(Document):
     programs = ListField(StringField(choices=Program.get_programs()), default=[])
 
     # What level job is intended for
-    levels = ListField(StringField(choices=('Junior', 'Intermediate', 'Senior')), default=[])
+    levels = ListField(StringField(choices=(Term.JUNIOR_TERM, Term.INTERMEDIATE_TERM, Term.SENIOR_TERM)), default=[])
 
     # Comments about job (either crawled from ratemycoopjob or added by UW students)
     comments = EmbeddedDocumentListField(Comment, default=[])
@@ -77,15 +77,3 @@ class Job(Document):
         now = datetime.now()
         return [job.url for job in Job.objects(year=now.year, term=Term.get_term(now.month), deprecated=False)
                 if job.url]
-
-    def to_dict(self):
-        return {
-            'title': self.title,
-            'summary': self.summary,
-            'year': self.year,
-            'term': self.term,
-            'location': self.location,
-            'openings': self.openings,
-            'remaining': self.remaining,
-            'hire_rate': self.hire_rate
-        }
