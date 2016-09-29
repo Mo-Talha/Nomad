@@ -20,8 +20,7 @@ import_jobs:
 	@echo
 
 	@echo "Importing jobs"
-	export PYTHONPATH=.
-	python data/main.py jobmine
+	PYTHONPATH=$(PYTHONPATH):. python data/main.py jobmine
 
 	@echo
 	@echo "*** Done ***"
@@ -31,8 +30,7 @@ import_comments:
 	@echo
 
 	@echo "Importing comments"
-	export PYTHONPATH=.
-	python data/main.py ratemycoopjob
+	PYTHONPATH=$(PYTHONPATH):. python data/main.py ratemycoopjob
 
 	@echo
 	@echo "*** Done ***"

@@ -25,5 +25,5 @@ if __name__ == '__main__':
             ratemycoopjob_crawler.run()
 
     else:
-        jobmine_crawler = JobmineCrawler()
-        jobmine_crawler.run()
+        ratemycoopjob_crawler = RateMyCoopJobCrawler()
+        ratemycoopjob_crawler.run()

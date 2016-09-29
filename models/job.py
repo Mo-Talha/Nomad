@@ -70,7 +70,7 @@ class Job(Document):
 
     @classmethod
     def comment_exists(cls, job_comment):
-        return True if cls.objects(comments__summary=job_comment).count() > 0 else False
+        return True if cls.objects(comments__comment=job_comment).count() > 0 else False
 
     @staticmethod
     def get_active_job_urls():

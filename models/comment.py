@@ -7,6 +7,9 @@ from rating import AggregateRating
 
 class Comment(EmbeddedDocument):
 
+    # Title of job
+    title = StringField(required=False, default=None)
+
     # Comment
     comment = StringField(required=True)
 

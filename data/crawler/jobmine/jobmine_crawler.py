@@ -3,6 +3,7 @@ from datetime import datetime
 
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 
@@ -28,7 +29,7 @@ class JobmineCrawler(crawler.Crawler):
 
         pass_ele = self._wait_till_find_element_by(By.ID, 'pwd')
         pass_ele.send_keys(config.password)
-        pass_ele.send_keys(self.keys.ENTER)
+        pass_ele.send_keys(Keys.ENTER)
 
     def navigate(self):
         self.wait()

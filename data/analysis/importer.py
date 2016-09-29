@@ -125,6 +125,10 @@ def import_job(**kwargs):
                 logger.info(COMPONENT, 'Job: {}: different summary detected, deprecating and creating new job..'
                             .format(job_title))
 
+                if applicants == -1:
+                    raise DataIntegrityError('Job: {} by {} cannot be updated because the passed summary did not match'
+                                             .format(job_title, employer_name))
+
                 job.update(set__deprecated=True)
                 
                 applicant = Applicant(applicants=applicants, date=date)
@@ -186,52 +190,60 @@ def import_comment(**kwargs):
     Keyword arguments:
     employer_name -- Employer name
     job_title -- Title of job
-    comment -- Comment
-    comment_date -- Date comment was submitted. Note: in non-standard form such as: 5 years ago, 3 weeks ago
-    salary -- Job salary (hourly)
-    rating -- Job rating out of 5
+    comments: -- Array of comments
+        comment -- Comment
+        comment_date -- Date comment was submitted. Note: in non-standard form such as: 5 years ago, 3 weeks ago etc
+        salary -- Job salary (hourly)
+        rating -- Job rating out of 5
     """
 
-    # Convert to ASCII (ignore Unicode)
     employer_name = kwargs['employer_name'].encode('ascii', 'ignore').lower()
-    job_title = kwargs['job_title'].encode('ascii', 'ignore').lower()
-    comment = kwargs['comment'].encode('ascii', 'ignore')
-    comment_date = _get_comment_date(kwargs['comment_date'].encode('ascii', 'ignore'))
-    salary = float(kwargs['salary'])
-    rating = float(kwargs['rating']) / 5
 
-    logger.info(COMPONENT, 'Importing comment for job: {} from {}'.format(job_title, employer_name))
+    job_title = kwargs['job_title'].encode('ascii', 'ignore').lower()
 
     # If employer does not exist
-    if not Employer.employer_exists(employer_name):
+    if not Employer.objects.search_text("\"{}\"".format(employer_name)).count() > 0:
         logger.info(COMPONENT, 'Employer: {} does not exist, ignoring..'.format(employer_name))
+        return
 
-    # Employer already exists
-    else:
-        employer = Employer.objects(name=employer_name).no_dereference().first()
+    logger.info(COMPONENT, 'Importing comments for job: {} from {}'.format(job_title, employer_name))
 
-        logger.info(COMPONENT, 'Employer: {} exists'.format(employer_name))
+    employer = Employer.objects.search_text(employer_name).no_dereference().first()
+
+    # Iterate through all comments
+    for index, comment_obj in enumerate(kwargs['comments']):
+
+        comment = comment_obj['comment'].encode('ascii', 'ignore')
+
+        comment_date = _get_comment_date(comment_obj['comment_date'])
+
+        salary = float(comment_obj['salary'])
+
+        rating = float(comment_obj['rating']) / 5
 
         # If job does not exist
         if not employer.job_exists(job_title):
-            logger.info(COMPONENT, 'Job: {} does not exist, ignoring..'.format(job_title))
+            logger.info(COMPONENT, 'Adding comment: {} to employer: {}'.format(index, employer_name))
+
+            new_comment = Comment(title=job_title, comment=comment, date=comment_date, salary=salary, crawled=True)
+            new_comment.rating.add_rating(rating)
+
+            employer.update(push__comments=new_comment)
 
         # Job already exists
         else:
-            logger.info(COMPONENT, 'Job: {} exists'.format(job_title))
-
             job = Job.objects(id__in=[job.id for job in employer.jobs], title=job_title).first()
 
-            # If comment does not exist
             if job.comment_exists(comment):
-                logger.info(COMPONENT, 'Comment already exists for job: {}, ignoring..'.format(job_title))
+                logger.info(COMPONENT, 'Comment: {} already exists for job: {}, ignoring..'.format(index, job_title))
 
             else:
-                logger.info(COMPONENT, 'Job: {}: adding new comment'.format(job_title))
+                logger.info(COMPONENT, 'Adding comment: {} for job: {} from {}'.format(index, job_title, employer_name))
 
-                new_comment = Comment(comment=comment, comment_date=comment_date, salary=salary, crawled=True)
+                new_comment = Comment(comment=comment, date=comment_date, salary=salary, crawled=True)
                 new_comment.rating.add_rating(rating)
-                new_comment.save()
+
+                job.update(push__comments=new_comment)
 
 
 def _get_comment_date(date_str):
@@ -267,5 +279,3 @@ def _get_comment_date(date_str):
         month = 1
 
     return datetime(year, month, day)
-
-
