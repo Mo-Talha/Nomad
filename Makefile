@@ -3,6 +3,7 @@ SHELL=/bin/bash
 install:
 	./install.sh
 	pip install -r requirements.txt
+	sudo python -m nltk.downloader -d /usr/local/share/nltk_data all
 
 devel:
 	./dev_server.sh

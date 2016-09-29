@@ -29,18 +29,17 @@ class Employer(Document):
     # Comments about employer (added by UW students)
     comments = EmbeddedDocumentListField(Comment, default=[])
 
-    @staticmethod
-    def employer_and_job_exists(employer_name, job_title):
-        if not Employer.employer_exists(employer_name.lower()):
-            return False
-
-        else:
-            employer = Employer.objects(name=employer_name.lower()).no_dereference().first()
-            return employer.job_exists(job_title.lower())
-
     @classmethod
     def employer_exists(cls, employer_name):
         return True if cls.objects(name=employer_name.lower()).count() > 0 else False
 
     def job_exists(self, job_title):
         return True if Job.objects(id__in=[j.id for j in self.jobs], title=job_title.lower()).count() > 0 else False
+
+    @classmethod
+    def comment_exists(cls, job_comment):
+        return True if cls.objects(comments__comment=job_comment, comments__crawled=True).count() > 0 else False
+
+    @classmethod
+    def get_crawled_comments(cls, job_comment):
+        return cls.objects(comments__comment=job_comment, comments__crawled=True)

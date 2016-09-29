@@ -29,6 +29,8 @@ def filter_summary(summary):
 
     return filtered_summary
 
+def get_keywords():
+    pass
 
 if __name__ == '__main__':
     print filter_summary(filters.test_summary)

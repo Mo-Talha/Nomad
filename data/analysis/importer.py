@@ -223,12 +223,17 @@ def import_comment(**kwargs):
 
         # If job does not exist
         if not employer.job_exists(job_title):
-            logger.info(COMPONENT, 'Adding comment: {} to employer: {}'.format(index, employer_name))
+            if employer.comment_exists(comment):
+                logger.info(COMPONENT, 'Comment: {} already exists for employer: {}, ignoring..'
+                            .format(index, employer_name))
 
-            new_comment = Comment(title=job_title, comment=comment, date=comment_date, salary=salary, crawled=True)
-            new_comment.rating.add_rating(rating)
+            else:
+                logger.info(COMPONENT, 'Adding comment: {} to employer: {}'.format(index, employer_name))
 
-            employer.update(push__comments=new_comment)
+                new_comment = Comment(title=job_title, comment=comment, date=comment_date, salary=salary, crawled=True)
+                new_comment.rating.add_rating(rating)
+
+                employer.update(push__comments=new_comment)
 
         # Job already exists
         else:
@@ -244,6 +249,11 @@ def import_comment(**kwargs):
                 new_comment.rating.add_rating(rating)
 
                 job.update(push__comments=new_comment)
+
+                # Remove same comment from employer (if exists)
+                logger.info(COMPONENT, 'Removing redundant comment: {} from employer {}'.format(index, employer_name))
+
+                employer.get_crawled_comments(comment).delete()
 
 
 def _get_comment_date(date_str):
