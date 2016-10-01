@@ -24,3 +24,14 @@ class Comment(EmbeddedDocument):
 
     # Whether comment was crawled from RateMyCoopJob or added via web app
     crawled = BooleanField(required=True, default=False)
+
+    def to_dict(self):
+        return {
+            'id': self._id,
+            'job_title': self.title,
+            'comment': self.comment,
+            'date': self.date,
+            'salary': self.salary,
+            'rating': self.rating.rating,
+            'crawled': self.crawled
+        }

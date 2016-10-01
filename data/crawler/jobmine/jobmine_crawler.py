@@ -69,6 +69,9 @@ class JobmineCrawler(crawler.Crawler):
 
         for option in [disciplines[0] for disciplines in izip_longest(*[iter(all_disciplines)] * 3)]:
 
+            #TODO: remove
+            break
+
             # Each time we iterate through we click and/or interact with the DOM thus changing it. This
             # means that our old references to elements are stale and need to be reloaded
             coop_discipline_menu_1 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
@@ -137,9 +140,10 @@ class JobmineCrawler(crawler.Crawler):
                     continue
 
                 employer_name = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBRES_VW_UW_CO_PARENT_NAME${}'
-                                                                .format(job_index)).text
+                                                                .format(job_index)).text.encode('ascii', 'ignore')
 
-                job_title = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBTITLE_HL${}'.format(job_index)).text
+                job_title = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBTITLE_HL${}'
+                                                            .format(job_index)).text.encode('ascii', 'ignore')
 
                 location = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBRES_VW_UW_CO_WORK_LOCATN${}'
                                                            .format(job_index)).text
@@ -224,12 +228,14 @@ class JobmineCrawler(crawler.Crawler):
         self.logger.info(self.config.name, '*** Updating active jobs ***')
 
         # Iterate through "active" jobs in DB (i.e. non-deprecated, current term)
-        for job_url in Job.get_active_job_urls():
-            self.driver.get(job_url)
+        for job in Job.get_active_job_urls():
+            self.driver.get(job['url'])
 
-            employer_name = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_EMPUNITDIV').text
+            employer_name = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_EMPUNITDIV').text\
+                .encode('ascii', 'ignore')
 
-            job_title = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_TITLE').text
+            job_title = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_TITLE').text\
+                .encode('ascii', 'ignore')
 
             job_key = 'jobmine.{}.{}'.format(employer_name, job_title).replace(' ', '.')
 
@@ -248,18 +254,17 @@ class JobmineCrawler(crawler.Crawler):
 
                 levels = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR_100').text
 
-                now = datetime.now()
+                importer.update_job(id=job['id'], location=location, levels=levels, openings=openings, summary=summary,
+                                    programs=programs)
 
-                importer.import_job(employer_name=employer_name, job_title=job_title,
-                                    term=Term.get_term(now.month), location=location, levels=levels,
-                                    openings=openings, summary=summary, date=now,
-                                    programs=programs, applicants=-1)
-
-                self.wait()
+                self.redis.set(job_key, 1)
+                self.redis.expire(job_key, self.config.cache_interval)
 
             else:
                 self.logger.info(self.config.name, 'Job: {} from {} already exists in cache, skipping..'
                                  .format(job_title, employer_name))
+
+            self.wait()
 
     def _set_search_params(self):
         try:

@@ -75,5 +75,30 @@ class Job(Document):
     @staticmethod
     def get_active_job_urls():
         now = datetime.now()
-        return [job.url for job in Job.objects(year=now.year, term=Term.get_term(now.month), deprecated=False)
-                if job.url]
+        return [job.to_dict_compact() for job in Job.objects(year=now.year, term=Term.get_term(now.month),
+                                                             deprecated=False).only('id', 'url') if job.url]
+
+    def to_dict_compact(self):
+        return {
+            'id': self.id,
+            'url': self.url,
+        }
+
+    def to_dict(self):
+        return {
+            'id': self.id,
+            'title': self.title,
+            'url': self.url,
+            'summary': self.summary,
+            'year': self.year,
+            'term': self.term,
+            'location': self.location,
+            'openings': self.openings,
+            'remaining': self.remaining,
+            'hire_rate': self.hire_rate.rating,
+            'applicants': [self.applicants.to_dict()],
+            'programs': self.programs,
+            'levels': self.levels,
+            'comments': [self.comments.to_dict()],
+            'deprecated': self.deprecated,
+        }

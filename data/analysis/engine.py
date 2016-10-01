@@ -1,5 +1,8 @@
 import re
 
+from nltk import sent_tokenize, word_tokenize
+from nltk.corpus import stopwords
+
 import filters
 
 
@@ -29,8 +32,11 @@ def filter_summary(summary):
 
     return filtered_summary
 
-def get_keywords():
-    pass
+
+def get_keywords(summary):
+    stop_words = set(stopwords.words('english'))
+    return [word for word in word_tokenize(summary) if word not in stop_words]
 
 if __name__ == '__main__':
-    print filter_summary(filters.test_summary)
+    for x in get_keywords(filter_summary(filters.test_summary)):
+        print x

@@ -29,10 +29,11 @@ def import_job(**kwargs):
     location -- Location job was advertised
     openings -- Number of job openings
     remaining -- Number of job openings remaining
-    applicants -- Number of applicants job has. (-1 for unchanged, if job exists, Optional)
+    applicants -- Number of applicants job has (Optional)
     levels -- Levels job is intended for [Junior, Intermediate, Senior]
     programs -- Programs the job is specified for
     url -- URL of job in Jobmine (Optional)
+    date -- Date job was crawled (useful for knowing exactly # of applicants at what time)
     """
 
     employer_name = kwargs['employer_name'].encode('ascii', 'ignore').lower()
@@ -57,7 +58,8 @@ def import_job(**kwargs):
 
     applicants = 0
 
-    if 'applicants' in kwargs and kwargs['applicants']:
+    if 'applicants' in kwargs and (isinstance(kwargs['applicants'], str) or
+                                   isinstance(kwargs['applicants'], unicode) and kwargs['applicants'].strip()):
         applicants = int(kwargs['applicants'])
 
     url = None
@@ -125,10 +127,6 @@ def import_job(**kwargs):
                 logger.info(COMPONENT, 'Job: {}: different summary detected, deprecating and creating new job..'
                             .format(job_title))
 
-                if applicants == -1:
-                    raise DataIntegrityError('Job: {} by {} cannot be updated because the passed summary did not match'
-                                             .format(job_title, employer_name))
-
                 job.update(set__deprecated=True)
                 
                 applicant = Applicant(applicants=applicants, date=date)
@@ -169,19 +167,70 @@ def import_job(**kwargs):
                     if openings < job.openings:
                         remaining = openings
 
-                    # Applicants are unchanged. This is done because a job is being updated (i.e. not posted but we
-                    # want to update it regardless)
-                    if applicants == -1:
-                        job.update(add_to_set__location=location, set__remaining=remaining,
-                                   set__levels=list(set(levels + job.levels)),
-                                   set__programs=list(set(programs + job.programs)))
+                    applicant = Applicant(applicants=applicants, date=date)
 
-                    else:
-                        applicant = Applicant(applicants=applicants, date=date)
+                    job.update(add_to_set__location=location, set__remaining=remaining,
+                               set__levels=list(set(levels + job.levels)), push__applicants=applicant,
+                               set__programs=list(set(programs + job.programs)), url=url)
 
-                        job.update(add_to_set__location=location, set__remaining=remaining,
-                                   set__levels=list(set(levels + job.levels)), push__applicants=applicant,
-                                   set__programs=list(set(programs + job.programs)), url=url)
+
+def update_job(**kwargs):
+    """Update job from Jobmine.
+
+    Keyword arguments:
+    id -- Job ID
+    summary -- Job summary
+    location -- Location job was advertised
+    programs -- Programs the job is specified for
+    levels -- Levels job is intended for [Junior, Intermediate, Senior]
+    openings -- Number of job openings
+    """
+
+    summary = kwargs['summary']
+
+    location = kwargs['location'].encode('ascii', 'ignore').lower()
+
+    programs = [Program.get_program(program.encode('ascii', 'ignore').strip())
+                for program in kwargs['programs'].split(',')]
+
+    levels = [level.encode('ascii', 'ignore').strip() for level in kwargs['levels'].split(',')]
+
+    openings = int(kwargs['openings'])
+
+    job = Job.objects(id=kwargs['id']).first()
+
+    remaining = job.openings
+
+    # Job posting has decreased, some positions filled up
+    if openings < job.openings:
+        remaining = openings
+
+    filtered_summary = engine.filter_summary(summary)
+
+    # Job summary is not the same. In this case the employer most likely changed the job
+    if not filtered_summary == job.summary:
+        logger.info(COMPONENT, 'Job: {}: different summary detected, deprecating and creating new job..'
+                    .format(kwargs['id']))
+
+        employer = Employer.objects(jobs=kwargs['id']).first()
+
+        job.update(set__deprecated=True)
+
+        # Assume new job so number of remaining positions is same as openings
+        new_job = Job(title=job.title, summary=filtered_summary, year=job.year, term=job.term,
+                      location=[location], openings=openings, remaining=openings,
+                      levels=levels, programs=programs, url=job.url)
+
+        new_job.save()
+
+        employer.update(push__jobs=new_job)
+
+    else:
+        logger.info(COMPONENT, 'Job: {}: updating for current term'.format(kwargs['id']))
+
+        job.update(add_to_set__location=location, set__remaining=remaining,
+                   set__levels=list(set(levels + job.levels)),
+                   set__programs=list(set(programs + job.programs)))
 
 
 def import_comment(**kwargs):
