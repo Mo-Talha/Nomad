@@ -8,6 +8,7 @@ from models.employer import Employer
 from models.job import Job
 from models.applicant import Applicant
 from models.comment import Comment
+import models.employer_alias as employer_alias
 
 import models.program as Program
 
@@ -249,6 +250,10 @@ def import_comment(**kwargs):
     employer_name = kwargs['employer_name'].encode('ascii', 'ignore').lower()
 
     job_title = kwargs['job_title'].encode('ascii', 'ignore').lower()
+
+    # If employer alias exists (ex. Research in motion -> Blackberry), use instead
+    if employer_name in employer_alias.aliases:
+        employer_name = employer_alias.aliases[employer_name]
 
     # If employer does not exist
     if not Employer.objects.search_text("\"{}\"".format(employer_name)).count() > 0:

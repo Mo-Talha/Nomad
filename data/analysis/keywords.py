@@ -15,5 +15,5 @@ grammar = "NP: {<DT>?<JJ>*<NN>}"
 chunkParser = nltk.RegexpParser(grammar)
 
 for sentence in sentences:
-	result = chunkParser.parse(sentence)
-	result.draw()
+    result = chunkParser.parse(sentence)
+    result.draw()
