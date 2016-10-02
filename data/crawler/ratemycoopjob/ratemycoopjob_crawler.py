@@ -40,6 +40,8 @@ class RateMyCoopJobCrawler(crawler.Crawler):
 
                 self.logger.info(self.config.name, 'Error while querying for job: {}. Returned: {}'
                                  .format(i, dialog.text))
+
+                total_results += 1
                 continue
 
             page_title = self._wait_till_find_element_by(By.CLASS_NAME, 'job_title').text

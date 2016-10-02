@@ -43,6 +43,7 @@ keywords = [
     "Argus",
     "AspectJ",
     "Assembly language",
+    "Assembly",
     "ATS",
     "Ateji PX",
     "AutoHotkey",

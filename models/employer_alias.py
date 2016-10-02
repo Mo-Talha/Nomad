@@ -1,4 +1,6 @@
+# Aliases for companies. Note: all should be lower case
+
 aliases = {
     'desire2learn': 'd2l',
-    'Research In Motion': 'BlackBerry'
+    'research in motion': 'blackBerry'
 }
