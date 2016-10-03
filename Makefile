@@ -6,10 +6,40 @@ install:
 	sudo python -m nltk.downloader -d /usr/local/share/nltk_data all
 
 devel:
-	./dev_server.sh
+	@echo "*** Setting development environment. ***"
+	@echo
+
+	@echo "Configuring Mongo"
+	sudo cp -v ./config/mongodb_dev.conf /etc/mongod.conf
+
+	@echo "Configuring Redis"
+	sudo cp -v ./config/redis_dev.conf /etc/redis/redis.conf
+
+	echo "Starting Mongo"
+	sudo service mongod start
+
+	echo "Starting Redis"
+	sudo service redis-server start
+
+	@echo "Done"
 
 prod:
-	./prod_server.sh
+	@echo "*** Setting production environment. ***"
+	@echo
+
+	@echo "Configuring Mongo"
+	sudo cp -v ./config/mongodb_prod.conf /etc/mongod.conf
+
+	@echo "Configuring Redis"
+	sudo cp -v ./config/redis_prod.conf /etc/redis/redis.conf
+
+	echo "Starting Mongo"
+	sudo service mongod start
+
+	echo "Starting Redis"
+	sudo service redis-server start
+
+	@echo "Done"
 
 clean:
 	find . -name '*.pyc' -delete

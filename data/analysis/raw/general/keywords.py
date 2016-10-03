@@ -20,6 +20,5 @@ keywords = [
     "Vietnamese",
     "French",
     "Urdu",
-    "Turkish",
-    ""
+    "Turkish"
 ]
