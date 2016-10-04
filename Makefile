@@ -15,10 +15,10 @@ devel:
 	@echo "Configuring Redis"
 	sudo cp -v ./config/redis_dev.conf /etc/redis/redis.conf
 
-	echo "Starting Mongo"
+	@echo "Starting Mongo"
 	sudo service mongod start
 
-	echo "Starting Redis"
+	@echo "Starting Redis"
 	sudo service redis-server start
 
 	@echo "Done"
@@ -33,10 +33,10 @@ prod:
 	@echo "Configuring Redis"
 	sudo cp -v ./config/redis_prod.conf /etc/redis/redis.conf
 
-	echo "Starting Mongo"
+	@echo "Starting Mongo"
 	sudo service mongod start
 
-	echo "Starting Redis"
+	@echo "Starting Redis"
 	sudo service redis-server start
 
 	@echo "Done"
