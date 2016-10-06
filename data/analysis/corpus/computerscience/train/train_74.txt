@@ -1,0 +1,30 @@
+Background./NN 
+
+The./DT William./NNP Ashley./NNP Brand./NNP was./VBD founded./VBN in./IN 1947./CD and./CC it./PRP is./VBZ amongst./IN the./DT largest./JJS and./CC most./RBS prestigious./JJ Tableware./NNP retailers./NNS in./IN the./DT world./NN ,./, carrying./VBG premier./JJR brands./NNS such./JJ as./IN Waterford./NNP ,./, Wedgwood./NNP ,./, Royal./NNP Doulton./NNP as./RB well./RB as./IN other./JJ famous./JJ brands./NNS from./IN throughout./IN the./DT world./NN ../. The./DT company./NN currently./RB operates./VBZ its./PRP$ flagship./NN store./NN in./IN the./DT Manulife./NNP Centre./NNP at./IN 55./CD Bloor./NNP St../NNP in./IN Toronto./NNP ../. In./IN addition./NN ,./, the./DT company./NN hosts./VBZ an./DT annual./JJ Warehouse./NNP Sale./NNP that./WDT is./VBZ amongst./VBN the./DT most./RBS popular./JJ shopping./NN events./NNS in./IN Toronto./NNP ,./, currently./RB in./IN its./PRP$ 41st./CD year./NN of./IN operation./NN ../. The./DT company./NN has./VBZ a./DT dynamic./JJ growing./VBG website./JJ business./NN and./CC has./VBZ many./JJ other./JJ exciting./VBG new./JJ initiatives./NNS to./TO revitalize./VB the./DT Brand./NNP and./CC to./TO expand./VB its./PRP$ product./NN selection./NN to./TO make./VB it./PRP relevant./JJ to./TO today./NN 's./POS consumer./NN ../. 
+
+William./NNP Ashley./NNP China./NNP Corporation./NNP is./VBZ a./DT subsidiary./NN of./IN Fairfax./NNP Financial./NNP Holdings./NNPS Ltd./NNP and./CC participates./NNS in./IN the./DT Fairfax./NNP Co-op./NNP Program./NNP ../. The./DT Fairfax./NNP Co-op./NNP Program./NNP is./VBZ looking./VBG for./IN innovative./JJ ,./, talented./VBN ,./, and./CC self-motivated./JJ University./NNP of./IN Waterloo./NNP students./NNS who./WP are./VBP interested./JJ in./IN domestic./JJ and./CC international./JJ work./NN experience./NN ../. 
+
+Fairfax./NNP Financial./NNP Holdings./NNP Limited./NNP is./VBZ a./DT financial./JJ services./NNS holding./VBG company./NN which./WDT ,./, through./IN its./PRP$ subsidiaries./NNS ,./, is./VBZ engaged./VBN in./IN property./NN and./CC casualty./NN insurance./NN and./CC reinsurance./NN and./CC investment./NN management./NN ../. Fairfax./NNP 's./POS corporate./JJ objective./NN is./VBZ to./TO achieve./VB a./DT high./JJ rate./NN of./IN return./NN on./IN invested./JJ capital./NN and./CC build./VB long-term./JJ shareholder./NN value./NN ../. 
+
+For./IN more./JJR information./NN please./IN visit./NN co-op.fairfax.ca./NN and./CC attend./VB our./PRP$ information./NN session./NN on./IN September./NNP 26th./CD at./IN 11:30./CD am./VBP in./IN TC./NNP 2218./CD ../. 
+
+Interviews./NNS :./: 
+
+The./DT Fairfax./NNP Co-op./NNP Program./NNP has./VBZ a./DT two-step./JJ interview./NN process./NN ../. If./IN selected./VBN for./IN an./DT interview./NN ,./, you./PRP will./MD have./VB one./CD interview./NN with./IN a./DT representative./NN from./IN Fairfax./NNP Financial./NNP Holdings./NNPS Ltd../NNP and./CC must./MD attend./VB an./DT information./NN session./NN that./IN morning./NN ../. The./DT second./JJ interview./NN will./MD be./VB with./IN the./DT co-op./JJ position./NN hiring./NN manager./NN ../. For./IN more./JJR information./NN please./NN visit./NN http./NN :./: //co-op.fairfax.ca/student-information/Interview-Process./NN ../. 
+
+Job./NNP Description./NNP 
+
+William./NNP Ashley./NNP is./VBZ undergoing./VBG exciting./VBG improvements./NNS to./TO its./PRP$ internal./JJ processes./NNS ../. A./DT new./JJ web./NN site./NN was./VBD launched./VBN in./IN 2014./CD using./VBG a./DT Magento./NNP Platform./NNP (./( an./DT eBay./NN product./NN )./) ../. The./DT co-op./JJ student./NN will./MD gain./VB significant./JJ experience./NN with./IN working./VBG on./IN data./NNS management./NN in./IN SQL./NNP and./CC Excel./NNP and./CC assist./NN in./IN providing./VBG critical./JJ information./NN flows./VBZ for./IN management./NN and./CC other./JJ users./NNS ,./, as./RB well./RB as./IN web./NN development./NN tools./NNS ../. 
+
+Principal./JJ Responsibilities./NNS 
+
+The./DT co-op./JJ student./NN will./MD be./VB given./VBN interesting./JJ dynamic./JJ projects./NNS that./WDT will./MD be./VB presented./VBN to./TO the./DT President./NNP and./CC other./JJ executives./NNS at./IN the./DT end./NN of./IN the./DT coop./NN period./NN and./CC can./MD be./VB used./VBN for./IN Coop./NNP Term./NNP Project./NNP Submission./NNP ../. 
+
+Qualifications./NNS for./IN Position./NN 
+
+-./: Independent./NN worker./NN with./IN strong./JJ analytical./JJ skills./NNS ;./: proficient./NN in./IN Excel./NNP a./DT must./MD ,./, SQL./VB a./DT benefit./NN ../. 
+-./: Flexible./NN in./IN a./DT fast./JJ past./NN ,./, multi./NN project./NN workplace./NN 
+-./: Interested./JJ in./IN Web./NNP presence./NN and./CC social./JJ media./NNS 
+-./: Other./JJ skills./NNS that./WDT would./MD be./VB an./DT asset./NN and/or./VBD the./DT student./NN would./MD gain./VB exposure./NN :./: HTML5./NNP ,./, CSS./NNP ,./, FTP./NNP 
+
+Location./NN :./: 111./CD Creditview./NNP Rd./NNP ../. Vaughan./NNP ,./, Ontario./NNP with./IN occasional./JJ working./JJ days./NNS at./IN 55./CD Bloor./NNP Street./NNP West./NNP ,./, Toronto./NNP 

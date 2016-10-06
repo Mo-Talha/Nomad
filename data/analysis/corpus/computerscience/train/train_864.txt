@@ -1,0 +1,27 @@
+About./IN Pitstop./NNP 
+Pitstop./NNP (./( Techstars./NNP Mobility./NNP S15./NNP )./) is./VBZ a./DT venture./NN backed./VBD company./NN headquartered./VBN in./IN Kitchener./NNP ,./, Ontario./NNP with./IN additional./JJ office./NN space./NN in./IN Detroit./NNP ,./, Michigan./NNP ../. At./IN Pitstop./NNP we./PRP are./VBP developing./VBG a./DT software./NN platform./NN that./WDT aggregates./VBZ data./NNS and./CC uses./VBZ machine./NN learning./VBG to./TO perform./VB predictive./JJ maintenance./NN for./IN vehicles./NNS ../. 
+
+Today./NN the./DT process./NN of./IN maintaining./VBG our./PRP$ vehicles./NNS is./VBZ time./NN consuming./VBG and./CC expensive./JJ ../. One./CD reason./NN for./IN this./DT is./VBZ because./IN information./NN is./VBZ fragmented./VBN amongst./JJ Service./NNP Centers./NNPS ,./, OEMs./NNP and./CC online./JJ databases./NNS ../. Pitstop./VB aggregates./NNS data./NNS from./IN key./JJ partners./NNS to./TO drive./VB predictive./JJ insights./NNS on./IN component./NN failures./NNS including./VBG the./DT emission./NN control./NN system./NN ,./, powertrain./NN issues./NNS (./( spark./NN ,./, fuel./NN ,./, airflow./NN )./) ,./, vehicle./NN recalls./NNS and./CC recurring./VBG maintenance./NN issues./NNS ../. 
+
+Working./VBG at./IN a./DT startup./NN means./VBZ working./VBG on./IN a./DT lot./NN of./IN different./JJ problems./NNS ../. Here./RB is./VBZ a./DT sample./NN of./IN the./DT type./NN of./IN problems./NNS we./PRP 're./VBP working./VBG on./IN :./: 
+
+-./: Machine./NN Learning./NN :./: Classifying./NN vehicle./NN failures./NNS based./VBN on./IN different./JJ criteria./NNS 
+-./: Data./NN Mining./NNP ,./, Information./NNP Retrieval./NNP :./: Mining./NNP online./NN content./NN to./TO identify./VB vehicle./NN problems./NNS and./CC fixes./NNS 
+-./: Web./NN Development./NNP ,./, Infrastructure./NN :./: Building./NN scalable./JJ ,./, highly./RB available./JJ ,./, fault./JJ tolerant./JJ systems./NNS 
+-./: Native./NN Application./NNP Development./NNP :./: iOS./NN and./CC Android./NNP 
+
+Job./NNP Listing./NNP 
+We./PRP are./VBP looking./VBG for./IN a./DT Full./NNP Stack./NNP Developer./NNP with./IN experience./NN in./IN mobile./NN (./( Android./NNP and/or./RB iOS./NN )./) ,./, backend./NN services./NNS ,./, and./CC databases./NNS (./( SQL./NNP and./CC NoSQL./NNP )./) who./WP possesses./VBZ a./DT strong./JJ background./NN in./IN software./NN engineering./NN and./CC will./MD work./VB with./IN us./PRP to./TO design./VB and./CC build./VB the./DT next./JJ generation./NN of./IN our./PRP$ platform./NN ../. 
+
+Responsibilities./NNS 
+-./: Architect./NN and./CC implement./JJ backend./NN and./CC mobile./JJ client./NN stack./NN 
+-./: Collaborate./NN with./IN crossfunctional./JJ teams./NNS (./( Sales./NNS ,./, Marketing./NN ,./, Engineering./VBG )./) to./TO define./VB ,./, design./NN ,./, and./CC ship./VB new./JJ features./NNS ../. 
+-./: Unittest./JJS code./NN for./IN robustness./NN ,./, including./VBG usability./NN and./CC general./JJ reliability./NN ../. 
+-./: Work./NN on./IN bug./NN fixing./NN and./CC improving./VBG application./NN performance./NN ../. 
+-./: Continuously./RB discover./RB ,./, evaluate./NN ,./, and./CC implement./JJ new./JJ technologies./NNS to./TO maximize./VB development./NN efficiency./NN ../. 
+
+Requirements./NNS 
+-./: Experience./NN with./IN leading./VBG web./JJ frameworks./NNS like./IN Node.js./NNP or./CC Tornado./NNP and./CC designing./VBG RESTful./NNP APIs./NNP 
+-./: Experience./NN with./IN either./DT Android./NNP or./CC iOS./NN development./NN 
+-./: Experience./NN with./IN relational./JJ and./CC nonrelational./JJ databases./NNS 
+-./: Proven./NN working./VBG experience./NN in./IN software./NN development./NN (./( preferably./RB with./IN a./DT startup./NN )./) ../. 

@@ -1,0 +1,23 @@
+This./DT position./NN is./VBZ limited./VBN to./TO students./NNS that./WDT are./VBP registered./VBN in./IN a./DT recognized./VBN Co-op./NN or./CC Intern./JJ Program./NNP at./IN a./DT Canadian./JJ College./NNP or./CC University./NNP ../. 
+
+Join./VB the./DT team./NN that./WDT 's./VBZ transforming./VBG the./DT way./NN the./DT world./NN communicates./VBZ ../. 
+With./IN operations./NNS in./IN 130./CD countries./NNS ,./, Nokia./NNP is./VBZ the./DT first./JJ truly./NN global./JJ communications./NNS solutions./NNS provider./NN ,./, offering./VBG the./DT most./RBS complete./JJ end-to-end./JJ portfolio./NN of./IN solutions./NNS and./CC services./NNS in./IN the./DT industry./NN ../. Our./PRP$ passionate./NN and./CC experienced./VBD team./NN converts./NNS challenges./VBZ into./IN opportunities./NNS in./IN the./DT areas./NNS of./IN third-generation./NN mobile./NN networking./NN ,./, metro./JJ optical./JJ and./CC packet./NN ,./, circuit-to-packet./NN ,./, broadband./NN access./NN ,./, advanced./JJ network./NN and./CC professional./JJ services./NNS ,./, and./CC next-generation./JJ operations./NNS support./NN systems./NNS ../. 
+
+The./DT new./JJ online./NN Knowledge./NNP Base./NNP simplifies./VBZ access./NN to./TO support./VB information./NN for./IN both./DT customers./NNS and./CC internal./JJ users./NNS ../. It./PRP features./VBZ a./DT federated./JJ search./NN function./NN across./IN articles./NNS ,./, videos./NNS ,./, OLCS./NNP documents./NNS ,./, CARES./NNP tickets./VBZ ,./, Engage./NNP and./CC SharePoint./NNP sites./NNS and./CC interactive./JJ discussion./NN forums./NNS ../. The./DT Knowledge./NNP Base./NNP has./VBZ a./DT user./NNP community./NN of./IN thousands./NNS of./IN customers./NNS and./CC employees./NNS worldwide./RB ../. We./PRP are./VBP looking./VBG for./IN a./DT resourceful./JJ ,./, independent./JJ and./CC flexible./JJ individual./NN to./TO join./VB our./PRP$ team./NN in./IN developing./VBG new./JJ services./NNS ,./, applications./NNS and./CC processes./NNS to./TO support./VB our./PRP$ application./NN growth./NN and./CC growing./VBG user./JJ community./NN ../. The./DT candidate./NN will./MD be./VB available./JJ for./IN a./DT maximum./NN of./IN 20hrs./CD per./IN week./NN ../. 
+
+Responsibilities./NNS :./: 
+Participate./VB defining./VBG new./JJ functionality./NN derived./VBN from./IN user./NNP community./NN feedback./NN and./CC requests./NNS ../. 
+As./IN part./NN of./IN the./DT development./NN team./NN deliver./RB new./JJ functionality./NN and./CC enhancements./NNS for./IN the./DT Knowledge./NNP Base./NNP ../. 
+Provide./VB support./NN for./IN the./DT Knowledge./NNP Base./NNP web./NN and./CC tool./NN applications./NNS -./: assist./NN in./IN responding./VBG to./TO customer./NN and./CC employee./NN queries./NNS ../. 
+
+QUALIFICATIONS./NN :./: 
+2nd./CD year+./JJ co-op./JJ student./NN registered./VBN in./IN a./DT recognized./VBN Coop./NNP or./CC Intern./NNP Program./NNP at./IN a./DT Canadian./JJ College./NNP or./CC University./NNP ;./: Engineering./NNP or./CC Computer./NNP Science./NNP ../. 
+
+ESSENTIAL./NNS :./: 
+The./DT ideal./NN candidate./NN has./VBZ some./DT or./CC all./DT of./IN the./DT following./JJ qualities./NNS :./: 
+-./: Knowledge./NN of./IN HTML./NNP ,./, CSS./NNP ,./, XML./NNP ,./, XSLT./NNP 
+-./: Knowledge./NN of./IN JavaScript./NNP and./CC AJAX./NNP ,./, particularly./RB of./IN the./DT DOJO./NNP and./CC JQuery./NNP frameworks./NNS 
+-./: Java./NN (./( Spring./NNP framework./NN )./) ,./, J2EE./NNP and./CC web./JJ application./NN development./NN Understanding./NNP of./IN principles./NNS of./IN graphic./JJ and./CC interaction./NN design./NN ,./, experience./NN with./IN image./NN manipulation./NN 
+-./: Familiarity./NN with./IN test-driven./JJ and./CC agile./JJ development./NN approaches./NNS would./MD be./VB helpful./JJ 
+-./: Quick./NN learner./NN and./CC passion./NN for./IN working./VBG in./IN a./DT team./NN environment./NN 
+Nokia./NNP Canada./NNP is./VBZ committed./VBN to./TO building./VBG a./DT skilled./VBN ,./, diverse./JJ workforce./NN reflective./NN of./IN Canadian./JJ society./NN ../. As./IN a./DT result./NN ,./, we./PRP promote./VBP employment./NN equity./NN and./CC encourage./VB women./NNS ,./, Aboriginal./NNP persons./NNS ,./, and./CC persons./NNS with./IN a./DT disability./NN or./CC members./NNS of./IN a./DT visible./JJ minority./NN group./NN to./TO apply./VB ../. 

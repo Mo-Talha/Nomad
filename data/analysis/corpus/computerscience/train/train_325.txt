@@ -1,0 +1,32 @@
+Autodesk./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Oct../NNP 20./CD ,./, 2016./CD from./IN 11:30./CD AM./NNP -./: 1:30./CD PM./NNP at./IN Davis./NNP Centre./NNP 1301./CD ../. Please./VB plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+_________________________________________________./NN 
+
+We./PRP are./VBP seeking./VBG a./DT highly./RB motivated./JJ Software./NNP Engineer./NNP to./TO join./VB an./DT agile./NN development./NN team./NN responsible./JJ for./IN building./VBG cloud-based./JJ 3D./CD Modeling./NNP ,./, Visualization./NNP and./CC Data./NNP Management./NNP technologies./NNS ../. The./DT ideal./JJ candidate./NN should./MD have./VB experience./NN developing./VBG and./CC supporting./VBG large./JJ scale./NN web./NN applications./NNS ../. 
+As./IN a./DT member./NN of./IN a./DT team./NN ,./, you./PRP will./MD play./VB an./DT important./JJ role./NN in./IN the./DT definition./NN and./CC development./NN of./IN core./NN technologies./NNS that./WDT make./VBP up./RP Autodesk./NNP 's./POS web-based./JJ design./NN products./NNS ../. The./DT ideal./JJ candidate./NN will./MD be./VB a./DT hands-on./JJ craftsperson./NN with./IN technology./NN and./CC code./NN ../. 
+
+Responsibilities./NNS 
+Implement./NNP prototypes./NNS and./CC software./NN components./NNS ../. 
+Collaborate./NN with./IN team./NN of./IN excellent./JJ engineers./NNS to./TO design./VB ,./, plan./NN ,./, develop./VB ,./, test./NN ,./, deliver./NN and./CC maintain./NN complex./JJ features./NNS and./CC new./JJ subsystems./NNS ../. 
+Interact./NN with./IN product./NN management./NN teams./NNS to./TO review./VB and./CC implement./VB proposed./VBN designs./NNS ../. 
+Participate./NNP and./CC advise./VB in./IN code./NN reviews./NNS ../. 
+
+Requirements./NNS 
+Experience./NN with./IN large./JJ scale./NN ,./, distributed./VBN application./NN design./NN ../. 
+Detail./NNP oriented./VBD and./CC passionate./VB about./IN building./NN great./JJ software./NN ../. 
+A./DT constant./JJ desire./NN to./TO improve./VB ,./, learn./VB more./JJR and./CC take./VB things./NNS to./TO the./DT next./JJ level./NN ../. 
+BS./NNP or./CC MS./NNP in./IN Computer./NNP Science./NNP or./CC related./VBN technical./JJ field./NN ../. 
+At./IN least./JJS 1./CD year./NN of./IN experience./NN in./IN software./NN development./NN ../. 
+Passion./NN for./IN building./NN high./JJ quality./NN software./NN with./IN extensive./JJ experience./NN in./IN unit./NN testing./NN and./CC test./NN driven./NN development./NN ../. 
+Excellent./JJ communication./NN and./CC writing./VBG skills./NNS ../. 
+Ability./NN to./TO operate./VB effectively./RB and./CC independently./RB in./IN a./DT dynamic./JJ ,./, fluid./JJ environment./NN ../. 
+Fluid./NNP verbal./JJ skills./NNS in./IN English./NNP 
+
+Desired./VBN :./: 
+Familiarity./NN with./IN web./JJ application./NN development./NN and./CC JavaScript./NNP is./VBZ a./DT very./RB strong./JJ plus./NN ../. 
+Familiarity./NN with./IN HTML5./NNP and./CC modern./JJ web./NN standards./NNS ../. 
+Experience./NN with./IN continuous./JJ build./NN and./CC integration./NN tools./NNS such./JJ as./IN Ansible./NNP ,./, Docker./NNP ,./, Jenkins./NNP ,./, and/or./NN BuildBot./NNP will./MD be./VB a./DT strong./JJ plus./NN ../. 
+Experience./NN with./IN Node.js./NNP is./VBZ a./DT strong./JJ plus./NN ../. 
+Experience./NN contributing./VBG as./IN a./DT full-stack./JJ developer./NN ../. 
+Experience./NN with./IN Git./NNP or./CC equivalent./JJ distributed./VBN revision./NN control./NN systems./NNS 
+
+Download./NNP FREE./NNP (./( full-feature./NN )./) versions./NNS of./IN Autodesk./NNP products./NNS for./IN students./NNS at./IN http./NN :./: //students.autodesk.com/./NN 

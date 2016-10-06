@@ -1,0 +1,36 @@
+Summary./JJ 
+You./PRP 're./VBP excited./VBN about./IN the./DT role./NN that./IN robots./NNS will./MD play./VB in./IN the./DT future./NN ,./, and./CC intrigued./VBN by./IN the./DT challenge./NN of./IN joining./VBG a./DT young./JJ startup./NN in./IN this./DT high-growth./JJ market./NN ../. You./PRP have./VBP skills./NNS and./CC experience./NN that./IN you./PRP know./VBP can./MD make./VB a./DT difference./NN with./IN the./DT Clearpath./NNP team./NN ,./, whether./IN we./PRP 're./VBP looking./VBG for./IN them./PRP or./CC not./RB ../. You./PRP are./VBP driven./VBN ,./, view./NN work./NN as./IN more./JJR than./IN just./RB a./DT job./NN ,./, and./CC are./VBP never./RB satisfied./VBN with./IN a./DT project./NN left./VBD half-done./NN ../. You./PRP are./VBP motivated./VBN by./IN making./VBG an./DT impact./NN on./IN your./PRP$ workplace./NN and./CC you./PRP thrive./VBP on./IN challenging./NN and./CC rewarding./VBG problems./NNS ../. 
+
+Most./JJS of./IN all./DT ,./, you./PRP want./VBP to./TO be./VB on./IN the./DT right./JJ side./NN during./IN the./DT coming./VBG robot./JJ revolution./NN ../. 
+
+Responsibilities./NNS 
+You./PRP will./MD assist./VB in./IN the./DT customization./NN ,./, testing./VBG ,./, and./CC troubleshooting./NN of./IN whatever./WDT we./PRP 're./VBP building./VBG ../. This./DT will./MD range./VB from./IN expanding./VBG on./IN our./PRP$ unit./NN test./NN coverage./NN to./TO doing./VBG field./NN testing./NN of./IN our./PRP$ newest./JJS generation./NN of./IN unmanned./JJ ground./NN vehicle./NN ../. You./PRP may./MD be./VB required./VBN to./TO take./VB robots./NNS for./IN walks./NNS ,./, and./CC are./VBP able./JJ to./TO cope./VB with./IN the./DT questioning./VBG stares./NNS of./IN onlookers./NNS ../. 
+
+Additional./JJ tasks./NNS may./MD include./VB :./: 
+Hacking/testing/writing./VBG drivers./NNS for./IN new./JJ sensors./NNS and./CC actuators./NNS ../. 
+Developing./VBG simulation./NN setups./NNS for./IN our./PRP$ platforms./NNS 
+Test./NN plan./NN development./NN and./CC implementation./NN 
+Developing./VBG ``./`` marketing-ready./JJ ''./'' demo./NN setups./NNS and./CC documentation./NN 
+
+Required./VBN Skills./NNS 
+-You./NN will./MD assist./VB in./IN the./DT customization./NN ,./, testing./VBG ,./, and./CC troubleshooting./NN of./IN whatever./WDT we./PRP 're./VBP building./VBG ../. 
+-This./NN will./MD range./VB from./IN expanding./VBG on./IN our./PRP$ unit./NN test./NN coverage./NN to./TO doing./VBG field./NN testing./NN of./IN our./PRP$ newest./JJS generation./NN of./IN unmanned./JJ ground./NN vehicle./NN ../. You./PRP may./MD be./VB required./VBN to./TO take./VB robots./NNS for./IN walks./NNS ,./, and./CC are./VBP able./JJ to./TO cope./VB with./IN the./DT questioning./VBG stares./NNS of./IN onlookers./NNS ../. 
+-Ability./NN to./TO work./VB independently./RB with./IN minimal./JJ supervision./NN and./CC manage./NN deadlines./NNS independently./RB ../. 
+-Practical./JJ software./NN development./NN skills./NNS ../. The./DT fact./NN that./IN your./PRP$ toaster./NN oven./RB does./VBZ n't./RB have./VB an./DT API./NNP offends./VBZ you./PRP on./IN a./DT personal./JJ level./NN ../. 
+-Team./NN player./NN ,./, good./JJ communicator./NN ../. 
+-Able./JJ to./TO cope./VB with./IN sudden./JJ jarring./NN changes./NNS in./IN projects./NNS ,./, priorities./NNS ,./, and./CC the./DT local./JJ gravity./NN field./NN ../. 
+-Experience./NN with./IN Linux./NNP and./CC version./NN control./NN (./( Git./NNP )./) ../. 
+-Proficiency./NN in./IN Python./NNP and./CC C++./NNP ../. 
+
+Helpful./JJ 
+-Unit./NN testing./NN ,./, system-level./JJ testing./NN ,./, and./CC continuous./JJ integration./NN ../. 
+-TCL./NN ,./, or./CC other./JJ scripting./VBG experience./NN ../. 
+-Exposure./NN to./TO CMake./NNP ,./, especially./RB in./IN a./DT packaging./NN or./CC deployment./NN context./NN ../. 
+-Experience./NN with./IN distributed./JJ systems./NNS /./VBP networking./VBG 
+-Experience./NN with./IN ROS./NNP ,./, Gazebo./NNP ,./, PCL./NNP ,./, or./CC other./JJ robotics./NNS middleware./NN ../. 
+-Career./NN Development./NNP And./CC Training./NNP Experience./NNP working./VBG at./IN a./DT high-growth./NN ,./, build./VB cool./JJ stuff./NN ,./, and./CC get./VB exposure./NN to./TO what./WP the./DT leading./VBG robotics./NNS researchers./NNS in./IN the./DT world./NN are./VBP working./VBG on./IN ../. 
+-The./RB more./RBR you./PRP put./VBP into./IN this./DT job./NN ,./, the./DT more./JJR you./PRP 'll./MD get./VB out./RP ../. Past./IN co-op./JJ projects./NNS include./VBP :./: 
+-Embedded./VBN Software./NNP for./IN a./DT ROS./NNP enabled./VBD holonomic./JJ robot./NN platform./NN from./IN concept./NN to./TO production./NN 
+-Platform./NN software./NN development./NN 
+-Design./NN and./CC implementation./NN of./IN an./DT indoor./JJ robot./NN positioning./NN system./NN 
+-Development./NN of./IN a./DT fake./NN (./( simulated./VBN )./) robot./VB test./NN system./NN 

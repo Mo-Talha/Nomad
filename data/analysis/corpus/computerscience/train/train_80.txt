@@ -1,0 +1,38 @@
+Linamar./NNP Corporation./NNP (./( TSX./NNP :./: LNR./NNP )./) is./VBZ a./DT diversified./JJ global./JJ manufacturing./NN Company./NNP of./IN highly./RB engineered./VBN products./NNS powering./VBG vehicles./NNS ,./, motion./NN ,./, work./NN and./CC lives./NNS ../. The./DT Company./NN is./VBZ made./VBN up./IN of./IN 2./CD operating./NN segments./NNS --./: the./DT Powertrain/Driveline./NNP segment./NN and./CC the./DT Industrial./NNP segment./NN ,./, which./WDT are./VBP further./RBR divided./VBN into./IN 3./CD operating./NN groups./NNS --./: Machining./NNP &./CC Assembly./NNP ,./, Forging./NNP ,./, and./CC Skyjack./NNP ,./, all./DT world./NN leaders./NNS in./IN the./DT design./NN ,./, development./NN and./CC production./NN of./IN highly./RB engineered./VBN products./NNS ../. The./DT Company./NNP 's./POS Machining./NNP and./CC Assembly./NNP and./CC Forging./NNP operating./VBG groups./NNS focus./VBP on./IN precision./NN metallic./JJ components./NNS ,./, modules./NNS and./CC systems./NNS for./IN engine./NN ,./, transmission./NN and./CC driveline./JJ systems./NNS designed./VBN for./IN global./JJ vehicle./NN and./CC industrial./JJ markets./NNS ../. The./DT Company./NNP 's./POS Skyjack./NNP operating./VBG group./NN is./VBZ noted./VBN for./IN its./PRP$ innovative./JJ ,./, high./JJ quality./NN mobile./VBP industrial./JJ equipment./NN ,./, notably./RB its./PRP$ class-leading./JJ aerial./JJ work./NN platforms./NNS and./CC telehandlers./NNS ../. With./IN more./JJR than./IN 19,500./CD employees./NNS in./IN 48./CD manufacturing./NN locations./NNS ,./, 5./CD R./NNP &./CC D./NNP centers./NNS and./CC 15./CD sales./NNS offices./NNS in./IN 14./CD countries./NNS in./IN North./NNP and./CC South./NNP America./NNP ,./, Europe./NNP and./CC Asia./NNP ,./, Linamar./NNP generated./VBD sales./NNS of./IN $./$ 4.2./CD billion./CD in./IN 2014./CD ../. For./IN more./JJR information./NN about./IN Linamar./NNP Corporation./NNP and./CC its./PRP$ industry./NN leading./NN products./NNS and./CC services./NNS ,./, visit./NN www.linamar.com./NN ../. 
+
+POSITION./NN :./: Applications./NNS Administrator./VBP 
+
+LOCATION./NN :./: Guelph./NNP ,./, Ontario./NNP 
+
+QUALIFICATIONS./NN :./: 
+Previous./JJ work./NN experience./NN in./IN an./DT application./NN support./NN ,./, finance./NN ,./, or./CC an./DT accounting./NN role./NN would./MD be./VB an./DT asset./NN ../. 
+Knowledge./NNP on./IN DOS./NNP command./NN ,./, advanced./JJ excel./NN ,./, VBA./NNP script./NN and./CC internet./NN protocol./NN would./MD be./VB an./DT asset./NN ../. 
+Ability./NN to./TO discuss./VB technical./JJ matters./NNS concerning./VBG the./DT development./NN and./CC management./NN of./IN database./NN systems./NNS with./IN co-workers./NNS ,./, customers./NNS and./CC colleagues./NNS ../. 
+Ability./NN to./TO prepare./VB schedules./NNS for./IN computer./NN operations./NNS such./JJ as./IN processing./NN data./NNS and./CC executing./VBG system./NN backups./NNS 
+Can./MD choose./VB appropriate./JJ methods./NNS to./TO rectify./VB software./NN errors./NNS and./CC malfunctions./NNS ../. When./WRB encountering./VBG unexpected./VBN computer./NN system./NN failures./NNS and./CC equipment./NN breakdowns./NNS ,./, identify./VB defects./NNS and./CC bugs./NNS through./IN analyses./NNS of./IN process./NN variables./NNS and./CC transaction./NN logs./NNS 
+Work./NN as./IN member./NN of./IN the./DT team./NN and./CC coordinate./NN efforts./NNS with./IN programmers./NNS ,./, other./JJ administrators./NNS and./CC developers./NNS to./TO develop./VB ,./, test./NN and./CC implement./NN database./NN system./NN components./NNS in./IN accordance./NN with./IN policies./NNS and./CC standards./NNS ../. 
+Knowledge./NNP on./IN database./NN design./NN ,./, formation./NN of./IN complex./JJ tables./NNS ,./, data./NNS extraction./NN and./CC reporting./NN tools./NNS such./JJ as./IN SQL./NNP and./CC Crystal./NNP Reports./NNP is./VBZ an./DT asset./NN ../. 
+Experience./NN with./IN any./DT of./IN the./DT following./VBG would./MD be./VB definite./JJ assets./NNS :./: SAP./NNP ,./, BPC./NNP ,./, IFS./NNP ,./, JDE./NNP World./NNP and./CC JDE./NNP One./NNP World./NNP ../. Good./NNP knowledge./NN of./IN network./NN and./CC PC./NN operating./VBG systems./NNS and./CC Microsoft./NNP Office./NNP ../. 
+Any./DT experience./NN with./IN Microsoft./NNP Sharepoint./NNP 2007./CD would./MD be./VB considered./VBN as./IN an./DT asset./NN ../. 
+Continuously./RB learn./JJ and./CC update./JJ technical./JJ skills./NNS and./CC knowledge./NN ../. Learn./NNP through./IN reading./VBG help./NN files./NNS ,./, newsletters./NNS ,./, trade./NN publications./NNS ,./, handbooks./NNS and./CC guides./NNS ../. 
+Consult./NNP co-workers./NNS frequently./RB to./TO discuss./VB problems./NNS encountered./VBN and./CC also./RB contribute./VBP regularly./RB to./TO software./NN user./JJ group./NN forums./VBD on-line./NN ../. 
+
+RESPONSIBILITIES./NNS :./: 
+Ensure./NN compliance./NN with./IN all./DT legislative./JJ requirements./NNS in./IN the./DT facility./NN 's./POS geographic./JJ location./NN and./CC :./: 
+-The./NN Global./NNP Operating./NNP System./NNP Plays./NNP ;./: 
+-OHSAS./RB 18001:2007./CD Health./NNP and./CC Safety./NNP management./NN system./NN standard./NN ;./: 
+-ISO./NN 14001:2004./CD Environmental./NNP Management./NNP system./NN standard./NN ;./: 
+-TS./$ 16949./CD Technical./NNP Specification./NNP Management./NNP and./CC Linamar./NNP Quality./NNP Basics./NNP system./NN standards./NNS ../. 
+Support./NN ,./, Foster./NNP ,./, Promote./NNP and./CC Demonstrate./NNP Linamar./NNP 's./POS Core./NNP Values./NNP and./CC Leadership./NNP Behaviors./NNP ../. 
+Maintain./NNP balance./NN between./IN customer./NN ,./, employee./NN and./CC financial./JJ satisfaction./NN by./IN maximizing./VBG facility/department./JJ Performance./NNP Indicators./NNPS to./TO align./VB to./TO Linamar./NNP 's./POS Stepping./NNP Stool./NNP of./IN Success./NNP Strategy./NNP ../. 
+Support./NN and./CC maintain./NN department./NN lean./JJ initiatives./NNS as./IN set./VBN out./RP in./IN LPS./NNP system./NN requirements./NNS ../. 
+Maintain./NNP department./NN 5S./CD requirements./NNS ../. 
+Work./NN with./IN all./DT members./NNS of./IN the./DT IT./NNP team./NN on./IN ITIL./NNP processes./NNS and./CC to./TO increase./VB the./DT number./NN of./IN first./JJ call./NN resolutions./NNS and./CC improve./VB overall./JJ customer./NN satisfaction./NN ../. 
+Perform./NNP application./NN administration./NN ,./, such./JJ as./IN user./JJ access./NN rights./NNS ../. 
+Assist./NN in./IN the./DT planning./NN ,./, design./NN ,./, development./NN ,./, and./CC deployment./NN of./IN enhancements./NNS to./TO existing./VBG applications./NNS ../. 
+Work./NN with./IN the./DT QA./NNP team./NN to./TO develop./VB ,./, coordinate./NN and./CC perform./VB in-depth./JJ tests./NNS ,./, including./VBG end-user./JJ reviews./NNS ,./, for./IN system./NN modifications./NNS ../. 
+Create./NNP and./CC maintain./VB effective./JJ system./NN documentation./NN ../. 
+Review./NNP and./CC analyze./VB the./DT effectiveness./NN and./CC efficiency./NN of./IN existing./VBG systems./NNS and./CC develop./VB strategies./NNS for./IN improving./VBG or./CC further./JJ leveraging./VBG these./DT systems./NNS ../. 
+Extract./NNP data./NNS from./IN the./DT system./NN and./CC prepare./VB reports./NNS for./IN end-users./NNS and./CC management./NN ../. 
+
+Please./VB visit./VB our./PRP$ website./NN at./IN www.linamar.com./NN 

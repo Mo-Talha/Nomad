@@ -1,0 +1,53 @@
+BEFORE./IN YOU./NNP APPLY./NNP FOR./NNP THIS./NNP JOB./NNP ,./, ensure./VB you./PRP read./VB the./DT additional./JJ considerations./NNS before./IN and./CC after./IN the./DT job./NN description./NN ../. 
+
+
+
+Language./NN requirements./NNS :./: English./NNP (./( Cantonese./JJ preferred./VBN ,./, but./CC not./RB mandatory./JJ )./) 
+
+Coherent./NNP Capital./NNP Advisors./NNP (./( CCA./NNP )./) is./VBZ a./DT specialized./JJ analytics./NNS and./CC advisory./JJ team./NN focused./VBD on./IN asset./NN liability./NN management./NN ,./, risk./NN &./CC capital./NN management./NN ,./, and./CC advanced./VBD analytics./NNS ../. We./PRP differentiate./VBP ourselves./NNS by./IN being./VBG a./DT small./JJ ,./, focused./JJ team./NN that./WDT can./MD be./VB hands-on./JJ and./CC work./VB side-by-side./JJ with./IN our./PRP$ clients./NNS in./IN the./DT insurance./NN and./CC asset./NN management./NN industries./NNS ../. (./( website./JJ :./: https./NN :./: //www.coherent.com.hk/./NN )./) 
+
+Do./VBP you./PRP want./VB to./TO work./VB in./IN an./DT industry./NN that./WDT 's./VBZ ripe./NN for./IN disruption./NN ?./. Are./NNP you./PRP interesting./VBG in./IN experiencing./VBG Hong./NNP Kong./NNP 's./POS thriving./JJ fintech./NN and./CC insurtch./NN industry./NN ?./. Then./RB come./VB join./NN our./PRP$ team./NN of./IN senior./JJ actuaries./NNS ,./, quants./NNS and./CC data./NNS scientists./NNS who./WP hold./VBP an./DT insatiable./JJ desire./NN to./TO re-design./VB the./DT insurance./NN advisory./NN system./NN ../. You./PRP will./MD get./VB the./DT chance./NN to./TO work./VB in./IN the./DT heart./NN of./IN Asia./NNP 's./POS own./JJ version./NN of./IN Silicon./NNP Valley./NNP and./CC we./PRP bet./VBP you./PRP 'll./MD never./RB want./VB to./TO leave./VB !./. 
+
+Job./NNP Responsibilities./NNS :./: 
+
+We./PRP are./VBP looking./VBG for./IN a./DT front-end./JJ developer./NN with./IN proven./JJ technical./JJ ability./NN to./TO facilitate./VB the./DT successful./JJ development./NN and./CC deployment./NN of./IN our./PRP$ web./JJ product./NN ../. 
+
+Responsibility./NN :./: 
+
+-./: Handle./VB front-end./JJ development./NN (./( HTML/CSS./NNP )./) tasks./NNS for./IN developing./VBG a./DT new./JJ web-based./JJ platform./NN 
+-./: Identify./NN and./CC resolve./VB performance./NN and./CC scalability./NN issues./NNS ,./, as./RB well./RB as./IN untangle./NN complex./NN ,./, subtle./JJ problems./NNS 
+-./: Collaborate./NN with./IN teammates./NNS from./IN financial./JJ and./CC IT./NNP disciplines./VBZ to./TO deliver./VB compeling./VBG user-facing./JJ products./NNS 
+-./: Conduct./NN ad-hoc./JJ tasks./NNS for./IN different./JJ client./NN projects./NNS as./IN assigned./VBN by./IN the./DT directors./NNS 
+
+Required./VBN skills./NNS :./: 
+
+Requirement./NN :./: 
+
+-./: BS/MS./NN ,./, BEng./NNP in./IN Computer./NNP Science./NNP or./CC a./DT related./JJ technical./JJ field./NN 
+-./: Solid./NN knowledge./NN in./IN HTML./NNP ,./, CSS./NNP and./CC other./JJ front-end./JJ technologies./NNS 
+-./: Strong./JJ focus./NN on./IN UX./NNP and./CC interface./NN design./NN 
+-./: Prior./JJ experience./NN in./IN front-end./JJ development./NN preferred./VBN (./( if./IN you./PRP do./VBP n't./RB have./VB any./DT ,./, show./VBP us./PRP some./DT projects./NNS you./PRP 've./VBP worked/are./VBN currently./RB working./VBG on./IN )./) 
+-./: Strong./JJ sense./NN of./IN responsibility./NN and./CC results-oriented./JJ attitude./NN 
+-./: Excellent./NN analytical./JJ and./CC communication./NN skills./NNS 
+-./: Demonstrate./NN interest./NN to./TO work./VB in./IN a./DT fast-growing./JJ fintech./NN entrepreneurial./JJ environment./NN 
+
+Nice./NNP to./TO Have./VB :./: 
+
+-./: Knowledge./NN and./CC experience./NN in./IN the./DT insurance./NN industry./NN 
+-./: A./DT fascination./NN with./IN emerging./VBG technology./NN and./CC all./DT their./PRP$ applications./NNS 
+-./: Experience./NN with./IN browser./NN APIs./NNP and./CC optimizing./VBG front./JJ end./NN performance./NN 
+
+Salary./NNP in./IN HKD./NNP will./MD be./VB provided./VBN however./RB it./PRP will./MD be./VB significantly./RB lower./JJR than./IN Canadian./JJ standards./NNS ../. 
+
+Other./JJ remuneration./NN is./VBZ negotiable./JJ ,./, however./RB students./NNS must./MD find./VB and./CC fund./VB their./PRP$ own./JJ housing./NN 
+
+Career./NNP Development./NNP and./CC Training./NN :./: 
+
+With./IN an./DT entrepreneurial./JJ environment./NN geared./VBD towards./NNS exceptional./JJ performance./NN and./CC rewarding./VBG career./NN opportunities./NNS ,./, our./PRP$ ambition./NN is./VBZ to./TO bring./VB disruptive./JJ innovation./NN to./TO the./DT industry./NN and./CC build./VB an./DT open./JJ culture./NN that./WDT promotes./VBZ creativity./NN and./CC work./NN flexibility./NN ../. We./PRP offer./VBP a./DT competitive./JJ salary./NN with./IN tremendous./JJ financial./JJ and./CC career./NN upside./RB to./TO individuals./NNS looking./VBG to./TO be./VB part./NN of./IN this./DT extraordinary./JJ journey./NN ../. 
+
+Basic./JJ cost./NN of./IN living./NN :./: 
+
+Housing./NN :./: $./$ 5,000-./CD $./$ 8000./CD HKD/month./NNP 
+Food./NN :./: $./$ 100HKD/day./CD 
+
+http./NN :./: //www.discoverhongkong.com/eng/index.jsp./NN 

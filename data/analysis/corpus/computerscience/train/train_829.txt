@@ -1,0 +1,17 @@
+Engineering./NN Services./NNS 
+
+Job./NNP Description./NNP :./: 
+
+The./DT Engineering./NNP Services./NNPS Group./NNP (./( ES./NNP )./) at./IN CANMET./NNP Energy./NNP -./: Ottawa./NNP is./VBZ responsible./JJ for./IN engineering./NN services./NNS and./CC facility./NN management./NN for./IN the./DT R./NNP &./CC D./NNP facilities./NNS in./IN Bldgs./NNP ../. 1./CD to./TO 19./CD at./IN the./DT Bells./NNP Corners./NNPS research./NN complex./NN ../. The./DT ES./NNP Group./NNP is./VBZ in./IN the./DT process./NN of./IN developing./VBG a./DT relational./JJ database./NN for./IN managing./VBG assets./NNS and./CC infrastructure./NN on./IN our./PRP$ complex./NN ../. A./DT virtual./JJ map./NN is./VBZ being./VBG developed./VBN as./IN an./DT easy./JJ way./NN for./IN general./JJ users./NNS to./TO interact./VB with./IN the./DT database./NN and./CC its./PRP$ contents./NNS ../. 
+
+The./DT database./NN is./VBZ SQL./NNP based./VBN ,./, specifically./RB H2./NNP ../. The./DT virtual./JJ map./NN UI./NNP is./VBZ implemented./VBN using./VBG HTML./NNP ,./, CSS./NNP ,./, and./CC Javascript./NNP ../. The./DT Javascript./NNP libraries./NNS currently./RB being./VBG used./VBN are./VBP Leaflet./NNP and./CC JQuery./NNP ../. A./NNP Grails./NNP framework./NN is./VBZ used./VBN to./TO provide./VB the./DT link./NN between./IN the./DT UI./NNP and./CC the./DT database./NN ../. The./DT map./NN makes./VBZ use./NN of./IN the./DT Google./NNP Maps./NNP API./NNP to./TO provide./VB an./DT updated./JJ overhead./JJ view./NN of./IN the./DT research./NN complex./NN ../. 
+
+The./DT Engineering./NNP Services./NNPS Group./NNP is./VBZ looking./VBG to./TO fill./VB a./DT position./NN to./TO help./VB us./PRP with./IN the./DT following./JJ tasks./NNS :./: 
+-./: Development./NNP and./CC improvement./NN of./IN the./DT database./NN as./RB well./RB as./IN population./NN and./CC maintenance./NN of./IN data./NNS as./IN assets./NNS change./VBP or./CC are./VBP added./VBN to./TO the./DT various./JJ research./NN facilities./NNS ../. 
+-./: Development./NNP and./CC improvement./NN of./IN the./DT virtual./JJ map./NN including./VBG drill./VB down./RP capabilities./NNS using./VBG existing./VBG building./NN floorplans./NNS and./CC schematics./NNS ../. 
+-./: Development./NNP and./CC improvement./NN of./IN a./DT source./NN code./NN management./NN system./NN to./TO help./VB with./IN software./NN version./NN management./NN ../. 
+-./: Development./NNP of./IN an./DT ``./`` administrator./NN ''./'' UI./NNP to./TO be./VB used./VBN for./IN data./NNS entry./NN and./CC database./NN maintenance./NN ../. 
+-./: Documentation./NN of./IN work./NN done./VBN as./RB well./RB as./IN the./DT creation./NN and./CC maintenance./NN of./IN user./JJ guides./NNS ../. 
+-./: May./NNP be./VB involved./VBN in./IN other./JJ technical./JJ tasks./NNS such./JJ as./IN issuing./VBG POs./NNP and./CC helping./VBG with./IN H./NNP &./CC S./NNP audits./NN ../. 
+
+-./: Experience./NN with./IN SQL./NNP and./CC Java./NNP an./DT asset./NN ../. 

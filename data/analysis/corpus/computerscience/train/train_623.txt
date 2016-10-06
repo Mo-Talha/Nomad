@@ -1,0 +1,43 @@
+Horizn./NNP 's./POS mission./NN is./VBZ straightforward./JJ :./: we./PRP want./VBP to./TO change./VB how./WRB companies./NNS train./VBP their./PRP$ employees./NNS and./CC partners./NNS by./IN giving./VBG them./PRP a./DT powerful./JJ platform./NN that./WDT educates./VBZ ,./, engages./NNS and./CC rewards./NNS ../. Combining./VBG the./DT power./NN of./IN learning./NN ,./, mobile./NN ,./, incentives./NNS and./CC social./JJ community./NN ,./, we./PRP offer./VBP a./DT high-performance./JJ training./NN technology./NN platform./NN that./WDT drives./VBZ measurable./JJ results./NNS ../. 
+
+Horizn./NNP is./VBZ a./DT learning./VBG technology./NN company./NN that./WDT operates./VBZ globally./RB helping./VBG companies./NNS in./IN 20+./CD countries./NNS and./CC 15./CD languages./NNS in./IN North./NNP America./NNP ,./, South./NNP America./NNP ,./, Asia./NNP and./CC Europe./NNP ../. Our./PRP$ clients./NNS are./VBP global./JJ and./CC our./PRP$ platform./NN is./VBZ enterprise./RB scalable./JJ ../. Horizn./NNP 's./POS employees./NNS come./VBP from./IN around./IN the./DT world./NN and./CC speak./VB 8./CD languages./NNS and./CC counting./NN ../. 
+
+Summary./JJ 
+We./PRP are./VBP seeking./VBG ambitious./JJ Web./NNP Developers./NNP responsible./JJ for./IN delivering./VBG world-class./JJ solutions./NNS to./TO Horizn./NNP 's./POS global./JJ customers./NNS ../. This./DT position./NN is./VBZ designed./VBN for./IN a./DT highly./RB motivated./VBN developer./NN ,./, who./WP has./VBZ a./DT high./JJ attention./NN to./TO detail./VB and./CC strives./NNS for./IN customer./NN satisfaction./NN ../. This./DT is./VBZ a./DT great./JJ opportunity./NN to./TO hit./VB a./DT hot./JJ market./NN with./IN best-of-breed./JJ marketing./NN technology./NN and./CC be./VB part./NN of./IN the./DT foundation./NN of./IN our./PRP$ global./JJ business./NN ../. 
+
+You./PRP 're./VBP curious./JJ ,./, driven./RB ,./, love./VB to./TO code./VB and./CC want./VB to./TO build./VB something./NN special./JJ !./. You./PRP are./VBP hungry./JJ to./TO work./VB in./IN a./DT start./NN up./IN and./CC are./VBP excited./VBN to./TO join./VB a./DT company./NN that./WDT 's./VBZ growing./VBG fast./RB !./. You./PRP proactively./RB take./VBP on./IN tasks./NNS that./WDT are./VBP outside./IN your./PRP$ core./NN function./NN for./IN the./DT good./NN of./IN the./DT company./NN ../. You./PRP understand./VBP that./IN the./DT client./NN comes./VBZ first./RB and./CC are./VBP willing./JJ to./TO do./VB what./WP it./PRP takes./VBZ to./TO make./VB your./PRP$ clients./NNS happy./JJ ../. 
+
+Responsibilities./NNS 
+-./: Deliver./NN :./: Work./NN within./IN time./NN constraints./NNS to./TO meet./VB deadlines./NNS ../. Identify./NNP and./CC communicate./VB issues./NNS with./IN project./NN deliveries./NNS ../. 
+-./: Develop./NN :./: Work./NN in./IN a./DT collaborative./JJ team./NN environment./NN to./TO develop./VB new./JJ features./NNS ,./, enhance./NN existing./VBG features./NNS and./CC deliver./VB customized./JJ marketing./NN programs./NNS ../. 
+-./: Communicate./NN :./: Work./NN with./IN project./JJ management./NN ,./, product./NN management./NN ,./, quality./NN assurance./NN and./CC other./JJ developers./NNS to./TO complete./VB assigned./JJ projects./NNS and./CC other./JJ weekly./JJ objectives./NNS 
+-./: Design./NN :./: Based./VBN on./IN business./NN requirement./NN definitions./NNS ,./, produce./VBP standardized./VBN and./CC detailed./VBN technical./JJ specifications./NNS when./WRB required./VBN ../. 
+-./: Testing./NN :./: Produce./NNP unit./NN test./NN plans./NNS to./TO demonstrate./VB understanding./NN of./IN the./DT required./JJ results./NNS and./CC test./NN individual./JJ projects./NNS ../. Develop./VB integration./NN and./CC automated./VBD unit./NN tests./NNS ../. 
+
+Required./VBN Skills./NNS 
+-./: Thorough./NN knowledge./NN of./IN with./IN PHP./NNP 5.x./CD 
+-./: Thorough./NN knowledge./NN of./IN MySQL./NNP ,./, including./VBG stored./JJ procedures./NNS ,./, views./NNS ,./, indices./NNS ,./, etc./FW ../. 
+-./: Thorough./NN knowledge./NN of./IN Javascript./NNP (./( JQuery./NNP ,./, Script.aculo.us./NNP ,./, Prototype./NNP )./) 
+-./: Thorough./NN knowledge./NN of./IN HTML./NNP &./CC CSS./NNP 
+-./: Intelligent./NN and./CC intuitive./JJ ,./, with./IN excellent./JJ oral./JJ and./CC written./VBN communication./NN skills./NNS 
+-./: Ability./NN to./TO balance./VB multiple./JJ projects./NNS and./CC priorities./NNS with./IN minimal./JJ supervision./NN both./DT individually./RB and./CC within./IN a./DT group./NN 
+-./: Ability./NN and./CC desire./NN to./TO develop./VB processes./NNS and./CC procedures./NNS where./WRB none./NN exists./VBZ 
+-./: Self-starter./NN who./WP has./VBZ initiative./NN and./CC is./VBZ eager./JJ to./TO learn./VB 
+-./: Proactive./NN in./IN finding./VBG information./NN and./CC solutions./NNS 
+-./: A./DT real./JJ ``./`` problem./NN solver./NN ''./'' type./NN 
+-./: Experience./NN with./IN online./JJ communities./NNS ,./, social./JJ media./NNS or./CC learning./VBG management./NN systems./NNS would./MD be./VB considered./VBN a./DT definite./JJ asset./NN 
+
+Transportation./NN And./CC Housing./NN 
+-./: Connected./VBN underground./IN to./TO Queens./NNP Park./NNP Subway./NNP Station./NNP ,./, near./IN University./NNP Ave../NNP &./CC College./NNP St./NNP ../. 
+-./: Walking./VBG distance./NN to./TO University./NNP of./IN Toronto./NNP ,./, plenty./NN of./IN affordable./JJ housing./NN nearby./RB if./IN required./VBN 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+-./: Above./IN average./JJ pay./NN 
+-./: Endless./NN amount./NN of./IN opportunities./NNS to./TO build./VB your./PRP$ resume./NN 
+-./: Other./JJ startup./NN perks./NNS (./( i.e./JJ meals./NNS when./WRB staying./VBG late./RB ,./, XBox./NNP tournaments./NNS ,./, etc./FW ../. )./) 
+
+Career./NNP Development./NNP And./CC Training./NNP 
+-./: Award./NN winning./VBG CEO./NNP 
+-./: Small./NN startup./NN with./IN Fortune./NNP 500./CD clients./NNS ,./, building./VBG a./DT disruptive./JJ platform./NN 
+-./: Talented./VBN and./CC experienced./JJ executive./NN team./NN includes./VBZ Waterloo./NNP graduates./NNS 
+-./: Located./VBN within./IN MaRS./NNP Discovery./NNP District./NNP building./NN ,./, home./NN to./TO numerous./JJ startups./NNS ,./, entrepreneurs./NNS ,./, investors./NNS ,./, meetups./NNS ,./, etc./FW ../. 

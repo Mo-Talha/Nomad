@@ -1,0 +1,29 @@
+Key./JJ Responsibilities./NNS :./: 
+
+-./: Design./NN ,./, code./NN and./CC test./NN functionality./NN changes./NNS to./TO a./DT charity./NN web./NN site./NN ,./, canadacompany.ca./NN 
+-./: Assist./NN in./IN conversion./NN of./IN current./JJ site./NN and./CC migration./NN content./NN from./IN Joomla./NNP CMS./NNP to./TO other./JJ platform./NN 
+-./: Maintain./NN content./NN on./IN web./NN sites./NNS 
+-./: Produce./NN documentation./NN suitable./NN for./IN use./NN as./IN Co-op./NNP Job./NNP Manual./NNP 
+-./: Document./NN changes./NNS and./CC added./VBD web./NN site./NN functionality./NN 
+-./: Implement./NN and./CC support./NN all./DT assigned./VBN projects./NNS on./IN the./DT web./NN sites./NNS 
+-./: Work./NN closely./RB with./IN end./NN users./NNS and./CC project./NN manager./NN to./TO ensure./VB project./NN deliverables./NNS are./VBP met./VBN on./IN time./NN and./CC on./IN budget./NN 
+-./: Gather./NN and./CC analyze./VB new./JJ functionality./NN requirements./NNS by./IN working./VBG with./IN end./NN users./NNS 
+-./: Research./NN on./IN new./JJ technology./NN as./IN needs./NNS arise./VBP 
+
+
+Requirements./NNS :./: 
+
+-./: Experience./NN with./IN Apache./NNP and./CC Tomcat./NNP web./NN servers./NNS 
+-./: Experience./NN with./IN MSSQL./NNP or./CC other./JJ relational./JJ databases./NNS 
+-./: Experience./NN in./IN Java./NNP ,./, java./NN Script./NNP ,./, HTML./NNP ,./, Java./NNP servlets./NNS ,./, XML./NNP ,./, XSL./NNP ,./, CSS./NNP ,./, AJAX./NNP (./( Jquery./NNP or./CC Dojo./NNP )./) 
+-./: Exposure./NN to./TO Open./NNP Source./NNP Content./NNP Management./NNP Systems./NNPS such./JJ as./IN Joomla./NNP or./CC Drupal./NNP is./VBZ a./DT nice./JJ to./TO have./VB 
+-./: Excellent./NN communication./NN skills./NNS ,./, written./VBN and./CC oral./JJ English./NNP 
+-./: Excellent./NN organizational./JJ skills./NNS with./IN a./DT focuses./NNS ,./, detail./NN orient./NN approach./NN to./TO completing./VBG tasks./NNS 
+-./: Good./JJ knowledge./NN of./IN internet-oriented./JJ development./NN tools./NNS and./CC network./NN concepts./NNS 
+-./: Ability./NN to./TO quickly./RB learn./VB new./JJ technologies./NNS and./CC conduct./NN research./NN independently./RB with./IN minimal./JJ supervision./NN 
+-./: Sound./NN programming./NN practices./NNS ,./, especially./RB testing./VBG and./CC documentation./NN 
+-./: Excellent./NN problem-solving./NN and./CC prioritization./NN skills./NNS 
+-./: Bilingual./NN (./( English/French./NNP )./) is./VBZ nice./JJ to./TO have./VB 
+-./: Technical./NN writing./NN skills./NNS are./VBP nice./JJ to./TO have./VB 
+-./: Graphic./NNP design./NN skills./NNS are./VBP nice./JJ to./TO have./VB 
+-./: Information./NN architecture./NN skills./NNS are./VBP nice./JJ to./TO have./VB 

@@ -1,0 +1,77 @@
+User./NNP Experience./NNP Research./NNP Student./NN 
+Digital./NNP Strategy./NNP &./CC Innovation./NNP 
+Retail./NNP and./CC Business./NNP Banking./NNP 
+
+
+CIBC./NNP is./VBZ a./DT leading./VBG Canadian-based./JJ global./JJ financial./JJ institution./NN ../. Through./IN our./PRP$ three./CD major./JJ businesses./NNS -./: Retail./NNP and./CC Business./NNP Banking./NNP ,./, Wealth./NNP Management./NNP and./CC Capital./NNP Markets./NNP -./: we./PRP provide./VBP a./DT full./JJ range./NN of./IN financial./JJ products./NNS and./CC services./NNS to./TO 11./CD million./CD individual./NN ,./, small./JJ business./NN ,./, commercial./JJ ,./, corporate./JJ and./CC institutional./JJ clients./NNS in./IN Canada./NNP and./CC around./IN the./DT world./NN ../. We./PRP invest./VBP in./IN our./PRP$ businesses./NNS ,./, our./PRP$ clients./NNS ,./, our./PRP$ people./NNS and./CC our./PRP$ communities./NNS to./TO deliver./VB consistent./JJ and./CC sustainable./JJ earnings./NNS to./TO our./PRP$ shareholders./NNS ../. To./TO learn./VB more./JJR about./IN CIBC./NNP 's./POS Lines./NNP of./IN Business./NNP ,./, please./VB visit./VB our./PRP$ website./NN ../. 
+
+CIBC./NNP delivers./NNS access./NN to./TO career./VB and./CC development./NN opportunities./NNS ,./, safe./JJ and./CC healthy./JJ workplaces./NNS ,./, effective./JJ training./NN ,./, and./CC positive./JJ work-life./JJ balance./NN -./: so./RB that./IN employees./NNS are./VBP able./JJ to./TO perform./VB at./IN their./PRP$ best./JJS ,./, contribute./NN to./TO their./PRP$ communities./NNS and./CC focus./VB on./IN cultivating./VBG deeper./JJR relationships./NNS with./IN our./PRP$ clients./NNS ../. 
+
+Every./DT year./NN ,./, CIBC./NNP is./VBZ recognized./VBN for./IN its./PRP$ business./NN success./NN ,./, community./NN commitment./NN and./CC employee./NN initiatives./NNS ../. We./PRP are./VBP proud./JJ of./IN this./DT success./NN and./CC are./VBP committed./VBN to./TO creating./VBG an./DT inclusive./JJ workplace./NN and./CC an./DT environment./NN where./WRB all./DT employees./NNS can./MD excel./VB ../. 
+
+To./TO learn./VB more./JJR about./IN CIBC./NNP and./CC the./DT CIBC./NNP Group./NNP of./IN Companies./NNP please./VBP visit./NN CIBC.com./NNP ../. 
+
+Business./NN Unit./NNP Description./NNP &./CC Job./NNP Overview./NNP :./: 
+
+Retail./NNP and./CC Business./NNP Banking./NNP provides./VBZ a./DT full./JJ range./NN of./IN financial./JJ products./NNS and./CC services./NNS to./TO almost./RB 11./CD million./CD personal./JJ ,./, business./NN and./CC wealth./NN clients./NNS ,./, as./RB well./RB as./IN investment./NN management./NN services./NNS globally./RB to./TO retail./JJ and./CC institutional./JJ clients./NNS ../. With./IN approximately./RB 28,000./CD employees./NNS ,./, CIBC./NNP Retail./NNP and./CC Business./NNP Banking./NNP has./VBZ a./DT broad./JJ distribution./NN network./NN serving./VBG clients./NNS through./IN more./JJR than./IN 1,000./CD branches./NNS ,./, as./RB well./RB as./IN CIBC./NNP Wood./NNP Gundy./NNP offices./NNS and./CC President./NNP 's./POS Choice./NNP Financial./NNP in-store./NN pavilions./NNS ../. Clients./NNS also./RB have./VBP 24/7./CD access./NN to./TO telephone./NN banking./NN ,./, online./NN and./CC mobile./JJ banking./NN and./CC online./JJ brokerage./NN ,./, as./RB well./RB as./IN to./TO Canada./NNP 's./POS second./JJ largest./JJS ABM./NNP network./NN ../. 
+
+The./DT User./NNP Experience./NNP (./( UX./NNP )./) team./NN is./VBZ seeking./VBG a./DT passionate./NN and./CC highly-skilled./JJ User./NNP Experience./NNP co-op./JJ student./NN ../. Our./PRP$ team./NN is./VBZ responsible./JJ for./IN creating./VBG user./JJ interfaces./NNS for./IN multiple./JJ channels./NNS including./VBG ;./: bank./NN machine./NN ,./, Online./NNP Banking./NNP ,./, CIBC.com./NNP and./CC PC./NNP Financial./NNP websites./VBZ ,./, and./CC mobile./JJ apps./NN ../. We./PRP provide./VBP a./DT seamless./NN ,./, intuitive./JJ ,./, cohesive./JJ ,./, and./CC visually./RB pleasant./JJ user./NN experience./NN across./IN these./DT channels./NNS ../. Being./VBG at./IN the./DT heart./NN of./IN fast-paced./JJ development./NN cycles./NNS ,./, we./PRP actively./RB engage./VB and./CC collaborate./VB with./IN a./DT number./NN of./IN other./JJ teams./NNS including./VBG ;./: strategy./NN ,./, business./NN ,./, development./NN ,./, editorial./NN ,./, and./CC QA./NNP ../. 
+
+
+What./WP You./PRP 'll./MD be./VB Doing./VBG :./: 
+
+
+As./IN a./DT UX./NNP co-op./JJ student./NN ,./, you./PRP will./MD be./VB involved./VBN in./IN :./: 
+
+-./: maintaining./VBG visual./JJ style./NN guides./NNS and./CC interaction./NN pattern./NN libraries./NNS for./IN desktop./NN ,./, mobile./JJ and./CC ABM./NNP platforms./NNS ,./, 
+-./: assisting./NN in./IN building./VBG static./JJ or./CC interactive./JJ prototypes./NNS for./IN ABM./NNP ,./, mobile./NN and./CC online./NN products./NNS ,./, 
+-./: creating./VBG usability./JJ test./NN plans./NNS ,./, observing./VBG and/or./RP facilitating./VBG user./JJ test./NN sessions./NNS ,./, analyzing./VBG results./NNS and./CC assisting./VBG in./IN report./NN generation./NN to./TO present./VB to./TO the./DT project./NN team./NN 
+
+
+
+During./IN your./PRP$ time./NN with./IN us./PRP you./PRP will./MD gain./VB :./: 
+
+-./: Exposure./NN to./TO the./DT real-life./JJ design./NN process./NN 
+-./: Hands-on./JJ experience./NN with./IN user./JJ testing./VBG 
+-./: The./DT opportunity./NN to./TO learn./VB from./IN mentors./NNS with./IN a./DT variety./NN of./IN expertise./NN including./VBG visual./JJ design./NN ,./, information./NN architecture./NN ,./, project./NN management./NN anduser./IN research./NN 
+
+
+
+What./WP We./PRP 're./VBP Looking./VBG For./IN :./: 
+
+-./: A./DT good./JJ understanding./NN of./IN User-Centered./NNP Design./NNP processes./VBZ ,./, usability./NN ,./, and./CC best./JJS practices./NNS 
+-./: Familiar./NN with./IN wireframing./VBG tools./NNS such./JJ as./IN Illustrator./NNP ,./, Visio./NNP ,./, PowerPoint./NNP ,./, and/or./JJ Axure./NN 
+-./: Great./NN communication./NN skills./NNS ,./, both./DT written./VBN and./CC verbal./JJ 
+-./: A./DT team./NN player./NN who./WP is./VBZ also./RB able./JJ to./TO work./VB independantly./RB 
+
+
+
+Assets./NNS :./: 
+
+-./: Familiarity./NN with./IN current./JJ web./NN and./CC mobile./JJ technologies./NNS and./CC responsive./JJ design./NN 
+-./: Experience./NN in./IN planning./NN and./CC executing./VBG usability./NN studies./NNS 
+-./: Good./JJ understanding./NN of./IN financial./JJ services./NNS and./CC products./NNS 
+-./: Genuine./NN understanding./NN of./IN current./JJ and./CC upcoming./JJ technologies./NNS and./CC designing./VBG for./IN them./PRP 
+
+
+
+What./WP CIBC./NNP Can./MD Offer./VB You./PRP :./: 
+
+-./: Competitive./NN salary./NN and./CC banking./NN benefits./NNS 
+-./: Career./NN growth./NN ,./, development./NN and./CC continuous./JJ learning./NN opportunities./NNS 
+-./: Opportunity./NN to./TO be./VB involved./VBN in./IN CIBC./NNP events./NNS that./WDT help./VBP our./PRP$ communities./NNS 
+
+
+
+Application./NN Instructions./NNS 
+
+-./: Apply./NN on./IN JobMine./NNP 
+-./: Applications./NNS must./MD include./VB a./DT cover./JJ letter./NN ,./, resume./NN (./( two./CD letter-sized./JJ pages./NNS or./CC less./JJR )./) and./CC unofficial./JJ transcripts./NNS 
+-./: Must./NN be./VB legally./RB eligible./JJ to./TO work./VB in./IN Canada./NNP and./CC ,./, where./WRB applicable./JJ ,./, must./MD have./VB a./DT valid./JJ work./NN permit./NN or./CC study./VB permit./NN that./WDT allows./VBZ the./DT candidate./NN to./TO fulfill./VB the./DT requirements./NNS of./IN the./DT role./NN 
+-./: This./DT role./NN operates./VBZ within./IN a./DT normal./JJ office./NN environment./NN with./IN little./JJ exposure./NN to./TO adverse./VB working./VBG conditions./NNS ../. 
+
+
+
+Location./NN :./: 40./CD Dundas./NNP St./NNP W./NNP ,./, 4th./CD floor./NN (./( Atrium./NNP on./IN Bay./NNP )./) ,./, Toronto./NNP ,./, ON./NNP 
+
+CIBC./NNP thanks./NNS all./DT applicants./NNS for./IN their./PRP$ interest./NN however./RB only./RB those./DT selected./VBN for./IN an./DT interview./NN will./MD be./VB contacted./VBN ../. 

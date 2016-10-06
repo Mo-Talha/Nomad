@@ -1,0 +1,36 @@
+BMO./NNP Financial./NNP Group./NNP :./: 
+Established./VBN in./IN 1817./CD ,./, BMO./NNP Financial./NNP Group./NNP is./VBZ a./DT highly./RB diversified./JJ financial./JJ services./NNS provider./NN based./VBN in./IN North./NNP America./NNP ../. BMO./NNP provides./VBZ a./DT broad./JJ range./NN of./IN retail./JJ banking./NN ,./, wealth./NN management./NN and./CC investment./NN banking./NN products./NNS and./CC services./NNS to./TO more./JJR than./IN 12./CD million./CD customers./NNS and./CC conducts./NNS business./NN through./IN three./CD operating./VBG groups./NNS :./: Personal./NNP and./CC Commercial./NNP Banking./NNP ,./, Wealth./NNP Management./NNP and./CC BMO./NNP Capital./NNP Markets./NNP ../. 
+
+BMO./NNP Capital./NNP Markets./NNS :./: 
+BMO./NNP Capital./NNP Markets./NNP provides./VBZ a./DT full./JJ range./NN of./IN products./NNS and./CC services./NNS to./TO help./VB corporate./JJ ,./, institutional./JJ and./CC government./NN clients./NNS achieve./VBP their./PRP$ ambitions./NNS ../. From./IN 28./CD locations./NNS around./IN the./DT world./NN ,./, including./VBG 15./CD in./IN North./NNP America./NNP ,./, BMO./NNP Capital./NNP Markets./NNP draws./VBZ on./IN expertise./NN in./IN areas./NNS including./VBG equity./NN and./CC debt./NN underwriting./NN ,./, corporate./JJ lending./NN and./CC project./NN financing./NN ,./, mergers./NNS and./CC acquisitions./NNS advisory./JJ services./NNS ,./, merchant./NN banking./NN ,./, securitization./NN ,./, treasury./NN and./CC market./NN risk./NN management./NN ,./, foreign./JJ exchange./NN ,./, derivatives./NNS ,./, debt./NN and./CC equity./NN research./NN and./CC institutional./JJ sales./NNS and./CC trading./NN ../. 
+
+BMO./NNP Capital./NNP Markets./NNP is./VBZ a./DT part./NN of./IN BMO./NNP Financial./NNP Group./NNP (./( NYSE./NNP ,./, TSX./NNP :./: BMO./NNP )./) ,./, one./CD of./IN the./DT largest./JJS diversified./JJ financial./JJ services./NNS providers./NNS in./IN North./NNP America./NNP with./IN $./$ 642./CD billion./CD total./JJ assets./NNS and./CC more./JJR than./IN 47,000./CD employees./NNS as./IN of./IN 2015./CD ../. For./IN more./JJR information./NN ,./, visit./NN www.bmo.com./NN ../. 
+
+Position./NN Description./NN 
+
+Position./NN Overview./NN :./: 
+
+This./DT position./NN will./MD be./VB situated./VBN with./IN one./CD of./IN the./DT following./JJ groups./NNS :./: 
+-./: Derivative./NN and./CC Fixed./NNP Income./NNP Analytics./NNP group./NN 
+-./: Cross./NN Business./NNP Risk./NNP Trading./NNP Services./NNPS group./NN 
+
+Our./PRP$ groups./NNS consistently./RB rank./VBP among./IN the./DT leaders./NNS in./IN the./DT industry./NN in./IN developing./VBG technology./NN and./CC software./NN tools./NNS ../. They./PRP are./VBP instrumental./JJ in./IN providing./VBG expertise./NN both./DT internally./RB and./CC to./TO large./JJ institutional./JJ clients./NNS and./CC are./VBP the./DT key./NN to./TO enhancing./VBG the./DT firm./NN 's./POS reputation./NN in./IN the./DT industry./NN ../. 
+
+The./DT successful./JJ candidate./NN will./MD work./VB on./IN applications./NNS designed./VBN for./IN the./DT financial./JJ markets./NNS ../. The./DT candidate./NN will./MD primarily./RB help./VB design./VB client./NN facing./VBG technology./NN and./CC analytics./NNS tools./NNS ,./, as./RB well./RB as./IN tools./NNS for./IN internal./JJ training./NN and./CC sales./NNS professionals./NNS ../. During./IN the./DT work./NN term./NN the./DT candidate./NN will./MD use./VB the./DT latest./JJS tools./NNS and./CC technologies./NNS including./VBG ,./, Visual./JJ Studio./NNP 2013/2015./CD ,./, .NET./FW 5./CD ,./, WPF./NNP etc./FW ../. 
+
+This./DT position./NN provides./VBZ a./DT unique./JJ opportunity./NN to./TO work./VB on./IN one./CD of./IN the./DT largest./JJS trading./NN floors./NNS on./IN Bay./NNP Street./NNP ../. The./DT candidate./NN will./MD have./VB the./DT opportunity./NN to./TO work./VB on./IN leading./VBG edge./NN analytic/financial./JJ tools./NNS and./CC to./TO expand./VB his/her./PRP$ knowledge./NN of./IN financial./JJ markets./NNS ../. 
+
+Key./NNP Areas./NNP of./IN Focus./NNP :./: 
+-./: Development./NNP of./IN state./NN of./IN the./DT art./NN .NET./NN analytics./NNS tools./NNS 
+-./: Development./NNP of./IN high-performance./NN computing./NN (./( HPC./NNP )./) solutions./NNS 
+
+Looking./VBG for./IN a./DT strong./JJ skill./NN set./VBN in./IN one./CD or./CC more./JJR of./IN the./DT following./JJ areas./NNS :./: 
+-./: .Net./NN C./NNP #./# 
+-./: ADP.Net./NN 5./CD and/or./NN Javascript./NNP web./NN development./NN 
+-./: PL/SQL./NN (./( Oracle./NNP )./) or./CC TranactSQL./NNP (./( SQLServer./NNP )./) 
+-./: Linux./NN C++./NNP or./CC Python./NNP 
+
+At./IN our./PRP$ company./NN ,./, we./PRP have./VBP been./VBN helping./VBG our./PRP$ customers./NNS and./CC communities./NNS for./IN over./IN 195./CD years./NNS ../. Working./VBG with./IN us./PRP means./VBZ being./VBG part./NN of./IN a./DT team./NN of./IN talented./JJ and./CC passionate./JJ individuals./NNS with./IN a./DT shared./JJ focus./NN on./IN working./VBG together./RB to./TO deliver./VB great./JJ customer./NN experiences./NNS ../. We./PRP stand./VBP behind./IN your./PRP$ success./NN with./IN the./DT support./NN you./PRP need./VBP to./TO turn./VB your./PRP$ potential./JJ into./IN performance./NN ../. 
+
+To./TO find./VB out./RP more./RBR visit./JJ our./PRP$ website./NN at./IN www.bmo.com/careers./NNS ../. 
+BMO./NNP Financial./NNP Group./NNP is./VBZ committed./VBN to./TO an./DT inclusive./JJ ,./, equitable./JJ and./CC accessible./JJ workplace./NN ../. By./IN embracing./VBG diversity./NN ,./, we./PRP gain./VBP strength./NN through./IN our./PRP$ people./NNS and./CC our./PRP$ perspectives./NNS ../. We./PRP welcome./VBP and./CC encourage./VBP applications./NNS from./IN people./NNS with./IN disabilities./NNS ../. Accommodations./NNS are./VBP available./JJ on./IN request./NN for./IN candidates./NNS taking./VBG part./NN in./IN all./DT aspects./NNS of./IN the./DT selection./NN process./NN ../. 

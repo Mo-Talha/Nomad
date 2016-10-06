@@ -1,0 +1,22 @@
+Summary./JJ 
+We./PRP are./VBP seeking./VBG a./DT senior./JJ candidate./NN for./IN the./DT upcoming./JJ work./NN term./NN to./TO assist./VB in./IN the./DT development./NN of./IN our./PRP$ industry./NN leading./VBG software./NN ,./, TouchDesigner./NNP ../. TouchDesigner./NNP is./VBZ a./DT real-time./JJ visual./JJ development./NN tool./NN aimed./VBN at./IN enabling./VBG artists./NNS to./TO create./VB interactive./JJ real-time./JJ content./NN ../. TouchDesigner./NNP is./VBZ used./VBN as./IN the./DT platform./NN of./IN choice./NN for./IN a./DT wide./JJ variety./NN of./IN different./JJ project./NN types./NNS such./JJ as./IN :./: large./JJ scale./JJ projection./NN mappings./NNS ,./, theme./NN park./NN attractions./NNS ,./, art./NN installations./NNS ,./, VR./NNP projects./NNS ,./, and./CC feature./NN films./NNS ../. 
+
+Responsibilities./NNS 
+-./: Primarily./NN C++./NNP programming./VBG tasks./NNS of./IN our./PRP$ main./JJ software./NN application./NN ,./, TouchDesigner./NNP ../. 
+-./: Add./NN support./NN for./IN devices./NNS such./JJ as./IN virtual./JJ reality./NN headsets./NNS ,./, LED./NNP strips./NNS ,./, Arduino./NNP ,./, laser./NN projector./NN ,./, etc./FW 
+-./: Expand./VB our./PRP$ GPU./NNP based./VBN rendering./NN ,./, geometry./NN modelling./NN ,./, or./CC signal./JJ processing./NN ../. 
+-./: Assist./NN in./IN creation./NN of./IN python./NN and./CC other./JJ demo./NN material./NN 
+-./: Install./NN ,./, configure./NN and./CC benchmark./NN of./IN graphic./JJ card./NN and./CC related./JJ equipment./NN ../. 
+-./: Assist./NN in./IN creation./NN of./IN management./NN tools./NNS for./IN our./PRP$ wiki./NN based./VBN documentation./NN ../. 
+
+Required./VBN Skills./NNS 
+-./: C/C++./NN programming./NN 
+-./: Basic./JJ Python./NNP scripting./VBG an./DT asset./NN 
+-./: OpenGL./NN an./DT asset./NN 
+-./: Interest./NN in./IN realtime./JJ 3D./CD graphics./NNS 
+-./: Interest./NN in./IN devices./NNS ?./. 
+
+Other./JJ Job./NNP Details./NNS 
+We./PRP are./VBP a./DT small./JJ company./NN located./VBN in./IN downtown./NN Toronto./NNP ,./, in./IN a./DT flexible./JJ and./CC creative./JJ working./NN environment./NN ../. 
+
+For./IN more./JJR company./NN information./NN ,./, please./VB visit./VB our./PRP$ website./NN :./: www.derivative.ca./NN 

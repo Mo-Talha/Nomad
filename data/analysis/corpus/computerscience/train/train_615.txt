@@ -1,0 +1,31 @@
+About./IN Enterasys./NNP Networks./NNP and./CC Siemens./NNP Enterprise./NNP Communications./NNP GmbH./NNP &./CC Co./NNP KG./NNP :./: 
+
+Enterasys./NNP is./VBZ the./DT network./NN infrastructure./NN and./CC security./NN division./NN of./IN Siemens./NNP Enterprise./NNP Communications./NNP GmbH./NNP &./CC Co./NNP KG./NNP ,./, a./DT premier./NN ,./, privately-held./JJ world-wide./JJ provider./NN of./IN end-to-end./JJ communications./NNS solutions./NNS ../. Our./PRP$ solutions./NNS enable./JJ organizations./NNS to./TO improve./VB productivity./NN and./CC efficiency./NN as./RB well./RB as./IN reduce./VB costs./NNS through./IN easy-to-deploy./JJ applications./NNS and./CC infrastructure./NN that./WDT work./NN within./IN existing./VBG IT./NNP environments./VBZ ../. 
+
+Enterasys./NNP wired./VBD and./CC wireless./JJ network./NN switching./NN ,./, routing./VBG and./CC advanced./JJ security./NN solutions./NNS deliver./RB high./JJ performance./NN ,./, reliable./JJ network./NN connectivity./NN that./WDT optimizes./VBZ application./NN performance./NN and./CC drives./VBZ down./RP operational./JJ costs./NNS through./IN innovative./JJ technology./NN and./CC automation./NN ../. At./IN Enterasys./NNP ,./, our./PRP$ culture./NN and./CC all./DT aspects./NNS of./IN our./PRP$ operations./NNS are./VBP built./VBN around./IN the./DT mantra./NN that./IN there./EX is./VBZ nothing./NN more./RBR important./JJ than./IN our./PRP$ customers./NNS ../. Our./PRP$ 97./CD %./NN customer./NN satisfaction./NN rate./NN and./CC award-winning./JJ support./NN organization./NN provide./VBP strong./JJ proof./NN that./IN we./PRP 're./VBP on./IN the./DT right./JJ track./NN ../. For./IN employees./NNS ,./, we./PRP offer./VBP the./DT opportunity./NN to./TO build./VB on./IN a./DT 25./CD year./NN legacy./NN of./IN technology./NN leadership./NN in./IN a./DT work./NN environment./NN that./WDT is./VBZ large./JJ enough./RB to./TO provide./VB a./DT stable./JJ and./CC profitable./JJ place./NN of./IN employment./NN ,./, but./CC small./JJ enough./RB where./WRB each./DT person./NN has./VBZ a./DT direct./JJ impact./NN on./IN the./DT company./NN 's./POS success./NN each./DT and./CC every./DT day./NN ../. 
+
+More./JJR information./NN on./IN Enterasys./NNP and./CC Siemens./NNP Enterprise./NNP Communications./NNP GmbH./NNP &./CC Co./NNP KG./NNP is./VBZ available./JJ at./IN www.enterasys.com./NN and./CC www.siemens-enterprise.com./NN ../. 
+
+Wireless./NNP LAN./NNP Engineer./NNP :./: -./: Software./NN Developer./NNP 
+
+As./IN a./DT skilled./JJ Wireless./NNP LAN./NNP software./NN developer./NN ,./, you./PRP will./MD become./VB an./DT integral./JJ part./NN of./IN a./DT team./NN involved./VBN in./IN the./DT design./NN and./CC development./NN of./IN leading-edge./JJ Wi-Fi./JJ solutions./NNS ../. You./PRP will./MD be./VB involved./VBN with./IN the./DT design./NN and./CC development./NN of./IN IP./NNP and./CC data./NNS communications./NNS aspects./NNS of./IN the./DT solution./NN ../. 
+
+Role./JJ description./NN :./: 
+-./: Will./NN participate./VB in./IN complex./JJ design./NN ,./, maintenance./NN ,./, enhancement./NN ,./, testing./VBG ,./, implementation./NN ,./, and./CC support./NN of./IN software./NN ../. 
+-./: Will./MD support./VB the./DT development./NN of./IN software./NN test./NN requirements./NNS for./IN complex./JJ modules./NNS under./IN development./NN ,./, and./CC execute./NN complex./JJ test./NN specifications./NNS ../. 
+-./: Will./NN be./VB providing./VBG estimates./NNS for./IN complex./JJ modules./NNS under./IN development./NN ,./, and./CC estimate./VB own./JJ work./NN ../. 
+-./: Will./MD support./VB the./DT reviewing./NN of./IN standards./NNS specification./NN and./CC other./JJ documentation./NN to./TO determine./VB software./NN engineering./NN requirements./NNS ../. 
+-./: Will./MD provide./VB support./NN with./IN the./DT software./NN quality./NN process./NN through./IN the./DT execution./NN of./IN the./DT component./NN module./NN ,./, subsystem./NN and./CC system./NN test./NN procedures./NNS ../. 
+
+You./PRP will./MD have./VB :./: 
+-./: strong./JJ knowledge./NN of./IN Unix./NNP and./CC Unix-based./JJ computers./NNS 
+-./: strong./JJ knowledge./NN of./IN C./NNP and./CC C++./NNP programming./NN languages./NNS 
+-./: strong./JJ knowledge./NN of./IN application./NN level./NN and./CC scripting./VBG under./IN Linux./NNP :./: Java./NNP ,./, php./NN ,./, mySQL./NN ,./, python./NN is./VBZ desirable./JJ ../. 
+-./: familiar./JJ with./IN network./NN technology./NN and./CC concepts./NNS ,./, especially./RB Ethernet./NNP and./CC IP./NNP 
+-./: knowledge./NN of./IN LAN./NNP switching./VBG and./CC routing./VBG and./CC Ethernet./NNP networks./NNS 
+-./: knowledge./NN of./IN IP./NNP routing./NN ,./, configuration./NN ,./, troubleshooting./VBG ,./, design./NN and./CC engineering./NN of./IN switched./JJ and./CC routed./VBD networks./NNS 
+-./: knowledge./NN of./IN with./IN 802.11./CD hardware./NN and/or./NN software./NN 
+-./: familiar./JJ with./IN IEEE./NNP standards./NNS for./IN LAN./NNP and./CC wireless./NN LAN./NNP 
+-./: solid./NN verbal./NN and./CC written./VBN communications./NNS skills./NNS ;./: 
+-./: able./JJ to./TO communicate./VB in./IN timely./JJ manner./NN problems./NNS and./CC look./VB for./IN solutions./NNS ../. 
+-./: A./NN 'can./JJ do./NN './POS attitude./NN ../. 

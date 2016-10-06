@@ -1,0 +1,33 @@
+Guess./VB what./WP ?./. john./JJ st../NN makes./VBZ creative./JJ and./CC funny./JJ videos./NNS ,./, but./CC we./PRP 're./VBP not./RB a./DT one-trick./JJ pony./NN ../. We./PRP also./RB do./VBP development./NN ../. 
+
+At./IN john./JJ st../NN you./PRP will./MD receive./VB real-world./JJ experience./NN working./VBG on./IN internal./JJ projects./NNS like./IN web./NN apps./NN and./CC creating./VBG process/workflow./JJ tools./NNS ../. You./PRP 'll./MD also./RB work./VB on./IN projects./NNS for./IN national./JJ brands./NNS ../. You./PRP will./MD have./VB the./DT opportunity./NN to./TO be./VB involved./VBN in./IN all./DT stages./NNS of./IN development./NN from./IN planning./VBG to./TO deployment./NN ../. 
+
+As./IN a./DT senior./JJ developer./NN you./PRP are./VBP in./IN your./PRP$ 4th./CD -./: 6th./CD work./NN term./NN ../. You./PRP will./MD be./VB looked./VBN upon./IN to./TO see./VB tasks./NNS from./IN concept/requirements./NNS to./TO completion./NN ../. 
+
+While./IN specific./JJ assignments./NNS will./MD be./VB tailored./VBN at./IN an./DT individual./JJ level./NN ,./, general./JJ development./NN duties./NNS will./MD include./VB :./: 
+-./: core./NN technology./NN planning./NN 
+-./: project./NN mapping/documentation./NN 
+-./: database./NN schemas./NN 
+-./: front./NN end./NN &./CC back./JJ end./NN development./NN 
+-./: ongoing./NN maintenance./NN 
+
+You./PRP should./MD have./VB familiarity./NN with./IN some./DT of./IN the./DT below./NN and./CC should./MD have./VB a./DT specific./JJ focus./NN in./IN at./IN least./JJS one./CD of./IN the./DT below./NN ../. 
+-./: HTML5./NN ,./, CSS./NNP 
+-./: JS./NN ,./, JQuery./NNP ,./, ReactJS./NNP ,./, AngularJS./NNP 
+-./: bootstrap./NN ,./, foundation./NN 
+-./: npm./NN ,./, grunt./NN ,./, Sass./NNP 
+-./: Python./NN ,./, Django./NNP 
+-./: MySQL./NN ,./, PostgreSQL./NNP 
+
+You./PRP should./MD have./VB a./DT solid./JJ grasp./NN of./IN :./: 
+-./: the./DT development./NN process./NN 
+-./: client-server./NN technologies./NNS 
+-./: RESTful./NN APIs./NNP 
+-./: source./NN control./NN (./( git./NN )./) 
+-./: a./DT Unix./NNP environment./NN 
+
+john./JJ st../NN is./VBZ a./DT creative./JJ collaborative./NN that./IN employs./VBZ technology./NN to./TO make./VB our./PRP$ clients-./JJ brands./NNS unignorable./JJ ../. We./PRP are./VBP located./VBN in./IN the./DT heart./NN of./IN the./DT entertainment./NN and./CC startup./JJ district./NN ../. Our./PRP$ culture./NN is./VBZ point./NN of./IN pride./NN and./CC we./PRP celebrate./VBP regularly./RB ../. 
+
+john./JJ st../NN is./VBZ continuing./VBG to./TO establishing./VBG our./PRP$ self./NN as./IN a./DT leader./NN in./IN development./NN ../. Our./PRP$ developers./NNS work./VBP closely./RB with./IN designers./NNS ,./, strategic./JJ planners./NNS and./CC UX./NNP specialists./NNS ../. 
+
+john./JJ st../NN is./VBZ easily./RB accessible./JJ via./IN public./JJ transit./NN and./CC there./EX are./VBP several./JJ pay./IN parking./VBG lots./NNS in./IN close./JJ proximity./NN ../. 

@@ -1,0 +1,27 @@
+POSITION./NNP SUMMARY./NNP 
+This./DT student./NN position./NN will./MD be./VB part./NN of./IN the./DT BlackBerry./NNP Design./NNP team./NN ../. The./DT successful./JJ candidate./NN will./MD support./VB design./NN activities./NNS in./IN the./DT areas./NNS of./IN interaction./NN design./NN ,./, visual./JJ design./NN and./CC user./JJ research./NN ../. We./PRP are./VBP looking./VBG for./IN someone./NN who./WP can./MD see./VB the./DT bigger./JJR picture./NN with./IN high./JJ attention./NN to./TO detail./VB and./CC understands./VBZ the./DT value./NN of./IN a./DT user./NN centered./VBD design./NN process./NN ../. The./DT successful./JJ candidate./NN must./MD be./VB self-driven./JJ ,./, a./DT team./NN player./NN ,./, a./DT strong./JJ communicator./NN and./CC feel./VB very./RB comfortable./JJ interfacing./VBG regularly./RB with./IN other./JJ teams./NNS ../. 
+
+Location./NN :./: Mississauga./NN 
+Length./NNP of./IN Term./NNP :./: 4./CD months./NNS 
+
+RESPONSIBILITIES./NN 
+-Ability./NN to./TO sketch./VB out./RP early./JJ design./NN concepts./NNS and./CC create./VB wireframes./NNS that./WDT clearly./RB demonstrate./VBP user./JJ experiences./NNS and./CC connect./NN to./TO defined./VB problems./NNS and./CC opportunity./NN areas./NNS 
+-Support./VB the./DT design./NN and./CC development./NN of./IN ongoing./VBG UX./NNP and./CC visual./JJ design./NN work./NN 
+-Work./NN alongside./RB various./JJ product./NN related./VBN disciplines./NNS to./TO design./VB ,./, develop./VB and./CC deliver./VB world./NN class./NN user./NN experiences./NNS 
+-Support./NNP user./NNP research./NN ,./, usability./NN and./CC trends./NNS research./NN to./TO inform./VB various./JJ design./NN activities./NNS 
+
+SKILLS./NNP &./CC QUALIFICATIONS./NNP 
+-Proficiency./NN in./IN Adobe./NNP Creative./NNP Suite./NNP ,./, especially./RB Abobe./NNP Illustrator./NNP and./CC Photoshop./NNP 
+-Show./RB user./JJ interface./NN and/or./VBP visual./JJ design./NN skills./NNS with./IN a./DT demonstrated./JJ portfolio./NN 
+-Expertise./NN in./IN graphic./JJ and./CC visual./JJ design./NN ,./, including./VBG page./NN layout./NN ,./, typography./NN ,./, and./CC colour./NN 
+-Demonstrate./JJ experience./NN and/or./NN knowledge./NN of./IN user./JJ research./NN methods./NNS and./CC analysis./NN of./IN research./NN inputs./NNS 
+-Ability./NN to./TO formulate./VB simple./JJ ,./, elegant./JJ interaction./NN design./NN solutions./NNS 
+-Ability./NN to./TO formulate./VB and./CC distill./VB design./NN rationale./NN and./CC guidelines./NNS for./IN your./PRP$ work./NN ../. 
+-Demonstrated./VBN ability./NN to./TO take./VB initiative./NN and./CC responsibility./NN in./IN a./DT team./NN environment./NN 
+
+ADDITIONAL./NNP ASSETS./NNP 
+-Excellent./NN verbal./NN and./CC written./VBN communication./NN skills./NNS 
+-Attention./NN to./TO detail./VB both./DT functional./JJ and./CC aesthetic./JJ 
+-Previous./JJ experience./NN with./IN UX./NNP design./NN and./CC visual./JJ or./CC interaction./NN design./NN 
+
+Please./NNP include./VBP relevant./JJ portfolio./NN materials./NNS with./IN your./PRP$ application./NN ../. 

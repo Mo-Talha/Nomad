@@ -1,0 +1,26 @@
+The./DT Information./NNP Technology./NNP Services./NNP (./( ITS./NNP )./) Department./NNP has./VBZ an./DT opportunity./NN for./IN a./DT student./NN with./IN quality./NN programming./VBG ability./NN and./CC a./DT desire./NN to./TO expand./VB his/her./RB systems./NNS design./NN and./CC interpersonal./JJ skills./NNS ../. You./PRP will./MD maintain./VB and./CC develop.NET./VB 2.0./CD Applications./NNPS /components./NNS in./IN a./DT Windows./NNP 7./CD and./CC 2003./CD server./NN environment./NN using./VBG C./NNP #./# ,./, BOE./NNP Crystal./NNP Reports./NNP and./CC Microsoft./NNP Office./NNP and./CC VBA./NNP within./IN Microsoft./NNP Access./NNP 2010./CD &./CC Excel./NNP 2010./CD ../. 
+
+Your./PRP$ responsibilities./NNS would./MD include./VB :./: 
+-./: Coding./VBG program./NN instructions./NNS in./IN one./CD or./CC more./JJR of./IN the./DT following./JJ .NET./NNP C./NNP #./# ,./, Visual./JJ Basic./NNP or./CC ASP./NNP with./IN SQL./NNP Server./NNP or./CC Oracle./NNP ,./, Crystal./NNP Reports./NNP Version./NNP 11./CD (./( BOE./NNP -./: Enterprise./NNP Reporting./NNP )./) ,./, and./CC VBA./NNP with./IN Microsoft./NNP Access./NNP 2010./CD &./CC Excel./NNP 2010./CD in./IN a./DT client./NN server./NN environment./NN ../. 
+-./: Supporting./VBG MS./NNP Access/Excel./NNP VBA./NNP Applications./NNP using./VBG Windows./NNP 7/MS./CD Office./NNP 2010./CD ../. 
+-./: Writing./NN ,./, debugging./VBG and./CC testing./VBG coded./JJ programs./NNS ../. 
+-./: Establishing./NN program./NN requirements./NNS through./IN the./DT analysis./NN of./IN various./JJ technical./JJ systems./NNS and./CC data./JJ base./NN systems./NNS ../. 
+-./: Providing./VBG application./NN documentation./NN to./TO the./DT Development./NNP group./NN ../. This./DT may./MD include./VB documenting./VBG business./NN requirements./NNS ,./, functional./JJ specifications./NNS and./CC other./JJ related./JJ project./NN documentation./NN ../. 
+-./: Providing./VBG application./NN training./NN &./CC operating./NN instructions./NNS to./TO the./DT User./NNP groups./NNS ../. 
+-./: Adhering./NN to./TO the./DT TTC./NNP 's./POS Software./NNP Development./NNP Life./NNP Cycle./NNP and./CC application./NN development./NN policies./NNS and./CC standards./NNS 
+
+Skills./NNS Required./VBN :./: 
+-./: Experience./NN or./CC knowledge./NN of./IN .NET./$ 2.0./CD development./NN using./VBG C./NNP #./# ,./, Java./NNP Script./NNP ,./, Ajax./NNP Control./NNP Toolkit./NNP ,./, HTML./NNP ,./, Visual./NNP Basic./NNP Version./NNP 6.0./CD ,./, ASP./NNP ,./, Crystal./NNP Reports./NNP Version./NNP 11./CD (./( BOE./NNP -./: Enterprise./NNP Reporting./NNP )./) ,./, Windows./VBZ 7./CD and./CC implementing./VBG applications./NNS in./IN the./DT client./NN server./NN environment./NN and./CC using./VBG source./NN code./NN management./NN product./NN Team./NNP Foundation./NNP Server./NNP (./( TFS./NNP )./) from./IN Microsoft./NNP ../. 
+-./: Experience./NN using./VBG Visual./NNP Basic./NNP Version./NNP 6.0./CD and/or./NN ASP./NNP ,./, VBA./NNP within./IN MS./NNP Access./NNP 2010./CD &./CC Excel./NNP 2010./CD is./VBZ a./DT definite./JJ asset./NN ../. 
+-./: Knowledge./NN of./IN how./WRB to./TO implement./VB .Net./NN or./CC Visual./JJ Basic./NNP applications./NNS in./IN the./DT client./NN server./NN environment./NN ../. 
+-./: Developed./VBN communication./NN ,./, interpersonal./JJ ,./, problem-solving./JJ ,./, analytical./JJ and./CC conceptual./JJ skills./NNS ../. 
+
+Tools./NNS that./WDT you./PRP will./MD be./VB using./VBG are./VBP .NET./JJ C./NNP #./# ,./, Visual./JJ Studio./NNP 2005./CD ,./, Visual./NNP Basic./NNP Version./NNP 6.0./CD ,./, ASP./NNP ,./, Visual./NNP Interdev./NNP ,./, Crystal./NNP Reports./NNP Version./NNP 11./CD (./( BOE./NNP -./: Enterprise./NNP Reporting./NNP )./) ,./, Windows./VBZ 7./CD and./CC Microsoft./NNP Office./NNP 2010./CD ../. Some./DT reference./NN materials./NNS available./JJ for./IN self./JJ training./NN in./IN Access./NNP ,./, Crystal./NNP Reports./NNP and./CC Oracle./NNP ../. 
+
+This./DT position./NN allows./VBZ considerable./JJ self-direction./NN and./CC is./VBZ best./RBS suited./VBN for./IN students./NNS who./WP work./VBP well./RB both./DT on./IN their./PRP$ own./JJ and./CC with./IN other./JJ people./NNS ../. It./PRP also./RB offers./VBZ exposure./NN to./TO a./DT variety./NN of./IN business./NN related./VBN activities./NNS dealing./VBG with./IN the./DT end-users./NNS ../. 
+
+You./PRP will./MD be./VB working./VBG under./IN the./DT supervision./NN of./IN the./DT Senior./NNP System./NNP Analyst./NNP ../. 
+
+Transportation./NN will./MD be./VB provided./VBN via./IN a./DT TTC./NNP metropass./NN 
+
+PLEASE./JJ NOTE./NN :./: Students./NNS are./VBP required./VBN to./TO provide./VB (./( at./IN your./PRP$ own./JJ expense./NN )./) a./DT current./JJ Police./NNP Clearance./NNP Letter./NNP prior./RB to./TO commencement./NN of./IN the./DT co-op./JJ placement./NN ../. 

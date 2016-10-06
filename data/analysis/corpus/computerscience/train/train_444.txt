@@ -1,0 +1,28 @@
+POSITION./NNP SUMMARY./NNP 
+The./DT focus./NN of./IN this./DT co-op./JJ term./NN will./MD be./VB centered./VBN around./IN various./JJ Android-related./JJ initiatives./NNS at./IN BlackBerry./NNP ,./, specifically./RB around./IN the./DT BlackBerry./NNP Runtime./NNP for./IN Android./NNP apps./NN on./IN BlackBerry./NNP 10./CD and./CC Secure./NNP Workspace./NNP (./( SWS./NNP )./) deployments./NNS ../. The./DT successful./JJ candidate./NN will./MD contribute./VB sample./JJ Android./NNP applications./NNS to./TO the./DT BlackBerry./NNP developer./NNP community./NN to./TO outline./VB nuances./NNS and./CC workaround./NN methods./NNS related./VBN to./TO the./DT BlackBerry./NNP ecosystem./NN ../. Said./NNP candidate./NN will./MD also./RB participate./VB in./IN the./DT onboarding./NN of./IN Android./NNP developers./NNS to/from./VBP the./DT Amazon./NNP Appstore./NNP ecosystem./NN ../. 
+An./DT understanding./NN of./IN Android./NNP SDKs./NNP ,./, Google./NNP Play./NNP Services./NNPS ,./, and./CC leveraging./VBG cross-platform./JJ API./NNP methods./NNS are./VBP necessary./JJ to./TO this./DT role./NN ../. The./DT candidate./NN will./MD work./VB alongside./RB the./DT Enterprise./NNP Solutions./NNP team./NN to./TO assist./VB with./IN developer./JJ documentation./NN and./CC sample./NN applications./NNS which./WDT will./MD be./VB used./VBN to./TO eliminate./VB roadblocks./NNS in./IN revenue./NN opportunities./NNS in./IN cross-platform./JJ enterprise./NN and./CC consumer./NN engagements./NNS ../. When./WRB this./DT project./NN is./VBZ complete./JJ the./DT student./NN will./MD gain./VB a./DT strong./JJ understanding./NN of./IN the./DT cross-platform./JJ Android./NNP developer./NN ecosystem./NN ../. 
+
+Location./NN :./: Waterloo./NN 
+Length./NNP of./IN Term./NNP :./: 4./CD Months./NNS 
+
+RESPONSIBILITIES./NN 
+-The./RB successful./JJ candidate./NN 's./POS responsibilities./NNS will./MD include./VB :./: 
+-Developing./VBG externally-facing./JJ sample./NN Android./NNP and./CC HTML5./NNP (./( Cordova./NNP )./) applications./NNS 
+-Writing./VBG technical./JJ documentation./NN for./IN the./DT BlackBerry./NNP Developer./NNP Blog./NNP and./CC website./VB 
+-Working./VBG with./IN various./JJ stakeholder./NN groups./NNS internal./JJ to./TO BlackBerry./VB 
+-Assisting./VBG with./IN partner./NN on-boarding./JJ and./CC engagements./NNS 
+
+SKILLS./NNP &./CC QUALIFICATIONS./NNP 
+-Currently./RB pursuing./VBG post-secondary./JJ education./NN in./IN a./DT Computer./NNP Science/./NNP Engineering./NNP program./NN ,./, or./CC related./JJ field./NN of./IN study./NN 
+-Strong./JJ knowledge./NN of./IN Android./NNP development./NN and./CC application./NN distribution./NN 
+-Strong./JJ communication./NN and./CC writing./NN skills./NNS 
+-Ability./NN to./TO present./VB to./TO ,./, and./CC collaborate./NN with./IN ,./, various./JJ individuals./NNS or./CC groups./NNS 
+-Professional./JJ acumen./NNS 
+
+ADDITIONAL./NNP ASSETS./NNP 
+-Experience./NN using./VBG cross-platform./JJ third-party./JJ libraries./NNS (./( JNI./NNP )./) 
+-Understanding./NN of./IN mobile./JJ web./NN frameworks./NNS (./( Angular.js./NNP ,./, Node.js./NNP ,./, Ionic./NNP )./) 
+-Proficiency./NN in./IN iOS./NN development./NN and./CC distribution./NN 
+-Knowledge./NN around./IN release./NN management./NN (./( cross-platform./NN )./) 
+-Previous./JJ enterprise./NN or./CC mobile./JJ experience./NN 
+-Experience./NN in./IN community./NN or./CC developer./NN relations./NNS 

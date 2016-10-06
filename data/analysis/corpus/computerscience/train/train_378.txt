@@ -1,0 +1,54 @@
+_______________________________________________________________________./NN 
+
+Description./NN :./: 
+Note./NN :./: There./EX are./VBP two./CD different./JJ co-ops./NNS available./JJ ,./, Platform./NNP Engineer./NNP and./CC Formal./NNP Verification./NNP ../. You./PRP will./MD be./VB considered./VBN for./IN both./DT positions./NNS ,./, however./RB we./PRP will./MD take./VB your./PRP$ preferences./NNS into./IN account./NN for./IN each./DT of./IN these./DT co-ops./NNS ../. 
+
+Platform./NNP Engineer./NNP Co-op./NNP Description./NN :./: 
+
+In./IN this./DT highly./RB visible./JJ role./NN ,./, as./IN part./NN of./IN a./DT highly./RB talented./VBN team./NN you./PRP will./MD be./VB at./IN the./DT heart./NN of./IN the./DT chip./NN design./NN effort./NN interfacing./VBG with./IN all./DT disciplines./NNS (./( vertical./JJ product./NN model./NN )./) with./IN critical./JJ impact./NN in./IN getting./VBG functional./JJ products./NNS to./TO millions./NNS of./IN customers./NNS quickly./RB ../. 
+
+Core./NN Responsibilities./NNS :./: 
+As./IN a./DT platform./NN engineer./NN you./PRP will./MD be./VB responsible./JJ for./IN emulating./VBG a./DT complex./JJ SoC./NNP &./CC are./VBP expected./VBN to./TO :./: 
+Work./NN closely./RB with./IN the./DT team./NN ,./, review./NN specifications./NNS ,./, develop./VB prototyping/emulation./NN plans./NNS and./CC specifications./NNS ../. 
+Work./NNP independently./RB &./CC manage./NN deliverables./NNS to./TO align./VB with./IN project./NN goals./NNS plus./CC support./JJ cross-functional./JJ engineering./NN efforts./NNS 
+Help./NNP lab./NN infrastructure./NN ,./, database./NN and./CC automation./NN for./IN the./DT complex./JJ platform./NN lab./NN environment./NN 
+
+Qualifications./NNS :./: 
+Strengths./NNS in./IN verilog./NN ,./, system-verilog./JJ ,./, test-benches./NNS ,./, simulation./NN ,./, automation./NN and./CC debug./NN ../. 
+Experience./NN in./IN scripting/programming./VBG -./: ideally./RB Unix./NNP ,./, perl./NN ,./, python./NN ,./, MySQL./NNP ,./, Tcl./NNP ,./, C./NNP ,./, C++./NNP including./VBG low-level./JJ programming./NN (./( firmware./NN )./) of./IN complex./JJ computer./NN systems./NNS ../. 
+Hardware/System./NNP design./NN ,./, tools./NNS ,./, debug./NN ,./, lab./JJ experience./NN and./CC vendor./NN interface./NN are./VBP a./DT plus./NN ../. 
+Excellent./JJ communication./NN skills./NNS and./CC demonstrate./VB the./DT desire./NN to./TO take./VB on./IN diverse./NN challenges./NNS ../. 
+
+_____________________________________________________./NN 
+
+Formal./JJ Verification./NNP Co-op./NNP Description./NN :./: 
+
+In./IN this./DT highly./RB visible./JJ role./NN ,./, you./PRP will./MD be./VB at./IN the./DT center./NN of./IN a./DT System-on-a-chip./NNP (./( SoC./NNP )./) design./NN verification./NN effort./NN interfacing./VBG with./IN design./NN ,./, with./IN a./DT critical./JJ impact./NN on./IN getting./VBG high./JJ quality./NN and./CC bug-free./JJ functional./JJ products./NNS to./TO millions./NNS of./IN customers./NNS quickly./RB ../. 
+
+Core./NN Responsibilities./NNS :./: 
+As./IN a./DT formal./JJ verification./NN engineer./NN owning./VBG the./DT complete./JJ formal./JJ verification./NN for./IN single./JJ or./CC multiple./JJ design./NN blocks./NNS and./CC IP./NNP 's./POS ,./, you./PRP will./MD be./VB responsible./JJ for./IN :./: 
+Working./VBG with./IN SOC./NNP and./CC IP./NNP design./NN teams./NNS to./TO develop./VB a./DT formal./JJ micro-architecture./NN specification./NN 
+Developing./VBG a./DT comprehensive./JJ formal./JJ verification./NN test./NN plan./NN 
+Proving./VBG properties./NNS for./IN the./DT design./NN ,./, finding./VBG design./NN bugs./NNS ,./, and./CC working./VBG closely./RB with./IN design./NN teams./NNS to./TO help./VB improve./VB the./DT micro-architecture./NN 
+Architecting./VBG novel./NN and./CC innovative./JJ solutions./NNS for./IN verifying./VBG complex./JJ design./NN micro-architectures./NNS 
+Developing./VBG and./CC implementing./VBG re-usable./JJ and./CC optimized./JJ formal./JJ models./NNS and./CC verification./NN code./NN base./NN 
+
+Additional./JJ Requirements./NNS :./: 
+The./DT ideal./JJ candidate./NN will./MD have./VB the./DT following./JJ experience./NN :./: 
+Advanced./NNP knowledge./NN of./IN SoC./NNP and./CC CPU./NNP designs./NNS ,./, VLSI./NNP and./CC digital./JJ logic./NN design./NN 
+Developed./NNP formal./JJ property./NN proofs./NN on./IN any./DT RISC/CISC./NNP architectures./NNS 
+Deep./JJ understanding./NN of./IN pipeline./NN architectures./NNS ,./, memory./NN ,./, DMA./NNP controllers./NNS ,./, out-of-order./NN and./CC speculative./JJ instruction./NN execution./NN hardware./NN ,./, bus./NN interconnects./NNS ,./, and./CC cache./NN coherence./NN mechanisms./NNS 
+Solid./JJ understanding./NN of./IN formal./JJ verification./NN technologies./NNS and./CC abstraction./NN techniques./NNS 
+Knowledge./NNP and./CC experience./NN in./IN interpreting./VBG hardware./NN specifications./NNS and./CC using./VBG temporal./JJ logic./JJ assertion-based./JJ languages./NNS such./JJ as./IN SVA./NNP or./CC PSL./NNP 
+Experience./NN in./IN using./VBG EDA./NNP formal./JJ tools./NNS and./CC experiences./NNS in./IN CAD./NNP tool./NN development./NN is./VBZ a./DT plus./JJ 
+Proficiency./NN in./IN any./DT scripting./JJ language./NN such./JJ as./IN :./: TCL/PERL/etc./NN ..../: with./IN excellent./JJ debugging./VBG skills./NNS 
+Strong./JJ team./NN player./NN with./IN excellent./JJ communication./NN skills./NNS 
+Passionate./VB about./IN developing./VBG world-class./JJ formal./JJ verification./NN solutions./NNS 
+BS/MS/PhD./NNP in./IN EE./NNP or./CC CS./NNP or./CC Math./NNP or./CC Applied./NNP Math./NNP 
+
+Key./JJ Qualifications./NNS :./: 
+Pursuing./VBG a./DT degree./NN in./IN EE./NNP ,./, CE./NNP ,./, CS./NNP or./CC Math./NNP or./CC Applied./NNP Math./NNP 
+
+Apple./NNP is./VBZ an./DT Equal./JJ Employment./NNP Opportunity./NNP Employer./NNP that./WDT is./VBZ committed./VBN to./TO inclusion./NN and./CC diversity./NN ../. We./PRP also./RB take./VBP affirmative./JJ action./NN to./TO offer./VB employment./NN and./CC advancement./NN opportunities./NNS to./TO all./DT applicants./NNS ,./, including./VBG minorities./NNS ,./, women./NNS ,./, protected./VBD veterans./NNS ,./, and./CC individuals./NNS with./IN disabilities./NNS ../. 
+
+This./DT job./NN is./VBZ located./VBN in./IN Cupertino./NNP ,./, CA./NNP and./CC offers./VBZ competitive./JJ benefits./NNS including./VBG corporate./JJ housing./NN OR./NNP $./$ 1000./CD monthly./JJ rent./NN stipend./NN ,./, paid./VBD travel./NN expenses./NNS to./TO and./CC from./IN Waterloo./NNP and./CC substantial./JJ discounts./NNS on./IN Apple./NNP products./NNS ../. 

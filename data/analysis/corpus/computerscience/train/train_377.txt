@@ -1,0 +1,23 @@
+_______________________________________________________________________./NN 
+
+Description./NN :./: 
+Location-based./JJ services./NNS are./VBP a./DT significant./JJ part./NN of./IN our./PRP$ everyday./JJ lives./NNS ../. Whether./IN you./PRP are./VBP looking./VBG for./IN the./DT nearest./JJS gas./NN station./NN ,./, finding./VBG a./DT transit./NN route./NN that./WDT gets./VBZ you./PRP to./TO the./DT big./JJ game./NN before./IN kickoff./NN ,./, or./CC selecting./VBG the./DT perfect./JJ restaurant./NN for./IN dinner./NN ,./, you./PRP are./VBP relying./VBG on./IN information./NN from./IN the./DT Maps./NNP Data./NNP Engineering./NNP Teams./NNP processing./VBG pipeline./NN ../. At./IN Apple./NNP ,./, the./DT Maps./NNP Data./NNP team./NN provides./VBZ the./DT foundation./NN for./IN building./NN great./JJ customer./NN experiences./NNS ,./, with./IN features./NNS that./WDT have./VBP become./VBN an./DT indispensable./JJ part./NN of./IN millions./NNS of./IN lives./NNS around./IN the./DT world./NN ../. 
+
+Apple./NNP Maps./NNP is./VBZ looking./VBG for./IN a./DT creative./JJ and./CC dedicated./JJ co-op./NN to./TO join./VB our./PRP$ POI./NNP (./( Points./NNS of./IN Interest./NNP )./) Data./NNP Science./NNP team./NN charged./VBN with./IN aggregating./VBG ,./, processing./NN ,./, filtering./VBG and./CC conflating./VBG data./NNS from./IN many./JJ sources./NNS and./CC multiple./JJ modalities./NNS and./CC presenting./VBG a./DT unified./JJ ,./, rich./JJ ,./, and./CC up./RB to./TO date./NN set./NN of./IN POIs./NNP to./TO hundreds./NNS of./IN millions./NNS of./IN Apple./NNP Maps./NNP users./NNS across./IN the./DT world./NN ../. Were./WRB looking./VBG for./IN a./DT scientist/engineering./JJ co-op./NN who./WP is./VBZ expected./VBN to./TO take./VB projects./NNS from./IN initial./JJ data./NNS mining./NN and./CC research./NN through./IN all./DT stages./NNS of./IN prototyping./NN ,./, development./NN and./CC final./JJ integration./NN and./CC into./IN the./DT production./NN data./NNS that./WDT goes./VBZ out./RP the./DT users./NNS ../. 
+
+The./DT POI./NNP Data./NNP Engineering./NNP team./NN is./VBZ looking./VBG for./IN a./DT software./NN engineering./NN co-op./NN who./WP will./MD contribute./VB to./TO projects./NNS that./WDT focus./VBP on./IN a./DT topics./NNS such./JJ as./IN classification./NN ,./, attribute./NN ranking./NN ,./, filtering./NN ,./, or./CC enriching./VBG of./IN entity./NN records./NNS or./CC their./PRP$ data./NNS ../. Candidates./NNS may./MD also./RB implement./VB standard./NN and./CC proprietary./JJ algorithms./NN for./IN handling./VBG and./CC processing./VBG the./DT data./NN in./IN conjunction./NN with./IN the./DT outcomes./NNS of./IN data./NNS mining/research./NN ../. 
+
+Key./JJ Qualifications./NNS :./: 
+-./: Experience./NN working./VBG on./IN data./NNS science./NN projects./NNS 
+-./: Hands./NNS on./IN experience./NN with./IN NLP./NNP ,./, mining./NN of./IN structured./JJ ,./, semi-structured./JJ ,./, and./CC unstructured./VBD data./NNS 
+-./: Intuitive./NN understanding./NN of./IN machine./NN learning./VBG algorithms./NNS ,./, supervised./VBN and./CC unsupervised./JJ modeling./NN techniques./NNS 
+-./: Experience./NN with./IN Hadoop./NNP ,./, Solr/Lucene./NNP ,./, Cassandra./NNP and./CC related./JJ technologies./NNS 
+-./: Working./VBG knowledge./NN of./IN SQL./NNP ,./, Hive./NNP ,./, Pig./NNP ,./, and./CC other./JJ query./NN languages./NNS 
+-./: Experience./NN with./IN Scala./NNP a./DT plus./NN 
+
+Additional./JJ Requirements./NNS 
+Must./RB be./VB currently./RB enrolled./VBN in./IN a./DT BS/MS/PhD./NNP program./NN in./IN Computer./NNP Science./NNP or./CC related./VBN fields./NNS ../. 
+
+Apple./NNP is./VBZ an./DT Equal./JJ Employment./NNP Opportunity./NNP Employer./NNP that./WDT is./VBZ committed./VBN to./TO inclusion./NN and./CC diversity./NN ../. We./PRP also./RB take./VBP affirmative./JJ action./NN to./TO offer./VB employment./NN and./CC advancement./NN opportunities./NNS to./TO all./DT applicants./NNS ,./, including./VBG minorities./NNS ,./, women./NNS ,./, protected./VBD veterans./NNS ,./, and./CC individuals./NNS with./IN disabilities./NNS ../. 
+
+This./DT job./NN is./VBZ located./VBN in./IN Cupertino./NNP ,./, CA./NNP and./CC offers./VBZ competitive./JJ benefits./NNS including./VBG corporate./JJ housing./NN OR./NNP $./$ 1000./CD monthly./JJ rent./NN stipend./NN ,./, paid./VBD travel./NN expenses./NNS to./TO and./CC from./IN Waterloo./NNP and./CC substantial./JJ discounts./NNS on./IN Apple./NNP products./NNS ../. 

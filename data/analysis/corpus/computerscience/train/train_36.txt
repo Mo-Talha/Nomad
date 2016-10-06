@@ -1,0 +1,43 @@
+Job./NNP Title./NNP :./: Reliability./NNP Assessment./NNP Analyst./NNP 
+
+Job./NNP Code./NNP :./: W2017-4821./JJ 
+
+
+Join./VB a./DT Team./NN on./IN the./DT Leading./NNP Edge./NNP 
+
+Are./NNP you./PRP looking./VBG for./IN a./DT Co-op./JJ opportunity./NN that./WDT will./MD allow./VB you./PRP to./TO gain./VB practical./JJ experience./NN in./IN a./DT corporation./NN at./IN the./DT heart./NN of./IN the./DT province./NN 's./POS power./NN system./NN ?./. The./DT Independent./NNP Electricity./NNP System./NNP Operator./NNP (./( IESO./NNP )./) works./VBZ at./IN the./DT heart./NN of./IN Ontario./NNP 's./POS power./NN system./NN --./: ensuring./VBG there./EX is./VBZ enough./JJ power./NN to./TO meet./VB the./DT province./NN 's./POS energy./NN needs./NNS in./IN real./JJ time./NN while./IN also./RB planning./VBG and./CC securing./VBG energy./NN for./IN the./DT future./NN ../. 
+Connecting./VBG generators./NNS ,./, traders./NNS ,./, transmitters./NNS ,./, distributors./NNS ,./, as./RB well./RB as./IN businesses./NNS and./CC residential./JJ energy./NN consumers./NNS ,./, the./DT IESO./NNP encourages./NNS and./CC embraces./NNS change./VBP --./: focusing./VBG its./PRP$ efforts./NNS on./IN evolving./VBG to./TO a./DT cleaner./JJR ,./, more./RBR sustainable./JJ and./CC diverse./JJ power./NN system./NN ../. 
+
+To./TO make./VB this./DT happen./NN ,./, we./PRP are./VBP seeking./VBG forward-thinking./JJ students./NNS like./IN you./PRP ../. Employment./VB with./IN the./DT IESO./NNP offers./VBZ the./DT following./NN :./: 
+
+-./: Competitive./NN wages./NNS 
+-./: The./DT opportunity./NN to./TO work./VB with./IN industry./NN experts./NNS 
+-./: A./NN challenging./NN ,./, fast-paced./JJ team./NN environment./NN 
+-./: Valuable./JJ experience./NN at./IN a./DT widely./RB respected./VBN organization./NN in./IN a./DT dynamic./JJ ,./, high-profile./JJ industry./NN sector./NN 
+
+The./DT IESO./NNP will./MD provide./VB students./NNS with./IN an./DT opportunity./NN to./TO use./VB their./PRP$ knowledge./NN in./IN a./DT climate./NN that./IN fosters./NNS high./JJ standards./NNS of./IN performance./NN ,./, innovation./NN ,./, personal./JJ challenge./NN and./CC growth./NN ../. 
+
+The./DT IESO./NNP is./VBZ an./DT equal./JJ opportunity./NN employer./NN ../. Upon./IN request./NN ,./, the./DT IESO./NNP will./MD provide./VB accommodation./NN in./IN its./PRP$ recruitment./NN process./NN for./IN applicants./NNS with./IN disabilities./NNS ../. 
+
+Division/Department./NN :./: Power./NN System./NNP Assessments./NNP Division/Reliability./NNP Assessments./NNP Department./NNP 
+
+You./PRP will./MD be./VB a./DT part./NN of./IN a./DT group./NN responsible./JJ for./IN :./: 
+
+Assessing./VBG the./DT reliability./NN of./IN the./DT Ontario./NNP electricity./NN system./NN over./IN the./DT next./JJ 18./CD months./NNS and./CC beyond./IN ../. These./DT periodic./JJ assessments./NNS are./VBP performed./VBN for./IN regulatory./JJ compliance./NN ,./, to./TO influence./VB operating./NN and./CC planning./NN decisions./NNS by./IN Market./NN Participants./NNS in./IN the./DT short./JJ to./TO mid-term./JJ and./CC for./IN long-term./JJ horizon./NN ,./, and./CC to./TO determine./VB IESO./NNP plans./VBZ to./TO manage./VB infrastructure./NN development./NN over./IN future./JJ years./NNS ../. 
+
+Your./PRP$ job./NN duties./NNS may./MD include./VB :./: 
+
+Assessing./VBG the./DT ability./NN of./IN generation./NN and./CC transmission./NN resources./NNS to./TO be./VB utilized./VBN in./IN a./DT manner./NN to./TO effectively./RB contribute./VB to./TO maintaining./VBG reliability./NN ../. Developing./VBG and./CC maintaining./VBG the./DT relevant./JJ tools./NNS to./TO facilitate./VB or./CC improve./VB the./DT assessment./NN process./NN and./CC documenting./NN procedures./NNS ../. Researching./VBG into./IN various./JJ aspects./NNS of./IN the./DT power./NN system./NN operation./NN and./CC energy./NN markets./NNS by./IN extracting./VBG ,./, organizing./VBG and./CC synthesizing./VBG historical./JJ data./NNS of./IN generation./NN performance./NN ../. Documenting./NNP and./CC presenting./VBG results./NNS of./IN work./NN to./TO the./DT team./NN ../. In./IN addition./NN ,./, collating./VBG research./NN findings./NNS to./TO assist./VB the./DT team./NN in./IN developing./VBG the./DT modelling./NN recommendations./NNS and./CC presenting./VBG key./JJ findings./NNS to./TO Senior./NNP Management./NNP and./CC in./IN public./JJ reports./NNS ../. Development./NNP of./IN analytical./JJ tools./NNS may./MD include./VB using./VBG Microsoft./NNP Excel./NNP ,./, Microsoft./NNP Access./NNP ,./, SQL./NNP ,./, and./CC Visual./NNP Basic./NNP for./IN Applications./NNP (./( VBA./NNP )./) ../. 
+
+This./DT job./NN will./MD provide./VB you./PRP with./IN the./DT following./JJ professional./JJ development./NN :./: 
+
+Exposure./NN to./TO the./DT challenges./NNS of./IN bulk./NN electricity./NN system./NN operation./NN and./CC operation./NN of./IN the./DT wholesale./JJ electricity./NN market./NN ../. This./DT challenging./JJ role./NN will./MD give./VB the./DT opportunity./NN to./TO display./VB sound./JJ judgement./NN ,./, initiative./NN ,./, independence./NN ,./, flexibility./NN and./CC the./DT ability./NN to./TO handle./VB responsibility./NN ../. Students./NNS will./MD be./VB encouraged./VBN to./TO work./VB both./DT independently./RB ,./, and./CC as./IN part./NN of./IN a./DT team./NN ../. Students./NNS will./MD also./RB have./VB the./DT opportunity./NN to./TO develop./VB oral./JJ and./CC written./VBN technical./JJ communication./NN skills./NNS ../. 
+
+The./DT following./JJ knowledge./NN is./VBZ essential./JJ in./IN order./NN to./TO perform./VB the./DT job./NN :./: 
+
+Experience./NN with./IN Microsoft./NNP Excel./NNP ,./, Access./NNP and./CC Word./NNP ../. Experience./NN with./IN VB./NNP or./CC VBA./NNP programming./NN in./IN Excel./NNP and./CC Access./NNP will./MD be./VB considered./VBN an./DT asset./NN ../. 
+
+
+IESO./NNP supports./VBZ the./DT principles./NNS and./CC practices./NNS of./IN diversity./NN ../. 
+
+For./IN more./JJR information./NN visit./IN our./PRP$ website./NN at./IN www.ieso.ca./NN 

@@ -1,0 +1,63 @@
+Lens./NNP Immersive./NNP is./VBZ a./DT dynamic./JJ new./JJ start-up./NN in./IN the./DT Virtual./NNP Reality./NNP entertainment./NN space./NN ../. 
+
+We./PRP 're./VBP looking./VBG for./IN APPLICATION./NNP DEVELOPERS./NNP to./TO join./VB our./PRP$ Waterloo./NNP team./NN immediately./RB !./. 
+
+Lens./NNP Immersive./NNP needs./NNS talented./VBD entry-level./JJ developers./NNS with./IN strong./JJ foundational./JJ CS./NNP skills./NNS ../. Computer./NNP graphics./NNPS knowledge./NN and./CC C/C++./NNP programming./NN skills./NNS are./VBP desired./VBN ,./, but./CC more./RBR importantly./RB ,./, a./DT can-do./JJ ,./, independent./JJ and./CC motivated./JJ work./NN attitude./NN is./VBZ essential./JJ ../. The./DT chance./NN to./TO work./VB under./IN film./NN industry./NN veterans./NNS among./IN results-driven./JJ individuals./NNS at./IN the./DT birth./NN of./IN this./DT revolutionary./JJ industry./NN distinguish./VBD the./DT Lens./NNP Immersive./NNP opportunity./NN ../. 
+
+Lens./NNP Immersive./NNP is./VBZ led./VBN by./IN Hollywood-feature./NNP technical./JJ and./CC creative./JJ veterans./NNS ../. Growth./NNP opportunities./NNS in./IN the./DT company./NN are./VBP many./JJ ,./, including./VBG film./NN production./NN projects./NNS ,./, future./JJ platform./NN expansions./NNS and./CC business./NN development./NN ../. 
+
+Located./VBN in./IN Uptown./NNP Waterloo./NNP 's./POS converted./VBN Brick./NNP Brewery./NNP ,./, Lens./NNP Immersive./NNP is./VBZ conveniently./RB situated./VBN in./IN the./DT heart./NN of./IN the./DT city./NN -./: surrounded./VBN by./IN many./JJ restaurants./NNS ,./, cafes./NN and./CC shops./NNS ../. 
+
+Summary./JJ 
+
+The./DT VR./NNP Application./NNP Developer./NNP 's./POS role./NN is./VBZ the./DT development./NN of./IN VR./NNP applications./NNS on./IN Android./NNP ,./, Windows./NNP ,./, and./CC Mac./NNP and./CC the./DT integration./NN against./IN server./JJ side./NN business./NN logic./NN where./WRB appropriate./NN in./IN JSON/RESTful./NNP implementations./NNS ../. 
+
+Responsibilities./NNS 
+
+-./: Research./NN ,./, design./NN and./CC develop./VB applications./NNS ,./, workflow./NN and./CC processes./NNS in./IN support./NN of./IN company./NN initiatives./NNS including./VBG ,./, 
+but./CC not./RB limited./JJ to./TO ,./, VR./NNP content./NN ../. 
+-./: Work./NN effectively./RB in./IN a./DT dynamic./JJ and./CC collaborative./JJ team./NN environment./NN ../. 
+-./: Ensure./NN all./DT software./NN development./NN follows./VBZ studio./NN policies./NNS and./CC guidelines./NNS where./WRB applicable./JJ ../. 
+-./: Work./NN closely./RB with./IN other./JJ Developers./NNS and./CC Production./NNP Engineering./NNP to./TO maintain./VB and./CC further./JJ application./NN 
+development./NN ../. 
+-./: Assist./NN in./IN training./NN and./CC mentoring./NN of./IN other./JJ Entry./NNP Level./NNP or./CC Assistant./NNP Developers./NNP ../. 
+-./: Graphics./NNS programming./VBG in./IN OpenGL./NNP where./WRB appropriate./NN ../. 
+-./: Video./NN engineering./NN with./IN low./JJ level./NN media./NNS playback./NN and./CC decode./NN APIS./NNP ../. 
+
+Skills./NNS and./CC Requirements./NNS :./: 
+
+-./: Low./JJ level./NN C/C++./NNP skills./NNS on./IN multiple./JJ platforms./NNS ../. 
+-./: Understanding./NN of./IN OOP./NNP ../. 
+-./: OpenGL./NN experience./NN with./IN strong./JJ matrix./NNS math./NN skills./NNS ../. 
+-./: Shading./NN language./NN knowledge./NN in./IN GLSL./NNP or./CC equivalent./NN ../. 
+-./: Strong./JJ foundational./JJ CS./NNP knowledge./NN and./CC desire./NN to./TO explore./VB and./CC work./VB on./IN new./JJ initiatives./NNS ../. 
+-./: Strong./NN programming./NN skills./NNS ,./, including./VBG proficiency./NN in./IN C./NNP ,./, C++./NNP ,./, Object./NNP Oriented./NNP Programming./NNP ,./, Python./NNP ,./, Maya./NNP MEL./NNP ,./, and./CC Linux./NNP shell./NN scripting./NN ../. 
+-./: Knowledge./NN of./IN and./CC experience./NN with./IN OpenGL./NNP or./CC DirectX./NNP render./VBP pipeline./NN ../. 
+-./: Knowledge./NN of./IN and./CC experience./NN with./IN vertex./NN and./CC fragment./JJ shaders./NNS ../. 
+-./: Knowledge./NN of./IN graphics./NNS processing./VBG algorithm./NN such./JJ as./IN Monte./NNP Carlo./NNP raytracing./NN ../. 
+-./: Android/Windows./NNS OpenGL./NNP experience./NN ../. 
+-./: WebGL./NN knowledge./NN 
+-./: Experience./NN with./IN software./NN development./NN in./IN 2D./CD and./CC 3D./CD computer./NN graphics./NNS ../. 
+-./: Experience./NN with./IN source./NN control./NN systems./NNS like./IN Subversion./NNP ,./, Mercurial./NNP ,./, Git./NNP or./CC other./JJ similar./JJ systems./NNS ../. 
+-./: Ability./NN to./TO establish./VB priorities./NNS ,./, work./NN independently./RB or./CC within./IN a./DT group./NN ,./, and./CC work./NN with./IN minimal./JJ supervision./NN ../. 
+-./: Exceptional./JJ communication./NN skills./NNS in./IN dealing./VBG with./IN both./DT technical./JJ and./CC artistic./JJ groups./NNS ../. 
+-./: Exceptional./JJ trouble-shooting./NN and./CC problem./NN solving./NN skills./NNS ../. 
+
+Other./JJ Desired./NNP Skills./NNP and./CC Pluses./NNS :./: 
+-./: Game/Graphics./NNS engine./NN development./NN experience./NN ../. 
+-./: Working./NN in./IN small./JJ tightly./RB knit./VBN teams./NNS ../. 
+-./: Ability./NN to./TO work./VB within./IN a./DT very./RB fast./RB paced./VBN ,./, deadline./NN oriented./VBN environment./NN ../. 
+-./: Production./NN experience./NN in./IN computer./NN animation./NN ,./, visual./JJ effects./NNS or./CC game./NN development./NN ../. 
+-./: A./NN strong./JJ combined./JJ technical./JJ and./CC creative./JJ background./NN with./IN in-depth./JJ knowledge./NN of./IN 2D./CD and./CC 3D./CD computer./NN graphics./NNS ../. 
+-./: Strong./NN R./NNP &./CC D./NNP experience./NN in./IN artist./NN tools./NNS and./CC pipeline./NN development./NN in./IN production./NN environments./NNS ../. 
+-./: Strong./JJ math./NN skills./NNS ../. 
+-./: Willingness./NN to./TO learn./VB film./NN making./VBG Technical./NNP Director./NNP skills./NNS ../. 
+-./: Willingness./NN to./TO learn./VB artistic./JJ aspects./NNS of./IN film./NN making./NN and./CC cinematic./JJ language./NN ../. 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+Competitive./JJ 
+
+Career./NNP Development./NNP And./CC Training./NNP 
+
+-./: Lens./NNS Immersive./NNP is./VBZ led./VBN by./IN Hollywood-feature./NNP technical./JJ and./CC creative./JJ veterans./NNS looking./VBG to./TO share./NN industry-specific./JJ knowledge./NN ../. 
+-./: Assignments./NNS will./MD build./VB and./CC strengthen./VB core./NN competencies./NNS required./VBN to./TO thrive./VB in./IN an./DT entertainment./NN studio./NN environment./NN while./IN providing./VBG insight./NN into./IN the./DT landscape./NN of./IN emerging./VBG technologies./NNS ../. 

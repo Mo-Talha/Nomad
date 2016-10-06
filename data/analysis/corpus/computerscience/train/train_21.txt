@@ -1,0 +1,40 @@
+Autodesk./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Oct../NNP 20./CD ,./, 2016./CD from./IN 11:30./CD AM./NNP -./: 1:30./CD PM./NNP at./IN Davis./NNP Centre./NNP 1301./CD ../. Please./VB plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+_________________________________________________./NN 
+
+Product./NNP Design./NNP /User./NNP Interaction./NNP Design./NNP -./: 3D./CD printing./NN 
+
+Autodesk./NNP is./VBZ seeking./VBG a./DT talented./VBN ,./, self-motivated./JJ Design./NNP student./NN to./TO join./VB our./PRP$ design./NN team./NN ,./, part./NN of./IN our./PRP$ 3D./CD printing./VBG user./JJ interaction./NN and./CC design./NN team./NN ../. 
+
+The./DT successful./JJ candidate./NN demonstrates./VBZ an./DT ability./NN to./TO work./VB in./IN cross-functional./JJ teams./NNS ,./, composed./VBN of./IN Design./NNP ,./, Product./NNP management./NN ,./, Engineering./NNP ,./, Customer./NNP excellence./NN and./CC Marketing./NN and./CC is./VBZ comfortable./JJ working./VBG in./IN a./DT fast-paced./JJ environment./NN where./WRB everyone./NN can./MD cope./VB and./CC build./VB from./IN suggestion./NN ,./, criticism./NN and./CC directive./NN from./IN other./JJ team./NN members./NNS ../. 
+
+As./IN an./DT intern./NN ,./, you./PRP will./MD be./VB implicated./VBN in./IN various./JJ projects./NNS ,./, around./IN Autodesk./NNP Print./NNP Studio./NNP and./CC 3D./CD printing./NN ,./, involving./VBG the./DT design./NN of./IN desktop./NN applications./NNS and./CC sample./JJ 3D./CD printing./VBG assets./NNS ../. As./IN a./DT member./NN of./IN the./DT design./NN team./NN ,./, you./PRP will./MD be./VB exposed./VBN to./TO multiple./JJ aspects./NNS of./IN our./PRP$ process./NN ,./, from./IN concept./NN to./TO production./NN ,./, in./IN a./DT variety./NN of./IN fields./NNS including./VBG User-Experience./NN ,./, User-Interface./NNP ,./, Graphic./NNP and./CC 3D./CD content./NN design./NN ../. 
+
+Responsibilities./NNS 
+As./IN an./DT intern./NN in./IN our./PRP$ team./NN you./PRP will./MD have./VB the./DT opportunity./NN to./TO :./: 
+Generate./NNP original./JJ artworks./NNS (./( ideation./NN sketches./NNS ,./, storyboards./NNS ,./, movies./NNS ,./, mock-ups./NNS ,./, etc./FW ../. )./) to./TO support./VB the./DT communication./NN and./CC evaluation./NN of./IN various./JJ design./NN alternatives./NNS to./TO other./JJ stakeholders./NNS ,./, prior./RB to./TO implementation./NN ../. 
+Interpret./NNP user./NN needs./NNS and./CC business./NN requirements./NNS ,./, from./IN multiple./JJ sources./NNS ,./, including./VBG Product./NNP Management./NNP and./CC Marketing./NNP ,./, into./IN inspiring./VBG design./NN specifications./NNS and./CC 3D./CD assets./NNS ../. 
+Produce./NNP and./CC deliver./VB production-ready./JJ assets./NNS (./( icons./NNS ,./, graphics./NNS ,./, specifications./NNS ,./, 3D./CD models./NNS )./) in./IN a./DT timely./JJ and./CC organized./JJ manner./NN to./TO adhere./VB to./TO internal./JJ and./CC external./JJ timetables./NNS ../. 
+Coordinate./NNP work./NN with./IN multiple./JJ team./NN members./NNS ../. 
+Work./NN as./IN an./DT integral./JJ member./NN of./IN a./DT high-performance./NN team./NN ,./, making./VBG important./JJ individual./JJ contributions./NNS ../. 
+
+Requirements./NNS 
+Strong./JJ interest./NN in./IN 3D./CD and./CC knowledge./NN of./IN 3D./CD modeling./NN tools./NNS and./CC interaction./NN paradigms./NN 
+Compelling./VBG portfolio./NN in./IN UX/UI./NNP ,./, Illustration./NNP ,./, Industrial./NNP Design./NNP ,./, Graphic./NNP Design./NNP or./CC other./JJ relevant./JJ fields./NNS ../. 
+Creative./JJ and./CC innovative./JJ mindset./NN ../. 
+Ability./NN to./TO generate./VB and./CC express./VB clear./JJ ideas./NNS and./CC designs./NNS ../. 
+Significant./JJ experience./NN using./VBG Adobe./NNP Photoshop./NNP and./CC Illustrator./NNP or./CC other./JJ visual./JJ prototyping./NN tools./NNS ../. 
+Show./NNP good./JJ communication./NN skills./NNS ,./, both./DT oral./JJ and./CC written./VBN ../. 
+Ability./NN to./TO adapt./VB to./TO changing./VBG pace./NN and./CC strategic./JJ decisions./NNS ../. 
+Good./JJ understanding./NN of./IN HTML5./NNP ,./, CSS./NNP ,./, and./CC Responsive./NNP Design./NNP ../. JavaScript./NNP experience./NN would./MD be./VB considered./VBN an./DT asset./NN ../. 
+Good./JJ team./NN player./NN ,./, ability./NN to./TO follow./VB directions./NNS while./IN working./VBG independently./RB ../. 
+
+About./IN Autodesk./NNP 
+Autodesk./NNP helps./VBZ people./NNS imagine./NN ,./, design./NN and./CC create./VB a./DT better./JJR world./NN ../. Everyone./CD -./: from./IN design./NN professionals./NNS ,./, engineers./NNS and./CC architects./NNS to./TO digital./JJ artists./NNS ,./, students./NNS and./CC hobbyists./NNS -./: uses./VBZ Autodesk./NNP software./NN to./TO unlock./VB their./PRP$ creativity./NN and./CC solve./VB important./JJ challenges./NNS ../. For./IN more./JJR information./NN and./CC open./JJ positions./NNS visit./NN autodesk.com/careers./NNS ,./, @./JJ autodeskers./NNS ,./, or./CC facebook.com/autodeskcareers./NNS ../. Autodesk./NNP is./VBZ proud./JJ to./TO be./VB an./DT equal./JJ opportunity./NN employer./NN and./CC considers./NNS all./DT qualifed./VBP applicants./NNS without./IN regard./NN to./TO race./NN ,./, gender./NN ,./, disability./NN ,./, veteran./NN status./NN or./CC other./JJ protected./JJ category./NN ../. 
+
+Please./NNP visit./VB us./PRP at./IN :./: http./NN :./: //www.autodesk.com/./NN 
+
+The./DT office./NN is./VBZ located./VBN downtown./NN in./IN the./DT St../NNP Lawrence./NNP Market./NNP area./NN ,./, easily./RB reached./VBN by./IN TTC./NNP ,./, and./CC walking./VBG distance./NN from./IN Union./NNP Station./NNP for./IN GO./NNP Transit./NNP ../. There./EX is./VBZ also./RB a./DT secure./NN bike./NN room./NN ../. 
+
+We./PRP 'd./MD like./VB to./TO thank./VB all./DT applicants./NNS for./IN their./PRP$ interest./NN ../. Only./RB selected./JJ students./NNS will./MD be./VB contacted./VBN for./IN an./DT interview./NN ../. 
+
+Download./NNP FREE./NNP (./( full-feature./NN )./) versions./NNS of./IN these./DT products./NNS for./IN students./NNS at./IN http./NN :./: //students.autodesk.com/./NN 

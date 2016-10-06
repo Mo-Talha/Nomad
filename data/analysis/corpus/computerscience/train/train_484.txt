@@ -1,0 +1,26 @@
+NOTE./NN FROM./NNP CECA./NNP RE./NNP :./: EMPLOYMENT./NN BASED./NNP IN./NNP THE./NNP USA./NNP 
+
+This./DT work./NN opportunity./NN will./MD be./VB based./VBN in./IN the./DT USA./NNP ;./: therefore./RB all./DT applicants./NNS must./MD determine./VB whether./IN they./PRP are./VBP eligible./JJ to./TO work./VB in./IN the./DT USA./NNP ../. To./TO assess./VB your./PRP$ eligibility./NN please./NN go./VB to./TO and./CC read./VB the./DT information./NN listed./VBN in./IN its./PRP$ entirety./NN before./IN you./PRP apply./VBP for./IN this./DT job./NN ../. 
+
+For./IN specific./JJ information./NN on./IN the./DT USA./NNP visa./NN process./NN that./WDT affects./VBZ co-op./JJ employment./NN ,./, please./VB refer./NN to./TO 
+
+Before./IN you./PRP apply./VBP to./TO this./DT job./NN ,./, please./NN be./VB aware./JJ of./IN mandatory./NN and./CC other./JJ requirements./NNS for./IN students./NNS working./VBG outside./IN Canada./NNP 
+____________________________________________________________________________________./NN 
+
+
+Background./NN 
+Focus./NN on./IN the./DT visual./JJ design./NN ,./, identity./NN ,./, and./CC user./JJ experience./NN of./IN the./DT Center./NNP for./IN Open./NNP Sciences./NNPS (./( COS./NNP )./) free./JJ and./CC open./JJ source./NN products./NNS and./CC services./NNS ../. Be./NNP part./NN of./IN an./DT enthusiastic./JJ and./CC motivated./JJ team./NN that./WDT is./VBZ helping./VBG science./VB become./VBN more./RBR open./JJ and./CC reproducible./JJ ../. The./DT Web./NNP Designer./NNP Intern./NNP will./MD employ./VB leading./VBG edge./NN design./NN and./CC user./JJ experience./NN methods./NNS to./TO create./VB a./DT professional./JJ ,./, accessible./JJ ,./, polished./JJ style./NN for./IN COS./NNP products./NNS ,./, services./NNS ,./, and./CC web./JJ presence./NN ../. This./DT role./NN requires./VBZ expert./JJ understanding./NN of./IN UI/UX./NNP fundamentals./NNS and./CC design./NN trends./NNS ,./, an./DT uncanny./JJ sense./NN of./IN style./NN ,./, color./NN ,./, layout./NN ,./, and./CC typography./NN ;./: and./CC someone./NN who./WP wants./VBZ to./TO contribute./VB to./TO a./DT mission-driven./JJ ,./, non-profit./JJ startup./NN ../. See./VB more./JJR on./IN Github./NNP ../. (./( https./NN :./: //github.com/centerforopenscience./NN )./) 
+
+Responsibilities./NNS 
+Design./NN and./CC maintain./VB the./DT visual./JJ brand./NN for./IN COS./NNP products./NNS ,./, foremost./VBD the./DT Open./NNP Science./NNP Framework./NNP and./CC its./PRP$ associated./JJ services./NNS ;./: collaborate./VB with./IN community./NN and./CC infrastructure./NN teams./NNS to./TO match./VB visual./JJ and./CC interactive./JJ styles./NNS with./IN COS./NNP products./NNS ,./, services./NNS ,./, and./CC web./JJ presence./NN ;./: Align./NNP design./NN and./CC creative./JJ strategies./NNS with./IN COS./NNP mission./NN ;./: Produce./NNP web./NN and./CC print./NN photos./NNS ,./, websites./NNS ,./, banners./NNS ,./, ads./NNS ,./, videos./NNS ,./, and./CC more./JJR ../. 
+
+Skills./NNS 
+Seeks./NNP and./CC employs./VBZ cutting./VBG edge./NN and./CC modern./JJ web./NN design./NN techniques./NNS and./CC tools./NNS ;./: Outstanding./VBG information./NN design./NN abilities./NNS ;./: Graphical./NNP expertise./NN in./IN Adobe./NNP products./NNS ;./: Great./NNP communicator./NN ;./: Desire./NNP and./CC passion./NN in./IN collaborating./VBG across./IN many./JJ functional./JJ areas./NNS of./IN the./DT team./NN ;./: Strong./NNP abilities./NNS in./IN presenting./VBG rationale./NN behind./IN strategic./JJ ,./, architectural./JJ ,./, and./CC design./NN decisions./NNS ;./: Advocate./NNP for./IN user./JJ experience./NN ;./: Team./NNP player./NN ;./: High./NNP energy./NN ,./, results-oriented./JJ ,./, productive./JJ and./CC dedicated./VBN to./TO high./JJ quality./NN ../. 
+Highly./RB desired./VBN :./: Technical./JJ expertise./NN in./IN HTML./NNP ,./, CSS./NNP ,./, and./CC Javascript./NNP ;./: Understanding./NNP of./IN modern./JJ techniques/frameworks./NNS and./CC single-page/API-driven./JJ front-ends./NNS ../. 
+
+Location./NN 
+The./DT Center./NNP for./IN Open./NNP Science./NNP is./VBZ located./VBN in./IN Charlottesville./NNP ,./, Virginia./NNP ../. 
+
+Applying./VBG 
+The./DT Center./NNP for./IN Open./NNP Science./NNP is./VBZ an./DT equal./JJ opportunity./NN employer./NN and./CC strongly./RB encourages./NNS applications./NNS from./IN members./NNS of./IN groups./NNS underrepresented./VBN in./IN science./NN and./CC technology./NN industries./NNS ../. 
+Please./NNP send./VB a./DT resume./NN and./CC cover./NN letter./NN explaining./VBG your./PRP$ background./NN and./CC interest./NN in./IN the./DT position./NN here./RB ../. (./( https./JJ :./: //jobs.lever.co/cos/62465f94-0585-40de-a423-947b75d524ee./NN )./) 

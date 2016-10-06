@@ -1,0 +1,37 @@
+ISA./NNP is./VBZ seeking./VBG qualified./JJ applicants./NNS to./TO support./VB the./DT Security./NNP Operations./NNP Center./NNP (./( SOC./NNP )./) /Managed./VBD Security./NNP Service./NNP Provider./NNP team./NN in./IN Etobicoke./NNP ,./, ON./NNP ../. Qualified./VBN applicants./NNS will./MD be./VB on./IN the./DT forefront./NN of./IN incident./NN response./NN where./WRB they./PRP will./MD utilize./VB the./DT latest./JJS in./IN network./NN security./NN technology./NN while./IN providing./VBG Computer./NNP Network./NNP Defense./NNP and./CC Information./NNP Assurance./NNP (./( IA./NNP )./) support./NN to./TO ISA./NNP 's./POS internal./JJ network./NN as./RB well./RB as./IN various./JJ commercial./JJ and./CC federal./JJ customers./NNS ../. 
+
+Responsibilities./NNS 
+-./: Monitor./NN and./CC analyze./NN network./NN traffic./NN and./CC IDS./NNP alerts./NNS 
+-./: Investigate./NN intrusion./NN attempts./NNS and./CC perform./VB in-depth./JJ analysis./NN of./IN exploits./NNS 
+-./: Provide./NN network./NN intrusion./NN detection./NN expertise./NN to./TO support./VB timely./RB and./CC effective./JJ decision./NN making./NN of./IN when./WRB to./TO declare./VB an./DT incident./NN 
+-./: Conduct./NN proactive./JJ threat./NN research./NN 
+-./: Review./NN security./NN events./NNS that./WDT are./VBP populated./VBN in./IN a./DT Security./NNP Information./NNP and./CC Event./NNP Management./NNP (./( SIEM./NNP )./) system./NN 
+-./: Analyze./NN a./DT variety./NN of./IN network./NN and./CC host-based./JJ security./NN appliance./NN logs./NNS (./( Firewalls./NNP ,./, NIDS./NNP ,./, HIDS./NNP ,./, Sys./NNP Logs./NNP ,./, etc./FW ../. )./) to./TO determine./VB the./DT correct./JJ remediation./NN actions./NNS and./CC escalation./NN paths./NNS for./IN each./DT incident./NN 
+-./: Independently./RB follow./VBP procedures./NNS to./TO contain./VB ,./, analyze./NN ,./, and./CC eradicate./VBP malicious./JJ activity./NN 
+-./: Perform./NN Tier./NNP I/II./NNP initial./JJ incident./NN triage./NN 
+-./: Document./NN all./DT activities./NNS during./IN an./DT incident./NN and./CC providing./VBG leadership./NN with./IN status./NN updates./NNS during./IN the./DT life./NN cycle./NN of./IN the./DT incident./NN 
+-./: Create./NN a./DT final./JJ incident./NN report./NN detailing./VBG the./DT events./NNS of./IN the./DT incident./NN 
+-./: Provide./NN information./NN regarding./VBG intrusion./NN events./NNS ,./, security./NN incidents./NNS ,./, and./CC other./JJ threat./NN indications./NNS 
+-./: Assist./NN with./IN the./DT development./NN of./IN processes./NNS and./CC procedures./NNS to./TO improve./VB incident./NN response./NN times./NNS ,./, analysis./NN of./IN incidents./NNS ,./, and./CC overall./JJ SOC./NNP functions./NNS 
+
+Required./VBN Skills./NNS 
+-./: Knowledge./NN of./IN information./NN security./NN event./NN monitoring./NN and./CC detection./NN and./CC NID./NNP monitoring./NN and./CC incident./JJ response./NN 
+-./: Familiarity./NN with./IN network./NN security./NN methodologies./NNS ,./, tactics./NNS ,./, techniques./NNS and./CC procedures./NNS 
+-./: Knowledge./NN of./IN IPS/IDS./NNP ,./, SIEMs./NNP and./CC other./JJ CND./NNP security./NN tools./NNS 
+-./: Ability./NN to./TO read./VB and./CC write./VB Snort./NNP IDS./NNP signatures./NNS 
+-./: Experience./NN reviewing./NN and./CC analyzing./VBG network./NN packet./NN captures./NNS 
+-./: Experience./NN performing./VBG security/vulnerability./NN reviews./NNS of./IN network./NN environments./NNS 
+-./: Possess./NN a./DT comprehensive./JJ understanding./NN of./IN the./DT TCP/IP./NNP protocol./NN ,./, security./NN architecture./NN ,./, network./NN and./CC remote./VB access./NN security./NN techniques/products./NNS 
+-./: Knowledge./NN of./IN enterprise./NN anti-virus./JJ solutions./NNS ,./, virus./NN outbreak./JJ management./NN ,./, and./CC the./DT ability./NN to./TO differentiate./VB virus./NN activity./NN from./IN directed./VBN attack./NN patterns./NNS 
+-./: Working./VBG knowledge./NN of./IN network./NN architecture./NN 
+-./: Strong./NN research./NN background./NN ,./, utilizing./VBG an./DT analytical./JJ approach./NN 
+-./: Candidate./NN must./MD be./VB able./JJ to./TO react./VB quickly./RB ,./, decisively./RB ,./, and./CC deliberately./RB in./IN high./JJ stress./NN situations./NNS 
+-./: Strong./NN verbal/written./JJ communication./NN and./CC interpersonal./JJ skills./NNS are./VBP required./VBN to./TO document./VB and./CC communicate./VB findings./NNS ,./, escalate./VB critical./JJ incidents./NNS ,./, and./CC interact./NN with./IN customers./NNS 
+-./: Working./VBG knowledge./NN of./IN Windows./NNP and./CC Linux./NNP OS./NNP to./TO include./VB experience./NN working./VBG in./IN the./DT command./NN line./NN interface./NN 
+-./: Highly./NN motivated./VBD individual./JJ with./IN the./DT ability./NN to./TO self-start./NN ,./, prioritize./VB ,./, multi-task./NN and./CC work./NN in./IN a./DT team./NN setting./NN 
+
+Transportation./NN And./CC Housing./NN 
+Connected./VBN to./TO Islington./NNP subway/bus./NN station./NN ../. Temporary./JJ accommodations./NNS may./MD be./VB available./JJ ../. 
+
+Mandatory./JJ Requirements./NNS 
+-./: Security./NN Clearance./NN 

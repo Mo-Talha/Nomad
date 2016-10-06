@@ -1,0 +1,38 @@
+Bazaarvoice./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Sept../NNP 30./CD ,./, 2016./CD from./IN 11:30./CD AM./NNP -./: 1:30./CD PM./NNP at./IN Tatham./NNP Centre./NNP -./: 2218./CD A./NNP and./CC B./NNP ../. Please./NNP plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+
+
+
+
+________________________________________________________________________./NN 
+
+
+________________________________________________________________________./NN 
+
+Do./VBP you./PRP want./VB to./TO work./VB on./IN something./NN that./IN you./PRP ,./, your./PRP$ friends./NNS ,./, family./NN and./CC hundreds./NNS of./IN millions./NNS of./IN others./NNS use./VBP every./DT day./NN ,./, and./CC actually./RB makes./VBZ you./PRP smarter./JJR about./IN how./WRB you./PRP spend./VBP your./PRP$ money./NN ?./. What./WP if./IN you./PRP could./MD do./VB that./DT with./IN a./DT bunch./NN of./IN really./RB smart./JJ people./NNS in./IN an./DT environment./NN that./WDT actively./RB encourages./VBZ learning./NN ,./, growth./NN and./CC individual./JJ development./NN ?./. 
+
+Bazaarvoice./NNP is./VBZ looking./VBG for./IN outstanding./JJ co-ops./NNS who./WP are./VBP passionate./JJ about./IN building./VBG great./JJ software./NN ,./, want./VBP to./TO apply./VB the./DT learning./NN they./PRP have./VBP gained./VBN in./IN the./DT classroom./NN ,./, and./CC want./VBP their./PRP$ work./NN to./TO have./VB real-world./JJ impact./NN ../. At./IN Bazaarvoice./NNP ,./, our./PRP$ software./NN has./VBZ facilitated./VBN hundreds./NNS of./IN billions./NNS of./IN consumer-to-consumer./JJ conversations./NNS and./CC interactions./NNS about./IN products./NNS and./CC services./NNS offered./VBN by./IN the./DT world./NN 's./POS biggest./JJS brands./NNS and./CC retailers./NNS ../. The./DT best./JJS part./NN is./VBZ that./IN we./PRP 're./VBP just./RB getting./VBG started./VBN ,./, and./CC we./PRP need./VBP you./PRP to./TO help./VB us./PRP take./VB things./NNS to./TO the./DT next./JJ level./NN ../. 
+
+Requirements./NNS and./CC Responsibilities./NNS :./: 
+-./: Be./NN proficient./VBN in./IN Java./NNP programming./NN and./CC have./VBP an./DT interest./NN in./IN quality./NN engineering./NN 
+-./: Be./NN hands-on./JJ ,./, willing./JJ to./TO dig./VB in./IN and./CC crank./VB out./RP code./NN ../. Willing./VBG to./TO ship./VB production./NN code./NN bi-weekly./NN ../. 
+-./: Be./VB a./DT learner./NN ,./, able./JJ to./TO explore./VB new./JJ areas./NNS ,./, learn./VBP new./JJ things./NNS ,./, and./CC quickly./RB apply./VB them./PRP to./TO solve./VB new./JJ problems./NNS ../. 
+-./: Be./VB a./DT spark./NN ,./, bring./VBG energy./NN ,./, passion./NN and./CC creativity./NN to./TO work./VB every./DT day./NN ../. 
+
+If./IN this./DT sounds./VBZ like./IN you./PRP ,./, or./CC someone./NN you./PRP know./VBP ,./, please./VB give./VB us./PRP a./DT shout./NN !./. We./PRP 'd./MD love./VB to./TO talk./VB to./TO you./PRP directly./RB about./IN the./DT internship./NN opportunities./VBZ that./IN Bazaarvoice./NNP has./VBZ for./IN you./PRP ../. 
+
+Requirements./NNS and./CC Responsibilities./NNS :./: 
+-./: Be./NN proficient./VBN in./IN Java./NNP programming./NN and./CC have./VBP an./DT interest./NN in./IN quality./NN engineering./NN 
+-./: Be./NN hands-on./JJ ,./, willing./JJ to./TO dig./VB in./IN and./CC crank./VB out./RP code./NN ../. Willing./VBG to./TO ship./VB production./NN code./NN bi-weekly./NN ../. 
+-./: Be./VB a./DT learner./NN ,./, able./JJ to./TO explore./VB new./JJ areas./NNS ,./, learn./VBP new./JJ things./NNS ,./, and./CC quickly./RB apply./VB them./PRP to./TO solve./VB new./JJ problems./NNS ../. 
+-./: Be./VB a./DT spark./NN ,./, bring./VBG energy./NN ,./, passion./NN and./CC creativity./NN to./TO work./VB every./DT day./NN ../. 
+
+Bazaarvoice./NNP provides./VBZ their./PRP$ Austin./JJ co-ops./NNS with./IN subsidized./JJ co-op./JJ housing./NN in./IN an./DT awesome./JJ apartment./NN complex./NN (./( includes./VBZ a./DT gym./NN and./CC a./DT pool./NN )./) and./CC shared./VBN rental./JJ car./NN ../. 
+
+n./JJ addition./NN to./TO a./DT competitive./JJ salary./NN ,./, here./RB are./VBP more./JJR reasons./NNS you./PRP should./MD work./VB here./RB :./: 
+-./: Your./PRP$ own./JJ MacBook./NNP to./TO work./VB on./IN 
+-./: Kitchens./NNS with./IN free./JJ sodas./NNS and./CC snacks./NNS ;./: a./DT Whole./NNP Foods./NNP caf./NN in./IN the./DT office./NN with./IN a./DT 30./CD %./NN employee./NN discount./NN 
+-./: Game./NN rooms./NNS including./VBG a./DT Xbox./NN ,./, ping./VBG pong./JJ tables./NNS ,./, foosball./NN ,./, and./CC more./JJR 
+-./: Couches./NNS and./CC bean./JJ bag./NN chairs-./JJ work./NN anywhere./RB in./IN the./DT office./NN 
+-./: Flights./NNS to/from./IN Austin./NNP for./IN the./DT co-op./NN are./VBP provided./VBN 
+-./: Bazaarvoice./NN will./MD arrange./VB for./IN a./DT US./NNP J-1./NNP Visa./NNP and./CC cover./VB the./DT associated./JJ costs./NNS billed./VBD through./IN Cultural./NNP Vistas./NNP 
+At./IN Bazaarvoice./NNP ,./, you./PRP 'll./MD work./VB as./IN a./DT full./JJ member./NN of./IN one./CD of./IN the./DT agile./NN development./NN teams./NNS ../. You./PRP will./MD use./VB your./PRP$ Java./NNP programming./NN skills./NNS to./TO create./VB automated./JJ tests./NNS and./CC testing./VBG infrastructure./NN for./IN our./PRP$ web./NN applications./NNS and./CC service./NN APIs./NNP ../. 

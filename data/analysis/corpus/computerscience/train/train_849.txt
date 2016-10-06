@@ -1,0 +1,26 @@
+This./DT position./NN is./VBZ limited./VBN to./TO students./NNS that./WDT are./VBP registered./VBN in./IN a./DT recognized./VBN Co-op./NN or./CC internship./JJ program./NN at./IN a./DT Canadian./JJ College./NNP or./CC University./NNP ../. 
+Nokia./NNP is./VBZ a./DT global./JJ leader./NN in./IN the./DT technologies./NNS that./WDT connect./VBP people./NNS and./CC things./NNS ../. With./IN state-of-the-art./JJ software./NN ,./, hardware./NN and./CC services./NNS for./IN any./DT type./NN of./IN network./NN ,./, Nokia./NNP is./VBZ uniquely./RB positioned./VBN to./TO help./VB communication./NN service./NN providers./NNS ,./, governments./NNS ,./, and./CC large./JJ enterprises./NNS deliver./RB on./IN the./DT promise./NN of./IN 5G./CD ,./, the./DT Cloud./NNP and./CC the./DT Internet./NNP of./IN Things./NNP ../. Serving./VBG customers./NNS in./IN over./IN 100./CD countries./NNS ,./, our./PRP$ research./NN scientists./NNS and./CC engineers./NNS continue./VBP to./TO invent./VB and./CC accelerate./VB new./JJ technologies./NNS that./WDT will./MD increasingly./RB transform./VB the./DT way./NN people./NNS and./CC things./NNS communicate./NN and./CC connect./NN ../. 
+Example./JJ duties./NNS :./: 
+
+Job./NNP Description./NNP :./: 
+We./PRP are./VBP looking./VBG for./IN a./DT co-op./JJ research./NN assistant./NN to./TO join./VB our./PRP$ Ottawa./NNP ,./, Ontario./NNP malware./NNP research./NN team./NN ../. This./DT is./VBZ an./DT opportunity./NN for./IN unique./JJ work./NN experience./NN in./IN the./DT burgeoning./VBG sector./NN of./IN computer./NN and./CC network./NN security./NN ../. Working./VBG alongside./RB highly./RB motivated./JJ domain./NN experts./NNS in./IN a./DT fast./NN paced./JJ environment./NN ,./, you./PRP will./MD be./VB exposed./VBN to./TO the./DT latest./JJS tools./NNS and./CC technologies./NNS used./VBN in./IN malware./JJ research./NN including./VBG :./: virtual./JJ environments./NNS for./IN malware./NN analysis./NN ;./: malware./CC analysis./NN tools./NNS ;./: distributed./VBN systems./NNS and./CC web./JJ applications./NNS ../. This./DT is./VBZ an./DT opportunity./NN to./TO learn./VB and./CC to./TO apply./VB knowledge./NN while./IN making./VBG a./DT real./JJ contribution./NN with./IN the./DT rest./NN of./IN the./DT team./NN ../. 
+Students./NNS will./MD be./VB provided./VBN an./DT opportunity./NN to./TO participate./VB in./IN the./DT development./NN process./NN for./IN our./PRP$ malware./NN detection./NN signatures./VBZ ../. This./DT will./MD involve./VB reviewing./VBG the./DT detection./NN signatures./VBZ for./IN accuracy./NN and./CC quality./NN ,./, running./VBG malware./NN samples./NNS in./IN a./DT sandboxed./JJ environment./NN ,./, analyzing./VBG the./DT network./NN traffic./NN generated./VBN by./IN the./DT malware./NN and./CC developing./VBG new./JJ detection./NN signatures./NNS ../. The./DT process./NN covers./VBZ malware./RBS targeting./VBG the./DT Windows./NNP ,./, Android./NNP and./CC iPhone./NN environments./NNS ../. In./IN the./DT first./JJ month./NN ,./, we./PRP will./MD provide./VB intensive./JJ training./NN on./IN the./DT tools./NNS and./CC systems./NNS used./VBN in./IN this./DT process./NN ../. 
+
+Key./NNP skills./NNS :./: 
+Candidates./NNS will./MD have./VB now./RB or./CC will./MD develop./VB skills./NNS in./IN several./JJ of./IN the./DT following./JJ areas./NNS ../. 
+-./: Experience./NN in./IN a./DT Linux./NNP based./VBN software./NN development./NN environment./NN 
+-./: Experience./NN in./IN an./DT Android./NNP software./NN development./NN environment./NN 
+-./: Experience./NN with./IN Object./NNP Oriented./NNP Design./NNP and./CC Programming./NNP 
+-./: Experience./NN developing./VBG in./IN one./CD or./CC more./JJR of./IN C./NNP ,./, C++./NNP ,./, Java./NNP ,./, and./CC PHP./NNP 
+-./: Experience./NN with./IN database./NN development./NN using./VBG MySQL./NNP 
+-./: Experience./NN with./IN and./CC knowledge./NN of./IN TCP/IP./NNP protocols./NNS 
+-./: Experience./NN or./CC knowledge./NN of./IN intrusion./NN detection./NN and./CC prevention./NN ,./, malware./NN analysis./NN ,./, anti-virus./JJ ,./, firewalls./NNS and./CC security./NN information./NN management./NN systems./NNS 
+-./: Ability./NN to./TO use./VB knowledge./NN to./TO quickly./RB master./VB new./JJ technical./JJ areas./NNS 
+-./: Ability./NN to./TO work./VB in./IN a./DT small./JJ ,./, dynamic./JJ team./NN taking./VBG on./IN different./JJ roles./NNS and./CC responsibilities./NNS 
+
+Preference./NN will./MD be./VB given./VBN to./TO candidates./NNS that./WDT have./VBP one./CD or./CC more./JJR of./IN these./DT skills./NNS already./RB 
+Qualification./NN :./: 
+
+Candidates./NNS should./MD be./VB following./VBG a./DT co-op./JJ program./NN in./IN Computer./NNP Science./NNP ,./, Software./NNP Engineering./NNP ,./, Computer./NNP &./CC Network./NNP Security./NNP or./CC equivalent./NN ../. 
+
+Nokia./NNP Canada./NNP is./VBZ committed./VBN to./TO building./VBG a./DT skilled./VBN ,./, diverse./JJ workforce./NN reflective./NN of./IN Canadian./JJ society./NN ../. As./IN a./DT result./NN ,./, we./PRP promote./VBP employment./NN equity./NN and./CC encourage./VB women./NNS ,./, Aboriginal./NNP persons./NNS ,./, and./CC persons./NNS with./IN a./DT disability./NN or./CC members./NNS of./IN a./DT visible./JJ minority./NN group./NN to./TO apply./VB 

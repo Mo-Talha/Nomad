@@ -1,0 +1,41 @@
+Position./NN Title./NN :./: Associate./NNP Data./NNP Analyst./NNP Co-op./NNP 
+Team./NN :./: Business./NN Intelligence./NN 
+Location./NN :./: Vancouver./NNP ,./, BC./NNP 
+
+How./WRB to./TO Apply./VB 
+In./IN addition./NN to./TO applying./VBG through./IN your./PRP$ co-op./JJ office./NN ,./, please./VB create./VB a./DT profile./NN on./IN our./PRP$ student./NN applicant./JJ site./NN ../. You./PRP can./MD apply./VB via./IN this./DT link./NN https./NN :./: //ea.avature.net/university./NN ?./. tags=lwhittle./NN 
+Please./VB indicate./VB clearly./RB whether./IN you./PRP are./VBP available./JJ for./IN a./DT 4./CD month./NN ,./, 8./CD month./NN ,./, 12./CD month./NN or./CC 16./CD month./NN term./NN ../. Most./JJS positions./NNS are./VBP 4./CD or./CC 8./CD months./NNS depending./VBG on./IN your./PRP$ availability./NN ,./, but./CC we./PRP do./VBP consider./VB longer./JJR co-op./NN terms./NNS ../. 
+
+To./TO apply./VB you./PRP must./MD have./VB the./DT legal./JJ right./NN to./TO work./VB in./IN Canada./NNP -./: copies./NNS of./IN work./NN permits./NNS may./MD be./VB requested./VBN for./IN those./DT that./WDT are./VBP not./RB Canadian./JJ Citizens./NNPS or./CC Permanent./JJ Residents./NNS 
+
+Relocation./NNP assistance./NN will./MD be./VB provided./VBN to./TO students./NNS hired./VBN into./IN studios./NNS outside./IN the./DT location./NN of./IN their./PRP$ university./NN ../. 
+
+Position./NNP Overview./NNP 
+The./DT EA./NNP Studios./NNP Business./NNP Intelligence./NNP Group./NNP enables./VBZ strategic./JJ and./CC operational./JJ excellence./NN by./IN delivering./VBG a./DT common./JJ business./NN analytic./JJ system./NN for./IN game./NN teams./NNS ../. We./PRP work./VBP to./TO streamline./VB and./CC automate./VB gathering./NN ,./, analysis./NN and./CC distribution./NN of./IN a./DT variety./NN of./IN data./NNS models./NNS and./CC standardized./VBD KPI./NNP 's./POS to./TO franchise./VB leaders./NNS ../. We./PRP work./VBP very./RB closely./RB with./IN various./JJ Live./JJ Operations./NNPS groups./NNS ,./, game./NN franchises./NNS ,./, analytics./NNS teams./NNS and./CC EA./NNP 's./POS central./JJ technology./NN development./NN teams./NNS ../. 
+
+The./DT role./NN will./MD work./VB closely./RB with./IN the./DT team./NN 's./POS analysts./NNS ,./, engineers./NNS and./CC customers./NNS to./TO ingest./VB new./JJ data./NNS sources./NNS ,./, trouble./NN shoot./NN and./CC resolve./VB data./NNS problems./NNS ,./, improve./VB the./DT platform./NN 's./POS data./NNS quality./NN ,./, and./CC develop./VB new./JJ features./NNS to./TO push./VB the./DT system./NN to./TO the./DT next./JJ level./NN ../. 
+-./: Perform./NN ad./NN hoc./NN analysis./NN for./IN various./JJ teams./NNS within./IN the./DT organization./NN ;./: report./NN actionable./JJ insights./NNS to./TO improve./VB business./NN initiatives./NNS 
+-./: Translate./NN analytical./JJ and./CC reporting./NN requirements./NNS into./IN SQL./NNP queries./NNS ,./, data./NNS flows./NNS and./CC new./JJ solutions./NNS or./CC features./NNS in./IN the./DT data./NNS warehouse./NN 
+-./: Identify./NN ,./, profile./NN and./CC map./JJ appropriate./JJ data./NNS for./IN use./NN in./IN new./JJ or./CC existing./JJ solutions./NNS 
+-./: Maintain./NN clear./JJ and./CC comprehensive./JJ documentation./NN 
+-./: Proactively./RB analyze./IN existing./VBG customer./NN user./NN base./NN to./TO identify./VB key./JJ insights./NNS ,./, new./JJ trends./NNS and./CC customer./NN behavior./NN to./TO improve./VB engagement./NN metrics./NNS 
+-./: Communicate./NN analytics./NNS data./NNS throughout./IN the./DT organization./NN in./IN a./DT clear./JJ ,./, concise./VB way./NN 
+-./: Collaborate./NN with./IN other./JJ areas./NNS of./IN the./DT business./NN in./IN long-term./JJ projects./NNS 
+-./: Provide./NN training./NN on./IN analytics./NNS reporting./VBG to./TO internal./JJ customers./NNS 
+
+Qualifications./NNS 
+-./: Pursuing./VBG degree./NN in./IN computer./NN science./NN ,./, business./NN ,./, economics./NNS or./CC relevant./JJ field./NN 
+-./: Strong./NN written./VBN ,./, verbal./JJ ,./, and./CC presentation./NN skills./NNS with./IN ability./NN to./TO present./VB to./TO all./DT levels./NNS within./IN the./DT organization./NN 
+-./: Knowledge./NN of./IN data./NNS management./NN practices./NNS including./VBG master./NN data./NNS ,./, reference./NN and./CC metadata./NN management./NN ,./, data./NNS quality./NN and./CC data./NNS architecture./NN 
+-./: Experience./NN running./VBG SQL./NNP queries./NNS and./CC comfortable./JJ mining./VBG its./PRP$ own./JJ data./NNS from./IN various./JJ data./NNS sources./NNS 
+-./: Experience./NN working./VBG with./IN big./JJ data./NNS sets./NNS 
+-./: Experience./NN with./IN data./NNS quality./NN ,./, troubleshooting./NN ,./, and./CC data./NNS discrepancy./NN investigation./NN 
+-./: Ability./NN to./TO effectively./RB communicate./VB insights./NNS and./CC findings./NNS to./TO non-analytical./JJ individuals./NNS 
+-./: Ability./NN to./TO work./VB independently./RB and./CC work./NN well./RB within./IN a./DT team./NN environment./NN 
+-./: Enjoy./NN working./VBG in./IN a./DT fast./NN paced./VBN ,./, constantly./RB iterating./VBG and./CC sometimes./RB ambiguous./JJ environment./NN with./IN shifting./VBG priorities./NNS 
+-./: Passion./NN for./IN gaming./NN !./. 
+
+About./IN EA./NNP 
+It./PRP 's./VBZ not./RB easy./JJ building./VBG the./DT world./NN 's./POS best./JJS digital./NN playground./NN ../. It./PRP 's./VBZ hair-standing-up-on-end-exhilarating./NN ../. It./PRP 's./VBZ down-in-the-trenches-challenging./JJ ../. Its./PRP$ stroke-of-brilliance-at-midnight./JJ creative./NN ../. It./PRP 's./VBZ you'taking./VBG risks./NNS ,./, challenging./VBG yourself./PRP ,./, pursuing./VBG ideas./NNS ,./, changing./VBG the./DT way./NN millions./NNS of./IN people./NNS do./VBP something./NN they./PRP love./VBP :./: Play./NN ../. We./PRP 're./VBP EA'we./JJ 've./VBP been./VBN making./VBG games./NNS for./IN decades./NNS but./CC you./PRP would./MD n't./RB know./VB that./IN walking./VBG through./IN our./PRP$ studios./NNS ../. We./PRP 're./VBP still./RB buzzing./VBG with./IN the./DT same./JJ innovative./JJ spirit./NN we./PRP began./VBD with./IN ,./, though./IN we./PRP 've./VBP learned./VBN enough./RB to./TO earn./VB our./PRP$ rank./NN as./IN a./DT leading./VBG developer./NN ,./, publisher./NN and./CC distributor./NN of./IN the./DT world./NN 's./POS best./RBS games./NNS ../. What./WP began./VBD as./IN a./DT small./JJ group./NN of./IN people./NNS determined./VBN to./TO 'put./VB real./JJ life./NN in./IN a./DT box./NN './POS has./VBZ become./VBN an./DT 8,000-people./JJ strong./JJ ,./, worldwide./JJ organization./NN delivering./VBG on./IN that./DT very./RB dream./NN ../. If./IN you./PRP 've./VBP played./VBN The./DT Sims./NNP lately./RB ,./, you./PRP know./VBP exactly./RB what./WP we./PRP mean./VBP ../. And./CC if./IN you./PRP 've./VBP played./VBN Battlefield./NNP 4./CD ,./, maybe./RB you./PRP 'd./MD say./VB that./IN we./PRP 've./VBP done./VBN real./JJ life./NN one./CD better./JJR ../. 
+
+Whether./IN you./PRP 're./VBP building./VBG Springfield./NNP on./IN your./PRP$ mobile./NN or./CC your./PRP$ palms./NNS are./VBP sweaty./VBN from./IN clutching./VBG your./PRP$ controller./NN during./IN intense./JJ games./NNS of./IN FIFA./NNP 16./CD ,./, chances./NNS are./VBP you./PRP 've./VBP played./VBN an./DT EA./NNP game./NN ../. And./CC if./IN you./PRP have./VBP n't./RB ,./, well./RB ,./, what./WP are./VBP you./PRP waiting./VBG for./IN ?./. In./IN an./DT industry./NN that./WDT 's./VBZ changing./VBG every./DT day'whether./NN it./PRP 's./VBZ through./IN new./JJ social./JJ channels./NNS ,./, advancing./VBG technology./NN ,./, new./JJ audiences./NNS or./CC unique./JJ opportunities./NNS for./IN monetization'EA./NN is./VBZ positioned./VBN for./IN growth./NN thanks./NNS to./TO smart./VB business./NN plans./NNS ,./, strategic./JJ acquisitions./NNS ,./, and./CC most./JJS importantly./RB ,./, our./PRP$ creative./JJ people./NNS around./IN the./DT world./NN who./WP gather./VBP each./DT day./NN to./TO unite./VB the./DT world./NN through./IN play./NN ../. We./PRP take./VBP that./DT last./JJ part./NN very./RB seriously./RB ,./, so./RB if./IN what./WP you./PRP 're./VBP reading./VBG excites./NNS you./PRP as./RB much./RB as./IN it./PRP does./VBZ us./PRP ,./, we./PRP invite./VBP you./PRP to./TO get./VB to./TO know./VB us./PRP better./JJR ../. 

@@ -1,0 +1,44 @@
+Summary./JJ 
+A./DT developer./NN with./IN strong./JJ front-end./JJ development./NN skills./NNS using./VBG JavaScript./NNP ,./, but./CC also./RB with./IN deep./JJ knowledge./NN about./IN backend./NN ../. Your./PRP$ front-end./JJ skills./NNS will./MD also./RB include./VB CSS3./NNP and./CC HTML5./NNP ,./, you./PRP are./VBP not./RB a./DT designer./NN ,./, but./CC you./PRP will./MD know./VB that./DT design./NN and./CC user./JJ experience./NN is./VBZ extremely./RB important./JJ to./TO the./DT success./NN of./IN our./PRP$ product./NN ../. On./IN the./DT backend./NN ,./, if./IN you./PRP need./VBP to./TO do./VB something./NN ,./, you./PRP will./MD be./VB writing./VBG code./NN on./IN Python./NNP ,./, so./IN you./PRP will./MD have./VB to./TO be./VB familiar./JJ with./IN it./PRP ../. You./PRP will./MD write./VB tests./NNS ,./, before./IN or./CC after./IN ,./, your./PRP$ code./NN ../. 
+
+Benefits./NNS :./: 
+Free./JJ Lunch./NNP ,./, Premium./NNP Location./NNP ,./, Friday./NNP Events./NNP ,./, Equity./NNP Bonus./NNP Compensation./NNP 
+
+Responsibilities./NNS 
+Implementation./NN ,./, deployment./NN and./CC testing./NN of./IN assigned./JJ projects./NNS which./WDT adhere./RB to./TO internal./JJ coding./NN standards./NNS and./CC practices./NNS 
+Proactive./JJ communication./NN of./IN needs./NNS ,./, blockers./NNS ,./, pertinent./JJ information./NN 
+Development./NNP and./CC maintenance./NN of./IN technical./JJ documentation./NN for./IN projects./NNS 
+Development./NNP and./CC maintenance./NN of./IN unit./NN and./CC end./NN to./TO end./VB testing./VBG suites./NNS 
+May./NNP lead./NN specific./JJ projects./NNS within./IN 
+You./PRP are./VBP creating./VBG a./DT mobile./JJ app./NN ../. 
+
+Required./VBN Skills./NNS 
+Strong./JJ level./NN of./IN mobile./JJ app./NN creation./NN 
+mobile./NN development./NN (./( iOS./JJ and/or./NN Android./NNP )./) 
+Work./NNP directly./RB with./IN designer./NN to./TO convert./VB the./DT design./NN into./IN code./NN 
+
+Necessary./JJ Qualifications./NNS :./: 
+Computer./NNP Science./NNP or./CC equivalent./JJ experience./NN 
+software./NN engineering./NN experience./NN 
+software./NN engineering./NN in./IN JavaScript./NNP ,./, HTML./NNP ,./, CSS./NNP 
+Strong./JJ foundation./NN in./IN Object./NNP Oriented./NNP design./NN 
+Experience./NN working./VBG across./IN the./DT complete./JJ web./NN stack./NN 
+Experience./NN using./VBG REST./NNP based./VBN APIs./NNP 
+Experience./NN with./IN modern./JJ JavaScript./NNP frameworks./NNS (./( e.g./NN ../. React./NNP ,./, Angular./NNP ,./, Ember./NNP )./) 
+Experience./NN with./IN HTML./NNP and./CC CSS./NNP 
+Experience./NN with./IN Python./NNP 
+Strong./JJ organizational./JJ skills./NNS ,./, ability./NN to./TO work./VB with./IN multiple./JJ concurrent./NN goals./NNS 
+Ability./NN to./TO work./VB independently./RB but./CC know./VBP when./WRB to./TO ask./VB questions./NNS 
+
+Bonus./NNP Qualifications./NNS :./: 
+Strong./JJ declarative./JJ programming./NN skills./NNS 
+Strong./JJ React./NNP skills./NNS 
+Strong./JJ React-Native./JJ skills./NNS 
+Strong./JJ English./NN 
+Experience./NN with./IN SASS./NNP 
+Experience./NN with./IN Google./NNP Cloud./NNP 
+
+
+Mandatory./JJ Requirements./NNS 
+-./: Valid./NN Unrestricted./VBD Driver./NNP 's./POS Licence./NN 
+-./: Has./NN Own./JJ Transportation./NN 

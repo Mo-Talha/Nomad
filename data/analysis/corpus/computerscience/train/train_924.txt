@@ -1,0 +1,33 @@
+Thales./NNP Group./NNP is./VBZ a./DT global./JJ technology./NN leader./NN for./IN the./DT Defence./NNP &./CC Security./NNP and./CC the./DT Aerospace./NNP &./CC Transport./NNP markets./NNS ../. The./DT company./NN generates./VBZ revenues./NNS in./IN excess./NN of./IN 14bn./CD annually./RB ../. It./PRP employs./VBZ over./IN 68,000./CD employees./NNS in./IN over./IN 50./CD countries./NNS ../. Leveraging./VBG a./DT global./JJ network./NN of./IN more./JJR than./IN 22,000./CD high-level./JJ researchers./NNS while./IN investing./VBG 17./CD %./NN of./IN its./PRP$ revenue./NN into./IN Research./NNP &./CC Development./NNP ,./, Thales./NNP offers./VBZ an./DT unmatched./JJ capability./NN to./TO develop./VB and./CC deploy./VB critical./JJ information./NN systems./NNS ../. www.thalesgroup.com./NN 
+
+Established./VBN in./IN 1972./CD ,./, Thales./NNP Canada./NNP is./VBZ a./DT leading./VBG electronic./JJ solutions./NNS provider./NN for./IN the./DT Transportation./NNP ,./, Defence./NNP &./CC Security./NNP ,./, and./CC Aerospace./NNP sectors./NNS ../. Thales./NNP Canada./NNP employs./VBZ 1,400./CD staff./NN across./IN main./JJ sites./NNS located./VBN in./IN Montreal./NNP ,./, Quebec./NNP City./NNP ,./, Ottawa./NNP ,./, Toronto./NNP and./CC Vancouver./NNP ../. 
+www.thalesgroup.com/canada./NN 
+
+
+Position./NN Title./NN :./: Software./NNP Analyst./NNP 
+Duration./NN :./: 4./CD months./NNS ,./, January./NNP to./TO April./NNP 2016./CD 
+Location./NN :./: Toronto./NNP 
+Department./NNP :./: Software./NNP Tools./NNP and./CC Simulators./NNS 
+
+Job./NNP Purpose./NNP 
+To./TO perform./VB design./NN ,./, analysis./NN ,./, programming./VBG and./CC integration./NN activities./NNS in./IN the./DT development./NN of./IN software./NN for./IN train./NN control./NN systems./NNS ../. 
+
+Main./NN Responsibilities./NNS :./: 
+Understands./NNS and./CC follows./VBZ the./DT company./NN 's./POS processes./NNS and./CC procedures./NNS for./IN developing./VBG software./NN applications./NNS 
+Implements./NNS real./JJ time./NN systems./NNS in./IN C++./NNP 
+Designs./NNP ,./, codes./NNS ,./, debugs./NNS ,./, writes./VBZ test./NN procedures./NNS and./CC tests./NNS software./NN code./NN 
+Reviews./NNP code./NN ,./, test./NN procedures./NNS and./CC test./NN results./NNS 
+Analyses./NNS and./CC implements./NNS corrections./NNS for./IN defect./NN reports./NNS 
+Support./NNP in-house./NN testing./VBG teams./NNS to./TO analyse./VB and./CC identify./VB issues./NNS 
+
+Key./NNP Skills./NNP and./CC Abilities./NNS 
+Pursuing./VBG B.Sc./NNP ../. in./IN Electrical/Computer./NNP Engineering./NNP ,./, Computer./NNP Science./NNP or./CC equivalent./NN 
+Knowledge./NNP of./IN software./NN development./NN environment./NN 
+Knowledge./NNP of./IN software./NN architecture./NN 
+Development./NNP experience./NN in./IN C++./NNP 
+Experience./NN with./IN Visual./JJ Studio./NN 
+Perl./NNP and./CC VB./NNP scripting./VBG experience./NN is./VBZ considered./VBN an./DT asset./NN 
+Experience./NN with./IN Linux./NNP is./VBZ considered./VBN an./DT asset./NN 
+Knowledge./NNP of./IN modern./JJ software./NN engineering./NN practices./NNS ,./, methods./NNS and./CC tools./NNS 
+
+Thales./NNS is./VBZ committed./VBN to./TO employment./NN equity./NN and./CC diversity./NN in./IN the./DT workplace./NN and./CC welcomes./NNS applicants./NNS from./IN the./DT four./CD designated./VBN groups./NNS (./( women./NNS ,./, persons./NNS with./IN disabilities./NNS ,./, visible./JJ minorities./NNS ,./, and./CC aboriginals./NNS )./) to./TO apply./VB for./IN employment./NN ../. 

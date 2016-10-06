@@ -1,0 +1,28 @@
+_______________________________________________________________________./NN 
+
+Description./NN :./: 
+Responsibilities./NNS may./MD include./VB :./: 
+Contribute./NN to./TO prototype./VB design./NN ,./, bring-up./NN ,./, debug./NN ,./, and./CC characterization./NN 
+Participate./VB in./IN establishing./VBG performance./NN metrics/requirements./NNS through./IN use./NN of./IN models./NNS and./CC simulation./NN ,./, and./CC design./NN of./IN versatile./JJ comprehensive./JJ validation./NN systems./NNS for./IN prototype./JJ bring-up./NN and./CC validation./NN of./IN models./NNS 
+Design./NN of./IN flexible./JJ printed./VBN circuit./NN boards./NNS 
+Assist./NN in./IN design./NN maturity./NN for./IN mass./NN production./NN through./IN failure./NN analysis./NN resolution./NN and./CC performance./NN optimization./NN iteration./NN ../. Justify./NNP design./NN changes./NNS through./IN quantitative./JJ analysis./NN of./IN trade-offs./NNS ../. 
+Diligent./JJ action./NN item/bug./NN tracking./NN ,./, and./CC presentations./NNS to./TO executives./NNS and./CC cross-functional/internal./JJ teams./NNS to./TO manage./VB project./NN milestones./NNS and./CC issues./NNS ../. 
+Author./NNP high./JJ quality./NN engineering./NN requirements./NNS and./CC specifications./NNS 
+Participate./VB in./IN cross-functional./JJ design./NN reviews./NNS ,./, and./CC address./JJ integration./NN concerns./NNS 
+Investigate./NNP new./JJ technologies./NNS for./IN next./JJ generation./NN products./NNS and./CC product./NN roadmaps./NNS 
+
+Key./JJ Qualifications./NNS :./: 
+Proficient./NNP EE./NNP background./NN especially./RB in./IN analog./NN circuit./NN design./NN and./CC validation./NN ../. 
+Adept./IN understanding./JJ and./CC experience./NN with./IN scientific./JJ method./NN ,./, experimental./JJ process./NN ,./, and./CC root./NN cause./NN analysis./NN 
+Experience./NN with./IN simulation./NN tools./NNS such./JJ as./IN HSPICE./NNP and./CC Spectre./NNP are./VBP highly./RB desirable./JJ 
+Hands-on./JJ lab./NN experience./NN including./VBG data./NNS acquisition./NN ,./, and./CC lab./JJ test./NN equipment./NN such./JJ as./IN :./: oscilloscopes./NNS ,./, spectrum./JJ analyzer./NN ,./, power./NN supplies./NNS ,./, etc./FW 
+Demonstrated./VBN engineering./NN passion./NN ,./, initiative./JJ ,./, innovation./NN ,./, and./CC creativity./NN 
+Excellent./JJ written./VBN and./CC verbal./JJ communication./NN skills./NNS 
+Experience./NN in./IN developing./VBG and./CC manufacturing./VBG high./JJ volume./NN display./NN products./NNS is./VBZ a./DT plus./JJ 
+Knowledge./NNP in./IN electronic./JJ displays./NNS ,./, image./NN quality./NN ,./, or./CC graphics./NNS subsystem./NN is./VBZ a./DT plus./NN ../. 
+Effective./JJ written./VBN and./CC verbal./JJ communication./NN skills./NNS are./VBP required./VBN ../. 
+Current./JJ enrollment./NN in./IN a./DT BS./NNP or./CC MS./NNP degree./VBP in./IN Electrical./NNP Engineering./NNP or./CC related./VBN field./NN 
+
+Apple./NNP is./VBZ an./DT Equal./JJ Employment./NNP Opportunity./NNP Employer./NNP that./WDT is./VBZ committed./VBN to./TO inclusion./NN and./CC diversity./NN ../. We./PRP also./RB take./VBP affirmative./JJ action./NN to./TO offer./VB employment./NN and./CC advancement./NN opportunities./NNS to./TO all./DT applicants./NNS ,./, including./VBG minorities./NNS ,./, women./NNS ,./, protected./VBD veterans./NNS ,./, and./CC individuals./NNS with./IN disabilities./NNS ../. 
+
+This./DT job./NN is./VBZ located./VBN in./IN Cupertino./NNP ,./, CA./NNP and./CC offers./VBZ competitive./JJ benefits./NNS including./VBG corporate./JJ housing./NN OR./NNP $./$ 1000./CD monthly./JJ rent./NN stipend./NN ,./, paid./VBD travel./NN expenses./NNS to./TO and./CC from./IN Waterloo./NNP and./CC substantial./JJ discounts./NNS on./IN Apple./NNP products./NNS ../. 

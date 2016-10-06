@@ -1,0 +1,34 @@
+We./PRP want./VBP to./TO be./VB Where./NNP Business./NNP Meets./NNPS the./DT Future.../NNP 
+
+INTERSECT./NNP (./( formerly./RB BNOTIONS./NNP )./) delivers./NNS mobile./JJ and./CC IoT./NNP product./NN strategy./NN ,./, design./NN thinking./NN ,./, and./CC engineering./NN excellence./NN for./IN businesses./NNS that./WDT want./VBP to./TO get./VB ahead./RB ../. We./PRP deliver./VBD experiences./NNS that./WDT inspire./VBP the./DT next./JJ generation./NN of./IN business./NN ../. 
+
+As./IN our./PRP$ User./NNP Interface./NNP Designer./NNP ,./, you./PRP will./MD work./VB with./IN an./DT orientation./NN toward./IN innovative./JJ and./CC effective./JJ design./NN solutions./NNS to./TO help./VB support./VB the./DT creative./JJ design./NN and./CC implementation./NN of./IN our./PRP$ mobile./NN and./CC UX./NNP apps./NN ../. 
+
+As./IN our./PRP$ User./NNP Interface./NNP Designer./NNP ,./, you./PRP will./MD be./VB responsible./JJ for./IN :./: 
+-./: Contributing./NN to./TO the./DT conceptual./JJ /./NNP creative./JJ development./NN of./IN projects./NNS 
+-./: Moodboard./NN creation./NN 
+-./: Generating./VBG visual./JJ identities./NNS from./IN scratch./NN 
+-./: Designing./VBG user./NN friendly./RB and./CC visually./RB appealing./VBG mobile./NN ,./, tablet./NN and./CC desktop./NN apps./NN and./CC websites./NNS 
+-./: Working./VBG to./TO corporate./JJ brand./NN guidelines./NNS if./IN required./VBN 
+-./: Working./VBG with./IN client./NN to./TO ensure./VB goals./NNS and./CC needs./NNS are./VBP met./VBN in./IN the./DT design./NN 
+-./: Collaborating./NN with./IN mobile./JJ and./CC web./JJ application./NN developers./NNS on./IN UI./NNP aspects./NNS 
+-./: Collaborating./NN with./IN developers./NNS to./TO ensure./VB that./IN the./DT vision./NN of./IN the./DT design./NN team./NN is./VBZ successfully./RB 
+deployed./VBN ,./, conducting./VBG design./NN QA./NNP on./IN applications./NNS to./TO ensure./VB high./JJ quality./NN deliverables./NNS before./IN 
+releasing./VBG to./TO the./DT client./NN 
+-./: Supporting./VBG the./DT team./NN with./IN the./DT development./NN ,./, implementation./NN and./CC maintenance./NN of./IN dynamic./JJ and./CC 
+interactive./JJ web./NN and./CC mobile./NN based./VBN projects./NNS 
+-./: Working./NN within./IN project./NN schedules./NNS and./CC multitasking./VBG to./TO meet./VB deadlines./NNS 
+-./: Ongoing./NN communication./NN with./IN the./DT Team./NNP Lead./NNP and./CC Design./NNP Director./NNP 
+-./: Monitoring./NN deliverables./NNS against./IN timelines./NNS 
+-./: Delivering./NN upon./IN the./DT vision./NN of./IN Design./NNP Director./NNP and./CC Senior./NNP Management./NNP 
+-./: Ensuring./NN day./NN today./NN deliverables./NNS are./VBP met./VBN 
+
+As./IN a./DT User./NNP Interface./NNP Designer./NNP ,./, you./PRP will./MD possess./VB the./DT following./JJ skills./NNS ,./, attributes./NNS and./CC experience./NN :./: 
+-./: Experience./NN as./IN an./DT Interface./NNP Designer./NNP 
+-./: Strong./NN portfolio./NN of./IN work./NN 
+-./: Strong./NN understanding./NN of./IN UX./NNP best./JJS practices./NNS and./CC current./JJ design./NN trends./NNS /./VBP technology./NN 
+-./: Excellent./NN attention./NN to./TO detail./VB 
+-./: Advanced./JJ proficiency./NN in./IN Adobe./NNP CS./NNP Suite./NNP 
+-./: Working./VBG knowledge./NN of./IN HTML/CSS./NNP and./CC an./DT understanding./NN of./IN JavaScript./NNP 
+-./: Excellent./NN understanding./NN of./IN composition./NN ,./, colour./NN ,./, imagery./NN and./CC typography\./NN 
+-./: Excellent./NN communication./NN ,./, organisation./NN and./CC leadership./NN skills./NNS 

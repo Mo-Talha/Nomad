@@ -1,0 +1,24 @@
+Product./NN Development./NNP Engineering./NNP Co-op./NN 
+
+Job./NNP Description./NNP :./: 
+Microsemi./NNP is./VBZ currently./RB looking./VBG for./IN a./DT Product./NNP Development./NNP Engineer./NNP co-op./NN to./TO join./VB our./PRP$ Communications./NNPS Business./NNP Unit./NNP in./IN one./CD of./IN three./CD locations./NNS :./: Burnaby./NNP BC./NNP ,./, Saskatoon./NNP SK./NNP or./CC Montreal./NNP QC./NNP ../. We./PRP are./VBP an./DT experienced./JJ chip./NN team./NN working./VBG with./IN the./DT latest./JJS semiconductor./NN development./NN tools./NNS and./CC methodologies./NNS in./IN advanced./JJ process./NN technologies./NNS to./TO develop./VB state-of-the-art./JJ network./NN devices./NNS ../. As./IN a./DT member./NN of./IN the./DT CBU./NNP team./NN you./PRP will./MD be./VB responsible./JJ for./IN design./NN ,./, verification./NN and/or./JJ implementation./NN of./IN digital./JJ integrated./JJ circuits./NNS at./IN the./DT block./NN level./NN or./CC top./JJ level./NN of./IN a./DT device./NN ../. 
+
+The./DT role./NN of./IN the./DT Product./NNP Development./NNP Engineer./NNP co-op./NN includes./VBZ :./: 
+Design./NN and./CC implementation./NN of./IN communication./NN semiconductor./NN devices./NNS including./VBG :./: RTL./NN development./NN in./IN System./NNP Verilog./NNP or./CC VHDL./NNP ,./, floor./NN planning./NN ,./, device./NN and./CC block./NN level./NN verification./NN ,./, synthesis./NN ,./, physical./JJ layout./NN support./NN ,./, static./JJ timing./NN analysis./NN and./CC DFT./NNP 
+Design./NN and./CC implementation./NN of./IN verification./NN testbenches./NNS and./CC bus-functional./JJ models./NNS in./IN Specman/TCL/./NNP System./NNP Verilog./NNP using./VBG best-in-class./JJ verification./NN methodologies./NNS such./JJ as./IN eRM./NN ../. Use./VB metric-driven./JJ and./CC constrained./VBD random-driven./JJ verification./NN techniques./NNS to./TO help./VB ensure./VB first-pass./JJ working./VBG silicon./NN 
+Development./NNP and./CC execution./NN of./IN verification./NN test./NN plans./NNS to./TO verify./VB complex./JJ digital./JJ block-level./NN or./CC sub-system./JJ level./NN designs./NNS (./( 100K./CD to./TO 10M+./CD gates./NNS )./) 
+Support./NN of./IN products./NNS from./IN specification./NN through./IN to./TO production./NN by./IN interacting./VBG with./IN engineers./NNS in./IN Validation./NNP ,./, Applications./NNP ,./, Software/Firmware./NNP ,./, Product./NNP Marketing./NNP and./CC Production./NNP 
+
+Qualifications./NNS :./: 
+Currently./RB enrolled./VBN in./IN Bachelor./NNP 's./POS or./CC Master./NNP 's./POS Degree./NNP program./NN in./IN Electrical./NNP Engineering./NNP or./CC Computer./NNP Engineering./NNP with./IN a./DT GPA./NNP >./NN 3.2./CD 
+Excellent./JJ analytical./JJ and./CC debugging./VBG skills./NNS and./CC the./DT ability./NN to./TO proactively./RB solve./VB issues./NNS 
+Proven./NNP ability./NN to./TO thrive./VB on./IN ,./, learn./NN and./CC adapt./VB to./TO new./JJ methodologies./NNS and./CC technologies./NNS 
+Excellent./JJ verbal./JJ and./CC written./VBN communication./NN skills./NNS in./IN English./NNP 
+Excellent./JJ documentation./NN skills./NNS 
+Experience./NN in./IN designing./NN ,./, synthesizing./VBG and./CC verifying./VBG Verilog./NNP or./CC VHDL./NNP based./VBN designs./NNS on./IN FPGA./NNP or./CC other./JJ platforms./NNS 
+Understanding./NN of./IN communication./NN protocols./NNS such./JJ as./IN Ethernet./NNP ,./, OTN./NNP ,./, SONET/SDH./NNP and./CC others./NNS is./VBZ an./DT asset./NN 
+Strong./JJ scripting./NN and./CC programming./NN skills./NNS ../. Experience./NN using./VBG Verilog/VHDL./NNP ,./, Tcl/Perl/Python./NNP ,./, Specman./NNP ,./, C/C++./NNP ,./, XML./NNP 
+Experience./NN with./IN Synopsys./NNP or./CC Cadence./NNP tool./NN flow./NN 
+Experience./NN working./VBG with./IN verification./NN tools./NNS such./JJ as./IN Enterprise./NNP Planner/Manager./NNP ,./, Cadence./NNP NC-Sim./NNP ,./, waveform./NN viewers./NNS ,./, and./CC other./JJ similar./JJ tools./NNS 
+Proven./NNP track./NN record./NN of./IN designing./VBG ,./, implementing./VBG and./CC debugging./VBG System./NNP Verilog./NNP or./CC Specman./NNP based./VBN verification./NN environments./NNS (./( an./DT asset./NN )./) 
+Experience./NN with./IN designs./NNS at./IN 65nm./CD and./CC lower./JJR technologies./NNS (./( an./DT asset./NN )./) 

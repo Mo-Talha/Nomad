@@ -1,0 +1,23 @@
+______________________________________________________./NN 
+
+Description./NN :./: 
+Lead./JJ cross./NN functional./JJ engineering./NN and./CC operation./NN teams./NNS towards./VBP completion./NN of./IN system./NN level./NN qualifications./NNS in./IN order./NN to./TO increase./VB overall./JJ supply./NN ,./, reduce./VB costs./NNS ,./, minimize./VB total./JJ warranty./NN returns./NNS (./( TWR./NNP )./) ,./, and./CC improve./VB yield./NN on./IN the./DT iPhone./NN product./NN line./NN ../. Drive./NNP validation./NN builds./NNS with./IN OEM./NNP (./( Original./JJ Equipment./NNP Manufacturer./NNP )./) and./CC execute./NN to./TO requirements./NNS from./IN internal./JJ cross./NN functional./JJ teams./NNS ../. Apples./NNP Operations./NNP team./NN ensures./VBZ that./IN Apples./NNP cutting-edge./NN designs./VBZ become./VBN industry-leading./JJ products./NNS ,./, delivered./VBN on./IN time./NN and./CC on./IN spec./NN ../. This./DT high./JJ profile./NN ,./, highly./RB respected./VBN organization./NN is./VBZ positioned./VBN at./IN the./DT junction./NN of./IN Apples./NNP product./NN teams./NNS ,./, the./DT industries./NNS that./WDT supply./VBP core./JJ component./NN technologies./NNS ,./, and./CC our./PRP$ manufacturing./NN partners./NNS who./WP help./VBP ensure./VB that./DT products./NNS such./JJ as./IN iPad./NN ,./, iPhone./NN and./CC Mac./NNP can./MD be./VB restocked./VBN just./RB as./RB fast./RB as./IN they./PRP fly./VBP off./IN the./DT shelves./NNS ../. 
+
+Key./JJ Deliverables./NNS :./: 
+-./: Maintenance./NN of./IN PRQ./NNP database./NN /./NNP tracker./NN and./CC expanding./VBG existing./VBG feature./NN capabilities./NNS to./TO integrate./VB with./IN Apple./NNP internal./JJ systems./NNS 
+-./: Prepare./NN Supplier./NNP Plan./NNP of./IN Record./NNP (./( POR./NNP )./) list./NN for./IN ramp./JJ readiness./NN [./NNP matrix./NN of./IN POR./NNP and./CC PRQ./NNP component./NN /./NN module./NN suppliers./NNS ]./VBP 
+-./: Cost./NN analysis./NN and./CC risk./NN assessment./NN of./IN qualifications./NNS affecting./VBG overall./JJ supply/yield./NN vs../FW materials./NNS liability./NN 
+-./: PRQ./NN process./NN improvement./NN project./NN 
+
+Key./JJ Qualifications./NNS :./: 
+-./: Currently./RB pursing./VBG an./DT engineering./NN degree./NN 
+-./: Experience./NN working./VBG with./IN cross./JJ functional./JJ engineering./NN teams./NNS towards./VBP completion./NN of./IN qualifications./NNS 
+-./: Experience./NN shipping./NN products./NNS a./DT plus./NN 
+-./: Strong./NN multidisciplinary./JJ ,./, technical./JJ background./NN 
+-./: Impeccable./JJ organizational./JJ and./CC multi-tasking./JJ skills./NNS 
+-./: Excellent./NN communication./NN skills./NNS ,./, both./DT verbal./JJ and./CC written./VBN 
+-./: Intellectual./JJ horsepower./NN and./CC innate./NN curiosity./NN 
+
+Apple./NNP is./VBZ an./DT Equal./JJ Employment./NNP Opportunity./NNP Employer./NNP that./WDT is./VBZ committed./VBN to./TO inclusion./NN and./CC diversity./NN ../. We./PRP also./RB take./VBP affirmative./JJ action./NN to./TO offer./VB employment./NN and./CC advancement./NN opportunities./NNS to./TO all./DT applicants./NNS ,./, including./VBG minorities./NNS ,./, women./NNS ,./, protected./VBD veterans./NNS ,./, and./CC individuals./NNS with./IN disabilities./NNS ../. 
+
+This./DT job./NN is./VBZ located./VBN in./IN Cupertino./NNP ,./, CA./NNP and./CC offers./VBZ competitive./JJ benefits./NNS including./VBG corporate./JJ housing./NN OR./NNP $./$ 1000./CD monthly./JJ rent./NN stipend./NN ,./, paid./VBD travel./NN expenses./NNS to./TO and./CC from./IN Waterloo./NNP and./CC substantial./JJ discounts./NNS on./IN Apple./NNP products./NNS 

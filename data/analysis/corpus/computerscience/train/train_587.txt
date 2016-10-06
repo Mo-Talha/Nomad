@@ -1,0 +1,35 @@
+PRIVATE./JJ AND./NNP CONFIDENTIAL./NNP Page./NNP 1./CD 
+POSITION./NN 
+Information./NNP Technology./NNP Analyst./NNP ,./, Enterprise./NNP Architecture./NNP 
+LEVEL./NN 
+University./NNP Student./NN 
+REPORTS./NNS TO./NN 
+DATE./NN 
+January./NNP -April./NN 2017./CD 
+
+OMERS./NNS (./( Ontario./NNP Municipal./NNP Employees./NNP Retirement./NNP System./NNP )./) is./VBZ one./CD of./IN Canada./NNP 's./POS leading./JJ pension./NN funds./NNS with./IN over./IN $./$ 75./CD billion./CD in./IN net./JJ assets./NNS ../. OMERS./NNS actively./RB manages./VBZ a./DT diversified./JJ global./JJ portfolio./NN of./IN stocks./NNS and./CC bonds./NNS as./RB well./RB as./IN real./JJ estate./NN ,./, infrastructure./NN and./CC private./JJ equity./NN investments./NNS ../. OMERS./NNPS is./VBZ located./VBN in./IN the./DT financial./JJ center./NN of./IN downtown./NN Toronto./NNP ../. 
+
+OMERS./NN was./VBD established./VBN in./IN 1962./CD to./TO serve./VB local./JJ government./NN employees./NNS across./IN Ontario./NNP ../. Today./NN ,./, OMERS./NNP represents./VBZ approximately./RB 1000./CD employers./NNS and./CC over./IN 450,000./CD members./NNS ,./, retirees./NNS and./CC survivors./NNS including./VBG municipal./JJ workers./NNS ,./, firefighters./NNS ,./, police./NNS and./CC transit./NN workers./NNS ../. 
+
+OMERS./FW commitment./NN is./VBZ to./TO ensure./VB that./DT current./JJ pensions./NNS are./VBP paid./VBN in./IN full./JJ and./CC on./IN time./NN and./CC to./TO prepare./VB for./IN the./DT future./NN ,./, when./WRB today./NN 's./POS new./JJ employees./NNS retire./VBP ../. OMERS./CC continues./VBZ on./IN a./DT path./NN of./IN steady./JJ growth./NN in./IN assets./NNS under./IN management./NN and./CC growth./NN in./IN membership./NN ,./, supported./VBN by./IN a./DT strong./JJ vision./NN for./IN a./DT secure./NN ,./, sustainable./JJ and./CC prosperous./JJ future./NN ../. 
+
+SCOPE./NN OF./IN POSITION./NN :./: 
+Information./NNP Technology./NNP Analysts./NNS perform./VBP a./DT variety./NN of./IN technical./JJ and./CC analytical./JJ duties./NNS in./IN support./NN of./IN enterprise./NN architecture./NN ../. The./DT duties./NNS include./VBP work./NN in./IN the./DT areas./NNS of./IN user./NN and./CC systems./NNS requirements./NNS and./CC analysis./NN ,./, technology./NN evaluations./NNS ,./, solution./NN and./CC application./NN documentation./NN and./CC cloud./NN technologies./NNS development./NN and./CC readiness./NN ../. 
+
+RESPONSIBILITIES./NNS :./: 
+-./: Collect./NN and./CC document./NN information./NN on./IN existing./VBG platforms./NNS 
+-./: Demonstrate./NN excellent./JJ judgment./NN and./CC tactfulness./NN when./WRB dealing./VBG with./IN internal./JJ and./CC external./JJ clients./NNS 
+-./: Able./NN to./TO gather./VB and./CC synthesize./VB internal./JJ and./CC external./JJ information./NN 
+-./: Develop./VB short./JJ term./NN working./VBG plans./NNS to./TO ensure./VB that./IN project./NN or./CC assignments./NNS are./VBP met./VBN within./IN specific./JJ time./NN frames./NNS 
+-./: Perform./NN Project./NNP Related./NNP Activities./NNS 
+
+QUALIFICATIONS./NN :./: 
+-./: University./NNP program./NN in./IN Computer./NNP Science./NNP 
+-./: Excellent./NN analytical./JJ ,./, interpersonal./JJ and./CC communication./NN skills./NNS with./IN strong./JJ consulting./NN and./CC problem./NN solving./VBG ability./NN ../. 
+
+PRIVATE./JJ AND./NNP CONFIDENTIAL./NNP Page./NNP 2./CD 
+-./: Strong./NN willingness./NN and./CC independent./JJ attitude./NN in./IN learning./VBG new./JJ things./NNS ../. 
+-./: Ability./NN to./TO adapt./VB to./TO a./DT dynamic./JJ and./CC evolving./VBG software./NN development./NN team./NN environment./NN 
+-./: Strong./NN working./VBG knowledge./NN of./IN Microsoft./NNP Office./NNP applications./NNS (./( Excel./NNP ,./, PowerPoint./NNP ,./, Word./NNP )./) 
+-./: Ability./NN to./TO work./VB within./IN a./DT collaborative./JJ team./NN environment./NN 
+-./: Take./NN initiative./NN in./IN identifying./VBG issues./NNS and./CC completing./VBG tasks./NNS 

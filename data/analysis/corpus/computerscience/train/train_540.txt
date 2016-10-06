@@ -1,0 +1,24 @@
+Carrot./NNP Sense./NNP is./VBZ hiring./VBG a./DT Software./NNP Engineer./NNP (./( Co-op./NNP )./) to./TO join./VB our./PRP$ engineering./NN team./NN ../. You./PRP will./MD be./VB responsible./JJ for./IN building./VBG the./DT services./NNS and./CC interfaces./NNS that./WDT power./NN the./DT applications./NNS our./PRP$ clients./NNS rely./RB on./IN ,./, in./IN their./PRP$ journey./NN to./TO quit./VB smoking./NN ../. This./DT role./NN will./MD allow./VB you./PRP to./TO own./VB and./CC drive./VB the./DT product./NN in./IN design./NN ,./, development./NN and./CC maintenance./NN of./IN our./PRP$ services./NNS ../. 
+
+As./IN a./DT small./JJ ,./, but./CC well-funded./JJ startup./NN ,./, you./PRP will./MD be./VB embedded./VBN directly./RB with./IN product./NN and./CC operations./NNS teams./NNS ../. You./PRP will./MD become./VB an./DT expert./JJ across./IN all./DT clients./NNS and./CC advocate./NN for./IN the./DT highest./JJS quality./NN standards./NNS in./IN any./DT release./NN ../. Where./WRB applicable./JJ ,./, you./PRP will./MD also./RB offer./VB input./NN in./IN how./WRB product./NN functionality./NN can./MD be./VB improved./VBN and./CC are./VBP excited./VBN by./IN the./DT prospect./NN of./IN rapid./JJ company./NN and./CC career./NN growth./NN ../. Our./PRP$ co-ops./NNS are./VBP an./DT integral./JJ part./NN of./IN the./DT team./NN and./CC you./PRP will./MD be./VB lead./VBN by./IN Waterloo./NNP alumni./NNS who./WP have./VBP gone./VBN through./IN the./DT co-op./JJ program./NN themselves./PRP ../. 
+
+What./WP you./PRP 'll./MD be./VB doing./VBG 
+-./: Develop./NN and./CC maintain./NN API./NNP services./NNS and./CC backend./VBP jobs./NNS on./IN top./NN of./IN Ruby./NNP on./IN Rails./NNP ,./, RabbitMQ./NNP ,./, and./CC Postgres./NNS 
+-./: Work./NN closely./RB with./IN product./NN ,./, hardware./NN and./CC design./NN teams./NNS to./TO build./VB beautiful./JJ and./CC intuitive./JJ users./NNS that./WDT support./VBP a./DT variety./NN of./IN users./NNS with./IN different./JJ roles./NNS 
+-./: Implement./NN a./DT coaching./VBG interface./NN to./TO support./VB deep./JJ data./NNS analysis./NN and./CC real-time./JJ communication./NN with./IN our./PRP$ native./JJ mobile./NN apps./NN 
+-./: Implement./NN an./DT intelligent./NN and./CC modular./JJ training./NN system./NN interface./NN enabling./VBG simple./JJ content./NN updates./NNS across./IN our./PRP$ native./JJ mobile./NN apps./NN 
+-./: Assist./VB our./PRP$ business./NN strategy./NN and./CC data./NNS teams./NNS in./IN building./NN features./NNS and./CC experiments./NNS 
+-./: Participate./NN in./IN design./NN and./CC code./NN reviews./NNS 
+-./: Identify./NN and./CC communicate./VB front-end./JJ best./JJS practices./NNS 
+
+What./WP you./PRP 've./VBP done./VBN 
+-./: Engineering./NN experience./NN in./IN any./DT of./IN the./DT following./JJ languages./NNS :./: C/C++./NNP ,./, Java./NNP ,./, JavaScript./NNP ,./, Python/Django./NNP ,./, Ruby/Ruby./NNP on./IN Rails./NNP ../. Ideally./NNP Full-stack./JJ 
+-./: Solid./JJ OO./NNP design./NN skills./NNS and./CC understanding./NN of./IN design./NN patterns./NNS 
+-./: Understanding./NN of./IN unit./NN testing./VBG 
+-./: Point./NN us./PRP to./TO your./PRP$ github./JJ projects./NNS you./PRP are./VBP most./RBS proud./JJ of./IN !./. 
+
+What./WP we./PRP can./MD offer./VB :./: 
+-./: Office./NN location./NN featuring./VBG Bay./NNP Trails./NNP access./NN to./TO the./DT waterway./NN ,./, walking./VBG path./NN ,./, full./JJ service./NN gym./NN with./IN pool./NN ,./, world./NN class./NN cafe./JJ on-site./JJ ,./, Cal./NNP Train./NNP shuttle./NN and./CC close./JJ proximity./NN to./TO 101./CD ../. 
+-./: We./PRP are./VBP an./DT equal./JJ opportunity./NN employer./NN and./CC value./NN diversity./NN at./IN our./PRP$ company./NN ../. We./PRP do./VBP not./RB discriminate./VB on./IN the./DT basis./NN of./IN race./NN ,./, religion./NN ,./, color./NN ,./, national./JJ origin./NN ,./, gender./NN ,./, sexual./JJ orientation./NN ,./, age./NN ,./, marital./JJ status./NN ,./, veteran./NN status./NN ,./, or./CC disability./NN status./NN ../. 
+
+For./IN more./JJR information./NN on./IN Carrot./NNP Sense./NNP ,./, Inc./NNP please./VB check./VB out./RP our./PRP$ web./JJ site./NN :./: www.carrotsense.com/careers./NNS 

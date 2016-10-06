@@ -1,0 +1,40 @@
+Wattpad./NNP is./VBZ where./WRB people./NNS come./VBP to./TO be./VB entertained./VBN ,./, inspired./VBN ,./, and./CC to./TO connect./VB around./IN stories./NNS that./WDT matter./VBP to./TO them./PRP ../. More./JJR than./IN 40./CD million./CD people./NNS have./VBP joined./VBN Wattpad./NNP to./TO date./NN ,./, making./VBG it./PRP the./DT world./NN 's./POS largest./JJS community./NN of./IN readers./NNS and./CC writers./NNS ../. With./IN Wattpad./NNP ,./, anyone./NN can./MD read./VB or./CC write./VB on./IN any./DT device./NN :./: Phone./NN ,./, tablet./NN ,./, or./CC computer./NN ../. 
+
+Our./PRP$ users./NNS have./VBP written./VBN and./CC shared./VBN more./JJR than./IN 100./CD million./CD stories./NNS ,./, in./IN aggregate./JJ spending./NN a./DT mind-boggling./JJ 11./CD billion./CD minutes./NNS each./DT month./NN using./VBG our./PRP$ platform./NN ../. 
+
+What./WP we./PRP offer./VBP Co-op./JJ Students./NNS :./: 
+-./: Wattpad./NN pays./VBZ 20./CD %./NN above./IN the./DT term./NN average./NN as./IN recommended./VBN by./IN Waterloo./NNP 
+-./: Meaningful./NN work./NN that./WDT will./MD touch./VB millions./NNS of./IN users./NNS worldwide./VBP 
+-./: Your./PRP$ TTC./NNP pass./NN is./VBZ on./IN us./PRP 
+-./: Monthly./JJ Hack./NNP days./NNS for./IN a./DT chance./NN to./TO show./VB us./PRP your./PRP$ creativity./NN 
+-./: Casual./JJ work./NN environment./NN in./IN a./DT beautiful./JJ downtown./JJ office./NN located./VBN in./IN the./DT St../NNP Lawrence./NNP Market./NNP district./NN 
+
+This./DT is./VBZ your./PRP$ chance./NN to./TO have./VB a./DT direct./JJ impact./NN on./IN our./PRP$ millions./NNS of./IN users./NNS as./IN an./DT Android./NNP Developer./NNP ../. You./PRP will./MD be./VB part./NN of./IN a./DT small./JJ team./NN working./VBG to./TO solve./VB complex./JJ challenges./NNS arising./VBG from./IN the./DT scale./NN of./IN our./PRP$ product./NN and./CC diversity./NN of./IN our./PRP$ users./NNS and./CC their./PRP$ locations./NNS ../. As./IN a./DT co-op./NN you./PRP will./MD be./VB faced./VBN with./IN a./DT variety./NN of./IN tasks./NNS ranging./VBG from./IN implementing./VBG new./JJ UI./NNP with./IN the./DT latest./JJS Android./JJ design./NN guidelines./NNS to./TO building./VBG out./RP our./PRP$ complex./JJ backend./NN architecture./NN ../. 
+
+Things./NNS like./IN minimizing./VBG bandwidth./NN and./CC optimizing./VBG network./NN calls./NNS are./VBP constantly./RB front./VBN of./IN mind./NN as./IN a./DT large./JJ percentage./NN of./IN our./PRP$ users./NNS are./VBP based./VBN in./IN countries./NNS with./IN poor./JJ network./NN connections./NNS and./CC lower./JJR end./NN devices./NNS ../. You./PRP will./MD have./VB the./DT chance./NN to./TO communicate./VB directly./RB with./IN our./PRP$ users./NNS when./WRB they./PRP experience./VBP issues./NNS with./IN our./PRP$ beta./NN version./NN ../. If./IN you./PRP are./VBP a./DT book./NN lover./RB prepared./VBD to./TO be./VB an./DT integral./JJ part./NN of./IN the./DT team./NN that./WDT is./VBZ revolutionizing./VBG the./DT way./NN people./NNS read./VBP and./CC write./VBP ../. This./DT is./VBZ an./DT outstanding./JJ opportunity./NN for./IN an./DT experienced./JJ ,./, creative./JJ individual./NN with./IN a./DT proven./JJ track./NN record./NN in./IN web./NN and./CC mobile./JJ application./NN development./NN ../. 
+
+What./WP you./PRP will./MD be./VB doing./VBG :./: 
+-./: Be./VB a./DT part./NN of./IN early./JJ discussions./NNS involving./VBG new./JJ features./NNS and./CC product./NN direction./NN 
+-./: Implement./NN new./JJ features./NNS and./CC update./JJ existing./VBG ones./NNS 
+-./: Write./NNP functional./JJ unit./NN tests./NNS for./IN your./PRP$ code./NN 
+-./: Work./NN on./IN optimizing./VBG existing./VBG code./NN and./CC refactoring./VBG the./DT current./JJ architecture./NN to./TO use./VB new./JJ design./NN patterns./NNS 
+-./: Weekly./JJ communication./NN with./IN our./PRP$ beta./NN users./NNS to./TO investigate./VB reported./VBN issues./NNS and./CC identify./VB functional./JJ and./CC usability./JJ problems./NNS 
+-./: Make./NN sure./JJ translations./NNS are./VBP up./RB to./TO date./NN for./IN our./PRP$ bi-weekly./JJ releases./NNS 
+
+What./WP we./PRP 're./VBP looking./VBG for./IN :./: 
+-./: High./NNP energy./NN ,./, self-starting./JJ individual./NN with./IN an./DT entrepreneurial./JJ spirit./NN 
+-./: Proven./NN problem./NN solving./VBG ability./NN 
+-./: Attention./NN to./TO detail./VB 
+-./: Gadget./NN lover./NN 
+-./: A./DT solid./JJ understanding./NN of./IN quality./NN assurance./NN as./IN part./NN of./IN the./DT software./NN development./NN process./NN 
+-./: Strong./NN written./VBN and./CC oral./JJ communication./NN skills./NNS 
+-./: Highly./RB effective./JJ time./NN management./NN and./CC organizational./JJ skills./NNS 
+
+Bonus./NNP Points./NNS if./IN you./PRP have./VBP :./: 
+-./: Android./NN development./NN experience./NN with./IN an./DT app./NN published./VBN to./TO the./DT Play./NNP Store./NNP 
+-./: Experience./NN using./VBG Git./NNP and./CC Jira./NNP with./IN a./DT Kanban./NNP workflow./NN 
+-./: Highly./NN proficient./NN in./IN Java./NNP 
+-./: Ability./NN to./TO write./VB effective./JJ unit./NN tests./NNS 
+-./: iOS./NN or./CC backend./VB PHP./NNP experience./NN is./VBZ a./DT bonus./NN 
+
+To./TO learn./VB more./JJR about./IN Wattpad./NNP visit./NN www.wattpad.com/life./NN 

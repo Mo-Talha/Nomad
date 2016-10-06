@@ -1,0 +1,97 @@
+Arista./NNP Networks./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Oct../NNP 4./CD ,./, 2016./CD from./IN 11:30./CD AM./NNP -./: 1:30./CD PM./NNP at./IN Davis./NNP Centre./NNP -./: Corporate./NNP Lounge./NN 1301./CD ../. Please./VB plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+____________________________________________________________./NN 
+
+Arista./NNP Networks./NNP is./VBZ an./DT exciting./JJ ,./, fast-growing./JJ company./NN creating./VBG the./DT best./JJS software./NN and./CC hardware./NN for./IN running./VBG modern./JJ datacenter./NN networks./NNS ../. Based./VBN in./IN California./NNP with./IN a./DT Canadian./JJ office./NN in./IN Vancouver./NNP ,./, it./PRP is./VBZ run./VBN by./IN Silicon./NNP Valley./NNP veterans./NNS and./CC industry./NN titans./NNS Andy./NNP Bechtolsheim./NNP ,./, Ken./NNP Duda./NNP ,./, and./CC Jayshree./NNP Ullal./NNP ../. Arista./NNP is./VBZ developing./VBG a./DT new./JJ class./NN of./IN integrated./JJ network./NN solutions./NNS to./TO address./VB the./DT scalability./NN ,./, performance./NN ,./, and./CC reliability./NN requirements./NNS of./IN large-scale./JJ high./JJ performance./NN computing./NN and./CC cloud./NN datacenters./NNS ../. Arista./NNP plays./VBZ a./DT key./JJ role./NN in./IN the./DT datacenters./NNS of./IN companies./NNS ranging./VBG from./IN Facebook./NNP to./TO Microsoft./NNP ,./, from./IN AOL./NNP to./TO Comcast./NNP ,./, from./IN ESPN./NNP to./TO Netflix./NNP ,./, from./IN Citigroup./NNP to./TO Morgan./NNP Stanley./NNP ../. 
+
+Check./VB out./RP jobs.arista.com/university./NN to./TO learn./VB more./JJR about./IN our./PRP$ internship./JJ program./NN ../. 
+
+What./WP 's./VBZ Cool./NNP at./IN Arista./NNP ?./. 
+
+Cloud./NNP Software./NNP defined./VBD networks./NNS Network./NNP virtualization./NN 
+
+Empowered./JJ engineers./NNS ../. Our./PRP$ engineers./NNS are./VBP empowered./VBN with./IN full./JJ responsibility./NN for./IN their./PRP$ projects./NNS ../. Our./PRP$ management./NN structure./NN is./VBZ flat./JJ and./CC lightweight./JJ --./: you./PRP are./VBP in./IN charge./NN of./IN delivering./VBG your./PRP$ work./NN from./IN design./NN to./TO code./VB to./TO test./VB to./TO customer./NN shipment./NN ../. 
+
+Insane./NNP amount./NN of./IN automation./NN !./. We./PRP have./VBP run./VBN close./RB to./TO 20./CD million./CD tests./NNS in./IN our./PRP$ mini-data./NN center./NN that./WDT operates./VBZ 24/7./CD ../. We./PRP put./VBD a./DT premium./NN on./IN building./NN and./CC using./VBG tools./NNS that./WDT make./VBP everyone./NN super-productive./JJ ../. This./DT translates./VBZ into./IN quicker./NN turn./NN around./RP times./NNS on./IN new./JJ features./NNS and./CC products./NNS for./IN increased./JJ revenue./NN with./IN smaller./JJR teams./NNS ../. 
+
+We./PRP value./NN openness./RB ../. No./DT part./NN of./IN the./DT company./NN is./VBZ off-limits./JJ ,./, meaning./VBG that./IN our./PRP$ engineers./NNS have./VBP the./DT chance./NN to./TO work./VB on./IN a./DT variety./NN of./IN different./JJ areas./NNS ../. All./DT our./PRP$ interns./NNS have./VBP the./DT same./JJ responsibility./NN as./IN our./PRP$ full./JJ timers./NNS and./CC get./VB to./TO work./VB side-by-side./JJ on./IN important./JJ ,./, customer-impacting./JJ projects./NNS ../. 
+
+The./DT Ideal./NNP Candidate./NNP 
+
+-./: loves./NNS to./TO program./NN and./CC finds./VBZ satisfaction./NN in./IN creating./VBG a./DT well-written./JJ piece./NN of./IN code./NN 
+-./: does./VBZ n't./RB shy./VB away./RP from./IN hard./JJ problems./NNS and./CC enjoys./VBZ the./DT challenge./NN of./IN making./VBG reliable./JJ software./NN 
+-./: wants./VBZ to./TO work./VB side-by-side./JJ with./IN the./DT brightest./JJS minds./NNS in./IN software./NN ,./, systems./NNS ,./, and./CC hardware./NN 
+-./: learns./VBZ how./WRB things./NNS work./VBP ,./, just./RB for./IN fun./NN or./CC out./IN of./IN curiosity./NN 
+-./: cares./NNS about./IN the./DT business./NN too./RB 
+
+You./PRP have./VBP (./( or./CC want./VBP to./TO have./VB )./) experience./NN with./IN some./DT set./NN of./IN 
+-./: C./NN /./NN C++./NNP 
+-./: Python./NN 
+-./: Hardware./NN /./VBZ drivers./NNS /./NNP embedded./VBD systems./NNS 
+-./: Network./NN protocols./NNS such./JJ as./IN TCP/IP./NNP ,./, Ethernet./NNP 
+-./: Linux./NN 
+
+The./DT Job./NNP 
+
+Software./NNP engineers./NNS at./IN Arista./NNP deliver./VB product./NN features./NNS ../. The./DT core./NN responsibility./NN is./VBZ writing./VBG the./DT code./NN that./WDT drives./VBZ our./PRP$ products./NNS ../. A./DT software./NN engineer./NN is./VBZ more./JJR than./IN just./RB a./DT coding./JJ machine./NN ;./: they./PRP drive./VBP the./DT whole./JJ development./NN process./NN including./VBG 
+-./: deciding./VBG the./DT features./NNS to./TO build./VB 
+-./: driving./VBG the./DT design./NN 
+-./: writing./VBG the./DT code./NN (./( duh./JJ !./. )./) and./CC testing./VBG 
+-./: documenting./VBG the./DT feature./NN 
+-./: supporting./NN customers./NNS in./IN the./DT field./NN 
+
+Along./IN the./DT way./NN ,./, you./PRP might./MD 
+-./: extend./NN and./CC improve./VB the./DT test./NN infrastructure./NN 
+-./: hack./NN on./IN our./PRP$ engineering./NN tools./NNS ,./, including./VBG p4./NN ,./, django./NN ,./, python./NN ,./, rpm./NN ,./, ..../: 
+-./: work./NN with./IN sales./NNS and./CC business./NN development./NN 
+
+Interview./NNP Information./NN 
+
+The./DT interview./NN will./MD include./VB a./DT 45./CD minute./NN technical./JJ component./NN which./WDT will./MD involve./VB actual./JJ coding./NN (./( C/C++./NNP )./) ../. We./PRP expect./VBP you./PRP to./TO compile./VB and./CC debug./VB your./PRP$ code./NN --./: impress./JJ us./PRP with./IN your./PRP$ problem./NN solving./VBG skills./NNS along./IN with./IN your./PRP$ coding./VBG abilities./NNS ../. 
+
+
+Example./JJ Projects./NNS 
+
+We./PRP do./VBP n't./RB have./VB time./NN for./IN busy./JJ work./NN :./: every./DT project./NN that./IN we./PRP do./VBP has./VBZ customers./NNS clamoring./VBG for./IN it./PRP ../. Along./IN with./IN quick./JJ release./NN cycles./NNS and./CC an./DT engineer-oriented./JJ culture./NN means./VBZ we./PRP always./RB have./VBP a./DT slew./NN of./IN interesting./JJ projects./NNS to./TO tackle./VB ../. What./WP project./NN you./PRP 'll./MD work./VB on./IN at./IN Arista./NNP will./MD vary./VB a./DT lot./NN depending./VBG on./IN our./PRP$ customer./NN demands./NNS and./CC your./PRP$ interests./NNS ../. Here./RB are./VBP some./DT sample./JJ potential./JJ projects./NNS :./: 
+
+1./CD )./) Latency./NN Based./VBN Routing./NNP (./( Networking./NNP Protocol./NNP )./) 
+
+Our./PRP$ switches./NNS run./VBP routing./VBG protocols./NNS that./WDT program./NN the./DT hardware./NN with./IN the./DT nexthop./NN for./IN forwarding./VBG packets./NNS ../. The./DT nexthop./JJ determination./NN is./VBZ based./VBN on./IN some./DT metric./JJ of./IN proximity./NN or./CC cost./NN to./TO the./DT destination./NN ../. For./IN example./NN ,./, the./DT Open./NNP Shortest./NNP Path./NNP First./NNP (./( OSPF./NNP )./) protocol./NN relies./NNS on./IN the./DT Dijkstra./NNP 's./POS algorithm./NN to./TO minimize./VB the./DT number./NN of./IN hops./NNS to./TO reach./VB a./DT destination./NN ../. 
+
+With./IN Latency./NNP Based./VBD Routing./NNP ,./, the./DT preferred./JJ path./NN to./TO a./DT destination./NN has./VBZ the./DT lowest./JJS aggregate./JJ delay./NN across./IN several./JJ hops./NNS ../. Precautions./NNS must./MD be./VB taken./VBN to./TO ensure./VB that./IN the./DT protocol./NN converges./VBZ fast./RB on./IN network./NN events./NNS and./CC stable./JJ to./TO avoid./VB constant./JJ changes./NNS in./IN the./DT preferred./JJ path./NN ../. This./DT feature./NN is./VBZ important./JJ for./IN latency./NN sensitive./JJ applications./NNS run./VBN by./IN ,./, for./IN example./NN ,./, financial./JJ customers./NNS who./WP connect./VBP to./TO stock./NN exchanges./NNS in./IN multiple./JJ locations./NNS (./( New./NNP York./NNP ,./, Chicago./NNP ,./, Tokyo./NNP )./) and./CC demand./VBP the./DT lowest./JJS delays./NNS for./IN receiving./VBG market./NN information./NN ../. 
+
+2./CD )./) Redefining./VBG Load./NNP Balancing./NNP for./IN Future./NNP Applications./NNP (./( Networking./NNP Protocol./NNP )./) 
+
+The./DT Internet./NNP is./VBZ glued./VBN together./RB by./IN the./DT Border./NNP Gateway./NNP Protocol./NNP (./( BGP./NNP )./) and./CC Equal./JJ Cost./NNP Multi./NNP Path./NNP (./( ECMP./NNP )./) has./VBZ been./VBN the./DT backbone./NN of./IN resilient./JJ network./NN topologies./NNS by./IN allowing./VBG multiple./JJ paths./NNS to./TO a./DT destination./NN ../. With./IN ECMP./NNP ,./, the./DT failure./NN of./IN a./DT few./JJ links./NNS have./VBP little./JJ impact./NN as./IN the./DT traffic./NN transitions./NNS to./TO the./DT remaining./VBG links./NNS ../. 
+
+Customers./NNS are./VBP now./RB demanding./VBG link./NN bandwidth./NN aware./JJ traffic./NN load./NN balancing./VBG through./IN the./DT Unequal./NNP Cost./NNP Multi./NNP Path./NNP (./( UCMP./NNP )./) extension./NN to./TO BGP./NNP which./WDT is./VBZ cutting-edge./JJ technology./NN on./IN track./NN to./TO become./VB an./DT RFC./NNP standard./NN ../. The./DT project./NN involves./VBZ adding./VBG ability./NN to./TO match./VB and./CC set/tweak./VB bandwidth./JJ advertisements./NNS in./IN the./DT BGP./NNP policy./NN engine./NN to./TO allow./VB UCMP./NNP formation./NN ../. 
+
+3./LS )./) Shared./VBN Strings./NNP (./( Software./NNP Infrastructure./NNP )./) 
+
+Arista./NNP is./VBZ always./RB concerned./VBN about./IN memory./NN efficiency./NN as./IN our./PRP$ switches./NNS do./VBP n't./RB have./VB hard./JJ drives./NNS ,./, and./CC thus./RB can./MD not./RB page./VB memory./NN to./TO disk./VB ../. This./DT means./VBZ that./IN when./WRB you./PRP run./VBP out./IN of./IN memory./NN ,./, you./PRP are./VBP hosed./VBN ../. And./CC ,./, as./IN we./PRP add./VBP more./JJR features./NNS ,./, we./PRP consume./VBP more./JJR memory./NN ../. One./CD way./NN we./PRP could./MD possibly./RB reduce./VB memory./NN is./VBZ shared./VBN strings./NNS ../. This./DT would./MD be./VB a./DT table./JJ per./NN process./NN that./WDT contains./VBZ all./DT unique./JJ strings./NNS instantiated./VBN ../. Whenever./WRB you./PRP go./VBP to./TO instantiate./VB a./DT new./JJ string./NN this./DT table./NN would./MD be./VB checked./VBN to./TO see./VB if./IN that./DT string./VBG already./RB exists./VBZ and./CC if./IN so./RB ,./, return./VB a./DT pointer./NN to./TO it./PRP ../. This./DT table./NN would./MD have./VB to./TO be./VB very./RB efficient./JJ both./DT in./IN speed./NN and./CC size./NN ../. Another./DT benefit./NN of./IN this./DT approach./NN is./VBZ that./IN string./VBG comparisons./NNS could./MD be./VB very./RB fast./JJ :./: O./NNP (./( 1./CD )./) address./NN comparisons./NNS instead./RB of./IN O./NNP (./( length./NN of./IN string./NN )./) character./NN comparisons./NNS ../. 
+
+4./CD )./) Programmable./NNP Operating./VBG System./NNP on./IN a./DT Switch./NNP (./( Software./NNP Defined./NNP Networks./NNP )./) 
+
+EOS./NNP SDK./NNP :./: Arista./NNP 's./POS EOS./NNP operating./NN system./NN is./VBZ the./DT first./JJ truly./NN extensible./JJ network./NN operating./VBG system./NN on./IN top./NN of./IN Linux./NNP ../. In./IN addition./NN to./TO the./DT standard./JJ Linux./NNP APIs./NNP ,./, the./DT SDK./NNP provides./VBZ a./DT set./NN of./IN higher-level./JJ APIs./NNP to./TO enable./VB third./JJ party./NN developers./NNS to./TO write./VB their./PRP$ agents./NNS that./IN run./VBP in./IN EOS./NNP ../. It./PRP 's./VBZ a./DT set./NN of./IN stable./JJ ,./, versioned./JJ APIs./NNP published./VBN on./IN GitHub./NNP ,./, available./JJ both./DT in./IN C++./NNP and./CC Python./NNP ../. Our./PRP$ largest./JJS cloud./NN customers./NNS leverage./VBP EOS./NNP SDK./NNP to./TO integrate./VB their./PRP$ custom./NN orchestration./NN ,./, automated-management./JJ ,./, and./CC provisioning./VBG systems./NNS with./IN Arista./NNP switches./NNS ../. 
+
+A./DT significant./JJ fraction./NN of./IN today./NN 's./POS Internet./NNP traffic./NN is./VBZ delivered./VBN to./TO you./PRP using./VBG custom./JJ SDN./NNP applications./NNS that./IN the./DT largest./JJS cloud./NN companies./NNS such./JJ as./IN Netflix./NNP or./CC Facebook./NNP built./VBN using./VBG EOS./NNP SDK./NNP ../. Projects./NNPS here./RB involve./VB significant./JJ contributions./NNS to./TO the./DT maturing./VBG EOS./NNP SDK./NNP by./IN developing./VBG new./JJ APIs./NNP to./TO configure./VB EOS./NNP ../. Your./PRP$ changes./NNS will./MD be./VB on./IN GitHub./NNP in./IN our./PRP$ EosSdk./NNP repository./NN !./. 
+
+5./CD )./) Rethinking./NN and./CC Redesigning./NNP (./( The./DT Go./NNP Revolution./NNP )./) 
+
+Arista./NNP has./VBZ a./DT large./JJ C++./NNP and./CC Python./NNP codebase./NN ../. Over./IN the./DT past./JJ year./NN we./PRP 've./VBP been./VBN implementing./VBG a./DT lot./NN of./IN building./NN blocks./NNS in./IN Go./NNP in./IN order./NN to./TO make./VB this./DT language./NN a./DT third./JJ option./NN in./IN our./PRP$ tool./NN box./NN ../. This./DT project./NN gives./VBZ you./PRP the./DT chance./NN to./TO rethink./VB in./IN pretty./JJ fundamental./JJ ways./NNS how./WRB various./JJ key./JJ software./NN components./NNS in./IN EOS./NNP work./NN under./IN the./DT hood./NN as./IN Go./NNP enables./VBZ us./PRP to./TO easily./RB explore./VB alternate./NN development./NN and./CC concurrency./NN models./NNS ../. Come./NNP join./VBD the./DT Go./NNP revolution./NN at./IN Arista./NNP ../. 
+
+
+6./CD )./) In-service./NNP FPGA./NNP Upgrade./NNP of./IN Modular./NNP Components./NNP (./( Talking./VBG to./TO Hardware./NNP )./) 
+
+Arista./NNP 's./POS modular./JJ systems./NNS have./VBP hot./JJ swappable./JJ components./NNS which./WDT are./VBP inserted./VBN or./CC removed./VBN on./IN run-time./NN with./IN little./JJ performance./NN impact./NN to./TO the./DT system./NN ../. Such./JJ components./NNS have./VBP FPGAs./NNP that./WDT are./VBP programmed./VBN by./IN the./DT hardware./NN team./NN and./CC we./PRP would./MD like./VB the./DT ability./NN to./TO easily./RB and./CC reliably./RB upgrade./VBD the./DT FPGA./NNP image./NN on./IN our./PRP$ products./NNS in./IN the./DT field./NN with./IN latest./JJS enhancements./NNS ../. This./DT project./NN will./MD give./VB you./PRP a./DT chance./NN to./TO get./VB really./RB close./JJ to./TO hardware./VB and./CC understand./VB how./WRB the./DT system./NN initializes./VBZ itself./PRP ../. 
+
+
+7./CD )./) VMTracer./NNP ACLs./NNP (./( Cloud./NNP Datacenter./NNP )./) 
+
+Arista./NNP is./VBZ dedicated./VBN to./TO supporting./VBG datacenter./JJ deployments./NNS of./IN our./PRP$ customers./NNS ../. Our./PRP$ integration./NN with./IN a./DT VMWare./NNP server./WDT keeps./VBZ the./DT switch./NN informed./NN of./IN the./DT MAC./NNP addresses./NNS of./IN different./JJ virtual./JJ machines./NNS ../. The./DT switch./NN monitors./VBZ the./DT traffic./NN to./TO locate./VB and./CC detect./VB migrations./NNS of./IN virtual./JJ machines./NNS ../. With./IN this./DT VMTracer./NNP capability./NN ,./, an./DT EOS./NNP switch./NN can./MD keep./VB specified./JJ virtual./JJ machines./NNS in./IN the./DT same./JJ virtual./JJ LAN./NNP (./( VLAN./NNP )./) segment./NN ../. 
+
+The./DT VMTracer./NNP ACLs./NNP project./NN provides./VBZ the./DT ability./NN to./TO seamlessly./RB migrate./VB Access./NNP Control./NNP List./NNP configuration./NN for./IN virtual./JJ machines./NNS when./WRB they./PRP migrate./VBP ../. A./DT simple./JJ access./NN control./NN list./NN ,./, for./IN example./NN ,./, allows./VBZ traffic./NN on./IN port./NN 80./CD for./IN web-server./JJ virtual./JJ machines./NNS or./CC on./IN port./NN 3306./CD for./IN MySql./NNP virutal./JJ machines./NNS ../. 
+
+
+More./RBR Info./NNS 
+
+You./PRP can./MD find./VB out./RP more./JJR information./NN about./IN Arista./NNP on./IN our./PRP$ website./NN at./IN www.arista.com./NN or./CC about./IN our./PRP$ internship./JJ program./NN at./IN jobs.arista.com/university./NN and./CC at./IN jobs.arista.com./NN 

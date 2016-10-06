@@ -1,0 +1,51 @@
+Organization./NNP Profile./NNP :./: 
+LoyaltyOne./NNP works./VBZ with./IN more./JJR than./IN 100./CD of./IN the./DT world./NN 's./POS leading./VBG brands./NNS in./IN the./DT retail./JJ ,./, financial./JJ services./NNS ,./, grocery./NN ,./, petroleum./NN retail./NN ,./, travel./NN and./CC hospitality./NN industries./NNS to./TO profitably./VB change./VB customer./NN behavior./NN ../. Through./IN a./DT team./NN of./IN businesses./NNS ,./, including./VBG the./DT AIR./NN MILES./NNP Reward./NNP Program./NNP ,./, that./IN each./DT specialize./NN in./IN a./DT loyalty./NN discipline./NN ,./, LoyaltyOne./NNP designs./VBZ ,./, delivers./NNS and./CC manages./VBZ a./DT suite./NN of./IN loyalty./NN marketing./NN services./NNS focused./VBD on./IN consumer./NN data./NNS ,./, customer-centric./JJ retail./JJ strategies./NNS ,./, direct-to-consumer./JJ marketing./NN ,./, loyalty./NN consulting./NN and./CC more./JJR ../. 
+Furthermore./RB ,./, for./IN the./DT past./JJ 7./CD consecutive./JJ years./NNS ,./, LoyaltyOne./NNP has./VBZ been./VBN recognized./VBN by./IN Hewitt./NNP Associates./NNPS as./IN one./CD of./IN the./DT Best./JJS Employers./NNS in./IN Canada./NNP ,./, demonstrating./VBG LoyaltyOne./NNP 's./POS continued./JJ commitment./NN to./TO providing./VBG a./DT great./JJ work./NN experience./NN for./IN its./PRP$ associates./NNS and./CC a./DT great./JJ service./NN experience./NN for./IN its./PRP$ clients./NNS ../. 
+
+LoyaltyOne./NNP is./VBZ dedicated./VBN to./TO enriching./VBG the./DT careers./NNS and./CC lives./NNS of./IN our./PRP$ associates./NNS which./WDT is./VBZ evident./JJ by./IN the./DT following./JJ on-site./JJ amenities./NNS ,./, including./VBG :./: 
+-./: Free./JJ on-site./JJ Starbucks./NNP coffee./NN 
+-./: Subsidized./VBD caf./NN with./IN healthy./JJ food./NN options./NNS 
+-./: On-site./NN gym./NN ,./, massage./NN therapy./NN and./CC gym./NN classes./NNS 
+-./: Games./NNS room./NN 
+-./: Public./JJ transit./NN discounts./NNS 
+-./: Companywide./NN volunteer./NN event./NN and./CC charitable./JJ matching./NN donations./NNS 
+
+To./TO find./VB out./RP more./RBR about./IN our./PRP$ unique./JJ corporate./JJ culture./NN ,./, watch./VB our./PRP$ Award/Associate./NNP Testimony./NNP video./NN :./: http./NN :./: //www.youtube.com/watch./NN ?./. v=WMh1E4Ay4r0./NN ../. 
+
+About./IN the./DT Opportunity./NN :./: 
+The./DT User./NNP Experience./NNP team./NN at./IN LoyaltyOne./NNP is./VBZ looking./VBG for./IN an./DT enthusiastic./JJ co-op./JJ student./NN who./WP is./VBZ eager./JJ to./TO learn./VB by./IN supporting./VBG all./DT areas./NNS of./IN specialty./NN across./IN the./DT UX./NNP team./NN ../. These./DT areas./NNS include./VBP User./NNP Research./NNP ,./, User./NNP Experience./NNP Design./NNP ,./, and./CC Visual./NNP Design./NNP in./IN a./DT digital./JJ product./NN development./NN context./NN ,./, including./VBG web./NN and./CC mobile./JJ applications./NNS ../. 
+
+The./DT User./NNP Experience./NNP Co-Op./NNP student./NN will./MD work./VB with./IN UX./NNP practitioners./NNS across./IN these./DT areas./NNS of./IN specialty./NN by./IN supporting./VBG day-to-day./JJ activities./NNS related./VBN to./TO digital./JJ product./NN enhancements./NNS within./IN the./DT AIR./NNP MILES./NNP Reward./NNP Program./NNP ../. This./DT is./VBZ an./DT excellent./JJ opportunity./NN to./TO learn./VB from./IN skilled./JJ and./CC experience./NN professionals./NNS ,./, be./VB part./NN of./IN a./DT dynamic./JJ and./CC engaged./JJ team./NN ,./, work./NN in./IN the./DT loyalty./NN marketing./NN space./NN ,./, and./CC gain./NN exposure./NN to./TO the./DT potential./NN of./IN an./DT exciting./JJ career./NN in./IN User./NNP Experience./NNP ../. 
+
+Responsibilities./NNS :./: 
+-./: Participate./NN in./IN the./DT discovery./NN phase./NN of./IN projects./NNS ,./, working./VBG with./IN UX./NNP Designers./NNPS to./TO complete./VB 
+-./: UX./NN competitive./JJ reviews./NNS ,./, heuristic./JJ reviews./NNS ,./, and./CC site./NN audits./NNS 
+-./: Support./NN usability./NN testing./VBG recruiting./NN ,./, planning./VBG and/or./JJ moderation./NN efforts./NNS with./IN UX./NNP Researchers./NNP 
+-./: Helping./NN to./TO build./VB prototypes./NNS for./IN testing./VBG purposes./NNS using./VBG tools./NNS such./JJ as./IN Balsamiq./NNP and./CC Axure./NNP RP./NNP Pro./NNP 
+-./: Conduct./NN ad-hoc./JJ secondary./JJ research./NN requests./NNS to./TO support./VB decision-making./NN within./IN design./NN and./CC development./NN teams./NNS 
+-./: Assist./NN with./IN planning./NN and./CC executing./VBG A/B./NNP testing./VBG experiments./NNS that./WDT will./MD inform./VB the./DT evolution./NN of./IN our./PRP$ products./NNS 
+-./: Take./VB part./NN in./IN agile./JJ team./NN brainstorms./NNS ,./, ideation./NN and./CC design./NN studio./NN workshops./NNS 
+-./: Create./NN or./CC update./JJ UX./NNP Design./NNP deliverables./VBZ such./JJ as./IN sitemaps./NNS ,./, wireframes./NNS ,./, and./CC user./NN flows./NNS by./IN collaborating./VBG with./IN UX./NNP Designers./NNS 
+-./: Support./NN development./NN delivery./NN by./IN providing./VBG Visual./NNP Design./NNP assets./NNS such./JJ as./IN sliced./JJ images./NNS and./CC stock./NN photography./NN sourcing./VBG 
+-./: Take./VB part./NN in./IN digital./JJ style./NN guide./NN sprint./NN planning./NN 
+-./: Contribute./NN to./TO the./DT development./NN of./IN our./PRP$ digital./JJ style./NN guide./NN ,./, working./VBG with./IN Designers./NNP to./TO define./VB digital./JJ standards./NNS and./CC guidelines./NNS in./IN line./NN with./IN AMRP./NNP branding./VBG 
+-./: Organize./NN ,./, architect./NN ,./, and./CC publish./JJ content./NN to./TO our./PRP$ digital./JJ style./NN guide./NN 
+-./: Work./NN with./IN developers./NNS to./TO incorporate./VB code./NN snippets./NNS for./IN UI./NNP elements./NNS in./IN our./PRP$ digital./JJ style./NN guide./NN 
+-./: Provide./VB support./NN for./IN UX./NNP team./NN administrative./JJ tasks./NNS relating./VBG to./TO internal./JJ processes./NNS 
+
+Qualifications./NNP &./CC Skills./NNP :./: 
+-./: Currently./RB a./DT 3rd./CD or./CC 4th./CD year./NN student./NN enrolled./VBD in./IN a./DT post-secondary./JJ ,./, college./NN or./CC university./NN program./NN in./IN one./CD of./IN the./DT following./JJ disciplines./NNS :./: technology./NN ,./, business./NN ,./, product./NN design./NN ,./, human-computer./JJ interaction./NN ,./, psychology./NN (./( eg./JJ ../. Interaction./NNP Design./NNP ,./, Human./NNP Factors./NNP ,./, Web./NNP Design/Development./NNP ,./, Computer./NNP Science./NNP ,./, Interactive./NNP Media./NNP ,./, Industrial./NNP Design./NNP ,./, Graphic./NNP ,./, Design./NNP ,./, Business/Information./NNP Technology./NNP ,./, Library./NNP Sciences./NNPS ,./, Software./NNP Development./NNP ,./, Information./NNP Systems./NNP ,./, Systems./NNP Analysis./NNP )./) 
+-./: Past./NN experience./NN working./VBG in./IN a./DT digital./JJ product./NN design./NN or./CC development./NN related./VBN role./NN (./( web./JJ or./CC mobile./JJ apps./NN )./) 
+-./: Technically./RB inclined./JJ with./IN strong./JJ front-end./JJ development./NN skills./NNS or./CC working./VBG knowledge./NN (./( HTML/CSS/Javascript./NNP )./) 
+-./: Passion./NN for./IN technology./NN ,./, innovation./NN and./CC solving./VBG business./NN problems./NNS 
+-./: Creative./JJ thinker./NN with./IN natural./JJ design./NN sense./NN 
+-./: Ability./NN to./TO multi-task./NN and./CC work./NN on./IN a./DT variety./NN of./IN projects./NNS or./CC tasks./VB a./DT time./NN 
+-./: Detail-oriented./JJ -./: whether./IN it./PRP 's./VBZ lines./NNS of./IN code./NN ,./, pixels./NNS -./: you./PRP know./VBP the./DT importance./NN of./IN covering./VBG every./DT detail./NN in./IN your./PRP$ work./NN 
+-./: Empathetic./JJ /./NN ability./NN to./TO put./VB yourself./PRP in./IN our./PRP$ user./NN 's./POS /./NNP Collector./NNP 's./POS shoes./NNS 
+
+Application./NN Process./NN :./: 
+Please./NNP submit./VB your./PRP$ application./NN consisting./NN of./IN Cover./NNP Letter./NNP ,./, Resume./NNP and./CC Transcripts./NNP to./TO JobMine./NNP ../. 
+
+Transcripts./NNS to./TO submit./VB :./: all./DT university./NN grades./NNS received./VBD to./TO date./NN 
+
+Alliance./NNP Data./NNP is./VBZ an./DT Equal./JJ Employment./NNP Opportunity./NNP employer./NN ../. Accordingly./RB ,./, we./PRP will./MD make./VB reasonable./JJ accommodations./NNS to./TO respond./VB to./TO the./DT needs./NNS of./IN people./NNS with./IN disabilities./NNS in./IN accordance./NN with./IN legislation./NN ../. 

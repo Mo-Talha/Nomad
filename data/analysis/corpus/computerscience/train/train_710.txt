@@ -1,0 +1,20 @@
+Looking./VBG for./IN an./DT exciting./NN and./CC challenging./VBG co-op./JJ opportunity./NN in./IN web./NN development./NN ?./. Look./VB no./DT further./JJ !./. 
+
+Put./VB your./PRP$ knowledge./NN of./IN the./DT latest./JJS technologies./NNS to./TO work./VB creating./VBG solutions./NNS to./TO some./DT of./IN the./DT insurance./NN industry./NN 's./POS toughest./JJS challenges./NNS ../. Your./PRP$ world./NN is./VBZ a./DT true./JJ agile./NN team./NN environment./NN that./WDT includes./VBZ a./DT wide./JJ variety./NN of./IN web./NN and./CC mobile./JJ possibilities./NNS using./VBG .NET./JJ 4.5./CD ,./, VS2015./NNP ,./, Code./NNP First./NNP Entity./NNP framework./NN ,./, Angular./NNP ,./, Knockout./NNP ,./, Cordova./NNP ,./, HTML5./NNP ,./, CSS3./NNP and./CC other./JJ evolving./VBG technologies./NNS ../. 
+
+Accountabilities./NNS :./: 
+Support./NN the./DT team./NN in./IN designing./VBG and./CC developing./VBG high-performance./NN scalable./JJ web./NN ,./, mobile./JJ and./CC database./JJ solutions./NNS 
+Work./NN closely./RB with./IN systems./NNS analysts./NNS and./CC quality./NN assurance./NN specialists./NNS to./TO develop./VB alternative./JJ solutions./NNS to./TO meet./VB business./NN needs./NNS 
+Research./NN and./CC endorse./VB new./JJ technologies./NNS and./CC techniques./NNS to./TO the./DT team./NN 
+Investigate./NNP and./CC solve./VB production./NN problems./NNS with./IN guidance./NN 
+Other./JJ duties./NNS as./IN required./VBN ,./, including./VBG web./JJ enhancement./NN and./CC content./NN updates./NNS ../. 
+
+Qualifications./NNS :./: 
+Working./VBG toward./IN a./DT undergraduate./JJ co-op./JJ diploma./NN or./CC degree./NN in./IN Computer./NNP Science./NNP or./CC a./DT related./JJ field./NN 
+Knowledge./NNP and./CC experience./NN in./IN HTML./NNP ,./, DHTML./NNP ,./, CSS./NNP ,./, C./NNP #./# and./CC Javascript./NNP 
+Knowledge./NNP of./IN jQuery./NN ,./, Angular./NNP and./CC Knockout./NNP an./DT asset./NN 
+Understanding./NN of./IN functional./JJ and./CC object./JJ oriented./VBN programming./NN concepts./NNS 
+Knowledge./NNP of./IN Microsoft./NNP SQL./NNP Server./NNP and./CC Transact./NNP SQL./NNP 
+Experience./NN developing./VBG Mobile./NNP applications./NNS an./DT asset./NN (./( PhoneGap/Cordova./NNP )./) 
+
+At./IN Equitable./NNP Life./NNP ,./, we./PRP are./VBP committed./VBN to./TO providing./VBG equal./JJ access./NN to./TO employment./NN opportunities./NNS across./IN our./PRP$ organization./NN ../. Please./NNP contact./VB our./PRP$ HR./NNP team./NN at./IN resumes./NNS @./VBP equitable.ca./RB if./IN you./PRP require./VBP an./DT accommodation./NN with./IN the./DT application./NN process./NN ,./, including./VBG for./IN a./DT request./NN to./TO receive./VB our./PRP$ job./NN postings./NNS in./IN an./DT alternative./JJ format./NN ../. 

@@ -1,0 +1,37 @@
+WHY./WRB DO./VBP WE./NNP LOVE./NNP COMING./NNP TO./NNP WORK./NNP EVERY./NNP DAY./NNP ?./. 
+
+At./IN D+H./NNP ,./, our./PRP$ incredible./JJ team./NN of./IN employees./NNS ..../: 
+
+Embrace./NN change./NN 
+We./PRP 're./VBP flexible./JJ ,./, ready./JJ to./TO navigate./VB through./IN ambiguity./NN with./IN an./DT open./JJ mind./NN ,./, and./CC are./VBP energized./VBN by./IN our./PRP$ fast-paced./JJ environment./NN ../. 
+
+Are./NNP driven./VBN and./CC motivated./VBN 
+We./PRP love./VBP a./DT good./JJ challenge./NN and./CC are./VBP fueled./VBN by./IN the./DT opportunity./NN to./TO help./VB shape./VB our./PRP$ future./NN ../. 
+
+Think./NNP Innovatively./NNP 
+The./DT world./NN is./VBZ changing./VBG rapidly./RB and./CC we./PRP 're./VBP always./RB looking./VBG for./IN new./JJ ways./NNS to./TO help./VB our./PRP$ clients./NNS grow./VB ,./, compete./VB and./CC optimize./VB their./PRP$ business./NN ../. 
+
+Value./NNP Results./NNP and./CC Relationships./NNP 
+D+H./NNP is./VBZ a./DT trusted./JJ partner./NN to./TO some./DT of./IN the./DT world./NN 's./POS largest./JJS banks./NNS and./CC corporations./NNS and./CC our./PRP$ products./NNS are./VBP critical./JJ to./TO their./PRP$ business./NN ../. We./PRP believe./VBP in./IN collaboration./NN and./CC teamwork./NN to./TO achieve./VB the./DT best./JJS results./NNS ../. 
+
+Your./PRP$ success./NN story./NN starts./VBZ at./IN D+H./NNP ../. For./IN more./JJR information./NN ,./, visit./NN dh.com./NN 
+
+Job./NNP Summary./NNP 
+We./PRP are./VBP seeking./VBG candidates./NNS with./IN exceptional./JJ enthusiasm./NN and./CC potential./NN for./IN the./DT role./NN of./IN Co-op./NNP Developer./NNP for./IN our./PRP$ Payment./NNP Solutions./NNP team./NN where./WRB you./PRP will./MD work./VB with./IN our./PRP$ exceptional./JJ technical./JJ leaders./NNS using./VBG leading./VBG edge./NN technologies./NNS to./TO actively./RB contribute./VB to./TO the./DT Software./NNP Development./NNP Lifecycle./NNP and./CC Agile./NNP Methodology./NNP ../. In./IN this./DT position./NN ,./, you./PRP will./MD contribute./VB to./TO development./NN and./CC maintenance./NN of./IN features./NNS for./IN the./DT Payment./NNP product./NN and./CC evolving./VBG them./PRP to./TO meet./VB future./JJ customer./NN and./CC strategic./JJ product./NN objectives./NNS in./IN the./DT financial./JJ services./NNS and./CC lending./VBG industries./NNS ../. You./PRP will./MD interface./VB with./IN other./JJ Developers./NNPS ,./, Development./NNP Managers./NNPS ,./, Product./NN Managers./NNP ,./, Business./NNP Analysts./NNS ,./, and./CC Architects./NNS to./TO ensure./VB the./DT quality./NN and./CC usability./NN of./IN Payment./NNP ../. This./DT role./NN requires./VBZ a./DT candidate./NN eager./NN to./TO develop./VB strong./JJ technical./JJ skills./NNS and./CC a./DT natural./JJ ability./NN to./TO learn./VB quickly./RB ../. 
+
+Responsibilities./NNS :./: 
+
+-./: Contribute./NN to./TO the./DT design./NN ,./, development./NN and./CC maintenance./NN of./IN key./JJ features./NNS in./IN the./DT Payment./NNP product./NN ../. 
+-./: Deliver./NN well-documented./JJ ,./, high./JJ quality./NN and./CC robust./JJ technical./JJ design./NN and./CC code./NN ../. 
+-./: Participate./NN in./IN design./NN and./CC code./NN reviews./NNS to./TO ensure./VB adherence./NN to./TO coding./NN standards./NNS and./CC business./NN requirements./NNS 
+-./: Assist./NN in./IN delivery./NN of./IN project./NN tasks./NNS and./CC assignments./NNS according./VBG to./TO specifications./NNS ../. 
+-./: Provide./NN effective./JJ and./CC timely./JJ communication./NN with./IN management./NN and./CC the./DT development./NN team./NN ../. 
+
+Preferred./NNP skills./NNS and./CC knowledge./NN :./: 
+
+-./: Familiar./NN with./IN large./JJ scale./NN ,./, multi-tier./JJ enterprise./NN web./NN applications./NNS using./VBG C./NNP #./# ,./, ASP.NET./NNP ,./, SQL./NNP Server./NNP and./CC Visual./NNP Studio./NNP 2010/2012./CD is./VBZ considered./VBN an./DT asset./NN 
+-./: Knowledge./NN and/or./JJ experience./NN with./IN any./DT of./IN the./DT following./NN is./VBZ considered./VBN an./DT asset./NN :./: web./NN services./NNS ,./, HTML/HTML5./NNP ,./, JavaScript./NNP ,./, JQuery./NNP ,./, CSS./NNP ,./, XML./NNP ,./, WCF./NNP ,./, XSLT./NNP ,./, T-SQL./NNP 
+-./: Self-motivated./JJ individual./NN who./WP takes./VBZ pride./NN in./IN delivering./VBG high./JJ quality./NN work./NN 
+-./: Desire./NN to./TO work./VB in./IN a./DT fast./NN paced./VBN ,./, results./NNS oriented./VBD environment./NN 
+-./: Strong./JJ interpersonal./JJ skills./NNS and./CC the./DT ability./NN to./TO work./VB within./IN a./DT team./NN environment./NN 
+-./: Previous./JJ experience./NN in./IN the./DT industry./NN as./IN a./DT Co-op/Intern./JJ Software./NNP Developer./NNP is./VBZ an./DT asset./NN 

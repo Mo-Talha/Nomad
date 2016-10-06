@@ -1,0 +1,30 @@
+Autodesk./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Oct../NNP 20./CD ,./, 2016./CD from./IN 11:30./CD AM./NNP -./: 1:30./CD PM./NNP at./IN Davis./NNP Centre./NNP 1301./CD ../. Please./VB plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+_________________________________________________./NN 
+
+Take./VB this./DT opportunity./NN to./TO be./VB part./NN of./IN the./DT team./NN that./IN develops./VBZ world./NN renowned./VBD and./CC award./RB winning./VBG interactive./JJ applications./NNS for./IN sketching./VBG ,./, 3D./CD modeling./NN and./CC rendering./VBG with./IN additional./JJ emphasis./NN on./IN the./DT rapidly./RB growing./VBG field./NN of./IN 3D./CD Printing./NNP ../. Work./NN with./IN cutting./VBG edge./NN technologies./NNS and./CC hardware./VB both./DT for./IN the./DT desktop./NN and./CC mobile./JJ environments./NNS ../. 
+
+You./PRP will./MD join./VB a./DT team./NN that./WDT is./VBZ responsible./JJ for./IN delivering./VBG software./NN that./WDT enables./VBZ customers./NNS to./TO create./VB high./JJ quality./NN interactive./VBP 2D./CD imagery./NN and./CC 3D./CD content./NN for./IN 3D./CD printing./NN ../. This./DT is./VBZ an./DT opportunity./NN for./IN you./PRP to./TO contribute./VB to./TO exciting./VBG and./CC new./JJ digital./JJ content./JJ creation./NN web-based./JJ applications./NNS as./RB well./RB as./IN participate./NN in./IN groundbreaking./VBG efforts./NNS to./TO bring./VB state-of-the-art./JJ technological./JJ innovations./NNS in./IN 3D./CD Printing./VBG to./TO users./NNS in./IN all./DT parts./NNS of./IN the./DT world./NN ../. 
+
+Responsibilities./NNS will./MD include./VB :./: 
+-./: Help./NN build./VB microservices./NNS for./IN Spark./NNP using./VBG Go./NNP 
+-./: Help./NN develop./VB and./CC maintain./VB high./JJ quality./NN code./NN by./IN providing./VBG unit./NN and./CC integration./NN tests./NNS 
+-./: Help./NN develop./VB and./CC maintain./VB the./DT cloud./NN infrastructure./NN 
+-./: Work./NN with./IN team./NN investigating./VBG new./JJ opportunities./NNS for./IN internal./JJ and./CC external./JJ customers./NNS 
+-./: Evaluate./NN current./JJ software./NN architecture./NN and./CC implement./JJ enhancements./NNS as./IN required./VBN 
+-./: Work./NN as./IN part./NN of./IN a./DT team./NN of./IN software./NN developers./NNS ,./, expert./NN users./NNS ,./, QA./NNP specialists./NNS 
+
+Desired./VBN Experience./NN :./: 
+-./: Students./NNS in./IN any./DT year./NN currently./RB enrolled./VBN in./IN CS/MATH/EE./NNP programs./NNS 
+-./: Object./NN oriented./VBN design./NN and./CC Go./NNP ,./, Python./NNP ,./, and./CC JavaScript./NNP coding./VBG skills./NNS 
+-./: Experience./NN developing./VBG large./JJ web./NNS based./VBN applications./NNS 
+-./: Knowledge./NN of./IN concurrency./NN 
+-./: Experience./NN with./IN GRPC./NNP and./CC Protobuf./NNP is./VBZ an./DT asset./NN 
+-./: Experience./NN with./IN REST./NNP API./NNP development./NN 
+-./: Experience./NN with./IN Git./NNP is./VBZ an./DT asset./NN 
+-./: Self-Motivated./JJ 
+
+Download./NNP FREE./NNP (./( full-feature./NN )./) versions./NNS of./IN these./DT products./NNS for./IN students./NNS at./IN http./NN :./: //students.autodesk.com/./NN 
+
+Autodesk./NNP ,./, Inc../NNP ,./, is./VBZ a./DT leader./NN in./IN 3D./CD design./NN ,./, engineering./NN and./CC entertainment./NN software./NN ../. Customers./NNS across./IN the./DT manufacturing./NN ,./, architecture./NN ,./, building./NN ,./, construction./NN ,./, and./CC media./NNS and./CC entertainment./NN industries./NNS -./: including./VBG the./DT last./JJ 17./CD Academy./NNP Award./NNP winners./NNS for./IN Best./NNP Visual./NNP Effects./NNP -./: use./NN Autodesk./NNP software./NN to./TO design./VB ,./, visualize./VB ,./, and./CC simulate./VB their./PRP$ ideas./NNS before./IN they./PRP 're./VBP ever./RB built./VBN or./CC created./VBN ../. From./IN blockbuster./JJ visual./JJ effects./NNS and./CC buildings./NNS that./WDT create./VBP their./PRP$ own./JJ energy./NN to./TO electric./JJ cars./NNS and./CC the./DT batteries./NNS that./WDT power./NN them./PRP ,./, the./DT work./NN of./IN our./PRP$ 3D./CD software./NN customers./NNS is./VBZ everywhere./RB you./PRP look./VBP ../. 
+
+There./EX are./VBP a./DT number./NN of./IN activities./NNS that./IN you./PRP can./MD join./VB such./JJ as./IN weekly./JJ winter./NN hockey./NN team./NN (./( shinny./NN )./) ,./, as./RB well./RB as./IN avid./JJ cyclists./NNS ,./, in-line./JJ skaters./NNS ,./, runners./NNS ,./, artists./NNS and./CC musicians./NNS ../. It./PRP 's./VBZ basically./RB a./DT really./RB cool./JJ place./NN to./TO work./VB ../. The./DT office./NN is./VBZ located./VBN downtown./NN and./CC is./VBZ easily./RB reached./VBN by./IN TTC./NNP and./CC Go./NNP train./RB ../. It./PRP also./RB has./VBZ a./DT secure./NN bike./NN room./NN ../. 

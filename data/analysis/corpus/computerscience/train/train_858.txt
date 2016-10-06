@@ -1,0 +1,23 @@
+With./IN $./$ 171.4./CD billion./CD in./IN assets./NNS as./IN of./IN December./NNP 31./CD ,./, 2015./CD ,./, the./DT Ontario./NNP Teachers./NNP './POS Pension./NNP Plan./NNP is./VBZ the./DT largest./JJS single-profession./JJ pension./NN plan./NN in./IN Canada./NNP ../. An./DT independent./JJ organization./NN ,./, it./PRP invests./VBZ the./DT pension./NN fund./NN 's./POS assets./NNS and./CC administers./NNS the./DT pensions./NNS of./IN 316,000./CD active./JJ and./CC retired./JJ teachers./NNS in./IN Ontario./NNP ../. 
+
+The./DT IT./NNP team./NN at./IN Ontario./NNP Teachers./NNP './POS builds./NNS and./CC manages./VBZ the./DT innovative./JJ systems./NNS that./WDT support./VBP the./DT progressive./JJ needs./NNS of./IN Teachers./NNP './POS investment./NN and./CC benefit./NN professionals./NNS and./CC the./DT needs./NNS of./IN its./PRP$ members./NNS ../. 
+
+Ontario./NNP Teachers./NNP './POS is./VBZ one./CD of./IN the./DT 15./CD largest./JJS pension./NN funds./NNS in./IN the./DT world./NN ,./, actively./RB managing./VBG investments./NNS in./IN more./JJR than./IN 1,100./CD companies./NNS ../. 
+
+We./PRP are./VBP looking./VBG for./IN co-op./JJ students./NNS with./IN business./NN acumen./NNS ,./, rigorous./JJ technical./JJ skill./NN and./CC flashes./NNS of./IN creative./JJ genius./NN ../. 
+
+Programmer./NNP Analyst./NNP (./( Investment./NNP Architecture./NNP )./) -./: Investment./NN IT./NN 
+
+Learn./VB about./IN Enterprise./NNP Architecture./NNP ,./, explore./RB Service./NNP Oriented./NNP Architecture./NNP (./( SOA./NNP )./) ,./, Data./NNP Warehousing./NNP ,./, Event-driven./NNP Architecture./NNP ,./, understand./VBP various./JJ data./NNS models./NNS including./VBG relational./JJ ,./, document-centric./JJ ,./, graph./NN ,./, and./CC dimensional./JJ models./NNS ../. Learn./NNP information./NN ,./, system./NN and./CC process./NN modeling./NN ,./, semantic./JJ technologies./NNS ../. 
+
+Create./NNP system./NN prototypes./NNS and./CC applications./NNS using./VBG Oracle./NNP database./NN ,./, C./NNP #./# ,./, JSON./NNP ,./, JavaScript./NNP ,./, XML./NNP ,./, RDF./NNP ../. Be./NNP part./NN of./IN an./DT innovative./JJ team./NN ,./, make./VBP a./DT difference./NN !./. 
+
+Qualifications./NNS :./: 
+
+-./: Working./NN towards./NNS Degree./NNP in./IN Mathematics./NNP ,./, Computer./NNP Science./NNP ,./, or./CC Engineering./NNP ../. 
+-./: Professional./NN software./NN development./NN experience./NN from./IN co-op./JJ work./NN terms./NNS or./CC summer./NN employment./NN ../. 
+-./: Excellent./NN communication./NN and./CC interpersonal./JJ skills./NNS ../. 
+-./: Strong./JJ analytical./JJ skills./NNS ../. 
+
+
+This./DT job./NN offer./NN is./VBZ contingent./JJ upon./IN successful./JJ completion./NN of./IN criminal./JJ and./CC credit./NN check./NN ../. 

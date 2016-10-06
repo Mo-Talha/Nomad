@@ -1,0 +1,34 @@
+Responsible./JJ for./IN ensuring./VBG client./NN solution./NN implementations./NNS meet./VBP the./DT established./VBN standards./NNS of./IN quality./NN including./VBG software./NN functionality./NN ,./, system./NN reliability./NN ,./, usability./NN and./CC architecture./NN performance./NN ../. 
+
+Responsibilities./NNS 
+plan./NN ,./, conduct./NN and./CC monitor./NN tests./NNS of./IN client./NN solutions./NNS to./TO ensure./VB product./NN quality./NN 
+document./NN internal./JJ audits./NN and./CC other./JJ quality./NN assurance./NN activities./NNS 
+investigate./JJ client./NN complaints./NNS and./CC non-conformance./NN issues./NNS 
+collect./NN and./CC compile./JJ statistical./JJ quality./NN data./NNS 
+analyze./RB data./NNS to./TO identify./VB areas./NNS for./IN improvement./NN in./IN the./DT quality./NN system./NN 
+develop./VB ,./, recommend./VB and./CC monitor./VB corrective./JJ and./CC preventive./JJ actions./NNS 
+coordinate./NN and./CC support./VB on-site./JJ audits./NNS conducted./VBN by./IN external./JJ providers./NNS 
+evaluate./VB audit./NN findings./NNS and./CC implement./JJ appropriate./JJ corrective./JJ actions./NNS 
+monitor./NN risk./NN management./NN activities./NNS 
+create./VB both./DT manual./JJ and./CC automated./JJ tests./NNS 
+execute./NN tests./NNS for./IN software./NN and./CC systems./NNS both./DT manual./JJ and./CC automated./VBD 
+prepare./NN reports./NNS to./TO communicate./VB outcomes./NNS of./IN quality./NN activities./NNS 
+
+Required./VBN Skills./NNS 
+Education./NN and./CC Experience./NN 
+Enrolled./VBN in./IN an./DT undergraduate./JJ program./NN in./IN computer./NN science./NN ,./, software./NN engineering./NN or./CC similar./JJ ../. 
+knowledge./NN of./IN tools./NNS ,./, concepts./NNS and./CC methodologies./NNS of./IN the./DT software./NN development./NN lifecycle./NN 
+ability./NN to./TO program./NN in./IN JavaScript./NNP and./CC exposure./NN to./TO AngularJS./VB 
+
+Key./NNP Competencies./NNS 
+attention./NN to./TO detail./VB 
+communication./NN skills./NNS -./: verbal./NN and./CC written./VBN 
+data./NNS collection./NN ,./, management./NN and./CC analysis./NN 
+problem./NN analysis./NN and./CC problem./NN solving./NN 
+planning./NN and./CC organizing./VBG 
+judgment./NN 
+customer./NN service./NN orientation./NN 
+teamwork./NN 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+Salary./JJ range./NN for./IN this./DT position./NN is./VBZ $./$ 15-22./JJ per./IN hour./NN depending./VBG on./IN skills./NNS and./CC experience./NN 

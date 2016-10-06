@@ -1,0 +1,30 @@
+About./IN Nest./NNP Wealth./NNP (./( www.nestwealth.com./NN )./) :./: 
+
+Nest./NNP Wealth./NNP is./VBZ the./DT first./JJ online./NN automated./VBN wealth./NN management./NN platform./NN in./IN Canada./NNP ../. Nest./NNP Wealth./NNP gives./VBZ Canadians./NNPS a./DT smarter./NN ,./, quicker./JJR way./NN to./TO reach./VB their./PRP$ financial./JJ goals./NNS ../. Using./VBG leading./VBG edge./NN technology./NN and./CC industry./NN tested./VBD investment./NN rules./NNS ,./, Nest./NNP Wealth./NNP creates./VBZ a./DT low./JJ cost./NN ,./, customized./VBN global./JJ portfolio./NN built./VBN specifically./RB for./IN the./DT individual./JJ client./NN ../. 
+
+If./IN you./PRP are./VBP interested./JJ in./IN the./DT fast./NN paced./VBD and./CC fast./RB growing./VBG ``./`` FinTech./NNP ''./'' scene./NN in./IN Canada./NNP ,./, if./IN you./PRP are./VBP looking./VBG to./TO make./VB a./DT difference./NN and./CC have./VBP a./DT co-op./JJ term./NN where./WRB you./PRP will./MD get./VB lots./NNS of./IN hands./NNS on./IN experience./NN ,./, grow./NN and./CC contribute./NN in./IN ways./NNS that./IN you./PRP just./RB ca./MD n't./RB get./VB in./IN a./DT larger./JJR organization./NN -./: we./PRP may./MD be./VB just./RB what./WP you./PRP are./VBP looking./VBG for./IN ../. 
+
+Description./NN 
+You./PRP 're./VBP an./DT up-and-coming./JJ javascript./NN developer./NN who./WP thrives./VBZ in./IN a./DT competitive./JJ environment./NN and./CC can./MD pick./VB up./RP things./NNS on./IN the./DT fly./NN ../. 
+
+You./PRP want./VBP to./TO work./VB with./IN Product./NNP and./CC Software./NNP teams./NNS to./TO define./VB and./CC implement./VB revolutionary./JJ financial./JJ products./NNS that./WDT will./MD be./VB used./VBN by./IN people./NNS all./DT over./IN the./DT country./NN ../. 
+
+You./PRP want./VBP to./TO be./VB a./DT part./NN of./IN a./DT company./NN the./DT Globe./NNP &./CC Mail./NNP has./VBZ called./VBN one./CD of./IN the./DT best./JJS fintech./NN companies./NNS in./IN the./DT country./NN and./CC CB./NNP Insights./NNP named./VBD one./CD of./IN the./DT top./JJ 100./CD fintech./JJ companies./NNS changing./VBG the./DT world./NN ../. 
+
+You./PRP have./VBP a./DT huge./JJ desire./NN to./TO learn./VB and./CC you./PRP believe./VBP that./IN every./DT problem./NN has./VBZ a./DT solution./NN ../. 
+
+Role./NNP Breakdown./NNP 
+
+Your./PRP$ day-to-day./NN will./MD involve./VB 90./CD %./NN javascript./NN ,./, 10./CD %./NN other./JJ tasks./NNS ../. 
+
+Our./PRP$ core./NN applications./NNS are./VBP built./VBN on./IN node./NN and./CC fronted./VBN by./IN angular./JJ ,./, with./IN marketing./NN materials./NNS being./VBG javascript/jQuery./NN ../. 
+
+You./PRP 're./VBP Great./JJ With./IN :./: -./: javascript./NN and/or./JJ node./NN development./NN ,./, web-servers./NNS ,./, app-servers./NNS 
+
+You./PRP 're./VBP Good./JJ With./IN :./: -./: Angular.js./NN ,./, Angular.js./NNP 2.0./CD and./CC databases./NNS 
+
+(./( Please./NNP note./VBP -./: we./PRP do./VBP not./RB use./VB bootstrap./SYM -./: wordpress./NN -./: php./NN )./) 
+
+You./PRP Want./VBP to./TO Wake./VB Up./RP Each./DT Day./NN :./: -./: And./CC Work./VB with./IN a./DT great./JJ team./NN at./IN a./DT great./JJ company-./NN Have./NNP fun./NN while./IN changing./VBG the./DT world./NN ../. 
+
+If./IN this./DT sounds./VBZ like./IN you./PRP ,./, then./RB we./PRP want./VBP to./TO meet./VB you./PRP ../. 

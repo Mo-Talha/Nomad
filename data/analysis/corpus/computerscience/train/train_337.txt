@@ -1,0 +1,24 @@
+Company./NN Description./NN :./: 
+
+Sensors./NNP &./CC Software./NNP Inc../NNP designs./VBZ ,./, manufactures./NNS and./CC sells./VBZ ground./NN penetrating./VBG radar./NN (./( GPR./NNP )./) instruments./NNS and./CC associated./VBN software./NN ../. GPR./NNP technology./NN images./VBZ the./DT subsurface./NN and./CC is./VBZ used./VBN for./IN applications./NNS ranging./VBG from./IN mapping./VBG geology./NN to./TO archaeology./VB ,./, to./TO non-destructive./JJ testing./NN of./IN roads./NNS and./CC building./NN structures./NNS ../. The./DT company./NN sells./VBZ internationally./RB and./CC has./VBZ a./DT global./JJ network./NN of./IN sales./NNS representatives./NNS ../. A./DT co-op./JJ student./NN for./IN applications./NNS testing./VBG is./VBZ sought./VBN to./TO augment./VB the./DT R./NNP &./CC D./NNP group./NN to./TO provide./VB support./NN in./IN testing./VBG ,./, research./NN and./CC development./NN on./IN current./JJ and./CC future./JJ GPR./NNP products./NNS ../. 
+
+Job./NNP Type./NNP :./: R./NNP &./CC D./NNP Applications./NNP Testing./NNP 
+
+Job./NNP Title./NNP :./: Co-op./JJ Student./NN Assistant./NN 
+R./NNP &./CC D./NNP Applications./NNP /./NNP SystemsTesting./VBG 
+
+Position./NN Description./NN :./: 
+
+-./: GPR./NN application./NN testing./VBG and./CC development./NN 
+-./: Perform./NN field./NN and./CC lab./JJ testing./NN of./IN GPR./NNP systems./NNS 
+-./: Tabulate./NN ,./, analyze./NN and./CC prepare./VB reports./NNS on./IN tests./NNS 
+-./: Work./NN closely./RB with./IN staff./NN in./IN a./DT team./NN environment./NN 
+
+Required./VBN Qualifications./NNS :./: 
+
+-./: Strong./NN computer./NN skills./NNS required./VBN for./IN use./NN of./IN application./NN software./NN ,./, report./NN preparation./NN and./CC data./NN analysis./NN ../. 
+-./: Training./NN in./IN a./DT physics./NNS or./CC engineering./NN discipline./NN 
+-./: Self./NN motivated./VBD 
+-./: Demonstrated./VBD ability./NN to./TO work./VB in./IN a./DT team./NN oriented./VBN environment./NN 
+-./: Organized./VBN and./CC systematic./JJ with./IN good./JJ attention./NN to./TO detail./VB 
+-./: Strong./NN communication./NN skills./NNS (./( written./VBN &./CC oral./JJ )./) 

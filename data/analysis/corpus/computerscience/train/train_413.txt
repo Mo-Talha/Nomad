@@ -1,0 +1,19 @@
+Who./IN we./PRP are./VBP looking./VBG for./IN :./: 
+As./IN a./DT member./NN of./IN the./DT Axonify./NNP development./NN team./NN you./PRP will./MD collaborate./VB with./IN the./DT team./NN to./TO create./VB new./JJ features./NNS and./CC products./NNS that./IN our./PRP$ customers./NNS will./MD love./VB ../. 
+
+Responsibilities./NNS 
+-./: Each./DT developer./NN is./VBZ responsible./JJ for./IN innovation./NN ,./, design./NN ,./, development./NN and./CC testing./NN 
+-./: You./PRP will./MD work./VB on./IN developing./VBG and./CC enhancing./VBG the./DT codebase./NN for./IN Axonify./NNP 's./POS Java./NNP stack./NN 
+-./: Solve./NN difficult./JJ problems./NNS inherent./JJ with./IN a./DT cloud./NN based./VBN ,./, multi-tenant./JJ architecture./NN 
+-./: Participate./NN in./IN code./NN and./CC design./NN reviews./NNS 
+
+Education/Experience./NN 
+-./: Working./NN towards./IN a./DT Degree./NNP in./IN Computer./NNP Science./NNP ,./, Engineering./NNP ,./, or./CC similar./JJ field./NN 
+-./: Competencies./NNS in./IN data./NN structures./NNS ,./, algorithms./NN ,./, and./CC OO./NNP design./NN 
+-./: Knowledge./NN of./IN relational./JJ databases./NNS and./CC SQL./NNP 
+-./: Development./NNP experience./NN with./IN Java./NNP 
+
+Personal./JJ Profile./NN 
+-./: Desire./NN to./TO work./VB in./IN a./DT fast-paced./JJ ,./, evolving./VBG ,./, dynamic./JJ environment./NN 
+-./: Detail./NN oriented./VBN ,./, highly./RB enthusiastic./JJ team./NN player./NN ,./, with./IN a./DT positive./JJ attitude./NN 
+-./: Personal./JJ drive./NN for./IN the./DT highest./JJS quality./NN 

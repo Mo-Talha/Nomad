@@ -1,0 +1,33 @@
+Title./NN :./: Software./NNP Developer./NNP Intern./NNP ,./, Maya./NNP 
+Project./NN :./: Core./NNP Procedural./NNP Technology./NNP Team./NNP 
+Location./NN :./: Montreal./NNP -./: 10./CD rue./NN Duke./NNP 
+
+About./IN Autodesk./NNP 
+Autodesk./NNP is./VBZ a./DT world./NN leader./NN in./IN 3D./CD design./NN ,./, engineering./NN and./CC entertainment./NN software./NN and./CC services./NNS ../. Our./PRP$ software./NN is./VBZ used./VBN by./IN creators./NNS ,./, designers./NNS ,./, architects./NNS ,./, engineers./NNS ,./, video./JJ game./NN developers./NNS and./CC film./NN makers./NNS around./IN the./DT world./NN ../. The./DT Montreal./NNP and./CC Toronto./NNP Autodesk./NNP office./NN locations./NNS focus./VBP primarily./RB on./IN developing./VBG design./NN software./NN for./IN the./DT Media./NNP &./CC Entertainment./NNP industry./NN (./( video./JJ games./NNS ,./, TV./NN and./CC film./NN )./) ../. 
+
+This./DT is./VBZ an./DT incredible./JJ opportunity./NN to./TO work./VB on./IN the./DT software./NN that./WDT forms./VBZ the./DT backbone./NN of./IN Hollywood./NNP 's./POS special-effects./NNS pipelines./NNS and./CC the./DT video./NN games./NNS industry./NN !./. 
+
+The./DT intern./NN will./MD join./VB our./PRP$ Maya./NNP team./NN and./CC will./MD assist./VB in./IN the./DT development./NN of./IN our./PRP$ procedural./JJ core./NN technology./NN ,./, helping./VBG to./TO build./VB procedural./JJ building./NN blocks./NNS to./TO facilitate./VB generating./NN and./CC modifying./VBG geometry./NN ,./, and./CC the./DT workflows./NNS for./IN interacting./VBG with./IN a./DT visual./JJ programming./NN language./NN ../. A./DT particularly./RB nerdy./JJ candidate./NN might./MD even./RB get./VB to./TO work./VB on./IN implementing./VBG an./DT OpenCL./NNP back-end./NN for./IN our./PRP$ procedural./JJ system./NN ../. 
+
+Responsibilities./NNS 
+-./: Work./NN with./IN the./DT development./NN team./NN to./TO design./VB and./CC implement./VB a./DT solution./NN that./WDT meets./VBZ customer./NN requirements./NNS 
+-./: Participate./NN in./IN iterative./JJ design./NN ,./, testing./VBG and./CC development./NN sprints./NNS to./TO refine./VB the./DT overall./JJ product./NN solution./NN using./VBG the./DT agile./NN development./NN process./NN 
+
+Qualifications./NNS 
+-./: Strong./NN knowledge./NN of./IN C++./NNP 
+-./: Strong./JJ multi-threaded./JJ programming./NN abilities./NNS 
+-./: Good./JJ communication./NN skills./NNS and./CC ability./NN to./TO work./VB effectively./RB as./IN part./NN of./IN a./DT team./NN 
+-./: Working./VBG knowledge./NN of./IN English./NNP 
+
+Preferred./JJ Qualifications./NNS 
+-./: Ability./NN to./TO quickly./RB research./NN and./CC understand./VB large./JJ systems./NNS 
+-./: Strong./NN compiler./NN theory./NN knowledge./NN (./( llvm./JJ knowledge./NN even./RB better./RBR !./. )./) 
+-./: Interest./NN in./IN how./WRB 3D./CD film./NN scenes./NNS are./VBP built./VBN ,./, is./VBZ an./DT asset./NN 
+
+You./PRP can./MD also./RB download./VB our./PRP$ software./NN for./IN free./JJ by./IN visiting./VBG :./: http./NN :./: //www.autodesk.com/education/free-software/all./JJ 
+
+We./PRP 'd./MD like./VB to./TO thank./VB all./DT applicants./NNS for./IN their./PRP$ interest./NN ../. Only./RB selected./JJ students./NNS will./MD be./VB contacted./VBN for./IN an./DT interview./NN ../. 
+
+Visit./VB us./PRP at./IN :./: www.autodesk.com./NN 
+
+Autodesk./NNP 's./POS Media./NNP and./CC Entertainment./NNP solutions./NNS are./VBP used./VBN around./IN the./DT world./NN to./TO create./VB breathtaking./JJ entertainment./NN from./IN movies./NNS like./IN Avatar./NNP ,./, television./NN series./NN such./JJ as./IN Lost./NNP and./CC Dexter./NNP to./TO games./NNS like./IN Assassin./NNP 's./POS Creed./NNP and./CC Call./NNP of./IN Duty./NNP ../. Autodesk./NNP has./VBZ recently./RB been./VBN named./VBN one./CD of./IN Canada./NNP 's./POS Best./NNP Places./NNPS to./TO Work./VB ../. Filled./VBN with./IN creative./JJ people./NNS ,./, our./PRP$ work./NN environment./NN breeds./NNS success./NN :./: the./DT last./JJ 18./CD Oscar./NNP winners./NNS for./IN Best./NNP visual./JJ Effects./NNS have./VBP all./DT used./VBN Autodesk./NNP software./NN ../. http./NN :./: //usa.autodesk.com/media-entertainment/./NN ../. 

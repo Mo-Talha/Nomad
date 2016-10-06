@@ -1,0 +1,40 @@
+8./CD month./NN work-term./JJ preferred./JJ ../. Students./NNS are./VBP responsible./JJ for./IN ensuring./VBG they./PRP are./VBP eligible./JJ for./IN an./DT 8-month./JJ work./NN term./NN before./IN applying./VBG ../. Please./NNP discuss./VB your./PRP$ work/study./NN sequence./NN flexibility./NN with./IN your./PRP$ academic./JJ advisor./NN as./RB soon./RB as./IN possible./JJ ../. Please./VB indicate./VB your./PRP$ availability./NN for./IN 4./CD or./CC 8./CD months./NNS in./IN your./PRP$ resume./NN ../. 
+
+To./TO participate./VB in./IN the./DT coordination./NN and./CC implementation./NN of./IN a./DT variety./NN of./IN Quality./NNP Assurance./NNP function./NN related./VBD services./NNS ,./, including./VBG test./NN automation./NN development./NN and./CC maintenance./NN ../. 
+
+Duties./NNS and./CC Responsibility./NN :./: 
+-./: Work./NN with./IN Test./NNP Engineers./NNPS to./TO develop./VB and./CC maintain./VB n-tier./JJ .NET./JJ 4.0./CD /./JJ 4.5./CD applications./NNS tests./NNS using./VBG HP./NNP UFT./NNP ../. 
+-./: Work./NN with./IN Test./NNP Engineers./NNPS to./TO develop./VB automated./JJ tests./NNS for./IN reports./NNS and./CC extracts./NNS using./VBG SQL./NNP ,./, and./CC VB./NNP ../. 
+-./: Develop./NN and./CC Maintain./NNP Automated./NNP C./NNP #./# /C++./NNP or./CC Java./NNP Tests./NNPS in./IN HP./NNP LoadRunner./NNP ../. 
+-./: Troubleshoot./NN ,./, debug./NN and./CC fix./JJ automation./NN and./CC data./NNS related./VBN issues./NNS 
+-./: Utilize./NN automated./VBD testing./VBG tools./NNS such./JJ as./IN HP./NNP Quality./NNP Center./NNP ,./, HP./NNP UFT./NNP ,./, HP./NNP LoadRunner./NNP ,./, Hi./NNP Compliance./NNP Sheriff./NNP Accessibility./NNP testing./VBG tool./NN ../. 
+-./: Test./NN case/script./NN execution./NN 
+-./: Defect./NN management./NN and./CC communications./NNS to./TO QA./VB Test./NNP Lead./NN 
+-./: Data./NNS entry./NN of./IN historical./JJ data./NNS for./IN testing./VBG and./CC data./NNS migration./NN purposes./NNS 
+-./: Data./NNS entry./NN for./IN systems./NNS support./NN 
+-./: Analysis./NN of./IN test./NN and./CC production./NN data./NNS 
+-./: Development./NNP and./CC documentation./NN of./IN QA./NNP artifacts./NNS 
+-./: Work./NN within./IN a./DT project./NN team./NN environment./NN under./IN the./DT leadership./NN of./IN the./DT QA./NNP Test./NNP Lead./NNP and./CC Project./NNP Manager./NNP 
+
+This./DT position./NN requires./VBZ :./: 
+-./: Knowledge./NN of./IN Oracle./NNP RDBMS./NNP and./CC SQL./NNP 
+-./: Knowledge./NN of./IN VB./NNP ,./, C./NNP #./# ,./, C++./NNP ,./, or./CC Java./NNP ../. 
+-./: Knowledge./NN of./IN automated./JJ test./NN tools./NNS and./CC test./NN management./NN tools./NNS 
+-./: Knowledge./NN and./CC the./DT ability./NN to./TO perform./VB Quality./NNP Assurance./NNP analysis./NN of./IN applications./NNS ../. 
+-./: An./DT understanding./NN of./IN the./DT QA./NNP activities./NNS to./TO be./VB undertaken./JJ and./CC QA./NNP deliverables./NNS to./TO be./VB produced./VBN in./IN developing./VBG software./NN solutions./NNS ,./, IT./NNP Applications./NNP ../. 
+-./: Experience./NN with./IN Structured./NNP Query./NNP Language./NNP (./( SQL./NNP )./) 
+-./: Knowledge./NN of./IN SDLC./NNP ,./, QA./NNP Methodologies./NNP ,./, QA./NNP processes./VBZ ,./, STLC./NNP ,./, and./CC QA./NNP Testing./NNP ../. 
+-./: Knowledge./NN of./IN MS./NNP Office./NNP Suite./NNP ../. 
+-./: Knowledge./NN of./IN 3-tier./JJ architecture./NN ../. -./: asset./NN 
+-./: Knowledge./NN of./IN TFS./NNP ,./, MVC./NNP ,./, Sharepoint./NNP ,./, Cognos./NNP ,./, Oracle./NNP ,./, .NET./NNP ,./, VBS./NNP is./VBZ an./DT asset./NN ../. 
+-./: Knowledge./NN of./IN workflow./JJ applications./NNS is./VBZ an./DT asset./NN ../. 
+
+
+Skills./NNS 
+
+It./PRP is./VBZ nice./JJ to./TO have./VB the./DT following./JJ skills./NNS :./: 
+-./: Demonstrate./NN problem./NN solving./VBG skills./NNS to./TO identify./VB issues./NNS ,./, problems./NNS or./CC opportunities./NNS 
+-./: Effective./NN writing./NN and./CC presentation./NN skills./NNS in./IN order./NN to./TO convey./VB information./NN in./IN a./DT clear./JJ ,./, concise./NN and./CC accurate./JJ manner./NN ../. 
+-./: Project./NN management./NN skills./NNS to./TO prioritize./VB work./NN ,./, apply./VB time./NN management./NN and./CC organizational./JJ skills./NNS to./TO achieve./VB goals./NNS and./CC manage./NN competing./VBG deadlines./NNS at./IN 
+-./: both./DT a./DT team./NN and./CC individual./JJ level./NN 
+-./: Ability./NN to./TO work./VB cooperatively./RB and./CC collaboratively./RB ,./, to./TO achieve./VB unit./NN and./CC organizational./JJ goals./NNS 

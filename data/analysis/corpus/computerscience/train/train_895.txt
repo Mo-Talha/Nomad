@@ -1,0 +1,49 @@
+Summary./JJ 
+The./DT web./NN developer./NN position./NN will./MD monitor./VB the./DT stability./NN of./IN the./DT corporate./JJ websites./NNS and./CC be./VB responsible./JJ for./IN importing/exporting./VBG data./NNS from./IN multiple./JJ systems./NNS ../. They./PRP will./MD also./RB assist./VB in./IN the./DT development./NN ,./, testing./VBG ,./, deployment./NN ,./, and./CC documentation./NN of./IN new./JJ applications./NNS for./IN Sleep./NNP Country./NNP Canada./NNP and./CC Dormez-Vous./NNP ,./, while./IN maintaining./VBG existing./VBG applications./NNS ../. 
+The./DT applications./NNS range./VBP from./IN internal./JJ and./CC external./JJ websites./NNS to./TO custom./VB applications./NNS and./CC database./NN systems./NNS ../. They./PRP will./MD participate./VB in./IN project./JJ meetings./NNS and./CC effectively./RB communicate./VB project./NN status./NN and./CC challenges./NNS ../. 
+
+Responsibilities./NNS 
+Individual./JJ Responsibilities./NNS 
+o./RB Develop./NNP initiatives./NNS to./TO improve./VB organizational./JJ knowledge./NN bases./NNS and./CC help./NN others./NNS to./TO successfully./RB realize./VB information./NN system./NN related./VBN application./NN requests./NNS 
+o./JJ Support./NNP the./DT development./NN team./NN ,./, its./PRP$ objectives./NNS and./CC performance./NN 
+o./JJ Support./NNP the./DT development./NN and./CC deployment./NN of./IN new./JJ applications./NNS ,./, systems./NNS software./NN ,./, and/or./JJ enhancements./NNS to./TO existing./VBG applications./NNS throughout./IN the./DT enterprise./NN 
+o./JJ Ensure./NN that./WDT development./NN projects./NNS meet./VBP business./NN requirements./NNS and./CC goals./NNS ,./, fulfill./VB end-user./JJ requirements./NNS ,./, and./CC identify./VB and./CC resolve./VB systems./NNS issues./NNS 
+o./JJ Lead./NNP pre-testing./JJ phase./NN of./IN development./NN by./IN evaluating./VBG proposals./NNS in./IN order./NN to./TO identify./VB potential./JJ problem./NN areas./NNS and./CC make./VB the./DT appropriate./JJ recommendations./NNS 
+o./JJ Document./NNP all./DT changes./NNS to./TO the./DT development./NN ,./, and./CC incoming./VBG production./NN environments./NNS 
+o./JJ Ensure./NN that./IN all./DT applications./NNS are./VBP properly./RB documented./VBN ,./, tested./VBN ,./, and./CC have./VBP been./VBN met./VBN with./IN user./JJ acceptance./NN and./CC sign./NN off./RP 
+o./JJ Provide./NNP project./NN documentation./NN to./TO support./VB the./DT initiatives./NNS 
+o./JJ Provide./NNP ongoing./VBG feedback./NN and./CC project./NN status./NN to./TO all./DT stakeholders./NNS and./CC Project./NNP Manager./NNP 
+o./JJ Assist./NNP in./IN the./DT development./NN and./CC procurement./NN of./IN software./NN to./TO achieve./VB business./NN goals./NNS ,./, all./DT in./IN a./DT timely./JJ manner./NN 
+o./JJ Coordinate./NNP feasibility./NN studies./NNS for./IN software./NN and./CC system./NN products./NNS under./IN consideration./NN for./IN purchase./NN ,./, and./CC give./VB advice./NN based./VBN on./IN findings./NNS 
+o./JJ Ensure./NNP that./IN any./DT new./JJ software./NN integration./NN into./IN company./NN system./NN meets./VBZ functional./JJ requirements./NNS ,./, system./NN compliance./NN and./CC interface./NN specification./NN 
+o./JJ Provide./NNP guidance./NN and./CC feedback./NN to./TO Information./NNP Systems./NNP Project./NNP Manager./NNP and./CC Director./NNP ,./, Information./NNP Technology./NNP 
+o./JJ Liaise./NNP with./IN network./NN and./CC system./NN administration./NN team./NN to./TO assist./VB with./IN quality./NN assurance./NN ,./, program./NN logic./NN and./CC data./NNS processing./NN 
+o./NN Identify./NNP and./CC resolve./VB program./NN errors./NNS 
+o./JJ Recommend./NNP ,./, schedule./NN and./CC perform./VB application./NN improvements./NNS and./CC upgrades./NNS 
+o./JJ Review./NNP and./CC analyze./JJ existing./VBG applications./NNS effectiveness./NN and./CC efficiency./NN and./CC then./RB develop./VB strategies./NNS for./IN improving./VBG and./CC leveraging./VBG these./DT systems./NNS 
+o./JJ Support./NNP the./DT programming./NN and./CC project./NN activities./NNS for./IN the./DT corporate./JJ intranet./NN /./FW internet./NN websites./NNS 
+o./JJ Provide./NNP technical./JJ and./CC programming./JJ support./NN 
+o./JJ Implement./NNP and./CC test./VB new./JJ application./NN tools./NNS 
+o./JJ Administer./NNP SQL./NNP Server./NNP and./CC UNIDATA./NNP databases./NNS 
+o./JJ Write./NNP ad-hoc./JJ data./NNS reports./NNS to./TO mine./VB data./NNS from./IN SQL./NNP Server./NNP and./CC Unidata./NNP databases./NNS 
+
+Required./VBN Skills./NNS 
+Strong./JJ interpersonal./JJ skills./NNS in./IN dealing./VBG with./IN all./DT levels./NNS of./IN management./NN ,./, union./NN representatives./NNS ,./, Associates./NNPS ,./, and./CC outside./JJ organizations./NNS ,./, verbally./RB and./CC in./IN writing./VBG 
+o./NN Must./NNP be./VB able./JJ to./TO communicate./VB clearly./RB ,./, persuasively./RB and./CC effectively./RB ,./, both./DT orally./RB and./CC in./IN writing./VBG 
+o./NN Must./NNP be./VB able./JJ to./TO use./VB diplomacy./NN and./CC persuasion./NN 
+o./NN Demonstrates./VBZ leadership./NN abilities./NNS 
+o./JJ ASP.NET./NNP ,./, C./NNP #./# ,./, VB.NET./NNP ,./, JavaScript./NNP ,./, 
+o./NN Microsoft./NNP SQL./NNP Server./NNP (./( 2005./CD /./IN 2008./CD )./) 
+o./JJ Experience./NN with./IN .NET./NNP Framework./NNP (./( 2.0./CD /./RB 3.5./CD /./JJ 4.0./CD )./) 
+o./JJ Experience./NN with./IN Visual./JJ Studio./NNP (./( 2008./CD /./NN 2010./CD /./NN 2013./CD )./) 
+o./JJ Experience./NN with./IN SharePoint./NNP Server./NNP (./( 2010./CD /./IN 2013./CD )./) 
+o./JJ Experience./NNP with./IN Business./NNP Intelligence./NN :./: 
+SQL./NNP Server./NNP Integration./NNP Services./NNP (./( SSIS./NNP )./) 
+SQL./NNP Server./NNP Reporting./NNP Services./NNPS (./( SSRS./NNP )./) 
+SQL./NNP Server./NNP Analysis./NNP Services./NNP (./( SSAS./NNP )./) 
+
+Nice./NNP to./TO haves./VB 
+o./NN PHP./NNP 
+o./NN UniData./NNP 
+o./JJ Experience./NNP configuring./VBG Internet./NNP Information./NN Server./NNP (./( IIS./NNP )./) 7.0./CD /./$ 7.5./CD 
+o./JJ Experience./NNP using./VBG Microsoft./NNP Team./NNP Foundation./NNP Server./NNP 

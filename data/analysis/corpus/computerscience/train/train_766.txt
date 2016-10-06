@@ -1,0 +1,36 @@
+Please./VB indicate./VB in./IN your./PRP$ cover./NN letter./NN if./IN you./PRP are./VBP available./JJ for./IN 4./CD months./NNS or./CC 8./CD months./NNS ../. 
+
+About./IN the./DT Company./NN :./: 
+
+Huang./NNP &./CC Associates./NNPS Analytics./NNPS (./( HAA./NNP )./) is./VBZ an./DT exciting./VBG start-up./JJ company./NN developing./VBG reinsurance./NN analytics./NNS solutions./NNS to./TO support./VB reinsurance./NN underwriters./NNS ,./, analysts./NNS ,./, and./CC senior./JJ executives./NNS './POS strategic./JJ and./CC day-to-day./JJ decision./NN makings./NNS by./IN providing./VBG user./RB friendly./JJ web./JJ interface./NN ,./, sophisticated./JJ analytics./NNS ,./, and./CC interactive./JJ visualization./NN &./CC reports./NNS ../. HAA./NNP has./VBZ a./DT flat./JJ organizational./NN structure./NN which./WDT allows./VBZ for./IN agile./NN development./NN and./CC rapid./JJ product./NN release./NN ../. We./PRP strive./VBP to./TO build./VB a./DT client-centric./JJ organization./NN ,./, aiming./VBG to./TO solve./VB many./JJ problems./NNS and./CC challenges./NNS facing./VBG the./DT reinsurance./NN industry./NN ../. NOTE./NN :./: Please./NNP indicate./VB if./IN you./PRP can./MD commit./VB to./TO 8-months./CD or./CC 4-months./NNS in./IN your./PRP$ cover-letter/resume./NN ../. 
+
+Job./NNP Description./NNP :./: 
+
+HAA./NNP is./VBZ looking./VBG full./JJ stack./NN developers./NNS ,./, who./WP can./MD demonstrate./VB proficiency./NN in./IN a./DT few./JJ programming./NN languages./NNS and./CC thrive./NN in./IN a./DT challenging./NN ,./, fast-paced./JJ team./NN environment./NN ../. 
+Responsibilities./NNS and./CC Duties./NNS :./: 
+
+-./: Web-based./JJ user./JJ interface./NN design./NN and./CC implementation./NN 
+-./: Development./NNP of./IN RESTful./NNP API./NNP 's./POS 
+-./: Data./NN rich./JJ reporting./NN implementation./NN 
+-./: Prototype./NN development./NN 
+-./: Recommendation./NN of./IN appropriate./JJ solution./NN through./IN objective./JJ evaluation./NN of./IN multiple./JJ libraries./NNS and./CC technologies./NNS 
+
+Candidates./NNS must./MD be./VB self-motivated./JJ &./CC result-oriented./JJ and./CC should./MD have./VB the./DT following./JJ qualifications./NNS :./: 
+
+-./: Proficiency./NN with./IN two./CD of./IN Python./NNP ,./, Java./NNP ,./, C++./NNP ,./, Matlab./NNP 
+-./: Advanced./NNP knowledge./NN of./IN HTML./NNP ,./, CSS./NNP ,./, JavaScript./NNP -./: SQL./NN and./CC RDBMS./NNP 
+-./: Ability./NN to./TO prototype./VB applications./NNS -./: Excellent./NN verbal./JJ and./CC written./VBN communication./NN skills./NNS to./TO explain./VB complex./JJ 
+architecture./NN and./CC implementation./NN ../. Comfortable./JJ communicating./VBG with./IN non-developers./NNS ../. 
+-./: Demonstrate./NN proficiency./NN in./IN mathematics./NNS and./CC statistics./NNS 
+
+Preferred./JJ Skills./NNS :./: 
+
+-./: Proficiency./NN with./IN Python./NNP ,./, Flask./NNP ,./, and./CC SQLAlchemy./NNP -./: A./DT numerical./JJ libraries./NNS such./JJ as./IN Numpy/Pandas./NNP -./: Advanced./NNP knowledge./NN of./IN AngularJS/ReactJS./NNP 
+
+-./: Experience./NN in./IN JavaScript./NNP charts./NNS and./CC visualization./NN libraries./NNS 
+-./: 1./CD to./TO 2./CD years./NNS of./IN experience./NN in./IN a./DT developer./NN position./NN 
+
+Other./JJ Job./NNP Details./NNS :./: 
+
+-./: Flexible./JJ working./NN hours./NNS 
+-./: Extensive./JJ on-going./JJ training./NN programs./NNS 

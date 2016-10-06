@@ -1,0 +1,33 @@
+Wattpad./NNP is./VBZ where./WRB people./NNS come./VBP to./TO be./VB entertained./VBN ,./, inspired./VBN ,./, and./CC to./TO connect./VB around./IN stories./NNS that./WDT matter./VBP to./TO them./PRP ../. More./JJR than./IN 40./CD million./CD people./NNS have./VBP joined./VBN Wattpad./NNP to./TO date./NN ,./, making./VBG it./PRP the./DT world./NN 's./POS largest./JJS community./NN of./IN readers./NNS and./CC writers./NNS ../. With./IN Wattpad./NNP ,./, anyone./NN can./MD read./VB or./CC write./VB on./IN any./DT device./NN :./: Phone./NN ,./, tablet./NN ,./, or./CC computer./NN ../. 
+
+Our./PRP$ users./NNS have./VBP written./VBN and./CC shared./VBN more./JJR than./IN 100./CD million./CD stories./NNS ,./, in./IN aggregate./JJ spending./NN a./DT mind-boggling./JJ 11./CD billion./CD minutes./NNS each./DT month./NN using./VBG our./PRP$ platform./NN ../. 
+
+What./WP we./PRP offer./VBP Co-op./JJ Students./NNS :./: 
+-./: Wattpad./NN pays./VBZ 20./CD %./NN above./IN the./DT term./NN average./NN as./IN recommended./VBN by./IN Waterloo./NNP 
+-./: Meaningful./NN work./NN that./WDT will./MD touch./VB millions./NNS of./IN users./NNS worldwide./VBP 
+-./: Your./PRP$ TTC./NNP pass./NN is./VBZ on./IN us./PRP 
+-./: Monthly./JJ Hack./NNP days./NNS for./IN a./DT chance./NN to./TO show./VB us./PRP your./PRP$ creativity./NN 
+-./: Casual./JJ work./NN environment./NN in./IN a./DT beautiful./JJ downtown./JJ office./NN located./VBN in./IN the./DT St../NNP Lawrence./NNP Market./NNP district./NN 
+
+This./DT is./VBZ an./DT excellent./JJ opportunity./NN to./TO join./VB an./DT extremely./RB talented./JJ development./NN team./NN ../. If./IN you./PRP are./VBP a./DT flexible./JJ ,./, out-of-the-box./JJ thinker./NN and./CC are./VBP dedicated./VBN to./TO product./NN quality./NN take./VB a./DT closer./JJR look./NN ../. You./PRP will./MD be./VB an./DT integral./JJ part./NN of./IN the./DT team./NN that./WDT is./VBZ revolutionizing./VBG the./DT way./NN people./NNS read./VBP and./CC write./VBP ../. This./DT is./VBZ an./DT outstanding./JJ opportunity./NN for./IN an./DT experienced./JJ ,./, creative./JJ individual./NN with./IN a./DT proven./JJ track./NN record./NN in./IN web./NN and./CC mobile./JJ application./NN testing./VBG ../. Our./PRP$ community./NN of./IN readers./NNS and./CC writers./NNS will./MD just./RB adore./VB you./PRP !./. 
+
+What./WP you./PRP will./MD be./VB doing./VBG :./: 
+-./: Use./VB the./DT latest./JJS tools./NNS and./CC methodologies./NNS to./TO implement./VB testing./VBG and./CC ensure./VB product./NN quality./NN 
+-./: tools./NN we./PRP use./VBP include./JJ Selenium./NNP ,./, Python./NNP ,./, Appium./NNP ,./, Jenkins./NNP AWS./NNP 
+-./: Code./NN automation./NN test./NN cases./NNS for./IN Web./NNP ,./, Android./NNP ,./, iOS./NN and./CC our./PRP$ API./NN 
+-./: Exploratory./NN testing./VBG on./IN our./PRP$ new./JJ features./NNS 
+-./: Work./NN on./IN improving./VBG and./CC maintaining./VBG our./PRP$ AWS./NNP test./NN infrastructure./NN 
+-./: Investigate./NN new./JJ testing./NN tools./NNS 
+-./: Be./VB the./DT voice./NN of./IN Test./NNP on./IN Product./NNP teams./NNS 
+
+What./WP we./PRP 're./VBP looking./VBG for./IN :./: 
+-./: High./NNP energy./NN ,./, self-starting./JJ individual./NN with./IN an./DT entrepreneurial./JJ spirit./NN 
+-./: Proven./NN problem./NN solving./VBG ability./NN 
+-./: Solid./JJ analytical./JJ and./CC investigative./JJ skills./NNS and./CC familiarity./NN and./CC experience./NN using./VBG the./DT latest./JJS and./CC greatest./JJS tools./NNS 
+-./: Attention./NN to./TO detail./VB 
+-./: Gadget./NN lover./NN 
+-./: A./DT solid./JJ understanding./NN of./IN quality./NN assurance./NN as./IN part./NN of./IN the./DT software./NN development./NN process./NN 
+-./: Well-versed./JJ in./IN all./DT testing./VBG methodologies./NNS (./( white./JJ vs../FW black./JJ box./NN test./NN work./NN ,./, functional./JJ vs../FW non-functional./JJ testing./NN )./) 
+-./: Highly./RB effective./JJ time./NN management./NN and./CC organizational./JJ skills./NNS 
+
+To./TO learn./VB more./JJR about./IN Wattpad./NNP visit./NN www.wattpad.com/life./NN 

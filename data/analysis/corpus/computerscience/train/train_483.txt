@@ -1,0 +1,38 @@
+ORGANIZATION./NNP PROFILE./NNP :./: 
+When./WRB you./PRP work./VBP at./IN CBC/Radio-Canada./NNP ,./, you./PRP 're./VBP part./NN of./IN an./DT inspiring./NN ,./, entertaining./VBG ,./, truly./RB Canadian./JJ organization./NN ../. Each./DT day./NN ,./, some./DT of./IN the./DT industry./NN 's./POS most./RBS creative./JJ minds./NNS come./VBP to./TO work./VB for./IN a./DT world./NN leader./NN in./IN public./JJ broadcasting./NN that./WDT fuels./VBZ the./DT Canadian./JJ dream./NN ,./, making./VBG our./PRP$ national./JJ broadcaster./NN one./CD of./IN the./DT country./NN 's./POS largest./JJS cultural./JJ institutions./NNS ../. 
+
+GEOGRAPHIC./NNP LOCATION./NNP :./: 
+Toronto./NNP 
+
+APPLICANT./NNP 'S./POS QUALIICATIONS./NN 
+As./IN the./DT successful./JJ candidate./NN you./PRP will./MD possess./VB the./DT following./NN :./: 
+Working./VBG knowledge./NN of./IN UNIX/Linux./NNP ,./, and./CC be./VB familiar./JJ with./IN UNIX./NNP command-line./JJ interface./NN ../. You./PRP will./MD display./VB experience./NN with./IN relational./JJ databases./NNS ,./, version./NN control./NN systems./NNS ,./, major./JJ content./JJ management./NN systems./NNS and./CC software./NN testing./NN tools./NNS ../. 
+
+The./DT ability./NN to./TO program./NN in./IN a./DT wide./JJ range./NN of./IN computer./NN language./NN including./VBG but./CC not./RB limited./JJ to./TO ;./: Java./NNP ,./, JavaScript./NNP ,./, Perl/CGI./NNP ,./, and./CC shell./NN script./NN ../. 
+Knowledge./NNP of./IN XML./NNP ,./, XSLT./NNP and./CC related./JJ technologies./NNS would./MD be./VB an./DT asset./NN ../. 
+Hands-on./JJ experience./NN of./IN mobile/smart./NN phone./NN platform./NN and./CC operating./VBG systems./NNS and./CC of./IN quality./NN assurance./NN in./IN mobile./JJ domain./NN ../. 
+Strong./JJ analytical./JJ and./CC problem./NN solving./NN skills./NNS ,./, with./IN the./DT ability./NN to./TO communicate./VB clearly./RB both./DT written./VBN and./CC verbal./JJ ,./, and./CC must./MD be./VB expert./JJ in./IN listening./VBG and./CC receiving./VBG communications./NNS from./IN others./NNS of./IN varying./VBG levels./NNS of./IN computer./NN expertise./NN ../. 
+Exercise./NN judgment./NN ,./, initiative./NN ,./, have./VBP the./DT ability./NN to./TO work./VB independently./RB ,./, and./CC manage./NN multiple./JJ priorities./NNS and./CC respond./NN to./TO several./JJ urgent./JJ demands./NNS in./IN a./DT short./JJ period./NN of./IN time./NN ../. 
+Creativity./NN in./IN discovering./VBG and./CC applying./VBG emerging./VBG technologies./NNS to./TO solve./VB website./JJ quality./NN assurance./NN problems./NNS is./VBZ valued./VBN ../. 
+Experience./NN and./CC knowledge./NN of./IN website./JJ security./NN and./CC process./NN designing./NN and./CC engineering./NN are./VBP considered./VBN assets./NNS ../. 
+
+JOB./NNP SUMMARY./NNP :./: 
+The./DT Quality./NNP Assurance./NNP Analyst./NNP will./MD develop./VB test./NN plans./NNS ,./, scripts./NNS ,./, and./CC suites./NNS in./IN various./JJ computer./NN languages./VBZ to./TO support./VB content./JJ goals./NNS and./CC applications./NNS of./IN CBC./NNP websites./NNS and./CC mobile./JJ platform./NN ../. There./EX is./VBZ opportunity./NN for./IN ,./, and./CC an./DT expectation./NN of./IN a./DT high./JJ degree./NN of./IN creativity./NN and./CC initiative./NN ../. 
+Load./NNP testing./NN and./CC functional./JJ automation./NN testing./VBG with./IN WebLoad./NNP and./CC SeeTestMobile./NNP will./MD require./VB a./DT knowledge./NN of./IN computer./NN programming./VBG techniques./NNS ../. 
+
+As./IN an./DT integral./JJ member./NN of./IN the./DT QA./NNP team./NN ,./, you./PRP will./MD be./VB responsible./JJ for./IN developing./VBG and./CC maintaining./VBG software./NN quality./NN assurance./NN best./RBS practices./NNS and./CC overall./JJ QA./NNP strategy./NN for./IN CBC.ca./NNP ../. 
+
+The./DT selected./VBN candidate./NN will./MD create./VB test./NN plans./NNS ,./, test./NN case./NN documents./NNS based./VBN on./IN business./NN and./CC design./NN artifacts./NNS ,./, perform./JJ functional./JJ ,./, performance./NN ,./, and./CC user-acceptance./JJ testing./NN for./IN application./NN software./NN projects./NNS ,./, and./CC using./VBG test./NN plans./NNS and./CC defect./JJ repository./NN ,./, generate./NN reports./NNS detailing./VBG software./NN 's./POS quality./NN status./NN and./CC history./NN ../. 
+
+Prepare./NNP complete./JJ documentation./NN on./IN each./DT application./NN ,./, upgrade./NN ,./, modification./NN or./CC enhancement./NN produced./VBN ../. The./DT documentation./NN must./MD be./VB in./IN a./DT form./NN appropriate./NN and./CC useful./JJ to./TO operations./NNS personnel./NNS ../. Assist./JJ users./NNS in./IN acceptance./NN testing./NN of./IN newly./RB developed./VBN applications./NNS ,./, modifications./NNS or./CC upgrades./NNS ../. 
+
+Be./NNP able./JJ to./TO work./VB independently./RB or./CC in./IN a./DT team./NN environment./NN in./IN the./DT development./NN of./IN QA./NNP related./JJ artifacts./NNS ../. In./IN addition./NN to./TO QA./NNP development./NN ,./, the./DT programmer./NN will./MD be./VB responsible./JJ for./IN helping./VBG in./IN debugging./NN ,./, troubleshooting./VBG ,./, etc./FW when./WRB problems./NNS arise./VBP in./IN on-going./JJ applications./NNS ../. 
+Position./NN may./MD include./VB website./JJ security./NN and./CC in./IN process./NN designing./NN and./CC engineering./NN ../. 
+
+Extended./VBN working./JJ hours./NNS may./MD be./VB required./VBN ../. 
+CBC/Radio-Canada./NNP is./VBZ Canada./NNP 's./POS national./JJ public./JJ broadcaster./NN and./CC one./CD of./IN its./PRP$ largest./JJS cultural./JJ institutions./NNS ../. CBC/Radio-Canada./JJ brings./NNS diverse./JJ regional./JJ and./CC cultural./JJ perspectives./NNS into./IN the./DT daily./JJ lives./NNS of./IN Canadians./NNPS in./IN English./NNP ,./, French./NNP and./CC eight./CD Aboriginal./NNP languages./NNS ../. 
+
+CBC/Radio-Canada./NNP is./VBZ committed./VBN to./TO reflecting./VBG the./DT country./NN 's./POS diversity./NN within./IN its./PRP$ workforce./NN and./CC encourages./NNS applications./NNS from./IN people./NNS of./IN any./DT wealth./NN of./IN cultures./NNS ,./, linguistic./JJ and./CC ethnocultural./JJ communities./NNS ,./, gender./NN ,./, sexual./JJ orientations./NNS ,./, ages./NNS ,./, religions./NNS and./CC those./DT with./IN different./JJ abilities./NNS ../. 
+For./IN more./JJR information./NN ,./, visit./VB the./DT Talent./NNP and./CC Diversity./NNP section./NN of./IN our./PRP$ corporate./JJ website./NN :./: www.cbc.ca/jobs./NN 
+
+If./IN this./DT sounds./VBZ interesting./JJ ,./, we./PRP want./VBP to./TO hear./VB from./IN you./PRP !./. We./PRP thank./VBP all./DT applicants./NNS for./IN their./PRP$ interest./NN ,./, but./CC only./RB candidates./NNS selected./VBD for./IN an./DT interview./NN will./MD be./VB contacted./VBN ../. 

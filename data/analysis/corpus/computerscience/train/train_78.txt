@@ -1,0 +1,21 @@
+G3./NNP Capital./NNP Corp../NNP is./VBZ a./DT Toronto-based./JJ alternative./JJ asset./NN manager./NN ../. The./DT Company./NNP 's./POS primary./JJ focus./NN is./VBZ to./TO manage./VB its./PRP$ hedge./NN fund./NN ,./, G3./NNP Capital./NNP Partners./NNP Fund./NNP ,./, which./WDT was./VBD launched./VBN in./IN 2008./CD ../. The./DT fund./NN employs./VBZ a./DT multi-strategy./JJ approach./NN to./TO investing./VBG and./CC seeks./NNS to./TO deliver./VB absolute./JJ returns./NNS to./TO its./PRP$ investors./NNS ../. 
+
+We./PRP are./VBP currently./RB seeking./VBG a./DT Junior./JJ Analyst./NN to./TO support./VB our./PRP$ team./NN in./IN the./DT day-to-day./JJ investment./NN activities./NNS of./IN the./DT firm./NN ../. The./DT candidate./NN must./MD exhibit./VB strong./JJ analytic./JJ and./CC interpersonal./JJ skills./NNS as./RB well./RB as./IN the./DT ability./NN to./TO work./VB well./RB under./IN pressure./NN within./IN a./DT trading./NN environment./NN ../. 
+
+
+Position./NN responsibilities./NNS :./: 
+
+-./: Research./NN ,./, compilation./NN and./CC analysis./NN of./IN market./NN and./CC fundamental./JJ company./NN data./NNS ,./, which./WDT will./MD be./VB relied./VBN upon./IN when./WRB making./VBG investment./NN decisions./NNS ;./: 
+-./: Assist./NN in./IN the./DT management./NN of./IN the./DT firm./NN 's./POS proprietary./JJ databases./NNS ;./: 
+-./: Provide./NN assistance./NN with./IN trading./NN and./CC settlement./NN activities./NNS as./RB well./RB as./IN fund./NN administration./NN ;./: 
+-./: Various./JJ ad./NN hoc./NN errands./NNS and./CC support./NN tasks./NNS ../. 
+
+
+The./DT successful./JJ candidate./NN will./MD meet./VB the./DT following./JJ requirements./NNS :./: 
+
+-./: Currently./RB pursuing./VBG a./DT degree./NN in./IN Finance./NNP ,./, Economics./NNP ,./, Mathematics./NNP or./CC Engineering./NNP -./: the./DT ideal./JJ candidate./NN will./MD have./VB completed./VBN or./CC be./VB in./IN the./DT process./NN of./IN completing./VBG third./JJ year./NN courses./NNS in./IN finance/economics./NNS and./CC at./IN least./JJS some./DT second./JJ year./NN courses./NNS in./IN computer./NN science./NN ;./: 
+-./: A./DT genuine./JJ hunger./NN to./TO learn./VB and./CC to./TO uncover./VB critical./JJ facts./NNS relevant./VBP to./TO the./DT investment./NN decision./NN ;./: 
+-./: An./DT active./JJ interest./NN in./IN economics./NNS and./CC the./DT capital./NN markets./NNS as./RB well./RB as./IN some./DT knowledge./NN of./IN current./JJ global./JJ political./JJ and./CC economic./JJ affairs./NNS ;./: 
+-./: A./DT high./JJ level./NN of./IN professional./JJ maturity./NN ,./, a./DT solid./JJ work./NN ethic./JJ and./CC a./DT keen./JJ attention./NN to./TO detail./NN ;./: 
+-./: Strong./NN overall./JJ computer./NN and./CC spreadsheet./NN skills./NNS -./: familiarity./NN with./IN VBA./NNP and./CC SQL./NNP is./VBZ a./DT plus./NN ;./: and./CC 
+-./: Comfort./NN working./VBG within./IN an./DT open./JJ desk./NN ,./, trading./NN environment./NN ../. 

@@ -1,0 +1,19 @@
+Summary./JJ 
+The./DT ideal./JJ candidate./NN is./VBZ self-driven./JJ and./CC has./VBZ experience./NN in./IN machine./NN learning./NN and./CC image./NN processing./NN techniques./NNS ../. Be./VB sure./JJ to./TO show./VB off./RP any./DT relevant./JJ or./CC just./RB plain./VB cool./JJ projects./NNS in./IN your./PRP$ application./NN package./NN ../. The./DT candidate./NN should./MD enjoy./VB being./VBG challenged./VBN daily./RB with./IN state-of-the-art./JJ problems./NNS ,./, and./CC not./RB giving./VBG up./RP until./IN they./PRP 're./VBP solved./VBN ../. 
+
+Responsibilities./NNS 
+You./PRP 'll./MD be./VB working./VBG with./IN any./DT and./CC all./DT parts./NNS of./IN our./PRP$ stack./NN including./VBG machine./NN learning./NN ,./, image./NN processing./NN ,./, and./CC web./NN ../. 
+
+Required./VBN Skills./NNS 
+Robust./NNP knowledge./NN of./IN C++./NNP ,./, Python./NNP ,./, and/or./NN MATLAB./NNP 
+Experience./NN with./IN database./NN technologies./NNS such./JJ as./IN Redis./NNP and./CC Postgres./NNS 
+Experience./NN with./IN machine./NN learning./NN fundamentals./NNS and./CC frameworks./NNS such./JJ as./IN TensorFlow./NNP 
+Experience./NN with./IN image./NN processing./NN techniques./NNS and./CC libraries./NNS like./IN OpenCV./NNP 
+Knowledge./NNP of./IN distributed./VBN systems./NNS and./CC architecture./NN 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+Meals./NNS provided./VBD 
+Generous./JJ housing./NN stipend./NN 
+Ping-pong./JJ and./CC foosball./JJ tables./NNS 
+Free./JJ beer./NN 
+Competitive./JJ salary./NN 

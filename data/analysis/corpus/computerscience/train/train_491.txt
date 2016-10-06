@@ -1,0 +1,50 @@
+Research./NNP Co-op./NNP ,./, Short./NNP Horizon./NNP Alpha./NNP 
+Public./JJ Market./NNP Investments./NNP --./: Winter./JJ 2017./CD (./( Job./NNP ID./NNP #./# 2311./CD )./) 
+
+Make./NNP an./DT impact./NN at./IN a./DT global./JJ and./CC dynamic./JJ investment./NN organization./NN 
+
+When./WRB you./PRP invest./VBP your./PRP$ career./NN in./IN CPP./NNP Investment./NNP Board./NNP (./( CPPIB./NNP )./) ,./, you./PRP join./VBP one./CD of./IN the./DT most./RBS respected./JJ and./CC fastest./JJS growing./VBG institutional./JJ investors./NNS in./IN the./DT world./NN ../. With./IN current./JJ assets./NNS under./IN management./NN valued./VBN in./IN excess./NN of./IN $./$ 250./CD billion./CD ,./, and./CC projected./VBD to./TO exceed./VB half./PDT a./DT trillion./CD by./IN 2030./CD ,./, CPPIB./NNP is./VBZ a./DT professional./JJ investment./NN management./NN organization./NN that./WDT globally./RB invests./VBZ the./DT funds./NNS of./IN the./DT Canada./NNP Pension./NNP Plan./NNP to./TO ensure./VB long-term./JJ sustainability./NN ../. CPPIB./NNP invests./VBZ in./IN all./DT major./JJ asset./NN classes./NNS ,./, including./VBG public./JJ equity./NN ,./, private./JJ equity./NN ,./, real./JJ estate./NN ,./, infrastructure./NN and./CC fixed-income./JJ instruments./NNS ,./, and./CC currently./RB has./VBZ offices./NNS in./IN Toronto./NNP ,./, London./NNP ,./, Hong./NNP Kong./NNP ,./, New./NNP York./NNP ,./, So./NNP Paulo./NNP ,./, Luxembourg./NNP and./CC Mumbai./NNP ../. 
+
+CPPIB./NNP attracts./NNS and./CC selects./VBZ high-caliber./JJ individuals./NNS from./IN top-tier./JJ institutions./NNS around./IN the./DT globe./NN ../. Join./VB our./PRP$ team./NN and./CC look./VB forward./RB to./TO :./: 
+-./: Diverse./NN and./CC inspiring./VBG colleagues./NNS and./CC approachable./JJ leaders./NNS 
+-./: Stimulating./NN work./NN in./IN a./DT fast-paced./JJ ,./, intellectually./RB challenging./VBG environment./NN 
+-./: Accelerated./VBN exposure./NN and./CC responsibility./NN 
+-./: Global./NNP career./NN development./NN opportunities./NNS 
+-./: Being./NN motivated./VBN every./DT day./NN by./IN CPPIB./NNP 's./POS important./JJ social./JJ purpose./NN and./CC unshakable./JJ principles./NNS 
+
+If./IN you./PRP share./NN a./DT passion./NN for./IN performance./NN ,./, value./NN a./DT collegial./JJ and./CC collaborative./JJ culture./NN ,./, and./CC approach./NN everything./NN with./IN the./DT highest./JJS integrity./NN ,./, here./RB 's./VBZ an./DT opportunity./NN for./IN you./PRP to./TO invest./VB your./PRP$ career./NN at./IN CPPIB./NNP ../. 
+
+The./DT Short./NNP Horizon./NNP Alpha./NNP group./NN is./VBZ primarily./RB responsible./JJ for./IN active./JJ portfolio./NN management./NN ,./, short./JJ time./NN horizon./NN and./CC event./NN driven./RB active./JJ management./NN strategies./NNS ,./, replication./NN and./CC implementation./NN ../. (./( ie./NN ../. a./DT multi-strategy./JJ cross./NN asset./NN group./NN within./IN CPPIB./NNP )./) The./DT Short./NNP Horizon./NNP Alpha./NNP group./NN continues./VBZ to./TO invest./VB in./IN technology./NN to./TO develop./VB new./JJ methods./NNS to./TO construct./VB portfolios./NNS and./CC model./NN risk./NN ../. 
+
+We./PRP are./VBP currently./RB recruiting./VBG for./IN a./DT Research./NNP Co-op./NNP in./IN the./DT Short./NNP Horizon./NNP Alpha./NNP group./NN of./IN the./DT Public./NNP Market./NNP Investments./NNP department./NN from./IN January./NNP to./TO April./NNP 2017./CD ../. 
+
+Major./JJ areas./NNS of./IN research./NN include./NN :./: 
+-./: Modeling./NN risk./NN exposures./NNS in./IN the./DT portfolio./NN (./( e.g./NN ../. risk./NN arising./VBG from./IN positions./NNS in./IN futures./NNS ,./, equity./NN ,./, fixed./JJ income./NN ,./, credit./NN ,./, volatility./NN ,./, foreign./JJ exchange./NN )./) 
+-./: Portfolio./NN optimization./NN 
+-./: Creating./NN alternative./JJ risk./NN premia./NN to./TO mimic./VB returns./NNS from./IN macro./NN ,./, carry./NN ,./, curve./NN ,./, value./NN ,./, trend./NN ,./, liquidity./NN and./CC event-driven./JJ strategies./NNS ../. 
+
+Position./NN Description./NN 
+-./: This./DT position./NN is./VBZ responsible./JJ for./IN designing./VBG software./NN ,./, developing./VBG mathematical./JJ models./NNS and./CC analyzing./VBG financial./JJ information./NN within./IN the./DT Short./NNP Horizon./NNP Alpha./NNP group./NN of./IN Public./NNP Market./NNP Investments./NNP ../. 
+-./: Developing./VBG systems/models./NNS to./TO analyze./VB financial./JJ time./NN series./NN information./NN 
+-./: Analyzing./VBG financial./JJ information./NN to./TO determine./VB risks./NNS and./CC opportunities./NNS 
+-./: Maintaining./VBG the./DT departmental./JJ code./NN library./NN and./CC application./NN documentation./NN 
+-./: Working./VBG with./IN portfolio./NN managers./NNS to./TO ensure./VB that./IN their./PRP$ business./NN needs./NNS are./VBP satisfied./JJ 
+
+Position./NN Requirements./NNS 
+-./: The./DT ideal./JJ candidate./NN will./MD be./VB enrolled./VBN in./IN years./NNS 2-3./CD of./IN University./NNP at./IN the./DT time./NN of./IN internship./NN ,./, working./VBG towards./NNS an./DT advanced./JJ degree./NN in./IN mathematics./NNS or./CC engineering./NN 
+-./: Self-motivated./JJ individual./NN with./IN the./DT ability./NN to./TO work./VB effectively./RB in./IN a./DT dynamic./JJ team./NN environment./NN 
+-./: Strong./NN skills./NNS in./IN programming./NN and./CC statistics./NNS 
+-./: Interest./NN in./IN Financial./NNP markets./NNS 
+-./: Experience./NN in./IN developing./VBG with./IN one./CD of./IN the./DT following./JJ technologies./NNS :./: C++./NNP ,./, VBA./NNP ,./, SQL./NNP ,./, MATLAB./NNP ,./, PHP./NNP ,./, R./NNP 
+-./: Knowledge./NN of./IN object-oriented./JJ design./NN and./CC data./NN structures./NNS and./CC experience./NN with./IN numerical./JJ modeling./NN and./CC optimization./NN techniques./NNS are./VBP assets./NNS 
+-./: Candidates./NNS must./MD exemplify./VB CPP./NNP Investment./NNP Board./NNP 's./POS guiding./VBG principles./NNS of./IN high./JJ performance./NN ,./, integrity./NN and./CC partnership./NN 
+
+
+Visit./VB our./PRP$ Linkedin./NNP Career./NNP Page./NNP or./CC Follow./NNP us./PRP on./IN LinkedIn./NNP ../. 
+
+At./IN CPP./NNP Investment./NNP Board./NNP ,./, we./PRP are./VBP committed./VBN to./TO diversity./NN and./CC equitable./JJ access./NN to./TO employment./NN opportunities./NNS based./VBN on./IN ability./NN ../. 
+
+We./PRP thank./VBP all./DT applicants./NNS for./IN their./PRP$ interest./NN but./CC will./MD only./RB contact./VB candidates./NNS selected./VBN to./TO advance./VB in./IN the./DT hiring./NN process./NN ../. 
+
+Disclaimer./NN :./: 
+CPP./NNP Investment./NNP Board./NNP does./VBZ not./RB accept./VB resumes./NNS from./IN employment./NN placement./NN agencies./NNS ,./, head-hunters./NNS or./CC recruitment./NN suppliers./NNS that./WDT are./VBP not./RB in./IN a./DT formal./JJ contractual./JJ arrangement./NN with./IN us./PRP ../. Our./PRP$ recruitment./NN supplier./NN arrangements./NNS are./VBP restricted./VBN to./TO specific./JJ hiring./VBG needs./NNS and./CC do./VBP not./RB include./VB this./DT or./CC other./JJ web-site./JJ job./NN postings./NNS ../. Any./DT unsolicited./JJ resume./NN or./CC other./JJ candidate./NN information./NN received./VBD from./IN a./DT supplier./NN not./RB approved./VBN by./IN CPP./NNP Investment./NNP Board./NNP to./TO provide./VB resumes./NNS to./TO this./DT posting./NN or./CC web-site./NN will./MD be./VB considered./VBN direct./JJ applications./NNS and./CC will./MD become./VB the./DT property./NN of./IN CPPIB./NNP ../. CPP./NNP Investment./NNP Board./NNP will./MD not./RB pay./VB any./DT referral./JJ ,./, placement./NN or./CC other./JJ fee./NN for./IN the./DT supply./NN of./IN such./JJ unsolicited./JJ resumes./NNS or./CC information./NN ../. 

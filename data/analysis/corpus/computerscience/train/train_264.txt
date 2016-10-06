@@ -1,0 +1,66 @@
+Bilingual./NNP (./( Chinese/English./NNP )./) 
+
+Co-op./JJ Test./NNP Analyst./NNP ,./, Technology./NNP &./CC Operations./NNP 
+
+CIBC./NNP is./VBZ a./DT leading./VBG Canadian-based./JJ global./JJ financial./JJ institution./NN ../. Through./IN our./PRP$ three./CD major./JJ businesses./NNS -./: Retail./NNP and./CC Business./NNP Banking./NNP ,./, Wealth./NNP Management./NNP and./CC Wholesale./NNP Banking./NNP -./: we./PRP provide./VBP a./DT full./JJ range./NN of./IN financial./JJ products./NNS and./CC services./NNS to./TO 11./CD million./CD individual./NN ,./, small./JJ business./NN ,./, commercial./JJ ,./, corporate./JJ and./CC institutional./JJ clients./NNS in./IN Canada./NNP and./CC around./IN the./DT world./NN ../. We./PRP invest./VBP in./IN our./PRP$ businesses./NNS ,./, our./PRP$ clients./NNS ,./, our./PRP$ people./NNS and./CC our./PRP$ communities./NNS to./TO deliver./VB consistent./JJ and./CC sustainable./JJ earnings./NNS to./TO our./PRP$ shareholders./NNS ../. To./TO learn./VB more./JJR about./IN CIBC./NNP 's./POS Lines./NNP of./IN Business./NNP ,./, please./VB visit./VB our./PRP$ website./NN ../. 
+
+CIBC./NNP delivers./NNS access./NN to./TO career./VB and./CC development./NN opportunities./NNS ,./, safe./JJ and./CC healthy./JJ workplaces./NNS ,./, effective./JJ training./NN ,./, and./CC positive./JJ work-life./JJ balance./NN -./: so./RB that./IN employees./NNS are./VBP able./JJ to./TO perform./VB at./IN their./PRP$ best./JJS ,./, contribute./NN to./TO their./PRP$ communities./NNS and./CC focus./VB on./IN cultivating./VBG deeper./JJR relationships./NNS with./IN our./PRP$ clients./NNS ../. 
+
+Every./DT year./NN ,./, CIBC./NNP is./VBZ recognized./VBN for./IN its./PRP$ business./NN success./NN ,./, community./NN commitment./NN and./CC employee./NN initiatives./NNS ../. We./PRP are./VBP proud./JJ of./IN this./DT success./NN and./CC are./VBP committed./VBN to./TO creating./VBG an./DT inclusive./JJ workplace./NN and./CC an./DT environment./NN where./WRB all./DT employees./NNS can./MD excel./VB ../. 
+
+To./TO learn./VB more./JJR about./IN CIBC./NNP and./CC the./DT CIBC./NNP Group./NNP of./IN Companies./NNP please./VBP visit./NN CIBC.com./NNP ../. 
+Business./NN Unit./NNP Description./NNP &./CC Job./NNP Overview./NNP :./: 
+
+
+We./PRP are./VBP looking./VBG for./IN highly./RB motivated./VBN and./CC accomplished./VBN individuals./NNS with./IN a./DT proven./JJ academic./JJ track./NN record./NN and./CC application./NN testing./NN and./CC problem./NN solving./NN skills./NNS ../. An./DT opportunity./NN with./IN CIBC./NNP will./MD provide./VB you./PRP with./IN the./DT opportunity./NN to./TO work./VB with./IN stakeholders./NNS to./TO develop./VB your./PRP$ skills./NNS on./IN challenging./VBG assignments./NNS while./IN making./VBG meaningful./JJ contributions./NNS to./TO CIBC./NNP ../. 
+
+Execute./JJ test./NN scenarios/scripts./NNS for./IN functional./JJ system./NN integration./NN and./CC acceptance./NN testing./NN for./IN a./DT single./JJ platform./NN ../. 
+
+
+What./WP You./PRP 'll./MD be./VB Doing./VBG :./: 
+
+-./: Develop./NN basic./JJ test./NN cases./NNS ,./, scenarios./NNS and./CC scripts./NNS to./TO ensure./VB quality./NN applications./NNS ../. 
+-./: Execute./NN basic./JJ test./NN scenarios/scripts./NNS ../. Ensure./NN results./NNS achieve./VBP documented./VBN goals./NNS and./CC objectives./NNS ../. 
+-./: Define./NN criteria./NNS for./IN testing./VBG and./CC analyze./JJ results./NNS of./IN testing./VBG cycles./NNS ../. 
+-./: Identify./NN test./NN result./NN variances./NNS ,./, creates./NNS variance./NN records./NNS and./CC re-tests./NNS as./IN appropriate./NN ../. 
+
+
+
+What./WP We./PRP 're./VBP Looking./VBG For./IN :./: 
+
+-./: Conversational./NN in./IN both./DT English./NNP and./CC Chinese./NNP (./( Cantonese./NNP or./CC Mandarin./NNP )./) 
+-./: Demonstrated./VBD Accuracy./NNP and./CC Attention./NNP to./TO Detail./NNP (./( ability./NN to./TO process./VB information./NN with./IN high./JJ levels./NNS of./IN accuracy./NN )./) ,./, and./CC Problem./NNP Solving./NNP skills./NNS ../. 
+-./: Demonstrated./VBD Written./NNP and./CC Oral./NNP Communication./NNP skills./NNS ../. 
+-./: Understanding./NN of./IN Application./NNP Testing./NNP (./( ability./NN to./TO design./VB ,./, plan./NN and./CC execute./JJ application./NN testing./VBG strategies./NNS and./CC tactics./NNS to./TO ensure./VB software./NN quality./NN at./IN all./DT stages./NNS of./IN application./NN development./NN )./) ../. 
+-./: Knowledge./NN of./IN Quality./NNP Management./NNP methods./NNS ,./, tools./NNS and./CC techniques./NNS ../. 
+-./: Experience./NN with./IN testing./NN tools./NNS (./( e.g./NN ../. JUnit./NNP ,./, J-Test./NNP ,./, LoadRunner./NNP ,./, WinRunner./NNP ,./, Mercury/HP./NNP Quality./NNP Centre./NNP ,./, UML/Rational./NNP Rose./NNP ,./, Parasoft./NNP SOAtest./NNP )./) ../. 
+-./: Understanding./NN of./IN programming./VBG languages./NNS (./( e.g./NN ../. Java./NNP ,./, J2EE./NNP ,./, VB./NNP ,./, VBA./NNP ,./, ASP./NNP ,./, .Net./NNP ,./, C./NNP ,./, C./NNP #./# ,./, C++./NNP ,./, COBOL./NNP ,./, XML./NNP ,./, SQL./NNP ,./, PL-SQL./NNP )./) ../. 
+-./: Experience./NN with./IN scripting./NN (./( e.g./JJ ../. Javascript./NNP ,./, Unix./NNP scripting./VBG )./) ../. 
+
+
+Assets./NNS :./: 
+
+-./: Must./NN possess./VB a./DT positive./JJ attitude./NN and./CC commitment./NN to./TO learning./VBG and./CC development./NN ../. 
+-./: Must./NN have./VBP the./DT desire./NN to./TO take./VB on./IN responsibility./NN and./CC ownership./NN ../. 
+-./: Successful./NN candidates./NNS must./MD exhibit./VB CIBC./NNP 's./POS values./NNS of./IN trust./NN ,./, team./NN work./NN ,./, and./CC accountability./NN ../. 
+
+
+What./WP CIBC./NNP Can./MD Offer./VB You./PRP :./: 
+
+-./: Competitive./NN salary./NN and./CC banking./NN benefits./NNS 
+-./: Career./NN growth./NN ,./, development./NN and./CC continuous./JJ learning./NN opportunities./NNS 
+-./: Opportunity./NN to./TO be./VB involved./VBN in./IN CIBC./NNP events./NNS that./WDT help./VBP our./PRP$ communities./NNS 
+
+
+
+What./WP You./PRP Need./VBP to./TO Know./VB :./: 
+
+-./: Candidates./NNS must./MD be./VB legally./RB eligible./JJ to./TO work./VB in./IN Canada./NNP at./IN the./DT location./NN (./( s./NN )./) specified./VBD below./IN and./CC ,./, where./WRB applicable./JJ ,./, must./MD have./VB a./DT valid./JJ work./NN permit./NN or./CC study./VB permit./NN that./WDT allows./VBZ the./DT candidate./NN to./TO fulfill./VB the./DT requirements./NNS of./IN the./DT role./NN 
+-./: This./DT role./NN operates./VBZ within./IN a./DT normal./JJ office./NN environment./NN with./IN little./JJ exposure./NN to./TO adverse./VB working./VBG conditions./NNS ../. 
+
+Job./NNP Location./NNP :./: GTA./NNP office./NN location./NN 
+
+CIBC./NNP thanks./NNS all./DT applicants./NNS for./IN their./PRP$ interest./NN ;./: however./RB ,./, only./RB those./DT selected./VBN for./IN an./DT interview./NN will./MD be./VB contacted./VBN ../. 
+
+Application./NN Instructions./NNS 
+Students./NNS are./VBP asked./VBN to./TO apply./VB through./IN JobMine./NNP be./VB sure./JJ to./TO include./VB the./DT following./JJ documents./NNS :./: cover./NN letter./NN ,./, resume./NN and./CC transcript./NN ../. 

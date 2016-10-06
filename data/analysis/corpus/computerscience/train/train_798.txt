@@ -1,0 +1,24 @@
+The./DT Ingle./NNP Group./NNP of./IN Companies-industry./NNP pioneers./NNS in./IN insurance./NN ,./, emergency./NN assistance./NN ,./, and./CC travel./NN and./CC wellness./JJ digital./JJ products-is./NN seeking./VBG a./DT motivated./JJ front-end./JJ developer./NN to./TO join./VB our./PRP$ team./NN ../. You./PRP are./VBP a./DT motivated./JJ young./JJ professional./NN committed./VBD to./TO your./PRP$ craft./NN ../. You./PRP strive./VBP in./IN a./DT team./NN environment./NN but./CC are./VBP also./RB able./JJ to./TO work./VB individually./RB ../. You./PRP are./VBP comfortable./JJ working./VBG with./IN designers./NNS to./TO build./VB great./JJ user./JJ experience./NN by./IN taking./VBG direction./NN and./CC also./RB contributing./VBG to./TO the./DT ideation./NN process./NN ../. You./PRP want./VBP to./TO build./VB the./DT next./JJ generation./NN of./IN user-centric./JJ products./NNS and./CC expand./VB your./PRP$ skills./NNS ../. 
+
+Our./PRP$ platform./NN tools./NNS are./VBP web-based./JJ ,./, and./CC we./PRP want./VBP you./PRP to./TO build./VB them./PRP ../. You./PRP live./VBP to./TO create./VB great./JJ user./JJ experiences./NNS through./IN clear./JJ ,./, intuitive./JJ user./NN interfaces./NNS ../. Your./PRP$ passion./NN drives./NNS you./PRP to./TO see./VB design./NN concepts./NNS through./IN to./TO completion./NN ,./, with./IN an./DT unforgettable./JJ user./NN experience./NN ../. For./IN you./PRP ,./, fine-tuning./NN is./VBZ an./DT art./NN and./CC you./PRP optimize./VBP to./TO create./VB a./DT clean./JJ UI./NNP that./WDT 's./VBZ fast./RB ,./, responsive./JJ ,./, and./CC scalable./JJ ../. 
+
+Desired./NNP Skills./NNP and./CC Experience./NN :./: 
+
+-./: Degree./NN or./CC diploma./NN in./IN computer./NN science./NN ,./, mathematics./NNS ,./, engineering./NN ,./, or./CC science./NN 
+-./: Working./VBG knowledge./NN of./IN server-side./JJ web./NN development./NN 
+-./: Programming./VBG experience./NN building./NN high./JJ traffic./NN websites./NNS 
+-./: Problem-solving./NN and./CC creativity./NN in./IN building./NN interactions./NNS 
+-./: Experience./NN creating./VBG ,./, editing./VBG ,./, and./CC modifying./VBG templates./NNS for./IN a./DT CMS./NNP or./CC web-development./JJ framework./NN 
+-./: Strong./NN understanding./NN of./IN cross-browser./NN ,./, cross-platform./NN ,./, and/or./JJ cross-device./NN compatibility./NN 
+-./: Familiarity./NN with./IN databases./NNS like./IN MySQL./NNP or./CC PostgreSQL./NNP 
+-./: Ability./NN to./TO lead./VB and./CC drive./JJ implementation./NN of./IN the./DT user./NN interface./NN 
+-./: Fluent./NN in./IN HTML./NNP ;./: PHP./NNP or./CC Python./NNP ;./: JSON./NNP and./CC RESTful./NNP APIs./NNP ;./: and./CC JavaScript./NNP (./( including./VBG its./PRP$ use./NN in./IN frameworks./NNS such./JJ as./IN Angular./NNP ,./, React./NNP or./CC Node./NNP )./) 
+-./: Experience./NN with./IN Agile./NNP (./( Scrum/KANBAN./NNP )./) and./CC CCS./NNP (./( including./VBG preprocessors./NNS such./JJ as./IN SASS./NNP or./CC LESS./NNP )./) 
+-./: Skilled./VBN with./IN modern./JJ front-end./JJ tools./NNS like./IN Bower./NNP and./CC Gulp/Grunt./NNP to./TO manage./VB project./NN dependencies./NNS 
+-./: Required./VBN :./: Must./JJ be./VB a./DT resident./NN of./IN Canada./NNP and./CC legally./RB eligible./JJ to./TO work./VB in./IN Canada./NNP 
+
+Why./WRB work./NN at./IN Ingle./NNP ?./. 
+
+We./PRP have./VBP been./VBN providing./VBG insurance./NN and./CC travel./NN solutions./NNS to./TO Canadians./NNPS and./CC international./JJ travellers./NNS since./IN 1946./CD ../. At./IN Ingle./NNP International./NNP ,./, people./NNS are./VBP the./DT source./NN of./IN our./PRP$ energy./NN ../. We./PRP are./VBP a./DT creative./JJ ,./, dynamic./JJ team./NN from./IN diverse./JJ backgrounds./NNS ,./, bringing./VBG our./PRP$ passion./NN to./TO deliver./VB excellent./JJ service./NN to./TO various./JJ charitable./JJ ,./, educational./JJ ,./, health./NN care./NN ,./, and./CC international./JJ groups./NNS as./RB well./RB as./IN the./DT general./JJ public./NN ../. We./PRP use./VBP pioneering./VBG technologies./NNS and./CC exceptional./JJ customer./NN service./NN to./TO deliver./VB products./NNS and./CC service./NN at./IN affordable./JJ rates./NNS ../. Interns./NNP regularly./RB seek./VBP us./PRP out./RP as./IN an./DT employer./NN of./IN choice./NN ;./: they./PRP have./VBP learned./VBN a./DT great./JJ deal./NN from./IN us./PRP ,./, and./CC we./PRP ,./, in./IN turn./NN ,./, have./VBP enjoyed./VBN the./DT experience./NN immensely./RB and./CC learned./VBN from./IN them./PRP ../. 
+
+We./PRP invest./VBP in./IN our./PRP$ team./NN members./NNS and./CC help./VB them./PRP build./VB a./DT career./NN ../. We./PRP also./RB provide./VBP competitive./JJ compensation./NN and./CC an./DT insurance./NN benefits./NNS package./VBP including./VBG health./NN and./CC dental./JJ coverage./NN ,./, a./DT wellness./NN bursary./NN ,./, and./CC opportunities./NNS for./IN training./NN and./CC education./NN ../. 

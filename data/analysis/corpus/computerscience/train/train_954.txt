@@ -1,0 +1,34 @@
+Wattpad./NNP is./VBZ where./WRB people./NNS come./VBP to./TO be./VB entertained./VBN ,./, inspired./VBN ,./, and./CC to./TO connect./VB around./IN stories./NNS that./WDT matter./VBP to./TO them./PRP ../. More./JJR than./IN 40./CD million./CD people./NNS have./VBP joined./VBN Wattpad./NNP to./TO date./NN ,./, making./VBG it./PRP the./DT world./NN 's./POS largest./JJS community./NN of./IN readers./NNS and./CC writers./NNS ../. With./IN Wattpad./NNP ,./, anyone./NN can./MD read./VB or./CC write./VB on./IN any./DT device./NN :./: Phone./NN ,./, tablet./NN ,./, or./CC computer./NN ../. 
+
+Our./PRP$ users./NNS have./VBP written./VBN and./CC shared./VBN more./JJR than./IN 100./CD million./CD stories./NNS ,./, in./IN aggregate./JJ spending./NN a./DT mind-boggling./JJ 11./CD billion./CD minutes./NNS each./DT month./NN using./VBG our./PRP$ platform./NN ../. 
+
+What./WP we./PRP offer./VBP Co-op./JJ Students./NNS :./: 
+-./: Wattpad./NN pays./VBZ 20./CD %./NN above./IN the./DT term./NN average./NN as./IN recommended./VBN by./IN Waterloo./NNP 
+-./: Meaningful./NN work./NN that./WDT will./MD touch./VB millions./NNS of./IN users./NNS worldwide./VBP 
+-./: Your./PRP$ TTC./NNP pass./NN is./VBZ on./IN us./PRP 
+-./: Monthly./JJ Hack./NNP days./NNS for./IN a./DT chance./NN to./TO show./VB us./PRP your./PRP$ creativity./NN 
+-./: Casual./JJ work./NN environment./NN in./IN a./DT beautiful./JJ downtown./JJ office./NN located./VBN in./IN the./DT St../NNP Lawrence./NNP Market./NNP district./NN 
+
+We./PRP are./VBP seeking./VBG a./DT back-end./JJ developer./NN to./TO join./VB the./DT platform./NN team./NN ../. If./IN you./PRP 're./VBP tired./VBN of./IN writing./VBG software./NN that./WDT never./RB sees./VBZ the./DT light./NN of./IN day./NN and./CC want./VBP to./TO build./VB things./NNS that./IN millions./NNS of./IN people./NNS will./MD use./VB ,./, Wattpad./NNP is./VBZ for./IN you./PRP ../. You./PRP 'll./MD be./VB deploying./VBG to./TO production./NN within./IN your./PRP$ first./JJ couple./NN of./IN days./NNS and./CC at./IN 20,000./CD requests./NNS per./IN second./JJ ,./, your./PRP$ work./NN will./MD definitely./RB be./VB seen./VBN by./IN many./JJ ../. Every./DT new./JJ feature./NN built./VBN is./VBZ a./DT fun./NN and./CC rewarding./NN challenge./NN ,./, because./IN of./IN the./DT scale./NN ../. We./PRP are./VBP aggressively./RB transitioning./VBG to./TO a./DT microservices./NNS architecture./NN using./VBG Go./NNP in./IN order./NN to./TO handle./VB this./DT scale./NN more./RBR efficiently./RB ../. You./PRP 'll./MD be./VB an./DT integral./JJ part./NN of./IN not./RB only./RB implementing./VBG this./DT new./JJ architecture./NN but./CC designing./VBG it./PRP as./RB well./RB ../. 
+
+What./WP you./PRP will./MD be./VB doing./VBG :./: 
+-./: Designing./NN ,./, building./NN and./CC maintaining./VBG large./JJ scale./NN distributed./VBD systems./NNS serving./VBG millions./NNS of./IN users./NNS per./IN day./NN 
+-./: Writing./VBG new./JJ microservices./NNS in./IN Go./NNP 
+-./: Maintaining./VBG the./DT existing./VBG system./NN in./IN PHP./NNP 
+-./: Improving./NN reliability./NN and./CC performance./NN of./IN core./NN components./NNS 
+-./: Working./VBG with./IN client./NN teams./NNS (./( web./NN ,./, Android./NNP ,./, iOS./NN )./) to./TO develop./VB support./NN for./IN new./JJ features./NNS 
+-./: Identifying./NN and./CC solving./VBG tough./JJ problems./NNS quickly./RB 
+-./: Shipping./VBG new./JJ production./NN systems./NNS quickly./RB and./CC iteratively./RB 
+-./: Writing./VBG unit./NN tests./NNS for./IN all./DT your./PRP$ code./NN 
+-./: Contributing./NN to./TO open./VB source./NN 
+
+What./WP we./PRP 're./VBP looking./VBG for./IN :./: 
+-./: Experience./NN developing./VBG distributed./VBN systems./NNS in./IN Go./NNP ,./, PHP./NNP or./CC similar./JJ languages./NNS 
+-./: Experience./NN with./IN various./JJ data./NNS stores./NNS ,./, such./JJ as./IN MySQL./NNP ,./, Redis./NNP ,./, Memcached./NNP and./CC Cassandra./NNP 
+-./: Experience./NN working./VBG with./IN Amazon./NNP Web./NNP Services./NNPS or./CC similar./JJ 
+-./: Passion./NN for./IN software./NN engineering./NN best./JJS practices./NNS (./( e.g./FW ../. unit./NN testing./NN ,./, code./NN reviews./NNS ,./, simplicity./NN ,./, etc./FW ../. )./) 
+-./: A./DT desire./NN to./TO contribute./VB to./TO the./DT broader./NN development./NN community./NN 
+-./: Striving./NN for./IN perfection./NN and./CC knowing./VBG how./WRB to./TO achieve./VB that./DT iteratively./RB 
+-./: Currently./RB an./DT upper./JJ year./NN student./NN pursuing./VBG a./DT degree./NN in./IN Engineering./NNP or./CC Computer./NNP Science./NNP 
+
+To./TO learn./VB more./JJR about./IN Wattpad./NNP visit./NN www.wattpad.com/life./NN 

@@ -1,0 +1,17 @@
+Summary./JJ 
+Develop./NNP and./CC implement./JJ image./NN processing./NN algorithms./NN for./IN digital./JJ pathology./NN ../. 
+
+Responsibilities./NNS 
+-Implement./JJ algorithms./NN in./IN both./DT Python./NNP and./CC C++./NNP 
+-Write./JJ plugin./NN modules./NNS for./IN a./DT digital./JJ pathology./NN viewer./NN 
+-Refine./NN and./CC test./NN software./NN to./TO meet./VB user./JJ requirements./NNS ../. 
+-Assist./NN in./IN the./DT development./NN of./IN new./JJ image./NN analysis./NN techniques./NNS 
+-Provide./JJ documentation./NN and./CC training./NN on./IN software./NN 
+-Collaborate./NN with./IN other./JJ group./NN members./NNS on./IN a./DT variety./NN of./IN research./NN projects./NNS ../. 
+
+Required./VBN Skills./NNS 
+Strong./JJ programming./VBG experience./NN with./IN C++./NNP and./CC Visual./NNP Studio./NNP 
+Familiarity./NN with./IN openCV./NN and./CC Python./NNP is./VBZ an./DT advantage./NN ../. 
+Excellent./JJ problem./NN solving./VBG skills./NNS 
+Good./JJ communication./NN skills./NNS 
+Ability./NN to./TO work./VB well./RB in./IN a./DT team./NN and./CC to./TO use./VB initiative./JJ in./IN achieving./VBG your./PRP$ goals./NNS 

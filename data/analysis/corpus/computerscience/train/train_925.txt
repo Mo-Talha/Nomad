@@ -1,0 +1,38 @@
+Great-West./NNP Life./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Sept../NNP 29./CD ,./, 2016./CD from./IN 7:30./CD PM./NNP -./: 9:30./CD PM./NNP at./IN Tatham./NNP Centre./NNP -./: 2218./CD A./NNP and./CC B./NNP ../. Please./NNP plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+
+This./DT is./VBZ your./PRP$ opportunity./NN to./TO help./VB transform./VB one./CD of./IN Canada./NNP 's./POS largest./JJS and./CC most./RBS trusted./JJ companies./NNS !./. 
+
+Spend./VB your./PRP$ Coop./NN with./IN the./DT brand./NN new./JJ Data./NNP &./CC Analytics./NNP team./NN in./IN our./PRP$ Market./NNP Development./NNP &./CC Strategy./NNP business./NN unit./NN ../. We./PRP operate./VBP like./IN a./DT start-up./NN within./IN one./CD of./IN Canada./NNP 's./POS largest./JJS financial./JJ services./NNS institutions./NNS ,./, having./VBG recently./RB opened./VBN collaborative./JJ new./JJ space./NN in./IN London./NNP and./CC Toronto./NNP ../. We./PRP are./VBP looking./VBG for./IN bright./JJ and./CC energetic./JJ students./NNS to./TO join./VB us./PRP this./DT winter./NN (./( January./NNP to./TO April./NNP 2017./CD )./) in./IN London./NNP or./CC Toronto./NNP ../. 
+
+The./DT Work./NN 
+Business./NN problem./NN solver./NN :./: 
+-./: Ability./NN to./TO identify./VB business./NN problems./NNS ,./, that./IN if./IN remedied./VBN ,./, could./MD return./VB dollar./NN savings./NNS 
+-./: Identify./NN root./NN causes./NNS and./CC contributors./NNS to./TO underlying./VBG business./NN problems./NNS 
+-./: Formulate./NN remedies./NNS and./CC prescribe./VB how./WRB they./PRP will./MD fix./VB these./DT business./NN issues./NNS 
+
+Fact-Based./JJ Quantitative./JJ Analyst./NN :./: 
+-./: Able./NN to./TO model./VB data./NNS and./CC metadata./NNS for./IN ad./NN hoc./NN and./CC pre-built./JJ reporting./NN 
+-./: Able./NN to./TO work./VB with./IN very./RB large./JJ data-sets./NNS (./( millions./NNS of./IN records./NNS and./CC thousands./NNS of./IN variables./NNS )./) 
+-./: Able./NN to./TO learn./VB how./WRB to./TO retrieve./VB the./DT data./NN from./IN these./DT systems./NNS through./IN multiple./JJ languages./NNS 
+-./: Recognize./NN and./CC adopt./VB best./JJS practices./NNS in./IN reporting./NN and./CC analysis./NN :./: data./NNS integrity./NN ,./, test./NN design./NN ,./, analysis./NN ,./, validation./NN ,./, and./CC documentation./NN 
+-./: Able./NN to./TO perform./VB mathematical./JJ analysis./NN across./IN a./DT variety./NN of./IN areas./NNS which./WDT could./MD include./VB :./: customer./NN ,./, marketing./NN ,./, segmentation./NN ,./, call-center./NN ,./, underwriting./NN ,./, product./NN ,./, claims./NNS ,./, operations./NNS ,./, fraud./NN ,./, field./NN &./CC territory./JJ management./NN ,./, workforce./NN performance./NN ,./, web./JJ analytics./NNS ,./, etc./FW ../. 
+
+You./PRP 
+-./: In./IN the./DT process./NN of./IN completing./VBG relevant./JJ post-secondary./JJ education./NN in./IN one./CD of./IN the./DT following./JJ disciplines./NNS :./: Statistics./NNS ,./, Mathematics./NNS ,./, Engineering./NNP ,./, Science./NNP ,./, Computer./NNP Science./NNP or./CC Business./NNP Administration./NNP 
+-./: Excellent./NN Excel./NNP proficiency./NN 
+-./: Versatile./NNP user./NN of./IN a./DT variety./NN of./IN mathematical./JJ packages./NNS with./IN a./DT mix./NN of./IN proficiency./NN across./IN :./: SAS./NN ,./, SPSS./NNP ,./, R./NNP ,./, SQL./NNP ,./, Matlab./NNP ,./, VBA./NNP ,./, C++./NNP ,./, Java./NNP 
+-./: A./DT team./NN player./NN ,./, with./IN strong./JJ collaboration./NN skills./NNS 
+-./: Strong./NN analysis./NN and./CC problem./NN solving./NN skills./NNS 
+-./: Self-motivated./JJ and./CC hungry./JJ to./TO learn./VB 
+-./: Ability./NN to./TO manage./VB and./CC report./VB on./IN the./DT status./NN of./IN individual./JJ tasks./NNS 
+-./: Strong./NN communication./NN skills./NNS -./: both./DT verbal./JJ and./CC written./VBN -./: as./IN there./EX will./MD be./VB exposure./NN to./TO leadership./NN both./DT within./IN Data./NNP &./CC Analytics./NNP and./CC across./IN multiple./JJ lines./NNS of./IN business./NN 
+-./: Comfortable./JJ working./VBG in./IN a./DT flexible./JJ ,./, dynamic./JJ and./CC changing./VBG environment./NN 
+-./: Relevant./NN work./NN ,./, school./NN ,./, and/or./JJ volunteering./VBG experience./NN (./( an./DT asset./NN )./) 
+
+About./IN Us./NNP 
+-./: We./PRP are./VBP a./DT leading./VBG Canadian./JJ insurer./NN and./CC financial./JJ institution./NN ../. We./PRP offer./VBP a./DT broad./JJ portfolio./NN of./IN financial./JJ and./CC benefit./NN plan./NN solutions./NNS for./IN individuals./NNS ,./, families./NNS ,./, business./NN owners./NNS and./CC organizations./NNS ../. 
+-./: Great-West./NN ,./, and./CC its./PRP$ subsidiaries./NNS (./( London./NNP Life./NNP and./CC Canada./NNP Life./NNP )./) ,./, are./VBP members./NNS of./IN the./DT Power./NNP Financial./NNP Corporation./NNP group./NN of./IN companies./NNS ,./, which./WDT includes./VBZ sister./NN companies./NNS Investors./NNPS Group./NNP and./CC Mackenzie./NNP Financial./NNP in./IN Canada./NNP and./CC have./VBP operations./NNS in./IN the./DT U.S../NNP and./CC Europe./NNP ../. 
+-./: Check./NN out./IN our./PRP$ amazing./VBG space./NN which./WDT we./PRP share./NN with./IN our./PRP$ Digital./NNP Services./NNPS and./CC Innovation./NNP teams./NNS !./. https./NN :./: //vimeo.com/uxdv/review/148939815/41c2ef4b73./NN 
+
+Sound./NN like./IN the./DT opportunity./NN for./IN you./PRP ?./. 
+Apply./NNP in./IN JobMine./NNP !./. 

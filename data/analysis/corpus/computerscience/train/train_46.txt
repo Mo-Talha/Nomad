@@ -1,0 +1,23 @@
+Candidate./NNP should./MD be./VB familiar./JJ with./IN video./JJ games./NNS ,./, ideally./RB in./IN the./DT RPG./NNP genre./NN ../. A./DT strong./JJ interest./NN and./CC passion./NN is./VBZ virtual./JJ reality./NN is./VBZ an./DT asset./NN ../. We./PRP are./VBP looking./VBG for./IN someone./NN who./WP is./VBZ a./DT fast./JJ learner./NN and./CC capable./JJ of./IN multitasking./VBG ../. As./NNP well./RB ,./, Mirage./NNP VR./NNP is./VBZ looking./VBG for./IN someone./NN who./WP is./VBZ comfortable./JJ with./IN tight./JJ deadlines./NNS and./CC working./VBG under./IN stress./NN ../. Candidate./NNP should./MD be./VB a./DT problem./NN solver./NN who./WP is./VBZ creative./JJ and./CC thinks./NNS outside./IN the./DT box./NN ../. As./IN a./DT member./NN of./IN the./DT team./NN ,./, you./PRP will./MD be./VB expected./VBN to./TO produce./VB work./NN based./VBN on./IN a./DT general./JJ description./NN ../. Candidate./NNP will./MD work./VB closely./RB with./IN the./DT company./NN 's./POS founders./NNS and./CC developers./NNS to./TO build./VB an./DT immersive./JJ fantasy./NN world./NN which./WDT will./MD be./VB showcased./VBN at./IN public./JJ demos./NN to./TO the./DT public./NN as./RB well./RB as./IN industry./NN leaders./NNS ../. 
+
+Responsibilities./NNS 
+-./: Produce./NN 3d./CD models./NNS that./IN look./VBP nice./JJ in./IN Unity./NNP (./( Realtime./NNP shader./NN )./) 
+-./: Quick./NN to./TO learn./VB and./CC work./VB with./IN different./JJ third./JJ party./NN character./NN creation./NN tools./NNS 
+-./: Tweak./NN existing./VBG models./NNS based./VBN on./IN description./NN to./TO ensure./VB consistent./JJ artstyle./NN 
+-./: Autonomy./NN to./TO set./VB the./DT art./JJ direction./NN of./IN the./DT company./NN 's./POS demo./NN experiences./NNS 
+-./: Work./NN closely./RB with./IN the./DT company./NN 's./POS software./NN developers./NNS to./TO build./VB an./DT immersive./JJ fantasy./NN world./NN 
+
+Required./VBN Skills./NNS 
+-./: Proficient./NN with./IN 3D./CD modelling./VBG programs./NNS (./( Maya./NNP ,./, 3ds./CD Max./NNP ,./, Blender./NNP )./) 
+-./: Proficient./NN with./IN image./NN editing./VBG software./NN (./( Photoshop./NNP ,./, Gimp./NNP )./) 
+-./: Familiar./NN with./IN video./NN editing./VBG software./NN (./( Premier./NNP ,./, Vegas./NNP )./) 
+-./: Familiar./NN with./IN 3D./CD modelling./VBG concepts./NNS when./WRB applied./VBN to./TO a./DT video./NN game./NN engine./NN (./( texture./NN maps./NNS ,./, normal./JJ maps./NNS ,./, etc./NN )./) 
+
+Perks./NNS :./: 
+-./: Flexible./JJ work./NN hours./NNS 
+-./: Access./NN to./TO free./JJ coffee./NN ,./, gym./NN ,./, ping-pong./JJ ,./, basketball./NN and./CC shower./NN at./IN work./NN 
+-./: Located./VBN at./IN heart./NN of./IN Downtown./NNP Kitchener./NNP 
+
+Career./NNP Development./NNP And./CC Training./NNP -./: Work./NN around./RB local./JJ startup./NN leaders./NNS and./CC innovators./NNS 
+-./: Gain./NN perspective./NN on./IN both./DT technical./JJ and./CC business./NN development./NN 
+-./: Accumulate./NN experience./NN working./VBG in./IN VR./NNP space./NN 

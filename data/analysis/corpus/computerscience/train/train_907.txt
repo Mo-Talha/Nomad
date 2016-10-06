@@ -1,0 +1,48 @@
+Interested./JJ to./TO learn./VB what./WP it./PRP is./VBZ like./IN to./TO work./VB at./IN Sun./NNP Life./NNP Financial./NNP during./IN a./DT co-op./JJ placement./NN ?./. Reach./VB out./IN to./TO the./DT Sun./NNP Life./NNP Campus./NNP Ambassador./NNP :./: Jenny./NNP Ma./NNP jenny.ma./NN @./NNP sunlife.com./NN Please./NNP also./RB create./VBP a./DT profile./NN in./IN our./PRP$ system./NN when./WRB applying./VBG for./IN a./DT co-op./JJ role./NN by./IN following./VBG this./DT link./NN :./: http./NN :./: //bit.ly/2cNXrz0./NN 
+--./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: -./: 
+Applications./NNS Support./NNP Resource./NNP -./: ICAS./NNP Investment./NNP Operations./NNS 
+
+Role./JJ Summary./NNP :./: 
+We./PRP are./VBP looking./VBG for./IN a./DT resource./NN with./IN a./DT background./NN in./IN client-server./JJ environments./NNS to./TO join./VB the./DT development./NN team./NN within./IN Investments./NNP and./CC Corporate./NNP Applications./NNP Services./NNP (./( ICAS./NNP )./) ../. ICAS./NNP has./VBZ the./DT responsibility./NN to./TO maintain./VB a./DT variety./NN of./IN vendor./NN packages./NNS and./CC in-house./NN developed./NN applications./NNS in./IN support./NN of./IN Investments./NNP ,./, Finance./NNP ,./, Asset./NNP Liability./NNP Management./NNP (./( ALM./NNP )./) ,./, Corporate./NNP Actuarial./NNP ,./, Enterprise./NNP Services./NNPS ,./, Human./NNP Resources./NNPS and./CC Risk./NNP Management./NNP ../. 
+
+The./DT successful./JJ candidate./NN will./MD be./VB an./DT adaptable./JJ individual./NN and./CC will./MD be./VB contributing./VBG as./IN a./DT member./NN of./IN our./PRP$ Investment./NN Operations./NNPS team./NN ,./, supporting./VBG our./PRP$ Investment./NN ,./, ALM./NNP and./CC Risk./NNP applications./NNS ../. She/he./NNP will./MD work./VB effectively./RB with./IN our./PRP$ team./NN of./IN business./NN analysts./NNS ,./, technical./JJ leads./NNS and./CC developers./NNS ,./, to./TO support./VB and./CC maintain./VB our./PRP$ applications./NNS ../. ICAS./NNP is./VBZ a./DT multi-site./JJ team./NN including./VBG the./DT use./NN of./IN offshore./NN development./NN ../. Therefore./IN the./DT successful./JJ candidate./NN must./MD be./VB able./JJ to./TO communicate./VB effectively./RB in./IN this./DT environment./NN ../. 
+
+Main./NN Accountabilities./NNS :./: 
+As./IN part./NN of./IN the./DT Investment./NNP Operations./NNP team./NN ,./, you./PRP will./MD be./VB responsible./JJ for./IN delivering./VBG IT./NNP solutions./VBZ that./IN meet./VB our./PRP$ business./NN partners./NNS './POS needs./NNS ../. 
+
+Some./DT of./IN the./DT specific./JJ responsibilities./NNS are./VBP :./: 
+-./: Support./NN for./IN Security./NNP Requirements./NNP including./VBG analysis./NN and./CC resolution./NN of./IN scan./JJ results./NNS for./IN Investments./NNP and./CC Hyperion./NNP ;./: Active./NNP Directory./NNP changes./NNS 
+-./: Database./NN documentation./NN for./IN Oracle./NNP and./CC MS./NNP SQL./NNP table./JJ information./NN 
+-./: Analysis./NN of./IN and./CC prep./JJ work./NN of./IN our./PRP$ SQL./NNP environment./NN for./IN migration./NN activity./NN 
+-./: Develop./NN and./CC unit./NN test./NN small./JJ enhancements./NNS to./TO our./PRP$ applications./NNS 
+-./: Work./NN with./IN business./NN analysts./NNS and./CC developers./NNS with./IN direction./NN and./CC support./NN from./IN technical./JJ leads./NNS to./TO meet./VB operational./JJ demands./NNS ,./, requests./NNS and./CC investigations./NNS 
+-./: Ensure./NN that./WDT day./NN to./TO day./NN activities./NNS that./WDT are./VBP necessary./JJ to./TO 'keep./VB the./DT lights./NNS on./IN './'' are./VBP completed./VBN successfully./RB 
+
+Competencies./NNS :./: 
+-./: Demonstrated./VBN analysis./NN skills./NNS on./IN distributed./JJ platforms./NNS 
+-./: Exposure./NN to./TO relational./JJ databases./NNS (./( MS./NNP SQL./NNP Server./NNP )./) and./CC stored./VBD procedures./NNS 
+-./: Demonstrated./VBD ability./NN to./TO learn./VB technologies./NNS 
+-./: Demonstrated./VBD problem./NN solving./VBG skills./NNS with./IN ability./NN to./TO analyze./VB situations/problems./NNS systematically./RB and./CC deliver./VB effective./JJ right-sized./JJ solutions./NNS in./IN a./DT timely./JJ manner./NN 
+-./: Ability./NN to./TO work./VB independently./RB as./RB well./RB as./IN being./VBG a./DT strong./JJ team./NN player./NN with./IN the./DT ability./NN to./TO work./VB effectively./RB in./IN a./DT multi-site./JJ environment./NN 
+-./: Solid./NN verbal./NN and./CC written./VBN communications./NNS skills./NNS 
+
+Assets./NNS :./: 
+Knowledge./NNP or./CC experience./NN of./IN any./DT of./IN the./DT following./NN :./: 
+-./: Exposure./NN to./TO client-server./JJ environments./NNS and/or./VBP web./NNS based./VBN applications./NNS 
+o./NN Windows./VBZ 2012./CD servers./NNS 
+o./NN Windows./VBZ 2008./CD servers./NNS 
+-./: Microsoft./NNP SQL./NNP Server./NNP and/or./VBP Oracle./NNP DBMS./NNP experience./NN 
+o./JJ MS./NNP SQL./NNP 2012./CD 
+o./JJ Oracle./NNP 12.x./CD 
+-./: Technical./NN writing./NN 
+-./: Exposure./NN to./TO PowerCenter./NNP or./CC similar./JJ ETL./NNP tools./NNS 
+-./: Microsoft./NN .Net./NN (./( VB.NET./NNP ,./, ASP./NNP ,./, C./NNP #./# )./) 
+-./: Crystal./NN Enterprise./NN ,./, Crystal./NNP Reports./NNPS or./CC other./JJ reporting./NN tools./NNS 
+-./: Knowledge./NN of./IN Citrix./NNP 6.5./CD XenApp./NN 
+-./: Mainframe./NN JCL./NNP and./CC Zeke./NNP 
+-./: Background./NN of./IN Change./NNP Management./NNP and./CC Incident./NNP Management./NNP processes./NNS 
+-./: ITIL./NN Foundations./NNS V3./VBP 
+-./: Knowledge./NN of./IN source./NN code./NN management./NN (./( PVCS./NNP Dimensions./NNP )./) 
+
+Notes./NNS /./VBP Unique./JJ Requirements./NNS :./: 
+-./: Occasional./JJ weekend./NN work./NN in./IN support./NN of./IN validation./NN activities./NNS 

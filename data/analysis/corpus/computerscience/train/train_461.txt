@@ -1,0 +1,24 @@
+Blue./NNP Coat./NNP (./( recently./RB acquired./VBN by./IN Symantec./NNP )./) 
+
+Our./PRP$ development./NN team./NN is./VBZ seeking./VBG a./DT talented./JJ software./NN developer./NN to./TO work./VB on./IN cutting-edge./JJ security./NN features./NNS for./IN our./PRP$ Web./NNP Application./NNP Firewall./NNP solution./NN ../. The./DT role./NN includes./VBZ C++./NNP development./NN and./CC web./JJ application./NN security./NN initiatives./NNS ../. This./DT is./VBZ a./DT great./JJ opportunity./NN if./IN you./PRP are./VBP interested./JJ in./IN solving./VBG security./NN problems./NNS and./CC working./VBG on./IN enterprise-grade./JJ code./NN that./WDT protects./VBZ against./IN emerging./VBG threat./NN vectors./NNS on./IN an./DT industry-leading./JJ technology./NN platform./NN ../. 
+
+Required./VBN Skills./NNS and./CC Experience./NN 
+
+We./PRP are./VBP looking./VBG for./IN computer./NN science./NN ,./, computer./NN engineering./NN ,./, or./CC software./NN engineering./NN students./NNS with./IN interest./NN in./IN professional./JJ software./NN development./NN ../. 
+
+Candidate./NN requirements./NNS include./VBP :./: 
+Object-orientated./JJ design./NN and./CC development./NN in./IN C++./NNP ../. 
+Strong./JJ analytical./JJ and./CC problem./NN solving./NN skills./NNS ../. 
+Good./JJ communication./NN skills./NNS ../. 
+Working./VBG knowledge./NN of./IN Layer./NNP 7./CD (./( HTTP./NNP )./) web./NN technology./NN ../. 
+
+The./DT following./NN would./MD be./VB a./DT real./JJ plus./NN for./IN the./DT position./NN :./: 
+Experience./NN with./IN web./JJ application./NN attack./NN and./CC defense./NN patterns./NNS ../. 
+Knowledge./NNP of./IN scripting./VBG languages./NNS like./IN Python./NNP ../. 
+Working./VBG in./IN a./DT Linux-based./JJ development./NN environment./NN ../. 
+
+The./DT work./NN environment./NN is./VBZ modern./JJ and./CC casual./JJ ../. We./PRP offer./VBP a./DT competitive./JJ salary./NN ,./, free./JJ snacks/drinks./NNS ,./, a./DT games./NNS room./NN and./CC an./DT active./JJ social./JJ committee./NN to./TO keep./VB things./NNS interesting./VBG during./IN and./CC after./IN work./NN ../. 
+
+About./IN Blue./NNP Coat./NNP (./( recently./RB acquired./VBN by./IN Symantec./NNP )./) 
+
+Symantec./NNP is./VBZ a./DT global./JJ leader./NN in./IN providing./VBG security./NN ,./, information./NN management./NN solutions./NNS to./TO help./VB our./PRP$ customers./NNS --./: from./IN consumers./NNS and./CC small./JJ businesses./NNS to./TO the./DT largest./JJS global./JJ organizations./NNS --./: secure./NN and./CC manage./VB their./PRP$ information./NN against./IN more./JJR risks./NNS at./IN more./JJR points./NNS ,./, more./RBR completely./RB and./CC efficiently./RB than./IN any./DT other./JJ company./NN ../. Our./PRP$ company./NN 's./POS unique./JJ focus./NN is./VBZ to./TO eliminate./VB risks./NNS to./TO information./NN ,./, technology./NN and./CC processes./VBZ independent./JJ of./IN the./DT device./NN ,./, platform./NN ,./, interaction./NN or./CC location./NN ../. 

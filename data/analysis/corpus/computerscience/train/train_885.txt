@@ -1,0 +1,63 @@
+Join./VB the./DT Global./NNP Community./NNP of./IN Scotiabankers./NNP to./TO help./VB customers./NNS become./VB financially./RB better./JJR off./RP ../. 
+
+Scotiabank./NNP is./VBZ a./DT premier./JJ financial./JJ institution./NN and./CC Canada./NNP 's./POS most./JJS international./JJ bank./NN recognized./VBN as./IN a./DT Best./NNP Workplace./NNP ,./, in./IN Canada./NNP ,./, Mexico./NNP ,./, El./NNP Salvador./NNP ,./, Costa./NNP Rica./NNP ,./, Puerto./NNP Rico./NNP ,./, Dominican./NNP Republic./NNP ,./, Panama./NNP ,./, Peru./NNP ,./, Chile./NNP and./CC Latin./NNP America./NNP by./IN the./DT Great./JJ Place./NN to./TO Work./VB Institute./NNP ../. 
+
+A./DT multinational./JJ winning./NN team./NN 
+Scotiabank./NNP is./VBZ a./DT leading./JJ multinational./JJ financial./JJ services./NNS provider./NN and./CC Canada./NNP 's./POS most./JJS international./JJ bank./NN ../. Since./IN welcoming./VBG our./PRP$ first./JJ customers./NNS in./IN Halifax./NNP ,./, Nova./NNP Scotia./NNP ,./, in./IN 1832./CD ,./, Scotiabank./NNP has./VBZ continued./VBN to./TO expand./VB its./PRP$ global./JJ reach./NN ../. Today./NN ,./, through./IN our./PRP$ team./NN of./IN more./JJR than./IN 86,000./CD employees./NNS ,./, Scotiabank./NNP and./CC its./PRP$ affiliates./NNS offer./VBP a./DT broad./JJ range./NN of./IN products./NNS and./CC services./NNS ,./, including./VBG personal./JJ and./CC commercial./JJ banking./NN ,./, wealth./NN management./NN ,./, corporate./JJ and./CC investment./NN banking./NN ,./, to./TO over./IN 21./CD million./CD customers./NNS in./IN more./JJR than./IN 55./CD countries./NNS around./IN the./DT world./NN ../. 
+
+Corporate./JJ Social./NNP Responsibility./NNP 
+Scotiabank./NNP helps./VBZ to./TO build./VB bright./JJ futures./NNS worldwide./VBP through./IN ethical./JJ banking./NN practices./NNS ,./, environmental./JJ awareness./NN and./CC a./DT commitment./NN to./TO communities./NNS ../. 
+
+ASSOCIATE./JJ PROGRAMMER./NNP ANALYST./NNP CO-OP./NNP STUDENT./NNP 
+LOCATION./NN :./: Toronto./NNP ,./, ON./NNP 
+Wealth./NNP Management./NNP Advisor./NNP Solutions./NNP 
+
+WORK./JJ TERM./NNP :./: 4./CD month./NN Winter./NNP Co-op./NNP work./NN term./NN (./( January-April./JJ 2017./CD )./) 
+
+POSITION./NNP SUMMARY./NNP :./: 
+The./DT Wealth./NNP Management./NNP Technology./NNP Solutions./NNP Department./NNP is./VBZ dedicated./VBN to./TO developing./VBG and./CC integrating./VBG creative./JJ automated./JJ solutions./NNS for./IN Scotiabank./NNP 's./POS Wealth./NNP Management./NNP Brokerage./NNP and./CC Private./NNP Client./NNP Groups./NNP ../. Come./NNP and./CC join./VB a./DT dynamic./JJ and./CC high./JJ performing./VBG team./NN of./IN technical./JJ business./NN analysts./NNS and./CC application./NN developers./NNS engaged./VBN in./IN delivering./VBG high./JJ quality./NN applications./NNS to./TO our./PRP$ Wealth./NNP Management./NNP Brokerage./NNP clients./NNS ../. Experience./VB a./DT great./JJ team./NN environment./NN full./JJ of./IN learning./VBG opportunities./NNS where./WRB you./PRP will./MD be./VB highly./RB valued./VBN and./CC given./VBN the./DT chance./NN to./TO develop./VB key./JJ skills./NNS both./CC as./IN a./DT technology./NN professional./JJ and./CC as./IN a./DT future./JJ leader./NN ../. You./PRP will./MD also./RB be./VB offered./VBN opportunities./NNS to./TO connect./VB with./IN technology./NN and./CC business./NN line./NN managers./NNS allowing./VBG you./PRP to./TO exhibit./VB your./PRP$ creativity./NN while./IN helping./VBG you./PRP develop./VB your./PRP$ communication./NN and./CC customer./NN relationship./NN skills./NNS ../. 
+
+KEY./JJ ACCOUNTABILITIES./NNP :./: 
+-./: Analysis./NN ,./, design./NN and./CC development./NN of./IN scripts./NNS using./VBG SQL./NNP ,./, PL/SQL./NNP stored./VBD procedures./NNS 
+-./: Analysis./NN ,./, design./NN and./CC development./NN of./IN scripts./NNS using./VBG UNIX./NNP ,./, Perl./NNP &./CC PHP./NNP 
+-./: Work./NN with./IN development./NN team./NN ,./, test./NN team./NN ,./, business./NN and./CC vendors./NNS to./TO resolve./VB defects./NNS and./CC data./NNS issues./NNS 
+-./: Assist./NN in./IN project./NN documentation./NN and./CC other./JJ project./NN administration./NN activities./NNS 
+-./: Analysis./NN and./CC design./NN based./VBN on./IN business./NN requirements./NNS 
+-./: Develop./NN using./VBG various./JJ tools./NNS such./JJ as./IN Eclipse./NNP ,./, PL/SQL./NNP Developer./NNP ,./, Tortoise./NNP SVN./NNP 
+-./: Work./NN with./IN a./DT Version./NNP Control./NNP system./NN such./JJ as./IN Apache./NNP Subversion./NNP 
+-./: Work./NN with./IN Problem./NNP Log./NNP Management./NNP Tools./NNP such./JJ as./IN HP./NNP Quality./NNP Centre./NNP and./CC Jira./NNP 
+-./: Design./NN reports./NNS using./VBG tools./NNS such./JJ as./IN i-net./JJ Crystal-Clear./JJ Report./NNP Designer./NNP 
+
+ESSENTIAL./JJ CRITERIA./NNS :./: 
+-./: Eagerness./NN to./TO learn./VB and./CC thrives./NNS on./IN challenge./NN 
+-./: Excellent./NN communication./NN skills./NNS ,./, both./DT oral./JJ and./CC written./VBN 
+-./: Excellent./NN interpersonal./JJ skills./NNS and./CC a./DT good./JJ work./NN ethic./JJ 
+-./: Strong./JJ analytical./JJ ,./, problem./NN solving./NN and./CC troubleshooting./NN skills./NNS 
+-./: Previous./JJ experience./NN with./IN relational./JJ database./NN systems./NNS such./JJ as./IN Oracle./NNP ,./, SQL./NNP Server./NNP ,./, Sybase./NNP 
+-./: Working./VBG knowledge./NN of./IN PL/SQL./NNP stored./VBD procedures./NNS ,./, UNIX./NNP shell./NN scripting./NN ,./, database./NN modeling./NN 
+-./: Previous./JJ programming./VBG experience./NN and./CC knowledge./NN of./IN object-oriented./JJ programming./NN methodologies./NNS 
+
+DESIRABLE./NNP (./( BUT./NNP NOT./NNP CRITICAL./NNP )./) CRITERIA./NNP :./: 
+-./: Previous./NN on./IN the./DT job./NN developer/analyst./NN experience./NN 
+-./: Previous./JJ experience./NN or./CC understanding./NN of./IN ETL./NNP processing./NN 
+-./: Programming./VBG experience./NN in./IN Java./NNP or./CC similar./JJ language./NN 
+-./: Familiarity./NN with./IN the./DT Spring./NNP Java./NNP framework./NN 
+-./: Previous./JJ banking./NN ,./, wealth./NN management./NN ,./, brokerage./NN or./CC financial./JJ industry./NN experience./NN 
+-./: Previous./JJ experience./NN with./IN automated./JJ batch./NN tools./NNS such./JJ as./IN Tidal./NNP Enterprise./NNP Scheduler./NNP 
+
+WORKING./JJ ENVIRONMENT./NN :./: 
+-./: Business./NN Casual./NNP Attire./NNP 
+-./: Normal./NN business./NN hours./NNS 
+-./: Downtown./NN Toronto./NNP in./IN the./DT heart./NN of./IN the./DT financial./JJ district./NN 
+-./: Close./NN to./TO shopping./NN ,./, GO./NNP trains./VBZ ,./, subway./NN and./CC buses./NNS 
+-./: Scotiabank./NN Co-op./JJ Orientation./NN :./: opportunity./NN to./TO meet./VB and./CC network./NN with./IN all./DT co-op./JJ students./NNS working./VBG at./IN Scotiabank./NNP each./DT term./NN ../. 
+-./: Opportunity./NN to./TO get./VB involved./VBN in./IN the./DT Scotiabank./NNP Co-op./NNP Social./NNP Committee./NNP ../. 
+
+Notice./NNP to./TO all./DT interested./JJ students./NNS :./: 
+Please./NNP follow./VB the./DT link./NN below./IN to./TO apply./VB directly./RB to./TO the./DT Scotiabank./NNP Careers./NNP site./NN ../. To./TO be./VB considered./VBN for./IN this./DT role./NN ,./, you./PRP MUST./VBP apply./VB using./VBG this./DT link./NN ../. 
+
+http./NN :./: //scotiabank.hodesiq.com/apply.aspx./NN ?./. jobid=51614./NN 
+
+
+To./TO learn./VB more./JJR about./IN Scotiabank./NNP and./CC to./TO start./VB your./PRP$ amazing./VBG career./NN visit./NN www.scotiabank.com/campus./NN 
+Scotiabank./NNP is./VBZ an./DT equal./JJ opportunity./NN employer./NN and./CC welcomes./NNS applications./NNS from./IN all./DT interested./JJ parties./NNS ../. However./RB ,./, only./RB those./DT candidates./NNS selected./VBN for./IN an./DT interview./NN will./MD be./VB contacted./VBN ../. 

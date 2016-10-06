@@ -1,0 +1,14 @@
+This./DT is./VBZ a./DT fantastic./JJ opportunity./NN to./TO join./VB Microdea./NNP (./( www.microdea.com./NN )./) ,./, named./VBN as./IN one./CD of./IN the./DT fastest./JJS growing./VBG software./NN companies./NNS in./IN Canada./NNP in./IN 2014./CD and./CC 2015./CD ../. 
+
+Do./VBP you./PRP want./VB a./DT real./JJ dev./NN job./NN ?./. Coding./VBG daily./RB with./IN real./JJ commits./NNS ?./. Given./VBN meaningful./JJ work./NN ?./. Want./VBP to./TO develop./VB your./PRP$ skills./NNS ?./. Want./VBP to./TO have./VB exposure./NN to./TO relevant./VB ,./, current./JJ technologies./NNS that./WDT are./VBP in./IN demand./NN ?./. 
+
+Microdea./NNP provides./VBZ an./DT excellent./JJ environment./NN to./TO learn./VB while./IN doing./VBG ../. Here./RB 's./VBZ some./DT of./IN the./DT technologies./NNS we./PRP have./VBP in./IN play./NN :./: 
+
+Framework./NN :./: .Net./JJ 4.5./CD ,./, C./NNP #./# ,./, ASP.NET./NNP MVC5./NNP ,./, ASP.NET./NNP Web./NNP API./NNP 2./CD 
+Data./NNS tier./NN :./: Entity./NN Framework./NNP ,./, SQLServer./NNP 
+Source./NN Control/Deployment./NN :./: Subversion./NN ,./, TeamCity./NNP ,./, Wix./NNP ,./, Octopus./NNP 
+Client./JJ side./NN :./: Winform/WPF./NN with./IN custom./NN framework./NN ,./, Telerik./NNP Kendo./NNP UI./NNP ,./, WPF./NNP Controls./NNP ,./, A./NNP SPA./NNP framework./NN based./VBN on./IN AngularJS./NNP 2.0./CD with./IN an./DT MVVM./NNP pattern./NN ,./, TypeScript./NNP ,./, JavaScript./NNP ,./, HTML5./NNP ,./, CSS3./NNP 
+
+We./PRP want./VBP you./PRP to./TO work./VB hard./RB but./CC also./RB play./VB hard./RB ../. We./PRP 're./VBP in./IN premier./JJ space./NN in./IN Markham./NNP ../. We./PRP have./VBP ping./VBG pong./NN ,./, Playstation./NNP ,./, Wii./NNP ,./, bi-weekly./JJ catered./JJ lunches./NNS and./CC fun./JJ company./NN events./NNS (./( like./IN golf./NN ,./, company./NN baseball./NN tournament./NN ,./, escape./NN room./NN ,./, etc./NN )./) ../. 
+
+If./IN you./PRP 're./VBP looking./VBG for./IN an./DT exceptional./JJ opportunity./NN ,./, then./RB you./PRP 've./VBP found./VBN it./PRP at./IN Microdea./NNP ../. 

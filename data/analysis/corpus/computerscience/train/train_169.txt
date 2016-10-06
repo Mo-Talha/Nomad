@@ -1,0 +1,16 @@
+Summary./NN :./: 
+Develops./NNP information./NN systems./NNS by./IN designing./VBG ,./, developing./VBG distributed./VBN application./NN solutions./NNS ../. 
+
+Responsibilities./NNS :./: 
+-./: Documents./NNS and./CC demonstrates./NNS solutions./NNS by./IN developing./VBG documentation./NN ,./, flowcharts./NNS ,./, layouts./NNS ,./, diagrams./NNS ,./, charts./NNS ,./, code./NN comments./NNS and./CC clear./JJ code./NN ../. 
+-./: Improves./NNS operations./NNS by./IN conducting./VBG systems./NNS analysis./NN ;./: recommending./VBG changes./NNS in./IN policies./NNS and./CC procedures./NNS ../. 
+-./: Updates./NNS job./NN knowledge./NN by./IN studying./VBG state-of-the-art./JJ development./NN tools./NNS ,./, programming./VBG techniques./NNS ,./, and./CC computing./VBG equipment./NN ;./: participating./VBG in./IN educational./JJ opportunities./NNS ;./: reading./VBG professional./JJ publications./NNS ;./: maintaining./VBG personal./JJ networks./NNS ;./: participating./VBG in./IN professional./JJ organizations./NNS ../. 
+-./: Provides./NNS information./NN by./IN collecting./VBG ,./, analyzing./VBG ,./, and./CC summarizing./VBG development./NN and./CC service./NN issues./NNS ../. 
+-./: Accomplishes./NNS engineering./NN and./CC organization./NN mission./NN by./IN completing./VBG related./JJ results./NNS as./IN needed./VBN ../. 
+
+Required./VBN Skills./NNS 
+-./: software./NN development./NN experience./NN ,./, preferably./RB on./IN a./DT Microsoft./NNP (./( .NET./NNP C./NNP #./# ,./, SQL./NNP Server./NNP )./) stack./NN 
+-./: Working./VBG knowledge./NN of./IN the./DT general./JJ web./NN based./VBN landscape./NN ,./, architectures./NNS ,./, trends./NNS ,./, and./CC emerging./VBG technologies./NNS 
+-./: Solid./JJ understanding./NN of./IN the./DT full./JJ software./NN development./NN life./NN cycle./NN ../. 
+-./: General./JJ Programming./NNP Skills./NNP 
+-./: Analyzing./NN Information./NN 

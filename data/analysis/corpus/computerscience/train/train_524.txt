@@ -1,0 +1,59 @@
+In./IN addition./NN to./TO your./PRP$ resume./JJ please./VB include./VB a./DT copy./NN of./IN an./DT up./NN to./TO date./NN transcript./NN and./CC two./CD reference./NN letters./NNS (./( personal./JJ and./CC professional./JJ )./) by./IN the./DT posting./VBG close./JJ date./NN to./TO ensure./VB consideration./NN for./IN employment./NN at./IN Canadian./JJ Nuclear./NNP Laboratories./NNPS ../. 
+
+Reference./NN Requirements./NNS :./: 
+One./CD Personal./NNP (./( can./MD not./RB be./VB a./DT relative./NN )./) 
+Professional./JJ Reference./NNP (./( must./MD have./VB supervised./VBN and./CC be./VB able./JJ to./TO speak./VB to./TO the./DT applicant./NN 's./POS work./NN performance./NN )./) 
+Have./NNP known./VBN the./DT candidate./NN for./IN five./CD years./NNS to./TO obtain./VB clearance./NN (./( reliability./NN status./NN )./) 
+NOTE./NN :./: If./IN the./DT professional./JJ reference./NN has./VBZ not./RB known./VBN the./DT candidate./NN for./IN more./JJR than./IN five./CD years./NNS please./VB add./VB an./DT additional./JJ personal./JJ reference./NN ../. Totaling./NNP ,./, one./CD professional./JJ reference./NN and./CC two./CD personal./JJ references./NNS ../. 
+__________________________________________./NN 
+
+Description./NN 
+
+
+POSITION./NN :./: Site./JJ Work./NNP Management./NNP IT./NNP Coop./NNP Student./NNP 
+
+DEPARTMENT./NN :./: Site./NNP Work./NNP Management./NNP 
+
+DURATION./NN :./: 4./CD Months./NNP (./( January./NNP -./: April./NNP 2017./CD )./) 
+
+NUMBER./NNP OF./NNP POSITIONS./NNP :./: 1./CD 
+
+DISIPLINE./NN :./: Computer./NNP Technician./NNP ,./, Computer./NNP Science./NNP (./( 2./CD nd./RB -3./CD rd./JJ year./NN student./NN )./) 
+
+
+
+INTRO./NN 
+
+The./DT Work./NNP Management./NNP and./CC Control./NNP Team./NNP provide./VB centralized./JJ maintenance./NN planning./NN and./CC scheduling./NN services./NNS for./IN the./DT CRL./NNP Site./NNP ../. 
+
+The./DT principle./NN goal./NN of./IN the./DT Work./NNP Management./NNP and./CC Control./NNP Department./NNP is./VBZ to./TO manage./VB the./DT required./JJ site./NN maintenance./NN activities./NNS by./IN prioritizing./VBG ,./, planning./NN and./CC scheduling./VBG jobs./NNS ../. The./DT aim./NN of./IN this./DT service./NN is./VBZ to./TO provide./VB work./NN coordination./NN and./CC implementation./NN effectiveness./NN at./IN the./DT lowest./JJS available./JJ cost./NN while./IN ensuring./VBG regulatory./JJ compliance./NN and./CC configuration./NN management./NN ../. 
+
+Work./NNP Management./NNP and./CC Control./NNP is./VBZ the./DT system./NN administrator./NN for./IN the./DT Enterprise./NNP Asset./NNP Management./NNP System./NNP (./( EAMS./NNP )./) ../. Avantis./NNP provides./VBZ an./DT asset./NN and./CC maintenance./NN management./NN system./NN for./IN CRL./NNP 's./POS buildings./NNS ,./, systems./NNS and./CC equipment./NN that./WDT ensures./VBZ physical./JJ assets./NNS perform./VBP as./IN intended./VBN combining./NN safety./NN and./CC environmental./JJ requirements./NNS ../. 
+
+DUTIES./NNS :./: 
+
+-Assist./NN with./IN CMMS./NNP project./NN activities./NNS ,./, i.e./NN ../. data./NNS capture./NN and./CC scrubbing./NN ,./, writing./VBG test./NN cases./NNS 
+-Providing./VBG assistance./NN to./TO all./DT team./NN members./NNS with./IN project./JJ documentation./NN in./IN the./DT MS./NNP Office./NNP Tools./NNP Suite./NNP and./CC Visio./NNP 
+-Testing./NN of./IN the./DT system./NN 
+-Manage./VB the./DT SharePoint./NNP website./NN 
+-Access./NN permissions./NNS 
+-Keeping./VBG document./JJ library./JJ up-to-date./NN 
+-Keep./VB the./DT project./NN task./NN register./NN updated./VBN from./IN meetings./NNS 
+-Keep./VB some./DT of./IN the./DT project./NN documentation./NN up-to-date./JJ (./( e.g./JJ ../. Org./NNP Chart./NNP )./) 
+
+QUALIFICAITONS./NN :./: 
+
+-Strong./RB computer./NN 
+-Competent./NN in./IN MS./NNP Office./NNP Suite./NNP of./IN tools./NNS 
+-Ability./NN to./TO work./VB with./IN minimal./JJ supervision./NN 
+-Organizational./JJ skills./NNS 
+-Consistent./NN ,./, careful./JJ attention./NN to./TO detail./VB 
+-Experience./NN working./VBG in./IN a./DT project./NN team./NN environment./NN 
+-Team./NN player./NN 
+
+CNL./NNP has./VBZ an./DT Employment./JJ Equity./NN Program./NNP and./CC encourages./VBZ applications./NNS from./IN women./NNS ,./, Aboriginal./NNP Peoples./NNP ,./, visible./JJ minorities./NNS and./CC persons./NNS with./IN disabilities./NNS ../. 
+
+
+Please./VB apply./VB to./TO :./: 
+
+http./NN :./: //trr.tbe.taleo.net/trr01/ats/careers/requisition.jsp./NN ?./. org=CNLLTD./NN &./CC cws=1./NN &./CC rid=1426./NN 

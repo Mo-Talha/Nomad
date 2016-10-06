@@ -1,0 +1,30 @@
+NOTE./NN :./: This./DT is./VBZ a./DT 4./CD or./CC 8./CD month./NN work./NN term./NN option./NN ../. Please./NNP indicate./JJ availability./NN with./IN application./NN ../. You./PRP are./VBP responsible./JJ for./IN ensuring./VBG 8./CD month./NN eligibility./NN before./IN applying./VBG ../. Please./NNP discuss./VB your./PRP$ work/study./NN sequence./NN flexibility./NN with./IN your./PRP$ academic./JJ advisor./NN as./RB soon./RB as./IN possible./JJ ../. 
+
+Profile./NN 
+
+WeMesh./JJ combines./NNS your./PRP$ two./CD favorite./JJ mobile./JJ activities./NNS -./: watching./VBG YouTube./NNP and./CC chatting./VBG via./IN text./NN and./CC VoIP./NNP -./: into./IN one./CD exciting./VBG new./JJ app./NN ../. Experience./VB your./PRP$ favorite./JJ videos./NNS in./IN perfect./JJ sync./NN with./IN all./DT your./PRP$ friends./NNS while./IN messaging./VBG !./. If./IN you./PRP and./CC your./PRP$ friends./NNS are./VBP in./IN the./DT same./JJ place./NN ,./, WeMesh./NNP turns./VBZ your./PRP$ phones./NNS into./IN an./DT instant./JJ speaker./NN system./NN ,./, courtesy./NN of./IN our./PRP$ unrivaled./JJ playback./NN synchronization./NN engine./NN ../. With./IN WeMesh./NNP ,./, your./PRP$ sound./NN system./NN is./VBZ as./RB big./JJ as./IN your./PRP$ party./NN is./VBZ ../. 
+
+Summary./JJ 
+
+WeMesh./JJ combines./NNS your./PRP$ two./CD favorite./JJ mobile./JJ activities./NNS -./: watching./VBG YouTube./NNP and./CC chatting./VBG via./IN text./NN and./CC VoIP./NNP -./: into./IN one./CD exciting./VBG new./JJ app./NN ../. Experience./VB your./PRP$ favorite./JJ videos./NNS in./IN perfect./JJ sync./NN with./IN all./DT your./PRP$ friends./NNS while./IN messaging./VBG !./. If./IN you./PRP and./CC your./PRP$ friends./NNS are./VBP in./IN the./DT same./JJ place./NN ,./, WeMesh./NNP turns./VBZ your./PRP$ phones./NNS into./IN an./DT instant./JJ speaker./NN system./NN ,./, courtesy./NN of./IN our./PRP$ unrivaled./JJ playback./NN synchronization./NN engine./NN ../. With./IN WeMesh./NNP ,./, your./PRP$ sound./NN system./NN is./VBZ as./RB big./JJ as./IN your./PRP$ party./NN is./VBZ ../. 
+
+Responsibilities./NNS 
+
+-Design./NN and./CC enhance./NN digital./JJ interfaces./NNS and./CC user./JJ experience./NN 's./POS for./IN the./DT WeMesh./NNP mobile./JJ application./NN 
+-Conceive./JJ ,./, storyboard./RB ,./, design./NN ,./, prototype./NN and./CC build./VB compelling./VBG user./JJ experiences./NNS and./CC user./NN interfaces./NNS 
+-Produce./NN mockups./NNS to./TO be./VB used./VBN by./IN developers./NNS for./IN the./DT final./JJ product./NN 
+-Work./NN with./IN developers./NNS to./TO implement./VB your./PRP$ designs./NNS 
+-./: Document./NN user./NN interface./NN requirements./NNS 
+-./: Monitor./NN and./CC track./NN project./NN progress./NN through./IN project./NN management./NN software./NN (./( Trello./NNP )./) 
+-Contribute./NN to./TO internal./JJ UI./NNP standards./NNS and./CC best./JJS practices./NNS 
+
+Required./VBN Skills./NNS 
+
+-./: A./DT portfolio./NN exhibiting./VBG your./PRP$ visual./JJ design./NN ,./, UI/UX./NNP design./NN ,./, and/or./JJ application./NN work./NN 
+-./: Design./NN skills./NNS and./CC experience./NN with./IN tools./NNS such./JJ as./IN Photoshop./NNP ,./, Illustrator./NNP ,./, Sketch./NNP ,./, etc./NN ../. 
+-./: Understanding./NN of./IN CSS./NNP ,./, HTML./NNP 5./CD ,./, Javascript./NNP 
+-./: Strong./JJ wire-framing./JJ skills./NNS 
+-./: Experience./NN with./IN rapid./JJ iteration./NN design./NN workflows./NNS and./CC agile./JJ work./NN methods./NNS 
+-./: Comfortable./NN with./IN designing./VBG for./IN multiple./JJ platforms./NNS 
+-./: Excellent./NN communication./NN and./CC collaboration./NN skills./NNS 
+-./: Able./NN to./TO consider./VB and./CC incorporate./VB feedback./NN 

@@ -1,0 +1,30 @@
+Autodesk./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Oct../NNP 20./CD ,./, 2016./CD from./IN 11:30./CD AM./NNP -./: 1:30./CD PM./NNP at./IN Davis./NNP Centre./NNP 1301./CD ../. Please./VB plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+_________________________________________________./NN 
+
+This./DT is./VBZ your./PRP$ opportunity./NN to./TO join./VB the./DT engineering./NN team./NN developing./VBG Autodesk./NNP Maya./NNP ,./, the./DT world./NN 's./POS leading./JJ modeling./NN ,./, animation./NN ,./, and./CC rendering./VBG software./NN package./NN ../. Maya./NNP has./VBZ been./VBN used./VBN in./IN every./DT Academy./NNP Award./NNP winning./NN film./NN for./IN Best./NNP Visual./NNP Effects./NNPS for./IN the./DT last./JJ 20./CD years./NNS ../. 
+
+As./IN part./NN of./IN the./DT Maya./NNP animation./NN team./NN ,./, you./PRP 'll./MD be./VB exposed./VBN to./TO a./DT huge./JJ variety./NN of./IN computer./NN graphics./NNS and./CC software./NN engineering./NN problems./NNS ranging./VBG from./IN creating./VBG new./JJ tools/workflows./NNS ,./, algorithm./NN development./NN ,./, performance./NN optimization./NN and./CC tuning./NN ,./, to./TO digging./VBG deep./RB into./IN new./JJ technologies./NNS ../. 
+To./TO be./VB successful./JJ in./IN this./DT role./NN ,./, you./PRP 'll./MD need./VB a./DT solid./JJ foundation./NN in./IN programming./NN ,./, good./JJ troubleshooting./NN skills./NNS ,./, and./CC a./DT desire./NN to./TO roll./VB up./RP your./PRP$ sleeves./NNS and./CC get./VB stuff./NN done./VBN -./: no./DT matter./NN the./DT challenge./NN ../. 
+
+This./DT is./VBZ your./PRP$ chance./NN to./TO work./VB with./IN a./DT talented./JJ development./NN team./NN on./IN problems./NNS impacting./VBG some./DT of./IN the./DT world./NN 's./POS biggest./JJS film./NN ,./, games./NNS ,./, and./CC TV./NN studios./NNS !./. 
+
+What./WP will./MD you./PRP do./VB ?./. 
+You./PRP 'll./MD work./VB with./IN a./DT team./NN to./TO develop./VB animation./NN and./CC rigging./VBG solutions./NNS for./IN Film./NNP &./CC TV./NN ../. 
+
+What./WP are./VBP we./PRP looking./VBG for./IN ?./. 
+-./: Strong./NN software./NN development./NN and./CC object-oriented./JJ design./NN skills./NNS 
+-./: Experience./NN with./IN C++./NNP and./CC Python./NNP 
+-./: Great./NN communication./NN skills./NNS and./CC proven./JJ ability./NN to./TO work./VB as./IN part./NN of./IN a./DT team./NN 
+-./: Understanding./NN of./IN spoken./JJ and./CC written./VBN English./JJ 
+
+What./WP would./MD make./VB you./PRP even./RB more./RBR awesome./JJ for./IN this./DT role./NN ?./. 
+-./: Experience./NN with./IN technologies./NNS for./IN Cloud-based./JJ applications./NNS 
+-./: Knowledge./NN of./IN a./DT 3D./CD modeling./NN ,./, animation./NN and./CC rendering./NN applications./NNS 
+-./: Experience./NN with./IN GL./NNP /./NNP WebGL./NNP /./NNP DirectX./NNP /./NNP Vulkan./NNP /./NNP Metal./NNP 
+-./: Experience./NN using./VBG the./DT Maya./NNP SDK/API./NNP or./CC MEL./NNP 
+-./: Cross-platform./NN development./NN experience./NN (./( Windows./NNP ,./, Linux./NNP ,./, OS./NNP X./NNP )./) 
+-./: Familiarity./NN with./IN the./DT Agile./NNP development./NN methodology./NN 
+-./: Multilingual./NN 
+
+Where./WRB ?./. 
+-./: This./DT internship./NN can./MD be./VB held./VBN in./IN our./PRP$ Toronto./NNP or./CC Montreal./NNP offices./NNS 

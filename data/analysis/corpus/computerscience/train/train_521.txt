@@ -1,0 +1,39 @@
+In./IN addition./NN to./TO your./PRP$ resume./JJ please./VB include./VB a./DT copy./NN of./IN an./DT up./NN to./TO date./NN transcript./NN and./CC two./CD reference./NN letters./NNS (./( personal./JJ and./CC professional./JJ )./) by./IN the./DT posting./VBG close./JJ date./NN to./TO ensure./VB consideration./NN for./IN employment./NN at./IN Canadian./JJ Nuclear./NNP Laboratories./NNPS ../. 
+
+Reference./NN Requirements./NNS :./: 
+One./CD Personal./NNP (./( can./MD not./RB be./VB a./DT relative./NN )./) 
+Professional./JJ Reference./NNP (./( must./MD have./VB supervised./VBN and./CC be./VB able./JJ to./TO speak./VB to./TO the./DT applicant./NN 's./POS work./NN performance./NN )./) 
+Have./NNP known./VBN the./DT candidate./NN for./IN five./CD years./NNS to./TO obtain./VB clearance./NN (./( reliability./NN status./NN )./) 
+NOTE./NN :./: If./IN the./DT professional./JJ reference./NN has./VBZ not./RB known./VBN the./DT candidate./NN for./IN more./JJR than./IN five./CD years./NNS please./VB add./VB an./DT additional./JJ personal./JJ reference./NN ../. Totaling./NNP ,./, one./CD professional./JJ reference./NN and./CC two./CD personal./JJ references./NNS ../. 
+_______________________________________./NN 
+
+Description./NN 
+
+Department./NNP :./: IT./NNP Systems./NNPS and./CC Architecture./NNP 
+Number./NNP of./IN Positions./NNS :./: 1./CD 
+Duration./NN :./: 4./CD Months./NNS 
+Discipline./NN :./: Computer./NNP Science./NNP ,./, Business./NNP Computing./NNP ,./, Software./NNP Engineering./NNP ,./, Computer./NNP Programmer./NNP 
+Year./NN of./IN study./NN :./: 1st./CD Year./NN College/University./NNP Completed./NNP 
+
+INTRO./NN 
+The./DT IT./NNP Systems./NNPS and./CC Architecture./NNP branch./NN supports./VBZ the./DT enterprise./NN and./CC business./NN information./NN technology./NN systems./NNS of./IN Canadian./JJ Nuclear./NNP Laboratories./NNPS (./( CNL./NNP )./) ../. 
+This./DT is./VBZ a./DT solid./JJ opportunity./NN for./IN a./DT student./NN to./TO work./VB with./IN experienced./JJ professionals./NNS to./TO gain./VB real./JJ world./NN experience./NN developing./VBG or./CC enhancing./VBG information./NN technology./NN systems./NNS critical./JJ to./TO the./DT safe./JJ and./CC efficient./JJ operation./NN of./IN CNL./NNP ../. 
+RESPONSIBILITIES./NN 
+-Work./NN within./IN a./DT team./NN environment./NN to./TO move./VB out./IN of./IN date./NN applications./NNS to./TO a./DT curent./NN supported./VBN database./NN (./( SQL./NNP Server./NNP )./) ,./, NET./NNP framework./NN ,./, and./CC development./NN toolset./NN 
+-Work./NN within./IN a./DT team./NN environment./NN to./TO develop./VB and./CC maintain./VB software./NN applications./NNS 
+-Write./JJ system./NN and./CC user./JJ documentation./NN 
+-Update./JJ test./NN plans./NNS :./: system./NN and./CC UAT./NNP 
+-Test./JJS and./CC Deploy./NNP the./DT upgraded./JJ applications./NNS ../. 
+REQUIREMENTS./NNS 
+Excellent./JJ communication./NN skills./NNS 
+Analytical./JJ skills./NNS 
+Knowledge./NNP of./IN databases./NNS ,./, preferably./RB Oracle./NNP and./CC SQL./NNP Server./NNP 
+Knowledge./NNP of./IN .NETand./NNP Visual./NNP Studio./NNP tools./NNS 
+Ability./NN to./TO modify./VB and./CC execute./VB test./NN plans./NNS 
+
+CNL./NNP has./VBZ an./DT Employment./JJ Equity./NN Program./NNP and./CC encourages./VBZ applications./NNS from./IN women./NNS ,./, Aboriginal./NNP Peoples./NNP ,./, visible./JJ minorities./NNS and./CC persons./NNS with./IN disabilities./NNS ../. 
+
+
+Please./VB apply./VB to./TO :./: 
+
+http./NN :./: //trr.tbe.taleo.net/trr01/ats/careers/requisition.jsp./NN ?./. org=CNLLTD./NN &./CC cws=1./NN &./CC rid=1437./NN 

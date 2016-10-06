@@ -1,0 +1,21 @@
+Summary./JJ 
+
+Perform./NNP quality./NN assurance./NN and./CC testing./NN of./IN new./JJ releases./NNS of./IN systems./NNS applications./NNS in./IN a./DT systems./NNS development./NN office./NN 
+
+Responsibilities./NNS :./: 
+
+Document./NNP test./NN plans./NNS and./CC test./NN cases./NNS ;./: perform./VB QA./NNP on./IN standalone./NN application./NN functionality./NN and./CC points./NNS of./IN integration./NN ;./: reproduce./NN reported./VBD bugs./NNS and./CC issues./NNS by./IN clients./NNS and./CC provide./VB detailed./JJ description./NN to./TO the./DT development./NN team./NN to./TO fix./VB them./PRP ;./: assist./NN with./IN release./NN notes./NNS ;./: communicate./VB closely./RB with./IN the./DT development./NN team./NN members./NNS in./IN resolving./VBG customer./NN issues./NNS ;./: assist./VB with./IN the./DT documentation./NN of./IN new./JJ features./NNS and./CC functionality./NN ,./, if./IN requested./VBN ;./: work./NN closely./RB with./IN the./DT Business./NNP Analysis./NNP team./NN on./IN end-user./NN requirements./NNS 
+
+Required./VBN Skills./NNS :./: 
+
+Good./JJ familiarity./NN with./IN the./DT QA./NNP process./NN ;./: experienced./VBN in./IN creating./VBG test./NN plans./NNS and./CC test./NN cases./NNS ;./: proficient./NN in./IN verbal./JJ and./CC written./VBN communications./NNS skills./NNS ;./: familiarity./NN with./IN SQL./NNP ;./: team./NN player./NN who./WP can./MD accomplish./VB tasks./NNS with./IN minimum./JJ supervision./NN ;./: proficient./NN with./IN Microsoft./NNP Excel./NNP and./CC other./JJ MS./NNP Office./NNP applications./NNS ;./: knowledge./NN of./IN PostgreSQL./NNP database./NN would./MD be./VB an./DT asset./NN ;./: knowledge./NN of./IN Java./NNP programming./NN and./CC scripting./NN would./MD be./VB an./DT asset./NN ../. 
+
+Being./VBG able./JJ to./TO assist./VB in./IN the./DT development./NN of./IN Bug./NNP Fixers./NNP and./CC or./CC some./DT possible./JJ Java./NNP development./NN ../. 
+
+Career./NNP Development./NNP And./CC Training./NN :./: 
+
+The./DT candidate./NN will./MD be./VB working./VBG closely./RB with./IN the./DT Business./NNP Analysis./NNP team./NN to./TO gain./VB knowledge./NN of./IN the./DT application./NN functionality./NN and./CC underlying./JJ business./NN logic./NN ../. 
+
+Transportation./NN And./CC Housing./NN :./: 
+
+None./NN provided./VBN by./IN the./DT firm./NN ../. Student./NNP would./MD need./VB to./TO look./VB after./IN own./JJ accommodations./NNS ../. Public./JJ transit./NN (./( Go./NNP Train./NNP )./) is./VBZ about./IN a./DT 15-minute./JJ walk./NN from./IN the./DT office./NN ../. Parking./VBG available./JJ at./IN office./NN ../. 

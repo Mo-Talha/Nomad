@@ -1,0 +1,23 @@
+About./IN the./DT Company./NN :./: 
+AppZero./NNP leads./VBZ the./DT next./JJ wave./NN of./IN software./NN virtualization./NN ,./, in./IN which./WDT applications./NNS are./VBP decoupled./VBN from./IN their./PRP$ operating./NN systems./NNS ../. Complex./JJ Windows./NNP server./NN applications./NNS can./MD be./VB moved./VBN in./IN a./DT fraction./NN of./IN the./DT time./NN required./VBN by./IN other./JJ migration./NN methods./NNS ../. AppZero./NNP provides./VBZ the./DT fastest./JJS and./CC most./RBS flexible./JJ way./NN to./TO move./VB server./NN applications./NNS to./TO and./CC across./IN datacenter./NN servers./NNS or./CC to./TO the./DT Cloud./NNP ,./, without./IN having./VBG to./TO make./VB code./NN changes./NNS and./CC without./IN re-installing./JJ applications./NNS ../. Migration./NN is./VBZ achieved./VBN via./IN the./DT automated./JJ extraction./NN and./CC movement./NN of./IN applications./NNS from./IN source./NN machines./NNS to./TO destination./VB machines./NNS ../. 
+
+About./IN the./DT Position./NN :./: 
+AppZero./NNP seeks./VBZ co-op./NN students./NNS to./TO work./VB with./IN a./DT small./JJ and./CC highly./RB skilled./JJ and./CC motivated./JJ team./NN ../. The./DT two./CD main./JJ duties./NNS of./IN the./DT selected./VBN student./NN shall./MD be./VB :./: 
+
+To./TO help./VB the./DT Quality./NNP Assurance./NNP (./( QA./NNP )./) team./NN with./IN the./DT testing./NN and./CC quality./NN control./NN of./IN the./DT product./NN 
+To./TO help./VB the./DT Engineering./NNP team./NN with./IN coding./VBG bug./NN fixes./NNS and./CC introducing./VBG new./JJ customer-facing./JJ features./NNS into./IN the./DT product./NN 
+
+The./DT successful./JJ candidate./NN will./MD fulfill./VB both./DT roles./NNS simultaneously./RB during./IN the./DT co-op./JJ term./NN ../. 
+
+Throughout./IN the./DT term./NN ,./, the./DT student./NN will./MD have./VB a./DT hands-on./JJ role./NN in./IN installation./NN ,./, usage./NN ,./, troubleshooting./NN ,./, and./CC debugging./NN of./IN enterprise./NN applications./NNS running./VBG in./IN AppZero./NNP virtualized./VBD environments./NNS ../. Additionally./RB ,./, the./DT student./NN will./MD participate./VB in./IN many./JJ coding./VBG projects./NNS associated./VBN with./IN the./DT product./NN ../. 
+
+AppZero./NNP works./VBZ with./IN many./JJ applications./NNS and./CC supports./NNS almost./RB all./DT Windows./NNP OS./NNP versions./NNS ../. You./PRP will./MD be./VB called./VBN on./IN to./TO use./VB your./PRP$ analytical./JJ skills./NNS while./IN working./VBG on./IN complex./JJ application./NN migration./NN processes./VBZ ../. Together./RB ,./, these./DT factors./NNS translate./VBP into./IN many./JJ new./JJ learning./VBG opportunities./NNS for./IN a./DT student./NN and./CC are./VBP sure./JJ to./TO contribute./VB significantly./RB to./TO a./DT computer-related./JJ career./NN ../. 
+
+Requirements./NNS :./: 
+Fluent./JJ experience./NN with./IN Microsoft./NNP Operating./VBG Systems./NNP is./VBZ a./DT must./MD 
+Development./NNP experience./NN with./IN C./NNP ,./, C++./NNP or./CC C./NNP #./# is./VBZ desired./VBN 
+Basic./NNP knowledge./NN of./IN operating./NN system./NN theory./NN is./VBZ an./DT asset./NN 
+Proficiency./NN in./IN using./VBG development./NN tools./NNS such./JJ as./IN git./NN ,./, Visual./JJ Studio./NNP ,./, and./CC VirtualBox./NNP is./VBZ desired./VBN 
+Hands-on./JJ experience./NN in./IN solving./VBG challenging./VBG issues./NNS using./VBG analytical./JJ skills./NNS is./VBZ an./DT asset./NN 
+
+Co-op./JJ positions./NNS are./VBP located./VBN at./IN 1./CD Hines./NNS Road./NNP ,./, Suite./NNP 204./CD ,./, Kanata./NNP ,./, Ottawa./NNP ,./, Canada./NNP ../. 

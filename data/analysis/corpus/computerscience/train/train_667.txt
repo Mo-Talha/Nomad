@@ -1,0 +1,62 @@
+The./DT Ontario./NNP Institute./NNP for./IN Cancer./NNP Research./NNP (./( OICR./NNP )./) is./VBZ seeking./VBG a./DT student./NN to./TO work./VB as./IN a./DT Web./NNP +./NN 
+Technologies./NNS Developer./NNP to./TO help./VB web./VB technologies./NNS for./IN Cancer./NNP researchers./NNS ../. 
+
+You./PRP have./VBP a./DT passion./NN for./IN online./JJ application./NN design/development./NN ,./, software./NN engineering./NN and/or./NN userexperience./NN ../. You./PRP have./VBP a./DT desire./NN to./TO build./VB high./JJ quality./NN and./CC creative./JJ online./NN applications./NNS ../. You./PRP workcollaboratively./RB with./IN teams./NNS to./TO solve./VB problems./NNS ../. You./PRP thrive./VBP in./IN a./DT dynamic./JJ environment./NN ../. You./PRP love./VBP to./TO learnand./VB incorporate./VB the./DT latest./JJS technologies./NNS ,./, great./JJ designs./NNS and./CC modern./JJ tools./NNS into./IN your./PRP$ work./NN ,./, and./CC youhave./VB a./DT professional./JJ commitment./NN to./TO upgrade./VB your./PRP$ technical./JJ skills./NNS on./IN an./DT ongoing./JJ basis./NN ../. 
+
+This./DT is./VBZ your./PRP$ opportunity./NN to./TO apply./VB your./PRP$ passion./NN for./IN the./DT web./NN to./TO projects./NNS in./IN scientific./JJ research./NN ../. 
+
+RESPONSIBILITIES./NN 
+-./: Work./NN with./IN the./DT team./NN to./TO build./VB high-quality./NN web./NN pages./NNS and./CC user./JJ interfaces./NNS for./IN web./NN applications./NNS :./: 
+
+o./JJ Build./NNP online./NN user./NN interface./NN interactions./NNS to./TO create./VB useful./JJ features./NNS and./CC pages./NNS on./IN different./JJ 
+web./NN platforms./NNS and./CC devices./NNS ;./: 
+
+o./JJ Build./NNP front-end./JJ functionality./NN from./IN feature./NN requirements./NNS in./IN an./DT Agile./NNP ,./, iterative./JJ and./CC phased./VBD 
+approach./NN ../. Work./NN to./TO enhance./VB the./DT proposed./VBN solution./NN and./CC produce./VB great./JJ user./JJ experiences./NNS ;./: 
+
+o./JJ Test./NNP (./( and./CC fix./NN )./) presentation./NN and./CC functionality./NN on./IN modern./JJ browser./NN technologies./NNS and./CC devices./NNS ../. 
+Find/fix./NNP problems./NNS ,./, document/review./NN ,./, and./CC work./NN within./IN the./DT team./NN to./TO follow./VB them./PRP to./TO 
+conclusion./NN ../. 
+
+o./RB Maintain./NNP website./JJ code./NN against./IN frameworks./NNS and./CC systems./NNS upgrades./NNS ../. 
+
+-./: Direct./NN and./CC develop./VB your./PRP$ own./JJ professional./JJ skills./NNS and./CC help./NN coworkers./NNS when./WRB asked./VBN and./CC taking./VBG the./DT initiative./NN to./TO reach./VB out./RP to./TO coworkers./NNS when./WRB you./PRP think./VBP you./PRP have./VBP something./NN to./TO contribute./VB ../. 
+
+SKILLS./NN 
+-./: Must./NN have./VBP a./DT passion./NN for./IN online./JJ application./NN design/development./NN ,./, software./NN engineering./NN and/or./NN 
+user./JJ experience./NN ../. 
+-./: Must./NN have./VBP a./DT desire./NN to./TO build./VB high./JJ quality./NN and./CC creative./JJ online./NN applications./NNS ../. 
+-./: Must./NN love./VB to./TO learn./VB and./CC incorporate./VB the./DT latest./JJS technologies./NNS ,./, great./JJ designs./NNS and./CC modern./JJ tools./NNS 
+into./IN your./PRP$ work./NN 
+-Must./JJ love./VB back-end./JJ technologies./NNS ,./, front-end./JJ technologies./NNS ,./, and./CC believe./VBP in./IN strong./JJ technical./JJ skill./NN development./NN ../. 
+
+MORE./JJR SKILLS./NNS 
+-./: Positive./NN ,./, passionate./NN ,./, dedicated./VBN ,./, technical-adept./JJ ,./, problem./NN solver./NN ,./, hungry./JJ for./IN awesome./JJ ,./, life./NN 
+changing./VBG experiences./NNS ../. 
+-./: Strong./JJ technical./JJ skills./NNS ../. An./DT enthusiasm./NN about./IN learning./NN ;./: 
+-./: Great./NN team./NN player./NN ../. 
+
+LEADERSHIP./NN 
+-./: Actively./RB contribute./VBP to./TO technical./JJ excellence./NN and./CC problem./NN solving./NN ../. 
+
+IDEAL./NNP QUALIFICATIONS./NNP 
+-./: Have./VBP web./VBN experience./NN in./IN hand-coded./JJ ,./, standards-compliant./JJ HTML./NNP and./CC CSS./NNP on./IN different./JJ 
+browser./NN technologies./NNS ../. 
+-./: Have./VBP experience./NN working./VBG in./IN Linux./NNP ,./, Apache./NNP ,./, and./CC MYSQL./NNP environments./NNS ../. 
+-./: Have./VBP experience./NN working./VBG on./IN the./DT MAC./NNP and./CC proficient./NN with./IN Microsoft./NNP Office./NNP Tools./NNP ../. 
+-./: Have./VBP development./NN experience./NN with./IN different./JJ modern./JJ browser./NN technologies./NNS and./CC devices./NNS ../. 
+-./: Have./VBP some./DT experience./NN using./VBG content./JJ management./NN systems./NNS or./CC database-entity./NN frameworks./NNS ../. 
+
+We./PRP are./VBP using./VBG DRUPAL./NNP ../. 
+-./: Have./VBP experience./NN using./VBG browser./JJR developer./NN tools./NNS ,./, using./VBG debuggers./NNS and./CC IDEs./NNP ,./, using./VBG command./NN 
+line./NN UNIX./NNP Shell./NNP and./CC setting./VBG up./RP LAMP./NNP on./IN Virtual./NNP Machines./NNP (./( cloud./JJ computing./NN tools./NNS )./) ../. 
+-./: Have./VBP experience./NN with./IN version./NN control./NN tools./NNS (./( e.g./NN ../. Subversion./NNP ,./, Git./NNP )./) ,./, issue./NN tracking./NN tools./NNS (./( e.g./NN ../. 
+JIRA./NNP )./) ,./, Agile./NNP planning./NN tools./NNS (./( e.g./NN ../. Greenhopper./NNP )./) ,./, and./CC Collaborative./NNP Sharing./NNP (./( e.g./NN ../. Wiki./NNP )./) ../. 
+-./: Have./VBP knowledge./NN of./IN the./DT Agile./NNP methodology./NN including./VBG sprints./NNS and./CC test-driven./JJ development./NN ../. 
+-./: Have./VBP experience./NN with./IN JavaScript/Ajax/Node/Angular/D3/HTML5/CSS3./NNP ../. 
+
+OICR./NNP is./VBZ an./DT innovative./JJ new./JJ cancer./NN research./NN institute./NN located./VBN in./IN the./DT MaRS./NNP Centre./NNP in./IN the./DT Discovery./NNP District./NNP in./IN downtown./NN Toronto./NNP ../. OICR./NNP is./VBZ addressing./VBG significant./JJ challenges./NNS in./IN cancer./NN research./NN with./IN multi-disciplinary./JJ ,./, multi-institutional./JJ teams./NNS ../. New./NNP discoveries./NNS to./TO prevent./VB ,./, detect./VB and./CC treat./VB cancer./NN will./MD be./VB moved./VBN from./IN the./DT bench./NN to./TO practical./JJ applications./NNS in./IN patients./NNS ../. The./DT OICR./NNP team./NN is./VBZ growing./VBG quickly./RB ../. We./PRP are./VBP innovative./JJ ,./, dedicated./JJ professionals./NNS who./WP bring./VBP expertise./NN to./TO each./DT of./IN our./PRP$ roles./NNS ../. We./PRP are./VBP looking./VBG forindividuals./NNS interested./JJ in./IN being./VBG part./NN of./IN a./DT culture./NN of./IN excellence./NN that./WDT will./MD result./VB in./IN Ontario./NNP beingrecognized./VBD internationally./RB as./IN a./DT leading./JJ jurisdiction./NN for./IN cancer./NN research./NN ../. 
+
+For./IN more./JJR information./NN about./IN OICR./NNP ,./, please./VB visit./VB the./DT website./NN at./IN www.oicr.on.ca./NN ../. 
+For./IN information./NN about./IN the./DT team./NN culture./NN and./CC its./PRP$ projects./NNS please./VBP visit./VB the./DT website./NN at./IN 
+https./NN :./: //dl.dropboxusercontent.com/u/13269813/WEBDEV/Jobs/index.html./NN 

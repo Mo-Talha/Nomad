@@ -1,0 +1,55 @@
+Job./NNP Summary./NNP :./: 
+
+N8./NNP Identity./NNP ,./, Canada./NNP 's./POS leading./JJ identity./NN and./CC access./NN management./NN expert./NN ,./, is./VBZ looking./VBG for./IN a./DT Bilingual./JJ Operations./NNP Support./NNP Analyst./NNP to./TO join./VB our./PRP$ dynamic./JJ team./NN ../. 
+
+As./IN a./DT member./NN of./IN our./PRP$ operations./NNS department./NN ,./, the./DT analyst./NN will./MD play./VB a./DT key./JJ role./NN in./IN the./DT support./NN ,./, testing./VBG ,./, integration./NN ,./, and./CC deployment./NN and./CC build./NN of./IN identity./NN and./CC access./NN management./NN solutions./NNS for./IN client./NN environments./NNS as./RB well./RB as./IN dealing./VBG with./IN data./NNS management./NN aspects./NNS surrounding./VBG the./DT solution./NN ../. Specific./JJ to./TO this./DT role./NN ,./, they./PRP will./MD deal./VB directly./RB with./IN customers./NNS from./IN Quebec./NNP ../. 
+
+Qualifications./NNP &./CC Position./NNP Responsibilities./NNPS :./: 
+
+We./PRP are./VBP looking./VBG for./IN candidates./NNS who./WP are./VBP enthusiastic./JJ about./IN integrating./VBG and./CC testing./VBG software./NN ,./, as./RB well./RB as./IN sustaining./VBG the./DT software./NN in./IN a./DT client./NN environment./NN and./CC managing./NN data./NNS for./IN the./DT client./NN ../. 
+
+The./DT candidate./NN must./MD be./VB :./: 
+
+-./: Fluent./NN in./IN spoken./JJ and./CC written./VBN French./NNP ,./, specifically./RB French./JJ Canadian./NNP ../. 
+
+The./DT candidate./NN should./MD have./VB :./: 
+
+-./: A./DT Willingness./NN to./TO learn./VB 
+-./: Understanding./NN of./IN the./DT software./NN engineering./NN life./NN cycle./NN ,./, including./VBG testing./VBG 
+-./: Database./NN -./: basic./JJ SQL./NNP skills./NNS ,./, specifically./RB Postgresql./NNP 
+
+While./IN working./VBG here./RB ,./, you./PRP may./MD :./: 
+
+-./: Participate./NN with./IN the./DT development./NN team./NN to./TO produce./VB Identity./NNP &./CC Access./NNP Management./NNP solutions./NNS 
+-./: Participate./NN in./IN a./DT team./NN to./TO assist./VB clients./NNS with./IN the./DT implementation./NN and./CC sustainment./NN of./IN IAM./NNP solutions./NNS 
+-./: Test./NN ongoing./VBG enhancements./NNS to./TO N8./NNP Identity./NNP 's./POS Employee./NNP Lifecycle./NNP Manager./NNP (./( ELM./NNP )./) product./NN 
+-./: Learn./NNP relational./JJ databases./NNS (./( PostgreSQL./NNP ,./, Oracle./NNP )./) and./CC structured./JJ query./NN languages./NNS (./( SQL./NNP ,./, JDBC./NNP ,./, PL/pgSQL./NNP )./) 
+-./: Participate./NN in./IN our./PRP$ Software./NNP engineering./NN and./CC quality./NN assurance./NN processes./NNS 
+-./: Learn./VB how./WRB to./TO use./VB ETL./NNP tools./NNS (./( Extract./NNP ,./, Transform./NNP ,./, Load./NNP )./) with./IN customer./NN data./NNS ,./, specifically./RB Talend./NNP Open./NNP Studio./NNP 
+-./: Learn./VB some./DT of./IN our./PRP$ key./JJ technologies./NNS :./: XML./NN ,./, SPML/SOAP./NNP ,./, SAML./NNP ,./, HTML./NNP ,./, Web./NNP Services./NNPS ,./, Web./NNP and./CC Application./NNP Servers./NNP 
+-./: Experience./NN using./VBG LDAP./NNP Servers./NNP -./: Microsoft./NNP Active./NNP Directory./NNP ,./, Oracle./NNP Internet./NNP Directory./NNP ,./, CA./NNP Directory./NNP 
+-./: Assist./NN in./IN data./NNS management./NN aspects./NNS surrounding./VBG the./DT Employee./NNP Lifecycle./NNP Manager./NNP and./CC client./NN 's./POS IAM./NNP solution./NN 
+-./: Communicate./NN with./IN our./PRP$ customers./NNS in./IN a./DT professional./JJ and./CC business./NN friendly./JJ manner./NN 
+
+The./DT following./JJ knowledge./NN or./CC experience./NN would./MD be./VB a./DT plus./JJ ,./, but./CC not./RB required./VBN to./TO be./VB successful./JJ :./: 
+
+-./: Experience./NN Windows./NNP and./CC Linux./NNP server./NN administration./NN 
+-./: Experience./NN with./IN IAM./NNP Vendors./NNS :./: CA./NNP ,./, Oracle./NNP 
+-./: Experience./NN with./IN Backup./NNP systems./NNS and./CC strategies./NNS 
+-./: Experience./NN with./IN VMware./NNP virtualization./NN 
+
+What./WP Makes./NNP N8./NNP Identity./NNP A./NNP Great./NNP Place./NNP to./TO Work./VB ?./. 
+
+-./: You./PRP will./MD never./RB get./VB bored./VBN in./IN our./PRP$ fast-paced./JJ and./CC challenging./JJ environment./NN 
+-./: We./PRP are./VBP the./DT largest./JJS dedicated./JJ IAM./NNP firm./NN in./IN Canada./NNP 
+-./: Participate./NN as./IN a./DT member./NN of./IN a./DT small./JJ cross-functional./JJ team./NN with./IN exposure./NN to./TO all./DT aspects./NNS of./IN the./DT software./NN integration./NN lifecycle./NN 
+-./: You./PRP will./MD work./VB with./IN experts./NNS at./IN the./DT cutting./VBG edge./NN of./IN the./DT IAM./NNP industry./NN 
+-./: Learn./NN something./NN new./JJ every./DT day./NN 
+
+N8./NNP Identity./NNP Profile./NNP 
+
+N8./NNP Identity./NNP is./VBZ committed./VBN to./TO one./CD thing./NN only./RB :./: Identity./NN and./CC Access./NNP Management./NNP ../. 
+As./IN Canada./NNP 's./POS leading./VBG dedicated./VBN IAM./NNP company./NN ,./, we./PRP deliver./VBP innovative./JJ solutions./NNS that./WDT quickly./RB translate./VB into./IN true./JJ business./NN value./NN ../. 
+N8./NNP Identity./NNP is./VBZ a./DT privately./RB held./VBN company./NN headquartered./VBN in./IN Burlington./NNP ,./, Ontario./NNP ../. 
+
+For./IN more./JJR information./NN ,./, please./VB visit./NN www.n8id.com./NN 

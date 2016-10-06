@@ -1,0 +1,21 @@
+Bioinformatics./NNS Technician-Genetics./NNS 
+
+PI./NN :./: Dr../NNP Robert./NNP A../NNP Hegele./NNP ,./, Robarts./NNP Research./NNP Institute./NNP ,./, Departments./NNP of./IN Medicine./NNP and./CC Biochemistry./NNP 
+
+Title./NN :./: Bioinformatics./NNS analysis./NN of./IN complex./JJ data./NNS sets./NNS 
+
+Goal./NN :./: Maintain./NN and./CC develop./VB an./DT informatics./NNS and./CC statistical./JJ analysis./NN workflow./NN relevant./NN to./TO human./JJ genomic./JJ and./CC clinical./JJ data./NNS ../. Provide./VB a./DT computer./NN science./NN technical./JJ resource./NN to./TO Hegele./NNP lab./NN personnel./NNS ../. Perform./NNP analysis./NN of./IN high-dimensional./JJ data./NNS to./TO discover./VB novel./JJ relationships./NNS between./IN genes./NNS and./CC how./WRB they./PRP affect./VBP humans./NNS ../. 
+
+The./DT Hegele./NNP lab./NN conducts./VBZ research./NN into./IN the./DT relationship./NN between./IN genetic./JJ variation./NN and./CC clinical./JJ measurements./NNS in./IN research./NN subjects./NNS who./WP are./VBP at./IN risk./NN of./IN heart./NN disease./NN ,./, strokes./NNS and./CC neurodegenerative./JJ conditions./NNS ,./, such./JJ as./IN Lou./NNP Gehrig./NNP 's./POS and./CC Parkinson./NNP diseases./NNS ../. We./PRP have./VBP multiple./JJ data./NNS types./NNS for./IN each./DT study./NN patient./NN ,./, including./VBG a./DT wide./JJ range./NN of./IN demographic./JJ ,./, clinical./JJ and./CC biochemical./JJ data./NNS ,./, together./RB with./IN data./NNS derived./VBN from./IN DNA./NNP using./VBG next-generation./JJ DNA./NNP sequencing./VBG technology./NN ../. 
+
+We./PRP use./VBP a./DT bioinformatics./NNS workflow./VBP to./TO detect./VB where./WRB genetic./JJ variation./NN (./( mutations./NNS )./) occurs./VBZ in./IN a./DT DNA./NN sample./NN ../. The./DT variant./JJ data./NNS are./VBP then./RB further./RB processed./VBN to./TO yield./VB common./JJ ,./, associated./JJ ,./, as./RB well./RB as./IN rare./JJ ,./, pathogenic./JJ DNA./NN variants./NNS that./WDT may./MD contribute./VB to./TO the./DT abnormal./JJ levels./NNS of./IN blood./NN lipids./NNS and./CC increased./VBD risk./NN for./IN cardiovascular./JJ disease./NN ../. The./DT thesis./NN student./NN will./MD assist./VB at./IN all./DT levels./NNS of./IN the./DT bioinformatics./NNS components./NNS of./IN the./DT project./NN and./CC will./MD have./VB the./DT opportunity./NN to./TO see./VB the./DT data./NNS analysis./NN in./IN the./DT context./NN of./IN human./JJ molecular./JJ genetics./NNS ../. 
+
+Some./DT dimensions./NNS of./IN the./DT project./NN :./: 
+1./CD )./) Perl./NNP ,./, shell./NN ,./, C./NNP #./# ,./, and./CC Unix./NNP programming./VBG 
+2./CD )./) update./NN selected./VBN genomic./JJ databases./NNS 
+3./LS )./) manage./NN and./CC implement./JJ virtual./JJ machine./NN Unix./NNP environments./NNS on./IN local./JJ and./CC server./JJ computers./NNS 
+4./CD )./) installation./NN ,./, configuration./NN and./CC implementation./NN of./IN bioinformatics./NNS tools./NNS such./JJ as./IN plink./NN ,./, SKAT-O./NNP ,./, EPACTS./NNP ,./, GotCloud./NNP ,./, ANNOVAR./NNP ,./, vcf./NN tools./NNS 
+5./CD )./) create./NN novel./JJ scripts./NNS ,./, updates./NNS and./CC improvements./NNS to./TO informatics./NNS workflows./NNS 
+6./CD )./) train./NN lab./NN group./NN ,./, write./JJ documentation./NN on./IN protocols./NNS ,./, methods./NNS and./CC scripts./NNS on./IN Hegele./NNP lab./NN wiki./NN 
+7./CD )./) new./JJ human./JJ genome./NN build./NN :./: help./NN with./IN issues./NNS as./IN informatics./NNS systems./NNS migrate./VBP to./TO new./JJ version./NN (./( from./IN GRCh37./NNP to./TO GRCh38./NNP )./) 
+8./CD )./) implementation./NN of./IN a./DT searchable./JJ database./NN on./IN Hegele./NNP lab./NN web./NN page./NN ;./: Western./JJ Database./NNP of./IN Lipid./NNP Variants./NNP to./TO be./VB searchable./JJ and./CC queried./VBN on./IN Hegele./NNP website./NN ../. 

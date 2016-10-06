@@ -1,0 +1,33 @@
+Quality./NN Assurance./NNP Analyst./NNP Co-op./NNP 
+Global./JJ Prime./NNP Brokerage./NNP ,./, EQST./NNP 
+Toronto./NNP ,./, ON./NNP 
+
+Bank./NNP of./IN America./NNP is./VBZ one./CD of./IN the./DT world./NN 's./POS largest./JJS financial./JJ institutions./NNS ,./, serving./VBG individual./JJ consumers./NNS ,./, small./JJ and./CC middle./JJ market./NN businesses./NNS and./CC large./JJ corporations./NNS with./IN a./DT full./JJ range./NN of./IN banking./NN ,./, investing./VBG ,./, asset./NN management./NN and./CC other./JJ financial./JJ and./CC risk-management./JJ products./NNS and./CC services./NNS ../. Following./VBG the./DT acquisition./NN of./IN Merrill./NNP Lynch./NNP on./IN January./NNP 1./CD ,./, 2009./CD ,./, Bank./NNP of./IN America./NNP is./VBZ among./IN the./DT world./NN 's./POS leading./JJ wealth./NN management./NN companies./NNS and./CC is./VBZ a./DT global./JJ leader./NN in./IN corporate./JJ and./CC investment./NN banking./NN and./CC trading./NN across./IN a./DT broad./JJ range./NN of./IN asset./NN classes./NNS serving./VBG corporations./NNS ,./, governments./NNS ,./, institutions./NNS and./CC individuals./NNS around./IN the./DT world./NN ../. In./IN Canada./NNP ,./, Bank./NNP of./IN America./NNP has./VBZ a./DT strong./JJ market./NN position./NN on./IN which./WDT to./TO continue./VB to./TO build./VB ,./, as./RB well./RB as./IN a./DT clear./JJ commitment./NN to./TO the./DT market./NN ../. 
+
+
+Equity./NN Services./NNPS Technology./NNP (./( EQST./NNP )./) 
+Equity./NN Services./NNPS technology./NN (./( EQST./NNP )./) is./VBZ an./DT organization./NN that./WDT provides./VBZ technology./NN solutions./NNS and./CC support./NN to./TO our./PRP$ Equity./NNP Services./NNPS business./NN partners./NNS ../. EQST./NNP develops./VBZ and./CC supports./VBZ applications./NNS for./IN the./DT following./JJ EQS./NNP business./NN lines./NNS :./: Prime./NNP Brokerage./NNP ,./, International./NNP Prime./NNP Brokerage./NNP ,./, Professional./NNP Trading./NN ,./, Hedge./NNP Funds./NNP ,./, Clearing./NNP ,./, Settlement./NNP ,./, Broadcort./NNP and./CC Global./NNP Commission./NNP Management./NNP ../. EQST./NNP also./RB provides./VBZ a./DT single./JJ entry./NN point./NN to./TO products./NNS and./CC services./NNS for./IN our./PRP$ external./JJ clients./NNS such./JJ as./IN hedge./NN funds./NNS and./CC professional./JJ traders./NNS ../. 
+
+
+
+Job./NNP Description./NNP 
+
+We./PRP are./VBP seeking./VBG a./DT co-op./JJ student./NN with./IN an./DT appreciation./NN ,./, understanding./NN ,./, and./CC interest./NN in./IN Software./NNP Quality./NNP Assurance./NNP in./IN the./DT Financial./NNP Services./NNPS Industry./NNP ../. The./DT successful./JJ candidate./NN will./MD have./VB a./DT background./NN in./IN Information./NNP Technology./NNP ,./, ideally./RB with./IN previous./JJ terms./NNS of./IN experience./NN in./IN a./DT Quality./NNP Assurance./NNP testing./VBG role./NN ../. An./DT understanding./NN of./IN financial./JJ products./NNS and./CC the./DT overall./JJ financial./JJ services./NNS industry./NN will./MD be./VB an./DT asset./NN for./IN this./DT role./NN ../. 
+
+The./DT primary./JJ area./NN of./IN work./NN will./MD be./VB within./IN Prime./NNP Brokerage./NNP ../. A./NNP working./VBG knowledge./NN of./IN Selenium./NNP with./IN an./DT understanding./NN of./IN basic./JJ automation./NN solutions./NNS would./MD be./VB a./DT key./JJ asset./NN for./IN this./DT role./NN ../. A./DT working./VBG knowledge./NN of./IN databases./NNS and./CC SQL./NNP queries./NNS would./MD also./RB be./VB an./DT asset./NN and./CC advantage./NN within./IN this./DT role./NN ../. 
+
+
+
+Responsibilities./NNS 
+
+The./DT candidate./NN will./MD play./VB an./DT integral./JJ part./NN in./IN the./DT Equity./NNP Services./NNP Technology./NNP (./( EQST./NNP )./) QA./NNP team./NN ../. The./DT focus./NN will./MD be./VB on./IN the./DT core./NN testing./NN of./IN the./DT various./JJ trading./NN systems./NNS and./CC the./DT corresponding./JJ peripheral./JJ processes./NNS as./RB well./RB as./IN being./VBG a./DT contributor./NN within./IN our./PRP$ automation./NN process./NN using./VBG Selenium./NNP ../. The./DT candidate./NN will./MD work./VB closely./RB with./IN QA./NNP team./NN members./NNS and./CC will./MD also./RB be./VB engaged./VBN with./IN the./DT development./NN teams./NNS ../. 
+
+
+
+Qualifications./NNS 
+
+-./: Proven./NN ability./NN to./TO work./VB independently./RB with./IN excellent./JJ communication./NN skills./NNS 
+-./: SDLC./NN discipline./NN and./CC knowledge./NN 
+-./: Selenium./NN working./VBG knowledge./NN 
+-./: Previous./JJ Quality./NNP Assurance./NNP experience./NN within./IN the./DT financial./JJ services./NNS industry./NN an./DT asset./NN 
+-./: Test./NN plan./NN /./NNP Test./NNP case./NN preparation./NN and./CC execution./NN 

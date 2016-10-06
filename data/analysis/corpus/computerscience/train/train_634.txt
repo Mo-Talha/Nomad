@@ -1,0 +1,32 @@
+Position./NN Summary./NN :./: 
+
+We./PRP are./VBP looking./VBG for./IN an./DT intermediate/senior./JJ student./NN who./WP is./VBZ welcome./JJ to./TO work./VB more./JJR than./IN one./CD work./NN term./NN ../. Previous./JJ experience./NN in./IN business./NN environment./NN is./VBZ preferred./VBN ../. Recommendations./NNS from./IN previous./JJ work./NN places./NNS are./VBP welcome./JJ ../. 
+
+Position./NN Responsibilities./NNS :./: 
+
+-./: Help./NN Desk./NNP support./NN to./TO company./NN users./NNS in./IN timely./JJ manner./NN 
+-./: Day./NN to./TO day./NN System/Network./NNP administration./NN and./CC support./NN 
+-./: Work./NN in./IN a./DT team./NN and./CC individually./RB 
+-./: Participate./NN in./IN design./NN and./CC implementation./NN of./IN System/Network./NNP upgrade./NN and./CC modification./NN 
+-./: Contribute./NN new./JJ ideas./NNS and./CC innovations./NNS for./IN technological./JJ improvements./NNS 
+-./: Maintain./NN and./CC extend./VB System/Network./NNP documentation./NN 
+-./: System./NN Programming./NNP and./CC Scripting./VBG 
+
+Skills./NNS :./: 
+
+-./: Strong./NN communication./NN skills./NNS ,./, both./DT oral./JJ and./CC written./VBN 
+-./: Ability./NN to./TO learn./VB both./DT technical./JJ and./CC professional./JJ skills./NNS 
+-./: Project./NN Management./NNP experience./NN 
+-./: Knowledge./NN of./IN the./DT following./JJ operating./NN systems./NNS :./: MS./NNP Windows./NNP XP./NNP ,./, 7./CD ,./, 8.1./CD ,./, and./CC Server./NNP 2003/2008/2012./CD 
+-./: Knowledge./NN of./IN the./DT following./JJ applications./NNS :./: MS./NNP Word./NNP ,./, Excel./NNP ,./, Outlook./NNP 2003/2010./CD ,./, Visio./NNP 
+-./: Knowledge./NN of./IN the./DT following./JJ network./NN protocols./NNS :./: TCP/IP./NNP ,./, VPN./NNP ,./, MAPI./NNP ,./, DNC./NNP ,./, DHCP./NNP ,./, ActiveDirectory./NNP 
+-./: Knowledge./NN of./IN the./DT following./JJ hardware./NN platforms./NNS and./CC standards./NNS :./: Intel./NNP x86./NNP ,./, SCSI./NNP ,./, SATA./NNP ,./, RAID./NNP ,./, SAS./NNP ,./, VNC./NNP ,./, RDP./NNP ,./, VmWare./NNP ESXi./NNP ,./, GoToMeeting./NNP (./( WebEx./NNP )./) ,./, TeamViewer./NNP 
+-./: It./PRP would./MD be./VB an./DT advantage./NN to./TO know./VB the./DT following./JJ :./: MS./NNP Access./NNP AutoCAD./NNP ,./, ASP.NET./NNP ,./, C++./NNP ,./, ACT./NNP ,./, SysPro./NNP 
+
+Company./NN Description./NN :./: 
+
+Commit./NNP 100./CD is./VBZ a./DT computer./NN system./NN and./CC network./NN engineering./NN company./NN based./VBN in./IN Mississauga./NNP ,./, Ontario./NNP ../. Company./NN specializing./VBG in./IN providing./VBG medium./NN size./NN clients./NNS with./IN computer./NN engineering./NN solutions./NNS as./RB well./RB as./IN day-to-day./JJ on-site./JJ technical./JJ support./NN ../. We./PRP offer./VBP a./DT unique./JJ co-op./JJ program./NN that./WDT allows./VBZ students./NNS to./TO be./VB involved./VBN in./IN maintenance./NN and./CC administration./NN of./IN large-scale./JJ corporate./JJ systems./NNS and./CC networks./NNS ../. The./DT ``./`` alter-ego./JJ ''./'' program./NN pairs./VBZ students./NNS in./IN different./JJ work/study./NN streams./NNS to./TO allow./VB seamless./JJ transitions./NNS between./IN terms./NNS ../. 
+
+Co-op./JJ students./NNS at./IN Commit./NNP 100./CD are./VBP involved./VBN in./IN many./JJ aspects./NNS of./IN the./DT business./NN including./VBG selection./NN of./IN new./JJ co-op./JJ students./NNS ../. A./DT student./NN will./MD have./VB chance./NN to./TO review./VB resumes./NNS ,./, ask./JJ questions./NNS ,./, and./CC provide./VB input./NN into./IN the./DT hiring./NN of./IN prospective./JJ students./NNS ../. 
+
+For./IN more./JJR information./NN visit./NN http./NN :./: //commit100.com./NN 

@@ -1,0 +1,44 @@
+We./PRP want./VBP the./DT best./JJS and./CC brightest./JJS to./TO hack./VB on./IN the./DT coolest./JJS new./JJ ideas./NNS ../. 
+
+Welcome./VB to./TO the./DT Canon./NNP Innovation./NNP Lab./NNP ,./, where./WRB every./DT two./CD week./NN sprint./NN is./VBZ a./DT new./JJ hackathon./NN led./VBN by./IN you./PRP ../. We./PRP 've./VBP got./VBD a./DT wealth./NN of./IN neat./NN hardware./NN (./( Canon./NNP DSLRs./NNP ,./, Network/Security./NNP Cameras./NNP ,./, Leap./NNP Motion./NNP ,./, Samsung./NNP Gear./NNP VR./NNP ,./, Oculus./NNP Rift./NNP (./( CV1./NNP ,./, DK2./NNP ,./, and./CC DK1./NNP )./) ,./, Raspberry./NNP Pi./NNP ,./, Thalmic./NNP Labs./NNP './POS MYO./NNP ,./, Apple./NNP Watch./NNP ,./, Google./NNP Glass./NNP ,./, Arduino./NNP ,./, LEDs./NNP and./CC are./VBP adding./VBG more./JJR cool./JJ tech./NN every./DT day./NN )./) and./CC we./PRP want./VBP software./NN hackers./NNS and./CC hardware./NN makers./NNS to./TO mash./VB it./PRP up./RP in./IN ways./NNS the./DT market./NN could./MD never./RB imagine./VB ../. 
+
+What./WP 's./VBZ the./DT focus./NN ?./. 
+Our./PRP$ aim./NN is./VBZ to./TO exponentially./RB improve./VB the./DT post-capture./JJ experience./NN in./IN the./DT photography./NN /./NNP videography./NN space./NN :./: from./IN the./DT second./JJ you./PRP press./VBP the./DT shutter./NN button./NN on./IN your./PRP$ camera./NN to./TO all./PDT the./DT sharing./NN ,./, sending./VBG ,./, archiving./VBG ,./, searching./VBG and./CC everything./NN that./WDT happens./VBZ in./IN between./IN ../. We./PRP 're./VBP not./RB looking./VBG for./IN a./DT slightly./RB better./RBR camera./NN or./CC Yet./RB Another./DT Storage./NN Solution./NN ../. We./PRP 're./VBP looking./VBG to./TO completely./RB transform./VB the./DT way./NN people./NNS think./VBP about./IN using./VBG photos./NNS and./CC we./PRP need./VBP your./PRP$ help./NN ../. 
+
+Who./WP are./VBP we./PRP ?./. 
+Canon./NNP is./VBZ the./DT world./NN leader./NN in./IN digital./JJ imaging./NN ../. We./PRP make./VBP the./DT best./JJS cameras./NNS on./IN the./DT planet./NN (./( and./CC sometimes./RB in./IN space./NN )./) ../. We./PRP can./MD print./VB on./IN anything./NN at./IN any./DT size./NN ../. We./PRP make./VBP medical./JJ equipment./NN like./IN digital./JJ radiographs./NN and./CC medical./JJ software./NN like./IN retinal./JJ imaging./VBG control./NN software./NN ,./, which./WDT helps./VBZ doctors./NNS identify./VB problems./NNS and./CC improve./VB patient./NN eyesight./NN ../. 
+
+Canon./NNP 's./POS Innovation./NNP Lab./NNP at./IN Communitech./NNP is./VBZ a./DT focal./JJ point./NN of./IN innovation./NN within./IN Canon./NNP Americas./NNPS ../. We./PRP are./VBP a./DT small./JJ ,./, passionate./JJ and./CC dedicated./JJ team./NN ,./, in./IN a./DT newly./RB renovated./VBN space./NN ,./, working./VBG alongside./JJ organizations./NNS like./IN Google./NNP ,./, Microsoft./NNP ,./, Deloitte./NNP ,./, General./NNP Motors./NNPS ,./, BlackBerry./NNP ,./, Shopify./NNP ,./, Pebble./NNP ,./, and./CC the./DT never./RB ending./VBG list./NN of./IN awesome./JJ startups./NNS to./TO come./VB out./IN of./IN the./DT University./NNP of./IN Waterloo./NNP 's./POS own./JJ Velocity./NNP Program./NNP ../. 
+
+WE./NNP ARE./NNP HIRING./NNP 
+What./WP will./MD you./PRP be./VB responsible./JJ for./IN ?./. 
+-./: Engaging./NN in./IN brainstorming./NN and./CC design./NN sessions./NNS to./TO conceive./VB and./CC define./VB new./JJ project./NN ideas./NNS ../. 
+-./: Working./VBG alongside./RB creative./JJ and./CC innovative./JJ thinkers./NNS ,./, contributing./VBG your./PRP$ technical./JJ know-how./NN 
+to./TO new./JJ and./CC existing./JJ projects./NNS ../. 
+-./: Developing./VBG working./VBG prototypes./NNS using./VBG hardware./NN ,./, software./NN or./CC both./DT to./TO compliment./NN ,./, enhance./NN ,./, 
+or./CC replace./VB Canon./NNP 's./POS existing./VBG product./NN lines./NNS ../. 
+-./: Demoing./VBG in-progress./NN and./CC completed./VBN projects./NNS to./TO your./PRP$ colleagues./NNS ,./, customers./NNS ,./, and./CC Canon./NNP 
+executives./NNS ../. 
+
+What./WP traits./VBZ do./VBP you./PRP need./VB to./TO be./VB successful./JJ ?./. 
+Curiosity./NNP ../. You./PRP must./MD enjoy./VB learning./VBG new./JJ coding./NN languages./NNS ,./, technologies./NNS and./CC concepts./NNS ../. 
+Resourcefulness./NN ../. Take./VB the./DT shortest./JJS path./NN to./TO success./NN to./TO prove./VB your./PRP$ concept./NN ../. 
+Self-Reliance./NN ../. Learn./NNP ,./, investigate./NN ,./, solve./VB ,./, and./CC test./NN ,./, all./DT with./IN minimal./JJ guidance./NN ../. 
+Flexibility./NN ../. This./DT is./VBZ an./DT experiment./NN ,./, without./IN all./PDT the./DT answers./NNS ../. We./PRP need./VBP your./PRP$ help./NN to./TO figure./VB it./PRP out./RP ../. 
+Humour./NNP ../. You./PRP work./VBP hard./RB ,./, but./CC are./VBP n't./RB afraid./JJ to./TO enjoy./VB every./DT minute./NN of./IN it./PRP ../. 
+
+What./WP skills./VBZ would./MD be./VB an./DT asset./NN ?./. One./CD or./CC more./JJR would./MD be./VB awesome./JJ ../. 
+-./: Experience./NN with./IN REAN./NNP stack./NN (./( RethinkDB./NNP ,./, Express./NNP ,./, AngularJS./NNP ,./, Node.js./NNP )./) ../. 
+-./: Working./VBG knowledge./NN of./IN git./NN ../. 
+-./: Mobile./NN development./NN (./( React./NNP Native./NNP /./NNP Android./NNP Java./NNP /./NNP iOS./JJ Swift./NNP or./CC Obj./NNP C./NNP )./) ../. 
+-./: Hardware./NN development./NN (./( Arduino./NNP ,./, controllers./NNS ,./, robotics./NNS ,./, sensors./NNS ,./, etc./FW ../. )./) 
+-./: A./DT portfolio./NN of./IN personal./JJ projects./NNS above./IN and./CC beyond./IN work./NN or./CC school./NN obligations./NNS ../. 
+-./: Experience./NN participating./VBG in./IN hackathons./NNS ../. 
+
+We./PRP need./VBP to./TO know./VB 
+1./CD )./) where./WRB you./PRP 've./VBP worked./VBN including./VBG previous./JJ co-op./JJ overall./JJ evaluation./NN scores./NNS 
+2./CD )./) your./PRP$ skills./NNS and./CC interests./NNS 
+3./LS )./) samples./NNS of./IN work./NN ,./, portfolios./NNS ,./, or./CC links./NNS to./TO GitHub./VB 
+4./CD )./) one./CD or./CC two./CD sentences./NNS on./IN why./WRB you./PRP 're./VBP interested./JJ in./IN joining./VBG our./PRP$ team./NN ../. 
+
+Please./NNP apply./VB on./IN JobMine./NNP ../. We./PRP 'll./MD take./VB your./PRP$ application./NN in./IN any./DT format./NN ../. Feel./NNP free./JJ to./TO be./VB creative./JJ ../. 

@@ -1,0 +1,32 @@
+Role./JJ Summary./NNP :./: 
+The./DT Rapid./NNP Prototype./NNP Developer./NNP (./( co-op./NN )./) will./MD produce./VB high./JJ quality./NN technology./NN requirements./NNS and./CC leverage./NN appropriate./JJ tools./NNS to./TO rapidly./RB implement./VB usable./JJ prototypes./NNS and./CC proof-of-concept./JJ software./NN ../. Responsibilities./NNS will./MD also./RB include./VB the./DT need./NN to./TO determine./VB feasibility./NN ,./, to./TO eliminate./VB risks./NNS ,./, to./TO refine./VB technical./JJ requirements./NNS ,./, to./TO evaluate./VB performance./NN ,./, and./CC to./TO validate./VB market./NN and./CC business./NN assumptions./NNS through./IN technology./NN ../. 
+
+Specific./JJ Responsibilities./NNS :./: 
+Create./NNP innovative./JJ solutions./NNS to./TO overcome./VB real./JJ world./NN obstacles./NNS 
+Design./NN and./CC develop./VB software./NN and./CC tools./NNS to./TO solve./VB challenging./VBG problems./NNS 
+Develop./NNP rapid./JJ prototypes./NNS to./TO validate./VB solutions./NNS in./IN practical./JJ deployments./NNS 
+Apply./NNP analytic./JJ techniques./NNS and./CC statistical./JJ methods./NNS to./TO transform./VB data./NNS into./IN value./NN 
+Assist./NN with./IN efficient./JJ technology./NN transfer./NN of./IN concepts./NNS to./TO products./NNS 
+Generate./NNP creative./JJ solutions./NNS to./TO development./NN challenges./NNS 
+
+Core./NN Competencies./NNS :./: 
+Creativity./NN 
+Results./NNS ,./, Focus./NNP and./CC Accountability./NNP 
+Initiative./NN 
+Quality/Attention./NN to./TO Detail./VB 
+Subject./JJ Matter./NNP Expertise./NNP -./: Consultancy./NN 
+
+Required./VBN Qualifications./NNS :./: 
+Python./NNP scripting./NN language./NN 
+Java./NNP SE./NNP programming./NN 
+Comfortable./JJ working./VBG in./IN a./DT dynamic./JJ environment./NN with./IN changing./VBG priorities./NNS ../. 
+Ability./NN to./TO quickly./RB learn./VB and./CC efficiently./RB develop./VB in./IN both./DT proprietary./JJ and./CC open./JJ technology./NN platforms./NNS 
+Knowledge./NNP or./CC interest./NN in./IN applying./VBG machine./NN learning./VBG algorithms./NNS to./TO solve./VB real-world./NN problems./NNS is./VBZ an./DT asset./NN 
+Prototyping./VBG and./CC proof-of-concept./JJ development./NN skills./NNS 
+Foundation./NN of./IN statistical./JJ analytics./NNS 
+Basic./NNP data./NN analytics./NNS skills./NNS 
+Knowledge./NNP of./IN advanced./JJ Python./NNP and./CC Java./NNP SE./NNP programming./NN is./VBZ an./DT asset./NN 
+Development./NNP in./IN Mobile./NNP phone./NN applications./NNS (./( Android./NNP and./CC iOS./NN )./) 
+Experience./NN with./IN sensors./NNS such./JJ as./IN accelerometer./NN ,./, gyroscope./NN and./CC GPS./NNP ../. 
+Passionate./NN about./IN making./VBG transportation./NN safer./NN ,./, smarter./NN ,./, and./CC greener./NN !./. 
+Strong./JJ verbal./JJ and./CC written./VBN communication./NN skills./NNS 

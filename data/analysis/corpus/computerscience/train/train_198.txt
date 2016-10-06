@@ -1,0 +1,20 @@
+Teams./NNS within./IN the./DT Information./NNP Services./NNP Department./NNP at./IN Sunnybrook./NNP Health./NNP Sciences./NNP Centre./NNP are./VBP involved./VBN in./IN exciting./VBG collaborative./JJ development./NN projects./NNS ,./, with./IN goals./NNS to./TO improve./VB the./DT quality./NN of./IN patient./NN care./NN ,./, patient./JJ safety./NN ,./, clinician./JJ productivity./NN ,./, and./CC efficiency./NN of./IN the./DT hospital./NN ../. 
+Create./NNP or./CC Update./NNP automated./VBN regression./NN and./CC performance./NN test./NN scripts./NNS of./IN SunnyCare./NNP functionalities./NNS 
+Work./NN on./IN the./DT JIRA./NNP migration./NN software./NN project./NN 
+Work./NN closely./RB with./IN experienced./JJ analysts./NNS to./TO deliver./VB regression./NN test./NN case./NN package./NN for./IN existing./VBG electronic./JJ patient./NN record./NN application./NN 
+Re-design./JJ and./CC structure./NN Project./NNP SharePoint./NNP portal./NN as./IN a./DT tool./NN to./TO maintain./VB all./DT project./NN artifacts./NNS 
+Assist./NN in./IN executing./VBG manual./JJ test./NN cases./NNS for./IN functional./JJ and./CC regression./NN testing./VBG as./IN required./VBN 
+Other./JJ additional./JJ QA./NNP or./CC development./NN tasks./NNS required./VBD 
+
+Currently./RB enrolled./VBN in./IN a./DT co-operative./JJ education./NN program./NN within./IN a./DT post-secondary./JJ institution./NN with./IN a./DT focus./NN on./IN Computer./NNP Science./NNP ,./, Technology./NNP ,./, or./CC Engineering./VBG 
+Minimum./NNP of./IN 2./CD work./NN terms./NNS experience./NN in./IN a./DT QA./NNP role./NN 
+Excellent./JJ interpersonal./JJ and./CC highly./RB developed./JJ communication./NN skills./NNS (./( verbal./JJ and./CC written./VBN )./) 
+Confidence./NN in./IN working./VBG autonomously./RB or./CC as./IN member./NN of./IN a./DT team./NN 
+Capability./NN to./TO manage./VB multiple./JJ priorities./NNS across./IN a./DT number./NN of./IN assignments./NNS and./CC prioritize./VB effectively./RB 
+Ability./NN to./TO resolve./VB any./DT minor./JJ conflicts/issues./NNS and./CC escalate./VB to./TO others./NNS as./IN appropriate./JJ 
+Strong./JJ systematic./JJ trouble-shooting./NN and./CC problem./NN solving./NN skills./NNS 
+Strong./NNP MS./NNP Office./NNP skills./VBZ -./: Word./NN ,./, Outlook./NNP ,./, Excel./NNP and./CC PowerPoint./NNP 
+Knowledge./NNP of./IN common./JJ scripting./VBG languages./NNS such./JJ as./IN Javascript./NNP ,./, Perl./NNP ,./, and/or./JJ Python./NNP is./VBZ a./DT must./MD ../. 
+Understanding./NN of./IN QA./NNP methods./NNS ,./, testing./VBG approaches./NNS ,./, frameworks./NNS ,./, and./CC methodologies./NNS 
+Good./JJ understanding./NN of./IN technology./NN 
+Strong./JJ Microsoft./NNP SharePoint./NNP 2013./CD knowledge./NN 

@@ -1,0 +1,42 @@
+Message./NN from./IN CECA./NNP :./: 
+
+Pipeline./JJ Posting./NN :./: This./DT is./VBZ a./DT 'pipeline./NN './'' posting./VBG that./WDT includes./VBZ an./DT umbrella./NN of./IN opportunities./NNS of./IN similar./JJ nature./NN in./IN multiple./JJ groups/depts./NNS ../. at./IN BlackBerry./NNP ../. Applying./VBG to./TO this./DT posting./NN will./MD expose./VB you./PRP to./TO consideration./VB for./IN the./DT following./JJ listed./JJ roles./NNS and./CC other./JJ similar./JJ roles./NNS where./WRB your./PRP$ skills./NNS are./VBP a./DT best./JJS fit./NN ../. You./PRP can./MD also./RB apply./VB to./TO specific./JJ postings./NNS of./IN interest./NN on./IN the./DT BlackBerry./NNP site./NN under./IN this./DT pipeline./NN ../. 
+
+Applying./VBG on./IN BlackBerry./NNP site./NN :./: Locate./VB the./DT BlackBerry./NNP careers./NNS portal./VBP at./IN https./NN :./: //bb.wd3.myworkdayjobs.com/Student/jobs./NN 
+All./DT job./NN descriptions./NNS of./IN available./JJ roles./NNS are./VBP posted./VBN on./IN this./DT portal./NN ,./, you./PRP can./MD select./VB jobs./NNS of./IN interest./NN to./TO you./PRP and./CC apply./VB directly./RB on./IN this./DT site./NN ../. 
+-./: Follow./VB the./DT website./NN prompts./NNS to./TO filter./VB your./PRP$ location./NN ,./, career./NN type./NN and./CC additional./JJ preferences./NNS 
+-./: Reference./NN the./DT name./NN of./IN the./DT pipeline./NN to./TO assist./VB you./PRP in./IN applying./VBG to./TO the./DT appropriate./JJ and./CC suitable./JJ job./NN choice./NN for./IN your./PRP$ credentials./NNS and./CC interests./NNS 
+-./: For./IN questions./NNS about./IN applying./VBG to./TO jobs./NNS on./IN the./DT BlackBerry./NNP portal./NN ,./, please./VB contact./JJ campusprograms./NNS @./VBP blackberry.com./NN 
+
+Interviews./NNS :./: BlackBerry./NNP may./MD interview./NN on./IN campus./NN or./CC on./IN site./NN ../. If./IN you./PRP are./VBP selected./VBN for./IN an./DT on-site./JJ interview./NN ,./, BlackBerry./NNP will./MD contact./VB you./PRP directly./RB to./TO set./VB up./RP ../. The./DT information./NN may./MD not./RB appear./VB on./IN Jobmine./NNP ../. All./DT questions./NNS regarding./VBG BlackBerry./NNP on-site./JJ interviews./NNS ,./, please./VB contact./JJ campusprograms./NNS @./VBP blackberry.com./NN 
+_______________________________________________________________________./NN 
+
+Hardware./NNP Student./NNP -Winter./NN 2017./CD Student./NN Opportunities./NNS 
+
+As./IN a./DT student./NN at./IN BlackBerry./NNP ,./, you./PRP will./MD be./VB an./DT important./JJ part./NN of./IN our./PRP$ culture./NN and./CC integral./JJ in./IN the./DT success./NN of./IN our./PRP$ business./NN ../. BlackBerry./NNP provides./VBZ you./PRP an./DT opportunity./NN to./TO be./VB amazing./JJ !./. We./PRP offer./VBP a./DT dynamic./JJ work./NN environment./NN where./WRB you./PRP are./VBP encouraged./VBN to./TO achieve./VB your./PRP$ highest./JJS potential./JJ ../. Each./DT of./IN our./PRP$ opportunities./NNS offers./VBZ meaningful./JJ ,./, hands-on./JJ experience./NN working./VBG alongside./RB industry./NN experts./NNS ../. 
+
+Please./NNP note./NN :./: this./DT posting./NN is./VBZ considered./VBN a./DT `Pipeline./NN './'' posting./NN ,./, which./WDT represents./VBZ a./DT generic./JJ number./NN of./IN opportunities./NNS within./IN an./DT area./NN of./IN interest./NN ../. 
+__________________________________________________________________________./NN 
+
+Job./NNP Summary./NNP 
+Working./VBG with./IN the./DT Hardware./NNP Engineering./NNP Group./NNP ,./, the./DT successful./JJ candidate./NN will./MD be./VB required./VBN to./TO take./VB direction./NN from./IN ,./, and./CC be./VB responsible./JJ for./IN ,./, assisting./VBG the./DT team./NN perform./VB a./DT wide./JJ variety./NN of./IN tasks./NNS in./IN both./DT hands-on./JJ and./CC administrative./JJ roles./NNS ../. The./DT tasks./NNS will./MD range./VB from./IN design./JJ support./NN activities./NNS to./TO report./VB writing./VBG ../. Examples./NNS of./IN these./DT tasks./NNS include./VBP :./: creating/designing./VBG new./JJ test./NN fixtures./NNS ,./, developing./VBG new./JJ tests/test./NN processes./VBZ for./IN detecting./VBG failures./NNS ,./, training/supporting./VBG internal./JJ departments./NNS with./IN new./JJ test./NN equipment./NN ,./, conducting/supporting./VBG design./NN verification./NN testing./NN ,./, and./CC conducting/supporting./VBG drop./NN testing./NN ../. 
+
+Locations./NNS 
+-./: Waterloo./NN 
+-./: Ottawa./NN 
+-./: Mississauga./NN 
+
+Skills./NNS and./CC Qualifications./NNS 
+-./: Enrolled./VBN in./IN an./DT Engineering./NN or./CC Computer./NNP Science./NNP or./CC related./VBN programs./NNS at./IN the./DT Intermediate./NNP level./NN 
+-./: Basic./JJ electronic./JJ skills./NNS and./CC experience./NN with./IN basic./JJ lab./NN equipment./NN 
+-./: Hardware./NN troubleshooting./NN and./CC debugging./NN skills./NNS 
+--./: Excellent./JJ analytical./JJ and./CC problem./NN determination./NN skills./NNS 
+-./: Previous./JJ experience./NN with./IN Java./NNP ,./, C/C++/C./NNP #./# programming./NN and./CC development./NN 
+-./: Highly./NN adaptable./JJ and./CC comfortable./JJ working./NN in./IN a./DT team-oriented./JJ environment./NN 
+-./: Strong./JJ interpersonal./JJ skills./NNS 
+
+Positions./NNS you./PRP may./MD be./VB considered./VBN for./IN under./IN this./DT Pipeline./NNP can./MD include./VB :./: 
+-./: Mechanical./JJ Engineering./NNP Student./NN 
+-./: Hardware./NN Wireless./NNP Student./NN 
+-./: Firmware./NN Development./NNP Student./NN 
+-./: Hardware./NN Wireless./NNP Design./NNP Student./NN 

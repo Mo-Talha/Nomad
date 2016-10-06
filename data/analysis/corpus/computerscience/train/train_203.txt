@@ -1,0 +1,35 @@
+Location./NN :./: 116./CD Sheppard./NNP Ave./NNP W./NNP ,./, Toronto./NNP ,./, ON./NNP M2N1M5./NNP 
+
+Summary./JJ 3./CD 
+60./CD Education./NNP Labs./NNP is./VBZ a./DT premiere./JJ online./JJ education./NN company./NN located./VBN at./IN Toronto./NNP and./CC Kitchener./NNP in./IN Ontario./NNP ,./, Canada./NNP and./CC at./IN San./NNP Jose./NNP ,./, California./NNP in./IN United./NNP States./NNPS of./IN America./NNP ../. We./PRP use./VBP our./PRP$ state./NN of./IN the./DT art./NN proprietary./JJ Digital./NNP Learning./NNP Platform./NNP that./WDT incorporates./VBZ audio./RB ,./, video./NN ,./, smart-board./JJ technologies./NNS for./IN interactions./NNS over./IN the./DT internet./NN ../. For./IN more./JJR information./NN ,./, visit./VB our./PRP$ product./NN web./VBZ site./NN :./: www.Yuja.com./NN 
+
+360./CD Education./NNP Labs./NNP is./VBZ hiring./VBG talented./VBN Software./NNP Developers./NNP for./IN our./PRP$ Toronto./NNP office./NN to./TO design./VB and./CC implement./VB our./PRP$ latest./JJS product./NN called./VBN YuJa.com./NNP that./WDT aims./VBZ to./TO alter./VB the./DT way./NN lectures./NNS are./VBP delivered./VBN in./IN universities./NNS and./CC colleges./NNS allowing./VBG simultaneous./JJ delivery./NN of./IN lectures./NNS to./TO the./DT in-class./NN and./CC over./IN the./DT internet./NN audiences./NNS using./VBG our./PRP$ proprietary./JJ multimedia./NN environment./NN and./CC learning./VBG management./NN system./NN ../. Lectures./NNS are./VBP captured./VBN and./CC uploaded./VBN to./TO the./DT cloud./NN in./IN real-time./NN ../. Our./PRP$ Digital./NNP Learning./NNP Platform./NNP can./MD be./VB used./VBN by./IN corporations./NNS for./IN training./NN and./CC general./JJ team./NN collaboration./NN and./CC also./RB by./IN university./NN Professors./NNS and./CC TAs./NNP during./IN lectures./NNS ,./, tutorials./NNS and./CC office./NN hours./NNS ../. Users./NNS can./MD independently./RB access./NN the./DT tool./NN for./IN working./VBG collaboratively./RB on./IN their./PRP$ 
+assignments./NNS and./CC projects./NNS from./IN their./PRP$ respective./JJ homes./NNS ,./, offices./NNS or./CC any./DT place./NN with./IN internet./JJ connectivity./NN ../. Yuja.com./NNP is./VBZ free./JJ to./TO use./VB for./IN individuals./NNS ../. Try./VB it./PRP out./RP today./NN ../. 
+
+Salary./NNP will./MD match./VB the./DT qualifications./NNS and./CC experience./NN of./IN the./DT candidates./NNS ../. For./IN the./DT right./JJ candidate./NN ,./, pay./NN is./VBZ generous./JJ and./CC competitive./JJ ../. 
+
+Responsibilities./NNS 
+-./: Full./NN stack./NN development./NN of./IN YuJa.com./NNP multimedia./NNP platform./NN ,./, including./VBG automatic./JJ lecture./NN and./CC lab./NN capture./NN using./VBG camera./NN ,./, Google./NNP Glass./NNP (./( like./IN )./) ,./, or./CC GoPro./NNP cameras./NNS and./CC microphone./NN mesh./NN 
+-./: All./DT phases./NNS of./IN design./NN and./CC development./NN of./IN hardware./NN and./CC software./NN for./IN lecture./NN capture./NN device./NN 
+-./: Design./NN and./CC development./NN of./IN web./JJ portal./NN of./IN YuJa.com./NNP for./IN managing./VBG corporate./JJ and./CC academic./JJ user./NN accounts./NNS and./CC social./JJ learning./NN management./NN system./NN ../. 
+
+Required./VBN Skills./NNS 
+1./CD )./) Strong./NNP software./NN design./NN and./CC development./NN skills./NNS with./IN Java./NNP ,./, Windows./NNP ,./, Linux./NNP ,./, and./CC iOS./NN 
+2./CD )./) Ability./NN to./TO recognize./VB software./NN problems./NNS and./CC develop./VB creative./JJ solutions./NNS within./IN a./DT fast-paced./JJ environment./NN 
+3./LS )./) Programming./VBG experience./NN with./IN Java./NNP (./( J2EE./NNP )./) ,./, JBoss./NNP web./NN server./NN ,./, Java./NNP Server./NNP Pages./NNP (./( JSP./NNP )./) ,./, Java./NNP Servlets./NNP ,./, and./CC Eclipse./NNP 
+4./CD )./) Relevant./JJ experience./NN with./IN mobile./JJ software./NN development./NN including./VBG iOS./NN and./CC Android./NNP platforms./NNS 
+5./CD )./) MySQL./NNP database./NN experience./NN including./VBG Java./NNP connectivity./NN through./IN JDBC./NNP 
+6./CD )./) Experience./NN in./IN designing./VBG web-based./JJ portals./NNS using./VBG HTML./NNP ,./, Javascript./NNP ,./, XML./NNP ,./, CSS./NNP technologies./NNS ,./, and./CC other./JJ Web./NNP 2.0./CD tools./NNS ../. 
+7./CD )./) Experience./NN with./IN Adobe./NNP Air./NNP including./VBG developing./VBG Flash-based./JJ client-server./NN applications./NNS 
+8./CD )./) Excellent./NN verbal./JJ and./CC written./VBN English./NNP communication./NN skills./NNS 
+
+Other./JJ Desirable./JJ Skills./NNS :./: 
+1./CD )./) Building./NN distributed./VBN software./NN systems./NNS including./VBG some./DT experience./NN with./IN network./NN protocols./NNS -./: HTTP./NNP ,./, HTTPS./NNP ,./, and./CC TCP-IP./NNP 
+2./CD )./) Industry./NN or./CC project./NN experience./NN with./IN audio/video./NN streaming./VBG technologies./NNS 
+3./LS )./) Experience./NN working./VBG with./IN both./DT Windows./NNP Server./NNP and./CC Linux-based./JJ server./NN systems./NNS 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+Salary./NNP will./MD match./VB the./DT qualifications./NNS and./CC experience./NN of./IN the./DT candidates./NNS ../. For./IN the./DT right./JJ candidate./NN ,./, pay./NN is./VBZ generous./JJ and./CC competitive./JJ ../. 
+
+Career./NNP Development./NNP And./CC Training./NNP 
+Senior./NNP R./NNP &./CC D./NNP staff./NN will./MD provide./VB guidance./NN ../. 

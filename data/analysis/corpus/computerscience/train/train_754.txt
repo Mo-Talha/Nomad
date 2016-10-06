@@ -1,0 +1,43 @@
+Diagram./NNP is./VBZ a./DT venture./NN launchpad./NN building./VBG the./DT next./JJ generation./NN of./IN Canadian-based./JJ global./JJ companies./NNS ../. Focused./VBN on./IN financial./JJ and./CC insurance./NN technology./NN ,./, we./PRP aim./VBP to./TO deliver./VB wellness./NN for./IN all./DT ../. 
+
+By./IN assembling./VBG teams./NNS of./IN world-class./NN founders./NNS pursuing./VBG big./JJ ideas./NNS for./IN innovation./NN in./IN the./DT financial./JJ and./CC insurance./NN sectors./NNS ,./, and./CC surrounding./VBG them./PRP with./IN capital./NN ,./, expertise./NN ,./, and./CC infrastructure./NN ,./, we./PRP are./VBP betting./VBG big./JJ and./CC equipping./VBG our./PRP$ companies./NNS with./IN everything./NN they./PRP need./VBP to./TO innovate./VB and./CC build./VB a./DT better./JJR future./NN ../. 
+
+We./PRP have./VBP portfolio./NN companies./NNS in./IN Toronto./NNP and./CC Montreal./NNP ,./, and./CC are./VBP backed./VBN by./IN Power./NNP Financial./NNP (./( one./CD of./IN Canada./NNP 's./POS largest./JJS financial./JJ institutions./NNS )./) ,./, world-renowned./JJ angel./NN investors./NNS ,./, and./CC a./DT VC./NNP from./IN Silicon./NNP Valley./NNP ../. Notably./RB ,./, Power./NNP Financial./NNP has./VBZ invested./VBN in./IN other./JJ leading./VBG Canadian./JJ FinTech./NNP companies./NNS ,./, including./VBG :./: Wealthsimple./NN ,./, Borrowell./NNP ,./, League./NNP ,./, and./CC Koho./NNP ../. 
+
+Apply./NNP to./TO Diagram./NNP and./CC choose./VB your./PRP$ own./JJ adventure./NN towards./NNS working./VBG with./IN one./CD of./IN our./PRP$ portfolio./NN companies./NNS ,./, Collage./NNP and./CC Dialogue./NNP ../. 
+-./: Collage./NN is./VBZ reinventing./VBG the./DT way./NN Canadian./JJ businesses./NNS manage./NN HR./NNP ,./, payroll./NN ,./, and./CC benefits./NNS ../. 
+-./: Dialogue./NN is./VBZ a./DT modern./JJ ,./, natural./JJ way./NN to./TO navigate./VB the./DT Canadian./NNP healthcare./NN system./NN and./CC get./VB the./DT care./NN you./PRP need./VBP ../. 
+
+For./IN any./DT questions./NNS or./CC concerns./NNS ,./, feel./VB free./JJ to./TO get./VB in./IN touch./NN with./IN Karel./NNP Vuong./NNP (./( karel./VB @./NNP diagram.ca./NN )./) ../. 
+
+RESPONSIBILITIES./NN 
+-./: Collaborate./NN with./IN product./NN managers./NNS ,./, software./NN engineers./NNS ,./, and./CC customers./NNS to./TO turn./VB ideas./NNS into./IN intuitive./JJ and./CC beautiful./JJ products./NNS 
+-./: Be./VB a./DT member./NN of./IN a./DT small./JJ ,./, interdisciplinary./JJ product./NN team./NN that./WDT works./VBZ at./IN quick./JJ pace./NN 
+-./: Participate./NN in./IN designing./VBG what./WP the./DT product./NN should./MD look./VB like./IN in./IN addition./NN to./TO how./WRB it./PRP will./MD behave./VB and./CC work./VB 
+-./: Be./VB an./DT advocate./NN for./IN the./DT user./NN 
+-./: Experience./NN designing./NN for./IN a./DT customer-facing./JJ website./JJ and/or./JJ web-based./JJ tools./NNS 
+-./: Degree./NN in./IN design-related./JJ field./NN ,./, HCI./NNP ,./, or./CC equivalent./JJ experience./NN 
+-./: Experience./NN in./IN user./JJ research./NN and./CC testing./NN ,./, and./CC creating./VBG detailed./JJ design./NN specifications./NNS 
+-./: Experience./NN creating./VBG flow-charts./NNS ,./, wireframes./NNS ,./, and./CC hi-fidelity./NN mockups./NNS 
+-./: Good./JJ verbal./NN and./CC written./VBN communications./NNS skills./NNS 
+-./: Experience./NN with./IN Adobe./NNP Creative./NNP Cloud./NNP ,./, Sketch./NNP ,./, or./CC similar./JJ applications./NNS 
+-./: Ability./NN to./TO bring./VB your./PRP$ designs./NNS to./TO life./NN (./( CSS./NNP ,./, HTML./NNP ,./, and./CC Javascript./NNP )./) is./VBZ a./DT big./JJ plus./NN 
+
+
+REQUIRED./NNP SKILLS./NNP 
+
+-./: Previous./JJ experience./NN designing./VBG for./IN a./DT customer-facing./JJ website./JJ and/or./JJ web-based./JJ tools./NNS 
+-./: Degree./NN in./IN design-related./JJ field./NN ,./, HCI./NNP ,./, or./CC equivalent./JJ experience./NN 
+-./: Experience./NN in./IN user./JJ research./NN and./CC testing./NN ,./, and./CC creating./VBG detailed./JJ design./NN specifications./NNS 
+-./: Experience./NN creating./VBG flow-charts./NNS ,./, wireframes./NNS ,./, and./CC hi-fidelity./NN mockups./NNS 
+
+-./: Good./JJ verbal./NN and./CC written./VBN communications./NNS skills./NNS 
+-./: Experience./NN with./IN Adobe./NNP Creative./NNP Cloud./NNP ,./, Sketch./NNP ,./, or./CC similar./JJ applications./NNS 
+-./: Ability./NN to./TO bring./VB your./PRP$ designs./NNS to./TO life./NN (./( CSS./NNP ,./, HTML./NNP ,./, and./CC Javascript./NNP )./) is./VBZ a./DT big./JJ plus./NN 
+
+COMMENTS./NNS 
+
+Please./VB ensure./VB that./IN you./PRP also./RB apply./VBP using./VBG the./DT link./NN below./IN in./IN addition./NN to./TO your./PRP$ application./NN here./RB on./IN JobMine./NNP ../. This./DT makes./VBZ our./PRP$ lives./NNS easier./JJR and./CC will./MD minimize./VB the./DT chance./NN of./IN us./PRP accidentally./RB missing./VBG your./PRP$ application./NN ../. 
+
+APPLY./RB NOW./NNP 
+https./NN :./: //jobs.lever.co/diagram/f6d18b06-2dbf-44f6-9fc8-ec2db8d1fa7c./JJ ?./. lever-source=JobMine./NN 

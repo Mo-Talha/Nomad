@@ -1,0 +1,16 @@
+Job./NNP Summary./NNP 
+Get./NNP paid./VBD to./TO work./VB on./IN award-winning./JJ open./JJ source./NN software./NN ../. Join./VB the./DT core./NN team./NN of./IN a./DT Y./NNP Combinator-backed./NNP open./JJ source./NN company./NN building./NN secure./NN ,./, modern./JJ communication./NN for./IN leading./VBG Fortune./NNP 500./CD ,./, public./JJ sector./NN ,./, healthcare./NN and./CC financial./JJ services./NNS companies./NNS ../. Your./PRP$ work./NN will./MD be./VB seen./VBN ,./, used./VBN and./CC extended./VBN by./IN developers./NNS and./CC IT./NNP professionals./VBZ around./IN the./DT world./NN ../. 
+
+Job./NNP Responsibilities./NNS 
+-./: Build./NN ,./, test./NN ,./, and./CC ship./NN production./NN quality./NN code./NN to./TO both./DT open./JJ source./NN communities./NNS and./CC commercial./JJ customers./NNS ../. -./: Review./NN designs./NNS and./CC specification./NN from./IN product./NN managers./NNS ,./, ask./VBP relevant./JJ questions./NNS ,./, discuss./JJ trade-offs./NNS and./CC propose./VB a./DT thoughtful./JJ technical./JJ implementation./NN ,./, which./WDT can./MD be./VB divided./VBN into./IN manageable./JJ sub-projects./NNS -./: Review./NN and./CC test./NN code./NN contributions./NNS made./VBN from./IN other./JJ team./NN members./NNS and./CC from./IN the./DT open./JJ source./NN community./NN -./: Depending./VBG on./IN term./NN ,./, you./PRP may./MD need./VB to./TO travel./VB for./IN about./RB a./DT week./NN to./TO attend./VB offsite./JJ meetings./NNS with./IN the./DT core./NN team./NN 
+
+Required./VBN Skills./NNS 
+-./: You./PRP should./MD be./VB a./DT strong./JJ coder./NN ../. No./DT specific./JJ language./NN required./VBN ,./, we./PRP use./VBP Go./NNP and./CC React./NNP ,./, which./WDT you./PRP 'll./MD learn./VB on./IN the./DT job./NN -./: Ability./NN to./TO consider./VB different./JJ architectural./JJ approaches./NNS ,./, weigh./JJ pros./NNS and./CC cons./NNS and./CC provide./VB recommendations./NNS -./: Ability./NN to./TO review./VB and./CC provide./VB constructive./JJ feedback./NN on./IN other./JJ people./NNS 's./POS code./NN 
+
+Transportation./NN and./CC Housing./NN 
+Transportation./NN and./CC housing./NN for./IN offsites./NNS provided./VBN ../. Previous./JJ locations./NNS include./VBP New./NNP York./NNP City./NNP ,./, Blue./NNP Mountain./NNP ,./, Toronto./NNP and./CC Port./NNP Credit./NNP where./WRB team-building./JJ events./NNS included./VBD broadway./NN shows./NNS ,./, winery./NN tours./NNS ,./, curling./VBG ,./, axe./NN throwing./NN ,./, and./CC salmon./RB fishing./NN to./TO name./VB a./DT few./JJ ../. 
+
+Compensation./NN and./CC Benefits./NNP Information./NNP 
+Full./JJ time./NN employees./NNS in./IN US./NNP and./CC Canada./NNP receive./VBP competitive./JJ compensation./NN and./CC benefits./NNS ../. 
+
+As./IN a./DT member./NN of./IN the./DT core./NN team./NN you./PRP 'll./MD report./VB directly./RB to./TO the./DT CTO./NNP ,./, with./IN training./NN and./CC mentorship./NN to./TO become./VB an./DT outstanding./JJ full./JJ stack./NN developer./NN and./CC technical./JJ leader./NN in./IN the./DT open./JJ source./NN community./NN ../. 

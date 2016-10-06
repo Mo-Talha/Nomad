@@ -1,0 +1,42 @@
+Job./NNP Title./NNP :./: Developmental./JJ Student./NNP (./( Web./NNP Developer./NNP )./) 
+
+Job./NNP Code./NNP :./: W2017-4921./JJ 
+
+
+Join./VB a./DT Team./NN on./IN the./DT Leading./NNP Edge./NNP 
+
+Are./NNP you./PRP looking./VBG for./IN a./DT Co-op./JJ opportunity./NN that./WDT will./MD allow./VB you./PRP to./TO gain./VB practical./JJ experience./NN in./IN a./DT corporation./NN at./IN the./DT heart./NN of./IN the./DT province./NN 's./POS power./NN system./NN ?./. Bringing./VBG together./RB almost./RB 300./CD generators./NNS ,./, traders./NNS ,./, local./JJ distribution./NN companies./NNS ,./, transmitters./NNS and./CC large./JJ volume./NN consumers./NNS ,./, the./DT IESO./NNP oversees./VBZ the./DT reliable./JJ operation./NN of./IN Ontario./NNP 's./POS electricity./NN grid./NN and./CC settles./VBZ the./DT province./NN 's./POS $./$ 10./CD billion./CD wholesale./JJ electricity./NN market./NN ../. Our./PRP$ vision./NN is./VBZ a./DT vibrant./JJ Ontario./NNP economy./NN supported./VBN by./IN a./DT reliable./JJ and./CC competitive./JJ electricity./NN market./NN ../. 
+
+To./TO make./VB this./DT happen./NN ,./, we./PRP are./VBP seeking./VBG forward-thinking./JJ students./NNS like./IN you./PRP ../. Employment./VB with./IN the./DT IESO./NNP offers./VBZ the./DT following./NN :./: 
+
+-./: Competitive./NN wages./NNS 
+-./: The./DT opportunity./NN to./TO work./VB with./IN industry./NN experts./NNS 
+-./: A./NN challenging./NN ,./, fast-paced./JJ team./NN environment./NN 
+-./: Valuable./JJ experience./NN at./IN a./DT widely./RB respected./VBN organization./NN in./IN a./DT dynamic./JJ ,./, high-profile./JJ industry./NN sector./NN 
+
+The./DT IESO./NNP will./MD provide./VB students./NNS with./IN an./DT opportunity./NN to./TO use./VB their./PRP$ knowledge./NN in./IN a./DT climate./NN that./IN fosters./NNS high./JJ standards./NNS of./IN performance./NN ,./, innovation./NN ,./, personal./JJ challenge./NN and./CC growth./NN ../. 
+
+
+Division/Department./NN :./: :./: Information./NN Technology./NNP /./NNP Business./NNP Solutions./NNP /./NNP Customer./NNP Information./NNP Management./NNP 
+
+
+You./PRP will./MD be./VB apart./RB of./IN a./DT group./NN responsible./JJ for./IN :./: The./DT Customer./NNP Information./NNP Management./NNP team./NN looks./VBZ after./IN web./NN applications./NNS and./CC web./VB site./NN development./NN including./VBG for./IN customer./NN and./CC staff./NN use./NN ../. These./DT systems./NNS include./VBP the./DT internal/external./JJ web./NN content./NN management./NN ,./, web./NN applications./NNS for./IN managing./VBG business./NN processes./NNS and./CC information./NN ,./, operational./JJ data./NN stores./NNS ,./, business./NN intelligence./NN tools./NNS ,./, information./NN reporting./NN ,./, Portal./NNP systems./NNS ,./, etc./FW ../. 
+
+
+Your./PRP$ job./NN duties./NNS may./MD include./VB :./: 
+-Publish./JJ new./JJ or./CC revised./VBN content./NN on./IN our./PRP$ internal./JJ and./CC external./JJ websites./NNS along./IN with./IN extending./VBG our./PRP$ new./JJ web./NN content./NN management./NN features./NNS to./TO embrace./VB more./JJR Web./NNP 2.0./CD features./NNS ../. 
+-./: Developing./VBG web./NNS based./VBN applications./NNS using./VBG any./DT of./IN the./DT following./JJ languages./NNS :./: 
+-./: HTML./NN 
+-./: Javascript./NN 
+-./: CSS./NN 
+-./: XML./NN 
+-./: Business./NN process./NN application./NN development./NN 
+
+
+This./DT job./NN will./MD provide./VB you./PRP with./IN the./DT following./JJ professional./JJ development./NN :./: 
+-Hands./NNS on./IN web./NN publishing./NN and./CC development./NN that./WDT will./MD focus./VB on./IN working./VBG with./IN customers./NNS to./TO publish./VB information./NN as./RB well./RB as./IN building./NN on./IN to./TO ,./, or./CC modifying./NN ,./, existing./VBG systems./NNS to./TO meet./VB the./DT needs./NNS of./IN our./PRP$ customers./NNS ../. 
+-Working./VBG in./IN an./DT Agile./NNP (./( Scrum./NNP )./) environment./NN 
+-Exposure./NN to./TO multiple./VB tools./NNS and./CC integrations./NNS with./IN legacy./NN systems./NNS 
+
+
+The./DT following./JJ knowledge./NN is./VBZ essential./JJ in./IN order./NN to./TO perform./VB the./DT job./NN :./: Web./NNP development./NN experience./NN with./IN Java./NNP ,./, ASP./NNP and./CC PHP./NNP ../. Some./DT experience./NN with./IN MySQL./NNP or./CC SQL./NNP Server./NNP ,./, and./CC Content./NNP Management./NNP Systems./NNP (./( Drupal./NNP ,./, Share./NNP Point./NNP )./) would./MD be./VB an./DT asset./NN ../. 

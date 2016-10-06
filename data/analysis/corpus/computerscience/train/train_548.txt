@@ -1,0 +1,34 @@
+We./PRP are./VBP looking./VBG to./TO hire./VB a./DT great./JJ iOS./JJ developer./NN who./WP has./VBZ passion./NN in./IN developing./VBG beautiful./JJ looking./VBG UI./NNP ../. The./DT developer./NN will./MD be./VB working./VBG in./IN a./DT production./NN environment./NN and./CC must./MD be./VB comfortable./JJ with./IN rapid./JJ iteration./NN cycles./NNS and./CC executing./VBG new./JJ tasks./NNS ../. In./IN addition./NN to./TO technical./JJ skills./NNS and./CC ability./NN ,./, we./PRP are./VBP looking./VBG for./IN a./DT candidate./NN who./WP is./VBZ able./JJ to./TO work./VB closely./RB with./IN our./PRP$ existing./VBG team./NN and./CC will./MD be./VB a./DT good./JJ fit./NN to./TO our./PRP$ existing./VBG company./NN culture./NN ../. 
+
+Responsibilities./NNS 
+-./: iOS./NN app./NN development./NN 
+-./: Development./NNP of./IN current./JJ architecture./NN and./CC take./VB part./NN in./IN planning./NN of./IN its./PRP$ future./NN 
+
+Required./VBN Skills./NNS 
+Deep./NNP knowledge./NN of./IN Swift./NNP and./CC iOS./VB SDK./NNP 
+1-2+./JJ years./NNS of./IN active./JJ experience./NN in./IN iOS./NN development./NN 
+Good./JJ understanding./NN of./IN MVC./NNP design./NN patterns./NNS 
+Experience./NN in./IN working./VBG with./IN JSON./NNP ,./, and./CC networking./VBG APIs./NNP 
+Knowledge./NNP of./IN the./DT iOS./JJ SDK./NNP performance./NN tools./NNS and./CC optimization./NN techniques./NNS 
+Experience./NN with./IN integrating./NN and./CC effective./JJ using./VBG 3rd./CD party./NN and/or./NN open./JJ source./NN 
+technologies./NNS 
+Experience./NN in./IN building./NN beautiful./NN UI\UX./NNP 
+Quick./NNP learner./NN ,./, with./IN passion./NN for./IN new./JJ technologies./NNS 
+Deals./NNS well./RB with./IN ambiguous/undefined./VBN problems./NNS ;./: ability./NN to./TO think./VB abstractly./RB 
+
+Nice./NNP to./TO have./VB :./: 
+-./: Familiar./NN with./IN ObjectiveC./NNP 
+-./: Own./NN published./VBN apps./RB on./IN the./DT App./NNP Store./NNP 
+-./: Own./JJ projects./NNS on./IN Github\Bitbucket./NNP 
+-./: GIT./NN 
+
+Transportation./NN And./CC Housing./NNP We./PRP 'll./MD cover./VB it./PRP if./IN needed./VBN 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+You./PRP 'll./MD get./VB $./$ $./$ $./$ (./( we./PRP 'll./MD talk./VB details./NNS )./) 
+Lots./NNS of./IN high./JJ fives./NNS (./( and./CC letters./NNS of./IN recommendation./NN from./IN the./DT CEO./NNP )./) 
+Opportunity./NN for./IN FT./NNP employment./NN !./. 
+Plus./CC we./PRP 're./VBP super./JJ fun./NN to./TO work./VB with./IN :./: D./NN 
+
+Career./NNP Development./NNP And./CC Training./NNP 
+You./PRP 'll./MD get./VB to./TO work./VB in./IN a./DT fast-paced./JJ ,./, super./JJ fun./NN startup./NN !./. Lots./NNS of./IN say./NN in./IN how./WRB the./DT iOS./NN app./NN for./IN the./DT next./JJ big./JJ social./JJ media./NNS network./NN is./VBZ shaped./VBN !./. We./PRP also./RB have./VBP a./DT basketball./NN court./NN so./IN you./PRP can./MD work./VB on./IN those./DT skills./NNS too./RB ../. 

@@ -1,0 +1,25 @@
+Summary./JJ 
+Brock./NNP Solutions./NNP is./VBZ an./DT engineering./NN solutions./NNS and./CC professional./JJ services./NNS company./NN specializing./VBG in./IN the./DT design./NN ,./, build./NN and./CC implementation./NN of./IN real-time./JJ solutions./NNS for./IN broad./JJ based./VBN industrial/manufacturing./NN and./CC transportation/logistics./NNS organizations./NNS globally./RB ../. With./IN approximately./RB 400./CD employees./NNS in./IN Canada./NNP and./CC the./DT U.S../NNP ,./, Brock./NNP Solutions./NNP is./VBZ a./DT privately./RB held./VBN ,./, employee./NN owned./VBD organization./NN with./IN over./IN 30./CD years./NNS in./IN the./DT real-time./JJ solutions./NNS space./NN ../. 
+
+Employees./NNS are./VBP given./VBN inspiring./VBG opportunities./NNS to./TO travel./VB across./IN the./DT country./NN and./CC participate./VB in./IN multi-million./JJ dollar./NN projects./NNS with./IN recognizable./JJ brands./NNS ../. As./IN a./DT developer./NN at./IN Brock./NNP Solutions./NNP ,./, you./PRP will./MD get./VB the./DT opportunity./NN to./TO explore./VB the./DT newest./JJS technologies./NNS ,./, designs./NNS ,./, platforms./NNS ,./, and./CC programming./VBG concepts./NNS ../. Innovative./JJ ideas./NNS are./VBP encouraged./VBN and./CC used./VBN throughout./IN the./DT lifecycle./NN of./IN our./PRP$ applications./NNS ../. 
+
+Why./WRB Choose./NNP Brock./NNP ?./. 
+-Hands-on./NNS experience./NN 
+-./: Collaborative./NN team./NN atmosphere./RB and./CC friendly./JJ work./NN environments./NNS 
+-./: Mentors./NNS who./WP are./VBP willing./JJ to./TO share./NN years./NNS of./IN experience./NN in./IN the./DT field./NN 
+-./: Sports./NNS and./CC social./JJ events./NNS 
+
+Responsibilities./NNS 
+-./: Designing./NN ,./, developing./VBG and./CC maintaining./VBG multiple./JJ applications./NNS and./CC services./NNS 
+-./: Developing./VBG reporting./NN capabilities./NNS 
+-./: Detecting./NN ,./, reporting./NN ,./, investigating./NN ,./, and./CC fixing./VBG defects./NNS 
+-./: Conferencing./VBG directly./RB with./IN clients./NNS on./IN project./NN specifications./NNS 
+-./: Performing./VBG other./JJ duties./NNS as./IN assigned./VBN by./IN your./PRP$ Project./NN Manager./NNP 
+
+Required./VBN Skills./NNS 
+-./: Experience./NN with./IN C./NNP #./# ,./, C++./NNP ,./, Java./NNP ,./, ASP.NET./NNP ,./, SQL./NNP 
+-./: Experience./NN developing./NN and./CC debugging./NN in./IN Microsoft./NNP IDEs./NNP 
+-./: Have./VBP a./DT strong./JJ desire./NN and./CC the./DT ability./NN to./TO learn./VB and./CC use./VB new./JJ technology./NN 
+-./: Excellent./NN communication./NN skills./NNS ,./, both./DT verbal./JJ and./CC written./VBN 
+-./: Ability./NN to./TO break./VB down./RP problems./NNS and./CC solve./VB efficiently./RB 
+-./: Working./NN towards./IN a./DT Degree./NNP in./IN Mechatronics./NNP ,./, Systems./NNP Engineering./NNP ,./, Software./NNP Engineering./NNP ,./, Computer./NNP Science./NNP or./CC related./VBN field./NN 

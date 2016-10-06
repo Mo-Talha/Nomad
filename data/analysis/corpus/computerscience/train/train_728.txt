@@ -1,0 +1,22 @@
+Summary./JJ 
+The./DT analytics./NNS developer./JJ Analyst./NNP will./MD work./VB with./IN state./NN of./IN the./DT art./NN data./NNS processing./NN and./CC visualization./NN tools./NNS ,./, working./VBG on./IN analytics./NNS and./CC data./NNS managment./NN tasks./NNS ,./, building./VBG new./JJ capabilities./NNS for./IN nModal./NN as./RB well./RB as./IN working./VBG with./IN clients./NNS and./CC partners./NNS on./IN projects./NNS ../. 
+
+Responsibilities./NNS 
+-Become./JJ proficient./NN with./IN nModals./NNS platform./NN ,./, Analytics./NNP Canvas./NNP 
+-Build./JJ dashboards./NNS and./CC data./NNS marts./NNS using./VBG the./DT platform./NN ,./, and./CC databases./VBZ including./VBG SQL./NNP Server./NNP ,./, Google./NNP BigQuery./NNP and./CC others./NNS 
+-work./NN to./TO enhance./VB nModals./NNS software./NN release./NN process./NN by./IN developing./VBG automated./JJ test./NN platforms./NNS and./CC data./NNS structures./NNS ../. 
+-Create./JJ tutorial./JJ content./NN for./IN data./NNS management./NN and./CC analytics./NNS processes./NNS ,./, and./CC potentially./RB give./VB training./NN and./CC technical./JJ support./NN to./TO nModal./JJ clients./NNS 
+
+Required./VBN Skills./NNS 
+-database./NN experience./NN ,./, knowledge./NN of./IN SQL./NNP and./CC data./NNS modelling./NN concepts./NNS 
+-reporting./VBG and./CC dashboard./JJ design./NN experience./NN 
+-./: C./NN #./# development./NN skills./NNS ,./, (./( or./CC similar./JJ object./NN oriented./VBD languages./NNS such./JJ as./IN Java./NNP )./) 
+
+Career./NNP Development./NNP And./CC Training./NNP 
+The./DT candidate./NN will./MD get./VB a./DT chance./NN to./TO learn./VB about./IN the./DT latest./JJS trends./NNS in./IN web./JJ analytics./NNS ,./, and./CC hone./VBP their./PRP$ data./NNS modelling./NN and./CC analysis./NN skills./NNS building./NN analysis./NN for./IN large./JJ clients./NNS and./CC on./IN massive./JJ ,./, real./JJ world./NN data./NNS sets./NNS ../. 
+
+Transportation./NN And./CC Housing./NN 
+We./PRP are./VBP on./IN the./DT TTC-./NNP Dundas./NNP West./NNP Station./NNP on./IN the./DT Bloor./NNP line./NN ../. 
+
+Other./JJ Job./NNP Details./NNS 
+We./PRP work./VBP hard./RB but./CC like./IN to./TO have./VB fun./NN and./CC build./VB things./NNS that./WDT make./VBP our./PRP$ customers./NNS crazy./VBP happy./JJ ../. If./IN you./PRP are./VBP interested./JJ in./IN working./VBG in./IN a./DT bootstrap./NN startup./NN with./IN customers./NNS all./DT over./IN the./DT world./NN ,./, and./CC have./VBP the./DT coding./NN skills./NNS to./TO build./VB great./JJ things./NNS fast./RB ,./, we./PRP want./VBP you./PRP on./IN the./DT team./NN ../. 

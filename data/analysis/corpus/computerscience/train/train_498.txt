@@ -1,0 +1,67 @@
+Co-op./NNP Senior./NNP Business./NNP Systems./NNPS Analyst./NNP ,./, Technology./NNP &./CC Operations./NNP 
+
+CIBC./NNP is./VBZ a./DT leading./VBG Canadian-based./JJ global./JJ financial./JJ institution./NN ../. Through./IN our./PRP$ three./CD major./JJ businesses./NNS -./: Retail./NNP and./CC Business./NNP Banking./NNP ,./, Wealth./NNP Management./NNP and./CC Wholesale./NNP Banking./NNP -./: we./PRP provide./VBP a./DT full./JJ range./NN of./IN financial./JJ products./NNS and./CC services./NNS to./TO 11./CD million./CD individual./NN ,./, small./JJ business./NN ,./, commercial./JJ ,./, corporate./JJ and./CC institutional./JJ clients./NNS in./IN Canada./NNP and./CC around./IN the./DT world./NN ../. We./PRP invest./VBP in./IN our./PRP$ businesses./NNS ,./, our./PRP$ clients./NNS ,./, our./PRP$ people./NNS and./CC our./PRP$ communities./NNS to./TO deliver./VB consistent./JJ and./CC sustainable./JJ earnings./NNS to./TO our./PRP$ shareholders./NNS ../. To./TO learn./VB more./JJR about./IN CIBC./NNP 's./POS Lines./NNP of./IN Business./NNP ,./, please./VB visit./VB our./PRP$ website./NN ../. 
+
+CIBC./NNP delivers./NNS access./NN to./TO career./VB and./CC development./NN opportunities./NNS ,./, safe./JJ and./CC healthy./JJ workplaces./NNS ,./, effective./JJ training./NN ,./, and./CC positive./JJ work-life./JJ balance./NN -./: so./RB that./IN employees./NNS are./VBP able./JJ to./TO perform./VB at./IN their./PRP$ best./JJS ,./, contribute./NN to./TO their./PRP$ communities./NNS and./CC focus./VB on./IN cultivating./VBG deeper./JJR relationships./NNS with./IN our./PRP$ clients./NNS ../. 
+
+Every./DT year./NN ,./, CIBC./NNP is./VBZ recognized./VBN for./IN its./PRP$ business./NN success./NN ,./, community./NN commitment./NN and./CC employee./NN initiatives./NNS ../. We./PRP are./VBP proud./JJ of./IN this./DT success./NN and./CC are./VBP committed./VBN to./TO creating./VBG an./DT inclusive./JJ workplace./NN and./CC an./DT environment./NN where./WRB all./DT employees./NNS can./MD excel./VB ../. 
+
+To./TO learn./VB more./JJR about./IN CIBC./NNP and./CC the./DT CIBC./NNP Group./NNP of./IN Companies./NNP please./VBP visit./NN CIBC.com./NNP ../. 
+
+Business./NN Unit./NNP Description./NNP &./CC Job./NNP Overview./NNP :./: 
+
+This./DT position./NN is./VBZ an./DT 8./CD month./NN work-term./NN ../. 
+
+We./PRP are./VBP looking./VBG for./IN highly./RB motivated./VBN and./CC accomplished./VBN individuals./NNS with./IN a./DT proven./JJ academic./JJ track./NN record./NN ,./, demonstrated./VBD knowledge./NN of./IN requirements./NNS analysis./NN and./CC business./NN process./NN modeling./VBG skills./NNS ../. An./DT opportunity./NN with./IN CIBC./NNP will./MD provide./VB you./PRP with./IN the./DT opportunity./NN to./TO work./VB with./IN stakeholders./NNS to./TO develop./VB your./PRP$ skills./NNS on./IN challenging./VBG assignments./NNS while./IN making./VBG meaningful./JJ contributions./NNS to./TO CIBC./NNP ../. 
+
+What./WP You./PRP 'll./MD be./VB Doing./VBG :./: 
+
+Lead./VB the./DT development./NN of./IN requirements./NNS ,./, testing./VBG ,./, training./NN and./CC implementation./NN of./IN applications./NNS ../. Ensure./NNP user./JJ needs./NNS are./VBP accurately./RB translated./VBN into./IN functional./JJ and./CC non-functional./JJ requirements./NNS ../. 
+
+What./WP We./PRP 're./VBP Looking./VBG For./IN :./: 
+
+-./: Analyze./NN and./CC make./VB recommendations./NNS in./IN formulating./NN and./CC defining./VBG system./NN scope./NN and./CC objectives./NNS ../. Maintain./VB a./DT good./JJ understanding./NN of./IN client./NN processes./NNS ../. 
+-./: Validate./NN design./NN and./CC prototyping./NN of./IN new./JJ applications./NNS in./IN process./NN improvement./NN sessions./NNS with./IN clients./NNS ../. 
+-./: Analyze./NN business./NN implications./NNS of./IN new./JJ and./CC enhanced./JJ application./NN projects./NNS ../. 
+-./: Design./NN training./NN for./IN users./NNS on./IN new./JJ or./CC enhanced./JJ applications./NNS ../. 
+
+
+KNOWLEDGE/SKILL./NNP REQUIREMENTS./NNP :./: 
+
+-./: Demonstrated./VBD Written./NNP and./CC Oral./NNP Communication./NNP skills./NNS ../. 
+-./: Experience./NN with./IN Use./NNP Case./NNP Analysis./NNP ,./, Definition./NNP and./CC Development./NNP ../. 
+-./: Demonstrated./VBD experience./NN with./IN Requirements./NNS Analysis./NNP (./( activities./NNS ,./, tasks./NNS ,./, practices./NNS and./CC deliverables./NNS associated./VBN with./IN eliciting./NN and./CC clearly./RB defining./NN and./CC documenting./NN required./JJ business./NN functionality./NN as./RB well./RB as./IN information./NN requirements./NNS )./) ../. 
+-./: Demonstrated./VBD applied./JJ Problem./NNP Solving./NNP ,./, Decision./NNP Making./NNP and./CC Critical./NNP Thinking./NNP skills./NNS ../. 
+-./: Demonstrated./VBD ability./NN to./TO work./VB with./IN individuals./NNS and./CC groups./NNS in./IN a./DT constructive./JJ and./CC collaborative./JJ manner./NN ../. 
+-./: Knowledge./NN of./IN and./CC ability./NN to./TO use./VB and./CC administer./VB IT./NNP Standards./NNP ,./, Policies./NNP and./CC Procedures./NNP ../. 
+-./: Knowledge./NN of./IN Business./NNP Process./NNP Modeling./NNP to./TO document./VB current./JJ business./NN processes./NNS ,./, analyze./VBP to./TO identify./VB problems./NNS and./CC opportunities./NNS ,./, and./CC re-engineer./NN for./IN improvement./NN ../. 
+-./: IT./NN Project./NNP Management./NNP knowledge./NN and./CC experience./NN ../. 
+-./: Must./NN have./VBP experience./NN with./IN MS./NNP Office./NNP (./( Outlook./NNP ,./, Word./NNP ,./, Excel./NNP ,./, PowerPoint./NNP ,./, Project./NNP ,./, Access./NNP ,./, Visio./NNP )./) and./CC SharePoint./NNP ../. 
+
+
+Assets./NNS :./: 
+
+-./: Must./NN possess./VB a./DT positive./JJ attitude./NN and./CC commitment./NN to./TO learning./VBG and./CC development./NN ../. 
+-./: Must./NN have./VBP the./DT desire./NN to./TO take./VB on./IN responsibility./NN and./CC ownership./NN ../. 
+-./: Successful./NN candidates./NNS must./MD exhibit./VB CIBC./NNP 's./POS values./NNS of./IN trust./NN ,./, team./NN work./NN ,./, and./CC accountability./NN ../. 
+
+
+What./WP CIBC./NNP Can./MD Offer./VB You./PRP :./: 
+
+-./: Competitive./NN salary./NN and./CC banking./NN benefits./NNS 
+-./: Career./NN growth./NN ,./, development./NN and./CC continuous./JJ learning./NN opportunities./NNS 
+-./: Opportunity./NN to./TO be./VB involved./VBN in./IN CIBC./NNP events./NNS that./WDT help./VBP our./PRP$ communities./NNS 
+-./: To./TO learn./VB more./JJR about./IN Rewards./NNP &./CC Recognition./NNP ,./, Learning./NNP &./CC Development./NNP ,./, and./CC Employee./NNP Community./NNP Involvement./NNP :./: https./NN :./: //www.cibc.com/ca/inside-cibc/careers/grow-your-career.html./JJ 
+
+
+What./WP You./PRP Need./VBP to./TO Know./VB :./: 
+
+-./: Candidates./NNS must./MD be./VB legally./RB eligible./JJ to./TO work./VB in./IN Canada./NNP at./IN the./DT location./NN (./( s./NN )./) specified./VBD below./IN and./CC ,./, where./WRB applicable./JJ ,./, must./MD have./VB a./DT valid./JJ work./NN permit./NN or./CC study./VB permit./NN that./WDT allows./VBZ the./DT candidate./NN to./TO fulfill./VB the./DT requirements./NNS of./IN the./DT role./NN 
+-./: This./DT role./NN operates./VBZ within./IN a./DT normal./JJ office./NN environment./NN with./IN little./JJ exposure./NN to./TO adverse./VB working./VBG conditions./NNS ../. 
+
+Job./NNP Location./NNP :./: GTA./NNP office./NN location./NN 
+
+CIBC./NNP thanks./NNS all./DT applicants./NNS for./IN their./PRP$ interest./NN ;./: however./RB ,./, only./RB those./DT selected./VBN for./IN an./DT interview./NN will./MD be./VB contacted./VBN ../. 
+
+Application./NN Instructions./NNS 
+Please./VB ensure./VB to./TO include./VB a./DT cover./JJ letter./NN ../. 

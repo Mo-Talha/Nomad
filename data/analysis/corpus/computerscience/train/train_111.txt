@@ -1,0 +1,14 @@
+Summary./JJ 
+Utilize./VB a./DT balance./NN of./IN your./PRP$ technical./JJ and./CC creative./JJ thinking./NN as./IN a./DT User./NNP Experience./NNP Engineer./NNP Co-op./NNP to./TO bring./VB to./TO life./NN web./NN and./CC mobile./JJ products./NNS that./WDT support./VBP global./JJ public./JJ health./NN ../. This./DT position./NN is./VBZ a./DT rare./JJ opportunity./NN to./TO apply./VB your./PRP$ technical./JJ and./CC creative./JJ prowess./NN to./TO the./DT development./NN of./IN socially./RB meaningful./JJ innovative./JJ technologies./NNS in./IN global./JJ health./NN !./. 
+
+Responsibilities./NNS 
+-./: Work./NN within./IN the./DT Design./NNP team./NN to./TO architect./VB and./CC implement./VB concept./NN ideas./NNS into./IN functioning./VBG products./NNS rapidly./RB and./CC iteratively./RB 
+-./: Collaborate./NN and./CC support./NN product./NN conceptualizations./NNS with./IN designers./NNS 
+-./: Unleash./NN the./DT unicorn./JJ you./PRP know./VBP is./VBZ inside./IN you./PRP 
+
+Required./VBN Skills./NNS 
+-./: Currently./RB enrolled./VBN in./IN a./DT degree./NN in./IN systems./NNS designs./NNS ,./, computer./NN science./NN ,./, software./NN engineering./NN ,./, or./CC related./VBN fields/skill./JJ sets./NNS 
+-./: Rapid./JJ prototyping./VBG with./IN full-stack./JJ web./NN technologies./NNS (./( HTML5/CSS/JS./NNP ,./, React.js./NNP ,./, Bootstrap./NNP ,./, Node.js./NNP ,./, Backbone./NNP ,./, Express./NNP ,./, etc./FW ../. )./) and/or./NN visualization./NN frameworks/libraries./NNS (./( D3.js./NNP ,./, Processing./NNP ,./, etc./FW ../. )./) 
+-./: An./DT eye./NN for./IN design./NN (./( visual./JJ ,./, interactive./JJ ,./, etc./FW ../. )./) ,./, with./IN an./DT obsession./NN for./IN the./DT smallest./JJS of./IN details./NNS 
+-./: Understanding./NN of./IN user-centred./JJ design./NN principles./NNS and./CC design./NN heuristics./NNS 
+-./: Interest./NN in./IN data./NNS visualization./NN ,./, mapping/cartography./NN ,./, big./JJ data./NNS ,./, analytics./NNS ,./, and./CC public./JJ health./NN 

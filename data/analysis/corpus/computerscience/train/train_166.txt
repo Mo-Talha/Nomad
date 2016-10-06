@@ -1,0 +1,23 @@
+The./DT Role./NNP 
+The./DT Boutros./NNP Lab./NNP research./NN team./NN at./IN the./DT Ontario./NNP Institute./NNP for./IN Cancer./NNP Research./NNP is./VBZ a./DT global./JJ leader./NN in./IN cancer./NN genomics./NNS ../. Our./PRP$ work./NN helps./VBZ to./TO improve./VB the./DT treatment./NN and./CC care./NN for./IN thousands./NNS of./IN cancer./NN patients./NNS across./IN the./DT world./NN ../. As./IN one./CD of./IN the./DT largest./JJS bioinformatics./NNS labs./NN in./IN Canada./NNP ,./, our./PRP$ team./NN utilizes./VBZ a./DT broad./JJ set./NN of./IN computational./JJ ,./, mathematical./JJ and./CC statistical./JJ skills./NNS to./TO answer./VB pressing./VBG questions./NNS in./IN cancer./NN research./NN ../. Our./PRP$ work./NN is./VBZ regularly./RB published./VBN in./IN scientific./JJ journals./NNS such./JJ as./IN Nature./NN and./CC Bioinformatics./NNS ../. 
+
+Software./NNP engineers./NNS at./IN the./DT Boutros./NNP Lab./NNP are./VBP passionate./JJ about./IN applying./VBG their./PRP$ knowledge./NN of./IN software./NN development./NN and./CC design./NN to./TO improve./VB scientific./JJ research./NN ../. Our./PRP$ engineers./NNS develop./VBP scalable./JJ and./CC distributed./JJ software./NN solutions./NNS that./WDT maximize./VBP utilization./NN of./IN our./PRP$ 8500./CD core./NN computing./VBG cluster./NN and./CC address./VB the./DT challenges./NNS of./IN storing./NN and./CC accessing./VBG the./DT hundreds./NNS of./IN terabytes./NNS of./IN genomic./JJ data./NNS that./IN our./PRP$ team./NN generates./NNS and./CC analyzes./NNS ../. Solving./VBG these./DT types./NNS of./IN problems./NNS requires./VBZ talents./NNS in./IN research./NN ,./, collaboration./NN as./RB well./RB as./IN technical./JJ leadership./NN ../. Having./VBG a./DT solid./JJ background./NN in./IN computer./NN science./NN will./MD enable./VB you./PRP to./TO continually./RB come./VB up./RP with./IN new./JJ ideas./NNS and./CC strong./JJ leadership./NN skills./NNS will./MD allow./VB you./PRP to./TO see./VB your./PRP$ great./JJ ideas./NNS adopted./VBN by./IN others./NNS ../. 
+
+Responsibilities./NNS 
+-./: As./IN a./DT software./NN engineer./NN you./PRP will./MD use./VB your./PRP$ design./NN ,./, analysis./NN and./CC programming./VBG skills./NNS to./TO create./VB systems./NNS that./WDT improve./VBP code./NN quality./NN and./CC boost./NN productivity./NN ../. 
+-./: Assist./NN with./IN adoption./NN of./IN professional./JJ level./NN design./NN practices./NNS 
+
+Preferred./JJ Qualifications./NNS 
+-./: Experience./NN in./IN systems./NNS software./NN or./CC algorithms./NN ../. 
+-./: Excellent./NN implementation./NN skills./NNS (./( C++./NNP ,./, Perl./NNP ,./, Python./NNP )./) ../. 
+-./: Knowledge./NN of./IN UNIX/Linux./NNP environments./NNS ../. 
+-./: Familiarity./NN with./IN distributed./JJ programming./VBG beneficial./JJ ../. 
+
+Nice./NNP to./TO Have./VB 
+-./: Experience./NN developing./VBG R./NNP code./NN ../. 
+-./: Prior./NN exposure./NN to./TO molecular./JJ biology./NN ,./, biochemistry./NN ,./, or./CC bioinformatics./NNS ../. 
+
+About./IN Us./NNP 
+Located./VBN in./IN the./DT Discovery./NNP District./NNP of./IN downtown./NN Toronto./NNP ,./, lab./NN members./NNS have./VBP access./NN to./TO numerous./JJ international./JJ speaker./NN series./NN and./CC conferences./NNS covering./VBG a./DT wide./JJ range./NN of./IN medical./JJ research./NN topics./NNS ../. In./IN addition./NN to./TO the./DT academic./JJ resources./NNS ,./, the./DT lab./NN also./RB regularly./RB takes./VBZ advantages./NNS of./IN the./DT many./JJ dining./NN and./CC entertainment./NN assets./NNS that./WDT Toronto./NNP has./VBZ to./TO offer./VB ../. 
+
+Visit./VB our./PRP$ website./NN at./IN www.oicr.on.ca./NN 

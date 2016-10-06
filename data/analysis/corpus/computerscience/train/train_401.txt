@@ -1,0 +1,26 @@
+Autodesk./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Oct../NNP 20./CD ,./, 2016./CD from./IN 11:30./CD AM./NNP -./: 1:30./CD PM./NNP at./IN Davis./NNP Centre./NNP 1301./CD ../. Please./VB plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+_________________________________________________./NN 
+
+Our./PRP$ Co-op./JJ students./NNS work./VBP on./IN a./DT variety./NN of./IN projects./NNS that./WDT help./VBP enhance./VB our./PRP$ products./NNS and./CC solutions./NNS for./IN our./PRP$ customers./NNS ../. 
+
+Here./RB is./VBZ an./DT incredible./JJ opportunity./NN to./TO work./VB with./IN the./DT professionals./NNS who./WP build./VBP some./DT of./IN the./DT most./RBS advanced./JJ 3D./CD animation./NN solutions./NNS for./IN Hollywood./NNP 's./POS special-effects./NNS ,./, visualization./NN specialists./NNS ,./, game./NN and./CC film./NN artists./NNS ../. 
+
+As./IN a./DT Software./NNP Developer./NNP Co-op./NNP part./NN of./IN Autodesk./NNP 's./POS 3ds./CD Max./NNP product./NN group./NN ,./, you./PRP will./MD work./VB as./IN part./NN of./IN a./DT team./NN ,./, using./VBG Agile./NNP development./NN methodologies./NNS to./TO implement./VB features./NNS helping./VBG provide./VB the./DT best./JJS real-time./JJ experience./NN and./CC workflows./NNS for./IN our./PRP$ customers./NNS using./VBG the./DT latest./JJS in./IN technology./NN ../. 
+
+This./DT is./VBZ a./DT great./JJ opportunity./NN to./TO get./VB front-line./JJ development./NN experience./NN in./IN a./DT stimulating./JJ environment./NN ../. 
+
+Project./JJ Role./NNP :./: 
+-./: Experiment./NN and./CC prototype./NN tools./NNS to./TO improve./VB customer./NN experience./NN 
+-./: Work./NN with./IN the./DT development./NN team./NN to./TO design./VB a./DT solution./NN that./WDT meets./VBZ customer./NN requirements./NNS 
+-./: Participate./NN in./IN iterative./JJ design./NN ,./, testing./VBG and./CC development./NN sprints./NNS to./TO refine./VB the./DT overall./JJ product./NN solution./NN 
+-./: Present./VB your./PRP$ solutions./NNS in./IN team./NN design./NN reviews./NNS 
+-./: Currently./RB pursuing./VBG your./PRP$ degree./NN in./IN Computer./NNP Science./NNP ,./, Software./NNP or./CC Computer./NNP Engineering./NNP ,./, ideally./RB with./IN a./DT focus./NN on./IN 3D./CD programming./NN ,./, designing./VBG and/or./JJ game./NN design./NN and./CC animation./NN ../. 
+-./: High./JJ interest./NN for./IN software./NN development./NN &./CC design./NN 
+-./: You./PRP are./VBP creative./JJ ,./, flexible./JJ and./CC like./IN to./TO get./VB lost./VBN in./IN your./PRP$ coding./NN 
+-./: You./PRP like./IN to./TO work./VB with./IN others./NNS ,./, you./PRP communicate./VBP well./RB and./CC are./VBP ok./JJ with./IN presenting./VBG your./PRP$ ideas./NNS in./IN front./NN of./IN a./DT group./NN 
+
+Career./NNP Development./NNP And./CC Training./NN :./: 
+Tutorials./NNS and./CC training./NN are./VBP offered./VBN during./IN work./NN term./NN on./IN Agile./NNP methodology./NN ,./, JIRA./NNP &./CC other./JJ development./NN principles./NNS ../. 
+
+Transportation./NN And./CC Housing./NN :./: 
+We./PRP will./MD reimburse./VB travel./NN fare./NN from./IN Waterloo./NNP to./TO Montreal./NNP and./CC back./RB to./TO Waterloo./NNP ../. 

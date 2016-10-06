@@ -1,0 +1,33 @@
+Reminder./NN :./: Students./NNS are./VBP responsible./JJ for./IN ensuring./VBG they./PRP are./VBP eligible./JJ for./IN an./DT 8-month./JJ work./NN term./NN before./IN applying./VBG ../. Please./NNP discuss./VB your./PRP$ work/study./NN sequence./NN flexibility./NN with./IN your./PRP$ academic./JJ advisor./NN as./RB soon./RB as./IN possible./JJ ../. 
+
+POSITION./NNP SUMMARY./NNP 
+Reporting./VBG to./TO the./DT Manager./NNP ,./, BlackBerry./NNP Cloud./NNP and./CC Software./NNP Development./NNP this./DT role./NN is./VBZ responsible./JJ for./IN developing./VBG BlackBerry./NNP 's./POS integrated./JJ automation./NN frameworks./NNS which./WDT provide./VBP end-to-end./JJ deployment./NN ,./, patching./VBG and./CC remediation./NN capabilities./NNS for./IN Corporate./NNP and./CC BlackBerry./NNP infrastructure./NN platform./NN environments./NNS ../. Our./PRP$ focus./NN is./VBZ to./TO provide./VB highly./RB secure./NN ,./, seamless./JJ customer./NN experiences./NNS with./IN increased./JJ implementation./NN velocity./NN ,./, through./IN delivery./NN of./IN user./JJ centric./JJ self-serve./JJ solutions./NNS ../. Partnered./VBN with./IN technical./JJ subject./JJ matter./NN experts./NNS you./PRP will./MD focus./VB on./IN providing./VBG solutions./NNS for./IN a./DT diverse./JJ group./NN of./IN stakeholders./NNS from./IN IoT./NNP and./CC BlackBerry./NNP Service./NNP Developers./NNP to./TO BlackBerry./NNP Executives./NNP ../. The./DT successful./JJ candidate./NN will./MD have./VB a./DT positive./JJ attitude./NN ,./, a./DT passion./NN for./IN exceptional./JJ customer./NN service./NN ,./, attention./NN to./TO detail./VB ,./, practical./JJ problem./NN solving./VBG abilities./NNS ,./, ability./NN to./TO proactively./RB identify./VB opportunities./NNS ,./, make./VBP recommendations./NNS and./CC quickly./RB implement./JJ solutions./NNS ../. 
+
+Location./NN :./: Waterloo./NNP and./CC Ottawa./NNP ,./, Farrar./NNP 
+Length./NNP of./IN Term./NNP :./: 8./CD months./NNS 
+
+RESPONSIBILITIES./NN 
+-Using./VBG current./JJ programming./NN language./NN and./CC technologies./NNS ,./, analyze./NN ,./, design./NN ,./, develop./VB ,./, debug./NN ,./, and./CC modify./VB web./NN applications./NNS ,./, software./NN tools./NNS and./CC software./NN integration./NN solutions./NNS (./( Ruby./NNP on./IN Rails./NNP ,./, Perl./NNP ,./, Python./NNP ,./, HTML./NNP and./CC Java./NNP )./) ../. 
+-Design./NN and./CC maintain./NN frameworks./NNS that./WDT allow./VBP teams./NNS to./TO remain./VB lean./JJ ,./, optimizing./JJ resources./NNS through./IN automation./NN ../. 
+-Work./NN with./IN the./DT Technical./NNP Documentation./NNP and./CC Process./NNP Specialist./NNP to./TO publish./VB user./JJ documents./NNS ../. 
+-Conduct./VB new./JJ technology./NN evaluations./NNS and./CC Proof./NNP of./IN Concepts./NNP to./TO deliver./VB quality./NN ,./, cost./NN effective./JJ open./JJ source./NN solutions./NNS ../. 
+-Set./JJ automation./NN framework./NN standards./NNS and./CC design./NN principals./NNS towards./VBP a./DT centralized./JJ language./NN agnostic./JJ design./NN ../. 
+-Work./NN collaboratively./RB with./IN product./NN owners./NNS throughout./IN the./DT development./NN and./CC testing./VBG cycles./NNS ,./, ensuring./VBG solutions./NNS meet./VB their./PRP$ needs./NNS ,./, prior./RB to./TO implementation./NN ../. 
+-Share./JJ technical./JJ knowledge./NN within./IN the./DT immediate./JJ team./NN and./CC stakeholders./NNS to./TO ensure./VB full./JJ understanding./NN of./IN developed./JJ solutions./NNS and./CC to./TO gather./VB potential./JJ improvement./NN input./NN ../. 
+-Attend./NN and./CC actively./RB participate./VB in./IN scrum./JJ sessions./NNS ,./, ensure./VB work./NN is./VBZ assessed./VBN ,./, prioritized./VBN and./CC progress./JJ updates./NNS provided./VBD ../. 
+
+Key./NNP Relationships./NNP 
+This./DT is./VBZ a./DT highly./RB collaborative./JJ role./NN so./IN you./PRP will./MD be./VB required./VBN to./TO build./VB ,./, maintain./NN and./CC develop./VB solid./JJ working./VBG relationships./NNS with./IN the./DT following./JJ teams./NNS :./: 
+-Cloud./NN 
+-BigData./NNS 
+-Database./NN 
+-Storage./NN 
+-BlackBerry./JJ Service./NNP Engineering./NNP 
+
+SKILLS./NNP &./CC QUALIFICATIONS./NNP 
+-University./NN program./NN in./IN computer./NN science./NN ,./, software./NN engineering./NN or./CC equivalent./NN ../. 
+-Background./NN in./IN ITIL./NNP ,./, Agile./NNP frameworks./VBZ /./NNP methodologies./NNS considered./VBD an./DT asset./NN ../. 
+-Software./NN development./NN ,./, scripting./VBG experience./NN with./IN Ruby./NNP on./IN Rails./NNP ,./, Perl./NNP ,./, Python./NNP and./CC Java./NNP ../. 
+-Demonstrated./VBN skills./NNS in./IN modern./JJ development./NN technologies./NNS and./CC tools./NNS including./VBG some./DT of./IN the./DT following./NN :./: Bootstrap./NNP ,./, Representational./NNP State./NNP Transfer./NNP (./( REST./NNP )./) API./NNP ,./, Web./NNP Services./NNPS ,./, SaltStack./NNP ,./, GitLab./NNP ,./, Cloud./NNP deployment./NN automation./NN ../. 
+-Excellent./JJ organizational./JJ skills./NNS with./IN ability./NN to./TO drive./VB timelines./NNS and./CC understand./NN when./WRB to./TO proactively./RB escalate./VB ../. 
+-Strong./JJ communication./NN skills./NNS ,./, both./DT written./VBN and./CC spoken./VBN ,./, experience./NN interfacing./NN with./IN and./CC presenting./VBG to./TO senior./JJ leaders./NNS ../. Motivated./VBN self-starter./NN with./IN the./DT ability./NN to./TO work./VB autonomously./RB and./CC as./IN part./NN of./IN a./DT team./NN ;./: ability./NN to./TO meet./VB deadlines./NNS and./CC adjust./VBP to./TO changing./VBG priorities./NNS to./TO meet./VB business./NN goals./NNS ../. 

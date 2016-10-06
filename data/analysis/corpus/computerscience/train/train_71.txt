@@ -1,0 +1,25 @@
+Summary./JJ 
+Uken./NNP is./VBZ looking./VBG for./IN a./DT UI/UX./NNP Design./NNP Intern./NNP who./WP is./VBZ keen./VBN on./IN applying./VBG their./PRP$ skills./NNS towards./NNS interface./NN and./CC interaction./NN design./NN ../. We./PRP 're./VBP looking./VBG for./IN someone./NN who./WP loves./VBZ games./NNS and./CC is./VBZ up./RP to./TO date./NN on./IN the./DT state./NN of./IN the./DT game./NN and./CC tech./NN industries./NNS ../. You./PRP will./MD be./VB working./VBG directly./RB with./IN the./DT game./NN teams./NNS and./CC designers./NNS to./TO build./VB interfaces./NNS for./IN cross-platform./NN and./CC cross-device./JJ games./NNS ../. This./DT paid./JJ position./NN is./VBZ a./DT 4-month./JJ ,./, full./JJ time./NN role./NN ../. 
+
+Responsibilities./NNS 
+What./WP you./PRP will./MD experience./VB :./: 
+Collaborate./NNP with./IN your./PRP$ teammates./NNS in./IN an./DT environment./NN where./WRB your./PRP$ design./NN decisions./NNS ,./, process./NN ,./, and./CC feedback./NN are./VBP valued./VBN ;./: 
+Be./VB a./DT part./NN of./IN a./DT fast./JJ moving./NN design./NN team./NN while./IN learning./VBG the./DT value./NN behind./IN lean./JJ ,./, iterative./JJ approaches./NNS ;./: 
+Have./NNP real./JJ ownership./NN over./IN the./DT tasks./NNS assigned./VBD to./TO you./PRP ;./: 
+Independence./NN with./IN guidance./NN -./: freedom./NN to./TO explore./VB ,./, experiment./NN ,./, and./CC grow./NN ;./: help./NN with./IN asset./NN creation./NN and./CC preparing./VBG them./PRP for./IN development./NN ;./: 
+Be./NNP involved./VBN in./IN the./DT design./NN process./NN from./IN ideation./NN to./TO implementation./NN for./IN thousands./NNS of./IN players./NNS ;./: 
+Experience./NN working./VBG across./IN a./DT variety./NN of./IN platforms./NNS -./: including./VBG Web./NNP ,./, iOS./NN ,./, Android./NNP ,./, and./CC Unity./NNP ../. 
+
+Required./VBN Skills./NNS 
+What./WP we./PRP 're./VBP looking./VBG for./IN :./: 
+A./DT basic./JJ understanding./NN of./IN front-end./JJ development./NN ;./: 
+Design./NN fundamentals./NNS and./CC principles./NNS ,./, i.e../FW ,./, Grid./NNP systems./NNS ;./: 
+Intermediate./NNP experience./NN using./VBG Adobe./NNP Photoshop./NNP ;./: 
+An./DT understanding./NN of./IN the./DT importance./NN of./IN optimized./JJ assets./NNS for./IN development./NN ;./: 
+Familiarity./NN with./IN Agile./NNP work./NN environments./NNS ;./: 
+Have./VBP an./DT understanding./NN of./IN wireframes./NNS ../. 
+
+It./PRP 's./VBZ a./DT big./JJ plus./NN if./IN you./PRP ..../: 
+Have./VBP working./VBG knowledge./NN of./IN HTML./NNP ,./, CSS./NNP ,./, and./CC JS./NNP ;./: 
+Designed./VBN and/or./NN coded./VBD a./DT website./NN to./TO completion./NN ;./: 
+Have./VBP experience./NN with./IN the./DT Unity./NNP platform./NN ../. 

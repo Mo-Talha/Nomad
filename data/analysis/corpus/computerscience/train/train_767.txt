@@ -1,0 +1,63 @@
+Students./NNS are./VBP eligible./JJ for./IN 8./CD month./NN terms./NNS through./IN a./DT sequence./NN change./NN ../. If./IN interested./JJ ,./, please./VB discuss./VB your./PRP$ work/study./NN sequence./NN flexibility./NN with./IN your./PRP$ academic./JJ advisor./NN as./RB soon./RB as./IN possible./JJ ../. 
+
+Apply./NNP to./TO www.ibm.com/jobs./VB ,./, 'Search./VB all./DT jobs./NNS and./CC apply./NN './'' ,./, './'' 59005BR./CD './'' in./IN Search./NNP box./NN 
+
+This./DT role./NN will./MD involve./VB working./VBG with./IN technology./NN that./WDT is./VBZ covered./VBN by./IN embargo./NN Export./NNP Regulations./NNP ../. If./IN you./PRP are./VBP a./DT Foreign./NNP National./NNP from./IN any./DT of./IN the./DT following./JJ embargoed./NN countries./NNS (./( Cuba./NNP ,./, Iran./NNP ,./, North./NNP Korea./NNP ,./, Sudan./NNP ,./, Syria./NNP )./) on./IN a./DT work./NN permit./NN you./PRP are./VBP not./RB eligible./JJ for./IN employment./NN in./IN this./DT position./NN ../. 
+_________________________________________________________________________./NN 
+
+Job./NNP Description./NNP 
+
+IBM./NNP is./VBZ a./DT globally./RB integrated./JJ technology./NN and./CC consulting./VBG company./NN headquartered./VBD in./IN Armonk./NNP ,./, New./NNP York./NNP ../. With./IN operations./NNS in./IN more./JJR than./IN 170./CD countries./NNS ,./, IBM./NNP attracts./VBZ and./CC retains./VBZ some./DT of./IN the./DT world./NN 's./POS most./RBS talented./JJ people./NNS to./TO help./VB solve./VB problems./NNS and./CC provide./VB an./DT edge./NN for./IN businesses./NNS ,./, governments./NNS and./CC non-profits./NNS ../. 
+
+Today./NN ,./, IBM./NNP is./VBZ focused./VBN on./IN five./CD growth./NN initiatives./NNS -./: Cloud./NNP ,./, Big./NNP Data./NNP and./CC Analytics./NNP ,./, Mobile./NNP ,./, Social./NNP Business./NNP and./CC Security./NNP ../. IBMers./NNS are./VBP working./VBG with./IN customers./NNS around./IN the./DT world./NN to./TO apply./VB the./DT company./NN 's./POS business./NN consulting./NN ,./, technology./NN and./CC Research./NNP &./CC Development./NNP expertise./NN to./TO enable./JJ systems./NNS of./IN engagement./NN that./IN deliver./VBZ dynamic./JJ insights./NNS for./IN businesses./NNS and./CC governments./NNS worldwide./VBP ../. 
+
+The./DT following./JJ student./NN position./NN is./VBZ a./DT part./NN of./IN IBM./NNP Canada./NNP 's./POS EPIC./NNP (./( Employment./NNP Pathways./NNP to./TO Interns./NNP &./CC Co-ops./NNP )./) Student./NN Program./NNP ../. This./DT position./NN is./VBZ only./RB open./JJ to./TO students./NNS registered./VBN in./IN a./DT Canadian./JJ University./NNP or./CC College./NNP program./NN ,./, who./WP must./MD be./VB returning./VBG to./TO full-time./JJ study./NN upon./IN the./DT completion./NN of./IN the./DT temporary./JJ IBM./NNP work./NN term./NN ../. 
+
+This./DT Student./NNP Position./NNP resides./NNS in./IN Fredericton./NNP ,./, NB./NNP and./CC is./VBZ an./DT 8./CD (./( co-op./NN )./) month./NN work./NN term./NN commencing./VBG January./NNP 2017./CD ../. 
+
+What./WP IBM./NNP Offers./VBZ You./PRP ?./. 
+
+1.Work./CD directly./RB on./IN product./NN and./CC services./NNS that./WDT affect./VBP our./PRP$ clients./NNS ,./, while./IN having./VBG access./NN to./TO cutting./VBG edge./NN software./NN technology./NN 
+2.Work./CD on./IN projects./NNS which./WDT are./VBP challenging./VBG and./CC rewarding./VBG 
+3.A./CD business./NN causal./NN dress./NN code./NN and./CC flexible./JJ work./NN hours./NNS ,./, to./TO ensure./VB work-life./JJ balance./NN 
+4.Access./CD to./TO Future./NNP Blue./NNP -./: IBM./NNP 's./POS large./JJ student./NN community./NN that./WDT provides./VBZ networking./JJ opportunities./NNS ,./, sporting./VBG and./CC social./JJ events./NNS ../. 
+
+It./PRP is./VBZ a./DT mandatory./JJ requirement./NN for./IN students./NNS to./TO apply./VB online./NN at./IN www.ibm.com/jobs./NN including./VBG a./DT (./( 1./CD )./) cover./NN letter./NN ,./, (./( 2./CD )./) resume./NN ,./, and./CC (./( 3./CD )./) official./NN or./CC unofficial./JJ transcripts./NNS ../. 
+
+Main./NNP Responsibilities./NNP for./IN Configuration./NNP Management./NNP Software./NNP Engineer./NNP Co-op./NN :./: 
+
+The./DT Security./NNP Intelligence./NNP (./( QRadar./NNP )./) Configuration./NNP Management./NNP team./NN is./VBZ seeking./VBG a./DT highly./RB motivated./VBN individual./JJ to./TO complete./VB a./DT work./NN term./NN as./IN a./DT build./NN engineer./NN ../. The./DT CM./NNP Team./NNP is./VBZ responsible./JJ for./IN Source./NNP Code./NNP Management./NNP ,./, Build./NNP ,./, and./CC Automation./NNP infrastructure./NN for./IN the./DT entire./JJ SI./NNP product./NN line./NN and./CC as./IN such./JJ requires./VBZ an./DT individual./JJ to./TO fulfill./VB various./JJ software./NN development./NN roles./NNS throughout./IN our./PRP$ product./NN build./VB environment./NN ../. To./TO fulfill./VB this./DT role./NN we./PRP are./VBP seeking./VBG a./DT mature./NN ,./, ambitious./JJ ,./, and./CC creative./JJ individual./NN to./TO join./VB our./PRP$ team./NN ../. 
+
+Key./JJ Responsibilities./NNS :./: 
+
+Maintain./NNP RPMs./NNP over./IN the./DT life./NN cycle./NN of./IN product./NN (./( s./PRP )./) 
+Monitor./NNP Linux./NNP security./NN vulnerabilities./NNS and./CC report./NN security./NN concerns./NNS to./TO management./NN 
+Update./NNP and./CC catalogue./NN 3rd./CD party./NN RPMs./NNP 
+Ensure./NN Linux./NNP OS./NNP is./VBZ secure/hardened./VBN and./CC updated./VBN on./IN a./DT regular./JJ basis./NN 
+Investigate./NNP new./JJ Linux./NNP OSes./NNP for./IN future./JJ releases./NNS ../. 
+Assist./NN with./IN completion./NN of./IN security./NN compliance./NN mandates./NNS ../. 
+Perform./NNP code./NN reviews./NNS as./IN required./VBN ../. 
+Assist./NN with./IN implementation./NN DevOps./NNP processes./VBZ ../. 
+Assist./NN with./IN design./NN and./CC deployment./NN of./IN Build./NNP Verification./NNP and./CC Build./NNP Automation./NNP environments./NNS ../. 
+
+Required./VBN Technical./NNP and./CC Professional./NNP Expertise./NNP 
+-Successful./JJ completion./NN of./IN 2./CD years./NNS Computer./NNP Engineering/Software./NNP Engineering./NNP 
+-Experienced./VBN with./IN Linux./NNP environments./NNS 
+-Software./NN development./NN experience./NN 
+-Willingness./NN to./TO learn./VB 
+-Ability./NN to./TO work./VB in./IN team./NN environment./NN 
+-Ability./NN to./TO complete./VB tasks./NNS without./IN supervision./NN 
+-Positive./JJ attitude./NN 
+-Client./NN focused./VBD 
+-Proven./RB oral./JJ and./CC written./VBN communication./NN skills./NNS 
+
+Preferred./NNP Technical./NNP and./CC Professional./NNP Experience./NNP 
+-None./NN 
+
+Eligibility./NN Requirements./NNS 
+
+This./DT role./NN will./MD involve./VB working./VBG with./IN technology./NN that./WDT is./VBZ covered./VBN by./IN embargo./NN Export./NNP Regulations./NNP ../. If./IN you./PRP are./VBP a./DT Foreign./NNP National./NNP from./IN any./DT of./IN the./DT following./JJ embargoed./NN countries./NNS (./( Cuba./NNP ,./, Iran./NNP ,./, North./NNP Korea./NNP ,./, Sudan./NNP ,./, Syria./NNP )./) on./IN a./DT work./NN permit./NN you./PRP are./VBP not./RB eligible./JJ for./IN employment./NN in./IN this./DT position./NN ../. 
+
+EO./NNP Statement./NNP 
+
+IBM./NNP is./VBZ committed./VBN to./TO creating./VBG a./DT diverse./JJ environment./NN and./CC is./VBZ proud./JJ to./TO be./VB an./DT equal./JJ opportunity./NN employer./NN ../. All./DT qualified./JJ applicants./NNS will./MD receive./VB consideration./NN for./IN employment./NN without./IN regard./NN to./TO race./NN ,./, color./NN ,./, religion./NN ,./, gender./NN ,./, gender./NN identity./NN or./CC expression./NN ,./, sexual./JJ orientation./NN ,./, national./JJ origin./NN ,./, genetics./NNS ,./, disability./NN ,./, age./NN ,./, or./CC veteran./NN status./NN ../. IBM./NNP is./VBZ also./RB committed./VBN to./TO compliance./VB with./IN all./DT fair./JJ employment./NN practices./NNS regarding./VBG citizenship./NN and./CC immigration./NN status./NN ../. 

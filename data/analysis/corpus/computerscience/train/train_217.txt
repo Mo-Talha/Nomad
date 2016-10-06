@@ -1,0 +1,36 @@
+Information./NNP Technology./NNP and./CC Communications./NNP (./( ITC./NNP )./) Intern./NNP Positions./NNP available./JJ in./IN January./NNP 2017./CD (./( Paid./NNP Internship./NNP )./) 
+
+Excellence./NN Leaves./VBZ a./DT Lasting./JJ Impression./NNP ../. Bring./VB Your./PRP$ Vision./NN to./TO shape./VB a./DT better./JJR world./NN ../. 
+
+At./IN Arup./NNP ,./, our./PRP$ innovative./JJ spirit./NN compels./NNS us./PRP to./TO express./VB our./PRP$ ingenuity./NN in./IN unique./JJ ways./NNS -./: developing./VBG many./JJ of./IN the./DT world./NN 's./POS most./RBS innovative./JJ and./CC sustainable./JJ buildings./NNS ,./, transport./NN and./CC civil./JJ engineering./NN projects./NNS ../. Arup./NNP is./VBZ a./DT global./JJ engineering./NN and./CC consulting./VBG firm./NN of./IN 12,000./CD creative./JJ minds./NNS ../. Our./PRP$ integrated./JJ approach./NN to./TO engineering./NN and./CC design./NN brings./VBZ together./RB the./DT best./JJS professionals./NNS to./TO meet./VB our./PRP$ client./NN 's./POS needs./NNS ../. Founded./VBN in./IN 1946./CD ,./, we./PRP are./VBP the./DT creative./JJ force./NN at./IN the./DT heart./NN of./IN many./JJ of./IN the./DT world./NN 's./POS most./RBS prominent./JJ projects./NNS in./IN the./DT built./NN environment./NN ,./, including./VBG the./DT Sydney./NNP Opera./NNP House./NNP ,./, the./DT London./NNP Eye./NNP ,./, and./CC the./DT Beijing./NNP National./NNP Stadium./NNP (./( aka./IN the./DT Bird./NNP 's./POS Nest./NNP )./) ../. Current./JJ North./JJ American./JJ projects./NNS include./VBP Fulton./NNP Street./NNP Transit./NNP Center./NNP in./IN NYC./NNP ,./, California./NNP High-Speed./NNP Rail./NNP ,./, and./CC the./DT Las./NNP Vegas./NNP Observation./NNP Wheel./NNP ../. 
+
+During./IN your./PRP$ internship./NN at./IN Arup./NNP ,./, you./PRP 'll./MD get./VB the./DT opportunity./NN to./TO work./VB on./IN exciting./VBG and./CC significant./JJ projects./NNS ,./, delivering./VBG quality./NN work./NN that./WDT has./VBZ a./DT positive./JJ and./CC lasting./JJ influence./NN on./IN the./DT community./NN and./CC the./DT environment./NN ../. 
+
+As./IN a./DT Systems./NNP Design./NNP intern./JJ in./IN the./DT Information./NNP Technology./NNP and./CC Communications./NNP team./NN ,./, you./PRP will./MD take./VB part./NN in./IN the./DT following./JJ kinds./NNS of./IN activities./NNS :./: 
+-./: Design./NN of./IN IT./NNP and./CC Communications./NNP infrastructure./NN for./IN the./DT built./JJ environment./NN including./VBG structured./VBD cabling./VBG systems./NNS ,./, local./JJ area./NN networks./NNS ,./, wireless/radio./JJ systems./NNS ,./, voice./NN systems./NNS ,./, security./NN systems./NNS ,./, public./JJ address./NN and./CC customer./NN information./NN systems./NNS ,./, airport./JJ systems./NNS ,./, transit./NN systems./NNS 
+-./: Report./NN writing./VBG 
+-./: Work./NN on./IN projects./NNS using./VBG Revit./NNP ,./, AutoCAD./NNP and./CC Microstation./NNP 
+-./: Give./NN structure./NN to./TO ideas./NNS './POS lots./NNS of./IN 'taking./VBG a./DT first./JJ pass./NN './POS at./IN spreadsheets./NNS ,./, reports./NNS and./CC analyses./NNS for./IN discussion./NN later./RB rather./RB than./IN instruction./NN 
+-./: Attend./NN meetings./NNS and./CC learn./NN from./IN listening./VBG ,./, asking./VBG questions./NNS and./CC discussion./NN 
+-./: Work./NN with./IN people./NNS from./IN other./JJ disciplines./NNS and/or./JJ vendors./NNS to./TO gain./VB knowledge./NN on./IN new./JJ subjects./NNS 
+-./: Be./NN involved./VBN in./IN discussions./NNS with./IN other./JJ disciplines./NNS and./CC Architects./NNS to./TO gain./VB knowledge./NN &./CC experience./NN ../. 
+
+Required./VBN :./: 
+-./: Currently./RB pursuing./VBG a./DT Bachelor./NNP 's./POS Degree./NNP in./IN Systems./NNP Design./NNP Engineering./NNP ,./, Electronics./NNP Engineering./NNP ,./, Computer./NNP Engineering./NNP ,./, or./CC Electrical./JJ Engineering./NN 
+-./: 3.0./CD GPA./NNP or./CC higher./JJR 
+-./: Good./JJ communication./NN skills./NNS are./VBP essential./JJ for./IN team-based./JJ working./NN 
+-./: Keen./NN interest./NN in./IN pursuing./VBG a./DT career./NN in./IN the./DT field./NN of./IN IT./NNP and./CC communications./NNS infrastructure./NN and./CC systems./NNS design./NN 
+-./: Excellent./NN planning./NN and./CC organization./NN skills./NNS required./VBN for./IN our./PRP$ fast-paced./JJ environment./NN 
+-./: Must./NN be./VB highly./RB motivated./VBN ,./, proactive./JJ and./CC willing./JJ to./TO take./VB on./IN new./JJ challenges./NNS 
+-./: Previous./JJ internship./NN experience./NN advantageous./JJ 
+Preferred./VBN :./: 
+-./: Internship./NN experience./NN in./IN a./DT consulting./NN firm./NN 
+-./: Academic./NNP research./NN or./CC testing./VBG with./IN relevant./JJ focus./NN ../. 
+-./: Experience./NN with./IN :./: AutoCAD./NNP ,./, Revit./NNP ,./, Microstation./NNP ,./, NavisWorks./NNP ,./, Microsoft./NNP Visio./NNP ,./, PowerPoint./NNP ,./, or./CC Project./NN 
+-./: Proven./NN ability./NN to./TO perform./VB in./IN a./DT deadline./NN situation./NN 
+-./: Past./JJ history./NN of./IN technical./JJ presentations./NNS and./CC technical./JJ writing./NN ,./, knowledge./NN sharing./VBG with./IN peers./NNS 
+-./: Evidence./NN of./IN teamwork./NN and./CC leadership./NN such./JJ as./IN professional./JJ accomplishment./NN or./CC honor./NN society./NN 
+
+Share./VB your./PRP$ passion./NN and./CC experience./NN in./IN a./DT global./JJ culture./NN that./WDT believes./VBZ your./PRP$ potential./JJ to./TO achieve./VB is./VBZ endless./JJ ../. This./DT is./VBZ your./PRP$ opportunity./NN to./TO shine./VB ../. 
+
+Arup./NNP is./VBZ proud./JJ to./TO be./VB an./DT equal./JJ opportunity./NN employer./NN ../. 

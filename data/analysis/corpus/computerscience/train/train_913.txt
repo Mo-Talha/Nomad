@@ -1,0 +1,20 @@
+Summary./JJ 
+We./PRP are./VBP a./DT Toronto./NNP based./VBN company./NN (./( http./NN :./: //www.synaptop.com./NN )./) looking./VBG for./IN a./DT skilled./JJ Full-Stack./NN Web./NNP Developer./NNP ../. Synaptop./NNP is./VBZ an./DT operating./NN system./NN for./IN the./DT cloud./NN that./WDT allows./VBZ users./NNS to./TO watch./VB videos./NN ,./, play./VB games./NNS and./CC interact./NN with./IN their./PRP$ friends./NNS in./IN sync./NN ../. 
+
+Responsibilities./NNS 
+Development./NNP and./CC maintenance./NN of./IN web./JJ solutions./NNS as./IN part./NN of./IN an./DT agile./JJ software./NN development./NN team./NN 
+Full./NNP stack./NN (./( backend./VB &./CC frontend./VB )./) web./NN and./CC API./NNP development./NN 
+Write./NNP and./CC maintain./VB unit./NN test./NN cases./NNS 
+Ensure./NN the./DT technical./JJ feasibility./NN of./IN UI/UX./NNP designs./NNS 
+Optimize./NNP application./NN for./IN maximum./JJ speed./NN and./CC scalability./NN 
+Work./NNP both./DT independently./RB and./CC with./IN a./DT team./NN to./TO code./VB and./CC test./VB new./JJ features./NNS and./CC enhancements./NNS ../. 
+
+Required./VBN Skills./NNS 
+Experience./NN with./IN PHP./NNP 
+Experience./NN with./IN MySQL./NNP 
+Proficient./NNP understanding./NN of./IN web./NN markup./NN ,./, including./VBG HTML5./NNP ,./, CSS3./NNP ,./, client-side./JJ scripting./NN and./CC JavaScript./NNP frameworks./NNS ,./, including./VBG jQuery./NN 
+Basic./JJ understanding./NN of./IN server-side./JJ CSS./NNP pre-processing./NN platforms./NNS ,./, such./JJ as./IN LESS./NNP and./CC SASS./NNP 
+Proficient./NN with./IN web-based./JJ and./CC web-service-related./JJ technologies./NNS 
+Experience./NN with./IN Git./NNP 
+Experience./NN with./IN Linux./NNP as./IN a./DT working./JJ environment./NN (./( Development./NNP &./CC ../. Deployment./NN )./) 
+Academic./NNP degree./NN or./CC comparable./JJ education./NN and./CC work./NN experience./NN 

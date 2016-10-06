@@ -1,0 +1,33 @@
+We./PRP are./VBP seeking./VBG a./DT Help./NNP Desk./NNP Technician./NNP for./IN a./DT student./NN COOP./NNP position./NN with./IN our./PRP$ growing./VBG ,./, dynamic./JJ information./NN technology./NN department./NN ../. As./IN part./NN of./IN our./PRP$ team./NN ,./, you./PRP will./MD help./VB execute./VB the./DT department./NN and./CC company./NN 's./POS strategic./JJ vision./NN through./IN various./JJ IT./NNP initiatives./VBZ ../. We./PRP are./VBP working./VBG to./TO continually./RB improve./VB the./DT processes./NNS ,./, services./NNS provided./VBD to./TO our./PRP$ business./NN units./NNS and./CC business./NN partners./NNS ../. 
+
+This./DT role./NN requires./VBZ active./JJ involvement./NN in./IN technical./JJ support./NN for./IN the./DT business./NN units./NNS at./IN the./DT Corporate./NNP Office./NNP and./CC remote./VB franchisee./NN sites./NNS ../. 
+
+Responsibilities./NNS :./: 
+
+-./: Effective./NN handling./NN of./IN Workstations./NNS and./CC related./JJ peripherals./NNS in./IN a./DT Corporate./NNP Office./NNP environment./NN and./CC for./IN Remote./NNP Users./NNP ../. 
+-./: Provide./NN exceptional./JJ end./NN user./NN support./NN on./IN office./NN applications./NNS ../. 
+-./: Manage./NN stand./VBP alone./RB and./CC workgroup./JJ printers./NNS /./POS multifunction./NN units./NNS 
+-./: Work./NN with./IN the./DT LAN./NNP Administrators./NNPS on./IN Workstation./NNP roll./NN outs./NNS and./CC other./JJ projects./NNS ../. 
+-./: Managing./VBG desktop./JJ Enterprise./NNP Virus./NNP Software./NNP 
+-./: Assisting./VBG the./DT LAN./NNP administrator./NN with./IN back./JJ up./RB and./CC restores./NNS 
+-./: Use./NN Help./NNP Desk./NNP ticketing./VBG system./NN ensure./VB the./DT root./NN cause./NN of./IN each./DT issue./NN is./VBZ resolved./VBN and./CC to./TO identify./VB issue./NN trends./NNS for./IN resolution./NN 
+-./: Other./JJ duties./NNS as./IN required./VBN 
+-./: Acts./NNS as./IN a./DT technical./JJ resource./NN in./IN assisting./VBG users./NNS to./TO resolve./VB problems./NNS with./IN equipment./NN and./CC data./NNS 
+-./: Make./NN hardware./NN and./CC software./NN acquisition./NN recommendations./NNS including./VBG helping./VBG users./NNS assess./JJ needs./NNS and./CC providing./VBG justification./NN for./IN equipment./NN and./CC services./NNS 
+-./: Troubleshoot./NN problems./NNS with./IN computer./NN systems./NNS ,./, including./VBG hardware./NN /./NNP software./NN ,./, e-mail./NN ,./, network./NN and./CC peripheral./JJ equipment./NN problems./NNS ;./: makes./VBZ repairs./NNS and./CC corrections./NNS where./WRB required./VBN ../. 
+-./: Install./NN ,./, configure./NN and./CC upgrade./JJ operating./VBG systems./NNS and./CC software./NN ,./, using./VBG standard./JJ business./NN and./CC administrative./JJ packages./NNS ;./: may./MD modify./VB specific./JJ applications./NNS for./IN use./NN in./IN operational./JJ departments./NNS ../. 
+-./: Train./NN new./JJ hires./NNS on./IN the./DT proper./JJ use./NN of./IN new./JJ hardware./NN and./CC on./IN the./DT network./NN services./NNS available./JJ ../. 
+-./: Assist./NN in./IN tracking./VBG hardware./NN and./CC software./NN license./NN inventories./NNS as./RB well./RB as./IN equipment./NN holders./NNS 
+
+Knowledge./NNP and./CC Skills./NNP :./: 
+
+-./: Good./JJ working./VBG knowledge./NN of./IN PC./NN hardware./NN configuration./NN 
+-./: Good./JJ working./VBG knowledge./NN of./IN Windows./NNP 7./CD and./CC 8.1./CD operating./NN systems./NNS 
+-./: Knowledge./NN of./IN Anti-Virus./NNP maintenance./NN and./CC Virus./NNP removal./NN 
+-./: Strong./NN Communication./NN Skills./NNS 
+-./: Strong./JJ Organizational./NNP Skills./NNP 
+-./: Strong./NN Documentation./NNP Skills./NNP 
+-./: Ability./NN to./TO work./VB as./IN a./DT team./NN member./NN 
+-./: Understanding./NN of./IN Help./NNP Desk./NNP practices./NNS (./( nice./JJ to./TO have./VB )./) 
+-./: Knowledge./NN of./IN HP./NNP ,./, CANON./NNP and./CC Sharp./NNP printers./NNS and./CC copiers./NNS (./( nice./JJ to./TO have./VB )./) 
+-./: Firewall./NN and./CC VPN./NNP experience./NN (./( nice./JJ to./TO have./VB )./) 

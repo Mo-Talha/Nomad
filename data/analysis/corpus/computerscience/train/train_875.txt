@@ -1,0 +1,32 @@
+Summary./JJ 
+Red./JJ Trait./NNP Ventures./NNP is./VBZ a./DT small./JJ startup./NN studio./NN with./IN big./JJ ideas./NNS ,./, looking./VBG to./TO build./VB a./DT close-knit./JJ agile./NN dev./NN team./NN to./TO create./VB and./CC launch./VB our./PRP$ in-house./JJ portfolio./NN of./IN consumer./NN and./CC enterprise./NN based./VBN applications./NNS ../. The./DT ideal./JJ candidate./NN would./MD be./VB someone./NN who./WP posses./VBZ './POS leadership./NN qualities./NNS (./( its./PRP$ an./DT opp./NN to./TO advance./VB your./PRP$ career./NN )./) ,./, able./JJ to./TO problem./NN solve./NN on./IN the./DT fly./NN and./CC articulate./VB thoughts./NNS to./TO team./VB members./NNS ../. You./PRP should./MD not./RB be./VB afraid./VBN to./TO present./VB and/or./RB defend./JJ new./JJ ideas./NNS ../. You./PRP would./MD be./VB an./DT integral./JJ part./NN of./IN our./PRP$ team./NN collaborating./VBG on./IN various./JJ projects./NNS ../. If./IN you./PRP are./VBP an./DT exceptional./JJ self./NN starter./NN ,./, who./WP 's./VBZ driven./VBN with./IN a./DT ``./`` do./VBP what./WP it./PRP takes./VBZ ''./'' attitude./NN ,./, that./WDT 's./VBZ looking./VBG for./IN a./DT challenge./NN within./IN a./DT high./JJ energy./NN startup./NN environment./NN then./RB consider./VB reaching./VBG out./RP &./CC lets./NNS get./VBP to./TO know./VB each./DT other./JJ to./TO see./VB if./IN there./EX is./VBZ a./DT fit./NN ../. 
+
+Responsibilities./NNS 
+-Design./NN ,./, implement./NN ,./, and./CC maintain./VBP web./JJ application./NN and./CC infrastructure./NN components./NNS ../. 
+-Provide./JJ documentation./NN where./WRB required./VBN during./IN the./DT development./NN life./NN cycle./NN ../. 
+-Willingness./NN to./TO learn./VB new./JJ technologies./NNS in./IN a./DT constantly./RB evolving./VBG environment./NN ../. 
+-Code./NN highly./RB efficient./JJ and./CC scalable./JJ software./NN ../. 
+-Refactor./NN and./CC improve./VB maintainability./NN of./IN the./DT codebase./NN ../. 
+-Fix./JJ bugs./NNS fast./RB in./IN unfamiliar./JJ code./NN ../. 
+-Solve./NN complex./JJ scalability./NN ,./, platform./NN ,./, and./CC integration./NN problems./NNS ../. 
+-Learn./VB new./JJ paradigms./NN ,./, languages./NNS ,./, and./CC libraries./NNS as./IN you./PRP work./VBP ../. 
+
+Required./VBN Skills./NNS 
+-Expected./VBN to./TO have./VB knowledge./VBN in./IN working./VBG with./IN cloud-based./JJ app./NN platforms./NNS such./JJ as./IN AWS./NNP or./CC Azure./NN 
+-Knowledge./NN of./IN &./CC Experience./NNP with./IN C./NNP #./# .NET./NNP programming./NN languages./NNS &./CC methodologies./NNS 
+-Understanding./NN of./IN MVC./NNP ,./, Design./NNP Patterns./NNP ,./, and./CC Scalable./JJ SaaS./NNP web./NN applications./NNS 
+-Knowledge./NN in./IN databases./NNS ,./, software./NN architecture./NN ,./, big./JJ data./NNS ,./, scalability./NN &./CC reliability./NN 
+-Knowledge./NN of./IN database./NN theory./NN ;./: experience./NN with./IN high./JJ performance./NN SQL./NNP queries./NNS and./CC database./NN design./NN 
+
+Transportation./NN And./CC Housing./NN 
+Students./NNS will./MD be./VB expected./VBN to./TO have./VB their./PRP$ own./JJ transportation./NN located./VBN in./IN Oakville./NNP ../. 
+
+Mandatory./JJ Requirements./NNS 
+-./: Has./NN Own./JJ Transportation./NN 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+Competitive./JJ compensation./NN (./( commensurate./NN 's./POS with./IN experience./NN )./) and./CC equity./NN share./NN plans./NNS for./IN qualified./JJ team./NN members./NNS ../. 
+
+Career./NNP Development./NNP And./CC Training./NNP 
+-./: Opportunity./NN to./TO initiate./VB your./PRP$ own./JJ ideas./NNS with./IN the./DT support./NN of./IN a./DT start-up./JJ studio./NN 
+-./: Work./NN in./IN a./DT fast-paced./JJ ,./, start-up./JJ environment./NN with./IN other./JJ like-minded./JJ individuals./NNS ../. Get./VB hands./NNS on./IN experience./NN with./IN a./DT team./NN that./WDT takes./VBZ ideas./NNS and./CC turns./VBZ them./PRP into./IN something./NN real./JJ !./. 

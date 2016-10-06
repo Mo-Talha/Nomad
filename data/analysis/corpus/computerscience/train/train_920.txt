@@ -1,0 +1,47 @@
+Thales./NNS is./VBZ a./DT global./JJ technology./NN leader./NN for./IN the./DT Defence./NNP &./CC Security./NNP and./CC the./DT Aerospace./NNP &./CC Transport./NNP markets./NNS ../. The./DT company./NN generated./VBD revenues./NNS of./IN 14bn./CD annually./RB ../. It./PRP employs./VBZ over./IN 65,000./CD employees./NNS in./IN 50./CD countries./NNS ../. Leveraging./VBG a./DT global./JJ network./NN of./IN more./JJR than./IN 22,000./CD high-level./JJ researchers./NNS while./IN investing./VBG 17./CD %./NN of./IN its./PRP$ revenue./NN into./IN Research./NNP &./CC Development./NNP ,./, Thales./NNP offers./VBZ an./DT unmatched./JJ capability./NN to./TO develop./VB and./CC deploy./VB critical./JJ information./NN systems./NNS ../. 
+
+Established./VBN in./IN 1972./CD ,./, Thales./NNP Canada./NNP is./VBZ a./DT leading./VBG electronic./JJ solutions./NNS provider./NN for./IN the./DT Transportation./NNP ,./, Defence./NNP &./CC Security./NNP ,./, and./CC Aerospace./NNP sectors./NNS ../. Thales./NNP Canada./NNP employs./VBZ 1,400./CD staff./NN across./IN main./JJ sites./NNS located./VBN in./IN Montreal./NNP ,./, Quebec./NNP City./NNP ,./, Ottawa./NNP ,./, Toronto./NNP and./CC Vancouver./NNP ../. 
+
+Thales./NNS is./VBZ known./VBN for./IN its./PRP$ commitment./NN to./TO employees./NNS ,./, outlined./VBN in./IN its./PRP$ human./JJ resources./NNS policy./NN :./: Thales./VBZ Together./RB ../. Staff./NNP enjoys./VBZ a./DT competitive./JJ salary./NN and./CC benefits./NNS package./NN ,./, as./RB well./RB as./IN opportunities./NNS to./TO develop./VB professionally./RB ,./, and./CC define./VB their./PRP$ career./NN paths./NNS ../. 
+
+If./IN you./PRP have./VBP a./DT passion./NN for./IN innovation./NN and./CC are./VBP interested./JJ in./IN joining./VBG a./DT dynamic./JJ ,./, fast-paced./JJ team./NN ,./, Thales./NNP may./MD be./VB the./DT right./JJ fit./NN for./IN you./PRP ../. Currently./RB ,./, we./PRP have./VBP an./DT opening./NN for./IN a/an./NN :./: 
+
+Position./NN Title./NN :./: Software./NNP Analyst./NNP Intern./NNP 
+Location./NN :./: Toronto./NNP 
+Department./NNP :./: Vehicle./NNP &./CC Wayside./NNP Solutions./NNP 
+
+
+Job./NNP Purpose./NNP 
+To./TO provide./VB design./NN ,./, analysis./NN ,./, programming./VBG and./CC testing./VBG in./IN the./DT development./NN of./IN software./NN and./CC tools./NNS for./IN train./NN control./NN systems./NNS of./IN Thales./NNP Canada./NNP Transportation./NNP Solutions./NNP ../. To./TO work./VB within./IN the./DT software./NN team./NN and./CC follow./JJ directions./NNS of./IN the./DT team./NN lead./NN in./IN support./NN of./IN the./DT other./JJ analysts./NNS ../. 
+
+Main./NN Responsibilities./NNS :./: 
+Understand./NNP and./CC follow./VB the./DT companys./NN processes./VBZ and./CC procedures./NNS for./IN developing./VBG vital./JJ and./CC non-vital./JJ software./NN and./CC tools./NNS 
+Implement./NNP real./JJ time./NN systems./NNS in./IN `C./NN 
+Analyse./NNP raw./JJ data./NNS from./IN the./DT field./NN ,./, re-create./JJ issues./NNS on./IN the./DT simulator./NN 
+Produce./NNP scripts./NNS in./IN various./JJ languages./NNS such./JJ as./IN perl./NN ,./, python./NN ,./, ruby./NN ,./, VBA./NNP 
+Support./NN updating./VBG and./CC improving./VBG department./NN WiKi./NNP 
+Produce./VB the./DT software./NN requirements./NNS analysis./NN ,./, designs./NNS ,./, code./NN ,./, test./NN procedures./NNS and./CC tests./NNS software./NN code./NN 
+Attend./NNP design./NN reviews./NNS within./IN the./DT department./NN as./RB well./RB as./IN with./IN other./JJ departments./NNS 
+Analyse./NNP ,./, implement./JJ corrections./NNS and./CC review./VB defect./JJ reports./NNS 
+Prepare./NNP reports./NNS ,./, giving./VBG findings./NNS on./IN problems./NNS 
+
+Key./NNP Skills./NNP and./CC Abilities./NNS :./: 
+Student./NN in./IN B.Sc./NNP ../. Electrical/Computer/Software./NNP Engineering./NNP ,./, Computer./NNP Science./NNP or./CC equivalent./NN 
+Knowledge./NNP of./IN software./NN development./NN environments./NNS (./( such./JJ as./IN Linux/Unix./NNP ,./, Windows./NNP ,./, desktop./NN simulators./NNS ,./, target./NN simulators./NNS ,./, etc./FW ../. )./) 
+Working./VBG knowledge./NN of./IN C./NNP 
+Familiarity./NN with./IN a./DT scripting./VBG language./NN such./JJ as./IN Perl./NNP ,./, Python./NNP ,./, Ruby./NNP ,./, and/or./RB VBA./NNP an./DT asset./NN 
+Excellent./JJ command./NN of./IN English./NNP ,./, both./DT written./VBN and./CC verbal./JJ 
+Knowledge./NNP of./IN Microst./NNP Office./NNP suite./NN including./VBG EXCEL./NNP and./CC VISIO./NNP 
+Relevant./JJ working./VBG experiencein./JJ real-time./JJ embedded./JJ applications./NNS particularly./RB in./IN safety./NN critical./JJ systems./NNS an./DT asset./NN 
+The./DT following./JJ knowledge./NN will./MD be./VB considered./VBN an./DT asset./NN :./: 
+o./JJ Assembler./NNP programming./NN 
+o./JJ Unix/Linux./NNP application./NN development./NN ,./, including./VBG working./VBG knowledge./NN of./IN the./DT POSIX./NNP API./NNP 
+o./JJ Unix/Linux./NNP networking./NN /./NN network./NN utilities./NNS knowledge./VBP (./( nfs./JJ ,./, tftp./NN ,./, dhcp./NN ,./, etc./FW ../. )./) 
+o./NN Windows./NNP CE./NNP application./NN development./NN 
+o./NN Windows./NNP XP./NNP user./NN knowledge./NN 
+o./JJ Clearcase./NNP UCM./NNP user./NN knowledge./NN 
+o./JJ knowledge./NN of./IN CBTC./NNP ,./, SelTrac./NNP railway./NN signalling./VBG techniques./NNS ,./, standards./NNS and./CC processes./VBZ an./DT asset./NN 
+o./JJ Knowledge./NNP of./IN CENELC./NNP 51028:2011./CD an./DT asset./NN 
+
+
+Thales./NNS is./VBZ committed./VBN to./TO employment./NN equity./NN and./CC diversity./NN in./IN the./DT workplace./NN and./CC welcomes./NNS applicants./NNS from./IN the./DT four./CD designated./VBD groups./NNS to./TO apply./VB for./IN employment./NN ../. 

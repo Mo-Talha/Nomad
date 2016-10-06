@@ -1,0 +1,23 @@
+Summary./JJ 
+The./DT Product./NNP Development./NNP Coordinator./NNP will./MD work./VB with./IN a./DT group./NN of./IN talented./VBN and./CC dedicated./VBN people./NNS to./TO improve./VB and./CC enhance./VB Clearpath./NNP 's./POS product./NN lines./NNS ../. The./DT successful./JJ candidates./NNS will./MD have./VB the./DT opportunity./NN to./TO contribute./VB to./TO areas./NNS such./JJ as./IN :./: web./NN based./VBN applications./NNS ,./, backend./VBP server./RB ,./, infrastructure./NN ,./, python./JJ middle-ware./NN and./CC data./NN analytics./NNS ../. Your./PRP$ work./NN will./MD help./VB engineers./NNS ,./, support./NN staff./NN and./CC ultimately./RB the./DT end./NN customer./NN ../. 
+
+Responsibilities./NNS 
+-./: Coordinate./NN and./CC assist./NN with./IN the./DT analysis./NN and./CC presentation./NN of./IN the./DT abundance./NN of./IN data./NNS originating./VBG from./IN our./PRP$ robots./NNS (./( error./NN ,./, mission./NN history./NN ,./, events./NNS ,./, raw./JJ motion./NN data./NNS etc./NN )./) 
+-./: Work./NN on./IN a./DT cross-functional./JJ team./NN to./TO design./VB and./CC develop./VB software./NN to./TO interact./VB with./IN our./PRP$ autonomous./JJ robots./NNS 
+-Works./NNS with./IN other./JJ team./NN members./NNS to./TO improve./VB web-based./JJ application./NN suite./NN that./WDT is./VBZ used./VBN to./TO manage./VB ,./, diagnose./VB ,./, troubleshoot./NN and./CC interact./NN with./IN our./PRP$ robots./NNS 
+-Contribute./NN to./TO an./DT environment./NN that./WDT enables./VBZ engineers./NNS ,./, field./NN service./NN personnel./NNS ,./, manufacturing./NN and./CC product./NN support./NN to./TO extract./VB ,./, analyze./NN and./CC visualize./VB information./NN from./IN the./DT robot./NN that./IN in./IN turns./NNS enables./NNS them./PRP to./TO excel./VB at./IN their./PRP$ jobs./NNS and./CC thus./RB improve./VB the./DT value./NN of./IN our./PRP$ products./NNS ../. 
+
+Required./VBN Skills./NNS 
+For./IN this./DT role./NN ,./, we./PRP have./VBP a./DT wide./JJ spectrum./NN of./IN work./NN to./TO do./VB and./CC are./VBP looking./VBG for./IN the./DT right./JJ person./NN over./IN a./DT precise./JJ set./NN of./IN skills./NNS ../. Ideally./RB ,./, the./DT candidate./NN will./MD have./VB some./DT combination./NN of./IN the./DT following./JJ skills/abilities./NNS :./: 
+
+-Enrolled./VBN in./IN a./DT Math/Statistics./NNP ,./, Software./NNP ,./, Electrical./NNP ,./, Computer./NNP Engineering./NNP related./JJ program./NN 
+-Enthusiasm./NN and./CC passion./NN for./IN technology./NN 
+-Interest./JJS in./IN data./NN analytics./NNS and./CC a./DT desire./NN to./TO derive./VB meaning./NN from./IN reams./NNS of./IN data./NNS 
+-Experience./NN with./IN embedded./JJ systems./NNS 
+-Proficient./NN with./IN the./DT following./NN :./: 
+-Python./NN 
+-Web./NN Development./NNP skills./NNS 
+-HTML./NN ,./, CSS./NNP Javascript./NNP ,./, React./NNP ,./, Node.js./NNP ,./, webpack./NN 
+-Database./NN experience./NN (./( MSSQL./NNP ,./, MySQL./NNP etc./NN )./) 
+-Strong./JJ ability./NN to./TO isolate./VB and./CC debug./VB software./NN problems./NNS 
+-A./JJ real./JJ excitement./NN to./TO learn./VB and./CC get./VB to./TO the./DT bottom./NN of./IN tough./JJ technical./JJ problems./NNS 

@@ -1,0 +1,17 @@
+What./WP you./PRP 'll./MD do./VB :./: 
+-./: Apply./VB your./PRP$ expertise./NN in./IN quantitative./JJ analysis./NN ,./, data./NN mining./NN ,./, and./CC the./DT presentation./NN of./IN data./NNS to./TO identify./VB and./CC convey./VB key./JJ revenue./NN product./NN trends./NNS and./CC successes./NNS to./TO Snapchat./NNP advertisers./NNS 
+-./: Partner./NN with./IN Measurement./NNP and./CC Engineering./NNP teams./NNS as./RB well./RB as./IN third./JJ parties./NNS to./TO define./VB and./CC address./VB key./JJ measurement./JJ questions./NNS 
+-./: Build./NN and./CC scale./JJ statistical./JJ models./NNS to./TO measure./VB and./CC improve./VB the./DT performance./NN of./IN advertising./NN campaigns./NNS on./IN Snapchat./NNP 
+-./: Translate./NN insights./NNS into./IN valuable./JJ and./CC on-going./JJ product./NN and./CC advertising./NN campaign./NN recommendations./NNS 
+
+Who./WP we./PRP 're./VBP looking./VBG for./IN :./: 
+-./: Ability./NN to./TO develop./VB and./CC implement./VB statistical./JJ models./NNS and./CC analyses./NNS ,./, experience./NN with./IN packages./NNS such./JJ as./IN R./NNP ,./, MATLAB./NNP ,./, etc./NN ../. 
+-./: Experience./NN working./VBG in./IN a./DT data-focused./JJ role./NN with./IN a./DT strong./JJ statistics./NNS component./NN at./IN a./DT consumer./NN or./CC enterprise./NN technology./NN company./NN 
+-./: Ability./NN to./TO initiate./VB and./CC drive./VB projects./NNS to./TO completion./NN with./IN minimal./JJ guidance./NN 
+-./: Ability./NN to./TO communicate./VB the./DT results./NNS of./IN analyses./NNS in./IN a./DT clear./JJ and./CC effective./JJ manner./NN 
+-./: BA/BS./NN in./IN Math./NNP ,./, Statistics./NNPS ,./, Economics./NNPS ,./, Computer./NNP Science./NNP ,./, or./CC other./JJ quantitative./JJ field./NN 
+-./: Comfort./NN with./IN SQL./NNP ,./, Excel./NNP ,./, and./CC data./NNS visualization./NN tools./NNS 
+
+Desired./VBN Experience./NN :./: 
+-./: Experience./NN doing./VBG product-oriented./JJ quantitative./JJ analysis./NN preferably./RB for./IN a./DT social./JJ media./NNS and/or./VBP mobile./JJ technology./NN company./NN 
+-./: Fluency./NN in./IN SQL./NNP ,./, Excel./NNP ,./, and./CC Python./NNP 

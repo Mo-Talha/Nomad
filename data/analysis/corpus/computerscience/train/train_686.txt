@@ -1,0 +1,50 @@
+SAP./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Sept../NNP 23./CD ,./, 2016./CD from./IN 2:30./CD PM./NNP -./: 4:30./CD PM./NNP at./IN Bombshelter./NNP Pub./NNP ../. Please./NNP plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+_____________________________________________./NN 
+
+Reminder./NN :./: Students./NNS are./VBP responsible./JJ for./IN ensuring./VBG they./PRP are./VBP eligible./JJ for./IN an./DT 8-month./JJ work./NN term./NN before./IN applying./VBG ../. Please./NNP discuss./VB your./PRP$ work/study./NN sequence./NN flexibility./NN with./IN your./PRP$ academic./JJ advisor./NN as./RB soon./RB as./IN possible./JJ ../. 
+______________________________./NN 
+
+Location./NN :./: Vancouver./NNP ,./, BC./NNP ,./, CA./NNP 
+Requisition./NN ID./NNP :./: 124829./CD 
+Work./NNP Area./NNP :./: Software-Development./JJ Operations./NNS 
+Expected./VBN Travel./NN :./: 0./CD -./: 10./CD %./NN 
+
+COMPANY./NN DESCRIPTION./NNP 
+As./IN market./NN leader./NN in./IN enterprise./NN application./NN software./NN ,./, SAP./NNP helps./VBZ companies./NNS of./IN all./DT sizes./NNS and./CC industries./NNS innovate./VBP through./IN simplification./NN ../. From./IN the./DT back./JJ office./NN to./TO the./DT boardroom./NN ,./, warehouse./NN to./TO storefront./VB ,./, on./IN premise./NN to./TO cloud./VB ,./, desktop./VB to./TO mobile./VB device./NN -./: SAP./JJ empowers./NNS people./NNS and./CC organizations./NNS to./TO work./VB together./RB more./RBR efficiently./RB and./CC use./VB business./NN insight./NN more./RBR effectively./RB to./TO stay./VB ahead./RB of./IN the./DT competition./NN ../. SAP./NNP applications./NNS and./CC services./NNS enable./JJ customers./NNS to./TO operate./VB profitably./RB ,./, adapt./RB continuously./RB ,./, and./CC grow./VB sustainably./RB ../. 
+
+PURPOSE./NNP AND./NNP OBJECTIVES./NNP 
+As./IN an./DT Agile./NNP Developer./NNP Intern./NNP on./IN the./DT SAP./NNP Jam./NNP development./NN team./NN ,./, you./PRP will./MD be./VB on./IN one./CD of./IN the./DT teams./NNS that./WDT develop./VBP SAP./NNP Jam./NNP ,./, SAP./NNP 's./POS social./JJ business./NN collaboration./NN cloud./NN solution./NN with./IN over./IN 34./CD million./CD users./NNS and./CC many./JJ large./JJ corporate./JJ customers./NNS ../. The./DT successful./JJ applicant./NN will./MD :./: 
+Love./NNP building./NN both./DT beautiful./JJ web./NN user./NN interfaces./NNS and./CC cloud./JJ computing./VBG systems./NNS that./WDT can./MD scale./VB to./TO millions./NNS of./IN users./NNS 
+Learn./NNP quickly./RB by./IN jumping./VBG directly./RB into./IN code./NN ,./, making./VBG sense./NN of./IN it./PRP ,./, and./CC making./VBG solid./JJ changes./NNS with./IN little./JJ or./CC no./DT supervision./NN 
+Perform./NNP manual./JJ testing./NN and./CC develop./VB test./NN automation./NN in./IN Ruby./NNP 
+Log./NNP and./CC verify./VB defects./NNS in./IN JIRA./NNP ,./, our./PRP$ bug-tracking./JJ system./NN 
+Have./VBP a./DT solid./JJ understanding./NN of./IN web./JJ application./NN architectures./NNS ,./, including./VBG client-side./JJ AJAX./NNP ,./, HTTP./NNP requests./NNS ,./, multithreaded./VBD servers./NNS ,./, and./CC databases./NNS 
+Be./VB passionate./NN about./IN getting./VBG better./JJR at./IN writing./VBG solid./JJ code./NN quickly./RB and./CC a./DT refusal./NN to./TO believe./VB that./IN it./PRP can./MD not./RB be./VB done./VBN 
+
+EXPECTATIONS./NNP AND./NNP TASKS./NNP 
+Drive./NNP ,./, design./NN ,./, and./CC develop./VB new./JJ features./NNS by./IN working./VBG with./IN Product./NNP Management./NNP ,./, User./NNP Experience./NNP ,./, and./CC Software./NNP Testing./NNP to./TO elaborate./VB on./IN the./DT features./NNS ,./, estimate./VB task./NN time./NN ,./, and./CC then./RB quickly./RB write./VB high-quality./NN code./NN for./IN complex./JJ features./NNS 
+Work./NN in./IN a./DT scrum./NN development./NN project./NN model./NN ,./, with./IN a./DT daily./JJ team./NN scrum./NN meeting./NN ,./, and./CC a./DT weekly./JJ production./NN deployment./NN 
+Participate./NNP actively./RB in./IN requirement./NN ,./, design./NN ,./, and./CC code./NN reviews./NNS 
+
+EDUCATION./NN AND./CC QUALIFICATIONS/./NNP SKILLS./NNP AND./NNP COMPETENCIES./NNP WORK./NNP EXPERIENCE./NNP 
+Working./VBG toward./IN a./DT Bachelor./NNP 's./POS degree./NN ,./, preferably./RB in./IN Computer./NNP Science./NNP or./CC Engineering./NNP 
+You./PRP learn./VBP and./CC work./VBP well./RB independently./RB ,./, as./RB well./RB as./IN in./IN a./DT team./NN 
+Experience./NN with./IN DHTML./NNP ,./, Javascript./NNP and./CC one./CD of./IN Java./NNP ,./, Objective-C./NNP ,./, C++./NNP ,./, or./CC .NET./VB on./IN Linux./NNP ,./, Windows./NNP ,./, iOS./NN ,./, Mac./NNP OS./NNP X./NNP or./CC Unix./NNP 
+Experience./NN with./IN at./IN least./JJS one./CD server-side./JJ web./NN technology./NN or./CC scripting./VBG framework./NN such./JJ as./IN Ruby-on-Rails./NNP ,./, JRuby./NNP ,./, JSP./NNP ,./, PHP./NNP ,./, Javascript/ASP.NET./NNP ,./, Java./NNP servlets./NNS ,./, Perl./NNP ,./, or./CC Python./NNP 
+Basic./JJ understanding./NN of./IN TCP/IP./NNP (./( IPv4./NNP or./CC IPv6./NNP )./) networking./NN (./( ports./NNS and./CC addresses./NNS )./) 
+Experience./NN with./IN SQL./NNP databases./NNS 
+Experience./NN with./IN source./NN control./NN systems./NNS such./JJ as./IN git./NN ,./, Subversion./NNP ,./, Perforce./NNP ,./, etc./NN 
+
+Assets./NNS :./: 
+-./: Experience./NN with./IN Ruby-on-Rails./NNP and./CC AJAX./NNP 
+-./: Experience./NN with./IN a./DT Linux./NNP shell./NN and./CC vi/emacs./NN 
+-./: Knowledge./NN of./IN REST./NNP web./NN services./NNS 
+-./: Deeper./NNP knowledge./NN of./IN TCP/IP./NNP networking./NN and./CC security./NN :./: packet/LAN./NN sniffers./NNS ,./, XSS./NNP ,./, CSRF./NNP ,./, encryption./NN ,./, HTTPS./NNP ,./, SMTP/POP./NNP ,./, DNS./NNP ,./, etc./NN ../. 
+-./: Advanced./VBD debugging./VBG skills./NNS and./CC tools./NNS :./: ability./NN to./TO isolate./VB memory./NN leaks./NNS ,./, memory./NN corruptions./NNS ,./, and./CC deadlocks./NNS ;./: some./DT experience./NN with./IN a./DT code./NN profiler./NN 
+-./: Advanced./NNP software./NN development./NN skills./NNS :./: process/thread./JJ synchronization./NN and./CC management./NN ,./, C/C++./NNP 
+-./: Immersed./VBN in./IN a./DT digital./JJ lifestyle./NN ,./, e.g./NN ../. iMessage./NN ,./, Skype./NNP ,./, WhatsApp./NNP ,./, Facebook./NNP ,./, Twitter./NNP ,./, LinkedIn./NNP ,./, Instagram./NNP ,./, Pinterest./NNP ,./, YouTube./NNP ,./, iPhone./NN ,./, iPad./NN ,./, Android./NNP 
+Some./DT experience./NN in./IN developing./VBG web./JJ applications./NNS or./CC complex./JJ software./NN ,./, not./RB necessarily./RB in./IN full-time./JJ employment./NN ../. 
+Can./MD commit./VB for./IN 8./CD months./NNS full./JJ time./NN internship./NN starting./VBG January./NNP 2017./CD 
+
+SAP./NNP 'S./POS DIVERSITY./NNP COMMITMENT./NNP 
+To./TO harness./VB the./DT power./NN of./IN innovation./NN ,./, SAP./NNP invests./VBZ in./IN the./DT development./NN of./IN its./PRP$ diverse./NN employees./NNS ../. We./PRP aspire./VBP to./TO leverage./VB the./DT qualities./NNS and./CC appreciate./VB the./DT unique./JJ competencies./NNS that./IN each./DT person./NN brings./VBZ to./TO the./DT company./NN ../. 

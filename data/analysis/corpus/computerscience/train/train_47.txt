@@ -1,0 +1,30 @@
+This./DT position./NN is./VBZ limited./VBN to./TO students./NNS that./WDT are./VBP registered./VBN in./IN a./DT recognized./VBN Co-op./NN or./CC internship./JJ program./NN at./IN a./DT Canadian./JJ College./NNP or./CC University./NNP ../. 
+
+Nokia./NNP is./VBZ a./DT global./JJ leader./NN in./IN the./DT technologies./NNS that./WDT connect./VBP people./NNS and./CC things./NNS ../. With./IN state-of-the-art./JJ software./NN ,./, hardware./NN and./CC services./NNS for./IN any./DT type./NN of./IN network./NN ,./, Nokia./NNP is./VBZ uniquely./RB positioned./VBN to./TO help./VB communication./NN service./NN providers./NNS ,./, governments./NNS ,./, and./CC large./JJ enterprises./NNS deliver./RB on./IN the./DT promise./NN of./IN 5G./CD ,./, the./DT Cloud./NNP and./CC the./DT Internet./NNP of./IN Things./NNP ../. Serving./VBG customers./NNS in./IN over./IN 100./CD countries./NNS ,./, our./PRP$ research./NN scientists./NNS and./CC engineers./NNS continue./VBP to./TO invent./VB and./CC accelerate./VB new./JJ technologies./NNS that./WDT will./MD increasingly./RB transform./VB the./DT way./NN people./NNS and./CC things./NNS communicate./NN and./CC connect./NN ../. 
+
+The./DT IP./NNP and./CC Optical./NNP Network./NNP Learning./NNP Services./NNPS Operations./NNP Team./NNP manages./VBZ a./DT variety./NN of./IN industry./NN first./JJ certification./NN programs./NNS ../. A./DT global./JJ initiative./NN with./IN hundreds./NNS of./IN customers./NNS and./CC employee./NN groups./NNS participating./VBG worldwide./NN ,./, our./PRP$ team./NN is./VBZ looking./VBG for./IN a./DT business./NN systems./NNS analyst./NN resource./NN to./TO support./VB the./DT development./NN of./IN various./JJ online./JJ applications./NNS ../. The./DT ideal./JJ candidate./NN will./MD be./VB a./DT resourceful./JJ ,./, independent./JJ and./CC flexible./JJ individual./NN who./WP can./MD work./VB in./IN a./DT dynamic./JJ environment./NN ../. 
+
+Example./JJ duties./NNS :./: 
+-./: Develop./NN and./CC document./NN business./NN requirements./NNS ../. 
+-./: Work./NN with./IN development./NN teams./NNS through./IN application./NN development./NN process./NN ,./, responding./VBG to./TO questions./NNS and./CC refining./NN requirements./NNS ../. 
+-./: Create./NN test./NN documentation./NN ../. 
+-./: Complete./NNP user./NN acceptance./NN testing./NN and./CC report./NN on./IN findings./NNS ../. 
+-./: Create./NN end./NN user./NN documentation./NN ../. 
+-./: Complete./JJ end./NN user./NN training./NN on./IN new./JJ applications./NNS as./IN required./VBN ../. 
+-./: Support./NN existing./VBG web./NN applications./NNS ;./: respond./NN to./TO customer./NN inquiries./NNS ../. 
+-./: Publish./NN web./NN content./NN using./VBG existing./VBG toolset./NN ../. 
+
+Key./NNP skills./NNS :./: 
+1./CD ../. Student./NN with./IN a./DT background./NN in./IN Administration./NNP ,./, Management./NNP ,./, Marketing./NN or./CC Computer./NNP Science./NNP ../. 
+2./CD ../. Excellent./JJ written./VBN and./CC verbal./JJ communication./NN skills./NNS are./VBP essential./JJ ../. 
+3./LS ../. Fluency./NNP in./IN English./NNP is./VBZ required./VBN ../. 
+4./CD ../. Very./RB detailed./JJ oriented./VBN ../. 
+5./CD ../. Superb./NNP multi-tasking./JJ skills./NNS needed./VBN ../. 
+
+Desired./NNP Skills./NNS :./: 
+1./CD ../. Experience./NN with./IN HTML./NNP and./CC application./NN testing./VBG an./DT asset./NN ../. 
+
+Qualification./NN :./: 
+2nd./CD year+./JJ co-op./JJ student./NN registered./VBN in./IN a./DT recognized./VBN Co-Op./NN or./CC Intern./JJ Program./NNP at./IN a./DT Canadian./JJ College./NNP or./CC University./NNP ;./: Computer./NNP Science./NNP or./CC Computer./NNP Engineering./NNP Program./NNP ../. 
+
+Nokia./NNP Canada./NNP is./VBZ committed./VBN to./TO building./VBG a./DT skilled./VBN ,./, diverse./JJ workforce./NN reflective./NN of./IN Canadian./JJ society./NN ../. As./IN a./DT result./NN ,./, we./PRP promote./VBP employment./NN equity./NN and./CC encourage./VB women./NNS ,./, Aboriginal./NNP persons./NNS ,./, and./CC persons./NNS with./IN a./DT disability./NN or./CC members./NNS of./IN a./DT visible./JJ minority./NN group./NN to./TO apply./VB ../. 

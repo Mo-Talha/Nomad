@@ -1,0 +1,25 @@
+We./PRP are./VBP looking./VBG for./IN a./DT superstar./NN who./WP is./VBZ a./DT fast./JJ learner./NN ,./, not./RB afraid./VBN to./TO get./VB their./PRP$ hands./NNS dirty./NN ,./, and./CC able./JJ to./TO meet./VB tight./JJ deadlines./NNS ../. Candidates./NNS will./MD be./VB working./VBG directly./RB with./IN the./DT company./NN 's./POS founders./NNS to./TO develop./VB the./DT company./NN 's./POS core./NN experience./NN ../. The./DT company./NN will./MD be./VB hosting./VBG several./JJ demos./NNS each./DT month./NN where./WRB your./PRP$ work./NN will./MD be./VB showcased./VBN to./TO the./DT public./NN as./RB well./RB as./IN industry./NN leaders./NNS in./IN virtual./JJ reality./NN ../. 
+
+Primary./JJ Responsibilities./NNS :./: 
+-./: Produce./NN high./JJ quality./NN code./NN with./IN few./JJ iterations./NNS 
+-./: Ownership./NN in./IN your./PRP$ code./NN and./CC features./NNS 
+-./: Develop./NN with./IN cutting-edge./NN ,./, high-end./JJ virtual./JJ reality./NN equipment./NN 
+-./: Committed./VBN to./TO the./DT vision./NN and./CC willingness./NN to./TO go./VB above./IN and./CC beyond./IN 
+-./: Help./NN organize./VB and./CC facilitate./VB public./JJ events./NNS such./JJ as./IN attending./VBG conferences./NNS and./CC demos./NN 
+
+Required./VBN Skills./NNS 
+-./: Proficiency./NN with./IN Unity./NNP or./CC Unreal./NNP Engine./NNP 
+-./: Advanced./JJ proficiency./NN in./IN at./IN least./JJS two./CD high./JJ level./NN languages./NNS (./( C./NNP #./# ,./, C/C++./NNP ,./, Java./NNP ,./, etc./NN )./) 
+-./: Solid./JJ OOP./NNP skills./NNS and./CC design./NN principles./NNS 
+-./: Strong./JJ math./NN and./CC computer./NN science./NN skills./NNS 
+-./: High./JJ attention./NN to./TO details./NNS 
+
+Perks./NNS :./: 
+-./: Flexible./JJ work./NN hours./NNS 
+-./: Access./NN to./TO gym./VB ,./, ping-pong./JJ ,./, basketball./NN and./CC shower./NN at./IN work./NN 
+-./: Located./VBN at./IN heart./NN of./IN Downtown./NNP Kitchener./NNP 
+
+Career./NNP Development./NNP And./CC Training./NNP 
+-./: Work./NN around./RB local./JJ startup./NN leaders./NNS and./CC innovators./NNS 
+-./: Gain./NN perspective./NN on./IN both./DT technical./JJ and./CC business./NN development./NN 
+-./: Accumulate./NN experience./NN working./VBG in./IN VR./NNP space./NN 

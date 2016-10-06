@@ -1,0 +1,31 @@
+Development./NNP Operations./NNP Analyst./NNP ,./, Co-op./NNP 
+PointClickCare./NNP is./VBZ the./DT leading./VBG cloud-based./JJ software./NN provider./NN for./IN the./DT senior./JJ care./NN market./NN in./IN North./NNP America./NNP ../. Driven./VBN by./IN a./DT passion./NN for./IN innovation./NN and./CC technology./NN ,./, we./PRP 're./VBP building./VBG solutions./NNS that./WDT have./VBP a./DT true./JJ impact./NN on./IN people./NNS 's./POS lives./NNS ../. Recently./RB named./VBD one./CD of./IN Deloitte./NNP 's./POS fastest./JJS growing./VBG technology./NN companies./NNS and./CC Canada./NNP 's./POS best./JJS managed./VBN companies./NNS ,./, PointClickCare./NNP provides./VBZ vast./JJ opportunities./NNS and./CC a./DT great./JJ culture./NN for./IN our./PRP$ employees./NNS ../. PointClickCare./NNP is./VBZ a./DT dynamic./JJ environment./NN to./TO advance./VB your./PRP$ career./NN while./IN performing./VBG meaningful./JJ work./NN with./IN great./JJ people./NNS ../. 
+
+Position./NN Summary./NN :./: 
+Reporting./VBG to./TO the./DT Manager./NNP of./IN DevOps./NNP Operations./NNP ,./, the./DT DevOps./NNP Analyst./NNP plays./VBZ an./DT important./JJ role./NN in./IN development./NN operations./NNS at./IN PointClickCare./NNP ../. The./DT successful./JJ candidate./NN will./MD work./VB collaboratively./RB with./IN the./DT larger./JJR DevOps./NNP organization./NN to./TO support./VB engineering./NN and./CC development./NN resources./NNS with./IN tooling./NN and./CC systems./NNS requirements./NNS for./IN a./DT variety./NN of./IN projects./NNS ../. We./PRP are./VBP seeking./VBG individuals./NNS with./IN experience./NN and./CC capability./NN to./TO thrive./VB in./IN a./DT changing./NN environment./NN ,./, while./IN contributing./VBG to./TO continuous./JJ improvement./NN and./CC the./DT automation./NN of./IN daily./JJ operational./JJ activities./NNS ../. 
+
+Key./JJ Responsibilities./NNS :./: 
+-./: Work./NN within./IN a./DT cross-functional./JJ team./NN of./IN DevOps./NNP Architects./NNP ,./, Developers./NNP ,./, and./CC Analysts./NNS to./TO support./VB automated/continuous./JJ production./NN deployment./NN solutions./NNS and./CC tools./NNS ../. 
+-./: Provision./NN and./CC support./NN various./JJ environments./NNS used./VBN during./IN the./DT development./NN lifecycle./NN ../. 
+-./: Perform./NN and./CC support./NN software./NN installations./NNS and./CC upgrades./NNS ../. 
+-./: Troubleshoot./NN build/release./NN and./CC environment/deployment./JJ issues./NNS ../. 
+-./: Contribute./NN to./TO DevOps./NNP and./CC inter-departmental./JJ initiatives./NNS to./TO maintain./VB or./CC improve./VB system./NN availability./NN ,./, security./NN ,./, and./CC performance./NN ../. 
+-./: Work./NN with./IN the./DT team./NN to./TO create./VB and./CC maintain./VB support./NN documentation./NN ,./, as./RB well./RB as./IN participate./NN in./IN cross./NN training./NN with./IN other./JJ team./NN members./NNS ../. 
+-./: Execute./NN and./CC monitor./NN automated./VBD build./JJ processes./NNS for./IN various./JJ product./NN releases./NNS ../. 
+-./: Debug./NN issues./NNS with./IN minimal./JJ supervision./NN ../. 
+-./: Support./NN existing./VBG solutions./NNS and./CC assist./NN in./IN the./DT resolution./NN of./IN hard./JJ to./TO solve./VB problems./NNS ../. 
+-./: Proactively./RB work./NN on./IN assigned./JJ tasks./NNS and./CC task./NN areas./NNS ,./, while./IN managing./VBG support./NN tasks./NNS and./CC priorities./NNS ../. 
+
+
+Required./VBN Experience./NN :./: 
+-./: Experience./NN with./IN both./DT Window./NNP (./( 2003/2008/2012./CD )./) and./CC Linux./NNP machines./NNS ../. 
+-./: Working./VBG knowledge./NN of./IN SQL./NNP ,./, Microsoft./NNP SQL./NNP Server./NNP ,./, MYSQL./NNP 
+-./: Experience./NN with./IN version./NN control./NN software./NN and./CC job./NN execution./NN tools./NNS ,./, preferably./RB Git/SVN./NNP and./CC Jenkins./NNP ../. 
+-./: Understanding./NN of./IN continuous./JJ integration/delivery./NN practices./NNS and./CC other./JJ DevOps./NNP concepts./NNS is./VBZ an./DT asset./NN ../. 
+-./: Knowledge./NN of./IN the./DT Software./NNP Development./NNP Life./NNP Cycle./NNP 
+-./: Working./NN towards./IN a./DT Degree./NNP in./IN Computer/Software./NNP Engineering./NNP or./CC a./DT related./JJ area./NN from./IN a./DT recognized./VBN educational./JJ institution./NN ../. 
+
+
+Working./VBG at./IN PointClickCare./NNP goes./VBZ beyond./IN the./DT resume./NN ,./, because./IN the./DT work./NN we./PRP perform./VBP makes./VBZ a./DT true./JJ difference./NN in./IN people./NNS 's./POS lives./NNS ../. We./PRP build./VBP innovative./JJ healthcare./NN technology./NN for./IN seniors./NNS and./CC their./PRP$ caregivers./NNS that./IN improve./VBP their./PRP$ quality./NN of./IN life./NN and./CC well-being./NN on./IN a./DT daily./JJ basis./NN ../. We./PRP believe./VBP work./NN is./VBZ so./RB much./RB more./RBR meaningful./JJ when./WRB you./PRP 're./VBP doing./VBG it./PRP with./IN a./DT higher./JJR purpose./NN ../. 
+
+For./IN more./JJR information./NN on./IN PointClickCare./NNP ,./, please./VB visit./FW us./PRP on./IN Glassdoor./NNP and./CC LinkedIn./NNP 

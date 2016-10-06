@@ -1,0 +1,44 @@
+Software./NNP Developer./NNP 
+Equity./NN Linked./NNP Technology./NNP (./( ELT./NNP )./) Co-op./NN 
+Global./NNP Markets./NNP &./CC Research./NNP Technology./NNP 
+Toronto./NNP ,./, ON./NNP 
+
+Bank./NNP of./IN America./NNP is./VBZ one./CD of./IN the./DT world./NN 's./POS largest./JJS financial./JJ institutions./NNS ,./, serving./VBG individual./JJ consumers./NNS ,./, small./JJ and./CC middle./JJ market./NN businesses./NNS and./CC large./JJ corporations./NNS with./IN a./DT full./JJ range./NN of./IN banking./NN ,./, investing./VBG ,./, asset./NN management./NN and./CC other./JJ financial./JJ and./CC risk-management./JJ products./NNS and./CC services./NNS ../. 
+
+Equity./NN Linked./NNP Technology./NNP Overview./NNP 
+Equity./NN Linked./NNP Technology./NNP supports./VBZ the./DT Global./NNP Equity./NNP Linked./NNP Products./NNPS business./NN within./IN Bank./NNP of./IN America./NNP Merrill./NNP Lynch./NNP 's./POS Global./NNP Markets./NNPS and./CC Investment./NNP Banking./NNP Group./NNP ../. The./DT team./NN provides./VBZ innovative./JJ solutions./NNS to./TO speed./VB equity./NN derivatives./NNS trading./NN ,./, facilitates./VBZ sales./NNS ,./, assesses./NNS risk./NN and./CC P./NNP &./CC L./NNP ,./, ensures./VBZ efficient./JJ execution./NN ,./, and./CC promotes./VBZ e-commerce./NN ../. We./PRP aim./VBP to./TO maintain./VB a./DT global./JJ perspective./NN while./IN recognizing./VBG and./CC responding./VBG to./TO the./DT specific./JJ regional./JJ requirements./NNS that./WDT make./VBP each./DT market./NN unique./NN ../. 
+
+Responsibilities./NNS 
+The./DT lifecycle./NN management./NN group./NN is./VBZ responsible./JJ for./IN the./DT design./NN and./CC development./NN of./IN a./DT global./JJ equity./NN derivatives./NNS workflow./VBP platform./NN ../. The./DT platform./NN facilitates./VBZ all./DT aspects./NNS of./IN sales./NNS and./CC trading./NN ,./, from./IN negotiation./NN through./IN order./NN management./NN and./CC execution./NN ,./, to./TO post-trade./VB lifecycle./NN management./NN ../. The./DT environment./NN in./IN which./WDT the./DT team./NN operates./VBZ is./VBZ constantly./RB changing./VBG ,./, and./CC therefore./RB the./DT technology./NN delivered./VBN to./TO meet./VB the./DT business./NN requirements./NNS needs./VBZ to./TO be./VB adaptable./JJ and./CC strategic./JJ in./IN nature./NN ../. 
+
+Parameter./NNP management./NN is./VBZ a./DT high./JJ profile./NN strategic./JJ application./NN (./( UI./NNP and./CC server-side./JJ service./NN )./) that./WDT is./VBZ used./VBN by./IN the./DT traders./NNS globally./RB to./TO manipulate./VB all./DT type./NN of./IN equity./NN parameters./NNS ,./, using./VBG by./IN the./DT Front./NNP Office./NNP to./TO price./NN their./PRP$ financial./JJ products./NNS (./( volatility./NN ,./, dividends./NNS ,./, borrow./NN costs./NNS ,./, correlations./NNS ,./, volatility./NN of./IN volatility./NN ,./, yield./NN curves./NNS ,./, credit./NN curves./NNS )./) ../. 
+
+You./PRP offer./VBP :./: 
+
+-./: Software./NN development./NN experience./NN beyond./IN academic./JJ program./NN 
+-./: Strong./NN knowledge./NN of./IN OO./NNP language./NN (./( C./NNP #./# or./CC Java./NNP )./) 
+-./: Strong./NN knowledge./NN of./IN design./NN patterns./NNS and./CC programming./VBG best./JJS practices./NNS 
+-./: Functional./JJ programming./NN experience./NN is./VBZ advantage./NN 
+-./: Experience./NN with./IN UI./NNP development./NN is./VBZ advantage./NN 
+-./: Financial./NN background./NN and./CC derivatives./NNS knowledge./VBP is./VBZ advantage./NN 
+-./: Python./NN knowledge./NN is./VBZ advantage./JJ 
+-./: Passion./NN about./IN technology./NN ,./, desire./NN to./TO learn./VB 
+
+
+
+We./PRP offer./VBP :./: 
+
+-./: Work./NN on./IN the./DT large-scale./JJ project./NN with./IN ability./NN to./TO get./VB real./JJ working./VBG experience./NN while./IN totally./RB embedded./VBN in./IN the./DT development./NN team./NN (./( not./RB working./VBG in./IN isolation./NN )./) 
+-./: Work./NN in./IN agile./JJ environment./NN (./( SCRUM./NNP )./) with./IN global./JJ releases./NNS happening./VBG every./DT week./NN 
+-./: Experience./NN with./IN messaging./NN and./CC n-tier./JJ architecture./NN 
+-./: Experience./NN with./IN project./NN using./VBG fully./RB automated./VBN test./NN suite./NN (./( unit./NN testing./NN ,./, integration./NN testing./NN ,./, acceptance./NN testing./VBG )./) ,./, TeamCity./NNP 
+-./: Experience./NN with./IN automated./JJ deployments./NNS using./VBG Ansible./JJ 
+-./: Experience./NN with./IN pair./NN programming./NN and./CC code./NN review./NN practices./NNS 
+
+
+
+Working./VBG Environment./NN 
+We./PRP provide./VBP a./DT modern./JJ development./NN environment./NN located./VBN centrally./RB in./IN downtown./NN Toronto./NNP at./IN the./DT Eaton./NNP Center./NNP ,./, easily./RB accessible./JJ using./VBG Subway./NNP and/or./NN GO./NNP Train./NNP ../. We./PRP are./VBP an./DT exciting./JJ company./NN ,./, in./IN which./WDT creative./JJ and./CC ambitious./JJ individuals./NNS thrive./VBP in./IN a./DT corporate./JJ business./NN environment./NN ../. 
+
+Future./NN Opportunities./NNS 
+Successful./JJ co-op./JJ students./NNS may./MD be./VB considered./VBN for./IN future./JJ co-op./JJ opportunities./NNS ,./, as./RB well./RB as./IN full./JJ time./NN employment./NN into./IN our./PRP$ Technology./NNP Developer./NNP and./CC Analyst./NNP Program./NNP upon./IN graduation./NN ../. To./TO read./VB more./RBR about./IN our./PRP$ program./NN ,./, please./VB visit./FW http./NN :./: //campus.bankofamerica.com/./NN ../. 

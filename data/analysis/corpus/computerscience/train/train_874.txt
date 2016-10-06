@@ -1,0 +1,19 @@
+_____________________________________________________________________./NN 
+
+Job./NNP Summary./NNP 
+In./IN this./DT position./NN you./PRP will./MD help./VB define./VB and./CC implement./VB Realstax./NNP './POS frontend./NN web./NN applications./NNS ../. 
+Improve./NNP UI/UX./NNP and./CC produce./VB automated./JJ tests./NNS to./TO ensure./VB integrity./NN ../. 
+
+Job./NNP Responsibilities./NNS 
+Responsible./JJ for./IN the./DT development./NN ,./, testing./VBG ,./, release./NN and./CC support./NN of./IN frontend./NN web./NN initiatives./NNS at./IN 
+Realstax./NNP ../. 
+Work./NN closely./RB with./IN UI/UX./NNP designers./NNS and./CC product./NN owners./NNS to./TO implement./VB features./NNS and./CC provide./VB 
+feedback./NN ../. 
+The./DT ideal./JJ candidate./NN possesses./VBZ an./DT innovative./JJ but./CC disciplined./VBD approach./NN to./TO technology./NN development./NN ../. 
+
+Required./VBN Skills./NNS :./: 
+Minimum./JJ 2./CD years./NNS software./NN development./NN experience./NN HTML5./NNP ,./, CSS3./NNP ,./, ES2015./NNP 
+Responsive./JJ UI/UX./NNP 
+Web./NNP service./NN experience./NN (./( JSON/REST./NNP )./) 
+React./NNP ,./, Redux./NNP ,./, Webpack./NNP and./CC Node.js./NNP 
+Strong./JJ analytical./JJ ,./, organizational./JJ and./CC communication./NN skills./NNS Can./NNP give./VB &./CC take./VB honest./NN ,./, thoughtful./JJ criticism./NN 

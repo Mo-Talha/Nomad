@@ -1,0 +1,25 @@
+The./DT Ingle./NNP Group./NNP of./IN Companies./NNPS ;./: industry./NN pioneers./NNS in./IN insurance./NN ,./, emergency./NN assistance./NN ,./, and./CC travel./NN and./CC wellness./JJ digital./JJ products./NNS is./VBZ seeking./VBG a./DT motivated./JJ software./NN engineer./NN to./TO join./VB our./PRP$ team./NN ../. You./PRP are./VBP a./DT motivated./JJ young./JJ professional./NN committed./VBD to./TO your./PRP$ craft./NN ../. You./PRP thrive./VBP in./IN a./DT team./NN environment./NN and./CC are./VBP also./RB able./JJ to./TO work./VB individually./RB ../. If./IN this./DT sounds./VBZ like./IN you./PRP ,./, we./PRP want./VBP you./PRP to./TO join./VB our./PRP$ exciting./NN ,./, fast-paced./JJ team./NN ../. As./IN our./PRP$ software./NN engineer./NN ,./, you./PRP will./MD :./: 
+
+-./: Build./NN highly./RB available./JJ ,./, secure./NN ,./, and./CC scalable./JJ PHP./NNP applications./NNS and./CC APIs./NNP 
+-./: Build./NN and./CC maintain./VB our./PRP$ CMS./NNP 
+-./: Develop./NN and./CC design./NN schemas./NN and./CC queries./NNS 
+-./: Write./NN clear./JJ documentation./NN that./WDT is./VBZ easy./JJ to./TO understand./VB for./IN other./JJ developers./NNS 
+-./: Work./NN with./IN the./DT development./NN and./CC design./NN teams./NNS to./TO implement./VB features./NNS 
+
+Desired./NNP Skills./NNP and./CC Experience./NN :./: 
+
+-./: Degree./NN or./CC diploma./NN in./IN computer./NN science./NN ,./, software./NN engineering./NN ,./, or./CC science/engineering./VBG 
+-./: Experience./NN developing./VBG with./IN PHP./NNP 5.4+./CD and./CC databases./NNS such./JJ as./IN MySQL./NNP or./CC Postgres./NNS 
+-./: Skilled./VBN with./IN modern./JJ PHP./NNP MVC./NNP frameworks./NNS (./( e.g../NN ,./, Laravel./NNP ,./, Zend2./NNP )./) and./CC tooling./VBG (./( e.g./NN ../. Composer./NNP )./) 
+-./: Ability./NN to./TO build./VB well-designed./JJ RESTful./NNP APIs./NNP 
+-./: Relevant./JJ industry./NN experience./NN as./RB well./RB as./IN shipping./VBG code./NN to./TO production./NN 
+-./: In-depth./NN knowledge./NN of./IN HTTP./NNP protocol./NN and./CC data./NNS exchange./NN formats./NNS (./( e.g../NN ,./, XML./NNP ,./, JSON./NNP )./) 
+-./: Strong./JJ command./NN of./IN Linux./NNP (./( any./DT distribution./NN )./) and./CC knowledgeable./JJ of./IN Git./NNP 
+-./: Familiarity./NN with./IN automation./NN and./CC virtualization./NN tools./NNS like./IN Puppet./NNP ,./, VirtualBox./NNP ,./, and./CC Vagrant./NNP is./VBZ a./DT definite./JJ asset./NN 
+-./: Required./VBN :./: Must./JJ be./VB a./DT resident./NN of./IN Canada./NNP and./CC legally./RB eligible./JJ to./TO work./VB in./IN Canada./NNP 
+
+Why./WRB work./NN at./IN Ingle./NNP ?./. 
+
+We./PRP have./VBP been./VBN providing./VBG insurance./NN and./CC travel./NN solutions./NNS to./TO Canadians./NNPS and./CC international./JJ travellers./NNS since./IN 1946./CD ../. At./IN Ingle./NNP International./NNP ,./, people./NNS are./VBP the./DT source./NN of./IN our./PRP$ energy./NN ../. We./PRP are./VBP a./DT creative./JJ ,./, dynamic./JJ team./NN from./IN diverse./JJ backgrounds./NNS ,./, bringing./VBG our./PRP$ passion./NN to./TO deliver./VB excellent./JJ service./NN to./TO various./JJ charitable./JJ ,./, educational./JJ ,./, health./NN care./NN ,./, and./CC international./JJ groups./NNS as./RB well./RB as./IN the./DT general./JJ public./NN ../. We./PRP use./VBP pioneering./VBG technologies./NNS and./CC exceptional./JJ customer./NN service./NN to./TO deliver./VB products./NNS and./CC service./NN at./IN affordable./JJ rates./NNS ../. Interns./NNP regularly./RB seek./VBP us./PRP out./RP as./IN an./DT employer./NN of./IN choice./NN ;./: they./PRP have./VBP learned./VBN a./DT great./JJ deal./NN from./IN us./PRP ,./, and./CC we./PRP ,./, in./IN turn./NN ,./, have./VBP enjoyed./VBN the./DT experience./NN immensely./RB and./CC learned./VBN from./IN them./PRP ../. 
+
+We./PRP invest./VBP in./IN our./PRP$ team./NN members./NNS and./CC help./VB them./PRP build./VB a./DT career./NN ../. We./PRP also./RB provide./VBP competitive./JJ compensation./NN and./CC an./DT insurance./NN benefits./NNS package./VBP including./VBG health./NN and./CC dental./JJ coverage./NN ,./, a./DT wellness./NN bursary./NN ,./, and./CC opportunities./NNS for./IN training./NN and./CC education./NN ../. 

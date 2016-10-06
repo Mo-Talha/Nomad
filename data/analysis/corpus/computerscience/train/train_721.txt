@@ -1,0 +1,20 @@
+This./DT is./VBZ a./DT work./NN placement./NN position./NN which./WDT provides./VBZ full-time./JJ employment./NN opportunities./NNS for./IN University./NNP of./IN Waterloo./NNP students./NNS who./WP meet./VBP all./DT of./IN the./DT following./JJ criteria./NNS :./: 
+
+-You./NN must./MD have./VB applied./VBN for./IN and./CC have./VBP been./VBN granted./VBN OSAP./NNP or./CC other./JJ provincial./JJ student./NN aid./NN funding./NN and./CC be./VB in./IN full-time./JJ studies./NNS during./IN the./DT academic./JJ term./NN immediately./RB prior./RB to./TO the./DT work./NN term./NN 
+-Those./RB receiving./VBG the./DT Ontario./NNP Tuition./NNP Grant./NNP only./RB are./VBP NOT./NNP eligible./JJ 
+
+out./IN of./IN province./NN students./NNS must./MD provide./VB a./DT copy./NN of./IN their./PRP$ Notice./NNP of./IN Assessment./NNP for./IN the./DT current./JJ study./NN term./NN ,./, outlining./VBG costs./NNS and./CC resources./NNS used./VBN in./IN the./DT assessment./NN of./IN need./NN ,./, to./TO the./DT Student./NNP Awards./NNP &./CC Financial./NNP Aid./NNP Office./NNP within./IN 24./CD hours./NNS of./IN the./DT job./NN posting./VBG closing./NN in./IN order./NN to./TO be./VB considered./VBN for./IN the./DT position./NN ../. 
+
+-You./NN must./MD be./VB returning./VBG to./TO full-time./JJ degree./NN studies./NNS at./IN the./DT University./NNP of./IN Waterloo./NNP in./IN the./DT term./NN immediately./RB following./VBG this./DT work./NN placement./NN and./CC you./PRP must./MD maintain./VB satisfactory./JJ academic./JJ progress./NN in./IN accordance./NN with./IN the./DT standards./NNS of./IN the./DT university./NN ../. 
+
+-Graduate./JJ students./NNS :./: Please./NNP check./VB with./IN the./DT supervisor./NN or./CC program./NN director./NN before./IN applying./VBG for./IN this./DT position./NN to./TO see./VB if./IN it./PRP meets./VBZ your./PRP$ program./NN requirements./NNS ../. 
+
+
+The./DT Department./NNP of./IN Psychology./NNP requires./VBZ several./JJ existing./VBG FileMaker./NNP Pro./NNP databases./VBZ to./TO be./VB moved./VBN to./TO MS./NNP Access./NNP ../. The./DT project./NN will./MD also./RB include./VB designing./VBG the./DT new./JJ user./JJ interface./NN and./CC incorporating./VBG new./JJ features./NNS ../. You./PRP will./MD work./VB with./IN Graduate./NNP and./CC Undergraduate./NNP Coordinators./NNPS as./RB well./RB as./IN IT./NNP Staff./NNP in./IN Psychology./NNP ../. May./NNP perform./VB various./JJ programming./VBG and./CC consulting./VBG tasks./NNS as./IN assigned./VBN ../. 
+
+Qualifications./NNS :./: 
+-./: Strong./NN knowledge./NN of./IN MS./NNP Access./NNP ,./, VBA./NNP and./CC SQL./NNP 
+-./: Familiarity./NN with./IN FileMaker./NNP Pro./NNP and./CC SQL./NNP Server./NNP preferred./VBD 
+-./: Strong./NN organization./NN skills./NNS and./CC attention./NN to./TO detail./VB 
+-./: Strong./NN communication./NN and./CC inter-personal./JJ skills./NNS 
+-./: Ability./NN to./TO work./VB in./IN a./DT team./NN environment./NN 

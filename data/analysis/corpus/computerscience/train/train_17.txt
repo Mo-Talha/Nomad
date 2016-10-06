@@ -1,0 +1,27 @@
+At./IN Veriday./NNP ,./, our./PRP$ people./NNS are./VBP our./PRP$ number./NN one./CD winning./NN strategy./NN ,./, which./WDT is./VBZ why./WRB we./PRP strive./VBP to./TO attract./VB and./CC retain./VB the./DT very./RB best./JJS talent./NN ../. If./IN you./PRP are./VBP looking./VBG to./TO work./VB in./IN a./DT dynamic./JJ ,./, fast./RB paced./JJ environment./NN ,./, we./PRP 're./VBP growing./VBG and./CC looking./VBG for./IN talented./VBN and./CC passionate./JJ people./NNS to./TO join./VB our./PRP$ team./NN ../. The./DT ideal./JJ candidate./NN will./MD have./VB a./DT love./NN for./IN technology./NN and./CC development./NN ,./, and./CC is./VBZ looking./VBG to./TO grow./VB their./PRP$ career./NN by./IN learning./VBG new./JJ skills./NNS ../. This./DT is./VBZ an./DT exciting./JJ opportunity./NN to\work./NN with./IN innovative./JJ technologies./NNS and./CC clients./NNS ../. 
+
+Key./NNP Responsibilities./NNS 
+-./: Lead./NN interaction./NN design./NN for./IN our./PRP$ product./NN ../. 
+-./: Take./NN complex./JJ ideas./NNS and./CC translate./VB them./PRP into./IN clean./JJ workflows./NNS based./VBN on./IN user./JJ research./NN ../. 
+-./: Engage./NN with./IN our./PRP$ customers./NNS and./CC product./NN management./NN team./NN to./TO understand./VB user./NN needs./NNS and./CC 
+competitive./JJ landscape./NN ../. 
+-./: Aid./NN in./IN the./DT creation./NN of./IN user./NN stories./NNS and./CC support./VB our./PRP$ engineering./NN teams./NNS during./IN scrum./JJ sprints./NNS ../. 
+-./: Create./NN and./CC maintain./VBP design./NN guidelines./NNS to./TO ensure./VB consistency./NN across./IN our./PRP$ applications./NNS ../. 
+-./: Work./NN with./IN design./NN and./CC development./NN teams./NNS to./TO bring./VB UX./NNP concepts./NNS to./TO life./NN ../. 
+-./: Facilitate./NN user./NN testing./VBG and./CC conduct./NN interface./NN analysis./NN ../. 
+-./: Evangelize./VB the./DT importance./NN of./IN design./NN within./IN the./DT organization./NN ../. 
+
+Knowledge./NNP ,./, Skills./NNP and./CC Abilities./NNS 
+-./: 2-4./CD years./NNS './POS experience./NN working./VBG in./IN UX./NNP for./IN webbased./JJ platforms./NNS ../. 
+-./: Experience./NN in./IN user./JJ research./NN ,./, interaction./NN design./NN and./CC visual./JJ design./NN for./IN the./DT web./NN ../. 
+-./: Strong./JJ creative./JJ research./NN ,./, writing./NN ,./, and./CC design./NN skills./NNS ../. 
+-./: Strong./NN communication./NN skills./NNS ,./, but./CC better./JJR listening./VBG skills./NNS ../. 
+
+Education./NN 
+-./: Undergraduate./NN studies./NNS in./IN Design./NNP ,./, Computer./NNP Science./NNP ,./, or./CC similar./JJ ../. 
+
+Nice./NNP to./TO Haves./VB 
+-./: Link./NN to./TO a./DT portfolio./NN of./IN your./PRP$ work./NN in./IN your./PRP$ resume/cover./NN letter./NN ../. 
+-./: Ability./NN to./TO write./VB HTML./NNP ,./, CSS./NNP ,./, and./CC JavaScript./NNP ../. 
+-./: Experience./NN with./IN responsive./JJ design./NN ../. 
+-./: Adept./NN at./IN creating./VBG interactive./JJ prototypes./NNS ../. 

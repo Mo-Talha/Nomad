@@ -1,0 +1,57 @@
+CLASSIFICATION./NN :./: ADMIN/TECH./NNP -./: SUMMER./NNP STUDENT./NNP -./: LEVEL./NN B./NNP 
+POSITION./NNP TITLE./NNP :./: ITS./NNP SERVICE./NNP DESK./NNP ASSISTANT./NNP -./: STUDENT./NN 
+DEPARTMENT./NN :./: FINANCE./NN 
+BRANCH./NN :./: INFORMATION./NNP TECHNOLOGY./NNP SERVICES./NNP 
+INITIAL./JJ LOCATION./NNP :./: 395./CD MULOCK./NNP DRIVE./NNP ,./, NEWMARKET./NNP 
+REPORTS./NNS TO./NN :./: SUPERVISOR./NNP ,./, SERVICE./NNP DESK./NNP ,./, ITS./NNP 
+UNION./JJ AFFILIATION./NNP :./: CUPE./NNP LOCAL./NNP 905./CD (./( YORK./JJ REGION./NNP UNIT./NNP )./) 
+HOURS/WEEK./NN :./: 35./CD 
+
+
+POSITION./NNP PURPOSE./NNP :./: 
+
+Reporting./VBG to./TO the./DT Supervisor./NNP ,./, Service./NNP Desk./NNP ,./, ITS./NNP ,./, and./CC under./IN the./DT guidance./NN and./CC direction./NN of./IN senior./JJ staff./NN ,./, is./VBZ responsible./JJ for./IN assisting./VBG Information./NNP Technology./NNP Services./NNPS staff./NN with./IN day./NN to./TO day./NN decommission./NN and./CC documentation./NN activities./NNS of./IN technology./NN assets./NNS ../. 
+
+
+BENEFITS./NNP TO./NNP STUDENT./NNP 
+
+-./: Gain./NN valuable./JJ work./NN experience./NN in./IN their./PRP$ field./NN of./IN study./NN ../. 
+-./: Enhance./VB their./PRP$ interpersonal./JJ and./CC team./JJ work./NN skills./NNS with./IN professionals./NNS in./IN the./DT field./NN 
+-./: Gain./NN direct./JJ experience./NN in./IN the./DT public./NN sector./NN environment./NN ../. 
+-./: Learn./NN about./IN process./NN ,./, policies./NNS and./CC procedures./NNS within./IN a./DT large./JJ corporate./JJ Information./NNP Technology./NNP group./NN ../. 
+-./: Learn./NN essential./JJ technical./JJ skills./NNS required./VBN for./IN a./DT successful./JJ IT./NNP career./NN ../. 
+-./: Learn./NN essential./JJ customer./NN service./NN skills./NNS in./IN dealing./VBG with./IN Regional./JJ staff./NN ../. 
+
+
+MAJOR./JJ RESPONSIBILITIES./NNP 
+
+1./CD ../. Technical./JJ and./CC Administrative./JJ Activities./NNS :./: 
+
+-./: Responds./NNS to./TO Help./VB Desk./NNP inquiries./NNS from./IN Regional./JJ staff./NN to./TO provide./VB solutions./NNS on./IN all./DT Regional./NNP computer./NN equipment./NN and./CC software./NN issues/problems./NNS ;./: refers./NNS unresolved./VBD issues./NNS as./IN required./VBN ../. 
+-./: Records./NNS all./DT client./NN interactions./NNS using./VBG ticket./NN tracking./VBG software./NN ;./: monitors./NNS and./CC alerts./NNS Management./NNP of./IN urgent./JJ issues./NNS ../. 
+-./: Provides./NNS second./JJ level./NN support./NN for./IN the./DT ITS./NNP Service./NNP Desk./NNP ensuring./VBG referral./JJ ,./, escalation./NN and./CC follow-up./JJ procedures./NNS are./VBP being./VBG applied./VBN correctly./RB and./CC effectively./RB to./TO meet./VB the./DT goal./NN of./IN providing./VBG excellent./JJ customer./NN service./NN 
+-./: Participates./NNS on./IN technical./JJ project./NN teams./NNS to./TO assist./VB in./IN delivery./NN of./IN ITS./NNP related./JJ projects./NNS and./CC programs./NNS ../. 
+
+
+2./CD ../. Liaison./NNP ,./, Communication./NNP and./CC Customer./NNP Service./NNP Activities./NNS :./: 
+
+-./: Provides./NNS exceptional./JJ customer./NN service./NN to./TO both./DT internal./JJ ITS./NNP staff./NN and./CC staff./NN from./IN other./JJ Departments./NNS ../. 
+-./: Ensures./NNS that./WDT services./NNS provided./VBD meet./JJ Regional./NNP customer./NN service./NN standards./NNS ../. 
+-./: Manages./NNS information./NN in./IN accordance./NN with./IN legislation./NN and./CC corporate./JJ standards./NNS ../. 
+
+3./LS ../. Other./JJ Duties./NNS :./: 
+
+-./: Performs./NNS other./JJ duties./NNS as./IN assigned./VBN in./IN accordance./NN with./IN Branch./NNP or./CC Department./NNP objectives./NNS ../. 
+
+
+QUALIFICATIONS./NN 
+
+-./: Currently./RB enrolled./VBN on./IN a./DT full./JJ time./NN basis./NN in./IN a./DT post-secondary./JJ IT./NNP or./CC related./VBN program./NN ../. 
+-./: Returning./VBG to./TO school./NN full./JJ time./NN in./IN the./DT spring./NN ../. 
+-./: Knowledge./NN of./IN computer./NN hardware./NN and./CC technology./NN components./NNS ../. 
+-./: Knowledge./NN of./IN and./CC demonstrated./JJ ability./NN in./IN corporate./JJ core./NN competencies./NNS including./VBG customer./NN service./NN ,./, communication./NN ,./, team./NN work./NN ,./, initiative/self-management./JJ and./CC accountability./NN ,./, and./CC flexibility/adaptability./NN ../. 
+-./: Computer./NNP literacy./NN utilizing./VBG MS./NNP Office./NNP software./NN applications./NNS 
+-./: Ability./NN to./TO organize./VB daily./JJ workload./NN ,./, set./VBN priorities./NNS and./CC meet./NN required./JJ deadlines./NNS ../. 
+-./: Ability./NN to./TO work./VB with./IN PC./NN based./VBN hardware./NN ,./, printers./NNS ,./, Microsoft./NNP Windows./NNP operating./VBG system./NN and./CC MS./NNP Office./NNP applications./NNS (./( including./VBG MS./NNP exchange./NN )./) to./TO resolve./VB client./NN issues./NNS ../. 
+-./: Ability./NN to./TO work./VB independently./RB and./CC work./VB cooperatively./RB with./IN staff./NN and./CC as./IN part./NN of./IN a./DT team./NN ../. 
+-./: Ability./NN to./TO work./VB outside./JJ regular./JJ business./NN hours./NNS ,./, as./IN required./VBN ../. 

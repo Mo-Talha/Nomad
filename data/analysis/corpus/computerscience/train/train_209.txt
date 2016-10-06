@@ -1,0 +1,33 @@
+A9./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Oct../NNP 6./CD ,./, 2016./CD from./IN 7:30./CD PM./NNP -./: 9:30./CD PM./NNP at./IN Tatham./NNP Centre./NNP -./: 2218./CD A./NNP and./CC B./NNP ../. Please./NNP plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+______________________________________________./NN 
+
+
+______________________________________________________./NN 
+
+Software./NNP Development./NNP Internship./NNP -./: Large-Scale./JJ Distributed./NNP Systems./NNPS 
+
+A9.com./NNP ,./, an./DT Amazon./NNP company./NN ,./, creates./VBZ powerful./JJ ,./, customer-focused./JJ search./NN and./CC advertising./NN solutions./NNS and./CC technologies./NNS ../. We./PRP are./VBP looking./VBG for./IN engineers./NNS interested./JJ in./IN the./DT full./JJ development./NN cycle./NN to./TO join./VB our./PRP$ Software./NNP Development./NNP Internship./NNP focused./VBD on./IN large-scale./JJ distributed./JJ systems./NNS ../. You./PRP will./MD have./VB the./DT opportunity./NN to./TO learn./VB how./WRB to./TO build./VB large-scale./JJ distributed./JJ systems./NNS that./WDT can./MD handle./VB Amazon-scale./NNP data./NNS ../. The./DT solutions./NNS you./PRP build./VBP have./VBP the./DT potential./JJ to./TO be./VB used./VBN by./IN millions./NNS of./IN Amazon./NNP customers./NNS ../. You./PRP will./MD have./VB an./DT opportunity./NN to./TO work./VB on./IN one./CD of./IN the./DT following./JJ teams./NNS :./: 
+Visual./JJ Search./NN :./: Our./PRP$ Visual./JJ Search./NNP team./NN creates./VBZ solutions./NNS aimed./VBN at./IN helping./VBG customers./NNS search./NN and./CC discover./VB the./DT world./NN around./IN them./PRP via./IN a./DT camera-phone./JJ view./NN ../. We./PRP use./VBP advanced./JJ technologies./NNS to./TO leverage./VB our./PRP$ vast./JJ catalog./NN of./IN images./NNS in./IN ways./NNS that./WDT dramatically./RB improve./VB the./DT experience./NN of./IN Amazon./NNP customers./NNS ../. The./DT work./NN we./PRP do./VBP enables./RB our./PRP$ computer./NN vision./NN technology./NN to./TO scale./VB to./TO an./DT Amazon./NNP size./NN ../. 
+
+Advertising./VBG Technology./NN :./: Our./PRP$ Ad./NNP Tech./NNP team./NN builds./VBZ the./DT technology./NN infrastructure./NN and./CC ad./NN serving./VBG systems./NNS to./TO manage./VB billions./NNS of./IN advertising./NN queries./NNS every./DT day./NN ../. The./DT result./NN is./VBZ better./JJR quality./NN advertising./NN for./IN publishers./NNS and./CC more./JJR relevant./JJ ads./NNS for./IN customers./NNS ../. Our./PRP$ infrastructure./NN supports./VBZ millions./NNS of./IN Internet./NNP users./NNS and./CC handles./NNS billions./NNS of./IN queries./NNS per./IN day./NN ,./, all./DT delivered./VBN in./IN milliseconds./NNS ../. 
+
+Product./NN Search./NN :./: Whenever./WRB a./DT customer./NN visits./VBZ an./DT Amazon./NNP site./NN worldwide./NN and./CC types./NNS in./IN a./DT query./NN or./CC browses./NNS through./IN product./NN categories./NNS ,./, A9./NNP Product./NNP Search./NNP services./NNS go./VBP to./TO work./VB ../. We./PRP design./VBP ,./, develop./VB ,./, and./CC deploy./RB high./JJ performance./NN ,./, fault-tolerant./JJ distributed./VBN search./NN systems./NNS used./VBN by./IN millions./NNS of./IN Amazon./NNP customers./NNS every./DT day./NN ../. Our./PRP$ Search./NN Platform./NNP team./NN designs./NNS ,./, builds./NNS ,./, and./CC delivers./NNS these./DT large-scale./JJ distributed./VBD systems./NNS that./IN support./NN traffic./NN to./TO one./CD of./IN the./DT Internet./NNP 's./POS premier./JJR destination./NN sites./NNS ../. Our./PRP$ Search./NN Analytics./NNPS team./NN operates./VBZ large-scale./JJ distributed./JJ systems./NNS designed./VBN to./TO manage./VB the./DT richest./JJS and./CC largest./JJS collection./NN of./IN product./NN search./NN data./NNS in./IN the./DT world./NN ../. 
+
+At./IN A9./NNP ,./, you./PRP 'll./MD experience./VB the./DT benefits./NNS of./IN working./VBG in./IN a./DT dynamic./JJ ,./, entrepreneurial./JJ environment./NN ,./, while./IN leveraging./VBG the./DT resources./NNS of./IN Amazon.com./NNP (./( AMZN./NNP )./) ,./, one./CD of./IN the./DT world./NN 's./POS leading./JJ internet./NN companies./NNS ../. We./PRP provide./VBP a./DT highly./RB customer-centric./JJ ,./, team-oriented./JJ environment./NN in./IN our./PRP$ offices./NNS located./VBN in./IN Palo./NNP Alto./NNP ,./, California./NNP ../. 
+
+Basic./JJ Qualifications./NNS 
+Pursuing./VBG a./DT bachelor./NN 's./POS in./IN computer./NN science./NN ,./, engineering./NN ,./, or./CC related./JJ technical./JJ discipline./NN 
+A./DT minimum./NN of./IN 2./CD years./NNS of./IN experience./NN with./IN object-oriented./JJ design./NN and./CC programming./VBG experience./NN in./IN C/C++./NNP ,./, Java./NNP ,./, or./CC Python./NNP ,./, preferably./RB on./IN a./DT UNIX./NNP or./CC Linux./NNP Platform./NNP 
+
+Preferred./JJ Qualifications./NNS 
+Pursuing./VBG a./DT master./NN 's./POS in./IN computer./NN science./NN ,./, engineering./NN ,./, or./CC related./JJ technical./JJ discipline./NN 
+Strong./JJ knowledge./NN of./IN computer./NN science./NN fundamentals./NNS including./VBG data./NNS structures./NNS and./CC algorithms./NN 
+Experience./NN building./VBG large-scale./JJ distributed./VBN systems./NNS and./CC familiarity./NN with./IN AWS./NNP offerings./NNS such./JJ as./IN S3./NNP and./CC EC2./NNP 
+Experience./NN dealing./VBG with./IN big./JJ data./NNS using./VBG Hadoop./NNP ,./, Hbase./NNP and./CC other./JJ cloud./NN computing./VBG technologies./NNS 
+Excellent./JJ communication./NN skills./NNS ,./, strong./JJ work./NN ethic./NN ,./, and./CC a./DT strong./JJ desire./NN to./TO write./VB production-quality./NN code./NN 
+Prior./JJ internship./NN experience./NN where./WRB you./PRP have./VBP demonstrated./VBN an./DT ability./NN to./TO work./VB in./IN teams./NNS ,./, problem./NN solve./NN and./CC communicate./VB effectively./RB regarding./VBG technical./JJ projects./NNS 
+
+Additional./JJ Application./NNP Instructions./NNS :./: 
+To./TO apply./VB for./IN the./DT Software./NNP Development./NNP Internship./NNP -./: Large-Scale./JJ Distributed./NNP Systems./NNPS ,./, please./VB take./VB the./DT following./JJ steps./NNS :./: 
+1./CD ../. Apply./VB through./IN JobMine./NNP ../. JobMine./NNP is./VBZ required./VBN for./IN interview./NN scheduling./NN purposes./NNS ../. 
+2./CD ../. Apply./VB through./IN A9./NNP 's./POS website./NN for./IN the./DT Software./NNP Development./NNP Internship./NNP -./: Large-Scale./JJ Distributed./NNP Systems./NNPS using./VBG the./DT following./JJ link./NN :./: https./NN :./: //app.jobvite.com/j./NN ?./. cj=oXnX3fw4./NN &./CC s=University_Programs./NNS :./: _Waterloo./NN 

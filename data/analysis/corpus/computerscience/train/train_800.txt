@@ -1,0 +1,21 @@
+We./PRP are./VBP currently./RB looking./VBG for./IN a./DT Quality./NNP Engineer./NNP to./TO help./VB shore./VB up./RP our./PRP$ quality./NN effort./NN ../. The./DT ideal./JJ candidate./NN will./MD have./VB experience./NN with./IN enterprise./NN level./NN software./NN and./CC a./DT knack./NN for./IN breaking./VBG things./NNS ../. You./PRP 'll./MD work./VB closely./RB with./IN development./NN and./CC product./NN management./NN to./TO ensure./VB we./PRP build./VB and./CC deliver./VB software./NN that./IN we./PRP are./VBP all./DT proud./NN of./IN ../. 
+
+Responsibilities./NNS :./: 
+-./: Create./NN and./CC execute./VB test./NN plans./NNS ,./, including./VBG new./JJ feature./NN testing./NN and./CC risk./NN based./VBN regression./NN ../. 
+-./: Execute./NN manual./JJ black./JJ box./NN ,./, exploratory./NN and./CC regression./NN testing./NN ../. 
+-./: Implement./NN and/or./IN execute./NN automated./JJ tests./NNS ../. 
+-./: Log./NN defects./NNS identified./VBN during./IN testing./VBG and./CC escalate./JJ issues./NNS quickly./RB and./CC effectively./RB ../. 
+-./: Work./NN closely./RB with./IN developers./NNS to./TO investigate./VB ,./, troubleshoot./NN ,./, and./CC verify./VB defect./JJ fixes./NNS ../. 
+-./: Contribute./NN to./TO process./VB refinement./NN ,./, with./IN an./DT emphasis./NN on./IN improving./VBG overall./JJ test./NN coverage./NN and./CC efficiency./NN ../. 
+-./: Participate./NN in./IN daily./JJ Agile./NNP Scrum./NNP meetings./NNS ../. 
+
+Desired./NNP Skills./NNP &./CC Experience./NN :./: 
+-./: Completing./VBG a./DT university./NN degree./NN in./IN Computer./NNP Science./NNP or./CC a./DT related./JJ field./NN ../. 
+-./: Excellent./NN communication./NN skills./NNS ,./, high./JJ attention./NN to./TO detail./VB and./CC extremely./RB well./RB organized./VBN ../. 
+-./: Ability./NN to./TO take./VB initiative./NN and./CC learn./VB new./JJ products./NNS quickly./RB ../. 
+-./: Highly./NN motivated./JJ and./CC pro-active./JJ -./: always./RB looking./VBG for./IN more./JJR work./NN ../. 
+-./: Accomplish./NN QA./NNP tasks./NNS with./IN minimal./JJ supervision./NN ../. 
+-./: Ability./NN to./TO setup./VB and./CC install./VB servers./NNS ../. 
+-./: Efficient./NN troubleshooting./VBG skills./NNS ../. 
+
+To./TO learn./VB more./JJR about./IN JUICE./NNP Mobile./NNP check./VB out./RP our./PRP$ careers./NNS page./VBP at./IN www.juicemobile.com/careers./NNS 

@@ -1,0 +1,33 @@
+This./DT position./NN is./VBZ limited./VBN to./TO students./NNS that./WDT are./VBP registered./VBN in./IN a./DT recognized./VBN Co-op./NN or./CC internship./JJ program./NN at./IN a./DT Canadian./JJ College./NNP or./CC University./NNP ../. 
+
+Nokia./NNP is./VBZ a./DT global./JJ leader./NN in./IN the./DT technologies./NNS that./WDT connect./VBP people./NNS and./CC things./NNS ../. With./IN state-of-the-art./JJ software./NN ,./, hardware./NN and./CC services./NNS for./IN any./DT type./NN of./IN network./NN ,./, Nokia./NNP is./VBZ uniquely./RB positioned./VBN to./TO help./VB communication./NN service./NN providers./NNS ,./, governments./NNS ,./, and./CC large./JJ enterprises./NNS deliver./RB on./IN the./DT promise./NN of./IN 5G./CD ,./, the./DT Cloud./NNP and./CC the./DT Internet./NNP of./IN Things./NNP ../. Serving./VBG customers./NNS in./IN over./IN 100./CD countries./NNS ,./, our./PRP$ research./NN scientists./NNS and./CC engineers./NNS continue./VBP to./TO invent./VB and./CC accelerate./VB new./JJ technologies./NNS that./WDT will./MD increasingly./RB transform./VB the./DT way./NN people./NNS and./CC things./NNS communicate./NN and./CC connect./NN ../. 
+
+As./IN a./DT student./NN ,./, you./PRP have./VBP lots./NNS of./IN ideas./NNS to./TO put./VB to./TO the./DT test./NN ../. At./IN Nokia./NNP we./PRP will./MD provide./VB you./PRP with./IN the./DT opportunity./NN to./TO combine./VB your./PRP$ ongoing./VBG academic./JJ pursuits./NNS with./IN valuable./JJ ,./, practical./JJ ,./, hands-on./JJ experience./NN ../. 
+Nokia./NNP 's./POS IP./NNP &./CC Optics./NNP Division./NNP (./( ION./NNP )./) is./VBZ recruiting./VBG highly./RB motivated./VBN Software./NNP Developers./NNP to./TO develop./VB cutting./VBG edge./NN products./NNS in./IN Software-Defined./JJ Networking./NNP ,./, a./DT new./JJ technology./NN space./NN that./WDT is./VBZ revolutionizing./VBG the./DT way./NN networks./NNS are./VBP managed./VBN and./CC controlled./VBN ../. If./IN you./PRP want./VBP to./TO be./VB a./DT part./NN of./IN this./DT next./JJ generation./NN of./IN networking./NN ,./, then./RB this./DT is./VBZ the./DT place./NN for./IN you./PRP !./. 
+
+Our./PRP$ products./NNS are./VBP built./VBN using./VBG various./JJ technologies./NNS ,./, including./VBG :./: 
+
+Java./NNP ,./, JavaScript./NNP ,./, Gradle./NNP ,./, Bower./NNP ,./, Gulp./NNP ../. 
+Web./NNP Frameworks./NNP and./CC Technologies./NNPS (./( Spring./NNP ,./, HTML5./NNP ,./, CSS3./NNP ,./, REST/JSON./NNP )./) ../. 
+Neo4J./NNP Graph./NNP Database./NNP ../. 
+
+As./IN a./DT Software./NNP Developer./NNP on./IN our./PRP$ team./NN ,./, you./PRP will./MD be./VB challenged./VBN !./. The./DT successful./JJ candidates./NNS responsibilities./NNS will./MD include./VB :./: 
+-./: Working./NN in./IN a./DT team-based./JJ Agile./NNP Environment./NNP ;./: collaborate./NN with./IN Developers./NNP ,./, Testers./NNP ,./, and./CC Product./NNP Management./NNP to./TO refine./VB requirements./NNS ,./, develop./VB ,./, and./CC test./VB our./PRP$ products./NNS ../. 
+-./: Designing./NN and./CC implementing./VBG product./NN enhancement./NN or./CC tools./NNS ../. 
+
+ESSENTIAL./NNP SKILLS./NNP AND./NNP QUALIFICATIONS./NNP 
+-./: Working./NN towards./IN a./DT Degree./NNP in./IN Computer./NNP Engineering./NNP or./CC Computer./NNP Science./NNP ../. 
+-./: Solid./JJ understanding./NN of./IN Object./NNP Oriented./NNP Analysis./NNP and./CC Design./NNP ../. 
+-./: Proficiency./NN in./IN Java./NNP ,./, JavaScript./NNP ../. 
+-./: Strong./JJ interpersonal./JJ and./CC communication./NN skills./NNS ,./, both./DT written./VBN and./CC verbal./JJ ../. 
+-./: Demonstrated./VBD ability./NN to./TO learn./VB quickly./RB and./CC to./TO work./VB in./IN a./DT fast./NN paced./VBN ,./, innovative./JJ environment./NN ../. 
+
+ADDITIONAL./NNP ASSETS./NNP 
+-./: Proficiency./NN in./IN CSS./NNP ,./, HTML./NNP ../. 
+-./: Experience./NN with./IN virtualization./NN (./( Vagrant./NNP ,./, KVM./NNP ,./, Open./NNP Stack./NNP )./) ../. 
+-./: Knowledge/experience./NN in./IN Relational./NNP and./CC Graph./NNP databases./NNS ../. 
+-./: Experience./NN with./IN Web./NNP Frameworks./NNP and/or./NN Applications./NNP ../. 
+-./: Experience./NN developing./VBG ReSTful./JJ interfaces./NNS ../. 
+-./: Familiar./NN or./CC proficient./NN with./IN UNIX/Linux./NNP OS./NNP and./CC available./JJ shells./NNS ../. 
+
+Nokia./NNP Canada./NNP is./VBZ committed./VBN to./TO building./VBG a./DT skilled./VBN ,./, diverse./JJ workforce./NN reflective./NN of./IN Canadian./JJ society./NN ../. As./IN a./DT result./NN ,./, we./PRP promote./VBP employment./NN equity./NN and./CC encourage./VB women./NNS ,./, Aboriginal./NNP persons./NNS ,./, and./CC persons./NNS with./IN a./DT disability./NN or./CC members./NNS of./IN a./DT visible./JJ minority./NN group./NN to./TO apply./VB ../. 

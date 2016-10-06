@@ -1,0 +1,54 @@
+Summary./JJ 
+As./IN a./DT member./NN of./IN our./PRP$ Technology./NNP team./NN at./IN BuildDirect./NNP ,./, you./PRP work./VBP with./IN a./DT multi-disciplinary./JJ group./NN of./IN bright./NN and./CC motivated./JJ people./NNS ../. You./PRP and./CC your./PRP$ team./NN operate./NN autonomously./RB to./TO solve./VB real./JJ customer./NN problems./NNS with./IN smart./JJ and./CC innovative./JJ solutions./NNS ,./, end./NN to./TO end./VB ../. You./PRP and./CC your./PRP$ team./NN own./IN your./PRP$ product./NN architecture./NN ,./, implementation./NN ,./, deployment./NN and./CC operations./NNS ../. You./PRP are./VBP empowered./VBN and./CC accountable./JJ for./IN your./PRP$ piece./NN of./IN the./DT full./JJ life./NN cycle./NN ../. You./PRP and./CC your./PRP$ team./NN measure./NN success./NN and./CC its./PRP$ impact./NN with./IN data./NNS collected./VBN from./IN our./PRP$ platform./NN ../. You./PRP will./MD learn./VB and./CC use./VB modern./JJ software./NN engineering./NN approaches./NNS like./IN micro./NN services./NNS ,./, cloud./JJ deployment./NN and./CC auto./NN scaling./NN ,./, continuous./JJ and./CC iterative./JJ software./NN delivery./NN ,./, and./CC data./NNS driven./VBN decision./NN making./NN ../. 
+
+We./PRP are./VBP equally./RB obsessed./VBN with./IN hiring./VBG great./JJ colleagues./NNS as./IN with./IN building./NN great./JJ software./NN ../. 
+
+As./IN a./DT member./NN of./IN the./DT Design./NNP Center./NNP you./PRP will./MD primarily./RB work./VB with./IN python./NN ,./, and./CC we./PRP run./VBP everything./NN on./IN the./DT Amazon./NNP AWS./NNP cloud./NN ../. We./PRP are./VBP insanely./RB data./JJ driven./NN and./CC measure./NN the./DT impact./NN of./IN everything./NN we./PRP release./VBP ,./, supported./VBN by./IN an./DT Analytics./NNP group./NN that./WDT drives./VBZ key./JJ insights./NNS ../. Our./PRP$ teams./NNS have./VBP the./DT information./NN they./PRP need./VBP at./IN their./PRP$ fingertips./NNS to./TO create./VB the./DT roadmap./NN of./IN their./PRP$ product./NN and./CC the./DT tools./NNS to./TO continuously./VB release./NN and./CC get./VB feedback./NN from./IN our./PRP$ customers./NNS ../. 
+
+Responsibilities./NNS 
+As./IN an./DT early./JJ employee./NN at./IN our./PRP$ Waterloo./NNP Design./NNP Center./NNP ,./, you./PRP will./MD have./VB lots./NNS of./IN responsibilities./NNS ,./, including./VBG :./: 
+-./: 
+
+-Writing./VBG python./NN scripts./NNS to./TO implement./VB new./JJ types./NNS of./IN furniture./NN 
+-Implementing./VBG new./JJ JavaScript./NNP functions./NNS 
+-Writing./VBG code./NN ,./, testing./VBG code./NN and./CC debug./NN software./NN 
+-Digging./VBG deep./JJ into./IN bugs./NNS to./TO correct./VB them./PRP ,./, then./RB documenting./VBG what./WP you./PRP 've./VBP done./VBN 
+-Creating./VBG and./CC maintaining./VBG technical./JJ documentation./NN 
+-Suggesting./VBG and./CC executing./VBG new./JJ features./NNS 
+
+
+What./WP You./PRP 'll./MD Learn./VB 
+
+-Agile/Scrum./NN process./NN and./CC iterative./JJ software./NN development./NN 
+-HMTL/CSS./NN ,./, JavaScript./NNP and./CC Python./NNP /./NNP Django./NNP 
+-Proper./JJ version./NN control./NN using./VBG Git./NNP and./CC GitHub./NNP 
+-Modern./JJ technology./NN products./NNS that./WDT support./VBP an./DT online./NN marketplace./NN 
+-How./NN to./TO support./VB a./DT rapidly./RB expanding./VBG tech./NN company./NN 
+
+Required./VBN Skills./NNS 
+
+Must./NNS Have./VBP 
+
+-Experience./NN with./IN Python./NNP and./CC Javascript./NNP 
+-First-rate./VB technical./JJ skills./NNS and./CC a./DT passion./NN for./IN understanding./VBG and./CC troubleshooting./VBG algorithms./NN 
+-Ability./NN to./TO come./VB up./RP with./IN innovative./JJ solutions./NNS to./TO new./JJ problems./NNS 
+-An./RB audacious./JJ spirit./NN that./WDT embraces./VBZ uncertainty./NN and./CC challenges./NNS with./IN enthusiasm./NN 
+-High./JJ levels./NNS of./IN integrity./NN and./CC a./DT commitment./NN to./TO do./VB what./WP you./PRP say./VBP you./PRP are./VBP going./VBG to./TO do./VB 
+-Strong./JJ entrepreneurial./JJ spirit./NN that./WDT has./VBZ grit./NN ,./, determination./NN and./CC challenges./VBZ the./DT status./NN quo./NN 
+-High./JJ degree./NN of./IN empathy./NN and./CC the./DT ability./NN to./TO see./VB other./JJ 's./POS perspective./NN 
+-Strong./JJ sense./NN of./IN curiosity./NN and./CC the./DT desire./NN to./TO learn./VB and./CC get./VB better./JJR everyday./NN 
+
+Nice./NNP to./TO Have./VB 
+
+-Django./NN 
+-Jenkins./NNS 
+-Git./NN 
+-three.js./NN 
+
+Career./NNP Development./NNP And./CC Training./NNP 
+
+As./IN a./DT member./NN of./IN the./DT Design./NNP Center./NNP team./NN you./PRP have./VBP the./DT opportunity./NN to./TO make./VB a./DT big./JJ impact./NN ../. We./PRP are./VBP a./DT small./JJ and./CC humble./JJ team./NN where./WRB each./DT team./NN member./NN is./VBZ an./DT expert./NN in./IN their./PRP$ domain./NN ../. We./PRP 'd./MD love./VB to./TO teach./VB and./CC share./NN our./PRP$ expertise./NN with./IN you./PRP ,./, but./CC also./RB want./VBP to./TO learn./VB from./IN you./PRP !./. 
+
+We./PRP 're./VBP part./NN of./IN the./DT Communitech./NNP network./NN which./WDT means./VBZ you./PRP 'll./MD have./VB access./NN to./TO peer./VB to./TO peer./VB groups./NNS ,./, events./NNS ,./, and./CC networking./NN ../. Our./PRP$ team./NN is./VBZ constantly./RB attending./VBG these./DT ,./, so./RB if./IN you./PRP 're./VBP nervous./JJ about./IN going./VBG we./PRP 'll./MD show./VB you./PRP the./DT ropes./NNS ../. 
+
+Comments./NNS As./IN a./DT web./NN developer./NN in./IN our./PRP$ Kitchener./NNP office./NN you./PRP 'll./MD be./VB part./NN of./IN our./PRP$ Design./NNP Center./NNP team./NN ../. Check./VB out./RP what./WP we./PRP 're./VBP building./VBG at./IN www.builddirect.com/design-center./NN and./CC in./IN your./PRP$ cover./JJ letter./NN tell./VB us./PRP what./WDT you./PRP think./VBP !./. 

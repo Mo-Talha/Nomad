@@ -1,0 +1,24 @@
+About./IN Cineplex./NNP Entertainment./NNP :./: Cineplex./NNP Entertainment./NNP is./VBZ the./DT #./# 1./CD theatre./JJ exhibition./NN company./NN in./IN Canada./NNP ,./, serving./VBG more./JJR than./IN 77./CD million./CD guests./NNS annually./RB ../. Proudly./RB Canadian./JJ and./CC with./IN approximately./RB 11,000./CD employees./NNS ,./, the./DT Cineplex./NNP family./NN of./IN theatres./NNS includes./VBZ the./DT following./NN :./: Cineplex./NNP Odeon./NNP ,./, SilverCity./NNP ,./, Galaxy./NNP Cinemas./NNP ,./, Scotiabank./NNP Theatres./NNP ,./, Cineplex./NNP Cinemas./NNP and./CC Cineplex./NNP VIP./NNP Cinemas./NNP ../. Our./PRP$ company./NN offers./VBZ competitive./JJ compensation./NN and./CC incentive./NN programs./NNS coupled./VBN with./IN comprehensive./JJ benefit./NN programs./NNS ,./, which./WDT includes./VBZ health./NN ,./, dental./NN and./CC retirement./NN savings./NNS plans./NNS ../. To./TO learn./VB more./JJR about./IN Cineplex./NNP Entertainment./NNP please./VB visit./VB our./PRP$ website./NN at./IN www.cineplex.com./NN ../. 
+
+The./DT Digital./NNP Commerce./NNP department./NN has./VBZ an./DT immediate./JJ opening./NN for./IN the./DT position./NN of./IN Co-op./NNP QA./NNP Analyst./NNP ,./, reporting./VBG to./TO the./DT Director./NNP of./IN Technology./NNP ,./, Digital./NNP Commerce./NNP ../. 
+
+The./DT Cineplex./NNP Store./NNP is./VBZ a./DT premium./JJ Canadian./JJ online./NN destination./NN for./IN the./DT sale./NN and./CC rental./NN of./IN movies./NNS ,./, ranging./VBG from./IN the./DT latest./JJS releases./NNS to./TO timeless./VB classics./NNS ../. Our./PRP$ goal./NN is./VBZ to./TO provide./VB our./PRP$ guests./NNS an./DT unparalleled./JJ experience./NN for./IN the./DT discovery./NN ,./, purchase./NN ,./, and./CC viewing./VBG of./IN their./PRP$ favourite./JJ films./NNS ,./, whether./IN from./IN their./PRP$ computer./NN ,./, mobile./JJ ,./, or./CC connected./VBN living./JJ room./NN devices./NNS ../. If./IN you./PRP are./VBP interested./JJ in./IN an./DT unlimited./JJ supply./NN of./IN popcorn./NN ,./, working./VBG with./IN leading./VBG technologies./NNS ,./, supporting./VBG the./DT latest./JJS devices./NNS ,./, and./CC helping./VBG to./TO define./VB and./CC deliver./VB the./DT future./NN of./IN digital./JJ movie./NN viewing./NN ,./, this./DT is./VBZ the./DT place./NN for./IN you./PRP !./. Visit./VB us./PRP at./IN CineplexStore.com./NNP ../. 
+
+Key./NNP Areas./NNP of./IN Responsibility./NNP :./: 
+-./: Participate./NN in./IN all./DT aspects./NNS of./IN the./DT QA./NNP workflow./NN for./IN current./JJ and./CC future./JJ Cineplex./NNP Store./NNP applications./NNS 
+-./: Work./NN as./IN a./DT member./NN of./IN agile./JJ teams./NNS to./TO deliver./VB industry-leading./JJ products./NNS 
+-./: Review./NN project./NN requirements./NNS and./CC create./VB corresponding./JJ Test./NNP Plans./NNPS and./CC Test./NNP Cases./NNS 
+-./: Perform./NN manual./JJ Functional./NNP Testing./NNP of./IN current./JJ Cineplex./NNP Store./NNP applications./NNS across./IN a./DT wide./JJ range./NN of./IN connected./JJ devices./NNS (./( Smart./NNP TVs./NNP ,./, Game./NNP Consoles./NNP ,./, Mobile./NNP /./NNP Tablets./NNP and./CC Web./NNP Clients./NNP )./) 
+-./: Create./NN automated./JJ test./NN scripts./NNS 
+-./: Work./NN with./IN many./JJ cross./VBP functional./JJ teams./NNS to./TO ensure./VB the./DT delivery./NN of./IN high-quality./NN products./NNS 
+-./: Other./JJ duties./NNS and./CC tasks./NNS as./IN requested./VBN 
+
+Qualifications./NNS and./CC Experience./NN :./: 
+
+-./: 1st./CD or./CC 2nd./CD co-op./JJ placement./NN 
+-./: Excellent./NN written./VBN and./CC verbal./JJ communication./NN skills./NNS 
+-./: Knowledge./NN of./IN web./NN software./NN development./NN fundamentals./NNS ,./, including./VBG HTML./NNP ,./, CSS./NNP ,./, and./CC Javascript./NNP 
+-./: Knowledge./NN of./IN Software./NNP Quality./NNP Assurance./NNP fundamentals./NNS 
+-./: Hands-on./JJ experience./NN with./IN Software./NNP Testing./NNP would./MD be./VB an./DT asset./NN 
+-./: Experience./NN using./VBG automated./JJ testing./VBG tools./NNS such./JJ as./IN Selenium./NNP would./MD be./VB an./DT asset./NN 
+Interested./JJ applicants./NNS please./VB apply./RB today./NN ../. 

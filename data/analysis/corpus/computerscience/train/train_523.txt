@@ -1,0 +1,46 @@
+In./IN addition./NN to./TO your./PRP$ resume./JJ please./VB include./VB a./DT copy./NN of./IN an./DT up./NN to./TO date./NN transcript./NN and./CC two./CD reference./NN letters./NNS (./( personal./JJ and./CC professional./JJ )./) by./IN the./DT posting./VBG close./JJ date./NN to./TO ensure./VB consideration./NN for./IN employment./NN at./IN Canadian./JJ Nuclear./NNP Laboratories./NNPS ../. 
+
+Reference./NN Requirements./NNS :./: 
+One./CD Personal./NNP (./( can./MD not./RB be./VB a./DT relative./NN )./) 
+Professional./JJ Reference./NNP (./( must./MD have./VB supervised./VBN and./CC be./VB able./JJ to./TO speak./VB to./TO the./DT applicant./NN 's./POS work./NN performance./NN )./) 
+Have./NNP known./VBN the./DT candidate./NN for./IN five./CD years./NNS to./TO obtain./VB clearance./NN (./( reliability./NN status./NN )./) 
+NOTE./NN :./: If./IN the./DT professional./JJ reference./NN has./VBZ not./RB known./VBN the./DT candidate./NN for./IN more./JJR than./IN five./CD years./NNS please./VB add./VB an./DT additional./JJ personal./JJ reference./NN ../. Totaling./NNP ,./, one./CD professional./JJ reference./NN and./CC two./CD personal./JJ references./NNS ../. 
+______________________________________./NN 
+
+Description./NN 
+
+
+Department./NNP :./: IT./NNP Operations./NNP 
+Number./NNP of./IN Positions./NNS :./: 1./CD 
+Duration./NN :./: 4./CD months./NNS 
+Discipline./NN :./: Computer./NNP Systems./NNPS Technician./JJ 
+Year./NN of./IN study./NN :./: 1st./CD Year./NN Complete./NNP 
+
+INTRO./NN 
+
+The./DT IT./NNP Operations./NNP Department./NNP at./IN Canadian./NNP Nuclear./NNP Laboratories./NNP provides./VBZ direct./VBP IT./NNP support./NN to./TO the./DT corporate./JJ user./NN base./NN ../. The./DT Service./NNP Delivery./NNP Co-op./NNP will./MD provide./VB application./NN and./CC hardware./NN support./NN to./TO the./DT business./NN via./IN the./DT IT./NNP Service./NNP Desk./NNP and./CC Desk./NNP Side./NNP support./NN ../. 
+
+
+
+RESPONSIBILITIES./NN 
+
+-Provides./NNS Second./NNP Level./NNP Service./NNP Desk./NNP support./NN primarily./RB to./TO networked./JJ PC./NN users./NNS at./IN CRL./NNP ../. This./DT requires./VBZ investigating./VBG and./CC troubleshooting./VBG problems./NNS with./IN PC./NNP client./NN software./NN and./CC a./DT high-level./NN of./IN interaction./NN with./IN customers./NNS ../. 
+-Maintains./NNS call./VBP information./NN in./IN a./DT service./NN centre./NN call-tracking./JJ database./NN ../. 
+-Performs./NNS hardware./VBP maintenance./NN and./CC upgrades./NNS for./IN CNL./NNP PCs./NNP and./CC laptops./NNS ../. 
+Installs./NNS and./CC configures./NNS PCs./NNS including./VBG loading./NN of./IN software./NN and./CC installation./NN of./IN hardware./NN ../. 
+-Documents./NNS network./NN hardware./NN and./CC software./NN installation./NN ,./, maintenance./NN ,./, operation./NN and./CC security./NN procedures./NNS and./CC configurations./NNS as./IN required./VBN ../. 
+
+REQUIREMENTS./NNS 
+
+-Knowledge./NN of./IN Windows./NNP operating./VBG system./NN software./NN and./CC PC./NN hardware./NN is./VBZ required./VBN ../. 
+-Able./JJ to./TO work./VB in./IN a./DT team./NN environment./NN 
+-Customer./NN focused./VBD 
+-Able./JJ to./TO work./VB independently./RB with./IN some./DT direction./NN 
+-Willing./VBG to./TO work./VB outside./RB of./IN normal./JJ business./NN hours./NNS 
+-Use./VB a./DT disciplined./JJ and./CC structured./JJ approach./NN to./TO problem./NN solving./VBG 
+-Responsible./JJ for./IN delivering./VBG tasks./NNS on./IN time./NN 
+
+CNL./NNP has./VBZ an./DT Employment./JJ Equity./NN Program./NNP and./CC encourages./VBZ applications./NNS from./IN women./NNS ,./, Aboriginal./NNP Peoples./NNP ,./, visible./JJ minorities./NNS and./CC persons./NNS with./IN disabilities./NNS ../. 
+
+Please./VB apply./VB to./TO :./: 
+http./NN :./: //trr.tbe.taleo.net/trr01/ats/careers/requisition.jsp./NN ?./. org=CNLLTD./NN &./CC cws=1./NN &./CC rid=1435./NN 

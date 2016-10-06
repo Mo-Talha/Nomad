@@ -1,0 +1,30 @@
+We./PRP do./VBP not./RB only./RB strive./JJ to./TO create./VB products./NNS with./IN a./DT beautiful./JJ user./NN experience./NN ,./, but./CC try./VB to./TO implement./VB the./DT same./JJ beauty./NN from./IN a./DT technical./JJ point./NN of./IN view./NN ../. 
+
+Building./VBG great./JJ products./NNS is./VBZ not./RB as./RB simple./JJ as./IN knowing./VBG a./DT certain./JJ programming./JJ language./NN extremely./RB well./RB ../. Our./PRP$ engineers./NNS are./VBP product-aware./JJ ,./, pretty./RB much./JJ pixel./NN perfect./NN and./CC passionate./NN about./IN user./JJ experience./NN ../. We./PRP 're./VBP looking./VBG for./IN someone./NN who./WP 's./VBZ not./RB afraid./VBN to./TO get./VB their./PRP$ hands./NNS dirty./VBP with./IN other./JJ technical./JJ product./NN related./VBN tasks./NNS ../. Someone./NN who./WP likes./VBZ to./TO tinker./VB with./IN front-end./JJ and./CC back-end./JJ code./NN and./CC likes./NNS to./TO dive./VB in./IN weird./NN ,./, new./JJ ,./, old./JJ and/or./JJ obscure./NN code./NN ../. 
+
+What./WP you./PRP 'll./MD do./VB :./: 
+You./PRP 'll./MD become./VB part./NN of./IN the./DT team./NN and./CC help./VB us./PRP ship./VB amazing./JJ products./NNS ../. You./PRP 'll./MD invent./VB new./JJ product./NN ideas./NNS and./CC prototype./NN these./DT in./IN a./DT short./JJ time./NN period./NN ../. In./IN addition./NN ,./, you./PRP 'll./MD maintain./VB code./JJ quality./NN and./CC create./NN and./CC contribute./NN to./TO open./VB source./NN projects./NNS ../. 
+
+Responsibilities./NNS 
+-./: Developing./VBG apps./NN with./IN Swift/Xcode./NNP 
+-./: Supporting./VBG existing./VBG apps./IN we./PRP are./VBP currently./RB working./VBG on./IN 
+
+Required./VBN Skills./NNS 
+What./WP we./PRP expect./VBP :./: 
+-./: You./PRP are./VBP passionate./JJ to./TO work./VB with./IN a./DT product./NN minded./VBN team./NN 
+-./: Apply./VB new./JJ ideas./NNS quickly./RB 
+-./: Maintain./NN code./NN quality./NN 
+-./: You./PRP create./VBP and./CC contribute./VBP to./TO open./VB source./NN projects./NNS 
+-./: You./PRP 've./VBP shipped./VBN one./CD or./CC more./JJR Objective-C./JJ or./CC Swift./JJ iOS./NN apps./NN 
+-./: Kick-ass./NN personal./JJ (./( open-source./JJ )./) projects./NNS and./CC experimentations./NNS 
+-./: Up-to-date./NN with./IN the./DT latest./JJS iOS./NN innovations./NNS 
+-./: Product./NN minded./VBD and./CC able./JJ to./TO make./VB UX/UI./NNP decisions./NNS 
+-./: Willing./NN to./TO learn./VB and./CC driven./VB to./TO improve./VB 
+-./: Outstanding./NN written./VBN and./CC verbal./JJ communication./NN skills./NNS 
+-./: Fluent./NN in./IN English./NNP 
+-./: Available./NN for./IN 40./CD hours./NNS per./IN week./NN 
+
+What./WP we./PRP offer./VBP :./: 
+-./: Multiple./NN possibilities./NNS to./TO develop./VB your./PRP$ talent./NN 
+-./: Free./JJ lunch./NN and./CC Friday./NNP afternoon./NN drinks./NNS 
+-./: Flexible./JJ working./NN hours./NNS 

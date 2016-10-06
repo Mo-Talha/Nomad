@@ -1,0 +1,64 @@
+If./IN you./PRP are./VBP an./DT international./JJ student./NN from./IN the./DT following./VBG embargoed./NN countries./NNS ,./, you./PRP are./VBP not./RB eligible./JJ for./IN employment./NN in./IN this./DT role./NN :./: Cuba./NNP ,./, Iran./NNP ,./, North./NNP Korea./NNP ,./, Sudan./NNP ,./, Syria./NNP 
+--./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: 
+
+IBM./NNP is./VBZ a./DT globally./RB integrated./JJ technology./NN and./CC consulting./VBG company./NN headquartered./VBD in./IN Armonk./NNP ,./, New./NNP York./NNP ../. With./IN operations./NNS in./IN more./JJR than./IN 170./CD countries./NNS ,./, IBM./NNP attracts./VBZ and./CC retains./VBZ some./DT of./IN the./DT world./NN 's./POS most./RBS talented./JJ people./NNS to./TO help./VB solve./VB problems./NNS and./CC provide./VB an./DT edge./NN for./IN businesses./NNS ,./, governments./NNS and./CC non-profits./NNS ../. 
+
+Today./NN ,./, IBM./NNP is./VBZ focused./VBN on./IN five./CD growth./NN initiatives./NNS -./: Cloud./NNP ,./, Big./NNP Data./NNP and./CC Analytics./NNP ,./, Mobile./NNP ,./, Social./NNP Business./NNP and./CC Security./NNP ../. IBMers./NNS are./VBP working./VBG with./IN customers./NNS around./IN the./DT world./NN to./TO apply./VB the./DT company./NN 's./POS business./NN consulting./NN ,./, technology./NN and./CC Research./NNP &./CC Development./NNP expertise./NN to./TO enable./JJ systems./NNS of./IN engagement./NN that./IN deliver./VBZ dynamic./JJ insights./NNS for./IN businesses./NNS and./CC governments./NNS worldwide./VBP ../. 
+
+The./DT following./JJ student./NN position./NN is./VBZ a./DT part./NN of./IN IBM./NNP Canada./NNP 's./POS EPIC./NNP (./( Employment./NNP Pathways./NNP to./TO Interns./NNP &./CC Co-ops./NNP )./) Student./NN Program./NNP ../. This./DT position./NN is./VBZ only./RB open./JJ to./TO students./NNS registered./VBN in./IN a./DT Canadian./JJ University./NNP or./CC College./NNP program./NN ,./, who./WP must./MD be./VB returning./VBG to./TO full-time./JJ study./NN upon./IN the./DT completion./NN of./IN the./DT temporary./JJ IBM./NNP work./NN term./NN ../. 
+
+This./DT Student./NNP Position./NNP resides./NNS in./IN Toronto./NNP ,./, Ontario./NNP and./CC is./VBZ a./DT 4./CD month./NN work./NN term./NN commencing./VBG January./NNP 2017./CD ../. 
+
+What./WP IBM./NNP Offers./VBZ You./PRP ?./. 
+
+-Work./NN directly./RB on./IN product./NN and./CC services./NNS that./WDT affect./VBP our./PRP$ clients./NNS ,./, while./IN having./VBG access./NN to./TO cutting./VBG edge./NN software./NN technology./NN 
+-Work./NN on./IN projects./NNS which./WDT are./VBP challenging./VBG and./CC rewarding./VBG 
+-A./NN business./NN causal./NN dress./NN code./NN and./CC flexible./JJ work./NN hours./NNS ,./, to./TO ensure./VB work-life./JJ balance./NN 
+-Access./NN to./TO Future./NNP Blue./NNP -./: IBM./NNP 's./POS large./JJ student./NN community./NN that./WDT provides./VBZ networking./JJ opportunities./NNS ,./, sporting./VBG and./CC social./JJ events./NNS ../. 
+
+The./DT following./JJ job./NN responsibilities./NNS for./IN Core./NNP Software./NNP Developer./NNP (./( Co-op./NNP )./) include./VBP :./: 
+
+We./PRP 're./VBP looking./VBG for./IN talented./VBN co-op./JJ students./NNS to./TO work./VB alongside./RB a./DT multidisciplinary./JJ team./NN of./IN developers./NNS ,./, designers./NNS and./CC business./NN professionals./NNS focused./VBD on./IN the./DT next./JJ generation./NN of./IN software./NN ../. 
+
+The./DT ideal./JJ candidates./NNS must./MD have./VB strong./JJ technical./JJ and./CC critical./JJ thinking./NN skills./NNS ,./, a./DT passion./NN for./IN technology./NN and./CC software./NN ,./, strong./JJ teaming./NN skills./NNS and./CC show./VB leadership./NN potential./JJ ../. Must./NNP be./VB able./JJ to./TO work./VB in./IN a./DT high./JJ energy./NN environment./NN and./CC exhibit./NN creative./JJ thinking./NN and./CC collaboration./NN ../. Having./VBG the./DT ability./NN to./TO turn./VB ideas./NNS into./IN reality./NN ,./, communicate./NN effectively./RB ,./, and./CC work./NN closely./RB with./IN others./NNS in./IN teams./NNS around./IN the./DT world./NN is./VBZ essential./JJ ../. You./PRP 'll./MD use./VB the./DT latest./JJS tools./NNS and./CC technologies./NNS available./JJ to./TO deliver./VB state-of-the-art./JJ software./NN components./NNS ../. 
+
+Responsibilities./NNS and./CC Projects./NNS include./VBP :./: 
+
+-Participating./VBG in./IN the./DT entire./JJ software./NN development./NN cycle./NN by./IN analyzing./VBG ,./, designing./VBG ,./, and./CC developing./VBG new./JJ features./NNS and./CC products./NNS ../. 
+-Solving./VBG complex./JJ business./NN problems./NNS for./IN our./PRP$ world-class./JJ client./NN organizations./NNS 
+-Building./VBG new./JJ software./NN using./VBG the./DT latest./JJS Microsoft./NNP technologies./NNS including./VBG :./: Windows./JJ Azure./NNP ,./, .NET./NNP Framework./NNP 4.5./CD ,./, ASP.NET./NNP MVC./NNP ,./, WPF./NNP ,./, WCF./NNP and./CC WIF./NNP 
+-Opportunities./NNS to./TO work./VB with./IN the./DT latest./JJS Java-based./JJ technologies./NNS and./CC frameworks./NNS including./VBG :./: Java./NN 7./CD ,./, Play./NNP Framework./NNP 
+-Enhancing./VBG the./DT functionality./NN ,./, performance./NN ,./, and./CC scalability./NN of./IN our./PRP$ product./NN suite./NN 
+-Learning./VBG and./CC contributing./VBG to./TO products./NNS on./IN a./DT variety./NN of./IN architectures./NNS :./: cloud-based./JJ ,./, RESTFul./NNP APIs./NNP ,./, client-server./NN ,./, n-tier./JJ 
+-Using./VBG web-based./JJ and./CC technologies./NNS ,./, including./VBG HTML5./NNP ,./, AJAX./NNP ,./, jQuery./NN ,./, KnockoutJS./NNP ,./, and./CC Less.CSS./NNP to./TO deliver./VB great./JJ user./NN experiences./NNS 
+-Using./VBG mobile./JJ technologies./NNS including./VBG Sencha./NNP Touch./NNP and./CC GluJS./NNP to./TO build./VB products./NNS targeting./VBG Android./NNP and./CC IOS./NNP devices./NNS 
+-Researching./VBG new./JJ technology./NN and./CC tools./NNS to./TO improve./VB our./PRP$ product./NN and./CC processes./NNS 
+
+Required./VBN Technical./NNP and./CC Professional./NNP Expertise./NNP 
+
+-Working./VBG toward./IN Bachelor./NNP degree./NN in./IN Computer./NNP Science./NNP ,./, Software./NNP Engineering./NNP ,./, or./CC equivalent./NN 
+-Proven./JJ command./NN of./IN Object./NNP Oriented./NNP Design./NNP 
+-Software./NN development./NN experience./NN using./VBG C./NNP #./# ,./, Java./NNP ,./, or./CC C++./NNP 
+-./: Enthusiasm./NN for./IN technology./NN and./CC a./DT desire./NN to./TO build./VB great./JJ software./NN 
+-An./JJ understanding./NN of./IN database./NN theory./NN 
+-Proven./RB problem./NN solving./VBG skills./NNS 
+-Experience./NN with./IN the./DT software./NN development./NN life./NN cycle./NN 
+-Proven./RB verbal./JJ communication./NN skills./NNS 
+-Co-op./NN or./CC internship./JJ program./NN enrollment./NN is./VBZ mandatory./JJ 
+
+Preferred./NNP Technical./NNP and./CC Professional./NNP Experience./NNP 
+
+-Solid./JJ listener./NN and./CC communicator./NN 
+-Passionate./NN about./IN testing./VBG and./CC automation./NN 
+-Self-motivated./VBN ,./, independent./JJ worker./NN and./CC strong./JJ team./NN member./NN 
+-Proven./RB ability./NN to./TO work./VB creatively./RB and./CC analytically./RB in./IN a./DT problem-solving./JJ environment./NN ../. 
+-Have./VB the./DT ability./NN to./TO handle./VB multiple./JJ competing./VBG priorities./NNS in./IN a./DT driven./JJ environment./NN 
+
+Eligibility./NN Requirements./NNS 
+
+This./DT role./NN will./MD involve./VB working./VBG with./IN technology./NN that./WDT is./VBZ covered./VBN by./IN embargo./NN Export./NNP Regulations./NNP ../. If./IN you./PRP are./VBP a./DT Foreign./NNP National./NNP from./IN any./DT of./IN the./DT following./JJ embargoed./NN countries./NNS (./( Cuba./NNP ,./, Iran./NNP ,./, North./NNP Korea./NNP ,./, Sudan./NNP ,./, Syria./NNP )./) on./IN a./DT work./NN permit./NN you./PRP are./VBP not./RB eligible./JJ for./IN employment./NN in./IN this./DT position./NN 
+
+About./IN Varicent./NNP ,./, an./DT IBM./NNP Company./NN :./: 
+Varicent./NNP ,./, an./DT IBM./NNP Company./NNP Software./NNP is./VBZ the./DT leading./VBG provider./NN of./IN Sales./NNS Performance./NNP Management./NNP (./( SPM./NNP )./) solutions./NNS ../. Ranked./VBD #./# 1./CD in./IN PROFIT./NNP Magazine./NNP 's./POS 22nd./CD annual./JJ ranking./NN of./IN Canada./NNP 's./POS Fastest-Growing./JJ Companies./NNS ,./, we./PRP have./VBP a./DT strong./JJ employee./NN culture./NN that./WDT promotes./VBZ mutual./JJ respect./NN ,./, teamwork./NN ,./, and./CC transparency./NN ../. Our./PRP$ worldwide./JJ headquarters./NN is./VBZ centrally./RB located./VBN on./IN the./DT subway./NN line./NN at./IN Yonge./NNP &./CC York./NNP Mills./NNP ../. 
+
+Varicent./NNP an./DT IBM./NNP Company./NNP products./NNS help./NN companies./NNS better./RBR manage./NN ,./, measure./NN and./CC understand./VB the./DT impact./NN of./IN their./PRP$ commission./NN ,./, bonus./NN and./CC variable-based./JJ pay./NN compensation./NN programs./NNS ../. A./DT talented./JJ team./NN ,./, encouraged./VBD to./TO use./VB new./JJ technology./NN ,./, executing./VBG a./DT lightweight./JJ development./NN process./NN give./VBP us./PRP our./PRP$ competitive./JJ edge./NN ../. Industry./NN leaders./NNS in./IN performance./NN ,./, we./PRP process./VBP billions./NNS of./IN transactions./NNS in./IN minutes./NNS by./IN scaling./VBG out./RP on./IN the./DT cloud./NN ../. As./IN Microsoft./NNP Gold./NNP Partners./NNP we./PRP use./VBP the./DT latest./JJS from./IN the./DT .NET./NNP Framework./NNP to./TO outpace./VB our./PRP$ competitors./NNS ../. Guided./VBN by./IN our./PRP$ Designers./NNS we./PRP leverage./VBP the./DT latest./JJS in./IN web-based./JJ technologies./NNS to./TO delight./VB our./PRP$ users./NNS ../. Inspired./VBN by./IN Agile./NNP methodologies./NNS we./PRP ensure./VB our./PRP$ developers./NNS have./VBP what./WP they./PRP need./VBP to./TO focus./VB on./IN what./WP they./PRP do./VBP best./JJS ,./, building./VBG great./JJ products./NNS ,./, with./IN a./DT minimum./NN of./IN distractions./NNS ../. Our./PRP$ clients./NNS ,./, world-class./JJ organizations./NNS ranging./VBG in./IN size./NN ,./, transactional./JJ volume./NN ,./, and./CC industry./NN ,./, can./MD attest./VB to./TO the./DT result./NN ../. As./IN we./PRP continue./VBP our./PRP$ rapid./JJ growth./NN our./PRP$ team./NN remains./VBZ focused./VBN on./IN evolving./VBG our./PRP$ product./NN suite./NN to./TO meet./VB the./DT changing./VBG demands./NNS of./IN this./DT dynamic./JJ industry./NN ../. 

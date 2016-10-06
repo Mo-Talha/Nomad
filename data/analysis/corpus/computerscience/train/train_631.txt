@@ -1,0 +1,17 @@
+Summary./JJ 
+-./: Execution./NN of./IN verification./NN regression./NN 
+-./: Functional./JJ verification./NN test./NN plans./NNS 
+-./: Develop./NN verification./NN test./NN suites./NNS at./IN SOC./NNP and/or./VBP IP./NNP level./NN 
+-./: Analysis./NN of./IN regression./NN test./NN results./NNS 
+
+Responsibilities./NNS 
+-./: Execution./NN of./IN verification./NN regression./NN 
+-./: Functional./JJ verification./NN test./NN plans./NNS 
+-./: Develop./NN verification./NN test./NN suites./NNS at./IN SOC./NNP and/or./VBP IP./NNP level./NN 
+-./: Analysis./NN of./IN regression./NN test./NN results./NNS 
+
+Qualifications/Skills./NNS 
+-./: Knowledge./NN of./IN IC./NNP design./NN and./CC verification./NN 
+Experience./NN in./IN scripting./VBG in./IN Linux./NNP environment./NN ,./, using./VBG TCL./NNP ,./, PERL./NNP ,./, etc./NN ../. 
+-./: Verification./NN languages./NNS (./( System./NNP Verilog/UVM./NNP )./) 
+-./: Detail./NN analytical./JJ skills./NNS to./TO root./VB cause./NN issues./NNS 

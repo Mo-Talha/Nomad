@@ -1,0 +1,24 @@
+Think./NNP Research./NNP is./VBZ changing./VBG the./DT way./NN healthcare./NN is./VBZ delivered./VBN -./: and./CC not./RB in./IN the./DT Buckley./NNP 's./POS 'tastes./NNS awful./VBP but./CC it./PRP works./VBZ './POS kind./NN of./IN way./NN ../. We./PRP help./VBP solve./VB challenges./NNS facing./VBG our./PRP$ healthcare./NN system./NN with./IN innovative./JJ solutions./NNS that./WDT deliver./VBP evidence./NN based./VBN practices./NNS and./CC clinical./JJ support./NN tools./NNS to./TO front./VB line./NN clinicians./NNS ../. 
+Our./PRP$ team./NN includes./VBZ diverse./JJ clinicians./NNS and./CC researchers./NNS from./IN various./JJ backgrounds./NNS who./WP work./VBP collaboratively./RB to./TO translate./VB clinical./JJ knowledge./NN into./IN executable./JJ content./NN ../. 
+Looking./VBG for./IN an./DT opportunity./NN to./TO truly./VB make./VB a./DT difference./NN ?./. You./PRP are./VBP in./IN the./DT right./JJ place./NN ../. 
+
+Why./WRB Us./NNP ?./. 
+-./: Be./VB part./NN of./IN something./NN special./JJ ../. It./PRP 's./VBZ not./RB every./DT day./NN that./IN you./PRP get./VBP to./TO change./VB the./DT way./NN your./PRP$ friends./NNS and./CC family./NN are./VBP cared./VBN for./IN ../. 
+-./: Unbeatable./JJ downtown./JJ location./NN right./RB across./IN the./DT street./NN from./IN Union./NNP Station./NNP (./( and./CC 30./CD seconds./NNS away./RB from./IN 17./CD different./JJ Starbucks./NNP locations./NNS !./. )./) 
+-./: Grow./NN ,./, contribute./NN ,./, and./CC see./VB your./PRP$ impact./NN on./IN a./DT daily./JJ basis./NN 
+-./: Exciting./NN ,./, collaborative./JJ ,./, fast-paced./JJ and./CC multidisciplinary./JJ environment./NN 
+
+A./DT Day./NNP in./IN the./DT Life./NN :./: 
+We./PRP are./VBP looking./VBG for./IN two./CD co-op./JJ students./NNS who./WP take./VBP particular./JJ interest./NN in./IN test-driven./JJ application./NN development./NN and./CC who./WP are./VBP looking./VBG for./IN a./DT position./NN that./IN offers./VBZ lots./NNS of./IN potential./JJ for./IN advancement./NN ,./, learning./NN ,./, and./CC the./DT knowledge./NN that./IN the./DT work./NN they./PRP are./VBP doing./VBG is./VBZ helping./VBG to./TO improve./VB the./DT delivery./NN of./IN health./NN care./NN in./IN Canada./NNP ../. 
+
+Come./NNP learn./NN to./TO improve./VB and./CC contribute./VB your./PRP$ code./NN in./IN a./DT fast-paced./JJ agile./NN environment./NN ../. Our./PRP$ team./NN of./IN passionate./NN developers./NNS are./VBP faced./VBN with./IN out-of-the-box./JJ challenges./NNS and./CC are./VBP continuously./RB learning./VBG and./CC finding./VBG new./JJ ways./NNS to./TO improve./VB their./PRP$ development./NN skills./NNS ../. Our./PRP$ team./NN strives./VBZ on./IN tackling./VBG complex./JJ problems./NNS ,./, working./VBG together./RB to./TO discover./VB innovative./JJ solutions./NNS ,./, and./CC producing./VBG exemplary./JJ code./NN !./. 
+
+Preferred./JJ Qualifications./NNS :./: 
+-./: Third./NN or./CC fourth./JJ year./NN Computer./NNP Science./NNP or./CC Computer./NNP Engineering./NNP Student./NNP looking./VBG for./IN a./DT meaningful./JJ and./CC engaging./VBG co-op./JJ placement./NN 
+-./: A./DT passion./NN for./IN coding./VBG and./CC learning./VBG in./IN a./DT team./NN based./VBN environment./NN 
+-./: Ability./NN to./TO take./VB initiative./NN and./CC do./VB what./WP it./PRP takes./VBZ to./TO get./VB the./DT job./NN done./VBN !./. 
+-./: Excellent./NN communication./NN skills./NNS -./: both./DT written./VBN and./CC verbal./JJ 
+-./: Excellent./NN problem-solving./NN and./CC analytical./JJ capabilities./NNS when./WRB faced./VBN with./IN technical./JJ challenges./NNS 
+-./: Knowledge./NN of./IN SDLC./NNP within./IN a./DT Scrum./NNP framework./NN 
+-./: Knowledge./NN of./IN relational./JJ databases./NNS -./: PostgreSQL./NN preferred./VBD 
+-./: Experience./NN with./IN Ruby./NNP on./IN Rails./NNP ,./, Javascript./NNP ,./, or./CC React/Flux./NNP ,./, will./MD be./VB a./DT plus./NN !./. 

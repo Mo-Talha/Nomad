@@ -1,0 +1,58 @@
+Reminder./NN :./: Students./NNS are./VBP responsible./JJ for./IN ensuring./VBG they./PRP are./VBP eligible./JJ for./IN an./DT 8-month./JJ work./NN term./NN before./IN applying./VBG ../. Please./NNP discuss./VB your./PRP$ work/study./NN sequence./NN flexibility./NN with./IN your./PRP$ academic./JJ advisor./NN as./RB soon./RB as./IN possible./JJ ../. 
+--./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: 
+IMPORTANT./NNP Notice./NNP to./TO students./NNS :./: All./DT Students./NNS are./VBP required./VBN to./TO complete./VB an./DT ITAR./NNP security./NN clearance./NN questionnaire./NN which./WDT the./DT employer./NN will./MD supply./VB directly./RB to./TO applicant./VB ../. 
+--./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: -./: 
+COMPANY./NN DESCRIPTION./NNP 
+At./IN General./NNP Dynamics./NNP Mission./NNP Systems./NNP ,./, innovation./NN happens./NNS on./IN a./DT daily./JJ basis./NN ../. We./PRP develop./VBP and./CC deliver./VB leading./VBG edge./NN technology./NN ,./, products./NNS and./CC systems./NNS that./WDT make./VBP important./JJ contributions./NNS to./TO our./PRP$ customer./NN 's./POS success./NN ../. The./DT challenges./NNS and./CC opportunities./NNS are./VBP endless./JJ ../. 
+
+Our./PRP$ employees./NNS are./VBP exceptional./JJ !./. GDMS-C./NNP is./VBZ proud./JJ to./TO employ./VB over./IN 1700./CD talented./JJ individuals./NNS across./IN Canada./NNP ../. Working./VBG in./IN a./DT collaborative./JJ team./NN environment./NN ,./, our./PRP$ employees./NNS are./VBP encouraged./VBN daily./RB to./TO contribute./VB their./PRP$ technical./JJ knowledge./NN and./CC expertise./NN ../. Our./PRP$ people./NNS are./VBP passionate./JJ ,./, dedicated./VBN ,./, and./CC conscientious./JJ about./IN the./DT work./NN they./PRP do./VBP ,./, which./WDT results./NNS in./IN our./PRP$ ability./NN to./TO deliver./VB the./DT highest./JJS value./NN ,./, customized./JJ solutions./NNS in./IN order./NN to./TO meet./VB the./DT most./RBS demanding./JJ requirements./NNS ../. 
+
+We./PRP provide./VBP technology-based./JJ electronic./JJ systems./NNS ,./, systems./NNS integration./NN ,./, and./CC in-service./JJ support./NN to./TO defence./VB organizations./NNS and./CC public./JJ security./NN markets./NNS in./IN Canada./NNP and./CC abroad./RB ../. 
+As./IN Canada./NNP 's./POS largest./JJS and./CC most./RBS established./JJ defence./NN systems./NNS integrator./NN we./PRP have./VBP the./DT capacity./NN to./TO take./VB on./IN multi-year./JJ projects./NNS of./IN strategic./JJ national./JJ significance./NN ,./, scope./NN and./CC scale./NN ,./, and./CC deliver./VB cost-effective./JJ ,./, mission-critical./JJ systems./NNS ../. Additionally./RB GDMS./NNP Canada./NNP is./VBZ a./DT leading./VBG worldwide./NN supplier./NN of./IN innovative./JJ solutions./NNS for./IN land./NN ,./, airborne./JJ and./CC maritime./JJ applications./NNS ../. Our./PRP$ global./JJ success./NN stems./VBZ from./IN our./PRP$ strong./JJ system./NN engineering./NN experience./NN ,./, ongoing./VBG investment./NN in./IN research./NN and./CC development./NN ,./, collaboration./NN with./IN commercial./JJ and./CC military./JJ systems./NNS industry./NN leaders./NNS ,./, and./CC a./DT singular./JJ focus./NN on./IN customer./NN service./NN ../. 
+
+GDMS-C./NNP has./VBZ maintained./VBN a./DT business./NN leadership./NN position./NN in./IN complex./JJ technology./NN areas./NNS such./JJ as./IN rugged./JJ displays./NNS ,./, fire./NN control./NN systems./NNS ,./, maritime./NN sensor./NN data./NNS analysis./NN ,./, secure./NN communications./NNS networks./NNS ,./, command./NN and./CC control./NN ,./, platform./VB installation./NN /./NNP integration./NN and./CC through./IN life./NN support./NN ../. Just./NNP to./TO name./VB a./DT few./JJ ../. 
+
+The./DT General./NNP Dynamics./NNP Mission./NNP Systems./NNP Co-op./NNP Program./NNP is./VBZ designed./VBN to./TO develop./VB the./DT awareness./NN ,./, skills./NNS and./CC desire./NN of./IN the./DT best./JJS and./CC brightest./JJS young./JJ professionals./NNS who./WP may./MD ultimately./RB become./VB a./DT part./NN of./IN our./PRP$ team./NN and./CC our./PRP$ sustainable./JJ future./NN ../. 
+
+JOB./NNP DESCRIPTION./NNP 
+Responsible./JJ for./IN systems./NNS analysis./NN ,./, design./NN and./CC programming./NN with./IN emphasis./NN on./IN systems./NNS analysis./NN and./CC user./NN requirements./NNS definition./NN for./IN business./NN and./CC engineering./NN applications./NNS ../. 
+Work./NN as./IN a./DT student./NN business./NN analyst./NN to./TO support./VB and./CC maintain./VB business./NN and./CC engineering./NN applications./NNS ../. Work./NN with./IN end./NN users./NNS to./TO understand./VB their./PRP$ business./NN functions./NNS and./CC processes./NNS ../. Through./IN project./NN participation./NN ,./, define./NN ,./, develop./VB ,./, and./CC configure./NN software./NN solutions./NNS that./WDT meet./VBP changing./VBG business./NN requirements./NNS ../. Subject./JJ matter./NN expert./NN within./IN the./DT area./NN of./IN responsibility./NN ../. 
+
+TYPICAL./JJ DUTIES./NNP 
+-./: Defines./NNS and./CC documents./NNS user./VBP objectives./NNS and./CC requirements./NNS ../. 
+-./: Analyzes./NNP user./NN requirements./NNS and./CC prepares./NNS recommendations./NNS ../. 
+-./: Assists./NNS in./IN the./DT preliminary./JJ top./JJ level./NN design./NN of./IN new./JJ systems./NNS ../. 
+-./: Assist./NN or./CC support./NN cost./NN and./CC benefits./NNS analysis./NN ../. Prepares./VBZ implementation./NN plans./NNS and./CC schedules./NNS ../. 
+-./: Prepares./VBZ requirements./NNS definition./NN reports./NNS ../. 
+-./: Supports./NNS senior./JJ team./NN members./NNS in./IN the./DT logical./JJ and./CC physical./JJ design./NN on./IN new./JJ systems./NNS and./CC any./DT interfaces./NNS ../. 
+-./: Determines./NNS and./CC executes./VBZ test./NN requirements./NNS ../. 
+-./: Prepares./NNS user./RBR and./CC technical./JJ specifications./NNS ../. 
+-./: Designs./NNS ,./, codes./NNS and./CC unit./NN tests./NNS computer./NN programs./NNS and./CC when./WRB required./VBN ,./, he/she./NN is./VBZ called./VBN upon./IN to./TO tackle./VB simple./JJ to./TO moderately./RB complex./JJ programming./NN problems./NNS ../. 
+-./: Works./NN with./IN senior./JJ team./NN members./NNS in./IN outlining./VBG processing./NN procedures./NNS to./TO satisfy./VB operational./JJ requirements./NNS and./CC conducts./NNS system./NN tests./NNS ,./, and./CC user./JJ training./NN ../. Supports./VBZ non-technical./JJ users./NNS of./IN standard./JJ microcomputer./NN hardware./NN and./CC software./NN ../. Assists./NNS in./IN the./DT evaluation./NN and./CC use./NN of./IN non-standard./JJ microcomputer./NN hardware./NN and./CC software./NN ../. 
+-./: Participate./NN in./IN license./JJ management./NN -./: deploy./NN and./CC monitor./NN licenses./NNS if./IN applicable./JJ ../. 
+
+REQUIRED./NNP SKILLS./NNP &./CC EXPERIENCE./NNP 
+
+Minimum./NNP of./IN 0-3./JJ months./NNS of./IN relevant./JJ education./NN ../. 
+
+The./DT following./NN would./MD be./VB an./DT asset./NN :./: 
+-./: Knowledge./NN of./IN SharePoint./NNP is./VBZ a./DT plus./JJ 
+-./: Knowledge./NN of./IN Advanced./NNP Microsoft./NNP Office./NNP Suite./NNP ,./, including./VBG advanced./JJ database./NN skills./NNS ,./, application./NN architecture./NN and./CC support./NN 
+-./: Perl./NN and./CC shell./NN scripting./NN 
+-./: Trouble./NN shooting./VBG skills./NNS 
+-./: Effective./NN communication./NN and./CC interpersonal./JJ skills./NNS 
+-./: Influencing./NN skills./NNS 
+-./: Negotiation./NN skills./NNS 
+
+EDUCATION./NN 
+
+Currently./RB pursuing./VBG a./DT Bachelor./NNP degree./NN in./IN Computer./NNP Science./NNP ../. 
+
+WHAT./WP 'S./VBZ IN./JJR IT./NNP FOR./NNP YOU./NNP ?./. 
+-./: Highly-complex./JJ programs./NNS ,./, projects./NNS ,./, and./CC products./NNS that./WDT make./VBP a./DT difference./NN around./IN the./DT world./NN 
+-./: Flexible./JJ work./NN environment./NN with./IN a./DT dynamic./JJ and./CC diverse./JJ team./NN environment./NN 
+-./: Highly./RB competitive./JJ compensation./NN 
+-./: Relocation./NN assistance./NN for./IN out./IN of./IN town./NN students./NNS 
+
+OTHER./NN 
+Applicants./NNS will./MD be./VB required./VBN to./TO obtain/hold./VB a./DT valid./JJ and./CC current./JJ Canadian./JJ security./NN clearance./NN to./TO gain./VB access./NN to./TO the./DT classified./JJ spaces./NNS ,./, information./NN and./CC equipment./NN in./IN order./NN to./TO perform./VB the./DT work./NN associated./VBN with./IN this./DT position./NN which./WDT requires./VBZ a./DT minimum./JJ 10./CD year./NN consecutive./JJ residence./NN in./IN Canada./NNP and./CC a./DT Canadian./JJ Citizenship./NNP ../. 

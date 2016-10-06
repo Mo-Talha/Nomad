@@ -1,0 +1,52 @@
+This./DT position./NN requires./VBZ that./IN you./PRP move./VBP to./TO the./DT Montreal./NNP area./NN for./IN the./DT duration./NN of./IN the./DT internship./NN ../. 
+Profile./NN 
+Radialpoint./NNP -./: a./DT subsidiary./NN of./IN AppDirect./NNP -./: ensures./VBZ that./IN service./NN providers./NNS ,./, technology./NN vendors./NNS and./CC cloud./JJ solution./NN providers./NNS can./MD offer./VB the./DT best./JJS possible./JJ technical./JJ support./NN experiences./NNS to./TO their./PRP$ customers./NNS ,./, as./RB well./RB as./IN helping./VBG them./PRP to./TO increase./VB adoption./NN of./IN new./JJ products./NNS and./CC services./NNS ../. To./TO achieve./VB this./DT ,./, we./PRP develop./VBP advanced./JJ end-to-end./JJ technology./NN systems./NNS ,./, add./VB a./DT whole./JJ lot./NN of./IN operational./JJ know-how./NN and./CC combine./VB it./PRP with./IN some./DT expert./JJ advisory./JJ services./NNS in./IN order./NN to./TO create./VB outstanding./JJ technical./JJ support./NN programs./NNS ../. By./IN coupling./VBG best-in-class./NN technology./NN with./IN some./DT of./IN the./DT finest./JJS talent./NN Montreal./NNP (./( and./CC beyond./IN )./) has./VBZ to./TO offer./VB ,./, we./PRP 've./VBP solved./VBN millions./NNS of./IN technical./JJ support./NN problems./NNS for./IN premier./JJR brands./NNS across./IN the./DT globe./NN ,./, much./RB to./TO their./PRP$ delight./NN ../. For./IN more./JJR information./NN about./IN what./WP we./PRP do./VBP ,./, visit./VB www.radialpoint.com./NN ../. 
+
+Summary./JJ :./: The./DT job./NN :./: 
+Reporting./VBG to./TO the./DT Business./NNP Intelligence./NNP Development./NNP team./NN lead./NN ,./, you./PRP will./MD be./VB part./NN of./IN the./DT Technology./NNP team./NN ../. The./DT team./NN 's./POS focus./NN in./IN this./DT period./NN will./MD be./VB to./TO innovate./VB existing./VBG premium./JJ technical./JJ support./NN (./( PTS./NNP )./) services./NNS ../. 
+
+Desired./VBN background./NN :./: 
+-./: Data./NN Science./NN :./: exploratory./NN data./NNS analysis./NN ,./, statistical./JJ analysis./NN ,./, data./NNS visualization./NN techniques./NNS ../. 
+-./: Programming./NN :./: SQL./NNP ,./, Java./NNP ,./, Python./NNP ,./, Excel./NNP ../. 
+
+Need./VB a./DT little./JJ more./JJR convincing./NN ?./. 
+You./PRP are./VBP going./VBG to./TO get./VB great./JJ experience./NN :./: Hackathons./NNS ,./, ownership./NN of./IN projects./NNS ,./, seasoned./VBD mentors./NNS ,./, new./JJ technologies./NNS ..../: ..../: ../. 
+
+You./PRP will./MD eat./VB a./DT ton./NN of./IN tasty./JJ food./NN :./: St-Viateur./JJ bagels./NNS with./IN smoked./JJ salmon./NN and./CC cream./NN cheese./NN on./IN Fridays./NNP ,./, salads./NNS and./CC smoothies./NNS on./IN Wednesdays./NNS ,./, the./DT ``./`` candy./NN wall./NN ''./'' ,./, the./DT beer./NN tap./NN ,./, yogurt./NN ,./, nuts./NNS ,./, granola./NN bars./NNS ,./, etc./FW ../. ALL./DT ON./NNP US./NNP !./. 
+
+You./PRP will./MD have./VB a./DT lot./NN of./IN fun./NN in./IN the./DT process./NN :./: On-site./JJ happy./JJ hours./NNS ,./, foosball./NN ,./, games./NNS ,./, pool./NN ,./, ping-pong./JJ ,./, charity./NN events./NNS ,./, group./NN workouts./NNS ,./, massage./NN and./CC yoga./NN and./CC a./DT holiday./NN party./NN to./TO beat./VB all./DT others./NNS !./. 
+
+If./IN you./PRP want./VBP a./DT glimpse./NN into./IN what./WP it./PRP 's./VBZ like./IN to./TO work./VB here./RB ,./, some./DT of./IN our./PRP$ previous./JJ interns./NNS had./VBD these./DT things./NNS to./TO say./VB :./: http./NN :./: //bit.ly/1VzYh2Z./NN ,./, http./NN :./: //goo.gl/MoLnpt./NN and./CC http./NN :./: //goo.gl/I6a6DA./NN ../. Feel./NNP free./JJ to./TO check./VB us./PRP out./RP on./IN the./DT Radialpoint./NNP Careers./NNPS Facebook./NNP page./NN ,./, on./IN Twitter./NNP and./CC on./IN our./PRP$ blog./NN ,./, inside.radialpoint.com./NN ../. 
+
+Responsibilities./NNS :./: Your./PRP$ role./NN within./IN the./DT team./NN will./MD be./VB to./TO :./: 
+-./: Work./NN closely./RB with./IN BI./NNP developers./NNS and./CC business./NN analysts./NNS defining./VBG the./DT scope./NN of./IN the./DT program./NN dashboard./NN ;./: 
+-./: Write./NN complex./JJ SQL./NNP to./TO make./VB sense./NN of./IN disparate./NN data./NNS ;./: 
+-./: Using./VBG the./DT latest./JJS features./NNS of./IN Excel./NNP ,./, Amazon./NNP Web./NNP Services./NNPS and./CC other./JJ cloud./NN tools./NNS ,./, implement./NN dashboards./NNS ,./, iterate./NN on./IN requirements./NNS adjustments./NNS and./CC stakeholders./NNS feedback./VBP ;./: 
+-./: Learn./NN and./CC adopt./VB SCRUM./NNP agile./NN development./NN lifecycle./NN methodology./NN ;./: 
+-./: Participate./NN in./IN the./DT full./JJ development./NN lifecycle./NN including./VBG requirements./NNS analysis./NN and./CC design./NN ,./, working./VBG closely./RB with./IN senior./JJ developers./NNS ;./: 
+-./: Test./NN potential./JJ solutions./NNS ,./, while./IN keeping./VBG customers./NNS and./CC internal./JJ teams./NNS informed./VBN on./IN results./NNS and./CC progress./NN ;./: 
+-./: Document./NN and./CC present./JJ improvement./NN initiatives./NNS to./TO stakeholders./NNS ../. 
+
+Required./VBN Skills./NNS :./: You./PRP are./VBP :./: 
+-./: A./DT student./NN in./IN Computer./NNP Science./NNP ,./, Software./NNP Engineering./NNP or./CC related./VBN discipline./NN ,./, with./IN one./CD or./CC more./JJR internships./NNS (./( or./CC work./VB experience./NN in./IN the./DT technology./NN industry./NN )./) already./RB under./IN your./PRP$ belt./NN ../. 
+-./: Resourceful./NN -./: you./PRP will./MD work./VB on./IN the./DT same./JJ projects./NNS as./IN the./DT rest./NN of./IN your./PRP$ team./NN members./NNS ,./, and./CC will./MD have./VB to./TO use./VB the./DT tools./NNS at./IN your./PRP$ disposal./NN to./TO deliver./VB on./IN your./PRP$ tasks./NNS ../. 
+-./: Quick-to-learn./NN -./: you./PRP may./MD be./VB unfamiliar./JJ with./IN some./DT of./IN the./DT technologies./NNS we./PRP use./VBP ,./, and./CC that./DT 's./VBZ okay./JJR ../. What./WP matters./VBZ is./VBZ that./IN you./PRP get./VBP up./RB to./TO speed./VB fast./RB ../. 
+-./: Collaborative./NN -./: you./PRP are./VBP keen./JJ to./TO learn./VB from./IN those./DT around./IN you./PRP ,./, but./CC you./PRP 're./VBP not./RB afraid./JJ to./TO offer./VB up./RP your./PRP$ own./JJ opinion./NN too./RB ../. 
+-./: Proactive./NN './'' not./RB only./RB do./VBP you./PRP complete./JJ projects./NNS as./IN required./VBN ,./, you./PRP go./VBP further./RB to./TO explore./VB the./DT possibilities./NNS of./IN the./DT given./VBN technology/programming./NN language./NN in./IN order./NN to./TO enhance./VB or./CC improve./VB the./DT end./NN product./NN ../. 
+-./: Innovative./NN './'' you./PRP like./IN to./TO approach./VB things./NNS from./IN a./DT different./JJ perspective./NN and./CC are./VBP good./JJ at./IN problem-solving./NN ../. 
+
+Not./RB sure./JJ if./IN any./DT of./IN those./DT adjectives./NNS apply./VBP to./TO you./PRP ?./. Maybe./RB one./CD (./( or./CC more./JJR )./) of./IN the./DT following./JJ examples./NN does./VBZ :./: 
+
+-./: You./PRP 've./VBP impressed./VBN your./PRP$ teaching./VBG assistants./NNS by./IN going./VBG above./IN and./CC beyond./IN on./IN a./DT software./NN project./NN in./IN class./NN ,./, e.g./NN ../. a./DT game./NN development./NN assignment./NN or./CC school./NN scheduling./NN app./NN ../. 
+-./: You./PRP 've./VBP written./VBN your./PRP$ own./JJ mobile./JJ app./NN and./CC published./VBD or./CC almost./RB published./VBN it./PRP in./IN the./DT AppStore/Google./NNP Play/other./NNP application./NN marketplace./NN ../. 
+-./: You./PRP 've./VBP hosted./VBN your./PRP$ own./JJ web./NN server./NN and./CC dealt./NN with./IN deployment./NN processes./NNS ,./, troubleshooting./VBG and./CC provider./NN outages./NNS ../. 
+-./: You./PRP 've./VBP contributed./VBN to./TO open-source./JJ projects./NNS and./CC proudly./RB shared./VBD your./PRP$ work./NN ,./, knowing./VBG that./IN it./PRP makes./VBZ things./NNS more./RBR convenient./NN for./IN the./DT rest./NN of./IN the./DT world./NN ../. 
+-./: You./PRP 've./VBP installed./VBN a./DT nice./JJ looking./VBG Linux./NNP distribution./NN and./CC spent./VBD so./RB many./JJ hours./NNS troubleshooting./VBG driver./NN issues./NNS that./IN you./PRP and./CC the./DT command./NN line./NN are./VBP now./RB best./JJS friends./NNS ../. 
+-./: You./PRP 've./VBP assembled./VBN a./DT personal./JJ computer./NN and./CC painstakingly./RB compared./VBN video./NN cards./NNS ,./, CPUs./NNP ,./, memory./NN and./CC motherboard./NN metrics./NNS to./TO ensure./VB best./JJS performance./NN within./IN budget./NN ../. 
+This./DT position./NN requires./VBZ that./IN you./PRP move./VBP to./TO the./DT Montreal./NNP area./NN for./IN the./DT duration./NN of./IN the./DT internship./NN ../. 
+
+If./IN you./PRP 're./VBP coming./VBG to./TO us./PRP from./IN outside./IN of./IN Montreal./NNP ,./, we./PRP will./MD help./VB you./PRP out./RP with./IN accommodation./NN expenses./NNS ../. 
+
+Varies./NNS according./VBG to./TO experience./NN ../. 
+
+../. 

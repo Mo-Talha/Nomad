@@ -1,0 +1,21 @@
+Location./NN :./: 150./CD Ormont./NNP Drive./NNP ../. 
+
+The./DT Global./NNP Information./NN System./NNP (./( GIS./NNP )./) Project./NNP Managemnt./NNP Office./NNP is./VBZ responsible./JJ for./IN managing./VBG approved./JJ projects./NNS from./IN initiation./NN to./TO closure./NN ,./, on./IN time./NN and./CC on./IN budget./NN ../. The./DT candidate./NN would./MD provide./VB support./NN to./TO Project./VB Managers./NNP in./IN excuting./VBG projects./NNS according./VBG to./TO the./DT defined./JJ methodologies./NNS ../. 
+
+A./DT Day./NNP in./IN the./DT Life./NNP ..../: 
+Work./NN collaboratively./RB with./IN assigned./VBN project./NN managers./NNS to./TO support./VB daily./JJ management./NN activities./NNS acrosss./VBP all./DT project./NN phases./VBZ ;./: planning./NN ,./, execution./NN and./CC closure./NN ../. 
+
+Responsibilities./NNS 
+-./: Works./VBZ as./IN a./DT member./NN of./IN a./DT team./NN to./TO achieve./VB set./VBN goals./NNS and./CC meet./NN expected./VBN project./NN deadlines./NNS ../. 
+-./: Assists./NNS in./IN updating./VBG project./NN schedules./NNS 
+-./: Co-ordinates./NNS and./CC follow-up./NN on./IN project./NN tasks./NNS and./CC deliverables./NNS 
+-./: Support./NN the./DT completion./NN of./IN project./NN documentation./NN 
+-./: Occasional./NN filing./NN ,./, scanning./VBG ,./, copying./VBG ,./, or./CC printing./NN of./IN relevant./JJ electronic/hard./NN copy./NN records./NNS as./IN needed./VBN 
+-./: All./DT other./JJ duties./NNS as./IN assigned./JJ 
+
+Required./VBN Skills./NNS 
+-./: Must./NN be./VB enrolled./VBN in./IN a./DT recognized./VBN post-secondary./JJ Computer./NNP Science./NNP or./CC Business./NNP Related./NNP program./NN ../. 
+-./: Well-developed./JJ interpersonal./JJ and./CC communication./NN skills./NNS ../. 
+-./: Strong./JJ organizational./JJ skills./NNS and./CC ability./NN to./TO manage./VB multiple./JJ tasks./NNS simultaneously./RB ../. 
+-./: Hands-on./JJ knowledge./NN of./IN Microsoft./NNP Word./NNP ,./, Excel./NNP ,./, Access./NNP and./CC Power./NNP point./NN ../. 
+-./: Documentation./NN Management./NNP skills./NNS ../. 

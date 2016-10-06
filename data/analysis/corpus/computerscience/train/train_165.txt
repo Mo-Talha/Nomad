@@ -1,0 +1,27 @@
+Profile./NN 
+
+NeuRecall./NNP Inc../NNP is./VBZ a./DT startup./NN at./IN the./DT intersection./NN of./IN machine./NN learning./NN ,./, neuroscience./NN and./CC education./NN ../. It./PRP maintains./VBZ business./NN and./CC R./NNP &./CC D./NNP offices./NNS in./IN SF./NNP and./CC in./IN Kitchener-Waterloo./NNP ../. We./PRP aim./VBP to./TO solve./VB the./DT need./NN learners./NNS have./VBP for./IN more./RBR effective./JJ learning./NN ,./, and./CC the./DT need./NN teachers./NNS have./VBP for./IN more./RBR efficient./JJ student./NN assessment./NN ../. Our./PRP$ initial./JJ target./NN is./VBZ the./DT intersection./NN of./IN the./DT language./NN learning./NN ,./, e-learning./JJ ,./, and./CC test./NN preparation./NN and./CC tutoring./VBG markets./NNS ../. Our./PRP$ core./JJ product./NN is./VBZ an./DT intelligent./JJ tutoring./NN system./NN that./WDT includes./VBZ algorithms./NNS based./VBN on./IN principles./NNS of./IN learning./VBG from./IN neuroscience./NN ,./, a./DT knowledge./NN database./NN structured./VBN in./IN the./DT form./NN of./IN propositional./JJ statements./NNS about./IN the./DT world./NN ,./, and./CC an./DT online./JJ user./NN community./NN collaboratively./RB generating./VBG and./CC refining./VBG the./DT stored./VBN knowledge./NN ../. 
+
+Summary./JJ 
+
+Refine./NNP and./CC apply./VB your./PRP$ software./NN skills./NNS by./IN building./VBG an./DT intelligent./NN tutoring./VBG system./NN ../. 
+
+Responsibilities./NNS 
+
+We./PRP seek./VBP a./DT student./NN to./TO work./VB on./IN both./DT web./NN and./CC mobile./JJ app./JJ versions./NNS of./IN our./PRP$ intelligent./NN tutoring./VBG system./NN ../. Depending./VBG on./IN the./DT students./NNS './POS interests./NNS and./CC skills./NNS ,./, some./DT dimensions./NNS of./IN work./NN on./IN the./DT web./NN app./NN may./MD include./VB :./: optimization./NN of./IN machine./NN learning./VBG algorithms./NN ;./: incorporation./NN of./IN plugins./NNS for./IN speech./NN recognition./NN and./CC synthesis./NN ,./, and./CC online./JJ translation./NN ;./: addition./NN of./IN new./JJ learning./NN and./CC testing./VBG modes./NNS such./JJ as./IN passage./NN memorization./NN ;./: development./NN of./IN new./JJ learner./NN performance./NN visualizations./NNS ;./: enabling./VBG of./IN data./NNS sharing./VBG with./IN other./JJ apps./NN ;./: and./CC upgrade./NN of./IN the./DT overall./JJ aesthetic./NN of./IN the./DT software./NN ../. If./IN the./DT candidate./NN has./VBZ experience./NN with./IN NoSQL./NNP data./NNS storage./NN ,./, the./DT work./NN may./MD also./RB include./VB migration./NN of./IN the./DT database./NN to./TO data./VB store./NN and./CC processing./NN solutions./NNS better./RB suited./VBN to./TO big./JJ data./NNS ../. If./IN the./DT candidate./NN has./VBZ experience./NN with./IN native./JJ mobile./NN development./NN ,./, the./DT work./NN may./MD also./RB include./VB integration./NN of./IN WebView./NNP control./NN into./IN a./DT native./JJ app./NN ,./, using./VBG either./CC iOS./JJ (./( Objective-C/Swift./NNP )./) or./CC Android./NNP (./( Java./NNP )./) ../. If./IN the./DT candidate./NN has./VBZ intere./RB !./. st./NN or./CC experience./NN in./IN neuroscience./NN ,./, the./DT work./NN may./MD also./RB include./VB incorporation./NN of./IN non-invasive./JJ electroencephalographic./JJ (./( EEG./NNP )./) signals./NNS from./IN learners./NNS './POS brains./NNS into./IN the./DT algorithms./NN ../. 
+
+Required./VBN Skills./NNS 
+
+Recommended./VBN experience./NN :./: Linux./NNP ,./, JavaScript./NNP ,./, PHP./NNP ,./, CSS./NNP ,./, HTML./NNP ,./, MySQL./NNP ||./NNP 
+
+Optional./JJ experience./NN :./: git./NN ,./, shell./NN scripting./NN ,./, C./NNP ,./, Python./NNP ,./, NoSQL./NNP ,./, native./JJ Android./NNP or./CC iOS./VB mobile./JJ app./NN development./NN using./VBG Java./NNP or./CC Objective-C/Swift./NNP ,./, and./CC WebView./NNP integration./NN ||./NN 
+
+We./PRP 're./VBP especially./RB interested./JJ in./IN people./NNS who./WP have./VBP added./VBN experience./NN in./IN game./NN development./NN ,./, scientific./JJ research./NN ,./, mathematics./NNS ,./, education./NN ,./, UI/UX./NNP design./NN ,./, QA./NNP testing./VBG ,./, or./CC sales./NNS and./CC marketing./NN ../. 
+
+Transportation./NN And./CC Housing./NN 
+
+You./PRP 'll./MD be./VB responsible./JJ for./IN your./PRP$ own./JJ transportation./NN and./CC housing./NN ../. The./DT work./NN will./MD be./VB performed./VBN in./IN dedicated./JJ space./NN in./IN Kitchener-Waterloo./NNP ,./, conveniently./RB located./VBN near./IN to./TO public./JJ transportation./NN and./CC affordable./JJ dining./NN options./NNS ../. On./IN site./NN ,./, there./EX is./VBZ a./DT communal./JJ kitchen./NN and./CC dining./VBG area./NN ,./, and./CC free./JJ snacks./NNS and./CC coffee./NN ../. 
+
+Career./NNP Development./NNP And./CC Training./NNP 
+
+We./PRP 're./VBP keen./JJ to./TO identify./VB candidates./NNS who./WP could./MD join./VB our./PRP$ company./NN longer-term./NN ,./, and./CC do./VBP not./RB make./VB distinctions./NNS between./IN co-op./JJ students./NNS and./CC other./JJ full-time./JJ employees./NNS ../. By./IN joining./VBG our./PRP$ up-and-coming./JJ company./NN now./RB you./PRP have./VBP a./DT great./JJ opportunity./NN to./TO challenge./VB yourself./PRP to./TO learn./VB more./JJR ,./, to./TO contribute./VB to./TO the./DT company./NN culture./NN ,./, and./CC to./TO greatly./RB impact./VB the./DT function./NN and./CC feel./NN of./IN the./DT NeuRecall./NNP platform./NN ../. 

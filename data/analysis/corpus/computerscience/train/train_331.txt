@@ -1,0 +1,31 @@
+Employer./NN :./: Environment./NN and./CC Climate./NNP Change./NNP Canada./NNP 
+Water./NNP Science./NNP and./CC Technology./NNP 
+Watershed./NNP Hydrology./NNP and./CC Ecology./NNP Research./NNP Division./NNP 
+
+Location./NN :./: Canada./NNP Centre./NNP for./IN Inland./NNP Waters./NNP (./( CCIW./NNP )./) 
+867./CD Lakeshore./NNP Rd./NNP ../. 
+Burlington./NNP ,./, ON./NNP 
+L7R./$ 4A6./CD 
+
+
+When./WRB :./: January./NNP 3rd./CD ,./, 2017./CD to./TO April./NNP 28th./CD ,./, 2017./CD 
+
+Job./NNP Title./NNP :./: Integrated./VBN Modelling./VBG Decision./NNP Support./NNP System./NNP Assistant./NNP 
+
+Job./NNP Level./NNP :./: Senior./JJ 
+
+Discipline./NN :./: Computational./JJ Science./NN ,./, Environmental./NNP Science./NNP ,./, Software./NNP Engineering./NNP ,./, Environmental./NNP Engineering./NNP ,./, Civil./NNP Engineering./NNP 
+
+Job./NNP Description./NNP :./: 
+This./DT student./NN will./MD be./VB required./VBN to./TO work./VB on./IN integrated./JJ environmental./JJ modelling./NN and./CC decision./NN support./NN system./NN ../. This./DT research./NN oriented./VBN position./NN will./MD especially./RB benefit./VB those./DT students./NNS who./WP would./MD like./VB to./TO pursue./VB a./DT post./NN graduate./NN degree./NN ../. The./DT student./NN should./MD have./VB a./DT solid./JJ background./NN in./IN computational./NN or./CC environmental./JJ science./NN ,./, civil/environmental./JJ engineering./NN or./CC software./NN engineering./NN at./IN the./DT senior./JJ undergraduate./JJ level./NN ../. No./DT new./JJ model./NN development./NN is./VBZ expected./VBN and./CC ,./, consequently./RB ,./, major./JJ programming./NN will./MD not./RB be./VB required./VBN for./IN this./DT position./NN ../. However./RB ,./, it./PRP would./MD be./VB useful./JJ if./IN the./DT student./NN has./VBZ experience./VBN in./IN creating./VBG model./NN interfaces./NNS using./VBG ,./, for./IN example./NN ,./, C./NNP #./# or./CC VB./NNP .Net./NNP ../. The./DT student./NN should./MD have./VB the./DT ability./NN to./TO perform./VB sound./JJ scientific./JJ assessments./NNS of./IN the./DT decision./NN support./NN systems./NNS with./IN appropriate./JJ data./NNS ../. The./DT student./NN will./MD be./VB expected./VBN to./TO assist./VB in./IN writing./VBG scientific./JJ reports./NNS and./CC has./VBZ the./DT ability./NN to./TO generate./VB presentations./NNS of./IN their./PRP$ work./NN as./IN posters./NNS or./CC in./IN PowerPoint./NNP ../. 
+
+Job./NNP Skills./NNS :./: 
+Scientific./NNP programming./NN ,./, statistics./NNS and./CC data./NNS analysis./NN 
+
+Pay./NN :./: Federal./JJ student./NN rate./NN based./VBN on./IN qualifications./NNS and./CC experience./NN ../. 
+
+Requirements/Remarks./NNS :./: 
+Preference./NN will./MD be./VB given./VBN to./TO Canadian./JJ Citizens./NNP ../. Please./NNP clearly./RB indicate./VBP your./PRP$ citizenship./NN on./IN your./PRP$ resume./NN and/or./IN cover./JJ letter./NN ../. For./IN those./DT candidates./NNS who./WP are./VBP contacted./VBN for./IN an./DT interview./NN ,./, please./VB bring./VBG proof./NN of./IN your./PRP$ Canadian./JJ citizenship./NN with./IN you./PRP to./TO the./DT interview./NN ../. 
+Must./NNP pass./NN Environment./NNP Canada./NNP Security./NNP Screening./NNP ../. 
+
+The./DT Public./NNP Service./NNP is./VBZ an./DT Equal./JJ Opportunity./NNP Employer./NNP ../. As./IN Environment./NNP Canada./NNP is./VBZ committed./VBN to./TO achieving./VBG a./DT skilled./JJ workforce./NN reflective./NN of./IN the./DT diversity./NN of./IN the./DT Canadian./NNP society./NN ,./, we./PRP encourage./VBP members./NNS of./IN a./DT visible./JJ minority./NN group./NN ,./, Aboriginal./NNP people./NNS and/or./VBP persons./NNS with./IN a./DT disability./NN to./TO apply./VB ../. 

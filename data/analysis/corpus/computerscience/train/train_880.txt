@@ -1,0 +1,26 @@
+Summary./JJ 
+The./DT Junior./NNP Operations./NNP Analyst./NNP is./VBZ responsible./JJ for./IN ensuring./VBG the./DT creation./NN ,./, distribution./NN and./CC analysis./NN of./IN key./JJ IT./NNP performance./NN reports./NNS for./IN IT./NNP Senior./NNP Leadership./NNP ../. Ensure./NN analysis./NN and./CC reporting./NN needs./NNS are./VBP executed./VBN to./TO support./VB client./NN requirements./NNS ../. Responsible./JJ for./IN creating./VBG customized./JJ analyses./NNS to./TO deal./VB with./IN ad-hoc./JJ investigations./NNS for./IN operations./NNS teams./NNS ,./, projects./NNS ,./, and./CC process./NN improvement./NN teams./NNS ../. Meet./NNP regularly./RB senior./JJ management./NN to./TO provide./VB review./NN and./CC interpretation./NN of./IN performance./NN reporting./NN analysis./NN ../. Develop./NNP portfolio./NN analysis./NN reports./NNS to./TO meet./VB the./DT needs./NNS of./IN all./DT clients./NNS ../. Manage./NNP key./JJ information./NN repositories./NNS ,./, based./VBN on./IN the./DT established./VBN governance./NN structure./NN ../. Develop./VB new./JJ client./NN requirements./NNS that./WDT lead./VBP to./TO automated./VBN final./JJ solutions./NNS ../. Quality./NNP control./NN and./CC deploy./NN reports./NNS into./IN production./NN cycle./NN ../. Provide./NNP ongoing./VBG review./NN of./IN systems./NNS methodology./NN related./VBN to./TO calculations./NNS as./IN they./PRP pertain./VBP to./TO performance./NN analysis./NN ../. Maintain./VB the./DT ability./NN to./TO expertly./RB cover./VB any./DT area./NN within./IN I./PRP !./. T../NNP Identify./NNP ways./NNS to./TO improve./VB productivity./NN and./CC efficiency./NN within./IN the./DT team./NN and./CC document./NN procedures./NNS ../. 
+
+Typical./JJ Responsibilities./NNS :./: 
+Determine./VB the./DT relevant./JJ analytics./NNS and./CC reporting./VBG needs./NNS of./IN the./DT organization./NN and./CC create./VB templates./NNS and./CC consolidation./NN of./IN metrics./NNS as./IN needed./VBN ../. 
+Identify./NNP relevant./JJ data./NNS sources./NNS as./RB required./VBN to./TO complete./VB the./DT analysis./NN of./IN IT./NNP Performance./NNP ../. 
+Maintain./VB a./DT database./NN of./IN relevant./JJ metrics./NNS for./IN use./NN in./IN historical./JJ trend./NN analysis./NN ../. 
+Maintain./NNP dashboards./NNS and./CC graphs./NN showing./VBG the./DT health./NN of./IN operations./NNS ,./, including./VBG but./CC not./RB limited./JJ to./TO projects./NNS and./CC systems./NNS (./( weekly./JJ and./CC monthly./JJ reporting./NN )./) ../. 
+Maintain./NNP and./CC provide./VB Objectives./NNS ,./, Metrics./NNS and./CC Performance./NNP reports./NNS as./IN needed./VBN for./IN IT./NNP ../. 
+Examine./NNP current./JJ operational./JJ processes./NNS and./CC reporting./VBG within./IN IT./NNP ,./, to./TO recommend./VB and./CC implement./VB potential./JJ operational./JJ and./CC reporting./VBG improvements./NNS that./WDT will./MD positively./RB impact./VB the./DT organizations./NNS efficiency./NN ../. 
+Work./NN with./IN Managers./NNS across./IN IT./NNP in./IN the./DT preparation./NN and./CC delivery./NN of./IN reports./NNS ../. 
+Conduct./NNP executive./NN presentations./NNS as./IN needed./VBN ../. 
+Work./NN with./IN the./DT IT./NNP Governance./NNP teams./NNS for./IN the./DT alignment./NN of./IN existing./VBG processes./NNS and./CC methods./NNS ,./, and./CC contribute./NN to./TO the./DT recommendation./NN of./IN new./JJ IT-wide./JJ practices./NNS ../. 
+Manage./NNP key./JJ information./NN repositories./NNS ,./, based./VBN on./IN the./DT established./VBN governance./NN structure./NN ../. 
+
+Experience./NN &./CC Education./NN 
+Undergraduate./NNP degree./NN with./IN on-going./JJ development./NN and./CC certifications./NNS ../. 
+Understanding./NN of./IN IT./NNP Operations./NNP ,./, strategies./NNS ,./, goals./NNS ,./, and./CC metrics./NNS ../. 
+Understanding./NN of./IN ITIL./NNP v3./NN ../. 
+Analytical./JJ and./CC data./NNS analysis./NN skills./NNS ../. 
+Proficiency./NN in./IN Excel./NNP ../. 
+Demonstrated./VBN ability./NN to./TO work./VB collaboratively./RB with./IN cross./JJ functional./JJ teams./NNS ../. 
+Good./JJ written./VBN and./CC verbal./JJ communication./NN skills./NNS (./( works./NNS with./IN a./DT variety./NN of./IN VPs./NNP ,./, Directors./NNP ,./, Sr../NNP Managers./NNPS and./CC their./PRP$ teams./NNS )./) ../. 
+Familiarity./NN with./IN financial./JJ ,./, procurement./NN ,./, key./VB IT./NNP platforms./VBZ ,./, SDLC./NNP and./CC HR./NNP processes./NNS will./MD be./VB an./DT asset./NN for./IN this./DT role./NN ../. 
+Understanding./NN of./IN Project./NNP and./CC Portfolio./NNP Management./NNP concepts./NNS ../. 
+Experience./NN with./IN BI./NNP Analytics./NNPS and./CC BI./NNP tools./NNS ../. 

@@ -1,0 +1,32 @@
+The./DT company./NN :./: 
+Flipp./NNP makes./VBZ shopping./NN fun./NN and./CC is./VBZ on./IN a./DT mission./NN to./TO reinvent./VB the./DT weekly./JJ shopping./NN experience./NN ../. We./PRP are./VBP partnered./VBN with./IN the./DT leading./VBG retailers./NNS across./IN North./NNP America./NNP and./CC having./VBG them./PRP on./IN our./PRP$ platform./NN gives./VBZ us./PRP the./DT unique./JJ ability./NN to./TO understand./VB and./CC collect./VB shopper./JJR behaviour./NN data./NNS at./IN a./DT whole./JJ new./JJ level./NN ../. Flipp./NNP has./VBZ over./RP 300./CD team./NN members./NNS worldwide./VBP and./CC is./VBZ partnered./VBN with./IN the./DT largest./JJS retailers./NNS in./IN the./DT world./NN ,./, including./VBG Walmart./NNP ,./, Target./NNP ,./, Kroger./NNP ,./, Macys./NNP and./CC Dollar./NNP General./NNP ../. Flipp./NNP 's./POS strategic./JJ media./NNS partnerships./NNS include./VBP Google./NNP ,./, Facebook./NNP ,./, Twitter./NNP ,./, MSN./NNP ,./, CBS./NNP and./CC over./IN 
+450./CD newspaper./NN publishers./NNS ../. Flipp./NNP recently./RB won./VBD the./DT Best./JJS Workplaces./NNS in./IN Canada./NNP Award./NNP and./CC the./DT Canada./NNP 's./POS 10./CD Most./RBS Admired./JJ Corporate./NNP Cultures./NNPS Award./NNP ../. Come./NNP join./VBP us./PRP and./CC help./VB us./PRP build./VB a./DT product./NN that./WDT delights./NNS and./CC lifts./JJ people./NNS 's./POS shopping./VBG experience./NN everyday./NN ../. 
+
+Flipp./NNP is./VBZ used./VBN by./IN millions./NNS of./IN users./NNS across./IN North./NNP America./NNP and./CC we./PRP generate./VBP petabytes./NNS of./IN data./NNS over./IN time./NN ../. This./DT 
+includes./VBZ the./DT weekly./JJ shopping./NN content./NN ,./, server./JJ logs./NNS ,./, analytics./NNS ,./, data./NNS and./CC much./RB more./JJR ../. We./PRP have./VBP several./JJ clusters./NNS to./TO store./VB and./CC process./VB all./DT of./IN this./DT really./RB big./JJ data./NNS ../. As./IN a./DT Content./NNP and./CC Consumer./NNP Insight./NNP Analyst./NNP you./PRP will./MD be./VB a./DT key./JJ player./NN of./IN the./DT Flipp./NNP Content./NNP team./NN and./CC help./VB build./VB out./RP fundamental./JJ data./NNS driven./RB backend./VBP products./NNS ../. 
+
+We./PRP currently./RB have./VBP an./DT opening./NN for./IN a./DT Flipp./NNP Content./NNP and./CC Consumer./NNP Insights./NNP Developer./NNP (./( co-op./NN )./) 
+
+To./TO join./VB our./PRP$ growing./VBG team./NN !./. if./IN you./PRP 're./VBP passionate./JJ about./IN working./VBG on./IN cool./NN ,./, challenging./VBG projects./NNS and./CC want./VBP to./TO really./RB make./VB an./DT impact./NN by./IN helping./VBG pioneer./VB an./DT industry./NN ,./, then./RB this./DT role./NN is./VBZ for./IN you./PRP !./. 
+
+What./WP you./PRP get./VBP to./TO work./VB on./IN :./: 
+-./: You./PRP will./MD be./VB applying./VBG large-scale./JJ data./NNS mining./NN ,./, information./NN retrieval./NN techniques./NNS to./TO understand./VB data./NNS 
+-./: Identify./NN areas./NNS where./WRB Flipp./NNP can./MD make./VB an./DT impact./NN by./IN solving./VBG challenging./VBG problems./NNS that./WDT involve./VBP big./JJ data./NNS 
+-./: Perform./NN A/B./NNP tests./NNS ,./, analyze./NN data./NNS that./WDT comes./VBZ from./IN Flipp./NNP products./NNS (./( Mobile./NNP Apps./NNP ,./, Web./NNP )./) 
+-./: Revolutionize./VB the./DT way./NN millions./NNS of./IN consumer./NN 's./POS shop./NN on./IN a./DT weekly./JJ basis./NN 
+-./: Help./NN families./NNS save./VBP money./NN (./( $./$ 50-./JJ $./$ 100./CD a./DT week./NN just./RB on./IN their./PRP$ everyday./JJ grocery./NN bill./NN )./) 
+-./: Explore./NN future./JJ data-driven./JJ products./NNS 
+
+Details./NNS about./IN the./DT role./NN :./: 
+-./: Work./NN with./IN Flipp./NNP Content./NNP and./CC Analytics./NNP teams./NNS to./TO discover./VB shopping./NN trends./NNS ,./, what./WP 's./VBZ hot./JJ ,./, and./CC what./WP 's./VBZ not./RB 
+and./CC what./WP users./NNS are./VBP shopping./VBG for./IN 
+-./: Develop./NN content./JJ analysis./NN tools./NNS to./TO gain./VB new./JJ insights./NNS for./IN improved./JJ decision-making./NN 
+
+Requirements/technologies./NNS used./VBN :./: 
+-./: A./DT passion./NN for./IN constant./JJ improvement./NN (./( always./RB looking./VBG to./TO do./VB things./NNS better./JJR ,./, both./DT personally./RB and./CC also./RB as./IN part./NN of./IN the./DT team./NN ,./, for./IN the./DT company./NN )./) 
+-./: Have./VBP a./DT strong./JJ analytical./JJ mindset./NN ,./, curiosity./NN ,./, and./CC problem./NN solving./NN 
+-./: Working./VBG knowledge./NN of./IN databases./NNS and./CC SQL./NNP 
+-./: Solid./JJ fundamentals./NNS in./IN statistics./NNS 
+-./: An./DT interest./NN in./IN shopping./NN and./CC retail./NN 
+-./: Solid./JJ Microsoft./NNP Excel./NNP skills./NNS 
+-./: Bonus./NN points./NNS for./IN previous./JJ experience./NN working./VBG in./IN UX./NNP design./NN ,./, data./NN visualization./NN ,./, NodeJS./NNP or./CC Ruby./NNP or./CC Python./NNP or./CC R./NNP Programming./NNP 

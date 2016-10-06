@@ -1,0 +1,33 @@
+PointClickCare./NNP is./VBZ the./DT leading./VBG cloud-based./JJ software./NN provider./NN for./IN the./DT senior./JJ care./NN market./NN in./IN North./NNP America./NNP ../. Driven./VBN by./IN a./DT passion./NN for./IN innovation./NN and./CC technology./NN ,./, we./PRP 're./VBP building./VBG solutions./NNS that./WDT have./VBP a./DT true./JJ impact./NN on./IN people./NNS 's./POS lives./NNS ../. Recently./RB named./VBD one./CD of./IN Deloitte./NNP 's./POS fastest./JJS growing./VBG technology./NN companies./NNS and./CC Canada./NNP 's./POS best./JJS managed./VBN companies./NNS ,./, PointClickCare./NNP provides./VBZ vast./JJ opportunities./NNS and./CC a./DT great./JJ culture./NN for./IN our./PRP$ employees./NNS ../. PointClickCare./NNP is./VBZ a./DT fertile./JJ environment./NN to./TO advance./VB your./PRP$ career./NN while./IN performing./VBG meaningful./JJ work./NN with./IN great./JJ people./NNS ../. 
+
+Position./NN Summary./NN :./: 
+Reporting./VBG to./TO the./DT UI./NNP Architects./NNPS ,./, this./DT position./NN will./MD be./VB a./DT part./NN of./IN building./VBG cutting./VBG edge./NN user./JJ interfaces./NNS while./IN incorporating./VBG the./DT latest./JJS web./NN techniques./NNS and./CC best./JJS practices./NNS ../. As./IN part./NN of./IN the./DT core./NN services./NNS team./NN ,./, you./PRP will./MD be./VB help./JJ shape./VB the./DT future./NN of./IN the./DT design./NN and./CC layout./NN of./IN our./PRP$ enterprise./NN application./NN while./IN supporting./VBG and./CC enhancing./VBG the./DT UI./NNP guidelines./NNS ../. 
+
+Key./JJ Responsibilities./NNS :./: 
+-./: Provide./NN expert./NN development./NN skills./NNS using./VBG HTML./NNP ,./, CSS./NNP ,./, JavaScript./NNP and./CC jQuery./NN under./IN the./DT directions./NNS of./IN the./DT UI./NNP Architects./NNPS to./TO support./VB UI./NNP consistency./NN and./CC uniformity./NN throughout./IN our./PRP$ application./NN ../. 
+-./: Execute./NN independently./RB on./IN an./DT initial./JJ creative./JJ vision/direction./NN ,./, with./IN limited./JJ supervision./NN from./IN other./JJ UI./NNP team./NN members./NNS 
+-./: Troubleshoot./NN and./CC debug./VB cross-browser./NN inconsistencies./NNS 
+-./: Help./NN to./TO support./VB enterprise./NN application./NN UI/UX./NNP Initiatives./NNS 
+-./: Provide./NN ongoing./VBG UI./NNP development./NN when./WRB debugging./VBG issues./NNS and./CC developing./VBG application./NN enhancement./NN ../. 
+-./: Participate./NN and./CC team./NN meetings./NNS and./CC provide./VB UI./NNP oversight./MD when./WRB required./VBN ../. 
+Required./VBN Experience./NN :./: 
+-./: Coding./NN expertise./NN in./IN HTML./NNP ,./, CSS./NNP ,./, JavaScript./NNP and./CC jQuery./NN 
+-./: Working./VBG understanding./NN of./IN Java./NNP and./CC JSP./NNP 
+-./: In-depth./NN knowledge./NN of./IN cross-browser/platform./NN constraints./NNS 
+-./: Good./JJ understanding./NN of./IN basic./JJ UI./NNP principals./NNS and./CC work-flow./JJ design./NN 
+-./: Ability./NN to./TO clearly./RB articulate./VB technical./JJ direction./NN both./DT written./VBN and./CC orally./RB 
+
+Working./VBG at./IN PointClickCare./NNP goes./VBZ beyond./IN the./DT resume./NN ,./, because./IN the./DT work./NN we./PRP perform./VBP makes./VBZ a./DT true./JJ difference./NN in./IN people./NNS 's./POS lives./NNS ../. We./PRP build./VBP innovative./JJ healthcare./NN technology./NN for./IN seniors./NNS and./CC their./PRP$ caregivers./NNS that./IN improve./VBP their./PRP$ quality./NN of./IN life./NN and./CC well-being./NN on./IN a./DT daily./JJ basis./NN ../. We./PRP believe./VBP work./NN is./VBZ so./RB much./RB more./RBR meaningful./JJ when./WRB you./PRP 're./VBP doing./VBG it./PRP with./IN a./DT higher./JJR purpose./NN ../. 
+
+The./DT environment./NN 
+Work./NN is./VBZ a./DT place./NN where./WRB you./PRP spend./VBP a./DT lot./NN of./IN time./NN ,./, so./IN it./PRP 's./VBZ important./JJ to./TO us./PRP that./IN you./PRP enjoy./VBP yourself./PRP while./IN you./PRP 're./VBP here./RB ../. We./PRP 've./VBP created./VBN an./DT environment./NN that./WDT uplifts./VBZ you./PRP professionally./RB ,./, physically./RB ,./, and./CC even./RB spiritually./RB !./. Here./RB are./VBP a./DT few./JJ things./NNS that./WDT make./VBP working./VBG at./IN PointClickCare./NNP a./DT hard./JJ experience./NN to./TO top./VB :./: 
+-Competitive./JJ wages./NNS 
+-Free./JJ hot./JJ lunches./NNS 3./CD days./NNS a./DT week./NN 
+-Onsite./JJ gym./NN with./IN personal./JJ trainers./NNS 
+-Fully./RB equipped./VBN CrossFit./NNP gym./NN with./IN instructors./NNS 
+-Onsite./JJ yoga./NN classes./NNS 
+-Pick-up./NN basketball./NN ,./, ping./VBG pong./NN ,./, and./CC billiards./NNS 
+-Onsite./JJ massage./NN therapy./NN 
+-Social./JJ clubs./NNS and./CC quarterly./JJ employee./NN events./NNS 
+
+For./IN more./JJR information./NN on./IN PointClickCare./NNP ,./, please./VB visit./FW us./PRP on./IN Glassdoor./NNP and./CC LinkedIn./NNP 

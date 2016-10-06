@@ -1,0 +1,26 @@
+With./IN $./$ 171.4./CD billion./CD in./IN assets./NNS as./IN of./IN December./NNP 31./CD ,./, 2015./CD ,./, the./DT Ontario./NNP Teachers./NNP './POS Pension./NNP Plan./NNP is./VBZ the./DT largest./JJS single-profession./JJ pension./NN plan./NN in./IN Canada./NNP ../. An./DT independent./JJ organization./NN ,./, it./PRP invests./VBZ the./DT pension./NN fund./NN 's./POS assets./NNS and./CC administers./NNS the./DT pensions./NNS of./IN 316,000./CD active./JJ and./CC retired./JJ teachers./NNS in./IN Ontario./NNP ../. 
+
+The./DT IT./NNP team./NN at./IN Ontario./NNP Teachers./NNP './POS builds./NNS and./CC manages./VBZ the./DT innovative./JJ systems./NNS that./WDT support./VBP the./DT progressive./JJ needs./NNS of./IN Teachers./NNP './POS investment./NN and./CC benefit./NN professionals./NNS and./CC the./DT needs./NNS of./IN its./PRP$ members./NNS ../. 
+
+Ontario./NNP Teachers./NNP './POS is./VBZ one./CD of./IN the./DT 15./CD largest./JJS pension./NN funds./NNS in./IN the./DT world./NN ,./, actively./RB managing./VBG investments./NNS in./IN more./JJR than./IN 1,100./CD companies./NNS ../. Among./IN our./PRP$ holdings./NNS :./: The./DT Eaton./NNP Centre./NNP ,./, GNC./NNP ,./, CTV./NNP and./CC Yellow./NNP Pages./NNP ../. 
+
+We./PRP are./VBP looking./VBG for./IN co-op./JJ students./NNS with./IN business./NN acumen./NNS ,./, rigorous./JJ technical./JJ skill./NN and./CC flashes./NNS of./IN creative./JJ genius./NN ../. 
+
+Working./VBG in./IN a./DT fast-paced./JJ team./NN environment./NN ,./, you./PRP will./MD have./VB the./DT opportunity./NN to./TO make./VB meaningful./JJ contributions./NNS to./TO the./DT Information./NNP Security./NNP team./NN 's./POS work./NN ../. 
+
+
+Information./NNP Security./NNP Analyst./NNP (./( Information./NNP Security./NNP &./CC Business./NNP Continuity./NNP group./NN )./) 
+Responsibilities./NNS include./VBP provisioning/de-provisioning./JJ access./NN to./TO applications/systems./VB ,./, user./JJ access./NN review/attestation./NN ,./, Data./NNP Loss./NNP Prevention./NNP (./( DLP./NNP )./) and./CC anti-malware./JJ and./CC database./JJ monitoring./NN ../. 
+
+Information./NNP Security./NNP is./VBZ a./DT dynamic./JJ team./NN that./WDT ensures./VBZ appropriate./JJ protection./NN of./IN Ontario./NNP Teachers./NNP './POS electronic./JJ information./NN assets./NNS ../. 
+
+Technologies./NNS include./VBP but./CC are./VBP not./RB limited./VBN to./TO :./: Microsoft./NNP Active./NNP Directory./NNP ,./, Websense./NNP Data./NNP Loss./NNP Prevention./NNP ,./, Oracle./NNP databases./VBZ ,./, RSA./NNP ,./, and./CC Dell./NNP server./RB hardware./NN ../. 
+
+Qualifications./NNS :./: 
+-./: Computer./NNP Science./NNP ,./, Commerce./NNP or./CC other./JJ degrees./NNS when./WRB combined./VBN with./IN relevant./JJ work./NN experience./NN ../. 
+-./: Excellent./NN communication./NN and./CC interpersonal./JJ skills./NNS ../. 
+-./: Strong./NN problem./NN solving./VBG skills./NNS ../. 
+-./: Enjoys./NN working./VBG in./IN a./DT fast./NN paced./NN ,./, team./NN environment./NN ../. 
+-./: Goal-oriented./JJ self-starter./NN with./IN a./DT strong./JJ interest./NN in./IN technology./NN ../. 
+
+This./DT job./NN offer./NN is./VBZ contingent./JJ upon./IN successful./JJ completion./NN of./IN criminal./JJ and./CC credit./NN check./NN ../. 

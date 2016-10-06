@@ -1,0 +1,22 @@
+Introduction./NN 
+Environment./NNP Canada./NNP is./VBZ interested./JJ in./IN hiring./VBG one./CD (./( 1./CD )./) co-op./NN student./NN on./IN a./DT four-month./JJ term./NN as./IN an./DT upper./JJ air./NN research./NN assistant./NN ../. The./DT research./NN assistant./NN will./MD work./VB on./IN analyzing./VBG datasets./NNS from./IN newly-acquired./JJ atmospheric./JJ remote./NN sensing./VBG instruments./NNS ../. The./DT co-op./JJ student./NN will./MD be./VB supervised./VBN by./IN a./DT research./NN scientist./NN and./CC collaborate./NN with./IN researchers./NNS in./IN the./DT severe./JJ weather./NN and./CC cloud./NN physics./NNS division./NN at./IN Environment./NNP Canada./NNP Downsview./NNP ../. The./DT start./NN date./NN for./IN this./DT role./NN is./VBZ early./JJ January./NNP ,./, 2017./CD ../. 
+
+
+Research./NN Plan./NN 
+Several./JJ new./JJ remote./JJ sensing./VBG technologies./NNS have./VBP been./VBN deployed./VBN to./TO locations./NNS across./IN Canada./NNP ,./, including./VBG the./DT Arctic./NNP ,./, to./TO investigate./VB their./PRP$ performance./NN and./CC applications./NNS for./IN meteorological./JJ observation./NN ,./, forecasting./NN ,./, and./CC satellite./JJ validation./NN ../. For./IN instance./NN ,./, new./JJ Doppler./NNP LiDARs./NNP are./VBP fully./RB automated./VBN instruments./NNS that./WDT continually./RB measure./VBP wind./VBP speed./NN and./CC wind./VB direction./NN along./IN the./DT LiDARs./NNP line./NN of./IN sight./NN ../. They./PRP can./MD be./VB remotely./RB accessed./VBN ,./, require./VBP no./DT manual./JJ operation./NN ,./, and./CC are./VBP currently./RB producing./VBG a./DT growing./VBG dataset./NN ../. 
+
+An./DT analysis./NN of./IN the./DT data./NNS availability./NN and./CC data./NNS quality./NN is./VBZ to./TO be./VB performed./VBN for./IN new./JJ Doppler./NNP LiDARs./NNP and./CC a./DT Ka-band./NNP Radar./NNP ../. Analysis./NN of./IN the./DT wind./NN speed./NN derived./VBD using./VBG the./DT Doppler./NNP technique./NN is./VBZ required./VBN to./TO assess./VB the./DT instruments./NNS performance./NN and./CC usefulness./NN in./IN forecasting./NN applications./NNS ../. Comparisons./NNS with./IN other./JJ instruments./NNS wind./IN measurements./NNS ,./, particularly./RB a./DT Ka-band./NNP Radar./NNP system./NN ,./, are./VBP to./TO be./VB conducted./VBN ../. The./DT LiDAR./NNP and./CC Radar./NNP performance./NN during./IN different./JJ environmental./JJ conditions./NNS (./( e.g../NN ,./, low./JJ vs../FW high./JJ humidity./NN ,./, low/high./JJ precipitation./NN ,./, etc./FW ../. )./) are./VBP to./TO be./VB evaluated./VBN to./TO determine./VB each./DT instruments./NNS data./VBP quality./NN during./IN different./JJ meteorological./JJ conditions./NNS ../. Existing./VBG analysis./NN codes./NNS ,./, written./VBN in./IN Python./NNP ,./, are./VBP to./TO be./VB optimized./VBN and./CC expanded./VBN in./IN order./NN to./TO compare./VB and./CC plot./VB wind./NN observations./NNS from./IN multiple./JJ instruments./NNS ../. Different./JJ scan./JJ sequences./NNS and./CC scan./JJ settings./NNS that./WDT are./VBP most./RBS useful./JJ for./IN forecasters./NNS and./CC satellite./JJ validation./NN are./VBP to./TO be./VB determined./VBN ../. 
+
+
+Applicant./JJ Requirements./NNS 
+Must./RB be./VB enrolled./VBN as./IN a./DT full-time./JJ student./NN in./IN a./DT relevant./JJ field./NN (./( physics./NNS ,./, mathematics./NNS ,./, computer./NN science./NN ,./, engineering./NN )./) 
+Must./NNP have./VBP experience./NN writing./NN or./CC editing./VBG codes./NNS using./VBG Matlab./NNP and/or./NN Python./NNP 
+Must./NNP have./VBP experience./NN managing./VBG large./JJ datasets./NNS ,./, organizing./VBG data./NNS archives./NNS ,./, and./CC handling./VBG different./JJ data./NNS formats./NNS 
+Must./RB be./VB familiar./JJ with./IN performing./VBG quality./NN control./NN procedures./VBZ on./IN datasets./NNS 
+Must./RB be./VB capable./JJ of./IN working./VBG independently./RB as./RB well./RB as./IN part./NN of./IN a./DT team./NN 
+Computer./NNP programming./NN skills./NNS are./VBP considered./VBN an./DT asset./NN 
+Experience./NN analyzing./VBG instrument./NN data./NNS products./NNS preferred./VBD 
+
+
+Application./NN Procedure./NN 
+All./DT interested./JJ applicants./NNS should./MD submit./VB a./DT copy./NN of./IN their./PRP$ CV./NNP and./CC a./DT short./JJ cover./NN letter./NN 

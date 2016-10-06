@@ -1,0 +1,43 @@
+Must./NNP apply./VB on./IN company./NN site./NN or./CC your./PRP$ resume./NN can./MD not./RB be./VB viewed./VBN by./IN the./DT company./NN ../. 
+
+Gain./VB Experience./NN with./IN a./DT Global./JJ Leader./NNP -./: Manulife./NN 
+
+Manulife/John./NNP Hancock./NNP is./VBZ looking./VBG for./IN creative./JJ minds./NNS for./IN its./PRP$ growing./VBG Experience./NNP Office./NNP ../. The./DT Experience./NNP Office./NNP focuses./VBZ on./IN solving./VBG the./DT technological./JJ and./CC experiential./JJ needs./NNS of./IN our./PRP$ global./JJ businesses./NNS ,./, including./VBG Investments./NNS and./CC Group./NNP Functions./NNP ../. Our./PRP$ mission./NN is./VBZ to./TO create./VB solutions./NNS that./WDT provide./VBP value./NN to./TO our./PRP$ customers./NNS and./CC partners./NNS ,./, while./IN continuously./RB improving./VBG existing./VBG services./NNS and./CC solution./NN offerings./NNS ../. We./PRP are./VBP committed./VBN to./TO engage./VB top./JJ talent./NN ,./, provoke./VBD ideas./NNS ,./, and./CC foster./VB a./DT culture./NN of./IN innovation./NN that./IN encourages./VBZ an./DT entrepreneurial./JJ approach./NN to./TO deliver./VB world-class./JJ experiences./NNS ../. 
+
+Primary./JJ Purpose./NN :./: 
+-./: Work./NN on./IN high-visibility./NN products./NNS that./WDT directly./RB support./NN and./CC influence./NN the./DT future./NN of./IN the./DT organization./NN 
+-./: Understand./NN product./NN development./NN guided./VBN by./IN user./JJ experience./NN design./NN 
+-./: Explore./NN new./JJ technologies./NNS and./CC strengthen./VB technical./JJ skills./NNS 
+-./: Collaborate./NN with./IN contributors./NNS throughout./IN the./DT company./NN and./CC across./IN the./DT world./NN to./TO deliver./VB solutions./NNS leveraging./VBG DevOps./NNP and./CC agile./JJ principles./NNS 
+
+Job./JJ Duties./NNS :./: 
+-./: Prototype./NN and./CC deliver./VB solutions./NNS in./IN an./DT agile./JJ manner./NN 
+-./: Collaborate./NN on./IN the./DT design./NN of./IN new./JJ solutions./NNS 
+-./: Work./NN collaboratively./RB within./IN the./DT team./NN to./TO deliver./VB functionality./NN that./WDT exceeds./VBZ customer./NN expectations./NNS 
+-./: Additional./JJ duties./NNS to./TO be./VB considered./VBN as./IN skills./NNS are./VBP developed./VBN and./CC interest./NN is./VBZ expressed./VBN 
+
+Qualifications./NNS 
+The./DT skills./NNS and./CC qualifications./NNS you./PRP will./MD need./VB to./TO be./VB successful./JJ :./: 
+-./: Experience./NN with./IN Java./NNP ,./, JavaScript./NNP ,./, .NET./NNP ,./, HTML5./NNP ,./, CSS3./NNP ,./, Swift./NNP and/or./VBD similar./JJ technologies./NNS 
+-./: Analytical./JJ experience./NN in./IN articulating./VBG user./JJ feedback./NN and./CC defining./VBG new./JJ features./NNS 
+-./: Exposure./NN to./TO test-driven./JJ development./NN or./CC product./NN management./NN and./CC analysis./NN practices./NNS 
+-./: Experience./NN building./NN technology./NN solutions./NNS and./CC prototypes./NNS in./IN an./DT accelerated./JJ manner./NN 
+-./: Entrepreneurial./NN spirit./NN and./CC comfort./NN working./VBG in./IN a./DT fast-paced./JJ ,./, rapidly./RB changing./VBG environment./NN 
+-./: Strong./NN verbal./JJ and./CC written./VBN communication./NN skills./NNS 
+
+What./WP you./PRP will./MD learn./VB in./IN the./DT role./NN :./: 
+-./: Product./NN management/development./NN 
+-./: Stakeholder./NN engagement./NN 
+-./: Exploration./NN of./IN and./CC exposure./NN to./TO emerging./VBG technologies./NNS 
+-./: Foster./NN an./DT entrepreneurial./JJ spirit./NN within./IN an./DT innovative./JJ environment./NN 
+
+The./DT student./NN experience./NN we./PRP have./VBP to./TO offer./VB :./: 
+-./: Build./VB a./DT network./NN of./IN fellow./JJ students./NNS on./IN coop/internship./NN assignments./NNS 
+-./: Given./VBN the./DT opportunity./NN to./TO volunteer./VB and./CC give./VB back./RB to./TO the./DT community./NN 
+-./: Attend./NN events./NNS on./IN a./DT monthly./JJ basis./NN with./IN guest./JJS speakers./NNS from./IN various./JJ departments./NNS within./IN our./PRP$ organization./NN to./TO further./RBR develop./VB your./PRP$ skills./NNS as./IN a./DT professional./NN ../. 
+-./: Learn./NN about./IN our./PRP$ culture./NN and./CC core./NN values./NNS ../. 
+
+About./IN Manulife./NNP :./: 
+Manulife./NNP is./VBZ a./DT leading./VBG Canada-based./JJ financial./JJ services./NNS group./NN with./IN principal./JJ operations./NNS in./IN Asia./NNP ,./, Canada./NNP and./CC the./DT United./NNP States./NNPS ../. We./PRP operate./VBP as./IN John./NNP Hancock./NNP in./IN the./DT U.S../NNP and./CC as./IN Manulife./NNP in./IN other./JJ parts./NNS of./IN the./DT world./NN ../. We./PRP provide./VBP strong./JJ ,./, reliable./JJ ,./, trustworthy./JJ and./CC forward-thinking./JJ solutions./NNS for./IN our./PRP$ customers./NNS significant./JJ financial./JJ decisions./NNS ../. Our./PRP$ international./JJ network./NN of./IN employees./NNS ,./, agents./NNS and./CC distribution./NN partners./NNS offers./VBZ financial./JJ protection./NN and./CC wealth./NN management./NN products./NNS and./CC services./NNS to./TO millions./NNS of./IN clients./NNS ../. We./PRP also./RB provide./VBP asset./NN management./NN services./NNS to./TO institutional./JJ customers./NNS ../. Assets./NNPS under./IN management./NN by./IN Manulife./NNP and./CC its./PRP$ subsidiaries./NNS were./VBD approximately./RB C./NNP $./$ 821./CD billion./CD (./( US./NNP $./$ 648./CD billion./CD )./) as./IN at./IN March./NNP 31./CD ,./, 2015./CD ../. 
+
+Manulife./NNP Financial./NNP Corporation./NNP trades./VBZ as./IN 'MFC./NNP './POS on./IN the./DT TSX./NNP ,./, NYSE./NNP and./CC PSE./NNP ,./, and./CC under./IN '945./NNP './POS on./IN the./DT SEHK./NNP ../. Manulife./NNP can./MD be./VB found./VBN on./IN the./DT Internet./NNP at./IN manulife.com./NN 

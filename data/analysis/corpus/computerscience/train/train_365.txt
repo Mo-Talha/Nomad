@@ -1,0 +1,27 @@
+Software./NNP Engineering./NNP -./: (./( CO-Op./NNP )./) 
+
+
+American./NNP Express./NNP is./VBZ embarking./VBG on./IN an./DT exciting./JJ transformation./NN driven./VBN by./IN an./DT energetic./JJ new./JJ team./NN of./IN high-performers./NNS ../. This./DT group./NN is./VBZ nimble./JJ and./CC creative./JJ with./IN the./DT power./NN to./TO shape./VB our./PRP$ technology./NN and./CC product./NN roadmap./NN ../. If./IN you./PRP have./VBP the./DT talent./NN and./CC desire./NN to./TO deliver./VB innovative./JJ payment./NN products./NNS and./CC services./NNS at./IN a./DT rapid./JJ pace./NN ,./, serving./VBG our./PRP$ customers./NNS seamlessly./RB across./IN physical./JJ ,./, digital./JJ ,./, mobile./JJ ,./, and./CC social./JJ media./NNS ,./, join./VB our./PRP$ transformation./NN team./NN !./. 
+
+
+Role./NNP Purpose./NNP 
+-./: You./PRP will./MD join./VB a./DT fast-paced./JJ software./NN delivery./NN team./NN and./CC work./NN together./RB with./IN them./PRP to./TO build./VB incredible./JJ things./NNS on./IN the./DT Salesforce.com./NNP platform./NN ../. 
+-./: You./PRP 'll./MD have./VB a./DT direct./JJ impact./NN on./IN applications./NNS that./IN we./PRP roll./VBP out./RP to./TO our./PRP$ global./JJ user./NN base./NN ../. 
+-./: Your./PRP$ responsibilities./NNS will./MD include./VB software./NN delivery./NN ,./, user./JJ story./NN preparation./NN ,./, and./CC participation./NN in./IN discussions./NNS with./IN end./NN users./NNS to./TO understand./VB their./PRP$ requirements./NNS ../. 
+-./: Take./NN advantage./NN of./IN mentorship./NN ,./, pair./NN programming./NN ,./, flexible./JJ work./NN environment./NN ,./, and./CC interesting./JJ and./CC challenging./VBG assignments./NNS to./TO further./VB your./PRP$ development./NN 
+
+
+Qualifications./NNS (./( Must./NNP Have./NNP )./) 
+-./: An./DT unrivaled./JJ desire./NN to./TO learn./VB is./VBZ critical./JJ for./IN success./NN in./IN this./DT role./NN ../. You./PRP 'll./MD need./VB to./TO pick./VB up./RP a./DT new./JJ platform./NN and./CC programming./NN language./NN (./( Salesforce.com./NNP )./) over./IN the./DT course./NN of./IN your./PRP$ co-op./NN 
+-./: Must./NN be./VB currently./RB enrolled./VBN in./IN a./DT STEM./NNP degree./NN that./WDT supports./VBZ their./PRP$ desire./NN to./TO build./VB software./NN as./IN a./DT career./NN 
+-./: Must./NN have./VB some./DT experience./NN (./( work./NN or./CC academic./JJ )./) developing./VBG software./NN in./IN any./DT language./NN 
+-./: Strong./NN quantitative./JJ and./CC analytical./JJ skills./NNS ../. 
+-./: Excellent./NN written./VBN and./CC oral./JJ communication./NN skills./NNS 
+
+
+Qualifications./NNS (./( Nice./NNP to./TO Have./VB )./) 
+-./: Theoretical./NN or./CC working./VBG knowledge./NN of./IN Public./NNP Cloud./NNP computing./VBG 
+-./: Familiarity./NN with./IN Scrum./NNP software./NN development./NN or./CC other./JJ agile./JJ methodology./NN 
+-./: Experience./NN with./IN Extract-Transform-Load./NNP (./( ETL./NNP )./) platforms./NNS ,./, web./JJ service./NN integrations./NNS ,./, or./CC Service./NNP Oriented./NNP Architectures./NNP (./( SOA./NNP )./) 
+-./: Familiarity./NN with./IN Eclipse./NNP Integrated./NNP Development./NNP Environment./NNP (./( IDE./NNP )./) 
+../. 

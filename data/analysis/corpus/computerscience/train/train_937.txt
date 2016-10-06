@@ -1,0 +1,45 @@
+Summary./JJ 
+The./DT job./NN :./: Team./NN and./CC projects./NNS 
+
+We./PRP are./VBP a./DT unique./JJ team./NN comprised./VBD of./IN analysts./NNS and./CC developers./NNS ../. Our./PRP$ team./NN 's./POS InfoBase./NNP application./NN (./( https./JJ :./: //www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html./JJ )./) is./VBZ getting./VBG increased./VBN attention./NN and./CC development./NN ../. 
+
+The./DT InfoBase./NNP allows./VBZ Canadians./NNPS and./CC public./JJ servants./NNS to./TO visualize./VB government./NN spending./NN ../. It./PRP 's./VBZ a./DT single-page-web-app./JJ with./IN over./IN 40./CD thousand./JJ lines./NNS of./IN code./NN (./( and./CC growing./VBG )./) ../. 
+
+As./IN a./DT coop./NN student./NN ,./, this./DT project./NN marks./VBZ the./DT sweet./JJ spot./NN for./IN you./PRP :./: It./PRP 's./VBZ large./JJ enough./RB to./TO challenge./VB you./PRP and./CC expose./VB you./PRP to./TO a./DT large./JJ project./NN ,./, yet./RB small./JJ enough./RB for./IN you./PRP to./TO easily./RB contribute./VB meaningful./JJ work./NN in./IN a./DT 4./CD month./NN work./NN term./NN ../. There./EX are./VBP also./RB other./JJ projects./NNS available./JJ :./: We./PRP 're./VBP dipping./VBG our./PRP$ toes./NNS in./IN modern./JJ data./NNS work./NN and./CC presentation./NN with./IN Python./NNP ,./, Latex./NNP ,./, and./CC other./JJ exciting./VBG technologies./NNS ,./, and./CC there./EX 's./VBZ big./JJ opportunities./NNS for./IN you./PRP to./TO bring./VB in./IN new./JJ ideas./NNS ../. We./PRP 've./VBP had./VBD coop./NN students./NNS build./VBP small./JJ tools./NNS that./WDT outperform./VBP million./CD dollar./NN corporate./JJ IT./NNP solutions./VBZ !./. 
+
+Whether./IN you./PRP like./VBP to./TO take./VB an./DT idea./NN and./CC run./VB with./IN it./PRP ,./, or./CC pick./VB a./DT project./NN from./IN our./PRP$ list./NN of./IN TODO./NNP 's./POS ,./, there./EX is./VBZ a./DT lot./NN of./IN room./NN for./IN self-direction./NN ../. While./IN we./PRP 're./VBP busy./JJ maintaining./VBG and./CC updating./VBG our./PRP$ projects./NNS ,./, we./PRP 're./VBP asking./VBG you./PRP to./TO do./VB the./DT fun./NN part./NN :./: build./VB new./JJ stuff./NN !./. Below./NNP are./VBP a./DT few./JJ exploration./NN projects./NNS we./PRP have./VBP in./IN mind./NN :./: 
+-./: Adding./VBG new./JJ visualizations./NNS to./TO add./VB to./TO our./PRP$ charts./NNS collection./NN 
+-./: Improving./VBG our./PRP$ app./NN 's./POS look./NN and./CC feel./NN ,./, including./VBG mobile./JJ experience./NN ../. Maybe./RB you./PRP can./MD even./RB build./VB a./DT mobile./JJ app./NN !./. 
+-./: Improving./VBG various./JJ processes./NNS (./( e.g./NN ../. testing./NN ,./, CI./NNP ,./, compilation./NN or./CC other./JJ task./NN automation./NN )./) 
+-./: Improving./VBG our./PRP$ static./JJ site./NN generator/web-scraper./NN 
+-./: Building./NN an./DT analytics./NNS layer./NN to./TO our./PRP$ application./NN to./TO see./VB what./WP features./VBZ users./NNS use./VBP 
+-./: Improving./VBG our./PRP$ app./NN 's./POS rendering./NN process./NN (./( e.g./NN ../. converting./VBG charts./NNS to./TO react.js./VB components./NNS )./) 
+
+Who./WP do./VBP we./PRP want./VB ?./. 
+Above./IN all./DT ,./, we./PRP 're./VBP looking./VBG for./IN someone./NN who./WP can./MD learn./VB and./CC work./VB on./IN their./PRP$ own./JJ ,./, even./RB if./IN you./PRP 'll./MD be./VB working./VBG closely./RB with./IN others./NNS ../. With./IN that./DT in./IN mind./NN ,./, here./RB are./VBP some./DT skills./NNS that./IN you./PRP 'll./MD exercise./VB ../. 
+
+Familiarity./NN with./IN some./DT of./IN these./DT concepts./NNS is./VBZ necessary./JJ ../. 
+-./: HTML/CSS./NN and./CC JavaScript./NNP (./( DOM./NNP manipulation./NN ,./, d3./JJ visualizations./NNS ,./, async./IN programming./VBG )./) ../. 
+-./: Familiarity./NN with./IN unix-like./JJ systems./NNS and./CC the./DT command./NN line./NN (./( we./PRP use./VBP macs./JJ !./. )./) 
+-./: Experience./NN with./IN development./NN tools./NNS (./( npm./RB ,./, git./NN ,./, browser./NN debuggers./NNS )./) 
+-./: Attention./NN to./TO detail./VB and./CC developing./VBG user./JJ interfaces./NNS 
+-./: Understanding./NN of./IN object-oriented./JJ and./CC functional./JJ programming./NN 
+-./: Knowing./VBG how./WRB to./TO work./VB with./IN developers./NNS and./CC non-developers./NNS 
+-./: Knowledge./NN transfer./NN :./: Learning./VBG about./IN our./PRP$ code./NN and./CC teaching./VBG us./PRP about./IN yours./NNS 
+
+In./IN addition./NN to./TO offering./VBG an./DT opportunity./NN to./TO grow./VB your./PRP$ skills./NNS and./CC to./TO contribute./VB to./TO a./DT public./JJ website./NN ,./, we./PRP also./RB offer./VBP a./DT bilingual./JJ environment./NN and./CC a./DT competitive./JJ salary./NN ../. Note./NN that./IN any./DT successful./JJ candidate./NN will./MD be./VB screened./VBN for./IN reliability./NN security./NN clearance./NN as./IN a./DT condition./NN of./IN employment./NN ../. 
+
+Note./NN :./: job./NN date./NN not./RB finalized./VBN (./( obviously./RB we./PRP do./VBP n't./RB expect./VB you./PRP on./IN new./JJ year./NN 's./POS day./NN )./) but./CC you./PRP can./MD expect./VB to./TO start./VB in./IN early./JJ January./NNP ,./, we./PRP can./MD discuss./VB specifics./NNS once./RB you./PRP have./VBP the./DT job./NN offer./NN ../. 
+
+Responsibilities./NNS 
+Learning./VBG our./PRP$ stack/tools./NNS ,./, contributing./VBG to./TO (./( or./CC starting./VBG )./) a./DT project./NN ,./, teaching./VBG us./PRP how./WRB it./PRP works./VBZ before./IN you./PRP leave./VBP ../. 
+
+Required./VBN Skills./NNS 
+Familiarity./NN or./CC experience./NN with./IN the./DT following./VBG 
+-./: HTML/CSS./NN and./CC JavaScript./NNP (./( DOM./NNP manipulation./NN ,./, d3./JJ visualizations./NNS ,./, async./IN programming./VBG )./) ../. 
+-./: Familiarity./NN with./IN unix-like./JJ systems./NNS and./CC the./DT command./NN line./NN (./( we./PRP use./VBP macs./JJ !./. )./) 
+-./: Experience./NN with./IN development./NN tools./NNS (./( npm./RB ,./, git./NN ,./, browser./NN debuggers./NNS )./) 
+-./: Attention./NN to./TO detail./VB and./CC developing./VBG user./JJ interfaces./NNS 
+-./: Understanding./NN of./IN object-oriented./JJ and./CC functional./JJ programming./NN 
+-./: Knowing./VBG how./WRB to./TO work./VB with./IN developers./NNS and./CC non-developers./NNS 
+-./: Knowledge./NN transfer./NN :./: Learning./VBG about./IN our./PRP$ code./NN and./CC teaching./VBG us./PRP about./IN yours./NNS 

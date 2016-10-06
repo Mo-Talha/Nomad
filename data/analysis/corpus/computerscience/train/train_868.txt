@@ -1,0 +1,55 @@
+Why./WRB Polar./NNP ?./. 
+At./IN Polar./NNP ,./, we./PRP believe./VBP in./IN high./JJ quality./NN ,./, scalable./JJ and./CC beautiful./JJ software./NN ../. Great./NNP software./NN is./VBZ an./DT essential./JJ part./NN of./IN great./JJ media./NNS experiences./NNS and./CC great./JJ media./NNS businesses./NNS ../. 
+
+Polar./NNP 's./POS MediaVoice./NNP Platform./NNP enables./VBZ publishers./NNS to./TO build./VB a./DT scalable./JJ native./JJ advertising./NN business./NN that./WDT leverages./VBZ existing./VBG infrastructure./NN ,./, tools./NNS ,./, workflows./NNS ,./, and./CC processes./NNS ../. The./DT world./NN 's./POS largest./JJS publishers./NNS choose./VBP MediaVoice./NNP to./TO power./NN their./PRP$ native./JJ ads./NNS programs./NNS ../. Our./PRP$ customers./NNS include./VBP Forbes./NNP ,./, The./DT Washington./NNP Post./NNP ,./, Associated./NNP Press./NNP ,./, Conde./NNP Nast./NNP ,./, Hearst./NNP ,./, Martha./NNP Stewart./NNP ,./, News./NNP Corp./NNP ,./, Slate./NNP ,./, The./DT Huffington./NNP Post./NNP ,./, The./DT Economist./NNP ,./, The./DT Globe./NNP and./CC Mail./NNP ,./, The./DT Toronto./NNP Star./NNP ,./, The./DT Telegraph./NNP and./CC Major./NNP League./NNP Baseball./NNP 
+
+We./PRP 're./VBP an./DT agile./NN ,./, engineering./NN lead./JJ company./NN ../. We./PRP house./NN a./DT fun./NN ,./, dynamic./JJ ,./, and./CC innovative./JJ team./NN who./WP have./VBP gained./VBN a./DT well-deserved./JJ reputation./NN for./IN shipping./NN products./NNS ,./, features./NNS ,./, and./CC updates./NNS on./IN time./NN and./CC beyond./IN expectation./NN ../. 
+
+#./# LifeAtPolar./JJ 
+Our./PRP$ bright./NN ,./, big./JJ ,./, loft-style./JJ downtown./NN Toronto./NNP office./NN (./( a./DT block./NN from./IN Union./NNP Station./NNP )./) boasts./VBZ great./JJ natural./JJ light./NN and./CC views./NNS of./IN the./DT city./NN ,./, free./JJ snacks./NNS and./CC drinks./NNS ,./, a./DT kitchen./NN stocked./VBN with./IN breakfast./NN essentials./NNS ,./, and./CC an./DT espresso./JJ machine./NN to./TO help./VB wake./VB you./PRP up./RP in./IN the./DT morning./NN ../. To./TO help./VB you./PRP unwind./IN we./PRP 've./VBP got./VBN couches./NNS ,./, a./DT pool./NN table./NN ,./, a./DT ping-pong./JJ room./NN ,./, and./CC ample./JJ choice./NN in./IN seating./VBG arrangements./NNS ../. 
+
+Co-op./JJ Life./NNP At./IN Polar./NNP :./: 
+Co-op./JJ placements./NNS at./IN Polar./NNP are./VBP different./JJ ../. You./PRP don./VBP './'' do./VBP busy./JJ work./NN ,./, you./PRP do./VBP n't./RB grab./VB coffee./NN ;./: you./PRP learn./VBP ,./, you./PRP write./VBP code./NNS ,./, and./CC that./IN code./NN is./VBZ used./VBN :./: Your./PRP$ activity./NN actually./RB goes./VBZ into./IN production./NN ../. You./PRP are./VBP assigned./VBN a./DT peer/mentor./NN and./CC can./MD come./VB to./TO them./PRP with./IN any./DT questions./NNS you./PRP may./MD have./VB ../. 
+
+Read./VB more./RBR about./IN what./WP some./DT of./IN our./PRP$ previous./JJ Co-op./JJ students./NNS said./VBD about./IN working./VBG at./IN Polar./NNP :./: http./NN :./: //polar.me/blog/2014/11/every-co-op-should-consider-polar./JJ 
+
+About./IN The./DT Role./NNP 
+We./PRP are./VBP looking./VBG for./IN a./DT Co-op./NNP Engineer./NNP /./NNP Software./NNP Developer./NNP to./TO join./VB our./PRP$ Core./NNP Engineering./NNP team./NN ../. Our./PRP$ Core./NNP Engineering./NNP team./NN builds./VBZ the./DT end-to-end./JJ platform./NN components./NNS of./IN our./PRP$ MediaVoice./NNP product./NN -./: from./IN client-side./JJ JavaScript./NNP (./( CoffeeScript./NNP )./) ,./, to./TO a./DT Django./NNP web./NN app./NN management./NN portal./NN ,./, to./TO backend./VB data./NNS processing./VBG systems./NNS ,./, databases./VBZ &./CC REST./NNP APIs./NNP ../. 
+
+Responsibilities./NNS 
+This./DT role./NN will./MD see./VB you./PRP :./: 
+-Work./NN on./IN real./JJ software./NN that./WDT ships./VBZ multiple./JJ times./NNS per./IN week./NN 
+-Write./RB high./JJ quality./NN software./NN with./IN unit./NN tests./NNS across./IN multiple./JJ code./NN bases./NNS and./CC languages./NNS 
+-Independently./RB design./NN and./CC architect./NN features./NNS with./IN performance./NN and./CC memory./NN in./IN mind./NN 
+-Track./VB down./RP and./CC solve./VB bugs./NNS anywhere./RB and./CC everywhere./RB 
+
+Required./VBN Skills./NNS 
+Skills./NNP you./PRP 'll./MD use./VB and./CC improve./VB :./: 
+-Best./JJS practices./NNS of./IN software./NN development./NN 
+-Joint./NN code./NN ownership./NN &./CC peer./NN code./NN review./NN 
+-Continuous./JJ integration./NN and./CC lean/agile./NN practices./NNS 
+
+It./PRP 's./VBZ a./DT bonus./NN (./( but./CC not./RB a./DT requirement./NN )./) if./IN you./PRP 're./VBP already./RB familiar./JJ with./IN some./DT of./IN the./DT technologies./NNS and/or./VBP tools./IN we./PRP use./VBP every./DT day./NN :./: 
+-Python./NN and./CC Django./NNP 
+-JavaScript./NN ,./, CoffeeScript./NNP ,./, Gears./NNP ,./, Grunt./NNP 
+-MySQL./NN ,./, Redis./NNP ,./, Thrift./NNP ,./, Resque./NNP ,./, Greenlets./NNP ,./, Tornado./NNP ,./, Beanstalk./NNP ,./, Celery./NNP 
+-GitHub./NN ,./, Jira./NNP ,./, Jenkins./NNP ,./, Chef./NNP &./CC Knife./NNP ,./, Vagrant./NNP ,./, VMWare./NNP ,./, VirtualBox./NNP 
+
+We./PRP 're./VBP looking./VBG for./IN a./DT proficient./NN software./NN developer./IN -./: years./NNS of./IN experience./NN and./CC exposure./NN to./TO particular./VB frameworks./NNS or./CC languages./NNS are./VBP less./RBR important./JJ than./IN skill./NN ,./, virtue./NN ,./, a./DT strong./JJ desire./NN to./TO learn./VB &./CC improve./VB ,./, and./CC an./DT inclination./NN towards./IN our./PRP$ problem./NN domain./NN ../. It./PRP does./VBZ n't./RB matter./VB what./WP programming./VBG language./NN you./PRP 're./VBP already./RB familiar./JJ with./IN -./: we./PRP need./VBP developers./NNS with./IN strong./JJ foundations./NNS ../. 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+Polar./NNP 's./POS people./NNS work./VBP hard./RB ,./, so./IN we./PRP make./VBP sure./JJ you./PRP have./VBP everything./NN you./PRP need./VBP to./TO succeed./VB ../. 
+
+Here./RB are./VBP all./PDT the./DT perks./NNS of./IN the./DT job./NN at./IN Polar./NNP ../. 
+
+1./CD ../. Catered./VBN Lunches./NNP on./IN Monday./NNP 's./POS 
+2./CD ../. 7x24./CD healthy./JJ snacks./NNS 
+3./LS ../. Breakfast./NN essentials./NNS every./DT day./NN 
+3./LS ../. Unwind./IN with./IN our./PRP$ weekly./JJ Thursday./NNP yoga./NN class./NN 
+4./CD ../. Popcorn./VBN social./JJ on./IN Friday./NNP 's./POS 
+5./CD ../. Ping./VBG Pong./NNP and./CC Pool./NNP 
+6./CD ../. Casual./JJ dress./NN code./NN 
+7./CD ../. Hack./NNP Days./NNPS 
+8./CD ../. Flex./CD Hours./NNP 
+9./CD ../. Company./NN Socials./NNS 
+10./CD ../. Bright./NNP ,./, open./JJ office./NN space./NN 

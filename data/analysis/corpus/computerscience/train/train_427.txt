@@ -1,0 +1,43 @@
+C./NNP #./# -Java-Groovy./NNP Developer./NNP 
+Global./JJ Business./NNP Technology./NNP 
+Equity./NN Linked./NNP Technology./NNP -./: S1./NNP Team./NN 
+Toronto./NNP ,./, ON./NNP 
+
+Bank./NNP of./IN America./NNP is./VBZ one./CD of./IN the./DT world./NN 's./POS largest./JJS financial./JJ institutions./NNS ,./, serving./VBG individual./JJ consumers./NNS ,./, small./JJ and./CC middle./JJ market./NN businesses./NNS and./CC large./JJ corporations./NNS with./IN a./DT full./JJ range./NN of./IN banking./NN ,./, investing./VBG ,./, asset./NN management./NN and./CC other./JJ financial./JJ and./CC risk-management./JJ products./NNS and./CC services./NNS ../. Following./VBG the./DT acquisition./NN of./IN Merrill./NNP Lynch./NNP on./IN January./NNP 1./CD ,./, 2009./CD ,./, Bank./NNP of./IN America./NNP is./VBZ among./IN the./DT world./NN 's./POS leading./JJ wealth./NN management./NN companies./NNS and./CC is./VBZ a./DT global./JJ leader./NN in./IN corporate./JJ and./CC investment./NN banking./NN and./CC trading./NN across./IN a./DT broad./JJ range./NN of./IN asset./NN classes./NNS serving./VBG corporations./NNS ,./, governments./NNS ,./, institutions./NNS and./CC individuals./NNS around./IN the./DT world./NN ../. In./IN Canada./NNP ,./, Bank./NNP of./IN America./NNP has./VBZ a./DT strong./JJ market./NN position./NN on./IN which./WDT to./TO continue./VB to./TO build./VB ,./, as./RB well./RB as./IN a./DT clear./JJ commitment./NN to./TO the./DT market./NN ../. 
+
+Equity./NN Linked./NNP Technology./NNP -./: S1./NNP Team./NN 
+The./DT S1./NNP application./NN is./VBZ a./DT global./JJ equity./NN swap./NN management./NN tool./NN ../. Features./NNS include./VBP Trade./NNP Capture./NNP and./CC Amendments./NNP ,./, Corporate./NNP Action./NNP and./CC Trade./NNP Event./NNP Lifecycle./NNP Management./NNP ,./, Posting./NNP of./IN Cash./NNP Dividends./NNP and./CC Adjustments./NNP ,./, Stock./NNP Loan./NNP Desk./NNP Integration./NNP ,./, Pricing./NNP ,./, PnL./NNP ,./, Client./NNP Position./NNP and./CC Trade./NNP Reporting./NNP ,./, Trade./NNP Grouping./NNP and./CC Pair-Off./NNP Processing./NNP Support./NNP for./IN Client./NNP Strategies./NNPS ../. There./EX is./VBZ also./RB support./NN for./IN Give./NNP Ups./NNP ,./, High./NNP Touch./NNP and./CC Direct./NNP Market./NNP Access./NNP (./( DMA./NNP )./) trade./NN capture./NN flows./VBZ ../. 
+
+Job./NNP Description./NNP 
+The./DT role./NN will./MD give./VB the./DT prospective./JJ hire./NN an./DT opportunity./NN to./TO be./VB exposed./VBN to./TO a./DT front./JJ office./NN trading./NN environment./NN and./CC experience./VB how./WRB trading./NN technology./NN works./VBZ on./IN the./DT front./NN lines./NNS ../. The./DT S1./NNP team./NN operates./VBZ with./IN an./DT Agile/Scrum./NNP methodology./NN and./CC students./NNS will./MD become./VB integrated./VBN in./IN the./DT day-to-day./JJ development./NN life./NN cycle./NN ../. Students./NNS will./MD be./VB given./VBN the./DT opportunity./NN to./TO occupy./VB new./JJ roles./NNS on./IN the./DT team./NN and./CC develop./VB their./PRP$ abilities./NNS ../. 
+
+The./DT prospective./JJ candidate./NN will./MD have./VB the./DT chance./NN to./TO work./VB on./IN a./DT C./NNP #./# UI./NNP and./CC Java./NNP server./RB ../. Co-ops./NNS on./IN the./DT S1./NNP team./NN are./VBP always./RB treated./VBN as./IN full./JJ team./NN members./NNS and./CC are./VBP always./RB encouraged./VBN to./TO prove./VB themselves./PRP as./IN professional./JJ developers./NNS ../. 
+
+
+Responsibilities./NNS :./: 
+
+-./: Learn./NN and./CC understand./VB the./DT business./NN elements./NNS involved./VBN in./IN our./PRP$ application./NN and./CC apply./VB this./DT knowledge./NN to./TO create./VB smart./JJ and./CC complete./JJ design./NN solutions./NNS ../. 
+-./: Analyze./NN each./DT development./NN task./NN and./CC provide./VB design./NN ,./, unit/integration./NN testing./NN ,./, and./CC implementation./NN of./IN solution./NN ../. 
+-./: Implement./NN ,./, monitor./NN ,./, and./CC suggest./VBP ways./NNS to./TO enhance./VB our./PRP$ continuous./JJ integration./NN process./NN ../. 
+-./: Produce./NN documentation./NN of./IN functionality./NN to./TO gain./VB a./DT deeper./JJR understanding./NN of./IN our./PRP$ technology./NN and./CC our./PRP$ business./NN ../. 
+
+
+
+Requirements./NNS :./: 
+
+-./: Solid./JJ experience./NN with./IN writing./VBG code./NN in./IN a./DT modern./JJ language./NN such./JJ as./IN Java./NNP ,./, C./NNP #./# ,./, Javascript./NNP 
+-./: Ability./NN to./TO learn./VB and./CC work./VB productively./RB within./IN an./DT established./VBN code./NN base./NN and./CC analyze./NN existing./VBG code./NN ../. 
+-./: Willingness./NN to./TO learn./VB new./JJ technologies./NNS (./( C./NNP #./# ,./, Gherkin./NNP ,./, Groovy./NNP ,./, Angular./NNP ,./, Javascript./NNP ,./, etc./NN )./) ../. 
+-./: An./DT interest./NN in./IN writing./VBG integration./NN tests./NNS ,./, unit./NN tests./NNS ,./, and./CC maintaining./VBG a./DT clean./JJ code./NN base./NN ../. 
+-./: Excellent./NN communication./NN skills./NNS and./CC ability./NN to./TO work./VB effectively./RB as./IN part./NN of./IN a./DT team./NN 
+
+
+
+Working./VBG Environment./NN 
+We./PRP offer./VBP a./DT modern./JJ development./NN environment./NN located./VBN centrally./RB in./IN downtown./NN Toronto./NNP at./IN the./DT Eaton./NNP Center./NNP ,./, easily./RB accessible./JJ using./VBG Subway./NNP and/or./NN GO./NNP Train./NNP ../. We./PRP are./VBP an./DT exciting./JJ company./NN ,./, in./IN which./WDT creative./JJ and./CC ambitious./JJ individuals./NNS thrive./VBP in./IN a./DT corporate./JJ business./NN environment./NN ../. We./PRP are./VBP looking./VBG for./IN bright./NN ,./, creative./JJ ,./, motivated./JJ individuals./NNS who./WP are./VBP capable./JJ of./IN working./VBG under./IN minimal./JJ supervision./NN ,./, and./CC someone./NN who./WP is./VBZ excited./VBN about./IN technology./NN ,./, and./CC technology./NN 's./POS ability./NN to./TO impact./VB a./DT dynamic./JJ business./NN environment./NN ../. 
+
+Future./NN Opportunities./NNS 
+Successful./JJ co-op./JJ students./NNS may./MD be./VB considered./VBN for./IN future./JJ co-op./JJ opportunities./NNS ,./, as./RB well./RB as./IN full./JJ time./NN employment./NN into./IN our./PRP$ Technology./NNP Developer./NNP and./CC Analyst./NNP Program./NNP upon./IN graduation./NN ../. To./TO read./VB more./RBR about./IN our./PRP$ program./NN ,./, please./VB visit./NN www.bankofamerica.com/campusrecruiting./NN ../. 
+
+Bank./NNP of./IN America./NNP Merrill./NNP Lynch./NNP is./VBZ an./DT Equal./JJ Opportunity./NNP Employer./NNP ../. 
+Bank./NNP of./IN America./NNP Merrill./NNP Lynch./NNP encourages./VBZ applications./NNS from./IN all./DT qualified./JJ individuals./NNS ../. Applicants./NNS with./IN disabilities./NNS may./MD notify./VB us./PRP of./IN any./DT accommodations./NNS needed./VBN to./TO support./VB your./PRP$ participation./NN in./IN the./DT recruitment./NN process./NN ../. We./PRP wish./VBP to./TO thank./VB all./DT applicants./NNS for./IN their./PRP$ interest./NN and./CC effort./NN in./IN applying./VBG ../. Please./NNP be./VB aware./JJ that./IN only./RB candidates./NNS selected./VBN for./IN interviews./NNS will./MD be./VB contacted./VBN for./IN this./DT position./NN ../. 

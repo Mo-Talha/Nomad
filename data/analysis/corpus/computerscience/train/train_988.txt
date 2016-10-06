@@ -1,0 +1,36 @@
+Dates./NNS :./: January./NNP 4./CD to./TO April./NNP 21./CD ,./, 2017./CD 
+
+Duties./NNS 
+Statistics./NNPS Canada./NNP requires./VBZ a./DT student./NN to./TO assist./VB a./DT statistician-mathematician./JJ responsible./JJ for./IN survey./NN methodology./NN and/or./RB related./VBN research./NN ../. 
+
+The./DT student./NN will./MD work./VB in./IN one./CD or./CC more./JJR of./IN the./DT following./JJ areas./NNS :./: survey./NN frame./NN creation./NN and./CC maintenance./NN ,./, sample./JJ design./NN ,./, questionnaire./NN design./NN ,./, data./NNS collection./NN ,./, edit./NN and./CC imputation./NN of./IN data./NNS ,./, treatment./NN of./IN non-response./JJ ,./, estimation./NN of./IN parameters./NNS of./IN interest./NN and./CC their./PRP$ variance./NN ,./, data./NN analysis./NN ,./, measurement./NN of./IN non-sampling./JJ errors./NNS ,./, protection./NN of./IN confidentiality./NN ,./, quality./NN control/assurance./NN ,./, record./NN linkage./NN or./CC survey./NN evaluation./NN ../. 
+
+The./DT student./NN may./MD also./RB participate./VB in./IN research./NN projects./NNS that./WDT include./VBP theoretical./JJ studies./NNS and./CC empirical./JJ simulations./NNS on./IN different./JJ topics./NNS such./JJ as./IN multiple./JJ frames./NNS ,./, generalized./VBN survey./NN methods./NNS and./CC systems./NNS ,./, estimation./NN methods./NNS ,./, data./NNS analysis./NN and./CC time./NN series./NN ../. 
+
+Length./NN of./IN work./NN term./NN 
+All./DT work./NN terms./NNS are./VBP 4-months./JJ in./IN length./NN ../. 
+Extensions./NNS are./VBP rarely./RB offered./VBN when./WRB it./PRP is./VBZ the./DT student./NN 's./POS first./JJ work./NN term./NN in./IN the./DT Methodology./NNP Branch./NNP of./IN Statistics./NNPS Canada./NNP ../. 
+
+Screening./VBG Criteria./NNS 
+-./: Enrolled./VBN in./IN an./DT approved./JJ co-op./NN or./CC internship./JJ program./NN of./IN a./DT Canadian./JJ university./NN 
+-./: Enrolled./VBN in./IN a./DT statistics./NNS ,./, mathematics./NNS or./CC actuarial./JJ science./NN program./NN and./CC have./VBP completed./VBN a./DT minimum./NN of./IN TWO./NNP university-level./JJ statistics./NNS courses./NNS 
+OR./CC 
+Enrolled./VBN in./IN an./DT health./NN science./NN ,./, economic./JJ or./CC computer./NN science./NN program./NN and./CC have./VBP completed./VBN a./DT minimum./NN of./IN THREE./NNP university-level./JJ statistics./NNS courses./NNS 
+-./: Knowledge./NN and./CC experience./NN with./IN at./IN least./JJS one./CD programming./NN language./NN or./CC statistical./JJ analysis./NN software./NN 
+-./: Fluent./NN in./IN English./NNP OR./NNP French./JJ 
+-./: Have./VBP Canadian./JJ citizenship./NN 
+
+Other./JJ Information./NN 
+-./: Permanent./NN residents./NNS and./CC international./JJ students./NNS are./VBP not./RB considered./VBN before./IN the./DT second./JJ round./NN ../. 
+
+Students./NNS are./VBP required./VBN to./TO work./VB 37.5./CD hours./NNS per./IN week./NN ../. Overtime./NNP is./VBZ not./RB a./DT normal./JJ requirement./NN ../. 
+
+Student./NN rates./NNS of./IN pay./NN 
+University./NNP Undergraduate./NNP 
+2nd./CD $./$ 17.92./CD 
+3rd./CD $./$ 19.14./CD 
+4th./CD $./$ 20.51./CD 
+Masters./NNS $./$ 22.54./CD 
+Doctorate./NNP $./$ 24.59./CD 
+
+Rates./NNS of./IN pay./NN for./IN students./NNS must./MD be./VB established./VBN in./IN accordance./NN with./IN the./DT Treasury./NNP Board./NNP Secretariat./NNP Terms./NNS and./CC Conditions./NNS of./IN Employment./NNP for./IN Students./NNPS ../. They./PRP are./VBP determined./VBN at./IN the./DT initial./JJ appointment./NN or./CC reappointment./NN stage./NN and./CC are./VBP based./VBN on./IN the./DT student./NN 's./POS current./JJ academic./JJ level./NN ../. 

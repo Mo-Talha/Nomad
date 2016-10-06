@@ -1,0 +1,35 @@
+BKS./NNP -./: Technical./JJ QA./NN 
+
+CGI./NNP is./VBZ embarking./VBG on./IN the./DT next./JJ generation./NN wealth./NN management./NN solution./NN with./IN the./DT ability./NN to./TO manage./VB various./JJ products./NNS ,./, services./NNS and./CC business./NN lines./NNS ../. 
+
+The./DT ideal./JJ candidate./NN will./MD bring./VB a./DT positive./JJ attitude./NN ,./, willingness./NN to./TO learn./VB ,./, good./JJ communications./NNS and./CC team./NN skills./NNS ,./, and./CC the./DT ability./NN to./TO put./VB their./PRP$ knowledge./NN to./TO work./VB in./IN project-oriented./JJ business./NN analysis./NN activities./NNS ../. 
+
+Looking./VBG for./IN a./DT 3rd./CD year./NN or./CC 4th./CD year./NN Computer./NNP Science/Computer./NNP Engineer./NNP or./CC related./VBN co-op./NN who./WP is./VBZ looking./VBG for./IN a./DT career./NN in./IN Quality./NNP Assurance./NNP 
+
+Responsibilities./NNS 
+-./: Learn./NN automated./VBD testing./VBG tools./NNS to./TO create./VB and./CC execute./VB test./NN scripts./NNS based./VBN on./IN requirements./NNS 
+-./: Participate./NN in./IN test./NN case./NN and./CC test./NN data./NNS creation./NN 
+-./: Ability./NN to./TO trace./VB the./DT requirements./NNS to./TO use./VB cases./NNS and./CC test./NN cases./NNS ../. 
+-./: Collaboration./NN with./IN solution./NN architects./NNS ,./, developers./NNS ,./, business./NN analysts./NNS and./CC subject./JJ matter./NN experts./NNS to./TO establish./VB the./DT technical./JJ vision./NN and./CC get./VB a./DT bigger./JJR picture./NN from./IN end-user./JJ perspective./NN ../. 
+-./: Effective./JJ usage./NN of./IN test./NN management./NN tool./NN (./( HP./NNP ALM./NNP )./) to./TO execute./VB test./NN scripts./NNS and./CC record./NN results./NNS ,./, create./JJ test./NN dashboards./NNS along./IN with./IN integration./NN to./TO other./JJ tools./NNS including./VBG JAMA./NNP ,./, JIRA./NNP etc./FW ../. 
+-./: Participate./NN with./IN test./NN managers./NNS ,./, developers./NNS ,./, and./CC architects./NNS in./IN the./DT QA./NNP defect./JJ resolution./NN process./NN 
+-./: Work./NN with./IN Performance./NNP and./CC Application./NNP Tuning./NNP team./NN to./TO create./VB performance./NN test./NN scripts./NNS and./CC learn./JJ HP./NNP Performance./NNP Center./NNP 
+
+Skills./NNS Must./NNP Have./VBP :./: 
+-./: Programming./NN or./CC scripting./NN skills./NNS 
+-./: Experience./NN with./IN any./DT SDLC./NNP 
+-./: Experience./NN querying./NN databases./NNS (./( e.g../NN ,./, SQL./NNP )./) 
+-./: Should./MD be./VB enthusiastic./JJ in./IN Testing./VBG and./CC critical./JJ eye./NN for./IN details./NNS 
+-./: Willingness./NN to./TO learn./VB the./DT new./JJ tools./NNS 
+-./: Motivated./VBN and./CC have./VBP a./DT positive./JJ attitude./NN 
+-./: Good./JJ communications./NNS skills./NNS 
+
+Skills./NNP Nice./NNP to./TO Have./VB :./: 
+-./: Web./NN Services./NNS 
+-./: Motivated./VBD 
+-./: Experience./NN with./IN QA./NNP work./NN 
+
+About./IN CGI./NNP 
+Founded./VBN in./IN 1976./CD ,./, CGI./NNP Group./NNP Inc../NNP is./VBZ the./DT fifth./JJ largest./JJS independent./JJ information./NN technology./NN and./CC business./NN process./NN services./NNS firm./NN in./IN the./DT world./NN ../. Approximately./RB 68,000./CD professionals./NNS serve./VBP thousands./NNS of./IN global./JJ clients./NNS from./IN offices./NNS and./CC delivery./NN centers./NNS across./IN the./DT Americas./NNPS ,./, Europe./NNP and./CC Asia./NNP Pacific./NNP ,./, leveraging./VBG a./DT comprehensive./JJ portfolio./NN of./IN services./NNS including./VBG high-end./JJ business./NN and./CC IT./NNP consulting./NN ,./, systems./NNS integration./NN ,./, application./NN development./NN and./CC maintenance./NN ,./, infrastructure./NN management./NN as./RB well./RB as./IN a./DT wide./JJ range./NN of./IN proprietary./JJ solutions./NNS ../. With./IN annual./JJ revenue./NN in./IN excess./NN of./IN C./NNP $./$ 10./CD billion./CD and./CC an./DT order./NN backlog./NN of./IN C./NNP $./$ 20./CD billion./CD ,./, CGI./NNP shares./NNS are./VBP listed./VBN on./IN the./DT TSX./NNP (./( GIB.A./NNP )./) and./CC the./DT NYSE./NNP (./( GIB./NNP )./) .Website./NN :./: www.cgi.com./NN ../. 
+
+This./DT is./VBZ a./DT great./JJ opportunity./NN to./TO join./VB a./DT winning./NN team./NN !./. At./IN CGI./NNP ,./, we./PRP 're./VBP in./IN the./DT business./NN of./IN satisfying./VBG clients./NNS ../. For./IN more./JJR than./IN 35./CD years./NNS ,./, we./PRP 've./VBP operated./VBN upon./IN the./DT principles./NNS of./IN sharing./VBG in./IN clients./NNS './POS challenges./NNS and./CC delivering./VBG quality./NN services./NNS to./TO address./VB them./PRP ../. CGI./NNP offers./VBZ entry-level./JJ positions./NNS for./IN new./JJ graduates./NNS ,./, and./CC being./VBG a./DT co-op./NN at./IN CGI./NNP is./VBZ a./DT great./JJ way./NN to./TO introduce./VB yourself./PRP to./TO us./PRP ../. We./PRP wish./VBP to./TO thank./VB all./DT applicants./NNS for./IN their./PRP$ interest./NN and./CC effort./NN in./IN applying./VBG for./IN this./DT position./NN ;./: however./RB ,./, only./RB candidates./NNS selected./VBN for./IN interviews./NNS will./MD be./VB contacted./VBN ../. 

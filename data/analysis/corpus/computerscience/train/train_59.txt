@@ -1,0 +1,44 @@
+Be./VB a./DT part./NN of./IN the./DT largest./JJS IT./JJ transformation./NN in./IN Canadian./JJ retail./JJ history./NN !./. We./PRP 're./VBP changing./VBG our./PRP$ business./NN processes./NNS ,./, technology./NN ,./, structure./NN ,./, and./CC culture./NN ,./, and./CC we./PRP need./VBP IT./NNP coops./VB 
+to./TO help./VB us./PRP get./VB there./RB ../. This./DT is./VBZ your./PRP$ opportunity./NN to./TO gain./VB valuable./JJ ,./, hands./NNS on./IN experience./NN that./WDT will./MD prove./VB useful./JJ throughout./IN your./PRP$ career./NN ../. Our./PRP$ Enterprise./NN Information./NNP Technology./NNP group./NN ,./, supporting./VBG both./DT Loblaw./NNP Companies./NNPS Limited./NNP and./CC Shoppers./NNP Drug./NNP Mart./NNP ,./, provides./VBZ best./JJS in./IN class./NN production./NN ,./, testing./VBG and./CC warranty./JJ support./NN as./RB well./RB as./IN application./NN design./NN and./CC development./NN services./NNS to./TO Canada./NNP 's./POS largest./JJS grocery./NN retailer./NN ../. If./IN you./PRP believe./VBP that./IN IT./NNP is./VBZ more./RBR than./IN just./RB hardware./NN and./CC software./NN ,./, then./RB this./DT is./VBZ your./PRP$ opportunity./NN to./TO experience./VB the./DT valueadd./NN that./IN IT./NNP delivers./VBZ to./TO the./DT Business./NNP ../. 
+
+Your./PRP$ term./NN will./MD allow./VB you./PRP to./TO work./VB on./IN innovative./JJ Enterprise./NNP projects./NNS ,./, work./NN in./IN collaboration./NN across./IN multiple./JJ divisions./NNS ,./, and./CC expose./RB you./PRP to./TO large./JJ scale./NN ,./, large./JJ scope./NN ,./, and./CC enterprisewide./VB 
+solutions./NNS ../. 
+
+We./PRP are./VBP excited./VBN to./TO be./VB hiring./VBG 1./CD CoOp./NNP position./NN for./IN IT./NNP within./IN our./PRP$ Information./NNP Technology./NNP Shared./NNP Services./NNP team./NN ../. 
+
+Job./NNP Description./NNP 
+The./DT Coop./NNP student./NN for./IN Service./NNP Integration./NNP (./( SI./NNP )./) reports./VBZ directly./RB to./TO the./DT Senior./NNP Manager./NNP of./IN Center./NNP of./IN Excellence./NNP and./CC Analytics./NNPS ../. This./DT 4./CD month./NN coop./NN placement./NN offers./VBZ exposure./NN to./TO and./CC experience./NN in./IN IT./NNP of./IN a./DT retail./JJ operation./NN within./IN a./DT corporate./JJ environment./NN ../. The./DT specific./JJ areas./NNS of./IN SI./NNP focus./NN will./MD be./VB :./: Incident./NNP Management./NNP ,./, Problem./NNP Management./NNP ,./, Change./NNP and./CC Release./NNP Management./NNP ,./, Supplier./NNP Relationship./NNP Management./NNP ,./, Tools./NNP and./CC Reporting./NNP (./( including./VBG the./DT Configuration./NNP Management./NNP Database./NNP project./VB support./NN )./) ../. 
+
+Responsibilities./NNS 
+
+Technology./NN :./: 
+Support./NN Analytics./NNPS innovation./NN and./CC optimization./NN on./IN all./DT reports./NNS capturing./VBG usage./NN ,./, value./NN ,./, customer./NN feedback./NN ,./, improvement./NN ideas./NNS 
+Find./NNP opportunities./NNS to./TO automate./VB existing./VBG Service./NNP Delivery./NNP processes./VBZ ,./, activities./NNS and./CC tasks./NNS ../. 
+Main./NNP point./NN of./IN contact./NN for./IN the./DT optimization./NN of./IN Service./NNP Integration./NNP Portal./NNP ,./, where./WRB all./DT processes./NNS ,./, policies./NNS ,./, team./NN org./NN charts./NNS and./CC reports./NNS are./VBP stored./VBN for./IN our./PRP$ IT./NNP customers./NNS 
+Support./VB the./DT facilitation./NN of./IN the./DT Innovation./NNP Hub./NNP for./IN ideas./NNS to./TO be./VB captured./VBN ,./, assessed./VBN ,./, deployed./VBN and./CC benefit./JJ realization./NN 
+
+Process./NN :./: 
+Support./NNP center./NN of./IN excellence./NN activities./NNS surrounding./VBG best./JJS practice./NN and./CC market./NN analysis./NN ,./, for./IN all./DT SI./NNP processes./NNS ../. Includes./NNP performing./VBG research./NN and./CC analysis./NN on./IN white./JJ papers./NNS ,./, web./NN forums./NNS ,./, social./JJ media./NNS ,./, Gartner/Foresters./NNP etc./FW ../. and./CC providing./VBG recommendations./NNS on./IN process./NN improvements./NNS 
+Support./NNP the./DT training./NN evaluation./NN of./IN our./PRP$ current./JJ tools./NNS and./CC process./NN to./TO ensure./VB usability./NN by./IN IT./NNP Team./NNP members./NNS 
+
+People./NNS :./: 
+Facilitate./NNP the./DT weekly./JJ staff./NN meeting./NN (./( prepare./JJ agenda./NN ,./, fun./NN fact./NN ,./, minutes./NNS of./IN key./JJ decisions./NNS and./CC planning/maintenance./NN of./IN the./DT event./NN calendar./NN for./IN special./JJ topics./NNS )./) 
+Support./VB the./DT facilitation./NN activities./NNS on./IN workshops./NNS for./IN Major./JJ Incident./NNP reduction./NN and./CC Collaboration./NNP Start./NNP ,./, Stop./NNP ,./, and./CC Continue./NNP sessions./NNS between./IN IT./NNP Teams./NNP ../. 
+Focal./JJ point./NN for./IN collecting./VBG and./CC providing./VBG input./NN into./IN a./DT monthly./JJ team./NN newsletter./NN 
+Focal./JJ point./NN for./IN planning./VBG all./DT team./NN events./NNS 
+
+Job./NNP Qualifications./NNS 
+Excellent./JJ communication./NN skills./NNS verbal./JJ and./CC written./VBN with./IN an./DT executive./NN presence./NN ../. 
+Detail./NNP oriented./VBD and./CC be./VB able./JJ to./TO handle./VB multiple./JJ priorities./NNS in./IN a./DT fastpaced./JJ 
+environment./NN ../. 
+Capable./JJ of./IN working./VBG in./IN a./DT teamoriented./JJ setting./NN with./IN an./DT ability./NN built./VBN rapport./NN with./IN colleagues./NNS ../. 
+Selfstarter./NNP able./JJ to./TO work./VB independently./RB on./IN assigned./VBN tasks./NNS and./CC initiatives./NNS ../. However./RB ,./, willing./JJ to./TO seek./VB help./NN if./IN requirements./NNS are./VBP not./RB clear./JJ or./CC external./JJ challenges./NNS are./VBP affecting./VBG their./PRP$ ability./NN to./TO deliver./VB ../. 
+Excellent./JJ organizational./JJ ,./, time./NN management./NN and./CC analytics./NNS skills./NNS ../. 
+Proficient./NN in./IN Excel./NNP and./CC MS./NNP Access./NNP (./( formulas./NNS ,./, pivot./NN tables./NNS ,./, charts./NNS etc./VBP ../. )./) 
+Proficient./NN in./IN creating./VBG PowerPoint./NNP presentations./NNS 
+
+Apply./RB now./RB if./IN you./PRP consider./VBP yourself./PRP :./: 
+A./DT Constant./JJ Learner./NNP -./: who./WP is./VBZ bright./JJ ,./, curious./JJ ,./, open./JJ to./TO new./JJ ideas./NNS and./CC interested./JJ in./IN our./PRP$ business./NN ?./. 
+Insightful./NNP giving./VBG new./JJ perspectives./NNS &./CC identifying./VBG paths./JJ beyond./IN the./DT status./NN quo./NN ?./. 
+Engaging./VBG a./DT person./NN who./WP makes./VBZ connections./NNS and./CC builds./VB trust./NN ?./. 
+Motivated./VBN determined./VBD to./TO pursue./VB excellence./NN ,./, deliver./VB on./IN commitments./NNS and./CC achieve./VB success./NN ?./. 

@@ -1,0 +1,41 @@
+Summary./JJ 
+You./PRP 're./VBP excited./VBN about./IN the./DT role./NN that./IN robots./NNS will./MD play./VB in./IN the./DT future./NN ,./, and./CC intrigued./VBN by./IN the./DT challenge./NN of./IN joining./VBG a./DT young./JJ startup./NN in./IN this./DT high-growth./JJ market./NN ../. You./PRP have./VBP skills./NNS and./CC experience./NN that./IN you./PRP know./VBP can./MD make./VB a./DT difference./NN with./IN the./DT Clearpath./NNP team./NN ,./, whether./IN we./PRP 're./VBP looking./VBG for./IN them./PRP or./CC not./RB ../. You./PRP are./VBP driven./VBN ,./, view./NN work./NN as./IN more./JJR than./IN just./RB a./DT job./NN ,./, and./CC are./VBP never./RB satisfied./VBN with./IN a./DT project./NN left./VBD half-done./NN ../. You./PRP are./VBP motivated./VBN by./IN making./VBG an./DT impact./NN on./IN your./PRP$ workplace./NN and./CC you./PRP thrive./VBP on./IN challenging./NN and./CC rewarding./VBG problems./NNS ../. 
+
+Most./JJS of./IN all./DT ,./, you./PRP want./VBP to./TO be./VB on./IN the./DT right./JJ side./NN during./IN the./DT coming./VBG robot./JJ revolution./NN ../. 
+
+Responsibilities./NNS 
+You./PRP will./MD assist./VB in./IN the./DT customization./NN ,./, testing./VBG ,./, and./CC troubleshooting./NN of./IN whatever./WDT we./PRP 're./VBP building./VBG ../. This./DT will./MD range./VB from./IN wiring./VBG up./RP prototype./NN ground./NN vehicles./NNS to./TO doing./VBG field./NN testing./NN of./IN our./PRP$ newest./JJS generation./NN of./IN unmanned./JJ surface./NN vehicle./NN ../. You./PRP may./MD be./VB required./VBN to./TO take./VB robots./NNS for./IN walks./NNS ,./, and./CC are./VBP able./JJ to./TO cope./VB with./IN the./DT questioning./VBG stares./NNS of./IN onlookers./NNS ../. 
+
+Additional./JJ tasks./NNS may./MD include./VB :./: 
+
+Hacking/sourcing/prototyping./VBG of./IN new./JJ sensors./NNS and./CC actuators./NNS ../. 
+Assisting./VBG the./DT Clearpath./NNP design./NN team./NN with./IN various./JJ aspects./NNS of./IN electrical./JJ design./NN 
+Test./NN plan./NN development./NN and./CC implementation./NN 
+Pushing./VBG our./PRP$ robots./NNS to./TO their./PRP$ breaking./NN points./NNS 
+
+Required./VBN Skills./NNS 
+Required./VBN 
+
+Ability./NN to./TO work./VB independently./RB with./IN minimal./JJ supervision./NN and./CC manage./NN deadlines./NNS independently./RB 
+Capable./JJ hands-on./JJ skills./NNS ../. You./PRP are./VBP able./JJ to./TO run./VB a./DT dishwasher./NN from./IN a./DT computer./NN power./NN supply./NN if./IN necessary./JJ ../. 
+Team./NNP player./NN ,./, good./JJ communicator./NN 
+Able./JJ to./TO cope./VB with./IN sudden./JJ jarring./NN changes./NNS in./IN projects./NNS ,./, priorities./NNS ,./, and./CC the./DT local./JJ gravity./NN field./NN ../. 
+Have./NNP built./VBN and./CC troubleshot./JJ electrical./JJ prototypes./NNS which./WDT required./VBD at./IN least./JJS one./CD Digikey./NNP order./NN ../. Bonus./CC points./NNS if./IN you./PRP only./RB required./VBD a./DT single./JJ Digikey./NNP order./NN ../. 
+Altium/EagleCAD/KiCad/Orcad/./NNP <./NNP insert./VBZ other./JJ design./NN software./NN here./RB >./JJ experience./NN ../. 
+
+Helpful./JJ 
+
+Familiarity./NN with./IN electrical./JJ standards./NNS and./CC best./JJS practices./NNS for./IN both./DT schematic./JJ design./NN and./CC PCB./NNP layout./NN 
+Experience./NN with./IN common./JJ sensors./NNS and./CC actuators./NNS used./VBN for./IN robotics./NNS 
+Experience./NN with./IN electrical./JJ standards./NNS and./CC testing./VBG 
+Experience./NN working./VBG with./IN hardware./NN which./WDT shocks./VBZ you./PRP if./IN you./PRP make./VBP it./PRP angry./JJ 
+Transportation./NN And./CC Housing./NN 
+Mandatory./JJ Requirements./NNS 
+Career./NNP Development./NNP And./CC Training./NNP Experience./NNP a./DT startup./NN environment./NN ,./, build./VB cool./JJ stuff./NN ,./, and./CC get./VB exposure./NN to./TO what./WP the./DT leading./VBG robotics./NNS researchers./NNS in./IN the./DT world./NN are./VBP working./VBG on./IN ../. 
+
+The./DT more./JJR you./PRP put./VBP into./IN this./DT job./NN ,./, the./DT more./JJR you./PRP 'll./MD get./VB out./RP ../. Past./IN co-op./JJ projects./NNS include./VBP :./: 
+
+Full./NNP redesign./NN of./IN a./DT product./NN 's./POS electrical./JJ system./NN 
+Ground./NN up./RP development./NN of./IN a./DT educational./JJ robot./NN platform./NN 
+Design./NN and./CC implementation./NN of./IN an./DT indoor./JJ robot./NN positioning./NN system./NN 
+Modeling./VBG and./CC redesign./NN of./IN our./PRP$ Kingfisher./NNP chassis./NN 

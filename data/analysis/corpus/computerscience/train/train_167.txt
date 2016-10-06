@@ -1,0 +1,22 @@
+Are./NNP you./PRP interested./JJ learning./VBG how./WRB to./TO develop./VB software./NN to./TO meet./VB the./DT challenge./NN of./IN big./JJ data./NNS in./IN bioinformatics./NNS ,./, genomics./NNS ,./, and./CC research./NN ?./. 
+
+Do./VBP you./PRP want./VB to./TO work./VB with./IN big./JJ data./NNS ,./, high./JJ performance./NN compute./NN clusters./NNS and./CC web./NN technologies./NNS ?./. 
+
+We./PRP 're./VBP looking./VBG for./IN a./DT co-op./NN to./TO join./VB the./DT Genome./NNP Sequence./NNP Informatics./NNP (./( GSI./NNP )./) team./NN ../. We./PRP are./VBP responsible./JJ for./IN the./DT primary./JJ analysis./NN of./IN all./DT data./NNS generated./VBD at./IN OICR./NNP ../. We./PRP design./VBP applications./NNS to./TO streamline./VB and./CC automate./VB analysis./NN ,./, control./VB the./DT data./NNS lifecycle./NN ,./, and./CC create./VB useful./JJ and./CC dynamic./JJ reports./NNS at./IN scale./NN ../. We./PRP ensure./VB that./IN data./NN flows./NNS smoothly./RB ,./, securely./RB and./CC correctly./RB from./IN the./DT lab./NN through./IN to./TO the./DT researchers./NNS who./WP use./VBP it./PRP ../. We./PRP use./VBP languages./NNS and./CC software./NN tools./NNS like./IN Java./NNP ,./, Perl./NNP ,./, Python./NNP ,./, Javascript./NNP ,./, Open./NNP Grid./NNP Engine./NNP ,./, Apache./NNP Hadoop./NNP ,./, Apache./NNP Oozie./NNP and./CC PostgreSQL./NNP ../. 
+
+As./IN part./NN of./IN the./DT team./NN ,./, you./PRP will./MD be./VB involved./VBN in./IN implementation./NN ,./, testing./VBG ,./, and./CC deployment./NN of./IN new./JJ and./CC existing./VBG applications./NNS for./IN high./JJ impact./NN cancer./NN research./NN ../. You./PRP will./MD use./VB our./PRP$ 8500./CD core./NN compute./NN cluster./NN and./CC 4./CD petabytes./NNS of./IN storage./NN to./TO create./VB solutions./NNS to./TO analyze./VB ,./, track./NN and./CC secure./NN big./JJ data./NNS ../. Familiarity./NN with./IN genetics./NNS is./VBZ an./DT asset./NN but./CC not./RB required./VBN ../. 
+
+OICR./NNP has./VBZ a./DT diverse./JJ workforce./NN and./CC is./VBZ an./DT equal./JJ opportunity./NN employer./NN ../. 
+
+Responsibilities./NNS 
+
+Designing./VBG and./CC crafting./VBG web./NN services./NNS and./CC software./NN applications./NNS to./TO meet./VB cancer./NN research./NN needs./VBZ ;./: 
+Improving./VBG existing./VBG applications./NNS with./IN new./JJ features./NNS and./CC enhancements./NNS ;./: 
+Deploying./VBG applications./NNS for./IN production./NN and./CC development./NN as./IN required./VBN ;./: 
+Building./VBG APIs./NNP and./CC web./VB services./NNS that./WDT link./VBP our./PRP$ systems./NNS together./RB and./CC facilitate./VB reporting./NN ;./: 
+Writing./VBG clean./JJ code./NN ,./, using./VBG source./NN code./NN control./NN ,./, unit./NN and./CC regression./NN testing./NN ,./, and./CC creating./VBG developer./NN documentation./NN and./CC user./NN guides./NNS 
+
+Required./VBN Skills./NNS 
+Java./NNP ,./, Javascript./NNP ,./, Perl./NNP ,./, Python./NNP or./CC R./NNP ;./: 
+Linux./NNP experience./NN ,./, shell./NN scripting./NN ;./: 
+A./DT good./JJ understanding./NN of./IN software./NN engineering./NN principles./NNS 

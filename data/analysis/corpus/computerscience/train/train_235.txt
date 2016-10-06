@@ -1,0 +1,19 @@
+As./IN a./DT Full./NNP Stack./NNP Engineer./NNP ,./, you./PRP will./MD be./VB working./VBG primarily./RB on./IN the./DT web./NN app./NN used./VBN by./IN Akira./NNP doctors./NNS 
+to./TO deliver./VB cutting./VBG edge./NN medical./JJ care./NN to./TO Akira./NNP members./NNS ,./, as./RB well./RB as./IN on./IN the./DT planned./VBN web./NN version./NN 
+of./IN the./DT Akira./NNP patient./NN app./NN ../. 
+
+Job./NNP Responsibilities./NNS :./: 
+While./IN you./PRP will./MD be./VB primarily./RB working./VBG with./IN React./NNP &./CC Flux./NNP ,./, you./PRP will./MD also./RB work./VB with./IN our./PRP$ Ruby./NNP backend./NN 
+when./WRB needed./VBN ../. You./PRP will./MD be./VB working./VBG with./IN a./DT small./JJ ,./, highly./RB talented./VBN team./NN with./IN a./DT simple./JJ ethos./NN :./: 
+We./PRP Get./VBP Shit./JJ Done./NN !./. 
+
+Required./VBN Skills./NNS :./: 
+You./PRP should./MD have./VB :./: 
+-./: Experience./NN with./IN or./CC interest./NN in./IN React./NNP and./CC Flux./NNP 
+-./: Familiarity./NN with./IN the./DT latest./JJS front-end./JJ web./NN dev./NN technologies./NNS (./( ES6./NNP ,./, Webpack./NNP ,./, SCSS./NNP ,./, etc./FW ../. )./) 
+-./: Experience./NN with./IN building./NN RESTful./NNP backends./VBZ ,./, preferably./RB in./IN Ruby./NNP 
+-./: Interest./NN in./IN machine./NN learning./NN and./CC other./JJ next-gen./JJ technologies./NNS ../. 
+-./: Ability./NN to./TO self-direct./JJ and./CC work./NN with./IN minimal./JJ supervision./NN as./IN part./NN of./IN a./DT tight-knit./JJ team./NN ../. 
+-./: A./NN strong./JJ conviction./NN that./IN one./CD 's./POS code./NN should./MD be./VB as./IN clean./JJ and./CC intuitive./JJ as./IN the./DT user./NN experience./NN it./PRP 
+delivers./NNS ../. 
+-./: Studying./NN towards./IN a./DT degree./NN in./IN Computer./NNP Science./NNP ,./, Software./NNP Engineering./NNP ,./, or./CC equivalent./NN ../. 

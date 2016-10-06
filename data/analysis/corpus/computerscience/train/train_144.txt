@@ -1,0 +1,46 @@
+Role./JJ Summary./NNP :./: 
+The./DT Junior./NNP Software./NNP Developer./NNP will./MD design./VB ,./, develop./VB and./CC test./VB large-scale./JJ software./NN applications./NNS on./IN a./DT range./NN of./IN technologies./NNS listed./VBN below./IN with./IN our./PRP$ DriveSync./NNP platform./NN ../. He/she./NNP will./MD work./VB with./IN a./DT diverse./NN team./NN ,./, leveraging./VBG best./JJS practices./NNS for./IN application./NN design./NN to./TO produce./VB high./JJ quality./NN ,./, production./NN solutions./NNS ../. 
+
+Specific./JJ Responsibilities./NNS :./: 
+Design./NNP ,./, develop./NN and./CC test./NN large-scale./JJ software./NN applications./NNS on./IN a./DT range./NN of./IN technologies./NNS listed./VBN below./IN with./IN our./PRP$ DriveSync./NNP platform./NN ../. 
+Responsible./JJ for./IN developing./VBG and./CC optimizing./VBG secure./NN ,./, scalable./JJ ,./, and./CC maintainable./JJ database./NN designs./NNS for./IN use./NN on./IN major./JJ database./NN engines./NNS 
+Responsible./JJ for./IN the./DT interpretation./NN of./IN business./NN and./CC product./NN requirements./NNS 
+Experience./NN adhering./VBG to./TO strict./VB software./NN quality./NN coding./NN standards./NNS and./CC best./JJS practices./NNS 
+Responsible./JJ for./IN technical./JJ testing./NN &./CC validation./NN 
+Adhere./RB to./TO Agile./NNP design./NN principles./NNS 
+Responsible./JJ for./IN learning./VBG from./IN the./DT guidance./NN and./CC coaching./NN of./IN more./JJR senior./JJ team./NN members./NNS 
+Demonstrate./NNP self./PRP direction./NN ,./, accountability./NN and./CC fungiblity./NN 
+90./CD %./NN contribution./NN to./TO product./NN development./NN and./CC 10./CD %./NN drive./NN to./TO improving./VBG the./DT development./NN environment./NN and./CC the./DT environment./NN of./IN their./PRP$ team./NN 
+
+Core./NN Competencies./NNS :./: 
+Self./NNP Directed./VBD 
+Self./NNP Aligning./NNP 
+Accountable./JJ 
+Fungible./JJ 
+
+Required./VBN Qualifications./NNS :./: 
+Responsibility./NN to./TO seek./VB work./NN prioritization./NN and./CC participate./VB in./IN more./JJR than./IN one./CD project./NN simultaneously./RB 
+Must./RB be./VB flexible./JJ and./CC able./JJ to./TO adapt./VB to./TO change./VB in./IN a./DT fast-paced./JJ work./NN environment./NN 
+Candidate./NNP must./MD be./VB comfortable./JJ :./: seeking./VBG subject./JJ matter./NN expertise./NN ,./, and./CC clarification./NN on./IN business./NN needs./NNS for./IN their./PRP$ work./NN 
+Excellent./JJ written./VBN and./CC verbal./JJ English./NNP communication./NN skills./NNS 
+Ability./NN to./TO adhere./VB to./TO strict./VB software./NN quality./NN coding./NN standards./NNS and./CC best./JJS practice./NN 
+
+Knowledgeable./NNP in./IN several./JJ of./IN the./DT following./JJ areas./NNS :./: 
+Android./NNP Development./NNP 
+iOS./NN Development./NNP 
+Server./NNP Development./NNP 
+Java/Web./NNP Applications./NNS 
+Classic./JJ Database./NNP Design./NNP 
+SQL./NNP Free./NNP Database./NNP Design./NNP 
+Server./NNP Operating./VBG Systems./NNP (./( i.e./JJ ../. Linux./NNP ,./, Unix./NNP ,./, Windows./NNP ,./, etc./FW ../. )./) 
+Integration./NN Testing./VBG 
+Product/System./NN Testing./VBG 
+Test./NNP Automation./NN 
+Data./NNS Analytics./NNS 
+Development./NNP and./CC Build./NNP Tools./NNP (./( i.e./NN ../. Jenkins./NNS ,./, Git./NNP ,./, Jira./NNP ,./, etc./FW ../. )./) 
+Scripting./VBG 
+Hardware./NN 
+
+Unique./JJ Requirements./NNS :./: 
+Availability./NN to./TO work./VB extra./JJ hours./NNS as./IN needed./VBN ../. 
+Intense./JJ concentration./NN over./IN prolonged./JJ periods./NNS of./IN time./NN 

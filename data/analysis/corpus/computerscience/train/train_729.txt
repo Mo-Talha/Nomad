@@ -1,0 +1,15 @@
+StackAdapt./NNP is./VBZ the./DT world./NN 's./POS first./JJ programmatic./JJ native./JJ advertising./NN platform./NN ../. We./PRP 're./VBP an./DT exciting./JJ startup./NN that./WDT is./VBZ making./VBG a./DT huge./JJ impact./NN in./IN the./DT world./NN of./IN digital./JJ advertising./NN ../. Our./PRP$ deep./JJ technology./NN stack./NN handles./VBZ hundreds./NNS of./IN thousands./NNS of./IN bid./NN requests./NNS every./DT single./JJ second./NN ,./, coming./VBG from./IN thousands./NNS of./IN publishers./NNS across./IN the./DT digital./JJ web./NN ../. 
+
+The./DT software./NN engineering./NN intern./NN will./MD be./VB responsible./JJ for./IN both./DT front-end./JJ and./CC back-end./JJ engineering./NN ,./, consisting./VBG of./IN Ruby./NNP on./IN Rails./NNP ,./, SQL./NNP ,./, Javascript./NNP ,./, React./NNP ,./, and./CC Go./NNP ../. The./DT candidate./NN will./MD be./VB working./VBG on./IN critical./JJ tasks./NNS on./IN our./PRP$ platform./NN ../. Expect./VB to./TO push./VB to./TO production./NN in./IN the./DT first./JJ week./NN !./. 
+
+The./DT overall./JJ depth./NN of./IN responsibilities./NNS will./MD depend./VB on./IN the./DT candidate./NN 's./POS skill./NN set./VBN and./CC experience./NN ../. 
+
+Job./NN Requirements./NNS :./: 
+
+-./: In-depth./JJ experience./NN with./IN web./NN development./NN (./( Ruby./NNP on./IN Rails./NNP is./VBZ an./DT asset./NN )./) 
+-./: Strong./NN understanding./NN of./IN CS./NNP fundamentals./NNS ,./, algorithms./NN ,./, and./CC data./NNS structures./NNS 
+-./: Knowledge./NN of./IN both./DT relational./JJ databases./NNS and./CC key-value./JJ stores./NNS 
+-./: An./DT interest./NN in./IN writing./VBG scalable./JJ and./CC efficient./JJ code./NN 
+-./: Strong./JJ sense./NN of./IN product./NN design./NN 
+-./: Bonus./NN :./: have./VBP built./VBN and./CC shipped./VBN a./DT web./JJ product./NN 
+-./: 8./CD month./NN work./NN term./NN commitment./NN required./VBN 

@@ -1,0 +1,23 @@
+POSITION./NNP SUMMARY./NNP :./: 
+
+As./IN a./DT Junior./NNP Mobility./NNP Specialist./NNP ,./, you./PRP will./MD provide./VB day-to-day./JJ support./NN for./IN the./DT various./JJ Mobile./NNP devices./NNS in./IN use./NN at./IN Saint./NNP Elizabeth./NNP ,./, and./CC its./PRP$ affiliates./NNS ../. 
+
+Key./JJ Responsibilities./NNS :./: 
+
+-./: Prepare./NN mobile./JJ devices./NNS for./IN all./DT new./JJ employees./NNS ,./, upon./IN notification./NN ,./, in./IN a./DT timely./JJ manner./NN 
+-./: Suspend./NN mobile./JJ devices./NNS for./IN terminated/LOA./NN employees./NNS ,./, upon./IN notification./NN ,./, in./IN a./DT timely./JJ manner./NN 
+-./: Re-assign./NN mobile./JJ devices./NNS ,./, as./IN appropriate./JJ ,./, to./TO maintain./VB optimal./JJ device./NN inventories./NNS 
+-./: Work./NN with./IN external./JJ vendor./NN (./( s./PRP )./) to./TO manage./VB timely./JJ warranty./JJ repairs./NNS of./IN mobile./JJ devices./NNS ,./, as./IN required./VBN 
+-./: Liaise./NN with./IN external./JJ vendor./NN (./( s./PRP )./) to./TO assure./VB prompt./JJ delivery./NN of./IN new./JJ devices./NNS ,./, and./CC accessories./NNS 
+-./: Liaise./NN with./IN wireless./NN carrier./NN (./( s./NN )./) to./TO assure./VB correct./JJ plans./NNS are./VBP implemented./VBN to./TO minimize./VB roaming./VBG and/or./JJ LD./NNP charges./NNS 
+-./: Address./NN employee./NN support./NN calls./VBZ and/or./NN emails./NNS ,./, in./IN a./DT timely./JJ manner./NN 
+-./: Participate./NN in./IN any./DT organizational./JJ initiatives./NNS that./WDT require./VBP issuance./NN of./IN mobile./JJ devices./NNS 
+
+Qualifications./NNS :./: 
+
+-./: A./DT College./NNP diploma/degree./NN in./IN a./DT related./JJ discipline./NN (./( equivalent./JJ experience./NN will./MD be./VB considered./VBN )./) 
+-./: 3./CD years./NNS './POS experience./NN with./IN mobile./JJ technology./NN ,./, is./VBZ a./DT plus./JJ 
+-./: Knowledge./NN and./CC proficiency./NN in./IN the./DT use./NN of./IN the./DT following./JJ technologies./NNS :./: BlackBerry./NNP devices./NNS ,./, BES./NNP infrastructure./NN ,./, BB10./NNP platform./NN ,./, Playbooks./NNP ,./, Internet./NNP Hubs./NNP and/or./NN Sticks./NNS 
+-./: Proficiency./NN with./IN MS./NNP Office./NNP products./NNS ,./, including./VBG MS./NNP Project./NNP and./CC Visio./NNP 
+-./: Excellent./NN communication./NN ,./, interpersonal./JJ and./CC customer./NN service./NN skills./NNS 
+-./: Strong./NN documentation./NN &./CC organizational./JJ skills./NNS 

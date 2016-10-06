@@ -1,0 +1,64 @@
+Purpose/Summary./NN :./: 
+Refers./NNS to./TO the./DT overall./JJ results./NNS expected./VBD of./IN the./DT job./NN 
+
+Provide./VB support./NN to./TO the./DT FileMaker./NNP team./NN to./TO ensure./VB timely./JJ account./NN access./NN to./TO SickKids./NNP FileMaker./NNP users./NNS ,./, prompt./JJ modifications./NNS to./TO FileMaker./NNP databases./NNS and./CC other./JJ issues./NNS as./IN they./PRP arise./VBP ../. 
+
+Key./NNP Areas./NNP of./IN Responsibility./NNP :./: 
+List./JJ daily./JJ job./NN responsibilities./NNS ,./, ideally./RB 5-7./JJ 
+
+1./CD ../. Timely./JJ support./NN for./IN FileMaker./NNP solutions./NNS owners./NNS './POS requests./NNS for./IN access./NN to./TO FileMaker./NNP databases./NNS 
+2./CD ../. Share./NN in./IN application./NN architecture./NN discussions./NNS 
+3./LS ../. Share./NN in./IN responsibility./NN for./IN monitoring./VBG FileMaker./NNP servers./NNS and./CC understanding./NN of./IN how./WRB to./TO manage./VB server./NN downtime./NN 
+4./CD ../. Contribute./VB to./TO needs./NNS analysis./NN by./IN participating./VBG in./IN requirements./NNS './POS gathering./NN for./IN new./JJ solutions./NNS 
+5./CD ../. Prompt./JJ documentation./NN of./IN tasks./NNS ,./, using./VBG SickKids./NNP existing./NN tools./NNS 
+6./CD ../. Creation./NN of./IN standard./JJ operating./VBG procedure./NN documents./NNS ,./, in./IN association./NN with./IN other./JJ FileMaker./NNP team./NN members./NNS 
+7./CD ../. Provide./VB coverage./NN for./IN core./NN FileMaker./NNP services./NNS in./IN the./DT absence./NN of./IN other./JJ FileMaker./NNP team./NN members./NNS 
+8./CD ../. Keep./VB current./JJ with./IN FileMaker./NNP features./NNS and./CC specifications./NNS ,./, as./IN time./NN allows./NNS 
+9./CD ../. Other./JJ duties./NNS as./IN assigned./VBN ,./, contingent./NN on./IN FileMaker./NNP and./CC Information./NNP Services./NNP service./NN pressures./NNS 
+
+Direct./NNP Reports./NNP &./CC Budgetary./NNP Responsibility./NNP (./( if./IN applicable./JJ )./) :./: 
+Titles./NNS of./IN direct./JJ reports./NNS or./CC provide./VB organizational./JJ chart./NN 
+Approximate./NNP $./$ amount./NN of./IN budgetary./JJ responsibility./NN 
+
+No./DT people./NNS manager./NN direct./JJ reports./NNS 
+No./DT budgetary./JJ responsibility./NN ../. 
+
+Skills./NNS or./CC Experience./NN Required./VBN :./: 
+List./JJ 'must-have./CD './'' skills./NNS or./CC experience./NN needed./VBN for./IN the./DT role./NN 
+
+-./: Some./DT experience./NN designing./VBG FileMaker./NNP solutions./NNS 
+-./: Some./DT familiarity./NN with./IN the./DT FileMaker./NNP platform./NN suit./NN of./IN applications./NNS 
+-./: Skilled./VBN in./IN listening./VBG and./CC comprehension./NN to./TO enable./VB effective./JJ two-way./JJ communication./NN with./IN users./NNS 
+-./: Service-oriented./JJ attitude./NN 
+
+Skills./NNS or./CC Experience./NN Desired./VBN :./: 
+List./JJ 'nice-to-have./CD './'' skills./NNS or./CC experience./NN needed./VBN for./IN the./DT role./NN 
+
+-./: Attention./NN to./TO detail./VB and./CC interest./NN in./IN employing./VBG best-of-practice./JJ naming./NN standards./NNS 
+-./: Willingness./NN to./TO comprehensively./RB document./VB code./NN changes./NNS 
+
+Education./NN 
+Formal./JJ education./NN minimum./JJ requirement./NN (./( s./PRP )./) and/or./VBZ accreditation/designation./NN minimum./JJ requirement./NN (./( s./NN )./) 
+
+-./: Computer./NNP Science./NNP or./CC related./VBN disciplines./NNS 
+
+Why./WRB would./MD someone./NN want./VB to./TO work./VB here./RB ?./. What./WP is./VBZ exciting./VBG about./IN this./DT role./NN ?./. 
+Upcoming./VBG projects./NNS ,./, opportunities./NNS for./IN growth./NN and./CC development./NN ,./, ability./NN to./TO work./VB with./IN interesting./JJ patients./NNS or./CC research./NN ,./, ability./NN to./TO impact./VB patient./JJ care./NN and./CC children./NNS 's./POS health./NN ../. 
+
+FileMaker./NNP fulfills./VBZ a./DT key./JJ role./NN in./IN enabling./VBG SickKids./NNP './POS staff./NN ,./, whether./IN administrative./JJ or./CC clinical./JJ ../. Serving./VBG the./DT FileMaker./NNP users./NNS at./IN SickKids./NNP is./VBZ uniquely./RB gratifying./VBG ../. The./DT role./NN is./VBZ rewarded./VBN by./IN the./DT enthusiasm./NN of./IN the./DT users./NNS to./TO engage./VB with./IN SickKids./NNP './POS FileMaker./NNP representatives./NNS and./CC the./DT ease./NN with./IN which./WDT we./PRP create./VBP innovative./JJ workflows./NNS to./TO fit./VB our./PRP$ users./NNS './POS needs./NNS and./CC ultimately./RB enable./VB the./DT vision./NN of./IN healthier./JJR children./NNS ../. 
+
+Team./NN Dynamics./NNS 
+Describe./NNP team./NN environment./NN or./CC if./IN it./PRP is./VBZ an./DT independent./JJ contributor./NN role./NN 
+
+Take./VB part./NN in./IN the./DT Custom./NNP Applications./NNP Team./NNP meetings./NNS ,./, generally./RB in./IN person./NN ../. 
+
+Work./NN with./IN the./DT FileMaker./NNP Project./NNP Manager./NNP to./TO keep./VB them./PRP apprised./VBN of./IN :./: 
+-./: Requests./NNS and./CC triage./NN processes./NNS when./WRB task./NN and./CC resource./NN pressures./NNS arise./VB 
+-./: Any./DT arising./VBG issues./NNS with./IN infrastructure./NN 
+-./: Weekly./JJ activity./NN updates./NNS 
+-./: Any./NN skill./JJ training./NN gaps./NNS ,./, in./IN order./NN for./IN the./DT FileMaker./NNP team./NN to./TO address./VB these./DT as./IN part./NN of./IN continual./JJ learning./NN approach./NN 
+
+With./IN other./JJ FileMaker./NNP support./NN staff./NN :./: 
+-./: Daily./JJ meetings./NNS ,./, on-site./JJ or./CC remotely./RB ,./, as./IN necessary./JJ 
+
+Contribute./NNP to./TO a./DT cohesive./JJ FileMaker./NNP support./NN team./NN 

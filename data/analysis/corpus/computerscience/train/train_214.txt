@@ -1,0 +1,16 @@
+ANSYS./NNP is./VBZ a./DT leading./VBG computer-aided./JJ engineering./NN (./( CAE./NNP )./) provider./NN ,./, creating./VBG products./NNS used./VBN to./TO simulate./VB complex./JJ fluid./NN flow./NN ,./, heat./NN transfer./NN ,./, structural./JJ dynamics./NNS and./CC electromagnetics./NNS for./IN industrial./JJ applications./NNS ../. It./PRP is./VBZ used./VBN in./IN the./DT power./NN generation./NN ,./, marine./NN ,./, automotive./JJ ,./, biomedical./JJ ,./, and./CC other./JJ industries./NNS ../. ANSYS./NNP Canada./NNP Ltd../NNP ,./, located./VBN in./IN Waterloo./NNP and./CC a./DT subsidiary./NN of./IN ANSYS./NNP Inc../NNP ,./, is./VBZ one./CD of./IN many./JJ locations./NNS worldwide./VBP that./IN develops./VBZ these./DT products./NNS ../. Our./PRP$ people./NNS are./VBP at./IN the./DT forefront./NN of./IN CAE./NNP technology./NN ,./, developing./VBG and./CC applying./VBG new./JJ models./NNS to./TO extend./VB the./DT power./NN and./CC usefulness./NN of./IN the./DT software./NN ../. 
+
+We./PRP have./VBP a./DT co-op./JJ placement./NN opportunity./NN available./JJ for./IN a./DT CAE./NNP Software./NNP Development./NNP Support./NNP position./NN ../. The./DT purpose./NN of./IN this./DT position./NN is./VBZ to./TO improve./VB the./DT software./NN quality./NN through./IN model./NN verification./NN ,./, validation./NN ,./, acceptance./NN testing./NN ,./, and./CC other./JJ research-oriented./JJ projects./NNS ../. You./PRP will./MD work./VB with./IN the./DT development./NN and./CC testing./VBG teams./NNS ,./, who./WP are./VBP highly./RB skilled./VBN and./CC motivated./VBN ../. 
+
+The./DT primary./JJ responsibilities./NNS may./MD include./VB :./: 
+testing./VBG and./CC validating./VBG existing./VBG models./NNS in./IN the./DT software./NN 
+testing./VBG and./CC validating./VBG new./JJ features./NNS of./IN the./DT software./NN as./IN they./PRP are./VBP being./VBG developed./VBN 
+assisting./VBG in./IN the./DT production./NN of./IN test./NN specifications./NNS 
+assisting./VBG in./IN the./DT creation./NN of./IN automated./JJ tools./NNS and./CC tests./NNS 
+participating./VBG in./IN acceptance./NN testing./NN 
+research./NN activities./NNS 
+
+Candidates./NNS should./MD be./VB :./: 
+Motivated./VBN 3rd./CD or./CC 4th./CD year./NN mechanical./NN or./CC chemical./NN engineering./NN students./NNS with./IN completed./JJ course./NN work./NN in./IN fluid./JJ mechanics./NNS and./CC thermodynamics./NNS 
+Highly./NNP proficient./NN with./IN computers./NNS 
+Interested./JJ in./IN learning./VBG more./JJR about./IN CAE./NNP and./CC the./DT engineering./NN software./NN business./NN 

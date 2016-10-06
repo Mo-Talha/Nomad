@@ -1,0 +1,24 @@
+The./DT Associate./NNP Developer./NNP Co-op./NNP will./MD work./VB with./IN the./DT Platform./NNP team./NN on./IN the./DT continual./JJ evolution./NN of./IN the./DT primary./JJ business./NN system./NN at./IN Softchoice./NNP ,./, used./VBN by./IN more./JJR than./IN 1000./CD employees./NNS ../. 
+
+We./PRP 're./VBP looking./VBG for./IN people./NNS who./WP :./: 
+-./: Develop./VB new./JJ features/functions./NNS for./IN our./PRP$ WPF/C./NNP #./# /.NET./NNP proprietary./JJ application./NN 
+-./: Implement./NN new./JJ views./NNS on./IN data./NNS and./CC business./NN rules./NNS for./IN data./NNS entry./NN in./IN PL/SQL./NNP 
+-./: Fix./NN bugs./NNS 
+-./: Document./NN designs./NNS 
+-./: Write./NN and./CC execute./JJ test./NN cases./NNS for./IN new./JJ features./NNS 
+-./: Teach./NN users./NNS about./IN new./JJ features./NNS and./CC answer./VB user./JJ questions./NNS 
+-./: Work./NN with./IN the./DT platform./NN team./NN to./TO improve./VB processes./NNS 
+
+As./IN our./PRP$ ideal./JJ candidate./NN ,./, youll./NN also./RB have./VBP :./: 
+-./: Currently./RB enrolled./VBN in./IN a./DT Co-op./JJ Programming./NN ,./, Computer./NNP Science./NNP or./CC Engineering./NNP program./NN 
+-./: Familiarity./NN with./IN .NET./NNP and/or./VBP C./NNP #./# and/or./JJ SQL./NNP programming./NN 
+-./: Strong./JJ analytical./JJ ,./, interpersonal./JJ and./CC communication./NN skills./NNS 
+
+About./IN Softchoice./NNP :./: 
+Softchoice./NNP is./VBZ one./CD of./IN the./DT largest./JJS IT./JJ solutions./NNS and./CC Managed./NNP Services./NNPS providers./NNS in./IN North./NNP America./NNP !./. We./PRP are./VBP an./DT influential./JJ ,./, growth-oriented./JJ organization./NN determined./VBN to./TO enable./VB our./PRP$ people./NNS ,./, our./PRP$ clients./NNS ,./, our./PRP$ partners./NNS and./CC the./DT communities./NNS we./PRP serve./VBP to./TO realize./VB their./PRP$ potential./JJ ../. Our./PRP$ unique./JJ culture./NN fosters./VBZ a./DT friendly./JJ ,./, open-minded./JJ workplace./NN where./WRB employees./NNS are./VBP encouraged./VBN to./TO bring./VB their./PRP$ whole./JJ selves./NNS to./TO work./VB ../. As./IN a./DT member./NN of./IN a./DT dynamic./JJ ,./, high-performing./JJ team./NN ,./, each./DT Softchoice./NNP employee./NN is./VBZ hungry./JJ to./TO learn./VB ,./, valued./VBN for./IN their./PRP$ contribution./NN ,./, and./CC approaches./NNS each./DT day./NN excited./VBD to./TO make./VB an./DT impact./NN ../. 
+
+To./TO apply./VB for./IN the./DT position./NN :./: If./IN Softchoice./NNP and./CC this./DT role./NN sound./NN like./IN a./DT dream./NN come./NN true./JJ ;./: please./VB take./VB a./DT moment./NN to./TO apply./VB within./IN your./PRP$ University/College./NNP ../. 
+
+In./IN addition./NN ,./, please./VB apply./VB online./NN at./IN http./NN :./: //www.softchoice.com/careers./NNS ../. If./IN your./PRP$ experience./NN matches./NNS with./IN our./PRP$ current./JJ needs./NNS ,./, our./PRP$ friendly./JJ Campus./NNP Talent./NNP Advisor./NNP will./MD be./VB in./IN touch./JJ with./IN you./PRP !./. 
+
+Again./RB ,./, thank./NN you./PRP for./IN your./PRP$ interest./NN in./IN a./DT co-op./NN at./IN Softchoice./NNP !./. 

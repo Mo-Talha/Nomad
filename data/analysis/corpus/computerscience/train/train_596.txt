@@ -1,0 +1,38 @@
+_________________________________________________________________________./NN 
+
+Background./NN 
+
+Crum./NNP and./CC Forster./NNP is./VBZ a./DT property./NN and./CC casualty./NN insurance./NN company./NN and./CC is./VBZ a./DT wholly./RB owned./JJ subsidiary./NN of./IN Fairfax./NNP Financial./NNP Holdings./NNPS Limited./NNP ../. Fairfax./NNP Financial./NNP Holdings./NNPS Ltd../NNP is./VBZ a./DT financial./JJ services./NNS holding./VBG company./NN which./WDT ,./, through./IN its./PRP$ subsidiaries./NNS ,./, is./VBZ engaged./VBN in./IN property./NN and./CC casualty./NN insurance./NN ,./, reinsurance./NN and./CC investment./NN management./NN ../. Crum./NNP and./CC Forster./NNP have./VBP multiple./NN offices./NNS throughout./IN the./DT U.S../NNP with./IN headquarters./NNS in./IN Morristown./NNP ,./, New./NNP Jersey./NNP ../. 
+
+Crum./NNP &./CC Forster./NNP is./VBZ a./DT partner./NN in./IN the./DT Fairfax./NNP Co-op./NNP Program./NNP ../. The./DT Fairfax./NNP Co-op./NNP Program./NNP is./VBZ looking./VBG for./IN innovative./JJ ,./, talented./VBN ,./, and./CC self-motivated./JJ University./NNP of./IN Waterloo./NNP students./NNS who./WP are./VBP interested./JJ in./IN domestic./JJ and./CC international./JJ work./NN experience./NN ../. 
+
+
+Job./NNP Description./NNP 
+
+The./DT C./NNP &./CC F./NNP IT./NNP Organization./NNP leverages./VBZ Agile./NNP software./NN development./NN principles./NNS to./TO achieve./VB success./NN in./IN its./PRP$ support./NN of./IN the./DT business./NN ../. IT./NNP resources./NNS are./VBP assigned./VBN to./TO squads./NNS that./WDT have./VBP specific./JJ missions./NNS ../. Each./DT squad./NN consists./VBZ of./IN a./DT cross-functional./JJ set./NN of./IN team./NN members./NNS from./IN the./DT various./JJ disciplines./NNS that./WDT are./VBP needed./VBN to./TO complete./VB the./DT mission./NN ../. The./DT basic./JJ roles./NNS include./VBP Product./NNP Owner./NNP ,./, Squad./NNP Master./NNP ,./, Business./NNP Analyst./NNP ,./, Developer./NNP ,./, and./CC Tester./NNP ../. 
+
+This./DT position./NN is./VBZ to./TO support./VB and./CC learn./VB from./IN the./DT Technical./NNP Business./NNP Analyst./NNP role./NN which./WDT :./: 
+
+-./: Documents./NNS project./NN requirements./NNS including./VBG data./NNS mapping./NN and./CC transformation./NN rules./NNS from./IN source./NN applications./NNS to./TO ACORD./NNP XML./NNP standard./NN messaging./VBG format./NN and./CC other./JJ related./JJ work./NN 
+-./: Organizes./NN and./CC documents./NNS supporting./VBG detailed./JJ requirements./NNS using./VBG Confluence./NNP &./CC JIRA./NNP 
+-./: Ensures./NNS that./IN the./DT other./JJ squad./NN members./NNS have./VBP a./DT clear./JJ understanding./NN of./IN the./DT requirements./NNS &./CC supporting./VBG documentation./NN ../. 
+-./: Works./VBZ closely./RB with./IN developers./NNS and./CC testers./NNS to./TO complete./VB project./NN work./NN 
+
+The./DT Business./NNP Analyst./NNP works./VBZ very./RB closely./RB with./IN all./DT stakeholders./NNS including./VBG business./NN customers./NNS ,./, vendors./NNS ,./, and./CC internal./JJ resources./NNS in./IN order./NN to./TO facilitate./VB team./NN communication./NN and./CC achieve./VB the./DT squad./NN 's./POS mission./NN 
+
+Individuals./NNS that./WDT would./MD best./VB match./VB our./PRP$ need./NN should./MD have./VB :./: 
+
+-./: excellent./NN communication./NN skills./NNS 
+-./: strong./JJ analytical./JJ skills./NNS 
+-./: self-motivated./JJ 
+-./: high./NN achieving./NN 
+-./: strong./JJ academic./JJ performance./NN 
+-./: knowledge./NN of./IN Agile./NNP concepts./NNS would./MD be./VB a./DT plus./JJ 
+-./: knowledge./NN of./IN SQL./NNP and./CC XML./NNP messaging./VBG protocol./NN ,./, specifically./RB ACORD./NNP would./MD be./VB a./DT plus./JJ 
+
+In./IN addition./NN :./: 
+
+-./: If./IN a./DT US./NNP citizen./NN ,./, please./VB indicate./VB in./IN your./PRP$ cover./NN letter./NN or./CC resume./NN ../. 
+-./: Students./NNS in./IN their./PRP$ 2nd./CD to./TO last./JJ or./CC last./JJ co-op./JJ term./NN preferable./NN ../. 
+-./: Housing./NN :./: Student./NN housing./NN will./MD be./VB available./JJ in./IN downtown./JJ Morristown./NNP with./IN other./JJ Waterloo./NNP Co-op./JJ students./NNS ../. Housing./NNP is./VBZ subsidized./VBN by./IN Crum./NNP &./CC Forster./NNP ../. 
+-./: Co-op./JJ Term./NNP Expenses./NNS :./: Crum./NNP &./CC Forster./NNP will./MD cover./VB your./PRP$ air./NN fare./NN from./IN Toronto./NNP to./TO Morristown./NNP at./IN the./DT beginning./NN and./CC end./NN of./IN the./DT co-op./JJ term./NN ../. Visa./NNP expenses./NNS will./MD also./RB be./VB covered./VBN ../. 

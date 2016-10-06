@@ -1,0 +1,34 @@
+Summary./JJ 
+Big./JJ Viking./NNP Games./NNPS is./VBZ on./IN the./DT hunt./NN for./IN a./DT student./NN who./WP thinks./VBZ ,./, eats./NNS ,./, and./CC dreams./NNS code./NN and./CC is./VBZ able./JJ join./NNS us./PRP on./IN a./DT full-time./JJ basis./NN for./IN 4./CD or./CC 8./CD months./NNS as./IN a./DT Game./NNP Developer./NNP ,./, located./VBN at./IN either./DT our./PRP$ London./NNP ,./, ON./NNP or./CC Toronto./NNP ,./, ON./NNP studio./NN ../. 
+
+As./IN a./DT Game./NNP Developer./NNP ,./, you./PRP will./MD use./VB your./PRP$ arsenal./NN of./IN programming./VBG skills./NNS to./TO help./VB design./NN ,./, program./NN ,./, test./NN ,./, optimize./NN and./CC support./VB a./DT variety./NN of./IN web./NN and./CC mobile./JJ games./NNS ../. We./PRP wo./MD n't./RB throw./VB you./PRP in./IN a./DT cubicle./NN to./TO debug./VB code./NN all./DT day./NN ../. We./PRP want./VBP to./TO give./VB you./PRP the./DT freedom./NN to./TO explore./VB the./DT world./NN of./IN coding./VBG beyond./IN the./DT textbook./NN ../. You./PRP will./MD collaborate./VB with./IN other./JJ developers./NNS to./TO identify./VB potential./JJ problems./NNS and./CC bring./VB projects./NNS to./TO life./NN ../. And./CC most./JJS importantly./RB ,./, you./PRP will./MD build./VB up./RP your./PRP$ coding./VBG skills./NNS and./CC have./VBP a./DT blast./NN doing./VBG it./PRP !./. 
+
+Responsibilities./NNS 
+What./WP we./PRP 'll./MD be./VB paying./VBG you./PRP to./TO do./VB :./: 
+
+-./: Help./VB your./PRP$ team./NN design./NN ,./, program./NN ,./, test./NN ,./, optimize./NN ,./, and./CC support./VB an./DT array./NN of./IN web./NN and./CC mobile./JJ games./NNS ../. Your./PRP$ projects./NNS are./VBP your./PRP$ babies./NNS ../. 
+-./: Write./NN beautiful./NN ,./, strong./JJ code./NN ../. The./DT stronger./JJR the./DT code./NN ,./, the./DT more./JJR proud./JJ your./PRP$ mentors./NNS will./MD be./VB !./. 
+-./: Work./NN collaboratively./RB with./IN fellow./JJ Vikings./NNS from./IN our./PRP$ art./NN &./CC design./NN teams./NNS to./TO bring./VB projects./NNS to./TO life./NN that./WDT shine./NN ,./, inside./IN &./CC out./IN ../. 
+-./: Help./NN identify./VB system./NN issues./NNS ,./, anticipate./NN problems./NNS ,./, provide./VB estimates./NNS ,./, and./CC implement./JJ solutions./NNS ../. You./PRP 're./VBP the./DT Justice./NNP League./NNP of./IN developers./NNS !./. That./DT 's./VBZ right./JJ ../. The./DT whole./JJ league./NN ../. 
+-./: Engage./NN in./IN code./NN &./CC design./NN reviews./NN and./CC discussions./NNS to./TO provide./VB feedback./NN ../. After./IN all./DT ,./, identifying./VBG a./DT problem./NN is./VBZ the./DT first./JJ step./NN to./TO solving./VBG it./PRP ../. 
+
+What./WP we./PRP hope./VBP you./PRP will./MD do./VB while./IN at./IN Big./JJ Viking./NN :./: 
+
+-./: Chat./NN about./IN the./DT latest./JJS programming./NN languages./NNS ,./, tools./NNS and./CC other./JJ exciting./JJ things./NNS with./IN other./JJ Devs./NNP over./IN the./DT lunch./NN table./NN 
+-./: Build./VB up./RP your./PRP$ coding./VBG skills./NNS to./TO brag-worthy./JJ status./NN 
+-./: Take./NN advantage./NN of./IN your./PRP$ colleagues./NNS -./: pick./VB their./PRP$ brains./NNS while./IN you./PRP 're./VBP here./RB ../. Our./PRP$ Devs./NNP range./NN from./IN fresh./JJ out./IN of./IN school./NN to./TO 15./CD years./NNS in./IN the./DT business./NN -./: there./EX 's./VBZ a./DT lot./NN of./IN knowledge./NN in./IN these./DT walls./NNS ../. 
+-./: Earn./NN Vikoins./NNS from./IN your./PRP$ teammates./NNS so./IN you./PRP can./MD buy./VB some./DT fancy./JJ Viking./NNP loot./NN !./. 
+
+Required./VBN Skills./NNS 
+Your./PRP$ Background./NN :./: 
+
+-./: You./PRP must./MD be./VB a./DT current./JJ student./NN ,./, preferably./RB in./IN Computer./NNP Science./NNP ,./, Engineering./NNP or./CC a./DT related./JJ field./NN ../. 
+-./: Proven./NN ability./NN to./TO write./VB solid./JJ ,./, clear./JJ ,./, and./CC strong./JJ code./NN ../. In./IN a./DT perfect./JJ world./NN ,./, you./PRP are./VBP familiar./JJ with./IN HTML5./NNP ,./, JavaScript./NNP ,./, Java./NNP ,./, Node.js./NNP ,./, AS3./NNP and./CC PHP./NNP ../. 
+-./: An./DT insatiable./JJ appetite./NN to./TO learn./VB and./CC grow./VB ../. 
+-./: The./DT ability./NN to./TO communicate./VB clearly./RB ,./, respectfully./RB and./CC constructively./RB 
+
+Bonus./NNP Points./NNS if./IN :./: 
+
+-./: You./PRP have./VBP developed./VBN and./CC can./MD show./VB your./PRP$ own./JJ projects./NNS ,./, belong./RB to./TO Developer./NNP Groups./NNP ,./, and./CC hack./NN like./IN a./DT champ./NN at./IN Hackathons./NNP ../. 
+-./: You./PRP have./VBP an./DT affinity./NN for./IN gaming./NN ../. 
+-./: Do./NN you./PRP have./VBP a./DT github./NN account./NN ?./. Or./CC a./DT portfolio./NN with./IN apps./JJ /./NNS games./NNS you./PRP 've./VBP made./VBN ?./. Share./VB it./PRP with./IN us./PRP ,./, we./PRP 'd./MD love./VB to./TO see./VB it./PRP ../. 

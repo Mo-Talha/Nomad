@@ -1,0 +1,37 @@
+Work./NN Location./NN :./: 60./CD TIFFIELD./NNP RD./NNP 
+Temporary./JJ Duration./NN :./: 4./CD months./NNS 
+Salary/Rate./NN :./: $./$ 14.99./CD -./: $./$ 22.24./CD /./NNP Hour./NNP 
+Hours./NNP of./IN Work./NNP (./( bi-weekly./JJ )./) :./: 70.00./CD 
+
+Toronto./NNP Water./NNP is./VBZ looking./VBG for./IN applicants./NNS to./TO commit./VB to./TO a./DT co-op./JJ work./NN term./NN for./IN 4./CD months./NNS (./( i.e./NN ../. January./NNP 3./CD ,./, 2017./CD to./TO April./NNP 28./CD ,./, 2017./CD )./) ../. 
+
+Major./JJ Responsibilities./NNS :./: 
+Reporting./VBG to./TO Senior./NNP Systems./NNP Integrator./NNP of./IN Infrastructure./NNP Services./NNPS ;./: the./DT Work./NNP Term./NNP Student./NNP will./MD assist./VB Toronto./NNP Water./NNP Integrated./NNP Technology./NNP Management./NNP (./( ITM./NNP )./) staff./NN with./IN general./JJ Information./NNP and./CC Technology./NNP support./NN related./VBD duties./NNS and./CC services./NNS as./IN follows./VBZ :./: 
+-./: Assist./NN in./IN the./DT development./NN and./CC update./NN of./IN technical./JJ documentation./NN ,./, literature./NN and./CC processes./VBZ including./VBG but./CC not./RB limited./JJ to./TO operation./NN manuals./NNS ,./, software./NN installation./NN manuals./NNS ,./, internal./JJ service./NN procedures./NNS and./CC acquisition./NN work./NN plan./NN &./CC schedules./NNS 
+-./: Work./NN with./IN the./DT technical./JJ acquisition./NN team./NN to./TO research./NN and./CC verify./VB cost./NN for./IN existing./VBG or./CC emerging./VBG technologies./NNS ../. Document./NNP processes./VBZ and./CC findings./NNS ../. Work./NN with./IN City./NNP staff./NN on./IN recommendation./NN reports./NNS ../. 
+-./: Assist./NN with./IN acquisition./NN requests./NNS ../. Log./NNP and./CC perform./VB initial./JJ assessment./NN ,./, prioritize./NN and./CC dispatch./NN acquisition./NN requests./NNS for./IN second./JJ level./NN evaluation./NN when./WRB required./VBN ,./, followed./VBN by./IN processing./VBG ,./, co-ordinating./JJ &./CC tracking./VBG the./DT requests./NNS till./VBP completion./NN ../. Keep./VB clients./NNS informed./VBN of./IN progress./NN till./NN closure./NN 
+-./: Assist./NN in./IN receiving./NN ,./, organizing./VBG and./CC validating./VBG deliveries./NNS of./IN assets./NNS ../. Label/validate./NNP assets./NNS received./VBD and./CC ensure./VB all./DT assets./NNS has./VBZ appropriate./JJ identification./NN labels./NNS on./IN them./PRP ,./, and./CC update./JJ inventories./NNS 
+-./: Assist./NN in./IN Remote./NNP Security./NNP Assess./NNP Token./NNP life./NN cycle./NN replacement./NN and./CC deployment./NN ../. Schedule./NN and./CC co-ordinating./NN with./IN clients./NNS on./IN token./JJ replacement./NN and./CC deployment./NN ../. Update./NNP inventory./NN and./CC documentation./NN 
+-./: Co-ordinate./NN and./CC scheduling./VBG assets./NNS and./CC software./NN installation./NN with./IN clients./NNS and./CC Service./NNP Desk./NNP 
+-./: Assist./NN in./IN day./NN to./TO day./NN administration./NN and./CC support./NN of./IN ITM./NNP staff./NN ../. Assist./NN in./IN mail/document./NN sorting./NN ,./, scanning./NN ,./, filing./NN ,./, reconciling./VBG files./NNS and./CC records./NNS ../. 
+
+For./IN more./JJR information./NN about./IN Toronto./NNP Water./NNP and./CC its./PRP$ programs./NNS and./CC services./NNS visit./NN :./: 
+http./NN :./: //www.toronto.ca/water/./NN 
+
+Key./JJ Qualifications./NNS :./: 
+1./CD ../. Currently./RB enrolled./VBN in./IN or./CC a./DT recent./JJ graduate./NN of./IN a./DT post-secondary./JJ degree./NN or./CC diploma./NN program./NN in./IN Computer./NNP Science./NNP ,./, Electronic./NNP Engineering./NNP or./CC Business./NNP Administration./NNP as./IN recognized./VBN by./IN the./DT Ontario./NNP Ministry./NNP of./IN Training./NNP ,./, Colleges./NNP &./CC Universities./NNP ../. 
+2./CD ../. Experience./NN in./IN the./DT use./NN of./IN Microsoft./NNP Office./NNP (./( i.e./NN ../. MS./NNP Word./NNP ,./, Excel./NNP ,./, Access./NNP ,./, PowerPoint./NNP ,./, Outlook./NNP and./CC Visio./NNP )./) ,./, Windows./NNP operating./VBG systems./NNS and./CC electronic./JJ document./NN management./NN systems./NNS ../. 
+3./LS ../. Experience./NN in./IN creating./VBG scripts/macros./NN in./IN a./DT language./NN such./JJ as./IN Visual./NNP Basic./NNP for./IN Applications./NNP ../. 
+4./CD ../. Experience./NN in./IN or./CC understanding./NN of./IN technologies./NNS ,./, concepts./NNS and./CC architecture./NN ../. 
+5./CD ../. Ability./NN to./TO lift/move./VB equipment/boxes./VB up./RB to./TO 40lbs./CD ../. 
+6./CD ../. Ability./NN to./TO work./VB under./IN time./NN constraints./NNS and./CC meet./NN deadlines./NNS ../. 
+7./CD ../. Ability./NN to./TO work./VB independently./RB or./CC cooperatively./RB within./IN a./DT team./NN ../. 
+8./CD ../. Ability./NN to./TO work./VB on./IN several./JJ projects./NNS concurrently./RB ../. 
+9./CD ../. Good./JJ analytical./JJ and./CC organizational./JJ skills./NNS ../. 
+10./CD ../. Good./JJ verbal./JJ and./CC written./VBN communication./NN skills./NNS ../. 
+11./CD ../. Good./JJ analytical./JJ and./CC organizational./JJ skills./NNS ../. 
+12./CD ../. Good./JJ verbal./JJ and./CC written./VBN communication./NN skills./NNS ../. 
+13./CD ../. Detail./NNP oriented./VBD with./IN demonstrated./JJ problem./NN solving./VBG abilities./NNS ../. 
+14./CD ../. Must./NNP possess./NN and./CC be./VB able./JJ to./TO maintain./VB a./DT valid./JJ Province./NN of./IN Ontario./NNP Class./NNP ``./`` G/G2./NNP ''./'' Driver./NNP 's./POS License./NNP ../. 
+15./CD ../. Must./NNP be./VB able./JJ to./TO drive./VB independently./RB ../. 
+16./CD ../. Must./NN have./VB access./NN to./TO a./DT reliable./JJ and./CC insurable./JJ vehicle./NN for./IN conducting./VBG site./NN visits./NNS ../. 

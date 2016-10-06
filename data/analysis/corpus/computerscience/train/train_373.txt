@@ -1,0 +1,22 @@
+_______________________________________________________________________./NN 
+
+Description./NN :./: 
+The./DT Apple./NNP Watch./NNP Team./NNP is./VBZ searching./VBG for./IN self./NN driven./VBN ,./, passionate./VB electrical./JJ engineers./NNS for./IN the./DT role./NN of./IN Hardware./NNP System./NNP Integrator./NNP at./IN all./DT levels./NNS ,./, junior./RB through./IN lead./NN /./NNP senior./JJ ../. This./DT is./VBZ a./DT unique./JJ position./NN allowing./VBG ownership./NN of./IN all./DT things./NNS ``./`` EE./NNP ''./'' about./IN a./DT product./NN ,./, from./IN architecture./NN to./TO component./VB selection./NN ,./, schematic./JJ capture./NN and./CC board./NN layout./NN to./TO validation./NN and./CC manufacturing./NN ../. 
+
+-./: Must./NN have./VBP great./JJ EE./NNP fundamentals./NNS 
+-./: Design./NN and./CC develop./VB hardware./NN for./IN Mobile./NNP Devices./NNPS ../. 
+-./: Hands./NNS on./IN experience./NN with./IN hw./JJ prototyping/bring-up./NN and./CC system./NN debugging./NN ../. 
+-./: Lab./NN experience./NN to./TO take./VB signal/power./JJR integrity./NN measurements./NNS at./IN hardware./NN design./NN for./IN mass./NN production./NN ../. 
+-./: Perform./NN failure./NN analysis./NN of./IN prototype./NN hardware./NN to./TO identify./VB root./NN cause./NN issues./NNS and./CC take./VB corrective./JJ actions./NNS ../. 
+-./: Design./NN experiments./NNS to./TO be./VB run./VBN on./IN the./DT factory./NN that./WDT assists./VBZ with./IN process./NN or./CC hardware./NN design/failure./NN analysis./NN ../. 
+
+Key./JJ Qualifications./NNS :./: 
+-./: Schematic./JJ capture./NN and./CC PCB./NNP layout./NN tools./NNS 
+-./: Embedded./VBD silicon./NN and./CC hardware./NN architecture./NN ,./, for./IN 16-bit./JJ and./CC 32-bit./JJ micro./NN controllers./NNS 
+-./: Python./NN ,./, Ruby./NNP ,./, Shell./NNP scripting./VBG ,./, programming./VBG experience./NN is./VBZ nice./JJ to./TO have./VB ../. 
+-./: Utilize./NN high./JJ speed./NN oscilloscopes./NNS ,./, DMM./NNP 's./POS ,./, spectrum./JJ analyzer./NN ,./, and./CC logic./JJ analyzer./NN 
+-./: Perform./NN data./NNS analysis./NN with./IN Matlab/SciPy./NNP 
+
+Apple./NNP is./VBZ an./DT Equal./JJ Employment./NNP Opportunity./NNP Employer./NNP that./WDT is./VBZ committed./VBN to./TO inclusion./NN and./CC diversity./NN ../. We./PRP also./RB take./VBP affirmative./JJ action./NN to./TO offer./VB employment./NN and./CC advancement./NN opportunities./NNS to./TO all./DT applicants./NNS ,./, including./VBG minorities./NNS ,./, women./NNS ,./, protected./VBD veterans./NNS ,./, and./CC individuals./NNS with./IN disabilities./NNS ../. 
+
+This./DT job./NN is./VBZ located./VBN in./IN Cupertino./NNP ,./, CA./NNP and./CC offers./VBZ competitive./JJ benefits./NNS including./VBG corporate./JJ housing./NN OR./NNP $./$ 1000./CD monthly./JJ rent./NN stipend./NN ,./, paid./VBD travel./NN expenses./NNS to./TO and./CC from./IN Waterloo./NNP and./CC substantial./JJ discounts./NNS on./IN Apple./NNP products./NNS 

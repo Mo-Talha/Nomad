@@ -1,0 +1,40 @@
+Reminder./NN :./: Students./NNS are./VBP responsible./JJ for./IN ensuring./VBG they./PRP are./VBP eligible./JJ for./IN an./DT 8-month./JJ work./NN term./NN before./IN applying./VBG ../. Please./NNP discuss./VB your./PRP$ work/study./NN sequence./NN flexibility./NN with./IN your./PRP$ academic./JJ advisor./NN as./RB soon./RB as./IN possible./JJ ../. 
+
+About./IN us./PRP :./: eSentire./NN provides./VBZ mid-sized./JJ enterprises./NNS with./IN the./DT most./RBS advanced./JJ cybersecurity-as-a-service./NN available./JJ ../. We./PRP effectively./RB detect./VBP and./CC mitigate./VBP threats./NNS that./IN your./PRP$ existing./VBG security./NN technology./NN can./MD miss./VB ,./, 24./CD hours./NNS a./DT day./NN ,./, 7./CD days./NNS a./DT week./NN ../. We./PRP are./VBP the./DT leader./NN in./IN Active./NNP Threat./NNP Protection./NNP solutions./NNS and./CC services./NNS ,./, the./DT most./RBS comprehensive./JJ way./NN to./TO defend./VB enterprises./NNS from./IN advanced./JJ and./CC never-before-seen./JJ cyber./NN threats./NNS ../. 
+
+eSentire./NN combines./NNS people./NNS ,./, process./NN and./CC technology./NN to./TO deliver./VB an./DT unmatched./JJ ,./, premium./JJ level./NN service./NN ../. Our./PRP$ skilled./JJ security./NN analysts./NNS become./VBP an./DT extension./NN of./IN your./PRP$ team./NN and./CC continuously./RB monitor./VB your./PRP$ network./NN 24/7./CD ,./, detecting./VBG ,./, mitigating./VBG and./CC communicating./VBG threats./NNS in./IN real-time./JJ ../. We./PRP identify./VBP and./CC intervene./VBP attack./NN attempts./NNS every./DT hour./NN of./IN every./DT day./NN ,./, always./RB ../. Protecting./VBG more./JJR than./IN $./$ 2.5./CD trillion./CD in./IN combined./JJ assets./NNS ,./, eSentire./NN is./VBZ the./DT trusted./JJ choice./NN for./IN security./NN decision-makers./NNS in./IN mid-size./JJ enterprise./NN ../. 
+
+Our./PRP$ Culture./NN :./: At./IN eSentire./NN we./PRP work./VBP in./IN a./DT collaborative./JJ and./CC innovative./JJ work./NN environment./NN ../. We./PRP work./VBP with./IN brilliant./JJ and./CC passionate./JJ people./NNS who./WP strive./VBP and./CC encourage./VBP others./NNS to./TO do./VB their./PRP$ best./JJS ../. eSentire./NN 's./POS idea-rich./JJ environment./NN welcomes./NNS creative./JJ and./CC sometimes./VBZ unconventional./JJ perspectives./NNS !./. 
+
+Growth./NNP Opportunities./NNS :./: At./IN eSentire./NN you./PRP will./MD have./VB the./DT opportunity./NN to./TO grow./VB and./CC make./VB an./DT impact./NN from./IN your./PRP$ work./NN ../. We./PRP encourage./VBP innovation./NN in./IN all./DT who./WP become./VBP a./DT part./NN of./IN our./PRP$ team./NN ../. With./IN growing./VBG operations./NNS internationally./RB ,./, there./EX is./VBZ lots./NNS of./IN lateral./JJ and./CC upward./JJ advancement./NN opportunities./NNS for./IN rewarding./VBG and./CC developing./VBG careers./NNS with./IN eSentire./NN ../. We./PRP 're./VBP strong./JJ believers./NNS in./IN continuing./VBG education./NN and./CC provide./VB the./DT resources./NNS that./IN you./PRP need./VBP to./TO continue./VB learning./NN ../. 
+
+Employee./NN Perks./NNS :./: Every./DT week./NN we./PRP provide./VBP free./JJ lunches./NNS from./IN a./DT variety./NN of./IN top./JJ caterers./NNS ,./, provide./VBP free./JJ refreshments./NNS ,./, flexible./JJ hours./NNS ,./, half./DT day./NN off./IN birthdays./NNS ,./, concierge./NN services./NNS ,./, and./CC attractive./JJ compensation./NN ../. We./PRP make./VBP it./PRP our./PRP$ obligation./NN to./TO the./DT team./NN here./RB to./TO stay./VB current./JJ with./IN compensation./NN trends./NNS in./IN the./DT tech./JJ field./NN !./. 
+
+Summary./JJ 
+As./IN a./DT member./NN of./IN our./PRP$ Engineering./NNP Team./NNP the./DT Professional./NNP Services./NNPS Co-op./NNP Software./NNP Developer./NNP role./NN will./MD assist./VB with./IN software./NN development./NN efforts./NNS for./IN internal./JJ security./NN tools./NNS used./VBN to./TO perform./VB Information./NNP Security./NNP Assessments./NNP ../. 
+
+Activities./NNS will./MD include./VB software./NN development./NN and./CC scripting./VBG to./TO gain./VB efficiencies./NNS through./IN automation./NN for./IN all./DT in./IN house./NN tools/solutions./NNS including./VBG development./NN and./CC improvements./NNS of./IN existing./VBG code/scripts./NNS ../. 
+
+Responsibilities./NNS 
+Ongoing./VBG maintenance./NN of./IN internal./JJ tools./NNS and./CC scripts./NNS including./VBG feature./NN requests./NNS and./CC improvements./NNS 
+Development./NNP of./IN front-end./JJ HTTP/REST./NNP APIs./NNP and./CC back-end./JJ micro-service./NN workers./NNS 
+Development./NNP of./IN scalable./JJ back-end./JJ services./NNS for./IN servicing./VBG front-end./JJ requests./NNS 
+Troubleshooting./VBG errors./NNS and./CC service./NN issues./NNS 
+Collaborating./VBG with./IN team./NN members./NNS to./TO build./VB robust./JJ ,./, highly./RB scalable./JJ and./CC highly./RB available./JJ solutions./NNS 
+
+Required./VBN Skills./NNS 
+Working./VBG towards./NNS a./DT University./NNP Degree./NNP or./CC College./NNP Diploma./NNP in./IN Computer./NNP Sciences./NNPS ,./, Information./NNP Technology./NNP or./CC a./DT related./JJ field./NN or./CC equivalent./JJ combination./NN of./IN education./NN and./CC experience./NN 
+Have./NNP solid./JJ programming./NN skills./NNS in./IN Node.js./NNP and./CC Python./NNP 
+Demonstrated./VBN experience./NN with./IN Django./NNP is./VBZ an./DT asset./NN 
+Strong./JJ understanding./NN of./IN SQL./NNP ,./, UNIX./NNP and./CC Windows-based./JJ operating./NN systems./NNS 
+You./PRP are./VBP a./DT go./JJ getter./NN with./IN a./DT self-starter./JJ attitude./NN 
+You./PRP love./VBP taking./VBG responsibility./NN and./CC making./VBG something./NN your./PRP$ own./JJ 
+
+Nice./NNP to./TO Have./VB :./: 
+Experience./NN working./VBG with./IN Docker./NNP 
+Experience./NN with./IN messaging./VBG middleware./NN or./CC stream./NN processors./NNS like./IN RabbitMQ./NNP ,./, Apache./NNP Storm./NNP ,./, or./CC Apache./NNP Kafka./NNP 
+Development./NNP skills./NNS in./IN any./DT of./IN the./DT following./NN :./: Perl./NNP ,./, Ruby./NNP ,./, PowerShell./NNP ,./, Bash./NNP ,./, C++./NNP ,./, C./NNP #./# ,./, and./CC Java./NNP 
+Understanding./NN of./IN networking./NN ,./, firewalls./NNS and./CC the./DT TCP/IP./NNP protocol./NN suite./NN 
+
+Mandatory./JJ Requirements./NNS 
+-./: Security./NN Clearance./NN 

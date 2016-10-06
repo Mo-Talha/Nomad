@@ -1,0 +1,35 @@
+Environment./NN and./CC Climate./NNP Change./NNP Canada./NNP is./VBZ a./DT department./NN within./IN the./DT Federal./NNP Public./NNP Service./NNP ../. With./IN a./DT budget./NN in./IN excess./NN of./IN $./$ 700./CD million./CD dollars./NNS and./CC approximately./RB 5,500./CD employees./NNS located./VBN in./IN 100./CD communities./NNS across./IN Canada./NNP ,./, we./PRP work./VBP with./IN thousands./NNS of./IN partners./NNS in./IN every./DT province./NN and./CC territory./NN and./CC around./IN the./DT globe./NN ../. Environment./NN and./CC Climate./NNP Change./NNP Canada./NNP 's./POS mandate./NN is./VBZ to./TO preserve./VB and./CC enhance./VB the./DT quality./NN of./IN the./DT natural./JJ environment./NN ,./, including./VBG water./NN ,./, air./NN and./CC soil./NN quality./NN ;./: conserve./VBP Canada./NNP 's./POS renewable./JJ resources./NNS ;./: conserve./NN and./CC protect./VBP Canada./NNP 's./POS water./NN resources./NNS ;./: carry./VB out./RP meteorology./NN ;./: enforce./CC the./DT rules./NNS made./VBN by./IN the./DT Canada./NNP -./: United./NNP States./NNPS International./NNP Joint./NNP Commission./NNP relating./VBG to./TO boundary./JJ waters./NNS ;./: and./CC coordinate./VB environmental./JJ policies./NNS and./CC programs./NNS for./IN the./DT federal./JJ government./NN ../. Our./PRP$ mission./NN is./VBZ to./TO make./VB sustainable./JJ development./NN a./DT reality./NN in./IN Canada./NNP by./IN helping./VBG Canadians./NNPS live./JJ and./CC prosper./NN in./IN an./DT environment./NN that./WDT needs./VBZ to./TO be./VB respected./VBN ,./, protected./VBN and./CC conserved./VBN ../. At./IN Environment./NNP and./CC Climate./NNP Change./NNP Canada./NNP we./PRP value./NN our./PRP$ environment./NN and./CC its./PRP$ vital./JJ importance./NN to./TO the./DT identity./NN and./CC well-being./NN of./IN present./JJ and./CC future./JJ generations./NNS ;./: the./DT dedication./NN and./CC team-work./NN of./IN our./PRP$ people./NNS and./CC integrity./NN ,./, trust./NN and./CC mutual./JJ respect./NN in./IN our./PRP$ working./VBG relationships./NNS ;./: the./DT contribution./NN of./IN the./DT natural./JJ and./CC social./JJ sciences./NNS to./TO environmentally./RB responsible./JJ decision./NN making./NN ;./: the./DT exercise./NN ,./, by./IN all./DT Canadians./NNPS ,./, of./IN a./DT shared./VBN responsibility./NN for./IN our./PRP$ environment./NN ;./: the./DT contribution./NN of./IN our./PRP$ leadership./NN to./TO the./DT achievement./NN of./IN sustainable./JJ development./NN ;./: and./CC the./DT provision./NN of./IN quality./NN service./NN to./TO the./DT public./NN ../. 
+
+
+Job./NNP Summary./NNP :./: 
+
+Apply./NNP and./CC further./RB develop./VB your./PRP$ programming./VBG skills./NNS while./IN working./VBG with./IN atmospheric./JJ measurements./NNS from./IN across./IN Canada./NNP !./. The./DT Canadian./JJ Aerosol./NNP Baseline./NNP Measurement./NNP (./( CABM./NNP )./) Program./NNP operates./VBZ at./IN 5./CD sites./NNS :./: Alert./NNP ,./, NU./NNP ;./: Resolute./NNP Bay./NNP ,./, NU./NNP ;./: Whistler./NNP ,./, BC./NNP ;./: East./NNP Trout./NNP Lake./NNP ,./, SK./NNP ;./: and./CC Egbert./NNP ,./, ON./NNP ../. CABM./NNP observations./NNS of./IN aerosol./NN properties./NNS contribute./VBP to./TO improved./VBN understanding./NN of./IN natural./JJ and./CC anthropogenic./JJ sources./NNS ,./, atmospheric./JJ processes./NNS related./VBN to./TO climate./VB ,./, their./PRP$ role./NN as./IN forcing./VBG agents./NNS ,./, and./CC the./DT relevant./JJ atmospheric-biogeochemical./JJ processes./NNS ../. As./IN a./DT member./NN of./IN our./PRP$ team./NN ,./, you./PRP will./MD assist./VB in./IN the./DT launch./NN of./IN a./DT new./JJ database./NN and./CC QA/QC./NNP system./NN that./WDT will./MD serve./VB the./DT needs./NNS of./IN our./PRP$ scientists./NNS ../. 
+
+
+Job./NNP Responsibilities./NNS :./: 
+
+-./: Assist./NN in./IN the./DT testing./NN and./CC implementation./NN of./IN a./DT new./JJ database./NN and./CC quality./NN assurance./NN /./NNP quality./NN control./NN system./NN ,./, for./IN example./NN :./: 
+-./: Import./NN data./NNS from./IN measurement./NN sites./NNS to./TO the./DT database./NN ;./: including./VBG preparation./NN of./IN data./NNS 
+-./: Develop./NN scripts./NNS to./TO extract./VB and./CC analyze./VB atmospheric./JJ aerosol./NN data./NNS and./CC meteorological./JJ data./NNS 
+-./: Develop./NN functions./NNS within./IN existing./VBG program./NN architecture./NN 
+-./: Search./NN for./IN opportunities./NNS for./IN system./NN optimization./NN in./IN the./DT database./NN and./CC QA/QC./NNP design./NN 
+
+
+Required./VBN Skills./NNS :./: 
+
+-./: Programming./NN experience./NN is./VBZ essential./JJ (./( e.g./JJ ../. python./NN ,./, Matlab./NNP ,./, etc./FW ../. )./) ;./: 
+-./: SQL./NN ,./, command./NN line./NN ,./, and/or./JJ IgorPro./NNP knowledge./NN is./VBZ desirable./JJ 
+-./: Works./VBZ well./RB independently./RB and./CC in./IN teams./NNS 
+
+
+Transportation./NN and./CC Housing./NN :./: 
+The./DT Downsview./NNP office./NN is./VBZ accessible./JJ by./IN public./JJ transit./NN ../. 
+
+
+Compensation./NN and./CC Benefits./NNP Information./NNP :./: 
+The./DT successful./JJ candidate./NN will./MD be./VB remunerated./VBN based./VBN upon./IN the./DT Treasury./NNP Board./NNP of./IN Canada./NNP 's./POS student./NN rates./NNS of./IN pay./NN :./: 
+https./NN :./: //www.tbs-sct.gc.ca/psm-fpfm/pay-remuneration/rates-taux/student-etudiants-eng.asp./JJ 
+http./NN :./: //www.tbs-sct.gc.ca/pol/doc-eng.aspx./JJ ?./. id=12582./NN 
+
+
+Start./NNP Date./NNP :./: January./NNP 2nd./CD ,./, 2017./CD 

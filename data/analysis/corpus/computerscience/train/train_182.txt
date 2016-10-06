@@ -1,0 +1,43 @@
+COMPANY./NN DESCRIPTION./NNP 
+SAP./NNP is./VBZ a./DT world./NN leader./NN in./IN enterprise./NN software./NN applications./NNS ../. We./PRP are./VBP the./DT world./NN 's./POS 3rd./CD largest./JJS independent./JJ software./NN manufacturer./NN by./IN market./NN cap./NN ,./, with./IN over./IN 310,000./CD customers./NNS in./IN 190./CD countries./NNS ../. 
+
+SAP./NNP helps./VBZ companies./NNS of./IN all./DT sizes./NNS and./CC industries./NNS innovate./VBP through./IN simplification./NN ../. Our./PRP$ business./NN software./NN products./NNS empowers./VBZ people./NNS and./CC organizations./NNS to./TO work./VB together./RB more./RBR efficiently./RB and./CC use./VB business./NN insight./NN more./RBR effectively./RB to./TO stay./VB ahead./RB of./IN the./DT competition./NN ../. SAP./NNP applications./NNS and./CC services./NNS enable./JJ customers./NNS to./TO operate./VB profitably./RB ,./, adapt./RB continuously./RB ,./, and./CC grow./VB sustainably./RB ../. 
+
+TASKS./NNP AND./NNP RESPONSIBILITIES./NNP 
+As./IN a./DT member./NN of./IN the./DT Product./NNP Management./NNP team./NN ,./, you./PRP will./MD work./VB closely./RB with./IN the./DT Business./NN 
+Development./NNP ,./, Sales./NNS ,./, Marketing./NN and./CC Engineering./NNP teams./NNS ,./, as./RB well./RB as./IN with./IN partners./NNS and./CC customers./NNS ../. Responsibilities./NNS vary./VBP and./CC depend./VBP on./IN the./DT current./JJ phase./NN of./IN the./DT specific./JJ business./NN line./NN you./PRP are./VBP involved./VBN ../. 
+
+Responsibilities./NNS can./MD include./VB researching./VBG markets./NNS and./CC competition./NN ,./, analysis./NN of./IN prospective./JJ 
+partners./NNS ,./, developing./VBG sales./NNS strategies./NNS and./CC tools./NNS ,./, and./CC responding./VBG to./TO queries./NNS from./IN customers./NNS ../. 
+
+Technical./JJ responsibilities./NNS may./MD include./VB creating./VBG sample./JJ programs./NNS for./IN new./JJ and./CC upcoming./JJ 
+technology./NN ,./, writing./VBG technical./JJ tips./NNS and./CC whitepapers./NNS ,./, assisting./VBG in./IN the./DT testing./NN of./IN new./JJ products./NNS 
+during./IN their./PRP$ beta./NN cycles./NNS ,./, product./NN positioning./NN ,./, and./CC monitoring./VBG online./JJ communities./NNS ../. You./PRP may./MD also./RB be./VB involved./VBN in./IN developing./VBG and./CC reviewing./VBG documents./NNS ,./, product./NN demonstrations./NNS ,./, webcasts./NNS and./CC other./JJ related./JJ activities./NNS with./IN team./NN members./NNS ../. 
+
+QUALIFICATIONS./NNP /./NNP SKILLS./NNP 
+For./IN this./DT position./NN ,./, the./DT following./JJ skills./NNS are./VBP an./DT asset./NN :./: 
+-./: C/C++./NN ,./, Java./NNP and./CC .NET./VB 
+-./: Database./NN application./NN development./NN (./( SQL./NNP )./) 
+-./: Web./NN application./NN development./NN (./( HTML./NNP and./CC PHP./NNP )./) 
+-./: Excellent./NN written./VBN and./CC verbal./JJ communication./NN skills./NNS 
+-./: Willingness./NN and./CC ability./NN to./TO learn./VB new./JJ concepts./NNS and./CC technologies./NNS 
+
+Additional./JJ assets./NNS :./: 
+-./: Linux./NN 
+-./: Application./NN development./NN 
+-./: Technical./JJ research./NN and./CC writing./NN 
+-./: Quality./NN Assurance./NNP experience./NN 
+-./: Enterprise./NN support./NN experience./NN 
+-./: Big./NN Data./NNS ,./, Internet./NNP of./IN Things./NNP ,./, Data./NNP Analytics./NNP and./CC Event./NNP Stream./NNP Processing./NNP 
+-./: SAP./NN technologies./NNS :./: SAP./NNP HANA./NNP ,./, SAP./NNP Business./NNP Objects./NNPS and./CC SAP./NNP Crystal./NNP Reports./NNS 
+
+EMPLOYEE./NNP BENEFITS./NNP 
+-./: Vibrant./NN coop./NN community./NN of./IN 25+./CD interns./NNS 
+-./: Access./NN to./TO weekly/bi-weekly./JJ technical./JJ and./CC non-technical./JJ industry./NN related./VBD seminars./NNS 
+-./: Borrow./NN hardware./NN components./NNS (./( commercial./JJ boards./NNS ,./, sensors./NNS ,./, 3D./CD printing./NN ,./, etc./FW ../. )./) from./IN the./DT hardware./NN shop./NN 
+-./: Unlimited./VBD free./JJ tea./NN ,./, coffee./NN and./CC pop./NN 
+-./: Foosball./NN tournaments./NNS 
+-./: Ping-Pong./NN and./CC pool./NN table./NN in./IN the./DT cafeteria./NN 
+
+SAP./NNP 'S./POS DIVERSITY./NNP COMMITMENT./NNP 
+To./TO harness./VB the./DT power./NN of./IN innovation./NN ,./, SAP./NNP invests./VBZ in./IN the./DT development./NN of./IN its./PRP$ diverse./NN employees./NNS ../. We./PRP aspire./VBP to./TO leverage./VB the./DT qualities./NNS and./CC appreciate./VB the./DT unique./JJ competencies./NNS that./IN each./DT person./NN brings./VBZ to./TO the./DT company./NN ../. 

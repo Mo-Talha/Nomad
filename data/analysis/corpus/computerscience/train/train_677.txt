@@ -1,0 +1,36 @@
+37.5./CD hours./NNS per./IN week./NN ,./, flexibility/extra./JJ hours./NNS as./IN required./JJ 
+Report./NN to./TO :./: Manager./NNP ,./, Business./NNP Support./NNP Centre./NNP 
+
+
+The./DT Information./NNP Technology./NNP Intern./NNP will./MD be./VB provided./VBN with./IN assignments./NNS to./TO support./VB the./DT various./JJ functions./NNS within./IN IT./NNP as./IN needed./VBN ../. This./DT will./MD be./VB in./IN the./DT areas./NNS of./IN :./: 
+
+-./: Project./NN support./NN 
+-./: Application./NN management./NN support./NN 
+-./: End-user./NN computing./VBG support./NN 
+-./: IS./NN Online./NNP Development./NNP 
+-./: Process./NN improvement./NN 
+
+Main./NNP responsibilities./NNS will./MD include./VB one./CD or./CC more./JJR of./IN the./DT following./JJ duties./NNS :./: 
+
+-./: Application./NN business./NN analysis./NN ,./, user./JJ acceptance./NN testing./NN and./CC deployment./NN planning./NN for./IN Purolator./NNP 's./POS Pension./NNP replacement./NN project./NN 
+-./: Improve./VB the./DT process./NN for./IN managing./VBG and./CC reporting./VBG on./IN our./PRP$ SAP./NNP ,./, Salesforce./NNP and./CC Email./NNP software./NN licenses./NNS and./CC user./NN system./NN access./NN 
+-./: Improve./NN and./CC manage./VB the./DT Purolator./NNP content./NN for./IN IT./NNP Central./NNP which./WDT will./MD be./VB used./VBN by./IN employees./NNS for./IN information./NN and./CC guidance./NN regarding./VBG IT./NNP services./NNS 
+-./: Works./VBZ cooperatively./RB with./IN internal./JJ stakeholders./NNS to./TO understand./VB needs./NNS &./CC requirements./NNS 
+-./: Liaise./NN with./IN the./DT internal./JJ and./CC external./JJ stakeholders./NNS 
+-./: Analyze./NN data./NNS and./CC provide./VB reports./NNS &./CC recommendations./NNS resulting./VBG from./IN the./DT analysis./NN 
+-./: Build./NN and./CC manage./NN inventory./NN lists./NNS 
+-./: Provide./NN intellectual./JJ thought./JJ leadership./NN on./IN creative./JJ ways./NNS to./TO address./VB problems./NNS 
+-./: Ad./NN hoc./NN initiatives./NNS or./CC projects./NNS as./IN required./JJ 
+
+Qualifications./NNS 
+
+-./: Pursuing./VBG post-secondary./JJ degree./NN 
+-./: Critical./JJ thinker./NN with./IN proven./JJ problem./NN solving./VBG ability./NN 
+-./: Excellent./NN quantitative./JJ and./CC qualitative./JJ research./NN and./CC analysis./NN skills./NNS 
+-./: Ability./NN to./TO grasp./VB complex./JJ concepts./NNS related./VBN to./TO integration./NN of./IN multiple./JJ systems./NNS and./CC how./WRB they./PRP satisfy./VBP business./NN processes./NNS 
+-./: Demonstrated./VBD skill./NN in./IN data./NNS analysis./NN with./IN exposure./NN to./TO a./DT variety./NN of./IN data./NNS file./NN formats./NNS 
+-./: Excellent./NN communication./NN skills./NNS both./DT written./VBN and./CC verbal./NNS are./VBP essential./JJ 
+-./: Detail./NN oriented./VBN ,./, possessing./VBG strong./JJ analytical./JJ skills./NNS and./CC the./DT ability./NN to./TO work./VB self-managed./JJ or./CC collaboratively./RB as./IN part./NN of./IN a./DT team./NN 
+-./: Excellent./NN written./VBN documentation./NN skills./NNS -./: ability./NN to./TO receive./VB verbal./JJ and./CC written./VBN input./NN and./CC consolidate./NN into./IN clear./JJ and./CC concise./JJ documentation./NN and./CC diagrams./NNS 
+-./: Strong./NN computer./NN skills./NNS including./VBG Microsoft./NNP Office./NNP and./CC Microsoft./NNP Project./NNP (./( Strong./NNP Excel./NNP skills./VBZ mandatory./JJ ;./: MS./NNP Access./NNP and./CC Visio./NNP an./DT asset./NN )./) 
+-./: Able./NN to./TO excel./VB in./IN a./DT changing./NN environment./NN ,./, lead./NN and./CC manage./VB several./JJ projects./NNS simultaneously./RB with./IN strong./JJ time./NN management./NN and./CC prioritization./NN skills./NNS 

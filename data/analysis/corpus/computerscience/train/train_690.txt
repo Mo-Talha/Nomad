@@ -1,0 +1,48 @@
+SAP./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Sept../NNP 23./CD ,./, 2016./CD from./IN 2:30./CD PM./NNP -./: 4:30./CD PM./NNP at./IN Bombshelter./NNP Pub./NNP ../. Please./NNP plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+_____________________________________________./NN 
+
+Reminder./NN :./: Students./NNS are./VBP responsible./JJ for./IN ensuring./VBG they./PRP are./VBP eligible./JJ for./IN an./DT 8-month./JJ work./NN term./NN before./IN applying./VBG ../. Please./NNP discuss./VB your./PRP$ work/study./NN sequence./NN flexibility./NN with./IN your./PRP$ academic./JJ advisor./NN as./RB soon./RB as./IN possible./JJ ../. 
+_______________________________________./NN 
+
+Location./NN :./: Vancouver./NNP ,./, BC./NNP ,./, CA./NNP 
+Requisition./NN ID./NNP :./: 124441./CD 
+Work./NNP Area./NNP :./: Information./NN Technology./NN 
+Expected./VBN Travel./NN :./: 0./CD -./: 10./CD %./NN 
+
+COMPANY./NN DESCRIPTION./NNP 
+As./IN market./NN leader./NN in./IN enterprise./NN application./NN software./NN ,./, SAP./NNP helps./VBZ companies./NNS of./IN all./DT sizes./NNS and./CC industries./NNS innovate./VBP through./IN simplification./NN ../. From./IN the./DT back./JJ office./NN to./TO the./DT boardroom./NN ,./, warehouse./NN to./TO storefront./VB ,./, on./IN premise./NN to./TO cloud./VB ,./, desktop./VB to./TO mobile./VB device./NN -./: SAP./JJ empowers./NNS people./NNS and./CC organizations./NNS to./TO work./VB together./RB more./RBR efficiently./RB and./CC use./VB business./NN insight./NN more./RBR effectively./RB to./TO stay./VB ahead./RB of./IN the./DT competition./NN ../. SAP./NNP applications./NNS and./CC services./NNS enable./JJ customers./NNS to./TO operate./VB profitably./RB ,./, adapt./RB continuously./RB ,./, and./CC grow./VB sustainably./RB ../. 
+
+Purpose./NNP and./CC Objectives./NNS 
+SAP./NNP Language./NNP Services./NNPS (./( SLS./NNP )./) is./VBZ a./DT global./JJ team./NN responsible./JJ for./IN translating./VBG all./DT SAP./NNP software./NN products./NNS and./CC a./DT variety./NN of./IN internal./JJ and./CC customer-facing./JJ content./NN into./IN more./JJR than./IN 35./CD languages./NNS ../. 
+
+As./IN a./DT member./NN of./IN the./DT SAP./NNP Language./NNP Services./NNPS team./NN in./IN Vancouver./NNP ,./, you./PRP will./MD work./VB in./IN a./DT dynamic./JJ environment./NN and./CC maintain./VBP internal./JJ systems./NNS and./CC applications./NNS to./TO support./VB the./DT localization./NN process./NN ../. In./IN addition./NN ,./, you./PRP will./MD have./VB the./DT opportunity./NN to./TO help./VB develop./VB our./PRP$ new./JJ translation./NN platform./NN in./IN the./DT Cloud./NNP ../. If./IN you./PRP have./VBP web./VBN development./NN skills./NNS and./CC want./VBP to./TO contribute./VB in./IN developing./VBG a./DT worldwide./NN platform./NN and./CC applications./NNS that./WDT are./VBP used./VBN internally./RB across./IN SAP./NNP and./CC externally./RB across./IN the./DT globe./NN then./RB this./DT may./MD be./VB the./DT role./NN for./IN you./PRP ../. 
+
+The./DT ideal./JJ candidate./NN for./IN this./DT position./NN is./VBZ a./DT team./NN player./NN ,./, possesses./VBZ excellent./JJ communication./NN skills./NNS ,./, and./CC demonstrates./VBZ a./DT strong./JJ understanding./NN of./IN software./NN development./NN and./CC localization./NN practices./NNS ../. 
+
+Expectations./NNS and./CC Tasks./NNS 
+Prepare./NNP ,./, reintegrate./NN and./CC manage./NN localizable./JJ resources./NNS for./IN translation./NN ../. 
+Work./NN with./IN localization./NN project./NN managers./NNS to./TO ensure./VB the./DT localization./NN process./NN runs./VBZ smoothly./RB and./CC on./IN schedule./NN ../. 
+Develop./NNP and./CC maintain./VBP internal./JJ tools./NNS and./CC scripts./NNS to./TO support./VB and./CC improve./VB the./DT localization./NN process./NN ../. 
+Monitor./NNP and./CC maintain./VB support./NN queues./NNS ../. Provide./VB primary./JJ support./NN ../. 
+Troubleshooting./VBG with./IN respect./NN to./TO system./NN failure./NN in./IN the./DT production./NN environment./NN ,./, including./VBG communications./NNS with./IN affected./JJ users./NNS as./IN required./VBN ../. 
+Analyze./NNP ,./, define./NN and./CC document./NN new./JJ requirements./NNS for./IN data./NNS ,./, workflow./NN ,./, business./NN processes./NNS ../. 
+Provide./VB estimates./NNS for./IN assigned./JJ work./NN ../. 
+Coordinate./NNP testing./NN ,./, integration./NN and./CC documentation./NN of./IN solution./NN 
+
+Skills./NNS and./CC Competencies./NNS 
+Web./NNP application./NN development./NN experience./NN in./IN :./: .NET./JJ C./NNP #./# ,./, Java./NNP ,./, Perl./NNP 
+Development./NNP experience./NN with./IN SQL./NNP Server./NNP and./CC Oracle./NNP ,./, trigger./NN and./CC stored./JJ procedures./NNS ../. 
+Ability./NN to./TO meet./VB aggressive./JJ deadlines./NNS and./CC quickly./RB understand./VB the./DT existing./VBG framework./NN and./CC business./NN requirements./NNS ../. 
+Flexible./JJ team-player./NN with./IN excellent./JJ interpersonal./JJ skills./NNS 
+Strong./JJ problem./NN solving./NN skills./NNS 
+Ability./NN to./TO prioritize./VB and./CC work./VB on./IN multiple./JJ tasks./NNS 
+Very./RB organized./VBN with./IN high./JJ attention./NN to./TO detail./VB 
+Willing./VBG and./CC able./JJ to./TO work./VB in./IN different./JJ technical./JJ environments./NNS 
+
+Education./NN and./CC Qualifications./NNS 
+Candidates./NNS to./TO currently./RB be./VB enrolled./VBN in./IN an./DT Bachelor./NNP 's./POS ,./, Masters./NNP ,./, MBA./NNP or./CC PhD./NNP degree./VBP program./NN which./WDT is./VBZ applicable./JJ to./TO the./DT position./NN (./( computer./NN science./NN or./CC equivalent./JJ proven./JJ experience./NN )./) ../. 
+
+Can./MD commit./VB for./IN 8./CD months./NNS full./JJ time./NN internship./NN starting./VBG January./NNP 2017./CD ../. 
+
+SAP./NNP 'S./POS DIVERSITY./NNP COMMITMENT./NNP 
+To./TO harness./VB the./DT power./NN of./IN innovation./NN ,./, SAP./NNP invests./VBZ in./IN the./DT development./NN of./IN its./PRP$ diverse./NN employees./NNS ../. We./PRP aspire./VBP to./TO leverage./VB the./DT qualities./NNS and./CC appreciate./VB the./DT unique./JJ competencies./NNS that./IN each./DT person./NN brings./VBZ to./TO the./DT company./NN 

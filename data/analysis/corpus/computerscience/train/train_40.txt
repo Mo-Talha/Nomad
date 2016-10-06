@@ -1,0 +1,68 @@
+Organization./NNP Profile./NNP :./: 
+LoyaltyOne./NNP works./VBZ with./IN more./JJR than./IN 100./CD of./IN the./DT world./NN 's./POS leading./VBG brands./NNS in./IN the./DT retail./JJ ,./, financial./JJ services./NNS ,./, grocery./NN ,./, petroleum./NN retail./NN ,./, travel./NN and./CC hospitality./NN industries./NNS to./TO profitably./VB change./VB customer./NN behavior./NN ../. Through./IN a./DT team./NN of./IN businesses./NNS ,./, including./VBG the./DT AIR./NN MILES./NNP Reward./NNP Program./NNP ,./, that./IN each./DT specialize./NN in./IN a./DT loyalty./NN discipline./NN ,./, LoyaltyOne./NNP designs./VBZ ,./, delivers./NNS and./CC manages./VBZ a./DT suite./NN of./IN loyalty./NN marketing./NN services./NNS focused./VBD on./IN consumer./NN data./NNS ,./, customer-centric./JJ retail./JJ strategies./NNS ,./, direct-to-consumer./JJ marketing./NN ,./, loyalty./NN consulting./NN and./CC more./JJR ../. 
+Furthermore./RB ,./, for./IN the./DT past./JJ 6./CD consecutive./JJ years./NNS ,./, LoyaltyOne./NNP has./VBZ been./VBN recognized./VBN by./IN Hewitt./NNP Associates./NNPS as./IN one./CD of./IN the./DT Best./JJS Employers./NNS in./IN Canada./NNP ,./, demonstrating./VBG LoyaltyOne./NNP 's./POS continued./JJ commitment./NN to./TO providing./VBG a./DT great./JJ work./NN experience./NN for./IN its./PRP$ associates./NNS and./CC a./DT great./JJ service./NN experience./NN for./IN its./PRP$ clients./NNS ../. 
+
+LoyaltyOne./NNP is./VBZ dedicated./VBN to./TO enriching./VBG the./DT careers./NNS and./CC lives./NNS of./IN our./PRP$ associates./NNS which./WDT is./VBZ evident./JJ by./IN the./DT following./JJ on-site./JJ amenities./NNS ,./, including./VBG :./: 
+-./: Free./JJ on-site./JJ Starbucks./NNP coffee./NN 
+-./: Subsidized./VBD caf./NN with./IN healthy./JJ food./NN options./NNS 
+-./: On-site./NN gym./NN ,./, massage./NN therapy./NN and./CC gym./NN classes./NNS 
+-./: Games./NNS room./NN 
+-./: Public./JJ transit./NN discounts./NNS 
+-./: Company./NN wide./JJ volunteer./NN event./NN and./CC charitable./JJ matching./NN donations./NNS 
+
+To./TO find./VB out./RP more./RBR about./IN our./PRP$ unique./JJ corporate./JJ culture./NN ,./, watch./VB our./PRP$ Award/Associate./NNP Testimony./NNP video./NN :./: http./NN :./: //www.youtube.com/watch./NN ?./. v=WMh1E4Ay4r0./NN 
+
+About./IN the./DT Role./NN :./: 
+Are./NNP you./PRP passionate./VBP about./IN leveraging./VBG your./PRP$ passion./NN and./CC curiosity./NN in./IN both./DT data./NNS and./CC business./NN analytics./NNS to./TO help./VB more./JJR than./IN one./CD hundred./CD of./IN the./DT world./NN 's./POS leading./VBG brands./NNS improve./JJ marketing./NN outcomes./NNS and./CC deliver./VB differentiated./VBN performance./NN ?./. Are./NNP you./PRP looking./VBG to./TO add./VB some./DT in-demand./JJ experience./NN to./TO your./PRP$ CV./NNP and./CC expand./VB your./PRP$ analytics./NNS expertise./NN in./IN one./CD of./IN the./DT most./RBS respected./JJ analytics./NNS companies./NNS in./IN Canada./NNP ?./. If./IN so./RB ,./, join./VB LoyaltyOne./NNP 's./POS growing./VBG analytics./NNS practice./NN to./TO become./VB a./DT part./NN of./IN a./DT team./NN comprised./VBN of./IN industry./NN leading./VBG ,./, business./NN oriented./VBD analytics./NNS thought./JJ leaders./NNS ../. Our./PRP$ team./NN translates./VBZ data./NNS into./IN insights./NNS ,./, strategy./NN and./CC results./NNS for./IN our./PRP$ clients./NNS ../. For./IN six./CD consecutive./JJ years./NNS ,./, LoyaltyOne./NNP has./VBZ been./VBN recognized./VBN by./IN Hewitt./NNP Associates./NNPS as./IN one./CD of./IN the./DT 50./CD Best./JJS Employers./NNS in./IN Canada./NNP ,./, demonstrating./VBG LoyaltyOne./NNP 's./POS continued./JJ commitment./NN to./TO providing./VBG a./DT great./JJ work./NN experience./NN for./IN its./PRP$ associates./NNS and./CC a./DT great./JJ service./NN experience./NN for./IN its./PRP$ clients./NNS ../. 
+
+Do./VBP n't./RB miss./VB this./DT opportunity./NN to./TO take./VB your./PRP$ co-op./JJ term./NN or./CC internship./NN to./TO a./DT whole./JJ new./JJ level./NN with./IN LoyaltyOne./NNP ../. 
+
+About./IN the./DT Team./NN 
+The./DT Marketing./NNP Analytics./NNP team./NN is./VBZ a./DT key./JJ strategic./JJ partner./NN to./TO a./DT number./NN of./IN internal./JJ departments./NNS responsible./JJ for./IN the./DT management./NN of./IN the./DT AIR./NNP MILES./NNP Reward./NNP Program./NNP ../. Through./IN insightful./JJ and./CC timely./JJ analysis./NN of./IN data./NNS from./IN a./DT multitude./NN of./IN sources./NNS ,./, the./DT team./NN is./VBZ responsible./JJ for./IN providing./VBG analytics./NNS support./NN for./IN the./DT entire./JJ AIR./NN MILES./NNP Reward./NNP Program./NNP in./IN areas./NNS including./VBG Collector./NNP Experience./NNP ,./, AIR./NNP MILES./NNP Program./NNP Design./NNP ,./, Marketing./NNP Channels./NNP ,./, Innovation./NNP ,./, Brand./NNP Management./NNP ,./, and./CC Sponsor./NNP relations./NNS ../. 
+
+About./IN the./DT Opportunity./NN 
+We./PRP are./VBP looking./VBG for./IN a./DT well-rounded./JJ Analytics./NNP &./CC Insights./NNP Analyst./NNP Intern./NNP to./TO join./VB the./DT Marketing./NNP Analytics./NNP team./NN in./IN our./PRP$ growing./VBG Analytics./NNP &./CC Insights./NNP practice./NN in./IN Toronto./NNP ../. We./PRP are./VBP looking./VBG for./IN bright./NN ,./, curious./JJ ,./, and./CC ambitious./JJ interns./NNS who./WP want./VBP to./TO develop./VB and./CC apply./VB both./DT their./PRP$ technical./JJ data./NNS skills./NNS and./CC business./NN acumen./NNS ../. The./DT Analyst./NNP Intern./NNP plays./VBZ an./DT integral./JJ role./NN in./IN the./DT application./NN &./CC execution./NN of./IN consumer./NN data./NNS and./CC analytics./NNS to./TO support./VB the./DT development./NN of./IN customer-centric./JJ business./NN strategies./NNS for./IN Canada./NNP 's./POS largest./JJS loyalty./NN program./NN ../. 
+The./DT Analyst./NNP Intern./NNP can./MD expect./VB both./DT theoretical./JJ and./CC hands-on./JJ training./NN on./IN Big./NNP Data./NNP tools./NNS and./CC techniques./NNS ,./, exposure./NN to./TO digital./JJ and./CC emerging./VBG channel./NN measurement./NN ,./, and./CC an./DT opportunity./NN to./TO present./VB their./PRP$ work./NN to./TO colleagues./NNS of./IN all./DT levels./NNS ../. The./DT Analyst./NNP Intern./NNP will./MD participate./VB in./IN LoyaltyOne./NNP 's./POS broader./JJR co-op/intern./JJ program./NN which./WDT offers./VBZ opportunities./NNS to./TO share./NN knowledge./NN and./CC experiences./NNS with./IN other./JJ Interns./NNP ,./, interact./NN and./CC network./NN with./IN senior./JJ leaders./NNS across./IN the./DT business./NN ,./, and./CC attend./VB Intern-specific./NNP team./NN building./NN events./NNS ../. 
+
+Responsibilities./NNS 
+-./: Subject./NN Matter./NNP Expert./NNP in./IN Loyalty./NNP &./CC Marketing./NNP Analytics./NNPS for./IN the./DT AIR./NNP MILES./NNP Reward./NNP Program./NNP 
+-./: Contribute./NN to./TO all./DT phases./NNS of./IN campaign./NN management./NN (./( ideation./NN ,./, planning./NN ,./, targeting./VBG ,./, measurement./NN ,./, recommendation./NN )./) with./IN a./DT focus./NN in./IN pre-analysis./NN and./CC post-analysis./NN 
+-./: Work./NN collaboratively./RB with./IN internal./JJ business./NN partners./NNS to./TO fully./RB understand./VB their./PRP$ needs./NNS 
+-./: Work./NN collaboratively./RB with./IN internal./JJ business./NN partners./NNS to./TO clearly./RB define./VB analysis./NN /./NNP campaign./NN scope./NN ,./, objectives./NNS ,./, targeting./VBG &./CC measurement./NN strategy./NN for./IN marketing./VBG initiatives./NNS 
+-./: Assist./NN in./IN the./DT translation./NN of./IN business./NN requirements./NNS into./IN technical./JJ specifications./NNS 
+-./: Extract./NN ,./, cleanse./NN and./CC modify./VB raw./JJ data./NNS from./IN multiple./JJ data./NNS sources./NNS ,./, conduct./VBP customer./NN analysis./NN or./CC campaign./NN measurement./NN to./TO identify./VB opportunities./NNS for./IN clients./NNS to./TO maximize./VB the./DT use./NN of./IN AIR./NNP MILES./NNP Reward./NNP Program./NNP to./TO drive./VB incremental./JJ sales./NNS 
+-./: Present./NN analysis./NN results./NNS and./CC recommendations./NNS in./IN business./NN language./NN in./IN different./JJ forums/meetings./NNS to./TO all./DT levels./NNS including./VBG senior./JJ management./NN 
+-./: Identify./NN further./JJ marketing./NN opportunities./NNS for./IN AIR./NNP MILES./NNP by./IN keeping./VBG up./RP to./TO date./NN on./IN the./DT latest./JJS trends./NNS in./IN the./DT loyalty./NN ,./, analytics./NNS and./CC marketing./NN spaces./NNS ../. 
+-./: Assist./NN in./IN creating./VBG case./NN studies./NNS to./TO demonstrate./VB how./WRB analytics./NNS drive./VBP revenue./NN ,./, profit./NN or./CC efficiencies./NNS for./IN our./PRP$ clients./NNS and./CC for./IN LoyaltyOne./NNP 
+-./: Automate./NN process./NN using./VBG SAS/SQL./NNP and/or./NNS make./VBP suggestions./NNS to./TO tool./VB /./NNP process./NN improvement./NN to./TO drive./VB operational./JJ efficiency./NN 
+-./: Ensure./NN timely./JJ completion./NN of./IN analysis./NN while./IN maintaining./VBG high./JJ quality./NN 
+-./: Balance./NN the./DT demands./NNS of./IN multiple./JJ concurrent./JJ projects./NNS while./IN maintaining./VBG a./DT high./JJ level./NN of./IN diplomacy./NN 
+-./: Respond./NN to./TO ad./NN hoc./NN requests./NNS for./IN analysis./NN ,./, data./NNS and./CC information./NN on./IN a./DT regular./JJ basis./NN 
+-./: Contribute./NN in./IN other./JJ corporate./JJ strategic./JJ initiatives./NNS as./IN required./VBN 
+
+Qualifications./NNS 
+Functional./JJ Expertise./NN :./: 
+-./: Currently./RB enrolled./VBN in./IN a./DT Bachelor./NNP 's./POS or./CC Master./NNP 's./POS degree./JJ program./NN in./IN a./DT quantitative./JJ field./NN :./: Statistics./NNS ,./, Analytics/Management./NNP Analytics./NNP ,./, Economics./NNP ,./, Computer./NNP Science./NNP ,./, Engineering./NNP ,./, Mathematics./NNP ,./, Business./NNP Intelligence./NNP ,./, Commerce/Business./NNP Administration./NNP 
+-./: Previous./JJ experience./NN with./IN any./DT of./IN :./: SAS./NNP ,./, SQL./NNP ,./, relational./JJ databases./NNS ,./, data./NNS warehouse./NN ,./, BI./NNP &./CC data./NNS visualization./NN tools./NNS 
+-./: Previous./JJ programming./VBG experience./NN in./IN any./DT of./IN :./: VB./NNP ,./, R./NNP ,./, C+./NNP skills./VBZ an./DT asset./NN 
+-./: Experience./NN with./IN Microsoft./NNP Office./NNP (./( advanced./JJ Excel./NNP and./CC PowerPoint./NNP )./) 
+
+Business./NN Acumen./NNP /./NNP Soft./NNP Skills./NNS :./: 
+-./: Natural./JJ curiosity./NN and./CC tendency./NN to./TO question./VB 'Why./FW ?./. './'' 
+-./: Retail./JJ /./NN merchandising./NN /./NNP financial./JJ services./NNS industry./NN knowledge./VBZ a./DT definite./JJ advantage./NN 
+-./: Problem./NN solving./VBG skills./NNS coupled./VBN with./IN the./DT 'can./JJ do./NN './POS attitude./NN 
+-./: A./DT strategic./JJ thinker./NN who./WP can./MD link./VB assigned./JJ tasks./NNS to./TO the./DT bigger./JJR picture./NN 
+-./: Excellent./NN listening./NN ,./, presentation./NN and./CC communication./NN skills./NNS (./( verbal./JJ and./CC written./VBN )./) 
+-./: Excellent./NN organizational./JJ ,./, time./NN management./NN and./CC project./NN management./NN skills./NNS 
+-./: Comfortable./JJ working./VBG with./IN both./DT technical./JJ and./CC non-technical./JJ team./NN members./NNS 
+
+Leadership./NN :./: 
+-./: Ability./NN to./TO effectively./RB manage./VB multiple./JJ assignments./NNS at./IN once./RB 
+-./: Provide./VB fact-based./JJ opinion./NN in./IN campaign./NN design./NN and./CC strategy./NN recommendations./NNS 
+
+Application./NN Process./NN :./: 
+Please./NNP submit./VB your./PRP$ application./NN ,./, consisting./VBG of./IN Cover./NNP Letter./NNP ,./, Resume./NNP and./CC Transcripts./NNP to./TO JobMine./NNP ../. 
+
+Transcripts./NNS to./TO submit./VB :./: all./DT university./NN grades./NNS received./VBD to./TO date./NN 
+
+Alliance./NNP Data./NNP is./VBZ an./DT Equal./JJ Employment./NNP Opportunity./NNP employer./NN ../. Accordingly./RB ,./, we./PRP will./MD make./VB reasonable./JJ accommodations./NNS to./TO respond./VB to./TO the./DT needs./NNS of./IN people./NNS with./IN disabilities./NNS in./IN accordance./NN with./IN legislation./NN ../. 

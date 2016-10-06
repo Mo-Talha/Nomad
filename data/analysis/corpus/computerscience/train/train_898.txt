@@ -1,0 +1,37 @@
+Reminder./NN :./: Students./NNS are./VBP responsible./JJ for./IN ensuring./VBG they./PRP are./VBP eligible./JJ for./IN an./DT 8-month./JJ work./NN term./NN before./IN applying./VBG ../. Please./NNP discuss./VB your./PRP$ work/study./NN sequence./NN flexibility./NN with./IN your./PRP$ academic./JJ advisor./NN as./RB soon./RB as./IN possible./JJ ../. 
+
+Open./JJ to./TO Computer./NNP Science./NNP ,./, Software./NNP ,./, Electrical./NNP ,./, Mechatronics./NNP or./CC Nanotechnology./NNP Engineering./NNP 
+
+Academic./JJ Term./NNP :./: 2nd./CD Year./NN and./CC above./IN with./IN appropriate./JJ experience./NN 
+
+Commitment./NN :./: An./DT 8./CD month./NN commitment./NN is./VBZ a./DT definite./JJ advantage./NN ../. Please./NNP specify./VB in./IN your./PRP$ cover./NN letter./NN ../. 
+
+Spartan./NNP Bioscience./NNP is./VBZ developing./VBG our./PRP$ next-generation./NN DNA./NNP devices./NNS and./CC we./PRP 're./VBP looking./VBG for./IN smart./JJ ,./, hard-working./JJ students./NNS with./IN lots./NNS of./IN initiative./NN and./CC energy./NN ../. Join./VB us./PRP and./CC learn./VB career-accelerating./JJ skills./NNS from./IN our./PRP$ seasoned./JJ entrepreneurial./JJ team./NN of./IN physicians./NNS ,./, scientists./NNS ,./, optical./JJ ,./, mechanical./JJ ,./, and./CC electrical./JJ engineers./NNS ../. Spartan./NNP is./VBZ a./DT fast-growing./JJ start-up./NN pushing./VBG the./DT limits./NNS of./IN DNA./NNP device./NN technology./NN and./CC challenging./VBG pre-conceived./JJ notions./NNS about./IN what./WP can./MD and./CC can./MD not./RB be./VB done./VBN ../. You./PRP will./MD have./VB the./DT chance./NN to./TO be./VB a./DT vital./JJ contributing./JJ member./NN of./IN our./PRP$ dynamic./JJ R./NNP &./CC D./NNP team./NN ../. 
+
+
+You./PRP will./MD be./VB relied./VBN upon./IN to./TO write./VB ,./, improve./VB ,./, debug./NN and./CC document./NN the./DT code./NN that./WDT will./MD power./NN our./PRP$ next./JJ generation./NN devices./NNS ../. You./PRP will./MD be./VB expected./VBN to./TO intimately./RB know./VB the./DT code./NN requirements./NNS and./CC regularly./JJ challenge./NN those./DT requirements./NNS in./IN order./NN to./TO make./VB the./DT device./NN performance./NN better./RBR and./CC increase./VB user./JJR acceptance./NN ../. The./DT code./NN you./PRP write./VBP will./MD be./VB Kevlar./NNP bulletproof./NN ,./, commented./VBD worthy./NN of./IN Shakespeare./NNP ,./, is./VBZ scary./JJ efficient./NN ,./, and./CC intuitively./RB obvious./JJ to./TO your./PRP$ successor./NN ../. 
+
+
+General./JJ Requirements./NNS 
+-./: Previous./JJ co-op./JJ experience./NN in./IN a./DT Software./NNP Development./NNP role./NN ../. Be./NNP specific./JJ in./IN your./PRP$ application./NN 
+-./: Strong./JJ interpersonal./JJ skills./NNS 
+-./: Able./NN to./TO work./VB well./RB independently./RB ,./, or./CC within./IN a./DT small./JJ team./NN 
+-./: Excellent./NN trouble-shooting./NN skills./NNS 
+-./: Experience./NN with./IN control./NN systems./NNS ,./, thermal./JJ systems./NNS ,./, electrical./JJ systems./NNS ,./, manufacturing./VBG and/or./NN optics./NNS is./VBZ an./DT asset./NN 
+-./: Experience./NN coding./VBG with./IN the./DT following./VBG are./VBP all./DT assets./NNS :./: 
+C./NNP &./CC C./NNP #./# 
+Linux./NN 
+Python./NN 
+Bug./NNP tracking./VBG 
+
+Top./JJ 10./CD reasons./NNS to./TO work./VB at./IN Spartan./NNP Bioscience./NNP :./: 
+1./CD ../. We./PRP work./VBP because./IN we./PRP believe./VBP in./IN what./WP we./PRP do./VBP ../. No./VB one./NN punches./VBZ the./DT clock./NN ../. 
+2./CD ../. Supportive./JJ team./NN ../. We./PRP 're./VBP here./RB for./IN each./DT other./JJ ../. No./DT lone./NN wolves./VBZ ../. 
+3./LS ../. Comfortable./JJ dress./NN code./NN ../. Jeans./NNPS and./CC T-shirt./NNP if./IN you./PRP 're./VBP not./RB meeting./VBG customers./NNS ../. 
+4./CD ../. Balance./NNP work./NN and./CC play./NN ../. You./PRP 're./VBP allowed./VBN to./TO have./VB a./DT life./NN ../. 
+5./CD ../. We./PRP get./VBP things./NNS done./VBN ../. No./DT excuses./NNS ../. No./DT red./JJ tape./NN ../. 
+6./CD ../. Speak./VB your./PRP$ mind./NN ../. Students./NNS may./MD challenge./VB the./DT CEO./NNP ../. 
+7./CD ../. Waste./MD not./RB ,./, want./VBP not./RB ../. We./PRP make./VBP the./DT most./RBS out./IN of./IN what./WP we./PRP have./VBP ../. 
+8./CD ../. Meaningful./JJ mission./NN ../. Faster./NNP DNA./NNP results./NNS improve./VBP lives./NNS ../. 
+9./CD ../. Help./VB make./VB history./NN ../. Bring./VB the./DT power./NN of./IN DNA./NNP testing./VBG to./TO everyone./NN ../. 
+10./CD ../. There./EX is./VBZ such./JJ a./DT thing./NN as./IN a./DT free./JJ lunch./NN after./IN all./DT ../. Company./NNP lunch./NN every./DT Friday./NNP 

@@ -1,0 +1,32 @@
+As./IN our./PRP$ Software./NNP Engineer./NNP ,./, you./PRP will./MD be./VB a./DT team./NN player./NN who./WP enjoys./VBZ working./VBG in./IN a./DT collaborative./JJ environment./NN to./TO produce./VB and./CC deliver./VB smart./JJ and./CC innovative./JJ web-based./JJ applications./NNS for./IN a./DT dynamic./JJ and./CC varied./JJ client./NN base./NN ../. 
+
+As./IN our./PRP$ Software./NNP Engineer./NNP ,./, you./PRP will./MD be./VB responsible./JJ for./IN the./DT following./NN :./: 
+-./: Works./VBZ with./IN multi-disciplinary./JJ team./NN to./TO understand./VB system./NN /./NNP application./NN requirements./NNS and./CC recommend./VB appropriate./JJ solutions./NNS 
+-./: Independently./RB ,./, and./CC as./IN part./NN of./IN a./DT team./NN ,./, develops./VBZ software./NN solutions./NNS that./WDT meets./VBZ client./NN 's./POS needs./NNS and./CC perform./VB efficiently./RB and./CC as./IN designed./VBN 
+-./: Capable./NN of./IN performing./VBG a./DT range./NN of./IN programming./VBG functions./NNS while./IN applying./VBG technical./JJ best./JJS practices./NNS 
+-./: Unit./NN testing./JJ and./CC program./NN debugging./NN 
+-./: Consistently./RB delivers./VBZ high-quality./NN output./NN 
+-./: Willingness./NN to./TO explore./VB new./JJ technologies./NNS ,./, learn./VBP new./JJ concepts./NNS and./CC share./NN ideas./NNS with./IN others./NNS 
+-./: Mentors./NNS Jr../NNP developers./NNS to./TO encourage./VB and./CC facilitate./VB their./PRP$ professional./JJ development./NN 
+
+As./IN our./PRP$ Software./NNP Engineer./NNP ,./, you./PRP will./MD possess./VB the./DT following./JJ skills./NNS ,./, attributes./NNS and./CC experience./NN :./: 
+-./: 3rd./CD or./CC 4th./CD year./NN student./NN pursuing./VBG a./DT degree./NN in./IN Computer./NNP Science./NNP or./CC related./VBN field./NN 
+-./: Co-op./NN experience./NN in./IN building./VBG large-scale./JJ web./NN applications./NNS and./CC infrastructure./NN 
+-./: Co-op./NN experience./NN with./IN web./JJ front-end./JJ development./NN :./: W3C./NNP Compliant./NNP ,./, XHTML./NNP ,./, CSS./NNP ,./, Javascript./NNP and./CC libraries./NNS such./JJ as./IN JQuery./NN 
+-./: Co-op./NN experience./NN with./IN creating./VBG secure./NN websites./VBZ or./CC apps./VB 
+-./: Proficiency./NN with./IN Perl./NNP ,./, PHP./NNP ,./, Python./NNP or./CC Ruby./NNP 
+-./: Excellent./NN knowledge./NN and./CC experience./NN with./IN both./DT object-oriented./JJ and./CC service./NN oriented./VBD programming./VBG paradigms./NN (./( including./VBG C++./NNP and/./NN or./CC Java./NNP )./) 
+-./: Knowledge./NN of./IN database./NN theory./NN ;./: familiarity./NN with./IN MySQL./NNP 
+-./: Backend./NN web./NN development./NN within./IN frameworks./NNS like./IN Django./NNP ,./, AppEngine./NNP and./CC Rails./NNP 
+-./: Creativity./NN and./CC ability./NN to./TO learn./VB and./CC solve./VB problems./NNS quickly./RB in./IN a./DT fast-paced./JJ environment./NN 
+-./: Self-motivated./JJ engineer./NN who./WP can./MD take./VB the./DT initiative./NN and./CC work./NN effectively./RB both./DT independently./RB and./CC as./IN part./NN of./IN a./DT team./NN of./IN engineers./NNS 
+-./: Experience./NN working./VBG with./IN a./DT version./NN control./NN system./NN 
+-./: Understands./NNS complex./JJ web./NN development./NN ,./, .Net./JJ concepts./NNS and./CC database./NN concepts./NNS 
+-./: Experience./NN with./IN Agile/Scrum./NNP and./CC test-driven./JJ development./NN 
+-./: Data./NN architecture./NN and./CC external./JJ data./NNS integration./NN experience./NN desired./VBD 
+
+BNOTIONS./NNP is./VBZ a./DT Toronto./NNP based./VBN innovation./NN company./NN that./WDT works./VBZ with./IN forward-thinking./JJ global./JJ brands./NNS and./CC disruptive./JJ entrepreneurs./NNS ../. Our./PRP$ team./NN of./IN 60./CD focuses./NNS on./IN strategy./NN ,./, design./NN ,./, and./CC development./NN of./IN mobile./NN ,./, web./NN and./CC social./JJ products./NNS ../. Our./PRP$ approach./NN solves./VBZ tough./JJ problems./NNS ,./, overcomes./RB complicated./VBN challenges./NNS and./CC creates./NNS opportunities./NNS through./IN innovation./NN ../. Our./PRP$ deliverables./NNS are./VBP products./NNS and./CC thinking./VBG that./DT creates./VBZ long-term./JJ value./NN for./IN our./PRP$ clients./NNS ,./, not./RB campaigns./VB that./DT disappear./NN as./RB quickly./RB as./IN their./PRP$ impact./NN ../. 
+
+Become./NNP an./DT astronaut./NN and./CC apply./VB for./IN this./DT position./NN with./IN us./PRP today./NN -./: together./RB ,./, we./PRP can./MD travel./VB like./IN rising./VBG stars./NNS !./. 
+
+Nine./NNP to./TO fivers./NNS need./MD not./RB apply./VB ../. 

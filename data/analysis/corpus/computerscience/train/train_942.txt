@@ -1,0 +1,31 @@
+Summary./JJ 
+DADOS./NNP is./VBZ an./DT ICT./NNP project./NN under./IN the./DT management./NN of./IN the./DT Techna./NNP Institute./NNP ../. DADOS./NNP is./VBZ a./DT web./JJ platform./NN that./WDT allows./VBZ for./IN the./DT administration./NN of./IN qualitative./JJ and./CC quantitative./JJ research./NN by./IN collecting./VBG ,./, managing./NN and./CC analyzing./VBG data./NNS ../. DADOS./NNP also./RB provides./VBZ an./DT extensive./JJ administrative./JJ interface./NN ,./, with./IN capabilities./NNS to./TO create./VB ,./, design./NN and./CC manage./VB clinical./JJ research./NN forms./NNS intuitively./RB ,./, as./RB well./RB as./IN an./DT intuitive./JJ patient./NN portal./NN to./TO allow./VB the./DT collection./NN of./IN data./NNS through./IN mobile./JJ devices./NNS ../. 
+
+Find./VB out./RP more./JJR at./IN www.technainstitute.com./NN 
+
+Responsibilities./NNS 
+The./DT DADOS./NNP team./NN is./VBZ looking./VBG for./IN someone./NN interested./JJ in./IN working./VBG as./IN part./NN of./IN a./DT small./JJ group./NN of./IN developers./NNS and./CC technical./JJ analysts./NNS in./IN developing./VBG new./JJ functionality./NN and./CC features./NNS within./IN DADOS./NNP ../. 
+Tasks./NNS :./: 
+-./: Work./NN with./IN lead./JJ developer./NN on./IN creating./VBG a./DT generic./JJ platform./NN for./IN data./NNS capture./NN and./CC analysis./NN 
+-./: Gather./NN user./NN requirements./NNS from./IN health./NN researchers./NNS 
+-./: Develop./NN data./NNS structures./NNS that./WDT will./MD allow./VB flexible./JJ growth./NN of./IN the./DT platform./NN 
+-./: Work./NN with./IN the./DT latest./JJS technologies./NNS and./CC methodologies./NNS for./IN front./NN ,./, middle./JJ and./CC backend./JJ communication./NN 
+-./: Document./NN all./DT development./NN work./NN 
+
+Required./VBN Skills./NNS 
+Requirements./NNS :./: 
+-./: Comp./NN ../. Sci./Eng./NNP ../. background./NN 
+-./: Proven./NN ability./NN to./TO code./VB 
+-./: Demonstrates./VBZ an./DT understanding./NN of./IN the./DT MVVC./NNP pattern./NN 
+-./: Experience./NN with./IN Underscore.js./NNP ,./, Lodash.js./NNP ,./, Lazy.js./NNP or./CC functional./JJ programming./NN is./VBZ a./DT plus./JJ 
+-./: Quick./NN learner./NN 
+-./: Passion./NN for./IN problem./NN solving./NN 
+-./: The./DT ability./NN to./TO work./VB on./IN individual./JJ tasks./NNS as./IN part./NN of./IN a./DT larger./JJR team./NN goal./NN 
+
+Technologies./NNS used./VBN (./( experience./NN in./IN these./DT is./VBZ not./RB a./DT requirement./NN )./) :./: 
+-./: AngularJS./NN ,./, JavaScript./NNP ,./, CSS./NNP ,./, LESS./NNP ,./, HTML5./NNP ,./, Lodash./NNP 
+
+Career./NNP Development./NNP and./CC Training./NNP 
+-./: Work./NN with./IN experienced./JJ developers./NNS ../. 
+-./: Gain./NN experience./NN in./IN task./NN management./NN software./NN ../. 
+-./: Contribute./NN in./IN team./NN brainstorming/planning./NN meetings./NNS ../. 

@@ -1,0 +1,21 @@
+JOB./NNP DESCRIPTION./NNP 
+The./DT Canadian./JJ Cyber./NNP Incident./NNP Response./NNP Centre./NNP (./( CCIRC./NNP )./) is./VBZ responsible./JJ for./IN providing./VBG mitigation./NN advices./NNS on./IN cyber./NN threats./NNS and./CC coordinating./VBG the./DT national./JJ response./NN to./TO cyber./VB security./NN incidents./NNS ,./, with./IN a./DT focus./NN on./IN the./DT protection./NN of./IN national./JJ critical./JJ infrastructure./NN ../. CCIRC./NNP is./VBZ looking./VBG for./IN a./DT talented./JJ and./CC motivated./JJ COOP./NNP student./NN to./TO contribute./VB to./TO their./PRP$ malware./NN analysis./NN research./NN program./NN ../. CCIRC./NNP offers./VBZ excellent./JJ laboratory./NN facilities./NNS for./IN conducting./VBG network./NN experiments./NNS safely./RB and./CC efficiently./RB in./IN order./NN to./TO test./VB and./CC develop./VB cyber./JJ defence./NN tools./NNS ../. Join./NNP CCIRC./NNP 's./POS dynamic./JJ and./CC innovative./JJ team./NN and./CC gain./NN valuable./JJ work./NN experience./NN ,./, with./IN a./DT rewarding./VBG sense./NN of./IN accomplishment./JJ Information./NN about./IN CCIRC./NNP can./MD be./VB found./VBN at./IN :./: http./NN :./: //www.publicsafety.gc.ca/ccirc./NN 
+
+The./DT main./JJ tasks./NNS related./VBN to./TO the./DT project./NN include./NN :./: 
+-Designing./VBG virtual./JJ environments./NNS to./TO emulate./VB various./JJ types./NNS of./IN malware-related./JJ network./NN incident./NN scenarios./NNS possibly./RB affecting./VBG Canada./NNP 's./POS critical./JJ infrastructures./NNS ../. 
+-Using./VBG virtualization./NN technology./NN APIs./NNP to./TO extend./VB the./DT automated./VBN malware./NN analysis./NN capabilities./NNS of./IN CCIRC./NNP ../. 
+-Performing./VBG quality./NN assurance./NN through./IN TCP/IP./NNP traffic./NN and./CC system./NN logs./JJ analysis./NN ../. 
+-Java./NN ,./, Python./NNP ,./, and/or./NN Ruby./NNP programming./NN ../. 
+
+Other./JJ tasks./NNS may./MD also./RB include./VB :./: 
+-Database./JJ administration./NN and./CC design./NN ../. 
+-Web./NN programming./NN ../. 
+-Linux/FreeBSD/Windows./NNS system./NN installation/configuration/administration./NN ../. 
+-Computer./NN equipment./NN maintenance./NN ../. 
+-Participate./NN in./IN CCIRC./NNP operations./NNS if./IN and./CC when./WRB required./VBN ../. 
+
+REQUIREMENTS./NNS 
+-Applicant./JJ must./MD be./VB a./DT full-time./JJ student./NN registered./VBN in./IN a./DT coop./JJ program./NN of./IN Computer./NNP Science./NNP ,./, Software./NNP Engineering./NNP ,./, Information./NNP Technology./NNP Engineering./NNP or./CC Computer./NNP Engineering./NNP ../. 
+-Spoken./VBN and./CC written./VBN language./NN (./( s./JJ )./) :./: English./JJ or./CC French./JJ ../. 
+-Knowledge./NN of./IN the./DT following./JJ technologies./NNS :./: virtualization./NN technology./NN (./( e.g./JJ ../. VMware./NNP ESX./NNP ,./, VMware./NNP Workstation./NNP ,./, Virtual./NNP Box./NNP )./) ,./, Java./NNP ,./, PHP./NNP ,./, MySQL./NNP ,./, XML./NNP ,./, TCP/IP./NNP ,./, and./CC Wireshark./NNP ../. 
+-Software./NN Analysis./NNP and./CC Design./NNP (./( MVC./NNP )./) ../. 

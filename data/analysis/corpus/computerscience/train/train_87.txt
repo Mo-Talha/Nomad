@@ -1,0 +1,50 @@
+A./DT Thinking./NNP Ape./NNP Entertainment./NNP Ltd../NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Sept../NNP 20./CD ,./, 2016./CD from./IN 7:30./CD PM./NNP -./: 9:30./CD PM./NNP at./IN Tatham./NNP Centre./NNP -./: 2218./CD A./NNP and./CC B./NNP ../. Please./NNP plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register.../VB 
+_________________________________________________________./NN 
+
+We./PRP are./VBP looking./VBG for./IN smart./JJ engineers./NNS to./TO join./VB us./PRP on./IN a./DT co-op./JJ term./NN ;./: we./PRP care./VBP less./RBR about./IN experience./NN and./CC more./JJR about./IN raw./JJ talent./NN ../. As./IN a./DT core./NN member./NN of./IN our./PRP$ team./NN ,./, you./PRP will./MD help./VB build./VB and./CC ship./VB top-grossing./JJ mobile./JJ games./NNS to./TO our./PRP$ fanatic./JJ communities./NNS around./IN the./DT world./NN ../. 
+
+A./DT Thinking./NNP Ape./NNP is./VBZ built./VBN to./TO allow./VB you./PRP to./TO do./VB great./JJ work./NN ../. We./PRP champion./VBP a./DT culture./NN of./IN ownership./NN ,./, based./VBN on./IN exploration./NN and./CC debate./NN regardless./NN of./IN position./NN ../. Our./PRP$ team./NN is./VBZ supported./VBN with./IN an./DT open./JJ concept./NN studio./NN space./NN ,./, moveable./JJ standing./VBG workstations./NNS and./CC employee-determined./JJ work./NN schedules./NNS ../. We./PRP keep./VBP communication./NN flowing./VBG with./IN quarterly./JJ State./NNP of./IN the./DT Ape./NNP meetings./NNS ,./, face./NN time./NN with./IN founders./NNS and./CC regular./JJ one-on-ones./NNS with./IN your./PRP$ team./NN lead./NN ../. 
+
+If./IN you./PRP 're./VBP ready./JJ to./TO make./VB the./DT next./JJ generation./NN of./IN top./JJ grossing./VBG mobile./JJ games./NNS ,./, we./PRP 'd./MD love./VB to./TO hear./VB from./IN you./PRP !./. 
+
+Please./NNP submit./VB your./PRP$ application./NN on./IN our./PRP$ website./JJ http./NN :./: //www.athinkingape.com./NN and./CC through./IN JobMine./NNP ../. 
+
+Responsibilities./NNS 
+Areas./NNP of./IN work./NN that./IN co-ops./NNS have./VBP access./NN to./TO :./: 
+Client./NN development./NN :./: developing./NN iOS./NN and./CC Android./NNP products./NNS from./IN scratch./NN and./CC shipping./VBG worldwide./RB featured./VBN products./NNS to./TO the./DT App./NNP Store./NNP 
+Distributed./VBN systems./NNS :./: constructing./NN applications./NNS using./VBG service./NN oriented./VBD architectures./NNS that./WDT power./NN our./PRP$ live./JJ gaming./NN products./NNS 
+Analytics./NNS :./: creating./VBG data./NNS visualizations./NNS and./CC tools./NNS to./TO help./VB drive./VB key./JJ product./NN decisions./NNS and./CC customer./NN acquisition./NN strategy./NN 
+Data./NNP mining./NN :./: building./NN a./DT continuous./JJ real-time./JJ data./NNS collection./NN and./CC mining./NN platform./NN for./IN player./NN behaviour./CD intelligence./NN 
+
+Required./VBN Skills./NNS 
+Things./NNS we./PRP look./VBP for./IN :./: 
+Strong./JJ algorithmic./JJ and./CC problem./NN solving./NN skills./NNS 
+Strong./JJ communication./NN skills./NNS ;./: clear./JJ writing./NN and./CC coding./VBG ability./NN is./VBZ a./DT must./MD 
+Enthusiastic./JJ learner./NN 
+Ownership./NN :./: takes./VBZ pride./NN and./CC responsibility./NN in./IN their./PRP$ own./JJ work./NN 
+
+Tell./VB us./PRP if./IN you./PRP :./: 
+Contribute./NNP to./TO an./DT open./JJ source./NN project./NN 
+Work./NN on./IN side./NN projects./NNS 
+Have./NNP participated./VBN in./IN hackathons./NNS 
+
+Things./NNS that./WDT do./VBP n't./RB matter./VB as./RB much./JJ :./: 
+Knowledge./NNP of./IN specific./JJ languages./NNS or./CC domain./NN expertise./NN in./IN particular./JJ platforms./NNS 
+Mobile./NNP development./NN experience./NN 
+Specific./JJ year./NN level./NN 
+
+Transportation./NN And./CC Housing./NN 
+We./PRP provide./VBP a./DT relocation./NN reimbursement./NN of./IN $./$ 1,200./CD 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+Monthly./NNP social./JJ &./CC teambuilding./VBG events./NNS 
+Flexible./JJ hours./NNS 
+Participate./VB in./IN weekly./JJ board./NN game./NN /./NNP Wii./NNP tournaments./NNS 
+Employee./NNP referral./JJ bonus./NN 
+Well./RB stocked./VBN kitchen./NN with./IN unlimited./JJ snacks./NNS 
+Weekly./RB catered./VBD lunches./NNS 
+Birthday./NNP and./CC anniversary./JJ celebrations./NNS 
+Massage./NNP chair./NN 
+Awesome./NNP swag./NN 
+
+Please./NNP apply./VB directly./RB to./TO :./: http./NN :./: //grnh.se/vso8l2./NN AND./CC to./TO JobMine./NNP ../. 

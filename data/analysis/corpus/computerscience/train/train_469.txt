@@ -1,0 +1,18 @@
+Narrative./JJ Description./NNP of./IN Job./NNP /./NNP Project./NNP 
+
+Business./NN Intelligence./NN is./VBZ used./VBN in./IN the./DT Maintenance./NNP Engineering./NNP team./NN through./IN the./DT use./NN of./IN MicroStrategy./NNP software./NN ../. Our./PRP$ team./NN collects./NNS and./CC stores./NNS a./DT large./JJ variety./NN of./IN aircraft./NN information./NN in./IN an./DT Oracle./NNP database./NN ../. MicroStrategy./NNP leverages./VBZ this./DT information./NN to./TO allow./VB the./DT organization./NN to./TO make./VB data./NNS driven./RB business./NN decisions./NNS ../. This./DT project./NN aims./VBZ to./TO improve./VB analytics./NNS capabilities./NNS and./CC increase./NN efficiency./NN through./IN database./NN design./NN enhancement./NN and./CC MicroStrategy./NNP integration./NN ../. 
+
+The./DT project./NN involves./VBZ developing./VBG solutions./NNS based./VBN on./IN understanding./VBG the./DT needs./NNS of./IN the./DT business./NN ,./, the./DT exiting./VBG database./NN structure./NN ,./, and./CC the./DT opportunities./NNS for./IN improvement./NN and./CC additional./JJ functionalities./NNS ../. Various./JJ activities./NNS will./MD be./VB required./VBN ,./, include./VBP creating./VBG tables./NNS and./CC scripts./NNS in./IN an./DT oracle./NN environment./NN with./IN SQL./NNP ../. Additional./NNP effort./NN will./MD need./VB to./TO be./VB put./VBN into./IN developing./VBG ETL./NNP scripts./NNS to./TO ensure./VB data./NNS is./VBZ transferred./VBN from./IN a./DT DEV./NNP to./TO QA./VB to./TO Production./NNP environment./NN ../. 
+
+The./DT individual./NN will./MD work./VB under./IN the./DT guidance./NN of./IN Maintenance./NNP Data./NNP Management./NNP database./NN specialist./NN and./CC will./MD collaborate./VB with./IN end./NN users./NNS to./TO assemble./JJ business./NN requirements./NNS ,./, develop./VB the./DT scripts./NNS ,./, tables./NNS and./CC ETL./NNP necessary./JJ for./IN the./DT project./NN ../. 
+
+
+Requirements/Responsibilities/Qualifications./NNS :./: 
+-./: Must./NN be./VB legally./RB eligible./JJ to./TO work./VB in./IN Canada./NNP 
+-./: A./DT 3rd./CD -./: 4th./CD year./NN student./NN 
+-./: Strong./JJ relational./JJ database./NN experience./NN such./JJ as./IN Oracle./NNP or./CC SQL./NNP Server./NNP 
+-./: Strong./NN PLSQL./NNP or./CC SQL./NNP scripts./NNS skills./NNS 
+-./: Strong./JJ technical./JJ writing./NN and./CC business./NN analyst./NN experience./NN preferred./VBD 
+-./: Excellent./NN communication./NN (./( verbal./JJ &./CC written./VBN )./) and./CC leadership./NN skills./NNS ,./, with./IN the./DT ability./NN to./TO work./VB in./IN a./DT team./NN environment./NN and./CC independently./RB 
+-./: Hard./NN working./NN and./CC willing./JJ to./TO take./VB initiatives./NNS and./CC challenges./NNS 
+-./: Familiar./NN with./IN Microsoft./NNP Office./NNP (./( Excel./NNP ,./, Word./NNP ,./, Powerpoint./NNP etc./FW ../. )./) and./CC Outlook./$ 10./CD 

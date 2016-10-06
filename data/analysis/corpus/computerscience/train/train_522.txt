@@ -1,0 +1,52 @@
+In./IN addition./NN to./TO your./PRP$ resume./JJ please./VB include./VB a./DT copy./NN of./IN an./DT up./NN to./TO date./NN transcript./NN and./CC two./CD reference./NN letters./NNS (./( personal./JJ and./CC professional./JJ )./) by./IN the./DT posting./VBG close./JJ date./NN to./TO ensure./VB consideration./NN for./IN employment./NN at./IN Canadian./JJ Nuclear./NNP Laboratories./NNPS ../. 
+
+Reference./NN Requirements./NNS :./: 
+One./CD Personal./NNP (./( can./MD not./RB be./VB a./DT relative./NN )./) 
+Professional./JJ Reference./NNP (./( must./MD have./VB supervised./VBN and./CC be./VB able./JJ to./TO speak./VB to./TO the./DT applicant./NN 's./POS work./NN performance./NN )./) 
+Have./NNP known./VBN the./DT candidate./NN for./IN five./CD years./NNS to./TO obtain./VB clearance./NN (./( reliability./NN status./NN )./) 
+NOTE./NN :./: If./IN the./DT professional./JJ reference./NN has./VBZ not./RB known./VBN the./DT candidate./NN for./IN more./JJR than./IN five./CD years./NNS please./VB add./VB an./DT additional./JJ personal./JJ reference./NN ../. Totaling./NNP ,./, one./CD professional./JJ reference./NN and./CC two./CD personal./JJ references./NNS ../. 
+______________________________________./NN 
+
+Department./NNP :./: Systems./NNPS and./CC Operations./NNP Research./NNP 
+Number./NNP of./IN Positions./NNS :./: 1./CD 
+Duration./NN :./: 4./CD months./NNS 
+Discipline./NN :./: Electrical./JJ Engineering./NNP ,./, Computer./NNP Engineering./NNP ,./, Software./NNP Engineering./NNP ,./, or./CC Computer./NNP Science./NNP 
+Year./NN of./IN study./NN :./: 2nd./CD ,./, 3rd./CD and./CC 4th./CD 
+
+INTRO./NN 
+
+CNL./NNP 's./POS Fredericton./NNP office./NN is./VBZ part./NN of./IN the./DT Systems./NNPS and./CC Operations./NNP Research./NNP Branch./NNP of./IN CNL./NNP 's./POS Research./NNP and./CC Development./NNP organization./NN ../. Systems./NNPS and./CC Operations./NNP Research./NNP is./VBZ a./DT multi-disciplinary./JJ branch./NN that./WDT focuses./VBZ on./IN meeting./VBG various./JJ Federal./NNP Science./NNP and./CC Technology./NNP objectives./NNS ../. One./CD such./JJ objective./NN is./VBZ securing./VBG critical./JJ infrastructure./NN ../. 
+
+
+
+To./TO that./DT end./NN ,./, a./DT cyber./NN secure./NN test./NN range./NN is./VBZ being./VBG established./VBN at./IN CNL./NNP 's./POS Fredericton./NNP office./NN that./WDT will./MD be./VB used./VBN to./TO evaluate./VB and./CC test./NN tools./NNS ,./, techniques./NNS and./CC best./JJS practices./NNS for./IN securing./VBG critical./JJ infrastructure./NN and./CC industrial./JJ control./NN systems./NNS taking./VBG into./IN account./NN the./DT key./NN characteristics./NNS that./WDT differentiate./VBP critical./JJ infrastructure./NN and./CC industrial./JJ control./NN systems./NNS from./IN typical./JJ IT./NNP and./CC other./JJ commercial./JJ networks./NNS ../. Results./NNS from./IN this./DT research./NN will./MD be./VB used./VBN to./TO provide./VB guidance./NN to./TO both./DT regulators./NNS and./CC industry./NN on./IN effectively./RB meeting./VBG newly./RB revised./VBN and./CC released./VBN cyber./JJ security./NN standards./NNS ../. 
+
+
+
+This./DT is./VBZ an./DT exciting./JJ opportunity./NN for./IN a./DT young./JJ engineer./NN or./CC computer./NN scientist./NN with./IN an./DT interest./NN in./IN networking./NN and./CC cyber./VB security./NN to./TO gain./VB hands-on./JJ experience./NN with./IN cyber./JJ security./NN in./IN an./DT industrial./JJ control./NN system./NN test./NN facility./NN ../. 
+
+
+
+RESPONSIBILITIES./NN 
+
+-Undertaking./VBG research./NN and./CC documenting./VBG the./DT results./NNS either./CC formally./RB or./CC informally./RB 
+-Evaluating./VBG cyber./JJ security./NN products./NNS 
+-Installation./NN ,./, maintenance./NN ,./, and./CC upgrade./JJ activities./NNS on./IN the./DT cyber./NN secure./JJ test./NN bed./NN 
+-Development./NN of./IN test./NN scripts./NNS 
+-Development./NN of./IN test./NN plans./NNS 
+-Testing./VBG 
+-Configuration./NN management./NN 
+
+
+REQUIREMENTS./NNS 
+
+-Ability./NN to./TO work./VB well./RB in./IN a./DT team./NN environment./NN 
+-Demonstrated./VBN ability./NN to./TO carry./VB out./RP research./NN or./CC independent./JJ study./NN 
+-Strong./JJ communication./NN skills./NNS ,./, both./DT written./VBN and./CC verbal./JJ 
+-Strong./JJ programming./NN ability./NN 
+-Previous./JJ experience./NN with./IN cyber./JJ security./NN is./VBZ an./DT asset./NN 
+-Preference./NN is./VBZ for./IN an./DT upper./JJ year./NN undergraduate./JJ student./NN or./CC a./DT graduate./JJ student./NN but./CC will./MD consider./VB candidates./NNS with./IN two./CD years./NNS of./IN schooling./NN as./IN well./RB 
+CNL./NNP has./VBZ an./DT Employment./JJ Equity./NN Program./NNP and./CC encourages./VBZ applications./NNS from./IN women./NNS ,./, Aboriginal./NNP Peoples./NNP ,./, visible./JJ minorities./NNS and./CC persons./NNS with./IN disabilities./NNS ../. 
+
+Please./VB apply./VB to./TO :./: 
+http./NN :./: //trr.tbe.taleo.net/trr01/ats/careers/requisition.jsp./NN ?./. org=CNLLTD./NN &./CC cws=1./NN &./CC rid=1421./NN 

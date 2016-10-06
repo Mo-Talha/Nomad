@@ -1,0 +1,67 @@
+Portfolio./NNP &./CC ETF./NNP Trading./NN Assistant./NN 
+CIBC./NNP Capital./NNP Markets./NNP 
+
+
+CIBC./NNP Capital./NNP Markets./NNP 
+
+We./PRP provide./VBP integrated./JJ capital./NN markets./NNS products./NNS ,./, investment./NN banking./NN advisory./NN services./NNS ,./, corporate./JJ lending./NN and./CC top-ranked./JJ research./NN to./TO corporate./JJ ,./, government./NN and./CC institutional./JJ clients./NNS around./IN the./DT world./NN ../. We./PRP also./RB deliver./VBP innovative./JJ banking./NN solutions./NNS and./CC investment./NN products./NNS to./TO CIBC./NNP 's./POS retail./JJ ,./, wealth./NN and./CC business./NN clients./NNS ../. Our./PRP$ goal./NN is./VBZ to./TO be./VB the./DT leading./JJ Capital./NN Markets./NNP franchise./NN in./IN Canada./NNP and./CC the./DT lead./NN relationship./NN bank./NN for./IN key./JJ clients./NNS globally./RB ../. 
+
+Business./NN Unit./NNP Description./NNP &./CC Job./NNP Overview./NNP 
+
+A./DT leader./NN in./IN Canadian./JJ capital./NN markets./NNS ,./, CIBC./NNP 's./POS Electronic./JJ Trading./NN Fund./NNP (./( ETF./NNP )./) and./CC Portfolio./NNP Trading./NNP Groups./NNP works./VBZ with./IN clients./NNS to./TO implement./VB trading./NN strategies./NNS for./IN single./JJ stock./NN and./CC portfolio./NN baskets./NNS ,./, while./IN focusing./VBG on./IN best./JJS execution./NN and./CC advanced./JJ trading./NN technologies./NNS ../. CIBC./NNP 's./POS ETF./NNP Group./NNP provides./VBZ clients./NNS with./IN Direct./JJ Market./NNP Access./NNP (./( DMA./NNP )./) and./CC Algorithmic./NNP equity./NN trading./NN products./NNS ,./, as./RB well./RB as./IN advanced./JJ trading./NN tools./NNS for./IN the./DT implementation./NN of./IN trading./NN strategies./NNS and./CC best./JJS execution./NN ../. 
+
+As./IN a./DT Portfolio./NNP and./CC ETF./NNP Trading./NNP Assistant./NNP ,./, you./PRP will./MD have./VB a./DT front-office./JJ presence./NN ,./, working./VBG closely./RB with./IN traders./NNS in./IN day-to-day./JJ trading./NN activities./NNS while./IN adding./VBG value./NN through./IN trade./NN strategy./NN creation./NN and./CC maintenance./NN related./VBN to./TO our./PRP$ recently./RB launched./VBN ETF./NNP business./NN ../. 
+
+
+What./WP You./PRP 'll./MD be./VB Doing./VBG 
+
+As./IN a./DT member./NN of./IN our./PRP$ team./NN you./PRP will./MD have./VB the./DT opportunity./NN to./TO :./: 
+
+-./: Work./NN closely./RB with./IN the./DT traders./NNS and./CC salespeople./NN in./IN supporting./VBG clients./NNS ,./, helping./VBG with./IN client./NN requests./NNS and./CC conducting./VBG day-to-day./JJ trading./NN activities./NNS 
+-./: Assist./NN with./IN CIBC./NNP 's./POS ETF./NNP market./NN making./VBG initiative./JJ ,./, through./IN C++./NNP and./CC VBA./NNP programming./NN projects./NNS 
+-./: Allocate./NN client./NN trades./NNS to./TO proper./VB accounts./NNS 
+-./: Maintain./NN the./DT group./NN 's./POS CRM./NNP database./NN to./TO ensure./VB accuracy./NN and./CC completeness./NN 
+-./: Design./NN and./CC implement./JJ front-office./JJ solutions./NNS to./TO optimize./VB trading./NN operations./NNS 
+-./: Assist./NN in./IN client./NN reporting./NN and./CC ad-hoc./JJ quantitative./JJ research./NN 
+-./: Liaise./NN with./IN various./JJ groups./NNS (./( middle./JJ office./NN ,./, back./RB office./NN ,./, technology./NN ,./, clients./NNS )./) in./IN resolving./VBG technical./JJ and./CC settlement./NN issues./NNS 
+-./: Improve./VB existing./VBG processes./NNS through./IN the./DT implementation./NN of./IN technology./NN solutions./NNS 
+
+
+
+What./WP We./PRP 're./VBP Looking./VBG For./IN 
+
+-./: Currently./RB pursuing./VBG a./DT Bachelor./NNP 's./POS Degree./NNP in./IN Business./NNP ,./, Finance./NNP ,./, Computer./NNP Science./NNP ,./, Mathematics./NNP ,./, or./CC Engineering./VBG 
+-./: Technical./JJ proficiency./NN in./IN object./NN oriented./VBN programming./JJ language./NN (./( C++./NNP ,./, C./NNP #./# ,./, JAVA.../NNP )./) ,./, VBA./NNP ,./, SQL./NNP 
+-./: Database./NN maintenance./NN and./CC development./NN (./( SQL./NNP Server./NNP experience./NN )./) 
+-./: Strong./NN understanding./NN of./IN statistics./NNS and./CC finance./NN 
+
+
+
+Assets./NNS 
+
+-./: Experience./NN with./IN programming./NN languages./NNS related./VBN to./TO MS./NNP Excel./NNP or./CC trading./NN platforms./NNS 
+-./: Experience./NN with./IN Bloomberg./NNP ,./, Reuters./NNP ,./, IRESS./NNP 
+-./: Experience./NN with./IN technology./NN in./IN a./DT financial./JJ setting./NN 
+
+
+
+What./WP CIBC./NNP Can./MD Offer./VB You./PRP 
+
+-./: Competitive./NN salary./NN and./CC banking./NN benefits./NNS 
+-./: Career./NN growth./NN ,./, development./NN and./CC continuous./JJ learning./NN opportunities./NNS 
+-./: Opportunity./NN to./TO be./VB involved./VBN in./IN CIBC./NNP events./NNS that./WDT help./VBP our./PRP$ communities./NNS 
+
+
+
+Application./NN Instructions./NNS 
+
+-./: Apply./NN on./IN JobMine./NNP 
+-./: Students./NNS are./VBP asked./VBN to./TO apply./VB through./IN their./PRP$ Co-op./JJ Education./NNP Career./NNP Centre./NNP 
+-./: Applications./NNS must./MD include./VB a./DT cover./JJ letter./NN ,./, resume./NN (./( two./CD letter-sized./JJ pages./NNS or./CC less./JJR )./) and./CC unofficial./JJ transcripts./NNS 
+-./: Must./NN be./VB legally./RB eligible./JJ to./TO work./VB in./IN Canada./NNP and./CC ,./, where./WRB applicable./JJ ,./, must./MD have./VB a./DT valid./JJ work./NN permit./NN or./CC study./VB permit./NN that./WDT allows./VBZ the./DT candidate./NN to./TO fulfill./VB the./DT requirements./NNS of./IN the./DT role./NN 
+-./: This./DT role./NN operates./VBZ within./IN a./DT normal./JJ office./NN environment./NN with./IN little./JJ exposure./NN to./TO adverse./VB working./VBG conditions./NNS ../. 
+
+
+Location./NN :./: 161./CD Bay./NNP Street./NNP ,./, Toronto./NNP ,./, ON./NNP 
+
+CIBC./NNP thanks./NNS all./DT applicants./NNS for./IN their./PRP$ interest./NN however./RB only./RB those./DT selected./VBN for./IN an./DT interview./NN will./MD be./VB contacted./VBN ../. 

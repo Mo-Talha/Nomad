@@ -1,0 +1,28 @@
+Software./NNP Developer./NNP of./IN AI./NNP Bot./NNP (./( formerly./JJ Automation./NN of./IN Customer./NNP Service./NNP Platform./NNP )./) 
+
+Tiko./NNP is./VBZ the./DT desktop./NN 3D./CD printer./NN everyone./NN has./VBZ been./VBN talking./VBG about./IN ../. By./IN making./VBG 3D./CD printing./NN accessible./JJ ,./, we./PRP empower./VBP innovators./NNS ,./, entrepreneurs./NNS ,./, and./CC students./NNS to./TO hobbyists./NNS and./CC tinkerers./NNS ,./, to./TO create./VB ,./, better./JJR ../. Our./PRP$ ultimate./JJ goal./NN is./VBZ to./TO see./VB 3D./CD printers./NNS become./VBP an./DT everyday./JJ item./NN ../. Can./MD you./PRP help./VB make./VB this./DT dream./NN become./VB a./DT reality./NN ?./. The./DT environment./NN within./IN Tiko./NNP is./VBZ one./CD of./IN a./DT competitive./JJ nature./NN ../. Every./DT team./NN member./NN at./IN Tiko./NNP is./VBZ an./DT innovator./NN from./IN the./DT receptionist./NN to./TO the./DT engineers./NNS ../. We./PRP run./VBP lean./JJ and./CC work./NN hard./RB ,./, but./CC we./PRP know./VBP how./WRB to./TO have./VB fun./NN too./RB ../. Inventorship./NNP ,./, hardwork./NN ,./, and./CC coming./VBG up./RP with./IN new./JJ ideas./NNS are./VBP praised./VBN ,./, because./IN they./PRP allow./VBP us./PRP to./TO get./VB ahead./RB in./IN an./DT ever./RB evolving./VBG industry./NN ../. Are./VBP you./PRP a./DT passionate./NN and./CC hard-working./JJ individual./NN who./WP wants./VBZ to./TO make./VB a./DT real./JJ difference./NN ?./. Join./NNP Team./NNP Tiko./NNP !./. 
+
+Tiko./$ 3D./CD -./: we./PRP are./VBP industry./NN shapers./NNS !./. Our./PRP$ company./NN is./VBZ characterized./VBN by./IN rapid./JJ growth./NN and./CC extremely./RB fast./JJ innovation./NN ../. We./PRP run./VBP lean./JJ and./CC work./NN hard./RB ,./, but./CC we./PRP know./VBP how./WRB to./TO have./VB fun./NN too./RB ../. Inventorship./NNP ,./, hard./JJ work./NN ,./, and./CC coming./VBG up./RP with./IN new./JJ ideas./NNS are./VBP praised./VBN ,./, because./IN they./PRP allow./VBP us./PRP to./TO get./VB ahead./RB and./CC in./IN an./DT ever./RB evolving./VBG industry./NN ../. It./PRP 's./VBZ not./RB enough./JJ to./TO be./VB moving./VBG as./IN fast./NN ,./, you./PRP have./VBP to./TO move./VB faster./RB ../. We./PRP move./VBP faster./RBR and./CC work./NN smarter./RB ../. This./DT makes./VBZ us./PRP the./DT best./JJS ../. 
+
+Checkout./IN our./PRP$ kickstarter./NN campaign./NN for./IN details./NNS about./IN the./DT Tiko./NNP 3D./CD printer./NN ../. 
+
+Responsibilities./NNS 
+-./: Add./NN features./NNS to./TO our./PRP$ AI./NNP customer./NN service./NN robot./NN and./CC further./JJ automate./NN processes./NNS 
+-./: Write./NN ,./, test./NN and./CC document./NN high./JJ quality./NN code./NN 
+-./: Engage./NN with./IN the./DT engineering./NN team./NN in./IN technical./JJ decisions./NNS around./IN designs./NNS ,./, languages./NNS and./CC frameworks./NNS 
+-./: Work./NN closely./RB with./IN a./DT cross./NN functional./JJ product./NN team./NN on./IN evolving./VBG the./DT Tiko./NNP 3D./CD software./NN suite./NN 
+
+Required./VBN Skills./NNS 
+Required./VBN :./: 
+-./: Software./NN development./NN experience./NN 
+-./: Learning./VBG attitude./NN 
+
+Nice./NNP to./TO have./VB :./: 
+-./: Customer./NN service./NN experience./NN 
+-./: Familiar./NN with./IN 3D./CD printing./NN technologies./NNS 
+-./: Familiar./NN with./IN CAD./NNP software./NN 
+-./: Active./NN GitHub./NNP /./NNP StackOverflow./NNP profile./NN (./( please./VB include./VBP links./NNS )./) 
+-./: Experience./NN working./VBG in./IN agile./NN in./IN a./DT web./NN environment./NN ,./, code./NN refactoring./NN 
+
+Transportation./NN And./CC Housing./NN 
+Own./JJ transportation./NN or./CC other./JJ means./NNS of./IN transport./NN to./TO our./PRP$ office./NN 

@@ -1,0 +1,49 @@
+Summary./JJ 
+
+Paytm./NNP is./VBZ India./NNP 's./POS largest./JJS mobile./NN commerce./NN platform./NN that./WDT does./VBZ over./IN 50./CD million./CD transactions./NNS a./DT month./NN ,./, a./DT majority./NN of./IN them./PRP occur./VBP on./IN mobile./JJ apps./NN ../. Paytm./NNP started./VBD by./IN offering./VBG mobile./JJ recharge./NN and./CC utility./NN bill./NN payments./NNS and./CC today./NN it./PRP offers./VBZ a./DT marketplace./NN to./TO consumers./NNS on./IN its./PRP$ mobile./JJ apps./NN ../. 
+
+Our./PRP$ scale./NN offers./VBZ a./DT very./RB unique./JJ set./NN of./IN challenges./NNS and./CC Paytm./NNP Labs./NNP ,./, a./DT division./NN of./IN Paytm./NNP is./VBZ building./VBG capabilities./NNS that./WDT are./VBP essential./JJ to./TO us./PRP as./IN we./PRP plan./VBP to./TO scale./VB even./RB higher./JJR ../. At./IN Paytm./NNP Labs./NNP we./PRP work./VBP with./IN much./JJ longer./JJR horizons./NNS and./CC accept./VB trial./NN and./CC failure./NN as./IN part./NN of./IN building./VBG the./DT right./JJ solution./NN ../. 
+
+Paytm./NNP Labs./NNP is./VBZ looking./VBG for./IN a./DT special./JJ kind./NN of./IN engineer./NN to./TO join./VB its./PRP$ team./NN ../. We./PRP are./VBP solving./VBG problems./NNS that./WDT have./VBP little./JJ or./CC no./DT precedent./NN ../. These./DT challenges./NNS require./VBP lots./NNS creative./JJ thinking./NN based./VBN upon./IN a./DT very./RB deep./JJ understanding./NN of./IN how./WRB software./NN works./VBZ ../. Read./VB more./JJR at./IN our./PRP$ website./NN ,./, paytmlabs.com./NN 
+
+Our./PRP$ ideal./JJ candidate./NN is./VBZ an./DT ace./NN problem./NN solver./NN and./CC a./DT learner./NN at./IN heart./NN ../. You./PRP should./MD have./VB a./DT very./RB high./JJ degree./NN of./IN comfort./NN in./IN a./DT programming./JJ language./NN of./IN your./PRP$ choice./NN ../. 
+
+Past./IN Co-ops./NNP have./VBP worked./VBN on./IN :./: 
+
+-./: Writing./VBG a./DT pipeline./NN to./TO ingest./VB over./IN 1.5./CD TB./NN of./IN Paytm./NNP data./NNS into./IN HDFS./NNP daily./RB 
+-./: Recommendation./NN system./NN for./IN millions./NNS of./IN products./NNS on./IN our./PRP$ marketplace./NN 
+-./: Creating./VBG a./DT real./JJ time./NN data./NNS processing./VBG API./NNP from./IN scratch./NN 
+
+What./WP you./PRP are./VBP expected./VBN to./TO do./VB 
+
+-./: Work./NN along./IN side./JJ Platform./NNP Engineers./NNPS to./TO create./VB an./DT INFINITELY./NNP scalable./JJ processing./NN &./CC data./NNS platform./NN 
+-./: Build./VB back-end./JJ system./NN supporting./VBG mobile./JJ wallet./NN ,./, payment./NN ,./, event-driven./JJ programming./NN (./( 100k./CD events/sec./NN )./) 
+-./: Understand./NN concurrency./NN ,./, distributed./VBD computing./NN ,./, messaging./VBG and./CC algorithm./JJ trade-offs./NNS at./IN the./DT laws-of-physics./NNS level./NN 
+-./: Explore./RB many./JJ new./JJ technology./NN options./NNS for./IN data./NNS processing./NN ,./, storage./NN ,./, and./CC share./NN them./PRP with./IN the./DT team./NN 
+-./: Develop./NN tools./NNS and./CC contribute./NN to./TO open./VB source./NN wherever./WRB possible./JJ 
+-./: Adopt./NN problem./NN solving./VBG as./IN a./DT way./NN of./IN life./NN always./RB go./VBP to./TO root./VB cause./NN !./. 
+
+Skills./NNS Required./VBN 
+
+-./: Learn./VB new./JJ technologies./NNS and./CC programming./VBG paradigms./NNS quickly./RB 
+-./: Proficient./NN in./IN Java./NNP and/or./NN Scala./NNP 
+
+Perks./NNS 
+
+-./: Opportunity./NN to./TO work./VB on./IN tough./JJ problems./NNS with./IN the./DT brightest./JJS minds./NNS around./IN you./PRP 
+-./: Office./NN in./IN heart./NN of./IN Toronto./NNP on./IN 220./CD Adelaide./NNP St./NNP W./NNP 
+-./: Frequent./NN meetups./NNS on./IN big./JJ data./NNS ,./, scala./NN ,./, hadoop./NN hosted./VBD at./IN the./DT office./NN 
+-./: Flexible./JJ work./NN schedule./NN 
+-./: Top./NN of./IN the./DT line./NN Macbook./NNP Pro./NNP ,./, 4K./CD Monitor./NNP ,./, Das./NNP Keyboard./NNP ,./, standing./VBG desks./NNS 
+-./: Ping./NN pong./NN table./NN (./( free./JJ lunch./NN if./IN you./PRP beat./VBP the./DT CEO./NNP )./) ,./, darts./NNS ,./, xbox./NN for./IN when./WRB you./PRP feel./VBP like./IN working./VBG 
+-./: Weekly./JJ delivery./NN of./IN snacks./NNS and./CC pop./NN 
+-./: Coffee./NN machine./NN that./WDT will./MD keep./VB you./PRP going./VBG throughout./IN the./DT day./NN 
+-./: You./PRP will./MD be./VB #./# NotAnIntern./NNP https./NN :./: //www.youtube.com/watch./NN ?./. v=jIlHEOWniKo./NN 
+
+Most./JJS Valuable./JJ #./# NotAnIntern./NNP (./( They./PRP ALL./DT ARE./NNP )./) 
+
+-./: smudkavi.com./NN 
+-./: github.com/jparkie./NN 
+-./: linkedin.com/in/thegautamgupta./NN 
+-./: priyanshvyas.me./NN 
+-./: github.com/vishalkuo./NN 

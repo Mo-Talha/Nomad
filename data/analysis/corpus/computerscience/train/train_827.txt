@@ -1,0 +1,31 @@
+ABOUT./IN THE./DT COMPANY./NN 
+
+Do./VBP you./PRP want./VB to./TO work./VB for./IN a./DT high-growth./JJ tech./NN start-up./NN ?./. Do./VBP you./PRP want./VB to./TO be./VB part./NN of./IN a./DT driven./JJ team./NN of./IN entrepreneurs./NNS who./WP are./VBP creating./VBG revolutionary./JJ marketing./NN software./NN for./IN brands./NNS ?./. 
+
+National./NNP ProStaff.com./NNP (./( ``./`` NPS./NNP ''./'' )./) is./VBZ the./DT leading./VBG social./JJ network./NN for./IN anglers./NNS ,./, brands./NNS ,./, tournaments./NNS ,./, and./CC outfitters./NNS in./IN the./DT outdoors./NNS industry./NN and./CC is./VBZ growing./VBG rapidly./RB throughout./IN North./NNP America./NNP ../. Fishing./NNP brands./NNS use./VBP NPS./NNP to./TO recruit./VB ,./, manage./NN ,./, and./CC highlight./VBD all./DT their./PRP$ brand./NN ambassadors./NNS in./IN one./CD place./NN ../. Fishing./VBG enthusiasts./NNS and./CC consumers./NNS use./VBP NPS./NNP to./TO connect./VB with./IN other./JJ anglers./NNS ,./, get./VB sponsored./VBN by./IN brands./NNS ,./, and./CC get./VB valuable./JJ fishing./VBG information./NN to./TO make./VB smarter./JJ buying./NN decisions./NNS ../. National./NNP ProStaff./NNP recently./RB won./VBD the./DT Ignite./NNP Start-up./NNP Competition./NNP and./CC has./VBZ partnered./VBN with./IN the./DT top./JJ brands./NNS and./CC elite./JJ pros./NNS in./IN the./DT fishing./NN industry./NN including./VBG Brent./NNP Ehrler./NNP ../. 
+
+JOB./NNP SUMMARY./NNP AND./NNP RESPONSIBILITIES./NNP 
+
+Your./PRP$ responsibility./NN will./MD be./VB to./TO become./VB our./PRP$ next./JJ jack-of-all./JJ trades./NNS ../. With./IN skillsets./NNS in./IN multiple./JJ programming./NN languages./NNS and./CC tools./NNS ,./, your./PRP$ day./NN to./TO day./NN job./NN is./VBZ to./TO improve./VB and./CC add./VB fuel./NN to./TO one./CD of./IN the./DT industry./NN 's./POS coolest./JJS apps./NN ../. Engineering./NNP is./VBZ bursting./VBG with./IN new./JJ features./NNS and./CC needs./NNS improved./VBN frameworks./NNS for./IN testing./VBG and./CC development./NN ../. Your./PRP$ job./NN will./MD involve./VB :./: 
+
+-./: Full./NN stack./NN web/mobile./JJ application./NN development./NN with./IN a./DT variety./NN of./IN languages./NNS including./VBG (./( but./CC not./RB limited./JJ to./TO )./) JavaScript/Node.js./NNP ,./, Ruby/RoR./NNP ,./, Python./NNP ,./, Java./NNP 
+-./: Working./VBG closely./RB with./IN our./PRP$ web./NN and./CC mobile./JJ engineering./NN teams./NNS to./TO discuss./VB performance./NN and./CC scalability./NN 
+-./: Designing./NN ,./, writing./VBG and./CC editing./VBG technical./JJ and./CC process./JJ documentation./NN 
+-./: Evaluating./NN ,./, proposing./VBG and./CC implementing./VBG fixes./NNS to./TO product./NN gaps./NNS 
+
+
+JOB./NNP QUALIFICATIONS./NNP 
+-./: Working./NN towards./IN a./DT degree./NN in./IN computer./NN science./NN ,./, information./NN systems./NNS or./CC software./NN or./CC computer./NN engineering./NN ../. 
+-./: Exceptional./JJ application./NN development./NN methodologies./NNS and./CC practices./NNS are./VBP a./DT must./MD 
+-./: Experience./NN with./IN third-party./JJ libraries./NNS and./CC API./NNP 's./POS 
+-./: 2+./CD years./NNS experience./RB with./IN a./DT programming./VBG language./NN such./JJ as./IN JavaScript/Node./NNP ,./, Ruby/RoR./NNP ,./, or./CC PHP./NNP ../. 
+-./: Experience./NN working./VBG with./IN web./JJ architectures./NNS such./JJ as./IN HTTP./NNP ,./, cookies./NNS ,./, web./JJ security./NN ,./, AJAX./NNP ,./, CDN/Caching./VBG 
+-./: Understands./VBZ the./DT process./NN of./IN building./NN ,./, debugging./VBG and./CC profiling./VBG apps./NN 
+-./: A./DT passion./NN for./IN all./DT things./NNS mobile./VBP development./NN related./VBN -./: keeping./VBG up./RP on./IN trends./NNS ,./, architectures./NNS ,./, emerging./VBG technologies./NNS 
+-./: Self-motivated./JJ and./CC disciplined./JJ work./NN ethic./JJ to./TO meet./VB deadlines./NNS 
+-./: Able./NN to./TO work./VB independently./RB without./IN supervision./NN to./TO code./VB and./CC develop./VB the./DT app./NN 
+
+JOB./NNP PERKS./NNP 
+-./: Open./NN and./CC fun./NN shared./VBD working./JJ environment/culture./NN 
+-./: Work./NN in./IN the./DT coolest./NN and./CC newly./RB renovated./VBN space./NN in./IN Downtown./NNP Oshawa./NNP (./( The./DT Loft./NNP !./. )./) 
+-./: May./NNP lead./VB to./TO a./DT part-time./JJ or./CC full-time./JJ opportunity./NN with./IN NPS./NNP in./IN the./DT future./NN ../. 

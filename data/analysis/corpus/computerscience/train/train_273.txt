@@ -1,0 +1,30 @@
+Locations./NNS :./: Chicago./NNP 
+
+Citadel./NNP (./( www.citadel.com./NN )./) seeks./VBZ top./JJ students./NNS who./WP are./VBP entrepreneurial./JJ self-starters./NNS and./CC enjoy./VB being./VBG in./IN a./DT fast-paced./JJ and./CC dynamic./JJ environment./NN for./IN exciting./VBG internship./NN opportunities./NNS in./IN our./PRP$ automated./JJ quantitative./JJ trading./NN businesses./NNS ../. This./DT opportunity./NN offers./VBZ excellent./JJ exposure./NN to./TO a./DT quantitative./JJ trading./NN career./NN path./NN in./IN one./CD of./IN the./DT world./NN 's./POS leading./JJ global./JJ financial./JJ institutions./NNS ../. 
+
+Duties./NNS and./CC Responsibilities./NNS 
+Quantitative./JJ Algorithmic./NNP Developers./NNP are./VBP responsible./JJ for./IN the./DT implementation./NN and./CC optimization./NN of./IN automated./JJ quant./JJ trading./NN strategies./NNS using./VBG sophisticated./JJ statistical./JJ techniques./NNS and./CC cutting-edge./NN technology./NN ../. Interns./NNP work./NN closely./RB with./IN our./PRP$ algo./NN development./NN teams./NNS to./TO perform./VB various./JJ functions./NNS ,./, including./VBG :./: 
+-Collaborating./VBG with./IN research./NN teams./NNS to./TO design./VB and./CC implement./VB new./JJ trading./NN strategies./NNS 
+-Designing./VBG and./CC optimizing./VBG tools./NNS for./IN strategy./NN back-testing./NN 
+-Performing./VBG post-trade./JJ analysis./NN 
+-Generalizing./VBG trading./NN innovations./NNS to./TO new./JJ asset./NN classes./NNS and./CC venues./NNS around./IN the./DT globe./NN 
+
+Interns./NNS can./MD expect./VB to./TO work./VB on./IN meaningful./JJ projects./NNS that./WDT directly./RB impact./VBP the./DT business./NN (./( i.e../FW ,./, implemented./VBN in./IN production./NN ;./: no./DT 'book./NN reports./NNS './POS )./) ../. Our./PRP$ program./NN provides./VBZ both./DT significant./JJ responsibility./NN as./RB well./RB as./IN creative./JJ freedom./NN in./IN approach./NN ../. Interns./NNS are./VBP set./VBN up./RP to./TO succeed./VB :./: projects./NNS are./VBP matched./VBN against./IN interns./NNS './POS skill./NN sets./NNS and./CC managers./NNS provide./VBP close./RB mentorship./JJ across./IN the./DT summer./NN ,./, ensuring./VBG a./DT tailored./JJ learning./NN experience./NN with./IN a./DT high./JJ likelihood./NN of./IN success./NN ../. 
+
+Qualifications./NNS 
+Required./VBN :./: 
+-Advanced./JJ training./NN in./IN Computer./NNP Science./NNP ,./, Mathematics./NNP ,./, Statistics./NNPS ,./, Physics./NNPS or./CC other./JJ highly./RB quantitative./JJ fields./NNS 
+-Extensive./JJ programming./NN experience./NN with./IN strong./JJ object./NN oriented./VBN design./NN skills./NNS and./CC fluency./NN in./IN C./NNP ,./, C++./NNP ,./, or./CC Java./NNP 
+-Experience./NN with./IN algorithms./NN and./CC data./NNS structures./NNS 
+-Strong./JJ knowledge./NN of./IN probability./NN &./CC statistics./NNS (./( e.g../NN ,./, machine./NN learning./NN ,./, time-series./JJ analysis./NN ,./, pattern./JJ recognition./NN ,./, NLP./NNP )./) 
+-Demonstrated./VBN ability./NN to./TO communicate./VB complex./JJ ideas./NNS in./IN a./DT clear./JJ ,./, concise./JJ fashion./NN 
+-Ability./NN to./TO thrive./VB in./IN a./DT complex./JJ ,./, fast-paced./JJ ,./, and./CC highly./RB technical./JJ environment./NN 
+
+Useful./JJ :./: 
+-Experience./NN with./IN analysis./NN ,./, manipulation./NN ,./, and./CC maintenance./NN of./IN large./JJ datasets./NNS (./( e.g../NN ,./, R./NNP ,./, Matlab./NNP )./) 
+0Independent./CD research./NN experience./NN 
+0Basic./CD knowledge./NN of./IN tradable./JJ financial./JJ instruments./NNS (./( securities./NNS ,./, derivatives./NNS )./) and./CC capital./NN markets./NNS 
+
+Since./IN its./PRP$ founding./NN over./IN two./CD decades./NNS ago./RB ,./, Citadel./NNP has./VBZ grown./VBN into./IN a./DT global./JJ financial./JJ institution./NN ../. The./DT firm./NN 's./POS culture./NN of./IN identifying./NN and./CC seizing./VBG opportunities./NNS can./MD be./VB traced./VBN back./RB to./TO CEO./NNP and./CC firm./NN founder./NN ,./, Kenneth./NNP Griffin./NNP 's./POS passion./NN for./IN the./DT markets./NNS ../. While./IN a./DT student./NN at./IN Harvard./NNP ,./, Griffin./NNP developed./VBD his./PRP$ first./JJ convertible./JJ bond./NN arbitrage./NN model./NN and./CC traded./VBN from./IN his./PRP$ dorm./NN room./NN ../. 
+
+Today./NN ,./, Citadel./NNP is./VBZ a./DT leading./VBG global./JJ financial./JJ institution./NN that./WDT effectively./RB deploys./VBZ capital./NN to./TO convert./VB opportunity./NN into./IN results./NNS across./IN a./DT highly./RB diversified./JJ set./NN of./IN proprietary./JJ investment./NN strategies./NNS in./IN all./DT major./JJ asset./NN classes./NNS ../. Citadel./NNP operates./VBZ in./IN the./DT world./NN 's./POS major./JJ financial./JJ centers./NNS ,./, including./VBG Chicago./NNP ,./, New./NNP York./NNP ,./, London./NNP ,./, Hong./NNP Kong./NNP ,./, Boston./NNP ,./, Dallas./NNP and./CC San./NNP Francisco./NNP ../. 

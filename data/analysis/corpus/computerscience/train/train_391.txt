@@ -1,0 +1,32 @@
+_______________________________________________________________________./NN 
+
+Hello./NNP again./RB students./NNS of./IN UWaterloo./NNP !./. We./PRP 're./VBP excited./VBN to./TO be./VB opening./VBG up./RP applications./NNS yet./RB again./RB for./IN the./DT January./NNP -./: April./NNP term./NN of./IN 2017./CD ../. 
+
+About./IN Atomic./NNP :./: 
+Atomic./NNP was./VBD founded./VBN in./IN 2012./CD and./CC recently./RB closed./VBD its./PRP$ third./JJ fund./NN ,./, supported./VBN by./IN Silicon./NNP Valley./NNP 's./POS most./RBS respected./JJ investors./NNS and./CC leaders./NNS ../. We./PRP have./VBP a./DT beautiful./JJ new./JJ office./NN in./IN the./DT Presidio./NNP of./IN San./NNP Francisco./NNP ,./, a./DT stellar./JJ team./NN ,./, and./CC an./DT ideal./JJ setting./NN for./IN developing./VBG your./PRP$ entrepreneurial./JJ skills./NNS ../. 
+
+Being./VBG a./DT company./NN builder./NN and./CC venture./NN fund./NN all./DT in./IN one./CD ,./, we./PRP provide./VBP truly./RB unprecedented./JJ opportunities./NNS to./TO write./VB code./NN that./WDT forms./VBZ the./DT building./NN blocks./NNS of./IN a./DT tech./JJ stack./NN ,./, lead./JJ due./JJ diligence./NN and./CC strategy./NN for./IN new./JJ ideas./NNS ,./, or./CC design./NN a./DT user./JJ experience./NN from./IN scratch./NN ../. 
+
+We./PRP focus./VBP on./IN consumer./NN and./CC B2B./NNP companies./NNS that./WDT push./VBP technological./JJ innovation./NN to./TO the./DT brim./NN ../. We./PRP start./VBP with./IN visionary./JJ ideas./NNS ,./, add./VB on./IN business./NN savvy./NN ,./, and./CC finish./VB with./IN a./DT dash./NN of./IN ``./`` dare./NN to./TO tell./VB me./PRP it./PRP 's./VBZ impossible./JJ ../. ''./'' 
+
+All./DT of./IN our./PRP$ ideas./NNS are./VBP generated./VBN ,./, incubated./VBN ,./, and./CC funded./VBD in-house./NN ,./, through./IN a./DT rigorous./JJ and./CC collaborative./JJ process./NN that./WDT brings./VBZ together./RB a./DT dynamic./JJ team./NN of./IN software./NN engineers./NNS ,./, product./NN designers./NNS ,./, and./CC business./NN minds./NNS ../. We./PRP 're./VBP not./RB your./PRP$ typical./JJ incubator./NN -./: everyone./NN on./IN our./PRP$ team./NN is./VBZ a./DT builder./NN ,./, whether./IN they./PRP work./VBP with./IN wireframes./NNS ,./, code./NN ,./, or./CC ideas./NNS ../. 
+
+Our./PRP$ Companies./NNPS &./CC Teams./NNS :./: 
+Atomic./NNP is./VBZ looking./VBG for./IN a./DT web./NN &./CC mobile./JJ UI./NNP design./NN intern./NN to./TO work./VB with./IN our./PRP$ San./NNP Francisco-based./JJ team./NN on./IN one./CD or./CC more./JJR of./IN our./PRP$ portfolio./NN companies./NNS ../. 
+
+Key./NNP Tasks./NNP 
+-./: Work./NN with./IN engineers./NNS and./CC designers./NNS to./TO create./VB a./DT stylish./JJ and./CC engaging./VBG user./JJ experience./NN for./IN users./NNS 
+-./: Take./VB ownership./NN of./IN creative./JJ work./NN and./CC ideas./NNS in./IN an./DT ambiguous./JJ ,./, quickly./RB evolving./VBG environment./NN 
+-./: Rapidly./RB bring./VBP software./NN ideas./NNS from./IN whiteboards./NNS and./CC sketches./NNS to./TO pixel-perfected./JJ implementations./NNS 
+-./: Create./NN robust./NN ,./, high./JJ fidelity./NN prototypes./NNS of./IN web./NN and./CC mobile./NN applications./NNS 
+-./: Conduct./NN research./NN into./IN usability./NN and./CC quantitative./JJ data./NNS 
+-./: Collaborating./NN closely./RB with./IN teammates./NNS ,./, giving./VBG and./CC receiving./VBG design./NN feedback./NN 
+
+Nice-To-Have./JJ 
+-./: Working./VBG knowledge./NN of./IN HTML./NNP and./CC CSS./NNP 
+-./: Some./DT knowledge./NN of./IN mobile./NN development./NN 
+
+The./DT Program./NN :./: 
+Our./PRP$ internship./NN program./NN pairs./NNS each./DT intern./NN with./IN a./DT mentor./NN ,./, who./WP will./MD be./VB instrumental./JJ in./IN helping./VBG you./PRP grow./VBP -./: both./DT in./IN and./CC out./IN of./IN the./DT office./NN ../. We./PRP insist./VBP on./IN a./DT 1:1./CD ratio./NN between./IN mentors./NNS and./CC interns./NNS ,./, which./WDT means./VBZ you./PRP get./VBP undivided./JJ attention./NN and./CC feedback./NN for./IN the./DT length./NN of./IN the./DT program./NN ../. Your./PRP$ mentor./NN will./MD assign./VB you./PRP a./DT project./NN specific./JJ to./TO your./PRP$ skill./NN set./VBN ,./, which./WDT means./VBZ you./PRP 'll./MD have./VB a./DT chance./NN to./TO help./VB one./CD of./IN our./PRP$ portfolio./NN companies./NNS or./CC work./NN on./IN getting./VBG new./JJ ideas./NNS off./IN the./DT ground./NN ../. Depending./VBG on./IN the./DT project./NN and./CC your./PRP$ skills./NNS ,./, you./PRP may./MD also./RB have./VB the./DT opportunity./NN to./TO rotate./VB through./IN multiple./JJ different./JJ companies./NNS ,./, exposing./VBG you./PRP to./TO startups./VB across./IN life./NN cycles./NNS ../. 
+
+Please./NNP include./VBP a./DT link./NN to./TO your./PRP$ portfolio./NN in./IN your./PRP$ resume./NN !./. We./PRP look./VBP forward./RB to./TO reviewing./VBG your./PRP$ application./NN ../. 

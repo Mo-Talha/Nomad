@@ -1,0 +1,26 @@
+______________________________________________________________________./NN 
+
+At./IN the./DT core./NN of./IN every./DT successful./JJ e-commerce./JJ company./NN is./VBZ a./DT rock./NN solid./JJ shipping./NN system./NN ../. Shippo./NNP makes./VBZ this./DT easy./JJ !./. We./PRP provide./VBP a./DT RESTful./JJ API./NNP and./CC powerful./JJ UI./NNP tools./NNS that./WDT connect./VBP SMBs./NNP ,./, marketplaces./NNS ,./, and./CC platforms./NNS to./TO multiple./VB shipping./NN carriers./NNS ../. Backed./VBN by./IN leading./VBG investors./NNS and./CC with./IN partners./NNS such./JJ as./IN Godaddy./NNP and./CC Shopify./NNP we./PRP are./VBP growing./VBG fast./RB and./CC processing./VBG thousands./NNS of./IN shipments./NNS every./DT day./NN ../. 
+
+As./IN an./DT engineer./NN focused./VBD on./IN the./DT Shippo./NNP application./NN ,./, you./PRP strive./VBP to./TO create./VB logical./JJ ,./, performant./JJ code./NN and./CC work./NN to./TO understand./VB the./DT needs./NNS of./IN both./DT our./PRP$ internal./JJ and./CC external./JJ API./NNP customers./NNS ../. Shippo./NNP applications./NNS process./NN millions./NNS of./IN packages./NNS per./IN month./NN and./CC we./PRP are./VBP always./RB looking./VBG for./IN new./JJ ways./NNS to./TO use./VB our./PRP$ data./NNS to./TO create./VB value./NN for./IN our./PRP$ customers./NNS ../. 
+
+Our./PRP$ co./NN op./IN students./NNS are./VBP completely./RB integrated./VBN with./IN our./PRP$ engineering./NN teams./NNS and./CC we./PRP provide./VBP strong./JJ mentorship./NN in./IN an./DT exciting./JJ environment./NN that./WDT will./MD have./VB you./PRP making./VBG contributions./NNS to./TO production./NN in./IN no./DT time./NN !./. 
+
+Located./VBN in./IN SOMA./NNP ,./, the./DT heart./NN of./IN San./NNP Francisco./NNP 's./POS tech./JJ scene./NN we./PRP also./RB offer./VBP such./JJ perks./NNS as./IN :./: 
+-./: Free./NNP breakfast./NN &./CC lunch./NN 
+-./: Regular./NN happy./JJ hours./NNS with./IN the./DT team./NN and./CC with./IN other./JJ startups./NNS 
+-./: New./NNP office./NN in./IN the./DT heart./NN of./IN downtown./NN SF./NNP at./IN 5th./CD &./CC Mission./NNP Sts./NNP ,./, surrounded./VBN by./IN other./JJ 
+startups./NNS and./CC SF./NNP staples./NNS like./IN Blue./NNP Bottle./NNP Coffee./NNP 
+
+Requirements./NNS :./: 
+-./: Experience./NN with./IN Python./NNP and./CC SQL./NNP (./( preferably./RB Postgres./VBZ )./) 
+-./: We./PRP 're./VBP using./VBG Django./NNP familiarity./NN with./IN this./DT or./CC another./DT Python./NNP framework./NN is./VBZ a./DT big./JJ plus./NN 
+-./: Understanding./NN of./IN distributed./JJ systems./NNS and./CC experience./NN working./VBG with./IN them./PRP preferred./VBD 
+-./: Experience./NN working./VBG in./IN an./DT AWS./NNP auto-./NN scaled./VBD environment./NN a./DT plus./NN 
+-./: A./DT curiosity./NN about./IN how./WRB things./NNS work./VBP and./CC firm./JJ understanding./NN of./IN internet./JJ security./NN and./CC 
+protocols./NNS 
+-./: You./PRP know./VBP what./WP a./DT good./JJ API./NNP looks./VBZ like./IN and./CC have./VBP implemented./VBN some./DT in./IN the./DT past./NN 
+-./: Code./NN samples./NNS \./VBP Github./NNP account./NN ,./, show./VBP us./PRP you./PRP like./VBP to./TO code./VB !./. 
+-./: Machine./NN learning./NN and./CC expert./JJ systems./NNS are./VBP areas./NNS you./PRP find./VBP interesting./JJ and./CC perhaps./RB have./VB 
+experience./NN in./IN 
+-./: Understanding./NN of./IN CS./NNP fundamentals./NNS Data./NNP Structures./NNP and./CC Algorithms./NNP 

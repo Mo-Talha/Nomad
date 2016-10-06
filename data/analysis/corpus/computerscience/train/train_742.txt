@@ -1,0 +1,26 @@
+_______________________________________________________________________./NN 
+
+Reminder./NN :./: Students./NNS are./VBP responsible./JJ for./IN ensuring./VBG they./PRP are./VBP eligible./JJ for./IN an./DT 8-month./JJ work./NN term./NN before./IN applying./VBG ../. Please./NNP discuss./VB your./PRP$ work/study./NN sequence./NN flexibility./NN with./IN your./PRP$ academic./JJ advisor./NN as./RB soon./RB as./IN possible./JJ ../. 
+______________________________________________./NN 
+
+The./DT Audio./NNP Accessories./NNP group./NN at./IN Apple./NNP seeks./VBZ undergrad./NN or./CC masters./NNS EE./NNP ,./, CE./NNP or./CC CS./NNP engineering./NN students./NNS for./IN a./DT rewarding./VBG internship./NN with./IN the./DT Firmware./NNP team./NN ../. Interns./NNP will./MD assist./VB in./IN the./DT design./NN &./CC implementation./NN of./IN Apple./NNP audio./NN accessories./NNS ../. A./DT successful./JJ candidate./NN has./VBZ excellent./JJ technical./JJ skills./NNS and./CC curiosity./NN for./IN designing./VBG ,./, prototyping./VBG and./CC implementing./VBG audio./JJ products./NNS ../. Prior./JJ hands-on./JJ experience./NN with./IN tinkering./VBG with./IN electronics./NNS ,./, building./NN embedded./VBD systems./NNS and./CC products./NNS is./VBZ highly./RB desirable./JJ ../. 
+
+Students./NNS able./JJ to./TO stay./VB for./IN an./DT 8-month./JJ co-op./NN are./VBP preferred./VBN ../. 
+
+Requirements./NNS 
+BS/MS./NNP (./( in./IN progress./NN )./) in./IN EE/CE/CS/Systems./NNP Engineering./NNP 
+Experience./NN in./IN embedded./JJ environments./NNS :./: 8/16/32./CD bit./NN MCUs./NNP ,./, dev./NN boards./NNS ,./, IDEs./NNP ,./, compilers./NNS ,./, version./NN control./NN (./( git./JJ or./CC Perforce./NNP )./) and./CC I2C/SPI/UART./NNP protocols./NNS 
+Great./NNP coding./VBG skills./NNS :./: primarily./RB bare./IN metal./JJ C./NNP 
+Experience./NN with./IN lab./JJ equipment./NN :./: oscilloscopes./NNS ,./, multimeters./NNS ,./, logic./JJ analyzers./NNS 
+Strong./JJ communication./NN ,./, analytical./JJ ,./, problem./NN solving./NN ,./, and./CC debug./NN skills./NNS 
+
+Preferred./NNP (./( bonus./NN )./) skills./NNS 
+Knowledge./NNP of./IN Bluetooth./NNP Classic./NNP and./CC BTLE./NNP 
+Familiarity./NN with./IN real-time./JJ audio./NN (./( sample./JJ rates./NNS ,./, buffering./NN ,./, I2S./NNP ,./, PCM./NNP )./) 
+Familiarity./NN with./IN Digital./NNP logic./NN ,./, ADCs./NNP ,./, and./CC interfacing./VBG with./IN sensors./NNS 
+Python./NNP or./CC shell./NN scripting./NN 
+Ability./NN to./TO read./VB schematics./NNS and./CC debug./NN hardware./NN 
+
+Apple./NNP is./VBZ an./DT Equal./JJ Employment./NNP Opportunity./NNP Employer./NNP that./WDT is./VBZ committed./VBN to./TO inclusion./NN and./CC diversity./NN ../. We./PRP also./RB take./VBP affirmative./JJ action./NN to./TO offer./VB employment./NN and./CC advancement./NN opportunities./NNS to./TO all./DT applicants./NNS ,./, including./VBG minorities./NNS ,./, women./NNS ,./, protected./VBD veterans./NNS ,./, and./CC individuals./NNS with./IN disabilities./NNS ../. 
+
+This./DT job./NN is./VBZ located./VBN in./IN Cupertino./NNP ,./, CA./NNP and./CC offers./VBZ competitive./JJ benefits./NNS including./VBG corporate./JJ housing./NN OR./NNP $./$ 1000./CD monthly./JJ rent./NN stipend./NN ,./, paid./VBD travel./NN expenses./NNS to./TO and./CC from./IN Waterloo./NNP and./CC substantial./JJ discounts./NNS on./IN Apple./NNP products./NNS ../. 

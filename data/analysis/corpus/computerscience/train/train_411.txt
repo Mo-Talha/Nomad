@@ -1,0 +1,28 @@
+Awake./NNP 's./POS mission./NN is./VBZ to./TO protect./VB companies./NNS from./IN advanced./JJ cyber./NN attacks./NNS and./CC to./TO help./VB their./PRP$ security./NN teams./NNS operate./VBP with./IN superhuman./JJ efficiency./NN ../. Our./PRP$ approach./NN is./VBZ simply./RB different./JJ than./IN what./WP is./VBZ available./JJ today./NN ,./, and./CC we./PRP aim./VBP to./TO create./VB a./DT world-class./NN ,./, enduring./VBG capability./NN to./TO help./VB protect./VB the./DT information./NN assets./NNS that./WDT enrich./VBP our./PRP$ world./NN ../. 
+
+
+We./PRP 're./VBP looking./VBG for./IN students./NNS that./WDT are./VBP excited./VBN about./IN solving./VBG hard./JJ open-ended./JJ problems./NNS around./IN networking./NN ,./, systems./NNS ,./, security./NN ,./, distributed./VBN systems./NNS ,./, databases./NNS ,./, data./NNS pipelines./NNS ,./, platform./NN development./NN ,./, front-end./JJ ,./, data./NNS visualization./NN and./CC much./RB more./RBR ../. 
+
+
+Cool./NNP technologies./NNS /./NNP languages./VBZ we./PRP use./VBP 
+
+
+Languages./NNS :./: Haskell./NNP ,./, Go./NNP ,./, Scala./NNP ,./, C/C++./NNP ,./, Python./NNP 
+
+Systems./SYM -./: Nix./NN ,./, Docker./NNP ,./, Jenkins./NNP 
+
+Data./NNP -./: Greenplum./NN ,./, Kafka./NNP ,./, Samza./NNP 
+
+UI./NNP -./: React./NNP /./NNP Redux./NNP ,./, Purescript./NNP ,./, Babel./NNP 
+
+
+Cool./JJ projects./NNS our./PRP$ past./JJ interns./NNS have./VBP worked./VBN on./IN 
+
+
+Building./VBG a./DT parser./NN in./IN Haskell./NNP to./TO decode./VB TFTP./NNP ,./, FTP./NNP ,./, and./CC Kerboros./NNP traffic./NN 
+
+Exploring./VBG how./WRB we./PRP can./MD use./VB Deep./JJ Learning./NNP to./TO detect./VB anomalous./JJ network./NN traffic./NN 
+
+Extending./VBG the./DT functionality./NN of./IN Liquid./NNP Haskell./NNP and./CC helping./VBG with./IN the./DT verification./NN of./IN our./PRP$ Haskell./NNP code./NN 
+
+Building./VBG a./DT Haskell./NNP library./NN for./IN GRPC./NNP 

@@ -1,0 +1,38 @@
+_______________________________________________________________________./NN 
+
+Relevancy./NN Engineering./VBG at./IN Wish./JJ 
+
+Our./PRP$ engineers./NNS move./VBP very./RB fast./RB ,./, while./IN solving./VBG unique./JJ and./CC challenging./JJ problems./NNS ../. Our./PRP$ team./NN is./VBZ small./JJ and./CC nimble./JJ ../. We./PRP release./VBP every./DT single./JJ day./NN to./TO ensure./VB that./IN engineers./NNS are./VBP able./JJ to./TO iterate./VB quickly./RB ,./, and./CC make./VB an./DT impact./NN immediately./RB ../. Each./DT engineer./NN has./VBZ the./DT opportunity./NN to./TO work./VB on./IN different./JJ domains./NNS ,./, such./JJ as./IN :./: information./NN retrieval./NN algorithms./NN ,./, scalability./NN infrastructure./NN and./CC storage./NN solutions./NNS ,./, and./CC large-scale./JJ applications./NNS for./IN users./NNS on./IN web./NN and./CC mobile./JJ devices./NNS ../. 
+We./PRP 're./VBP looking./VBG for./IN engineers./NNS to./TO work./VB on./IN our./PRP$ massive./JJ semi-structured./JJ datasets./NNS ../. This./DT role./NN is./VBZ ideal./JJ for./IN someone./NN who./WP has./VBZ solid./JJ mathematical./JJ background./NN ,./, domain./NN experience./NN in./IN data./NN mining./NN ,./, information./NN retrieval./NN ,./, or./CC machine./NN learning./NN ,./, and./CC a./DT strong./JJ system./NN orientation./NN ../. You./PRP will./MD have./VB the./DT rare./JJ opportunity./NN to./TO have./VB direct./JJ impact./NN on./IN key./JJ product./NN initiatives./NNS ;./: including./VBG product./NN feed./NN relevance./NN ,./, ad./NN targeting./NN ,./, information./NN extraction./NN ,./, and./CC recommendations./NNS ../. 
+
+Desired./NNP Skills./NNP &./CC Experience./NNP 
+You./PRP are./VBP passionate./JJ about./IN big./JJ data./NNS ../. You./PRP are./VBP passionate./JJ about./IN working./VBG with./IN large./JJ amount./NN of./IN data./NNS points./NNS for./IN statistical./JJ modeling./NN ,./, data./NN mining./NN ,./, recommendation./NN or./CC search./NN relevance./NN solutions./NNS ../. 
+Experience./NN with./IN map/reduce./NN framework./NN ,./, such./JJ as./IN Hadoop./NNP ../. 
+Familiar./NNP with./IN information./NN retrieval./NN libraries./NNS ,./, such./JJ as./IN Lucene/SOLR./NNP ../. 
+Firm./JJ grasp./NN of./IN probability./NN and/or./VBP graph./NN theory./NN ../. 
+
+You./PRP should./MD be./VB able./JJ to./TO perform./VB and./CC contribute./VB under./IN a./DT great./JJ deal./NN of./IN independence./NN ../. Regardless./NNP of./IN your./PRP$ seniority./NN or./CC experience./NN we./PRP are./VBP ultimately./RB looking./VBG individuals./NNS that./WDT are./VBP capable./JJ and./CC passionate./NN to./TO help./VB us./PRP hack./VB the./DT social./JJ commerce./NN ../. 
+We./PRP are./VBP an./DT equal./JJ opportunity./NN employer./NN and./CC value./NN diversity./NN at./IN our./PRP$ company./NN ../. We./PRP do./VBP not./RB discriminate./VB on./IN the./DT basis./NN of./IN race./NN ,./, religion./NN ,./, color./NN ,./, national./JJ origin./NN ,./, gender./NN ,./, sexual./JJ orientation./NN ,./, age./NN ,./, marital./JJ status./NN ,./, veteran./NN status./NN ,./, or./CC disability./NN status./NN ../. 
+
+Company./NN Description./NN 
+Wish./JJ brings./VBZ together./RB top./JJ technical./JJ talent./NN from./IN Google./NNP ,./, Facebook./NNP ,./, and./CC Yahoo./NNP !./. Wish./NNP ,./, www.wish.com./NN ,./, is./VBZ changing./VBG the./DT way./NN people./NNS shop./VBP by./IN making./VBG it./PRP more./RBR convenient./JJ and./CC accessible./JJ to./TO everyone./NN on./IN a./DT global./JJ scale./NN ../. We./PRP are./VBP passionate./JJ about./IN connecting./VBG relevant./JJ products./NNS to./TO relevant./JJ people./NNS ../. Using./VBG our./PRP$ top-notch./JJ recommendation./NN system./NN ,./, we./PRP create./VBP a./DT personalized./JJ shopping./NN experience./NN for./IN each./DT of./IN our./PRP$ users./NNS ../. It./PRP 's./VBZ a./DT digital./JJ mall./NN ,./, right./RB in./IN your./PRP$ back./NN pocket./NN !./. 
+
+Wish./NN was./VBD launched./VBN in./IN November./NNP 2011./CD and./CC already./RB has./VBZ over./RP 200./CD million./CD registered./VBD users./NNS ,./, making./VBG it./PRP one./CD of./IN the./DT top./JJ 5./CD mobile./JJ shopping./NN applications./NNS ,./, and./CC highest./JJS downloaded./VBD shopping./VBG app./NN on./IN Black./NNP Friday./NNP 2015./CD !./. 
+
+We./PRP work./VBP with./IN a./DT lean./JJ team./NN ,./, which./WDT provides./VBZ every./DT Wish-ee./JJ with./IN the./DT opportunity./NN to./TO make./VB a./DT huge./JJ contribution./NN at./IN a./DT fast./JJ growing./VBG technology./NN startup./NN ,./, and./CC in./IN the./DT process./NN gain./NN invaluable./JJ experience./NN and./CC credibility./NN ../. Our./PRP$ technical./JJ team./NN overflows./VBZ with./IN UW./NNP pride./NN ,./, and./CC we./PRP 'd./MD love./VB to./TO make./VB another./DT talented./VBN and./CC passionate./JJ University./NNP of./IN Waterloo./NNP student./NN part./NN of./IN it./PRP ../. 
+
+The./DT Wish./NNP mobile./NN app./NN is./VBZ available./JJ on./IN iPhone./NN ,./, iPod./JJ Touch./NNP ,./, and./CC iPad./NN :./: http./NN :./: //itunes.apple.com/us/app/wish-discover-products-youll/id530621395./JJ ?./. mt=8./NN 
+The./DT Wish./NNP mobile./NN app./NN is./VBZ also./RB available./JJ on./IN Android./NNP phones./NNS :./: https./NN :./: //play.google.com/store/apps/details./NNS ?./. id=com.contextlogic.wish./JJ 
+Press./NN :./: 
+-./: Recode./NN :./: 
+http./NN :./: //recode.net/2015/12/28/meet-wish-the-3-billion-app-that-could-be-the-next-walmart/./JJ 
+-./: 2016./CD Wealthfront./NNP Career./NNP Launching./NNP Company./NN :./: 
+https./NN :./: //info.wealthfront.com/rs/781-RJU-318/images/Wealthfront_2016_Career_Launching_Companies_List.pdf./JJ 
+-./: Startups./NN to./TO watch./VB in./IN 2015./CD :./: 
+http./NN :./: //nycda.com/blog/10-tech-startups-watch-2015/./JJ 
+-./: 2015./CD Breakout./IN Company./NN :./: 
+https./NN :./: //breakoutlist.com/assets/breakout-list-15.pdf./JJ 
+-./: Black./NN Friday./NNP Downloads./VBZ :./: 
+http./NN :./: //www.digitaltrends.com/mobile/ios-shopping-downloads-black-friday/./JJ 
+-./: Best./JJS Android./JJ Shopping./NNP App./NNP of./IN 2014./CD :./: 
+http./NN :./: //time.com/3611709/best-android-google-play-apps-2014/./JJ 

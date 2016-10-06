@@ -1,0 +1,32 @@
+Capital./NN One./CD will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Oct../NNP 5./CD ,./, 2016./CD from./IN 7:30./CD AM./NNP -./: 9:30./CD PM./NNP at./IN Davis./NNP Centre./NNP -./: Corporate./NNP Lounge./NN 1301./CD ../. Please./VB plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+
+
+At./IN Capital./NNP One./NNP ,./, the./DT goal./NN of./IN Data./NNP Solutions./NNP group./NN is./VBZ to./TO create./VB advanced./JJ technical./JJ tools./NNS to./TO achieve./VB efficiency./NN and./CC quality./NN in./IN all./DT critical./JJ data./NN processes./NNS ../. We./PRP also./RB provide./VBP tools./NNS to./TO help./VB other./JJ groups./NNS be./VB efficient./JJ ../. The./DT addition./NN of./IN ``./`` Big./NNP Data./NNP ''./'' tools./NNS to./TO Capital./NNP One./NNP 's./POS information-based./JJ decision./NN making./NN culture./NN creates./VBZ new./JJ opportunities./NNS at./IN the./DT intersection./NN of./IN business./NN strategy./NN and./CC technology./NN ../. This./DT coop./NN opportunity./NN will./MD challenge./VB you./PRP in./IN logical./JJ thinking./NN and./CC adaptability./NN ../. It./PRP also./RB requires./VBZ exceptional./JJ teamwork./NN ../. Based./VBN at./IN our./PRP$ Canada./NNP Headquarters./NNP in./IN the./DT North./NNP York./NNP Center./NNP location./NN in./IN Toronto./NNP ,./, the./DT work./NN environment./NN is./VBZ relaxed./VBN ,./, flexible./JJ ,./, and./CC results./NNS focused./VBD ../. 
+
+Your./PRP$ role./NN as./IN a./DT coop./NN is./VBZ to./TO join./VB a./DT team./NN of./IN Data./NNP Analysts./NNS to./TO decide./VB ,./, design./NN ,./, and./CC develop./VB tools./NNS to./TO address./VB challenges./NNS in./IN our./PRP$ business./NN processes./NNS ../. You./PRP will./MD be./VB challenged./VBN to./TO consider./VB multiple./JJ potential./JJ solutions./NNS and./CC pick./VB your./PRP$ favorite./JJ ../. You./PRP will./MD truly./VB own./JJ the./DT recommendation./NN and./CC resolution./NN to./TO an./DT existing./VBG business./NN problem./NN and./CC will./MD be./VB involved./JJ end./NN to./TO end./VB from./IN problem./NN identification./NN to./TO tools./VB deployment./NN ../. 
+
+Types./NNS of./IN projects./NNS Data./NNP Solutions./NNP delivers./NNS :./: 
+
+-./: Build./NN ,./, automate./NN ,./, and./CC maintain./RB critical./JJ business./NN reporting./VBG using./VBG cutting-edge./NN tools./NNS ../. 
+-./: Develop./NN Python./NNP solutions./NNS and./CC tools./NNS ../. 
+-./: Design./NN and./CC develop./VB data./NNS solutions./NNS that./IN provide./VBP seamless./JJ execution./NN to./TO business./NN intents./NNS ../. 
+-./: Consult./NN and./CC influence./NN design./NN of./IN critical./JJ business./NN processes./NNS ../. 
+-./: Identify./NN ,./, research./NN ,./, and./CC solve./VB technical./JJ problems./NNS for./IN the./DT business./NN ../. 
+-./: Create./NN and./CC maintain./VB well-managed./JJ critical./JJ data./NN processes./NNS to./TO meet./VB regulatory./JJ requirements./NNS ../. 
+-./: Explore./NN new./JJ tools./NNS and./CC technologies./NNS in./IN R./NNP &./CC D./NNP labs./NN and./CC promote./VB their./PRP$ adaption./NN ../. 
+-./: Consult./NN on./IN proof./NN of./IN concept./NN work./NN using./VBG Big./NNP Data./NNP infrastructure./NN to./TO gather./VB analytic./JJ insight./NN ../. 
+-./: Enable./JJ delivery./NN of./IN business./NN ideas./NNS from./IN concept./NN to./TO implementation./NN ../. 
+-./: Identify./NN process./NN improvements./NNS and./CC deliver./VB on./IN them./PRP ../. 
+-./: Perform./NN ad./NN hoc./NN analytics./NNS on./IN large/diverse./JJ datasets./NNS ../. 
+Preferred./JJ qualifications./NNS :./: 
+-./: Pursuing./VBG a./DT Bachelor./NNP 's./POS degree./NN in./IN Computer./NNP Science./NNP ,./, Engineering./NNP ,./, or./CC another./DT quantitative./JJ discipline./NN with./IN a./DT strong./JJ programming./NN background./NN ../. 
+-./: Familiarity./NN with./IN SQL./NNP ,./, Python./NNP ,./, or./CC SAS./NNP (./( Hadoop./NNP ,./, Perl./NNP ,./, or./CC Tableau./NNP skills./NNS are./VBP a./DT bonus./NN )./) ../. 
+-./: Ability./NN to./TO shape./NN and./CC develop./VB requirements./NNS into./IN practical./JJ solutions./NNS ../. 
+-./: Ability./NN to./TO clearly./RB explain./VB technical./JJ terms./NNS to./TO a./DT non-technical./JJ audience./NN ../. 
+-./: Experience./NN in./IN a./DT Unix/Linux./NNP environment./NN 
+Perks./NNS of./IN being./VBG a./DT coop./NN at./IN Capital./NNP One./NNP Data./NNP Solutions./NNS :./: 
+-./: Satisfaction./NN in./IN helping./VBG others./NNS be./VB more./RBR efficient./JJ by./IN developing./VBG advanced./JJ tools./NNS 
+-./: Present./VB your./PRP$ product./NN and./CC compete./NN with./IN other./JJ Data./NNP Analyst./NNP and./CC Data./NNP Science./NNP coops./NNS in./IN true./JJ Dragon./NNP Den./NNP style./NN 
+-./: Access./NN to./TO games./NNS center./NN in./IN all./DT floors./NNS ,./, to./TO name./VB a./DT few./JJ ,./, Foosball./NNP ,./, Xbox./NNP ,./, Ping./NNP Pong./NNP ,./, and./CC loads./NNS of./IN board./NN games./NNS 
+-./: Participate./NN in./IN our./PRP$ office./NN fun./NN days./NNS ,./, such./JJ as./IN archery./NN tag./NN and./CC trampling./VBG dodge./NN ball./NN 
+Note./NN :./: Capital./NN One./CD also./RB has./VBZ other./JJ postings./NNS in./IN Toronto./NNP and./CC Kitchener-Waterloo./NNP ../. Please./NNP only./RB apply./VB to./TO one./CD posting./NN ,./, and./CC express./JJ interest./NN in./IN other./JJ postings./NNS in./IN your./PRP$ cover./NN letter./NN or./CC in./IN your./PRP$ interview./NN ../. 

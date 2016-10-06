@@ -1,0 +1,77 @@
+Interested./JJ to./TO learn./VB what./WP it./PRP is./VBZ like./IN to./TO work./VB at./IN Sun./NNP Life./NNP Financial./NNP during./IN a./DT co-op./JJ placement./NN ?./. Reach./VB out./IN to./TO the./DT Sun./NNP Life./NNP Campus./NNP Ambassador./NNP :./: Jenny./NNP Ma./NNP jenny.ma./NN @./NNP sunlife.com./NN Please./NNP also./RB create./VBP a./DT profile./NN in./IN our./PRP$ system./NN when./WRB applying./VBG for./IN a./DT co-op./JJ role./NN by./IN following./VBG this./DT link./NN :./: http./NN :./: //bit.ly/2cNXrz0./NN 
+--./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: -./: 
+
+Application./NNP Developer./NNP 
+
+Location./NN :./: 227./CD King./NNP St../NNP S../NNP ,./, Waterloo./NNP 
+
+You./PRP believe./VBP life./NN is./VBZ about./IN aiming./VBG high./JJ and./CC making./VBG an./DT impact./NN ../. At./IN Sun./NNP Life./NNP Financial./NNP ,./, we./PRP work./VBP together./RB ,./, share./NN common./JJ values./NNS and./CC help./VB each./DT other./JJ grow./NN and./CC achieve./JJ goals./NNS ../. 
+
+With./IN roots./NNS tracing./VBG back./RB to./TO 1865./CD in./IN Canada./NNP ,./, Sun./NNP Life./NNP Financial./NNP has./VBZ grown./VBN to./TO become./VB an./DT established./JJ and./CC trusted./VBD name./NN in./IN insurance./NN and./CC financial./JJ services./NNS ,./, with./IN offices./NNS and./CC operations./NNS in./IN key./JJ markets./NNS around./IN the./DT world./NN ../. We./PRP recognize./VBP that./IN our./PRP$ growth./NN ,./, success./NN and./CC reputation./NN for./IN excellence./NN are./VBP due./JJ in./IN large./JJ measure./NN to./TO our./PRP$ talented./VBN and./CC dedicated./VBN employees./NNS ../. 
+
+Our./PRP$ Team./NN :./: 
+
+Individual./JJ Application./NNP Services./NNPS (./( IAS./NNP )./) supports./VBZ our./PRP$ business./NN unit./NN partners./NNS in./IN the./DT Individual./NNP Life./NNP and./CC Health./NNP area./NN of./IN Sun./NNP Life./NNP Financial./NNP Canada./NNP ,./, by./IN providing./VBG technology./NN solutions./NNS they./PRP need./VBP to./TO achieve./VB business./NN excellence./NN ../. 
+
+Role./JJ Summary./NNP :./: 
+
+We./PRP are./VBP looking./VBG for./IN energetic./JJ ,./, resourceful./JJ people./NNS to./TO work./VB within./IN Individual./NNP Application./NNP Services./NNP (./( IAS./NNP )./) ../. IAS./NNP developers./NNS work./VBP together./RB with./IN fellow./JJ developers./NNS and./CC with./IN business./NN analysts./NNS ,./, testers./NNS ,./, and./CC project./NN managers./NNS to./TO deliver./VB high./JJ quality./NN web./NN and./CC desktop./JJ application./NN solutions./NNS for./IN our./PRP$ business./NN ../. The./DT successful./JJ candidates./NNS will./MD work./VB from./IN our./PRP$ 227./CD King./NNP St../NNP S../NNP ,./, Waterloo./NNP office./NN ../. 
+
+Main./NN Accountabilities./NNS :./: 
+
+-Technical./JJ systems./NNS analysis./NN 
+-Review./NN of./IN requirements./NNS 
+-Participation./NN in./IN design./NN discussions./NNS and./CC creating./VBG or./CC reviewing./VBG design./NN documentation./NN 
+-Coding./VBG and./CC unit./NN testing./NN of./IN the./DT application./NN 
+-Support./NN of./IN testing./VBG activities./NNS ../. 
+
+Competencies./NNS :./: 
+
+Co-op./JJ opportunities./NNS exist./VBP on./IN several./JJ different./JJ IAS./NNP development./NN teams./NNS ,./, each./DT involving./VBG different./JJ technical./JJ skills./NNS ../. We./PRP are./VBP interested./JJ in./IN meeting./VBG candidates./NNS for./IN each./DT of./IN the./DT following./JJ three./CD profiles./NNS :./: 
+
+Profile./NN I./PRP :./: Microsoft./NNP Web./NNP and./CC desktop./NN development./NN :./: 
+
+-NET./NN (./( C./NNP #./# and./CC ASP.NET./NNP )./) web./VBD development./NN experience./NN 
+-VB6./NN and./CC classic./JJ ASP./NNP experience./NN would./MD also./RB be./VB beneficial./JJ ,./, but./CC not./RB required./VBN ;./: 
+-MS./JJ SQL./NNP Server./NNP 
+
+Profile./NNP II./NNP :./: Mainframe./NN development./NN 
+-Experience./NN or./CC interest./NN in./IN developing./VBG and./CC supporting./VBG applications./NNS on./IN the./DT mainframe./NN platform./NN 
+-Experience./NN in./IN PL1./NNP ,./, COBOL./NNP ,./, SAS./NNP ,./, JCL./NNP would./MD be./VB an./DT asset./NN ,./, but./CC not./RB required./JJ 
+-Experience./NN with./IN mainframe./NN utilities./NNS (./( Zeke./NNP ,./, SPF./NNP )./) would./MD be./VB an./DT asset./NN ,./, but./CC not./RB required./VBN ../. 
+
+Profile./NNP III./NNP :./: ESB./NNP Development./NNP 
+-An./JJ interest./NN in./IN learning./VBG integration./NN technologies./NNS 
+-General./JJ experience./NN in./IN development./NN on./IN the./DT Java./NNP platform./NN would./MD be./VB an./DT asset./NN ../. 
+
+All./DT profiles./NNS :./: 
+
+-Good./NN knowledge./NN of./IN Lotus./NNP Notes./NNP ,./, Word./NNP ,./, Excel./NNP and./CC PowerPoint./NNP 
+-Excellent./JJ communication./NN skills./NNS 
+-Work./RB well./RB as./IN part./NN of./IN a./DT multidiscipline./NN project./NN team./NN to./TO help./VB the./DT team./NN deliver./VB a./DT quality./NN solution./NN on./IN schedule./NN ../. 
+-Excellent./JJ time./NN management./NN and./CC strong./JJ organizational./JJ skills./NNS 
+-Ability./NN to./TO effectively./RB manage./VB multiple./JJ priorities./NNS and./CC meet./NN numerous./JJ deadlines./NNS 
+-Ability./NN to./TO take./VB initiative./NN and./CC work./NN independently./RB 
+-Strong./JJ problem./NN solving./NN and./CC process./NN improvement./NN skills./NNS 
+-Aptitude./NN and./CC willingness./NN to./TO learn./VB 
+
+
+Learning./VBG &./CC Development./NNP Opportunities./NNPS :./: 
+
+-Deepen./VB your./PRP$ knowledge./NN of./IN our./PRP$ technologies./NNS 
+-Strengthen./VB your./PRP$ general./JJ development./NN skills./NNS as./IN they./PRP apply./VBP to./TO all./DT phases./NNS of./IN the./DT systems./NNS development./NN life./NN cycle./NN ../. These./DT include./VBP creating./VBG effective./JJ documentation./NN ,./, communicating./VBG effectively./RB within./IN a./DT project./NN team./NN ,./, and./CC creating./VBG intelligent./JJ development./NN and./CC test./NN strategies./NNS 
+-Enhance./VB your./PRP$ analytical./JJ and./CC problem./NN solving./NN skills./NNS 
+-Sharpen./JJ organizational./JJ and./CC leadership./NN skills./NNS by./IN being./VBG held./VBN accountable./JJ for./IN tasks./NNS 
+-Increase./NN knowledge./NN of./IN business./NN transactions./NNS ,./, key./JJ systems./NNS ,./, insurance./NN and./CC wealth./NN products./NNS ,./, services./NNS and./CC methodologies./NNS used./VBN in./IN the./DT global./JJ health./NN and./CC life./NN insurance./NN industry./NN 
+
+
+Sun./NNP Life./NNP Financial./NNP promotes./VBZ equal./JJ opportunity./NN employment./NN ../. 
+
+Please./NNP visit./VB us./PRP at./IN www.sunlife.ca/careers/students./NNS 
+Follow./VB us./PRP at./IN twitter.com/SunLifeCareers./NNS ../. 
+
+Like./IN to./TO hear./VB what./WP some./DT of./IN our./PRP$ employees./NNS have./VBP to./TO say./VB about./IN ``./`` Working./VBG at./IN Sun./NNP Life./NNP ''./'' ?./. 
+Check./VB us./PRP out./RP at./IN :./: www.youtube.com/sunlifefinancial./NN 
+
+Visit./VB our./PRP$ 'Sun./JJ Life./NNP Facebook./NNP page./NN :./: 
+http./NN :./: //bit.ly/SLFFBCANADA./NN 

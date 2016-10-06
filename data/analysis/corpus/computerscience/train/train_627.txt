@@ -1,0 +1,46 @@
+Software./NNP Engineering./NNP Intern./NNP ,./, Core./NNP MDM./NNP Technologies./NNPS 
+
+Our./PRP$ Company./NN 
+
+Informatica./NNP LLC./NNP delivers./NNS enterprise./VBP data./NNS integration./NN and./CC management./NN software./NN powering./VBG analytics./NNS for./IN big./JJ data./NNS and./CC cloud./NN ../. Thousands./NNS of./IN enterprises./NNS worldwide./VBP depend./VBP on./IN Informatica./NNP data./NNS integration./NN ,./, data./NNS quality./NN ,./, and./CC Big./NNP Data./NNP solutions./NNS to./TO access./NN ,./, integrate./NN ,./, and./CC trust./VB their./PRP$ information./NN assets./NNS residing./VBG on./IN premise./NN and./CC in./IN the./DT Cloud./NNP ../. 
+
+Our./PRP$ Team./NN 
+
+The./DT MDM./NNP Product./NNP Research./NNP and./CC Development./NNP team./NN designs./NNS and./CC develops./VBZ the./DT fastest./JJS growing./VBG product./NN line./NN at./IN Informatica./NNP -./: Informatica./NNP Master./NNP Data./NNP Management./NNP (./( MDM./NNP )./) ../. Leading./VBG financial./JJ services./NNS ,./, life./NN sciences./NNS ,./, manufacturing./NN ,./, healthcare./NN ,./, and./CC retail./JJ companies./NNS ,./, as./RB well./RB as./IN government./NN organizations./NNS worldwide./VBP ,./, rely./RB on./IN Informatica./NNP MDM./NNP to./TO consolidate./VB their./PRP$ master./NN data./NNS to./TO improve./VB operations./NNS ,./, lower./JJR costs./NNS ,./, and./CC higher./JJR revenue./NN ../. 
+
+https./NN :./: //www.informatica.com/products/master-data-management.html./JJ #./# fbid=qRV7CR-i0pV./JJ 
+
+The./DT MDM./NNP R./NNP &./CC D./NNP team./NN works./VBZ in./IN an./DT Agile./NNP software./NN development./NN environment./NN ../. We./PRP work./VBP hard./RB ,./, put./VBD in./IN extra./JJ time./NN when./WRB necessary./JJ ,./, and./CC celebrate./VB our./PRP$ successes./NNS ../. Our./PRP$ office./NN is./VBZ located./VBN in./IN downtown./NN Toronto./NNP ,./, an./DT easy./JJ walk./NN from./IN either./DT Union./NNP station./NN or./CC King./NNP subway./JJ station./NN ../. We./PRP offer./VBP a./DT small./JJ company./NN feel./NN ,./, while./IN offering./VBG all./PDT the./DT opportunities./NNS that./IN come./VBP with./IN working./VBG for./IN a./DT large./JJ and./CC globally./RB diverse./JJ enterprise./NN software./NN company./NN ../. If./IN you./PRP enjoy./VBP an./DT occasional./JJ game./NN of./IN ping./VBG pong./NN ,./, bring./VB your./PRP$ best./JJS game./NN and./CC challenge./VB the./DT office./NN champions./NNS ../. 
+
+At./IN Informatica./NNP ,./, innovation./NN is./VBZ encouraged./VBN ../. If./IN your./PRP$ work./NN term./NN coincides./NNS with./IN Informatica./NNP Innovation./NNP Days./NNP ,./, you./PRP have./VBP the./DT opportunity./NN to./TO work./VB in./IN a./DT cross-functional./JJ team./NN and./CC prototype./NN an./DT idea./NN for./IN a./DT feature./NN ,./, product./NN ,./, or./CC process./NN ../. 
+
+Your./PRP$ Opportunity./NN 
+
+Join./VB a./DT highly./RB motivated./VBN and./CC energetic./JJ software./NN development./NN team./NN ,./, and./CC play./VB a./DT key./JJ role./NN in./IN innovating./VBG and./CC building./VBG the./DT Informatica./NNP MDM./NNP Hub./NNP products./NNS ../. You./PRP will./MD be./VB involved./VBN in./IN all./DT phases./NNS of./IN development./NN ,./, including./VBG requirements./NNS analysis./NN ,./, technical./JJ design./NN ,./, development./NN ,./, and./CC unit./NN testing./NN ../. You./PRP will./MD work./VB in./IN a./DT fast-paced./JJ ,./, challenging./VBG environment./NN alongside./RB talented./VBD software./NN developers./NNS ,./, QA./NNP engineers./NNS ,./, architects./NNS ,./, and./CC product./NN managers./NNS ../. 
+
+If./IN big./JJ data./NNS and./CC master./NN data./NNS management./NN arouse./IN your./PRP$ curiosity./NN ,./, and./CC if./IN you./PRP are./VBP motivated./VBN and./CC ready./JJ to./TO quickly./RB conquer./VB a./DT steep./JJ learning./NN curve./NN ,./, we./PRP welcome./VBP you./PRP to./TO go./VB the./DT extra./JJ mile./NN with./IN us./PRP ../. Our./PRP$ ideal./JJ candidate./NN is./VBZ familiar./JJ with./IN design./NN patterns./NNS and./CC an./DT expert./NN at./IN Java./NNP development./NN methodologies./NNS ../. You./PRP thrive./VBP on./IN challenges./NNS ../. 
+
+Job./NNP Location./NNP :./: TORONTO./NN ,./, Ontario./NNP ../. 
+
+Responsibilities./NNS 
+-./: Understand./NN existing./VBG product./NN and./CC process./NN 
+-./: Write./JJ clean./JJ and./CC maintainable./JJ product./NN code./NN ,./, unit./NN tests./NNS 
+-./: Maintain./NN documentation./NN (./( i.e./JJ ../. specifications./NNS )./) 
+-./: Contribute./NN to./TO all./DT aspects./NNS of./IN the./DT engineering./NN process./NN ,./, i.e./NN ../. design./NN ,./, review./NN ,./, agile./NN ,./, etc./FW ../. 
+
+Required./VBN Skills./NNS 
+-./: Computer./NNP science/engineering./VBG 
+-./: Strong./NN Core./NNP Java./NNP and./CC JEE./NNP ,./, JavaScript/C++./NNP Programming./NNP Skills./NNP 
+-./: Knowledge./NN in./IN Relational./NNP databases./NNS concepts./NNS (./( SQL./NNP ,./, Oracle./NNP ,./, DB2./NNP )./) 
+-./: Object./NN Oriented./NNP design./NN ,./, data./NN structures./NNS and./CC programming./VBG 
+-./: Exposure./NN to./TO technologies./NNS ,./, such./JJ as./IN Spring./NN ,./, REST./NNP ,./, SOAP./NNP ,./, HTML5./NNP ,./, CSS3./NNP ,./, Bootstrap./NNP ,./, Angular./NNP JS./NNP ,./, JBoss./NNP ,./, Solr./NNP ,./, MongoDB./NNP ,./, NoSQL./NNP ,./, Linux./NNP or./CC other./JJ Cloud./NNP related./JJ technologies./NNS 
+
+Career./NNP Development./NNP and./CC Training./NNP 
+Students./NNS will./MD develop./VB knowledge./NN in./IN collaboration./NN with./IN product./NN managers./NNS ,./, senior./JJ engineers./NNS and./CC system./NN architects./NNS ../. They./PRP will./MD be./VB able./JJ to./TO gain./VB exposure./NN to./TO various./JJ database./NN ,./, big./JJ data./NNS and./CC cloud-based./JJ technologies./NNS ,./, improve./VB their./PRP$ understanding./NN of./IN how./WRB great./JJ software./NN is./VBZ designed./VBN and./CC built./VBN ../. 
+
+Transportation./NN and./CC Housing./NN 
+Students./NNS provide./VBP their./PRP$ own./JJ transportation./NN and./CC housing./NN 
+
+More./JJR information./NN available./JJ :./: 
+https./NN :./: //www.youtube.com/watch./NN ?./. v=kusOhQ0ZF8g./NN 
+https./NN :./: //www.youtube.com/watch./NN ?./. v=AE4bVa6AnuI./NN 

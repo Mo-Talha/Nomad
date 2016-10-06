@@ -1,0 +1,29 @@
+_______________________________________________________________________./NN 
+
+Baseband./NNP Embedded./NNP SW./NNP Developer./NNP Co-Op./NNP (./( iPhone./NN RF./NNP Design./NNP Team./NNP )./) 
+
+Description./NN :./: 
+Baseband./NNP Embedded./NNP Software./NNP Developer./NNP Co-Op./NNP will./MD work./VB on./IN the./DT development./NN of./IN future./JJ products./NNS within./IN a./DT cross-functional./JJ hardware./NN engineering./NN team./NN :./: 
+
+Design./NN and./CC development./NN of./IN Cellular./NNP ,./, WiFi./NNP and./CC Bluetooth./NNP HW./NNP in./IN future./JJ iOS./NN products./NNS including./VBG iPhone./NN ,./, iPad./NN and./CC Watch./NNP on./IN a./DT world-class./JJ team./NN !./. 
+Ability./NN to./TO prototype./VB new./JJ HW./NNP and./CC SW./NNP solutions./NNS to./TO assist./VB with./IN new./JJ product./NN development./NN ../. 
+Work./NN on./IN developing./VBG new./JJ algorithms./NN and./CC tools./NNS for./IN RF./NNP development./NN ../. Will./WDT have./VBP the./DT ability./NN to./TO architect./VB and./CC develop./VB new./JJ feature./NN sets./NNS to./TO assist./VB RF./NNP engineers./NNS and./CC vendors./NNS ../. 
+Developing./VBG low-level./JJ drivers./NNS to./TO interface./VB with./IN HW./NNP development./NN platforms./NNS ../. 
+Design./NN and./CC develop./VB GUI./NNP and/or./JJ web./VBD front-ends./NNS ../. 
+Work./VB cross-functionally./RB with./IN various./JJ teams./NNS within./IN Apple./NNP ../. 
+
+Key./JJ Qualifications./NNS :./: 
+Pursuing./VBG a./DT Bachelor./NNP 's./POS degree./NN in./IN Electrical/Computer/CS./NNP Engineering./NNP with./IN previous./JJ internship/co-op./JJ experience./NN ../. 
+Strong./JJ fundamentals./NNS in./IN SW./NNP design./NN ;./: but./CC a./DT willingness./NN to./TO learn./VB RF./NNP fundamentals./NNS and./CC HW./NNP interfacing./NN ../. 
+Strong./JJ development./NN experience./NN with./IN Python./NNP and./CC C/C++./NNP ../. Obj-C./JJ experience./NN is./VBZ a./DT strong./JJ asset./NN ../. 
+A./DT self-starter./NN that./WDT can./MD work./VB internally./RB to./TO define./VB and./CC develop./VB new./JJ feature./NN sets./NNS with./IN little./JJ supervision./NN ../. 
+Knowledge./NNP of./IN git./NN ,./, or./CC other./JJ methods./NNS of./IN revision./NN control./NN ../. 
+Experience./NN prototyping./VBG with./IN embedded./JJ microcontrollers./NNS (./( PIC./NNP ,./, Arduino./NNP )./) ,./, is./VBZ a./DT plus./NN ../. 
+Hands-on./JJ lab./NN experience./NN with./IN bench./JJ equipment./NN (./( i.e./NN ../. oscilloscopes./NNS ,./, power./NN meters./NNS ,./, VNAs./NNP ,./, signal./JJ analyzers./NNS ,./, etc./FW )./) and./CC automation./NN ,./, is./VBZ a./DT plus./NN ../. 
+
+Additional./JJ Requirements./NNS :./: 
+Excited./VBN to./TO push./VB the./DT boundaries./NNS of./IN product./NN development./NN !./. 
+
+Apple./NNP is./VBZ an./DT Equal./JJ Employment./NNP Opportunity./NNP Employer./NNP that./WDT is./VBZ committed./VBN to./TO inclusion./NN and./CC diversity./NN ../. We./PRP also./RB take./VBP affirmative./JJ action./NN to./TO offer./VB employment./NN and./CC advancement./NN opportunities./NNS to./TO all./DT applicants./NNS ,./, including./VBG minorities./NNS ,./, women./NNS ,./, protected./VBD veterans./NNS ,./, and./CC individuals./NNS with./IN disabilities./NNS ../. 
+
+This./DT job./NN is./VBZ located./VBN in./IN Cupertino./NNP ,./, CA./NNP and./CC offers./VBZ competitive./JJ benefits./NNS including./VBG corporate./JJ housing./NN OR./NNP $./$ 1000./CD monthly./JJ rent./NN stipend./NN ,./, paid./VBD travel./NN expenses./NNS to./TO and./CC from./IN Waterloo./NNP and./CC substantial./JJ discounts./NNS on./IN Apple./NNP products./NNS ../. 

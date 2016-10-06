@@ -1,0 +1,11 @@
+About./IN UXP./NNP Systems./NNPS 
+
+UXP./JJ Systems./NNPS is./VBZ not./RB your./PRP$ typical./JJ technology./NN start./VB up./IN ;./: and./CC we./PRP do./VBP n't./RB strive./VB to./TO be./VB one./CD ../. Combining./VBG innovation./NN with./IN deep-operator./NN system./NN expertise./NN ,./, and./CC focusing./VBG on./IN specific./JJ solutions./NNS that./WDT address./VBP the./DT multiscreen./NN problem./NN space./NN with./IN practical./JJ solutions./NNS ,./, we./PRP are./VBP always./RB on./IN the./DT lookout./NN for./IN superstars./NNS ../. We./PRP want./VBP people./NNS who./WP are./VBP passionate./JJ about./IN creating./VBG carrier-class./JJ systems./NNS that./WDT change./VBP the./DT way./NN consumers./NNS interact./VBP with./IN their./PRP$ entertainment./NN &./CC communications./NNS services./NNS ;./: people./NNS with./IN a./DT passion./NN for./IN technology./NN and./CC the./DT experience./NN and./CC attitude./NN to./TO back./VB it./PRP up./RP !./. At./IN UXP./NNP Systems./NNPS ,./, we./PRP want./VBP each./DT employee./NN to./TO have./VB a./DT profound./JJ effect./NN on./IN our./PRP$ culture./NN and./CC our./PRP$ ability./NN to./TO succeed./VB ../. We./PRP 're./VBP looking./VBG for./IN people./NNS who./WP can./MD help./VB us./PRP achieve./VB our./PRP$ mission./NN ,./, who./WP can./MD collectively./RB add./VB value./NN and./CC help./VB us./PRP be./VB greater./JJR than./IN a./DT sum./NN of./IN individuals./NNS ../. If./IN you./PRP are./VBP looking./VBG for./IN a./DT challenging./NN and./CC rewarding./VBG job./NN ;./: with./IN a./DT passion./NN for./IN technology./NN and./CC creating./VBG highly-scalable./JJ and./CC performance./NN intensive./JJ applications./NNS that./WDT will./MD have./VB power./NN identity./NN management./NN and./CC service./NN orchestration./NN for./IN operators./NNS ,./, we./PRP are./VBP looking./VBG for./IN you./PRP ../. 
+
+Requirements./NNS :./: 
+
+Understanding./NN of./IN Computer./NNP Algorithms./NNP 
+Familiarity./NN with./IN test-driven./JJ development./NN ,./, regression./NN testing./NN ,./, and./CC functional./JJ testing./NN 
+Familiarity./NN with./IN testing./VBG frameworks./NNS ,./, including./VBG Selenium./NN and./CC Junit./NNP 
+Good./JJ written./VBN and./CC verbal./JJ communication./NN skills./NNS 
+Passion./NN about./IN technology./NN ,./, especially./RB leading-edge./JJ software./NN 

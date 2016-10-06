@@ -1,0 +1,35 @@
+Job./NNP Description./NNP 
+This./DT junior./JJ web./NN specialist./NN is./VBZ part./NN of./IN a./DT team./NN supporting./VBG both./DT web./JJ analytics./NNS and./CC performing./VBG website./JJ verification./NN ../. The./DT duties./NNS will./MD involve./VB working./VBG with./IN a./DT web./JJ statistics./NNS tool./NN called./VBN Net./JJ Insight./NNP (./( IBM./NNP )./) as./RB well./RB as./IN test./NN web./NN pages./NNS against./IN the./DT Web./NNP Content./NNP Accessibility./NNP Guidelines./NNP (./( WCAG./NNP )./) 2.0./CD ../. 
+
+Duties./NNS 
+-./: Generate./NN monthly./JJ and./CC yearly./JJ web./NN reports./NNS from./IN Net./JJ Insight./NNP ../. 
+-./: Merge./NN stats./NNS into./IN various./JJ formats./NNS like./IN excel./NN charts./NNS or./CC word./NN documents./NNS ../. 
+-./: Distribute./NN reports./NNS ,./, present./JJ findings./NNS ,./, and./CC insight/reasons./NNS for./IN trends./NNS ../. 
+-./: Communicate./NN with./IN website./NN owners./NNS to./TO get./VB details./NNS on./IN site./NN activity./NN and./CC changes./NNS ../. 
+-./: Assist./NN clients./NNS in./IN interpreting./VBG reports./NNS that./WDT are./VBP generated./VBN from./IN web./JJ logs./NNS ../. 
+-./: Perform./NN daily./JJ sanity./NN test./NN for./IN the./DT Autonomy./NNP IDOL./NNP search./NN applications./NNS ../. 
+-./: Participate./NN in./IN verification./NN ,./, monitoring./NN ,./, trending./VBG and./CC reporting./NN ../. 
+-./: Perform./VB both./DT manual./JJ and./CC automated./JJ web./NN application./NN audits./NNS against./IN the./DT WCAG./NNP 2.0./CD guidelines./NNS using./VBG a./DT variety./NN of./IN testing./VBG tools./NNS ../. 
+-./: Provide./NN detailed./JJ reports./NNS on./IN findings./NNS and./CC communicate./VB the./DT results./NNS ../. 
+-./: Assist./NN clients./NNS in./IN interpreting./VBG the./DT report./NN ../. 
+
+Required./VBN Qualifications./NNS 
+-./: Ability./NN to./TO effectively./RB manage./VB time./NN ../. 
+-./: Ability./NN to./TO effectively./RB capture./VB formal./JJ user./NN requirements./NNS ,./, identify./VB filtering./NN requirements./NNS ,./, parameters./NNS ,./, etc./FW ../. 
+-./: Strong./JJ problem-solving./JJ skills./NNS and./CC be./VB detail./VBN oriented./VBN ../. 
+-./: Ability./NN to./TO identify./VB reporting./NN errors./NNS ,./, interpret./JJ statistical./JJ information./NN ,./, identify./VB potential./JJ issues./NNS and./CC provide./VB recommendations./NNS to./TO clients./NNS ../. 
+-./: Good./JJ understanding./NN of./IN web./JJ server./NN technical./JJ environments./NNS and./CC web./JJ site./NN development./NN ../. 
+-./: Ability./NN to./TO work./VB under./IN tight./JJ deadlines./NNS and./CC work./NN on./IN multiple./JJ projects./NNS at./IN once./RB ../. 
+-./: Extensive./JJ experience./NN with./IN tools./NNS such./JJ as./IN MS-Excel./NNP ,./, MS./NNP Word./NNP ../. 
+-./: Possess./NN strong./JJ oral./JJ and./CC written./VBN communications./NNS skills./NNS ../. 
+-./: Possess./NN solid./JJ interpersonal./JJ skills./NNS and./CC the./DT ability./NN to./TO work./VB effectively./RB with./IN others./NNS ../. 
+-./: Working./VBG knowledge./NN of./IN HTML./NNP and./CC CSS./NNP ../. 
+
+Asset./NNP Qualifications./NNS 
+-./: Familiar./NN with./IN key./JJ performance./NN indicators./NNS for./IN websites./NNS like./IN bounce./NN rate./NN ,./, visits./NNS ,./, hits./NNS ,./, unique./JJ visits./NNS ,./, and./CC geographical./JJ /./NN network./NN zones./NNS ../. 
+-./: Knowledge./NN of./IN Net./JJ Insight./NNP or./CC other./JJ current./JJ commercial./JJ web./NN analytics./NNS reporting./VBG software./NN ../. 
+-./: An./DT understanding./NN of./IN web./JJ server./NN technical./JJ environments./NNS and./CC web./JJ site./NN development./NN ../. 
+-./: Familiar./NN with./IN XHTML./NNP ,./, XML./NNP ,./, Java./NNP Script./NNP ,./, and./CC Java./NNP ../. 
+-./: Familiar./NN with./IN both./DT the./DT Microsoft./NNP and./CC Linux./NNP OS./NNP environment./NN ../. 
+-./: Knowledge./NN of./IN the./DT Web./NNP Content./NNP Accessibility./NNP Guidelines./NNP (./( WCAG./NNP )./) 2.0./CD and./CC the./DT Web./NNP Experience./NNP Template./NNP (./( WET./NNP )./) ../. 
+-./: Knowledge./NN of./IN the./DT Web./NNP Standards./NNPS for./IN the./DT Government./NNP of./IN Canada./NNP ../. 

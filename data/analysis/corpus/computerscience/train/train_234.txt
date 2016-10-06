@@ -1,0 +1,17 @@
+________________________________________________./NN 
+
+At./IN Airbnb./NNP ,./, we./PRP use./VBP technology./NN to./TO create./VB human./JJ connection./NN all./DT around./IN the./DT world./NN ../. Our./PRP$ engineering./NN teams./NNS see./VBP big./JJ challenges./NNS as./IN opportunities./NNS to./TO craft./VB beautiful./JJ and./CC scalable./JJ solutions./NNS that./WDT inspire./VBP technical./JJ innovation./NN both./DT in./IN our./PRP$ company./NN and./CC across./IN the./DT tech./NN and./CC travel./NN industries./NNS as./IN a./DT whole./NN ../. As./IN an./DT engineering./NN intern./NN at./IN Airbnb./NNP ,./, you./PRP 'll./MD be./VB an./DT integral./JJ part./NN of./IN our./PRP$ team./NN where./WRB you./PRP will./MD face./VB our./PRP$ company./NN 's./POS most./RBS ambitious./JJ goals./NNS ../. We./PRP 'll./MD provide./VB the./DT support./NN ,./, mentorship./NN ,./, fun./NN ,./, and./CC real./JJ world./NN experience./NN needed./VBN to./TO accelerate./VB your./PRP$ learning./NN and./CC make./VB a./DT real./JJ impact./NN on./IN our./PRP$ product./NN ;./: you./PRP will./MD write./VB and./CC ship./VB projects./NNS to./TO develop./VB new./JJ features./NNS on./IN our./PRP$ platform./NN from./IN scratch./NN ,./, strengthen./VB our./PRP$ infrastructure./NN ,./, and./CC delight./VBD our./PRP$ community./NN of./IN guests./NNS and./CC hosts./NNS ../. 
+
+What./WP are./VBP examples./NNS of./IN work./NN that./WDT Software./NNP Engineering./NNP Interns./NNP have./VBP done./VBN at./IN Airbnb./NNP ?./. 
+
+We./PRP 've./VBP created./VBN the./DT backend./NN and./CC UI./NNP for./IN creating./VBG Airbnb./NNP gift./NN cards./NNS ,./, allowing./VBG gift./NN cards./NNS to./TO be./VB personalized./VBN to./TO specific./JJ guests./NNS 
+We./PRP built./VBP out./RP new./JJ functionalities./NNS for./IN Airbnb./NNP reviews./NNS ,./, allowing./VBG users./NNS to./TO search./VB ,./, summarize./VB ,./, and./CC distill./JJ reviews./NNS of./IN our./PRP$ listings./NNS into./IN succinct./JJ and./CC useful./JJ highlights./NNS 
+We./PRP 've./VBP developed./VBN a./DT new./JJ ,./, more./RBR intuitive./JJ interface./NN for./IN message./NN threads./NNS to./TO help./VB hosts./NNS manage./VB their./PRP$ conversations./NNS with./IN guests./NNS more./RBR easily./RB and./CC efficiently./RB 
+The./DT following./JJ experience./NN is./VBZ relevant./JJ to./TO us./PRP :./: 
+
+Strong./JJ CS./NNP fundamentals./NNS gained./VBD through./IN current./JJ pursuit./NN of./IN Bachelor./NNP 's./POS degree./NN in./IN computer./NN science./NN ,./, math./NN or./CC related./VBN discipline./NN 
+Experience./NN using./VBG Java./NNP ,./, Scala./NNP ,./, Ruby./NNP and/or./VBZ Ruby./NNP on./IN Rails./NNP 
+Experience./NN using./VBG C++./NNP ,./, and./CC SQL./NNP for./IN the./DT backend./NN (./( project./JJ dependent./NN )./) 
+Experience./NN using./VBG HTML/CSS./NNP ,./, and./CC Javascript./NNP for./IN the./DT frontend./NN 
+
+We./PRP provide./VBP both./DT transportation./NN and./CC housing./NN ../. 

@@ -1,0 +1,28 @@
+Summary./JJ 
+
+Begin./VB your./PRP$ software./NN development./NN career./NN with./IN a./DT quick./JJ start./NN as./IN a./DT software./NN tester./NN and./CC QA./NNP Analyst./NNP ../. Sprout./NNP At./IN Work./NNP is./VBZ looking./VBG for./IN a./DT talented./JJ QA./NNP Analyst./NNP to./TO help./VB change./VB the./DT way./NN companies./NNS think./VBP about./IN corporate./JJ wellness./NN ../. This./DT analyst./NN will./MD be./VB involved./VBN in./IN the./DT software./NN development./NN and./CC quality./NN control./NN of./IN our./PRP$ web./NN and./CC mobile./JJ software./NN ../. We./PRP 're./VBP looking./VBG for./IN a./DT skillful./JJ self-starter./NN who./WP has./VBZ a./DT passion./NN for./IN building./NN web./NN and./CC mobile./JJ experiences./NNS ../. 
+
+You./PRP will./MD work./VB closely./RB with./IN software./NN engineering./NN ,./, product./NN management./NN and./CC UX./NNP to./TO deliver./VB compelling./JJ experiences./NNS and./CC new./JJ software./NN innovations./NNS ../. If./IN you./PRP 're./VBP passionate./JJ about./IN changing./VBG today./NN 's./POS workplace./NN culture./NN ,./, have./VBP solid./JJ experience./NN testing./VBG software./NN and./CC like./IN working./VBG on./IN challenging./VBG problems./NNS -./: you./PRP will./MD love./VB working./VBG with./IN us./PRP at./IN Sprout./NN !./. We./PRP are./VBP seeking./VBG smart./NN ,./, talented./VBN and./CC energetic./JJ software./NN QA./NNP engineers./NNS to./TO join./VB our./PRP$ growing./VBG product./NN team./NN ../. 
+
+Sprout./NNP 's./POS products./NNS help./VBP employees./NNS be./VB happier./JJR and./CC healthier./JJR at./IN work./NN !./. Our./PRP$ web./NN and./CC mobile./JJ apps./NN help./NN employees./NNS get./VBP fit./JJ together./RB and./CC provide./VB a./DT meaningful./JJ way./NN for./IN employers./NNS to./TO increase./VB engagement./NN ../. We./PRP are./VBP a./DT TechStars/Nike+./NNP Accelerator./NNP graduate./NN located./VBN in./IN the./DT heart./NN of./IN downtown./NN Toronto./NNP fashion./NN district./NN ../. 
+
+Responsibilities./NNS 
+
+-./: executing./VBG manual./JJ software./NN tests./NNS on./IN Desktop./NNP web./NN browsers./NNS /./VBP iOS./JJ app./NN /./NNP Android./NNP app./NN 
+-./: troubleshoot./NN software./NN issues./NNS 
+-./: writing./NN and./CC documenting./VBG test./NN cases./NNS ,./, test./NN results./NNS and./CC additional./JJ documents./NNS 
+-./: teamwork./NN amongst./NN software./NN developers./NNS ,./, support./NN staff./NN and./CC customers./NNS 
+-./: coding./NN /./JJ scripting./VBG /./JJ refactoring./VBG /./JJ running./VBG python./NN selenium./NN &./CC appium./NN automation./NN test./NN scripts./NNS 
+
+Required./VBN Skills./NNS 
+
+-./: python./NN ,./, selenium./NN ,./, appium./NN ,./, javascript./NN 
+-./: software./NN skills./VBZ !./. know./VB how./WRB to./TO learn./VB and./CC use./VB new./JJ software./NN 
+-./: displayed./NN interest./NN in./IN software./NN development./NN life./NN cycle./NN 
+-./: knowledge./NN of./IN software./NN startups./NNS 
+-./: OS./NN :./: Windows./NNS ,./, Mac./NNP OSX./NNP ,./, Linux./NNP ,./, Android./NNP ,./, iOS./NN 
+-./: Communication./NN and./CC Typing./NNP Skills./NNP 
+
+Please./NNP include./VBP the./DT following./JJ in./IN your./PRP$ application./NN :./: 
+-./: A./DT short./JJ blurb./NN about./IN yourself./PRP and./CC why./WRB you./PRP think./VBP you./PRP 'll./MD be./VB a./DT good./JJ fit./NN for./IN Sprout./NN 
+-./: your./PRP$ resume./NN &./CC URLs./NNP of./IN your./PRP$ LinkedIn./NNP ,./, Angellist./NNP ,./, Github./NNP ,./, Stack./NNP Overflow./NNP ,./, and./CC Bitbucket./NNP profiles./NNS (./( where./WRB available./JJ )./) 

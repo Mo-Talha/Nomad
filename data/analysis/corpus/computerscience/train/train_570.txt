@@ -1,0 +1,42 @@
+COMPANY./NN OVERVIEW./NN :./: 
+Based./VBN in./IN Toronto./NNP ,./, Ontario./NNP ,./, Fleet./NNP Complete./NNP is./VBZ a./DT leading./VBG global./JJ provider./NN of./IN mission./NN critical./JJ fleet./NN ,./, asset./NN and./CC mobile./JJ workforce./NN management./NN solutions./NNS ../. For./IN more./JJR than./IN fifteen./JJ years./NNS ,./, Fleet./NNP Complete./NNP has./VBZ been./VBN providing./VBG dispatching./NN ,./, fleet./NN tracking./NN and./CC mobile./JJ resource./NN management./NN solutions./NNS to./TO over./IN 7,000./CD companies./NNS worldwide./RB ../. The./DT company./NN maintains./VBZ key./JJ distribution./NN partnerships./NNS with./IN AT./NNP &./CC T./NNP in./IN the./DT US./NNP and./CC TELUS./NNP in./IN Canada./NNP ../. Fleet./NNP Complete./NNP is./VBZ one./CD of./IN the./DT fastest./JJS growing./VBG companies./NNS in./IN North./NNP America./NNP and./CC has./VBZ won./VBN numerous./JJ awards./NNS for./IN innovation./NN and./CC growth./NN since./IN its./PRP$ inception./NN in./IN 2000./CD (./( as./IN Complete./NNP Innovations./NNP Inc../NNP )./) ../. 
+
+MAIN./NNP BUSINESS./NNP OBJECTIVES./NNP :./: 
+At./IN Fleet./NNP Complete./NNP we./PRP are./VBP invested./VBN in./IN your./PRP$ success./NN ../. We./PRP want./VBP you./PRP to./TO have./VB a./DT job./NN you./PRP are./VBP genuinely./RB excited./VBN about./RB ,./, as./RB well./RB as./IN opportunities./NNS to./TO learn./VB ,./, grow./VB and./CC challenge./VB yourself./PRP ../. If./IN you./PRP are./VBP passionate./JJ about./IN your./PRP$ career./NN and./CC are./VBP eager./JJ to./TO be./VB a./DT key./JJ contributor./NN to./TO the./DT company./NN 's./POS success./NN ,./, then./RB this./DT role./NN is./VBZ for./IN you./PRP ../. 
+
+The./DT Product./NNP ,./, Architecture./NNP and./CC Development./NNP (./( PAD./NNP )./) Group./NNP requires./VBZ a./DT QA./JJ Analyst./NNP Co-op./NN with./IN the./DT ability./NN to./TO implement./VB test./NN automation./NN to./TO increase./VB the./DT quality./NN of./IN our./PRP$ products./NNS by./IN working./VBG side./NN by./IN side./NN with./IN the./DT teams./NNS in./IN charge./NN of./IN the./DT design./NN and./CC development./NN of./IN our./PRP$ core./NN products./NNS ranging./VBG from./IN Client/Server./NNP ,./, Web./NNP and./CC Mobile./NNP (./( Android./NNP ,./, iOS./NN and./CC Windows./NNP Mobile./NNP )./) solutions./NNS ../. 
+You./PRP will./MD work./VB under./IN the./DT supervision./NN of./IN the./DT QA./NNP Team./NNP Lead./NNP and/or./VBD QA./NNP Manager./NNP and./CC will./MD be./VB accountable./JJ for./IN improving./VBG quality./NN via./IN test./NN executions./NNS and./CC the./DT development./NN and./CC maintenance./NN of./IN test./NN automation./NN for./IN key./JJ products./NNS of./IN Fleet./NNP Complete./NNP ../. 
+
+QA./JJ Analyst./NNP Co-op./NN 
+
+ESSENTIAL./NNP DUTIES./NNP &./CC RESPONSIBILITIES./NNP :./: 
+-./: Work./NN with./IN Product./NN Owners./NNP (./( and./CC BAs./NNP )./) ,./, Architects./NNPS and./CC Developers./NNPS to./TO understand./VB and./CC successfully./RB execute./VB a./DT Product./NNP Roadmap./NNP that./WDT meets./VBZ or./CC exceeds./VBZ the./DT quality./NN standards./NNS required./VBN 
+-./: Participate./NN in./IN all./DT phases./NNS of./IN the./DT iterative./JJ development./NN cycle./NN ,./, including./VBG grooming./NN ,./, planning./NN ,./, daily./JJ standups./NNS ,./, demos./NNS and./CC retrospectives./NNS 
+-./: Create./NN ,./, maintain./NN and./CC execute./VB manual./JJ and./CC automated./JJ test./NN cases./NNS using./VBG new./JJ and./CC existing./JJ tools./NNS (./( i.e./NN ../. Visual./JJ Studio./NNP ,./, Xamarin./NNP ,./, Selenium./NNP ,./, etc./FW ../. )./) at./IN various./JJ levels./NNS including./VBG database./NN validation./NN ,./, business./NN rules./NNS validation./NN ,./, UI./NNP validation./NN and./CC integration./NN ,./, service./NN validation./NN and./CC mobile./JJ device./NN testing./VBG 
+-./: Adhere./NN and./CC contribute./NN to./TO the./DT enforcement./NN and./CC improvement./NN of./IN Development./NNP and./CC QA./NNP standards./NNS ,./, ensuring./VBG transparency./NN of./IN your./PRP$ own./JJ work./NN and./CC advocating./VBG and./CC enforcing./VBG adoption./NN by./IN your./PRP$ peers./NNS via./IN discussion./NN and./CC peer./VB review./NN processes./NNS 
+-./: Continually./RB expand./VBP manual./JJ and./CC automated./JJ tests./NNS by./IN clearly./RB documenting./VBG test./NN cases./NNS and./CC increasing./VBG automated./JJ code./NN coverage./NN by./IN creating./VBG tools./NNS and./CC automation./NN scripts./NNS that./WDT assist./VBP in./IN functional./JJ testing./NN and./CC creation./NN of./IN test./NN data./NNS 
+-./: Design./NN and./CC develop./VB test./NN automation./NN to./TO provide./VB quality./NN assurance./NN using./VBG a./DT variety./NN of./IN unit./NN ,./, integration./NN ,./, coded./VBD UI./NNP and./CC UI./NNP automated./VBD tests./NNS to./TO validate./VB Product./NNP requirements./NNS and./CC measure./NN product./NN performance./NN and./CC scalability./NN 
+-./: Ability./NN to./TO successfully./RB work./VB under./IN tight./JJ project./NN deadlines./NNS with./IN demonstrated./JJ flexibility./NN 
+-./: Clearly./RB articulate./NN ideas./NNS both./DT verbally./RB and./CC written./VBN ,./, with./IN a./DT positive./JJ attitude./NN 
+
+QUALIFICATIONS./NN :./: 
+
+All./DT applicants./NNS must./MD possess./VB the./DT following./NN :./: 
+-./: Currently./RB enrolled./VBN in./IN a./DT University./NNP or./CC College./NNP Computer./NNP Science./NNP ,./, Computer./NNP Programming./NNP ,./, Engineering./NNP ,./, Technology./NNP program./NN or./CC equivalent./NN 
+-./: Familiarity./NN with./IN QA./NNP and./CC Test./NNP processes./NNS ,./, including./VBG documentation./NN of./IN test./NN cases./NNS and./CC defect./JJ management./NN including./VBG tracking./VBG and./CC verification./NN 
+-./: Development./NNP of./IN test./NN automation./NN to./TO increase./VB code./NN coverage./NN using./VBG a./DT variety./NN of./IN unit./NN ,./, integration./NN ,./, coded./VBD UI./NNP and./CC UI./NNP automation./NN tests./NNS 
+-./: Ability./NN to./TO execute./VB and./CC develop./VB manual./JJ and./CC automated./JJ tests./NNS for./IN Desktop./NNP (./( WinForms./NNP )./) ,./, Web./NNP and./CC Mobile./NNP (./( Android./NNP ,./, iOS./NN ,./, Windows./NNP Mobile./NNP )./) applications./NNS using./VBG a./DT variety./NN of./IN tools./NNS /./NNP methods./NNS 
+-./: Good./JJ understanding./NN of./IN Client/Server./NNP and./CC multi-tier./JJ application./NN architecture./NN and./CC development./NN 
+-./: Confident./NN in./IN your./PRP$ ability./NN to./TO write./VB queries./NNS ,./, develop./VB tests./NNS and./CC verification./NN scripts./NNS for./IN Relational./JJ Databases./NNP (./( Microsoft./NNP SQL./NNP Server./NNP )./) using./VBG SQL./NNP 
+-./: Results./NNS oriented./VBD and./CC problem./NN solving./NN mentality./NN 
+
+Ideal./NNP candidates./NNS also./RB demonstrate./VBP the./DT following./NN :./: 
+-./: Working./VBG knowledge./NN of./IN C./NNP #./# /VB.NET./NNP ,./, RESTful./NNP Services./NNPS using./VBG WCF./NNP REST./NNP /./NNP WebAPI./NNP &./CC Entity./NNP Framework./NNP 
+-./: Knowledge./NN of./IN software./NN development./NN tools./NNS such./JJ as./IN TFS./NNP ,./, Git./NNP ,./, Jira./NNP ,./, Confluence./NNP and./CC test./NN case./NN management./NN tools./NNS 
+
+
+Typical./JJ Hours./NNP of./IN Operations./NNPS :./: Mon-./JJ Fri./NNP (./( 9./CD am./VBP to./TO 5./CD pm./NN )./) occasional./JJ overtime./NN 
+
+Fleet./NNP Complete./NNP will./MD provide./VB support./NN in./IN its./PRP$ recruitment./NN processes./VBZ to./TO applicants./NNS with./IN disabilities./NNS ,./, including./VBG accommodation./NN that./WDT takes./VBZ into./IN account./NN an./DT applicant./NN 's./POS accessibility./NN needs./VBZ ../. If./IN you./PRP require./VBP accommodation./NN during./IN the./DT interview./NN process./NN ,./, please./VB contact./VB the./DT Recruitment./NNP Team./NNP ,./, recruitment./NN @./NNP fleetcomplete.com./NN ,./, 866-649-7949./JJ ../. 
+
+Fleet./NNP Complete./NNP is./VBZ an./DT equal./JJ opportunity./NN employer./NN committed./VBD to./TO diversity./NN and./CC inclusion./NN ../. We./PRP are./VBP pleased./JJ to./TO consider./VB all./DT qualified./JJ applicants./NNS for./IN employment./NN without./IN regard./NN to./TO race./NN ,./, color./NN ,./, religion./NN ,./, sex./NN ,./, national./JJ origin./NN ,./, age./NN ,./, disability./NN ,./, protected./VBD veteran./NN 's./POS status./NN or./CC any./DT other./JJ legally-protected./JJ factors./NNS ../. 

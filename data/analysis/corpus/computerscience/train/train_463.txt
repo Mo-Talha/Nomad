@@ -1,0 +1,43 @@
+BEFORE./IN YOU./NNP APPLY./NNP FOR./NNP THIS./NNP JOB./NNP ,./, ensure./VB you./PRP read./VB the./DT additional./JJ considerations./NNS before./IN and./CC after./IN the./DT job./NN description./NN ../. 
+
+
+
+
+Blue./NNP Umbrella./NNP is./VBZ a./DT leading./VBG provider./NN of./IN global./JJ due./JJ diligence./NN and./CC employment./NN screening./NN ../. With./IN nine./CD global./JJ offices./NNS on./IN four./CD continents./NNS ,./, we./PRP serve./VBP Fortune./NNP 500./CD companies./NNS ,./, top./RB tier./NN investment./NN banks./NNS ,./, insurance./NN companies./NNS ,./, law./NN firms./NNS and./CC governments./NNS who./WP want./VBP to./TO understand./VB the./DT backgrounds./NNS of./IN their./PRP$ clients./NNS ,./, third./JJ parties./NNS and./CC employees./NNS ../. We./PRP are./VBP dedicated./VBN to./TO creating./VBG global./JJ access./NN to./TO affordable./VB ,./, high./JJ quality./NN due./JJ diligence./NN and./CC background./NN screening./NN reports./NNS at./IN leading./VBG turnaround./NN times./NNS ../. 
+
+Blue./NNP Umbrella./NNP has./VBZ also./RB pioneered./VBN disruptive./JJ technologies./NNS that./WDT unleash./VBP the./DT power./NN of./IN our./PRP$ research./NN ../. Status./NNP is./VBZ the./DT world./NN 's./POS first./JJ and./CC most./JJS intuitive./JJ technology./NN specifically./RB focused./VBD on./IN third./JJ party./NN compliance./NN and./CC Levels./NNP is./VBZ a./DT robust./JJ ,./, multilingual./JJ global./JJ employment./NN screening./VBG system./NN ../. The./DT powerful./JJ combination./NN of./IN state-of-the-art./JJ technology./NN solutions./NNS and./CC high./JJ quality./NN research./NN enables./VBZ our./PRP$ clients./NNS to./TO achieve./VB best-in-class./NN risk./NN management./NN outcomes./NNS ../. 
+
+Employer./NNP will./MD get./VB in./IN touch./NN with./IN students./NNS directly./RB ,./, and./CC schedule./NN phone./NN interviews./NNS outside./IN of./IN CECA./NNP business./NN hours./NNS ../. 
+
+Duties./NNS and./CC Responsibilities./NNPS will./MD include./VB but./CC not./RB be./VB limited./VBN to./TO :./: 
+
+-./: Execute./NN all./DT visual./JJ design./NN stages./NNS from./IN concept./NN to./TO engineering./NN 
+-./: Consider./NN and./CC create./NN user./NN flow./NN diagrams./NNS ,./, storyboards./NNS and./CC presents./NNS best./JJS practices./NNS of./IN the./DT wireframe./NN 
+-./: Brainstorm./NN ,./, research./NN ,./, wireframe./NN ,./, conceptualize./VB ,./, design./NN and./CC refine./NN UX/./NNP UI./NNP in./IN our./PRP$ product/./NN platforms./NNS and./CC website./VB 
+-./: Work./NN directly./RB with./IN the./DT Product./NNP Development./NNP Manager./NNP to./TO identify./VB and./CC solve./VB the./DT problems./NNS on./IN the./DT platforms./NNS 
+-./: Continuously./RB update./IN the./DT platforms./NNS './POS interface./NN and./CC experience./NN 
+-./: Work./NN with./IN the./DT Product./NNP Development./NNP Manager./NNP and./CC engage./VB in./IN various./JJ discussions./NNS to./TO explain./VB and./CC align./VB the./DT project./NN development./NN updates./VBZ to./TO the./DT IT./NNP teams./NNS ,./, ensuring./VBG at./IN all./DT times./NNS that./IN the./DT prototypes./NNS are./VBP well-understood./JJ ../. 
+-./: Test./NN and./CC iterate./VB the./DT platforms./NNS -./: to./TO ensure./VB that./IN platforms./NNS are./VBP engineered./VBN appropriately./RB ../. 
+-./: Develop./VB hands-on./JJ experience./NN with./IN designing./NN tools./NNS including./VBG Illustrator./NNP and./CC Photoshop./NNP ../. 
+-./: Assist./NN the./DT Business./NNP Development./NNP team./NN with./IN ad./NN hoc./NN projects./NNS where./WRB necessary./JJ 
+
+Required./VBN Skills./NNS :./: 
+
+-./: Proficient./NN ,./, working./VBG knowledge./NN of./IN various./JJ design./NN tools./NNS (./( Sketch./NNP ,./, Photoshop./NNP ,./, Illustrator./NNP ,./, InDesign./NNP )./) 
+-./: Knowledge./NN in./IN HTML5./NNP ,./, CSS./NNP and./CC query./NN will./MD be./VB an./DT advantage./NN 
+-./: Strong./NN sense./NN in./IN layout./NN ,./, presentation./NN and./CC interactive./JJ design./NN is./VBZ advantageous./JJ 
+-./: Coding./NN skill./NN is./VBZ a./DT PLUS./NNP ../. 
+-./: Proficient./NN with./IN Wireframing./NNP tools./NNS (./( UXPing./NNP ,./, Sketch./NNP ,./, Balsamiq./NNP ,./, Invision./NNP )./) 
+-./: A./NN strong./JJ interest./NN in./IN UI./NNP design./NN is./VBZ a./DT plus./JJ 
+-./: Front-end./NN development./NN languages./NNS awareness./NN is./VBZ a./DT plus./JJ 
+-./: Interest./NN in./IN product./NN and./CC project./NN management./NN is./VBZ a./DT plus./JJ 
+-./: Excellent./NN teamwork./NN and./CC organizational./JJ skills./NNS 
+-./: Professional./JJ communication./NN skills./NNS -./: written./VBN and./CC verbal./JJ 
+-./: Detail./NN oriented./VBN ,./, problem./NN solving./NN and./CC multi-tasking./NN skills./NNS also./RB required./VBN ../. 
+-./: Must./NN have./VBP collaborative./JJ mind./NN set./VBN ,./, be./VB a./DT team-player./JJ and./CC be./VB keen./VBN to./TO share./NN knowledge./NN ../. 
+-./: Ability./NN to./TO work./VB independently./RB and./CC thrive./JJ in./IN learning./VBG new./JJ techniques./NNS ../. 
+
+Salary./JJ :./: HK./$ 7000/./CD month./NN 
+
+For./IN more./JJR detailed./JJ information./NN on./IN Hong./NNP Kong./NNP ,./, please./VB go./VB to./TO the./DT following./JJ website./NN :./: 
+www.discoverhongkong.com/./NN 

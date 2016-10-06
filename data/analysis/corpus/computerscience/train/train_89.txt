@@ -1,0 +1,54 @@
+What./WP you./PRP do./VBP at./IN AMD./NNP changes./NNS everything./NN 
+
+At./IN AMD./NNP ,./, we./PRP push./VBP the./DT boundaries./NNS of./IN what./WP is./VBZ possible./JJ ../. We./PRP believe./VBP in./IN changing./VBG the./DT world./NN for./IN the./DT better./JJR by./IN driving./VBG innovation./NN in./IN high-performance./NN computing./NN ,./, graphics./NNS ,./, and./CC visualization./NN technologies./NNS -./: building./NN blocks./NNS for./IN gaming./NN ,./, immersive./JJ platforms./NNS ,./, and./CC the./DT data./NNS center./NN ../. 
+
+Developing./VBG great./JJ technology./NN takes./VBZ more./JJR than./IN talent./NN :./: it./PRP takes./VBZ amazing./JJ people./NNS who./WP understand./VBP collaboration./NN ,./, respect./NN ,./, and./CC who./WP will./MD go./VB the./DT ``./`` extra./JJ mile./NN ''./'' to./TO achieve./VB unthinkable./JJ results./NNS ../. It./PRP takes./VBZ people./NNS who./WP have./VBP the./DT passion./NN and./CC desire./NN to./TO disrupt./VB the./DT status./NN quo./NN ,./, push./NN boundaries./NNS ,./, deliver./NN innovation./NN ,./, and./CC change./VB the./DT world./NN ../. If./IN you./PRP have./VBP this./DT type./NN of./IN passion./NN ,./, we./PRP invite./VBP you./PRP to./TO take./VB a./DT look./NN at./IN the./DT opportunities./NNS available./JJ to./TO come./VB join./VB our./PRP$ team./NN ../. 
+
+Support./NN graphics./NNS product./NN management./NN ,./, product./NN marketing./NN ,./, sales./NNS and./CC PR./NNP by./IN testing./VBG ,./, analyzing./VBG and./CC documenting./VBG 3D./CD performance./NN and./CC other./JJ key./JJ features./NNS of./IN graphics./NNS products./NNS ../. 
+
+Details./NNS :./: 
+Measure./NN and./CC report./NN on./IN the./DT performance./NN of./IN the./DT entire./JJ AMD./NNP Radeon./NNP graphics./NNS product./NN line./NN ,./, plus./CC relevant./JJ competitors./NNS ,./, using./VBG industry./NN standard./NN benchmarks./NNS ,./, 3D./CD games./NNS ,./, and./CC other./JJ relevant./JJ tests./NNS ../. 
+
+Measure./NN ,./, analyze./NN and./CC track./VB the./DT performance./NN changes./NNS that./WDT arise./VBP in./IN each./DT new./JJ Catalyst./NNP display./NN driver./NN ../. Characterize./VB performance./NN changes./NNS in./IN terms./NNS of./IN which./WDT products./NNS are./VBP most./RBS strongly./RB affected./VBN ,./, which./WDT resolutions./NNS ,./, which./WDT framebuffer./VBP sizes./NNS ,./, and./CC similar./JJ ../. Generate./NNP summary./JJ points./NNS to./TO be./VB presented./VBN in./IN the./DT driver./NN release./NN notes./NNS and./CC other./JJ outlets./NNS ../. 
+
+Measure./NN the./DT performance./NN ,./, features./NNS and./CC quality./NN of./IN upcoming./VBG graphics./NNS products./NNS ,./, comparing./VBG them./PRP to./TO existing./VBG and./CC competitor./NN products./NNS ../. Use./NNP games./NNS ,./, synthetic./JJ benchmarks./NNS ,./, diagnostic./JJ tests./NNS and./CC utilities./NNS as./IN appropriate./JJ ../. Analyze./NNP results./NNS and./CC report./NN strengths./NNS ,./, weaknesses./NNS ,./, opportunities./NNS and./CC threats./NNS ../. Analyze./NNP new./JJ competitor./NN products./NNS in./IN a./DT similar./JJ fashion./NN ../. 
+
+Write./JJ reviewers./NNS './POS guides./NNS that./WDT highlight./VBD the./DT performance./NN and./CC features./NNS of./IN upcoming./VBG graphics./NNS products./NNS ../. Incorporate./NNP performance./NN data./NNS in./IN charts./NNS and./CC graphs./NN ,./, descriptive./JJ text./NN ,./, ``./`` how./WRB to./TO test./VB ''./'' steps./NNS and./CC other./JJ relevant./JJ materials./NNS ../. 
+
+Monitor./NNP and./CC report./NN on./IN trends./NNS in./IN review./NN techniques./NNS (./( titles./NNS used./VBN ,./, resolutions./NNS ,./, image./NN quality./NN settings./NNS ,./, etc../NN )./) ../. Track./NNP release./NN schedules./NNS for./IN new./JJ games./NNS and./CC benchmarks./NNS ../. Incorporate./NNP new./JJ titles./NNS into./IN the./DT test./NN flow./NN in./IN a./DT timely./JJ manner./NN ../. 
+
+Analyze./NNP new./JJ test./NN applications./NNS and./CC games./NNS for./IN system./NN and./CC graphics./NNS sensitivities./NNS ../. Prepare./NNP and./CC present./JJ reports./NNS that./WDT highlight./VBD the./DT performance./NN of./IN key./JJ Radeon./NNP and./CC competitor./NN graphics./NNS products./NNS in./IN the./DT new./JJ title./NN ../. 
+
+Write./NNP scripts./NNS and./CC related./JJ tools./NNS to./TO build./VB command./NN lines./NNS and./CC configuration./NN files./NNS that./WDT automate./VBP performance./NN testing./NN ../. Generate./NNP code./NN that./WDT launches./VBZ test./NN applications./NNS at./IN various./JJ settings./NNS ,./, traps./NNS error./VBP conditions./NNS and./CC takes./VBZ remedial./JJ actions./NNS ,./, parses./VBZ result./NN files./NNS ,./, installs./NNS helper./VBP apps./NN ,./, etc./FW ../. 
+
+Prepare./NNP images./NNS of./IN current./JJ Windows./NNP operating./VBG systems./NNS to./TO be./VB deployed./VBN across./IN numerous./JJ test./NN machines./NNS ../. Use./NNP Microsoft./NNP sysprep./NN and./CC imagex./NN tools./NNS ../. Update./VB the./DT OS./NNP images./NNS as./RB required./VBN to./TO keep./VB pace./NN with./IN service./NN packs./NNS and./CC other./JJ updates./NNS ../. 
+
+
+These./DT personnel./NNS will./MD also./RB be./VB required./VBN ,./, at./IN times./NNS ,./, to./TO assist./VB with./IN various./JJ functions./NNS of./IN the./DT broader./JJR technical./JJ marketing./NN team./NN ,./, including./VBG :./: 
+
+Set./NNP up./RP and./CC tear./VB down./RP computer./NN hardware./NN for./IN technology./NN demos./NN at./IN meetings./NNS and./CC event./NN sites./NNS ../. Man./NNP display./NN pods./NNS and./CC explain./VB demo./JJ content./NN and./CC the./DT underlying./VBG technologies./NNS to./TO industry./NN partners./NNS ,./, major./JJ customers./NNS ,./, media./NNS and./CC members./NNS of./IN the./DT public./NN ,./, as./IN required./VBN ../. 
+
+Capture./NN high./JJ definition./NN footage./NN from./IN tech./JJ demo./NN computers./NNS ,./, and./CC mix./VB with./IN voice-overs./NNS ,./, stills./NNS ,./, interview./NN footage./NN and./CC titles./NNS to./TO produce./VB videos./NNS of./IN various./JJ bitrates./NNS and./CC formats./NNS for./IN use./NN by./IN sales./NNS ,./, marketing./NN and./CC PR./NNP personnel./NNS ../. 
+
+Source./NN computer./NN components./NNS from./IN both./DT internal./JJ and./CC external./JJ suppliers./NNS ../. Assemble./JJ computers./NNS from./IN scratch./NN ,./, to./TO a./DT high./JJ standard./NN of./IN appearance./NN ,./, roadworthiness./NN ,./, cable./NN management./NN ,./, airflow./NN ,./, etc./FW ,./, to./TO be./VB used./VBN in./IN launch./JJ events./NNS ,./, customer./NN demonstrations./NNS and./CC similar./JJ ../. Install./NNP operating./VBG systems./NNS ,./, drivers./NNS ,./, applications./NNS ,./, patches./NNS ,./, etc./FW ../. Track./NN ,./, maintain./NN ,./, upgrade./JJ and./CC repair./NN these./DT computers./NNS throughout./IN their./PRP$ useful./JJ life./NN ../. 
+
+Pack./NN and./CC ship./JJ computers./NNS and./CC related./JJ equipment./NN to./TO (./( and./CC between./IN )./) trade./NN shows./NNS ,./, launch./JJ events./NNS and./CC other./JJ international./JJ destinations./NNS ../. Interface./NN with./IN dock./NN personnel./NNS and./CC carriers./NNS to./TO complete./VB the./DT required./JJ documents./NNS including./VBG country./NN of./IN origin./NN and./CC valuations./NNS ../. 
+
+Test./NN and./CC evaluate./VB third./JJ party./NN hardware./NN products./NNS such./JJ as./IN PC./NN cases./NNS and./CC power./NN supplies./NNS for./IN compatibility./NN and./CC interoperability./NN with./IN AMD./NNP Radeon./NNP Graphics./NNP products./NNS ../. 
+
+SKILL./NNP AND./NNP EXPERIENCE./NNP REQUIREMENTS./NNP 
+-./: University./NNP program./NN in./IN Computer./NNP Science./NNP ,./, Computer./NNP Engineering./NNP ,./, or./CC a./DT similar./JJ related./JJ discipline./NN is./VBZ strongly./RB preferred./VBN ../. Marketing./NNP ,./, Business./NNP Administration./NNP ,./, Commerce./NNP and./CC similar./JJ Degree./NNP Programs./NNP that./WDT include./VBP a./DT rigorous./JJ IS./NNP ,./, IT./NNP or./CC CompSci./NNP component./NN may./MD also./RB be./VB considered./VBN ../. 
+-./: Strong./NN knowledge./NN of./IN computer./NN graphics./NNS and./CC video./NN technology./NN 
+-./: Strong./NN verbal./JJ and./CC written./VBN communication./NN skills./NNS ;./: strong./JJ teamwork./NN and./CC interpersonal./JJ skills./NNS 
+-./: Action./NN oriented./VBN with./IN strong./JJ analytical./JJ and./CC problem./NN solving./NN skills./NNS 
+-./: Experience./NN with./IN PC./NN assembly./NN and./CC hardware./NN upgrades./NNS 
+-./: Experience./NN installing./NN and./CC configuring./VBG Microsoft./NNP operating./VBG systems./NNS and./CC applications./NNS 
+-./: Experience./NN with./IN professional-class./NN audio/video./NN equipment./NN ,./, including./VBG projector./NN systems./NNS and./CC video./JJ switches./NNS is./VBZ an./DT asset./NN 
+-./: Familiarity./NN with./IN semiconductor./NN and./CC PC./NN industry./NN standards./NNS 
+-./: Ability./NN to./TO multitask./VB effectively./RB in./IN a./DT fast./NN paced./VBD environment./NN 
+-./: Experience./NN with./IN C++./NNP ,./, Perl./NNP ,./, XML./NNP ,./, HTML./NNP ,./, Excel./NNP ,./, databases./NNS would./MD be./VB an./DT asset./NN ../. 
+
+
+AMD./NNP welcomes./NNS and./CC encourages./NNS applications./NNS from./IN people./NNS with./IN disabilities./NNS ../. Reasonable./JJ accommodations./NNS are./VBP available./JJ for./IN applicants./NNS with./IN disabilities./NNS during./IN the./DT recruitment./NN process./NN ,./, unless./IN undue./JJ hardship./NN to./TO AMD./NNP would./MD result./VB ../. Any./NNP applicant./NN who./WP requires./VBZ accommodation./NN should./MD contact./VB AskHR./NNP @./NNP amd.com./NN 
+
+AMD./NNP does./VBZ not./RB accept./VB unsolicited./JJ resumes./NNS from./IN headhunters./NNS ,./, recruitment./NN agencies./NNS or./CC fee./NN based./VBN recruitment./NN services./NNS ../. 

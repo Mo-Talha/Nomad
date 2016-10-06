@@ -1,0 +1,29 @@
+Pethealth./NNP ,./, a./DT Fairfax./NNP company./NN ,./, is./VBZ North./NNP America./NNP 's./POS second./JJ largest./JJS provider./NN of./IN medical./JJ insurance./NN for./IN dogs./NNS and./CC cats./NNS to./TO pet./VB owners./NNS ,./, operating./VBG in./IN the./DT United./NNP States./NNPS ,./, Canada./NNP and./CC the./DT United./NNP Kingdom./NNP ../. In./IN addition./NN ,./, the./DT Company./NNP is./VBZ the./DT leading./VBG provider./NN of./IN management./NN software./NN to./TO North./NNP American./NNP animal./NN welfare./NN organizations./NNS through./IN its./PRP$ cloud-based./JJ application./NN and./CC is./VBZ the./DT leading./VBG provider./NN of./IN pet./NN related./VBN database./NN management./NN services./NNS to./TO the./DT North./JJ American./JJ companion./NN animal./NN industry./NN ../. Pethealth./NNP offers./VBZ a./DT unique./JJ range./NN of./IN products./NNS and./CC services./NNS for./IN veterinarians./NNS ,./, shelters./NNS and./CC pet./NN owners./NNS through./IN a./DT number./NN of./IN wholly./RB owned./VBN subsidiaries./NNS using./VBG a./DT range./NN of./IN brand./NN names./NNS including./VBG PetCare./NNP ,./, 24PetWatch./CD ,./, Pet./NNP Protect./NNP ,./, Petpals./NNP Direct./NNP ,./, PetPoint./NNP ,./, and./CC Petango.com./NNP ../. 
+
+Fairfax./NNP Financial./NNP Holdings./NNP Limited./NNP is./VBZ a./DT financial./JJ holding./VBG company./NN which./WDT ,./, through./IN its./PRP$ subsidiaries./NNS ,./, is./VBZ engaged./VBN in./IN property./NN and./CC casualty./NN insurance./NN and./CC reinsurance./NN and./CC investment./NN management./NN ../. The./DT Fairfax./NNP Co-op./NNP Program./NNP is./VBZ looking./VBG for./IN innovative./JJ ,./, talented./VBN ,./, and./CC self-motivated./JJ University./NNP of./IN Waterloo./NNP students./NNS who./WP are./VBP interested./JJ in./IN domestic./JJ and./CC international./JJ work./NN experience./NN ../. 
+
+PetHealth./NNP is./VBZ a./DT partner./NN in./IN the./DT Fairfax./NNP Co-op./NNP Program./NNP ../. For./IN more./JJR information./NN please./IN visit./NN co-op.fairfax.ca./NN and./CC attend./VB our./PRP$ information./NN session./NN on./IN September./NNP 26th./CD at./IN 11:30./CD am./VBP in./IN TC./NNP 2218./CD ../. 
+
+The./DT Software./NNP Developer./NNP will./MD assist./VB with./IN various./JJ tasks./NNS related./VBN to./TO the./DT lifecycle/maintenance./NN of./IN the./DT existing./VBG software./NN including./VBG web./NN applications./NNS ,./, reports./NNS and./CC database./NN processes./NNS ../. 
+
+You./PRP will./MD have./VB an./DT opportunity./NN to./TO work./VB in./IN varied./JJ areas./NNS of./IN development./NN including./VBG but./CC not./RB limited./JJ to./TO :./: 
+
+-./: Database./NN programming./VBG including./VBG development./NN of./IN ad-hoc./JJ queries./NNS ,./, stored./VBD procedures./NNS and./CC data./NNS conversion./NN scripts./NNS (./( T-SQL./NNP ,./, SQL./NNP Server./NNP 2012./CD )./) 
+-./: Report./NN creation./NN using./VBG MS./NNP SQL./NNP Server./NNP Reporting./NNP Services./NNPS (./( SSRS./NNP )./) ;./: Use./NNP of./IN MS./NNP Excel./NNP charts./NNS ,./, graphs./NN and./CC formulas./NNS 
+-./: .NET./NN web./JJ application./NN development./NN 
+-./: Quality./NN Assurance./NN 
+-./: Security./NN systems./NNS and./CC testing./VBG 
+-./: Assistance./NN in./IN the./DT development./NN of./IN technical./JJ documentation./NN 
+
+Qualifications./NNS :./: 
+
+-./: 3+./CD years./NNS in./IN one./CD of./IN the./DT following./JJ programs./NNS :./: Computer./NNP Engineering./NNP ,./, Systems./NNP Design./NNP Engineering./NNP ,./, Software./NNP Engineering./NNP ,./, or./CC Mechanical./NNP &./CC Mechatronics./NNP Engineering./NNP 
+-./: Familiarity./NN with./IN any./DT Database./NNP Management./NNP System./NNP (./( SQL./NNP Server./NNP ,./, Oracle./NNP ,./, DB2./NNP ,./, Access./NNP ,./, etc./FW ../. )./) and./CC SQL./NNP ;./: completed./VBN coursework./NN in./IN Database./NNP Management./NNP Systems./NNP is./VBZ an./DT asset./NN 
+-./: 6+./CD months./NNS of./IN experience./NN in./IN either./DT of./IN these./DT areas./NNS :./: database./NN programming./NN ,./, business./NN reporting./NN or./CC web./NN development./NN 
+-./: Strong./JJ analytical./JJ and./CC problem./NN solving./NN ability./NN 
+-./: Strong./NN work./NN ethic./JJ ,./, self-motivated./JJ and./CC well-organized./JJ 
+-./: Attention./NN to./TO detail./VB and./CC commitment./VB to./TO quality./NN 
+
+Interviews./NNS :./: 
+
+The./DT Fairfax./NNP Co-op./NNP Program./NNP has./VBZ a./DT two-step./JJ interview./NN process./NN ../. If./IN selected./VBN for./IN an./DT interview./NN ,./, you./PRP will./MD have./VB one./CD interview./NN with./IN a./DT representative./NN from./IN Fairfax./NNP Financial./NNP Holdings./NNPS Ltd../NNP and./CC must./MD attend./VB an./DT information./NN session./NN that./IN morning./NN ../. The./DT second./JJ interview./NN will./MD be./VB with./IN the./DT co-op./JJ position./NN hiring./NN manager./NN ../. For./IN more./JJR information./NN please./NN visit./NN http./NN :./: //co-op.fairfax.ca/student-information/Interview-Process./NN ../. 

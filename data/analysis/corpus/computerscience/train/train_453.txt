@@ -1,0 +1,29 @@
+POSITION./NNP SUMMARY./NNP 
+As./IN a./DT member./NN of./IN the./DT Core-OS./NNP team./NN ,./, you./PRP will./MD work./VB at./IN the./DT heart./NN of./IN the./DT most./RBS reliable./JJ and./CC secure./JJ operating./NN system./NN in./IN the./DT world./NN ../. You./PRP can./MD contribute./VB directly./RB to./TO an./DT OS./NNP that./WDT controls./VBZ systems./NNS in./IN everything./NN from./IN automobiles./NNS to./TO internet./VB ,./, from./IN medical./JJ devices./NNS to./TO space./NN systems./NNS ,./, from./IN manufacturing./VBG to./TO nuclear./JJ power./NN plants./NNS ,./, and./CC in./IN the./DT most./RBS advanced./JJ smartphones./NNS ../. The./DT Core-OS./NNP team./NN is./VBZ responsible./JJ for./IN ,./, among./IN other./JJ things./NNS ,./, kernel./NN development./NN ,./, memory./NN management./NN ,./, process./NN management./NN ,./, OS./NNP services./NNS ,./, key./JJ libraries./NNS ,./, and./CC file./NN systems./NNS ../. 
+You./PRP will./MD be./VB working./VBG hands-on./JJ as./IN part./NN of./IN a./DT team./NN on./IN a./DT coding./NN project./NN in./IN C./NNP for./IN the./DT operating./NN system./NN ../. You./PRP will./MD also./RB be./VB exposed./VBN to./TO other./JJ projects./NNS under./IN development./NN by./IN fellow./JJ team./NN members./NNS ../. You./PRP will./MD receive./VB training./NN and./CC be./VB paired./VBN with./IN a./DT mentor./NN ../. 
+
+Location./NN :./: Ottawa./NNP ,./, Farrar./NNP 
+Length./NNP of./IN Term./NNP :./: 4./CD Months./NNS 
+
+RESPONSIBILITIES./NN 
+Students./NNS will./MD work./VB as./IN part./NN of./IN the./DT Core./NNP OS./NNP team./NN and./CC participate./VB in./IN 
+-Design./JJ discussions./NNS 
+-Writing./VBG and./CC submitting./VBG code./NN 
+-Code./NN reviews./NNS 
+-Test./JJS creation/execution./NN 
+-Documentation./NN 
+
+SKILLS./NNP AND./CC QUALIFICATIONS./NNP 
+-Currently./RB pursuing./VBG a./DT degree./NN in./IN Computer./NNP Science./NNP ,./, Computer./NNP Engineering./NNP ,./, Electrical./NNP Engineering./NNP ,./, or./CC similar./JJ fields./NNS of./IN study./NN 
+-All./NN development./NN will./MD be./VB done./VBN in./IN C./NNP ;./: therefore./RB good./JJ knowledge./NN of./IN C./NNP is./VBZ required./VBN 
+-Strong./JJ problem./NN solving./NN and./CC debugging./NN skills./NNS 
+-Good./NN communication./NN skills./NNS including./VBG verbal./JJ ,./, written./VBN ,./, and./CC interpersonal./JJ 
+-High./JJ degree./NN of./IN motivation./NN and./CC ability./NN to./TO work./VB both./DT independently./RB and./CC in./IN a./DT team./NN environment./NN 
+
+ADDITIONAL./NNP ASSETS./NNP 
+-Familiarity./NN with./IN QNX./NNP ,./, BSD./NNP ,./, Linux./NNP or./CC other./JJ UNIX-like./JJ operating./VBG systems./NNS ../. 
+-Familiarity./NN with./IN software./NN debug/analysis./NN tools./NNS such./JJ as./IN gdb./NN 
+-Understanding./VBG of./IN how./WRB user./JJ level./NN processes./VBZ work./VBP across./IN each./DT layer./NN of./IN the./DT operating./NN system./NN ,./, including./VBG process./NN and./CC thread./JJ life./NN cycles./NNS ,./, memory./NN management./NN ,./, system./NN calls./NNS ,./, and./CC inter-process./JJ communication./NN 
+-Understanding./VBG of./IN operating./NN system./NN concepts./NNS ,./, including./VBG scheduling./NN ,./, concurrency./NN ,./, and./CC resource./NN management./NN 
+-Understanding./VBG of./IN multi-cpu./JJ ,./, multi-threaded./JJ architectures./NNS and./CC real-time./JJ systems./NNS 
+-Knowledge./NN of./IN operating./NN system./NN architectures./NNS 

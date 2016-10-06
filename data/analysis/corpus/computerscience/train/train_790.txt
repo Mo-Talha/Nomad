@@ -1,0 +1,56 @@
+Apply./NNP to./TO www.ibm.com/jobs./VB ,./, 'Search./VB all./DT jobs./NNS and./CC apply./NN './'' ,./, './'' 65013BR./CD './'' in./IN Search./NNP box./NN _______________________________________________________________________./NN 
+This./DT role./NN will./MD involve./VB working./VBG with./IN technology./NN that./WDT is./VBZ covered./VBN by./IN embargo./NN Export./NNP Regulations./NNP ../. If./IN you./PRP are./VBP a./DT Foreign./NNP National./NNP from./IN any./DT of./IN the./DT following./JJ embargoed./NN countries./NNS (./( Cuba./NNP ,./, Iran./NNP ,./, North./NNP Korea./NNP ,./, Sudan./NNP ,./, Syria./NNP )./) on./IN a./DT work./NN permit./NN you./PRP are./VBP not./RB eligible./JJ for./IN employment./NN in./IN this./DT position./NN ../. 
+--./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: -./: 
+IBM./NNP is./VBZ a./DT globally./RB integrated./JJ technology./NN and./CC consulting./VBG company./NN headquartered./VBD in./IN Armonk./NNP ,./, New./NNP York./NNP ../. With./IN operations./NNS in./IN more./JJR than./IN 170./CD countries./NNS ,./, IBM./NNP attracts./VBZ and./CC retains./VBZ some./DT of./IN the./DT world./NN 's./POS most./RBS talented./JJ people./NNS to./TO help./VB solve./VB problems./NNS and./CC provide./VB an./DT edge./NN for./IN businesses./NNS ,./, governments./NNS and./CC non-profits./NNS ../. 
+
+Today./NN ,./, IBM./NNP is./VBZ focused./VBN on./IN five./CD growth./NN initiatives./NNS -./: Cloud./NNP ,./, Big./NNP Data./NNP and./CC Analytics./NNP ,./, Mobile./NNP ,./, Social./NNP Business./NNP and./CC Security./NNP ../. IBMers./NNS are./VBP working./VBG with./IN customers./NNS around./IN the./DT world./NN to./TO apply./VB the./DT company./NN 's./POS business./NN consulting./NN ,./, technology./NN and./CC Research./NNP &./CC Development./NNP expertise./NN to./TO enable./JJ systems./NNS of./IN engagement./NN that./IN deliver./VBZ dynamic./JJ insights./NNS for./IN businesses./NNS and./CC governments./NNS worldwide./VBP ../. 
+
+The./DT following./JJ student./NN position./NN is./VBZ a./DT part./NN of./IN IBM./NNP Canada./NNP 's./POS EPIC./NNP (./( Employment./NNP Pathways./NNP to./TO Interns./NNP &./CC Co-ops./NNP )./) Student./NN Program./NNP ../. This./DT position./NN is./VBZ only./RB open./JJ to./TO students./NNS registered./VBN in./IN a./DT Canadian./JJ University./NNP or./CC College./NNP program./NN ,./, and./CC who./WP must./MD be./VB returning./VBG to./TO full-time./JJ study./NN upon./IN the./DT completion./NN of./IN the./DT temporary./JJ IBM./NNP work./NN term./NN ../. 
+
+This./DT Student./NNP Position./NNP resides./NNS in./IN Markham./NNP ,./, Ontario./NNP and./CC is./VBZ a./DT 4-month./JJ work./NN term./NN commencing./VBG January./NNP 2017./CD ../. 
+
+What./WP IBM./NNP Offers./VBZ You./PRP ?./. 
+
+1.Work./CD directly./RB on./IN product./NN and./CC services./NNS that./WDT affect./VBP our./PRP$ clients./NNS ,./, while./IN having./VBG access./NN to./TO cutting./VBG edge./NN software./NN technology./NN 
+2.Work./CD on./IN projects./NNS which./WDT are./VBP challenging./VBG and./CC rewarding./VBG 
+3.A./CD business./NN causal./NN dress./NN code./NN and./CC flexible./JJ work./NN hours./NNS ,./, to./TO ensure./VB work-life./JJ balance./NN 
+4.Access./CD to./TO Future./NNP Blue./NNP -./: IBMs./NNP large./JJ student./NN community./NN that./WDT provides./VBZ networking./JJ opportunities./NNS ,./, sporting./VBG and./CC social./JJ events./NNS ../. 
+
+Main./NNP Responsibilities./NNP for./IN Bluemix./NNP DevOps./NNP Software./NNP Developer./NNP -./: Coop./NN :./: include./NN :./: 
+
+We./PRP are./VBP developing./VBG a./DT leading./VBG edge./NN cloud-based./JJ Software./NNP as./IN a./DT Service./NNP (./( SaaS./NNP )./) product./NN intended./VBN for./IN commercial./JJ use./NN ../. Check./VB out./RP what./WP you./PRP will./MD be./VB working./VBG on./IN at./IN https./NN :./: //hub.jazz.net/./NN ../. 
+
+The./DT successful./JJ candidate./NN must./MD have./VB :./: 
+
+Demonstrated./NNP technical./JJ skills./NNS 
+Passion./NN for./IN technology./NN and./CC developing./VBG proven./RB software./NN 
+Demonstrated./VBN teaming./VBG skills./NNS and./CC show./VB leadership./NN potential./NN ;./: the./DT candidate./NN will./MD be./VB working./VBG in./IN a./DT driven./JJ environment./NN alongside./RB bright./JJ and./CC technically./RB savvy./JJ developers./NNS 
+Ability./NN to./TO collaborate./VB and./CC team./VB with./IN others./NNS 
+
+This./DT position./NN offers./VBZ an./DT opportunity./NN to./TO further./RBR develop./VB technical./JJ skills./NNS with./IN a./DT multi-disciplinary./JJ team./NN of./IN developers./NNS and./CC professionals./NNS focused./VBN on./IN the./DT important./JJ new./JJ industry./NN trends./NNS in./IN cloud./NN development./NN and./CC SaaS./NNP models./NNS ../. The./DT candidate./NN will./MD gain./VB real./JJ work./NN experience./NN with./IN one./CD of./IN the./DT world./NN 's./POS leading./JJ software./NN companies./NNS and./CC be./VB part./NN of./IN a./DT team./NN that./WDT is./VBZ paving./VBG the./DT way./NN and./CC helping./VBG shape./NN and./CC influence./NN software./NN development./NN practices./NNS throughout./IN the./DT industry./NN ../. The./DT IBM./NNP DevOps./NNP Services./NNP project./NN has./VBZ it./PRP all./DT and./CC will./MD result./VB in./IN invaluable./JJ experience./NN with./IN a./DT real./JJ world./NN application./NN ../. Previous./JJ work./NN experience./NN and./CC or./CC co-op./JJ engagements./NNS on./IN a./DT web-based./JJ software./NN development./NN project./NN are./VBP a./DT plus./NN ../. 
+
+IBM./NNP offers./VBZ the./DT Candidate./NN :./: 
+
+Work./NNP directly./RB on./IN product./NN and./CC services./NNS that./WDT affect./VBP our./PRP$ clients./NNS ,./, while./IN having./VBG access./NN to./TO cutting./VBG edge./NN software./NN technology./NN 
+Challenging./VBG and./CC rewarding./VBG work./NN 
+Access./NNP to./TO obtain./VB IBM./NNP Product./NNP Certification./NNP during./IN work./NN term./NN 
+A./DT casual./JJ dress./NN code./NN and./CC flexible./JJ work./NN hours./NNS ,./, to./TO ensure./VB work-life./JJ balance./NN 
+Future./NNP Blue./NNP -./: IBMs./NNP large./JJ student./NN community./NN that./WDT provides./VBZ networking./JJ opportunities./NNS ,./, sporting./VBG and./CC social./JJ events./NNS 
+
+Required./VBN Technical./NNP and./CC Professional./NNP Expertise./NNP 
+
+Demonstrated./NNP knowledge./NN of./IN Hyper./NNP Text./NNP Markup./NNP Language./NNP (./( HTML./NNP )./) ,./, Cascading./VBG Style./JJ Sheets./NNS (./( CSS./NNP )./) ,./, Java./NNP (./( JEE./NNP )./) ,./, Post./NNP Hypertext./NNP Preprocessor./NNP (./( PHP./NNP )./) ,./, and./CC Python./NNP knowledge./NN of./IN Javascript./NNP ,./, Perl./NNP ,./, Ant./NNP ,./, Node.js./NNP and./CC Lucene./NNP 
+Experience./NN with./IN authentication./NN software./NN (./( Open./JJ Server./NNP Systems./NNPS Operations./NNP (./( SSO./NNP )./) ,./, OAuth./NNP ,./, OpenLd./NNP ,./, Facebook./NNP connect./NN )./) 
+Driven./NNP ,./, motivated./VBD ,./, creative./JJ ,./, and./CC university./NN students./NNS majoring./VBG in./IN Computer./NNP Science./NNP or./CC Computer./NNP Engineering./NNP 
+Co-op./NNP or./CC internship./JJ program./NN enrollment./NN is./VBZ mandatory./JJ 
+
+Preferred./NNP Technical./NNP and./CC Professional./NNP Experience./NNP 
+
+Knowledge./NNP of./IN IBM./NNP products./NNS 
+Knowledge./NNP of./IN the./DT software./NN development./NN cycle./NN 
+Experience./NN with./IN various./JJ programming./VBG languages./NNS 
+Understanding./NN of./IN software./NN engineering./NN 
+
+Eligibility./NN Requirements./NNS 
+
+This./DT role./NN will./MD involve./VB working./VBG with./IN technology./NN that./WDT is./VBZ covered./VBN by./IN embargo./NN Export./NNP Regulations./NNP ../. If./IN you./PRP are./VBP a./DT Foreign./NNP National./NNP from./IN any./DT of./IN the./DT following./JJ embargoed./NN countries./NNS (./( Cuba./NNP ,./, Iran./NNP ,./, North./NNP Korea./NNP ,./, Sudan./NNP ,./, Syria./NNP )./) on./IN a./DT work./NN permit./NN you./PRP are./VBP not./RB eligible./JJ for./IN employment./NN in./IN this./DT position./NN ../. 

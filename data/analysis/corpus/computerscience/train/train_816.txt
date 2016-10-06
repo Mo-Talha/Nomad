@@ -1,0 +1,46 @@
+Must./NNP apply./VB on./IN company./NN site./NN or./CC your./PRP$ resume./NN can./MD not./RB be./VB viewed./VBN by./IN the./DT company./NN ../. 
+
+Gain./VB Experience./NN with./IN a./DT Global./JJ Leader./NNP -./: Manulife./NN 
+
+Located./VBN in./IN both./DT Kitchener-Waterloo./NNP and./CC Toronto./NNP ,./, Manulife./NNP Financial./NNP Information./NNP Systems./NNP Co-op./NNP program./NN offers./NNS an./DT opportunity./NN to./TO work./VB alongside./RB and./CC learn./VB from./IN some./DT of./IN the./DT most./RBS experienced./JJ professionals./NNS in./IN the./DT field./NN ;./: people./NNS who./WP value./NN new./JJ ideas./NNS and./CC fresh./JJ approaches./NNS and./CC who./WP are./VBP committed./VBN to./TO developing./VBG innovative./JJ IS./NNP solutions./NNS that./WDT will./MD shape./VB the./DT future./NN of./IN our./PRP$ business./NN ../. 
+
+In./IN this./DT role./NN ,./, you./PRP will./MD design./VB ,./, develop./VB ,./, and/or./VB support./NN effective./JJ business./NN applications./NNS ../. You./PRP will./MD be./VB required./VBN to./TO meet./VB the./DT operational./JJ and./CC information./NN needs./NNS of./IN the./DT respective./JJ Business./NNP Units./NNP and./CC the./DT Company./NNP 's./POS customers./NNS ../. 
+
+What./WP you./PRP will./MD be./VB accountable./JJ for./IN :./: 
+-./: Design./NN ,./, modify/build./NN and./CC test./NN mainframe./NN application./NN components./NNS according./VBG to./TO one./CD 's./POS own./JJ or./CC provided./VBN design./NN documentation./NN ,./, within./IN an./DT assignment./NN ,./, with./IN some./DT supervision./NN 
+-./: Participate./NN in./IN reviews./NNS as./IN required./VBN during./IN the./DT software./NN development./NN life./NN cycle./NN 
+-./: Support./NN test./NN phases./NNS executed./VBN by./IN Business./NNP Analysts./NNS or./CC line./NN area./NN representatives./NNS 
+-./: Develop./VB analytical./JJ skills./NNS by./IN providing./VBG analysis./NN support./NN to./TO address./VB problems./NNS and./CC requirements./NNS 
+-./: Apply./VB technical./JJ and./CC business./NN knowledge./NN to./TO identify./VB ,./, analyze./NN and./CC solve./VB production./NN problems./NNS with./IN some./DT support./NN ../. 
+-./: Comply./NN with./IN systems./NNS standards./NNS and./CC best./JJS practices./NNS ../. 
+
+The./DT skills./NNS and./CC qualifications./NNS you./PRP will./MD need./VB to./TO be./VB successful./JJ :./: 
+-./: Solid./JJ programming./NN skills./NNS 
+-./: Strong./NN communication./NN skills./NNS 
+-./: Customer./NN service./NN orientation./NN 
+-./: Ability./NN to./TO grasp./VB new./JJ concepts./NNS and./CC information./NN quickly./RB 
+-./: Strong./NN problem./NN solving./NN and./CC analytical./JJ skills./NNS 
+-./: Ability./NN to./TO be./VB flexible./JJ and./CC adaptable./JJ when./WRB dealing./VBG with./IN change./NN 
+-./: Ability./NN to./TO work./VB well./RB independently./RB ,./, as./RB well./RB as./IN with./IN others./NNS as./IN part./NN of./IN a./DT team./NN 
+
+What./WP you./PRP will./MD learn./VB :./: 
+-./: Develop./NN time./NN management./NN ,./, problem./NN solving./NN ,./, trouble./NN shooting./NN and./CC analytical./JJ skills./NNS 
+-./: Develop./NN strong./JJ business./NN communication./NN skills./NNS through./IN working./VBG in./IN a./DT team./NN environment./NN and./CC coordinating./VBG with./IN different./JJ teams./NNS to./TO accomplish./VB key./JJ tasks./NNS 
+-./: Learn./NN firsthand./VB how./WRB a./DT large./JJ company./NN works./VBZ during./IN a./DT software./NN development./NN cycle./NN 
+
+The./DT student./NN experience./NN we./PRP have./VBP to./TO offer./VB :./: 
+-./: Build./VB a./DT network./NN of./IN fellow./JJ students./NNS on./IN coop/internship./NN assignments./NNS 
+-./: Given./VBN the./DT opportunity./NN to./TO volunteer./VB and./CC give./VB back./RB to./TO the./DT community./NN 
+-./: Attend./NN events./NNS on./IN a./DT monthly./JJ basis./NN with./IN guest./JJS speakers./NNS from./IN various./JJ departments./NNS within./IN our./PRP$ organization./NN to./TO further./RBR develop./VB your./PRP$ skills./NNS as./IN a./DT professional./JJ 
+-./: Learn./NN about./IN our./PRP$ culture./NN and./CC core./NN values./NNS 
+
+Relevant./JJ Majors./NNS of./IN Study./NN :./: 
+-./: Enrolled./VBN in./IN Computer./NNP Science./NNP ,./, Computer./NNP Engineering./NNP ,./, Actuarial./NNP Science./NNP or./CC Finance./NNP program./NN 
+
+About./IN Manulife./NNP :./: 
+Manulife./NNP Financial./NNP Corporation./NNP is./VBZ a./DT leading./VBG international./JJ financial./JJ services./NNS group./NN providing./VBG forward-thinking./JJ solutions./NNS to./TO help./VB people./NNS with./IN their./PRP$ big./JJ financial./JJ decisions./NNS ../. We./PRP operate./VBP as./IN John./NNP Hancock./NNP in./IN the./DT United./NNP States./NNPS ,./, and./CC Manulife./NNP elsewhere./RB ../. We./PRP provide./VBP financial./JJ advice./NN ,./, insurance./NN and./CC wealth./NN and./CC asset./NN management./NN solutions./NNS for./IN individuals./NNS ,./, groups./NNS and./CC institutions./NNS ../. At./IN the./DT end./NN of./IN 2015./CD ,./, we./PRP had./VBD approximately./RB 34,000./CD employees./NNS ,./, 63,000./CD agents./NNS ,./, and./CC thousands./NNS of./IN distribution./NN partners./NNS ,./, serving./VBG 20./CD million./CD customers./NNS ../. 
+
+At./IN the./DT end./NN of./IN June./NNP 2016./CD ,./, we./PRP had./VBD $./$ 934./CD billion./CD (./( US./NNP $./$ 718./CD billion./CD )./) in./IN assets./NNS under./IN management./NN and./CC administration./NN ,./, and./CC in./IN the./DT previous./JJ 12./CD months./NNS we./PRP made./VBD more./JJR than./IN $./$ 25.4./CD billion./CD in./IN benefits./NNS ,./, interest./NN and./CC other./JJ payments./NNS to./TO our./PRP$ customers./NNS ../. 
+Our./PRP$ principal./JJ operations./NNS are./VBP in./IN Asia./NNP ,./, Canada./NNP and./CC the./DT United./NNP States./NNPS where./WRB we./PRP have./VBP served./VBN customers./NNS for./IN more./JJR than./IN 100./CD years./NNS ../. With./IN our./PRP$ global./JJ headquarters./NN in./IN Toronto./NNP ,./, Canada./NNP ,./, we./PRP trade./VBP as./IN 'MFC./NNP './POS on./IN the./DT Toronto./NNP ,./, New./NNP York./NNP ,./, and./CC the./DT Philippine./JJ stock./NN exchanges./NNS and./CC under./IN '945./NNP './POS in./IN Hong./NNP Kong./NNP ../. Follow./NNP Manulife./NNP on./IN Twitter./NNP @./NNP ManulifeNews./NNP or./CC visit./VB www.manulife.com./NN or./CC www.johnhancock.com./NN ../. 
+
+Manulife./NNP is./VBZ committed./VBN to./TO supporting./VBG a./DT culture./NN of./IN diversity./NN and./CC accessibility./NN across./IN the./DT organization./NN ../. It./PRP is./VBZ our./PRP$ priority./NN to./TO remove./VB barriers./NNS to./TO provide./VB equal./JJ access./NN to./TO employment./NN ../. A./DT Human./JJ Resources./NNP representative./NN will./MD consult./VB with./IN applicants./NNS contacted./VBN to./TO participate./VB at./IN any./DT stage./NN of./IN the./DT recruitment./NN process./NN who./WP request./VBP an./DT accommodation./NN ../. Information./NNP received./VBD regarding./VBG the./DT accommodation./NN needs./NNS of./IN applicants./NNS will./MD be./VB addressed./VBN confidentially./RB ../. 

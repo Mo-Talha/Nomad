@@ -1,0 +1,44 @@
+Summary./JJ 
+Dealer-FX./NNP ,./, the./DT most./RBS trusted./JJ name./NN in./IN automotive./JJ customer./NN experience./NN and./CC relationship./NN management./NN ,./, is./VBZ focused./VBN on./IN helping./VBG dealer./NN and./CC OEM./NNP clients./NNS to./TO Drive./VB the./DT Customer./NNP Experience./NNP by./IN enhancing./VBG customer./NN retention./NN ,./, mobile./JJ and./CC data./NN strategies./NNS ../. The./DT 1./CD Solution./NNP suite./NN of./IN service./NN tools./NNS provides./VBZ integrated./JJ software./NN that./IN delivers./VBZ a./DT sales./NNS to./TO service./VB transition./NN ,./, online./NN scheduling./NN ,./, appointment./NN ledger./NN ,./, route./JJ sheet./NN ,./, vehicle./NN status./NN board./NN ,./, seamless./NN DMS./NNP integration./NN ,./, advisor./NN and./CC technician./JJ dashboards./NNS in./IN addition./NN to./TO supporting./VBG vehicle./NN telematics./NNS and./CC diagnostic./JJ data./NNS integration./NN ../. 
+
+Dealer-FX./NNP has./VBZ been./VBN recognized./VBN as./IN a./DT Deloitte./NNP Technology./NNP Fast./NNP 500TM./CD company./NN and./CC is./VBZ also./RB the./DT recipient./NN of./IN the./DT TU./NNP Automotive./NNP Industry./NNP Newcomer./NNP award./NN ../. Dealer-FX./NNP also./RB recently./RB announced./VBD plans./NNS for./IN North./JJ American./JJ and./CC global./JJ expansion./NN ,./, since./IN having./VBG finalized./VBN an./DT agreement./NN with./IN Private./NNP Equity./NNP Partner./NNP ,./, HGGC./NNP based./VBN out./IN of./IN Palo./NNP Alto./NNP ,./, California./NNP ../. 
+
+The./DT Position./NN :./: 
+We./PRP are./VBP looking./VBG for./IN a./DT Software./NNP Developer./NNP for./IN our./PRP$ growing./VBG company./NN ../. 
+
+Responsibilities./NNS 
+-./: Design./NN and./CC implementation./NN of./IN reliable./JJ ,./, high./JJ performing./NN and./CC usable./JJ web./NN applications./NNS 
+-./: Creation./NN of./IN detailed./JJ design./NN documentation./NN and./CC diagrams./NNS 
+-./: Refactoring./NN and./CC creation./NN of./IN abstractions./NNS in./IN order./NN to./TO simplify./VB components./NNS and./CC libraries./NNS and./CC promote./VB code./NN re-use./NN 
+-./: Diligently./RB unit./NN testing./VBG and./CC debugging./VBG application./NN components./NNS as./IN necessary./JJ 
+-./: Displaying./VBG initiative./NN in./IN research./NN ,./, proposal./NN and./CC development./NN of./IN tools./NNS ,./, technologies./NNS and./CC techniques./NNS 
+-./: Collaborating./NN and./CC communicating./VBG effectively./RB within./IN a./DT multi-disciplinary./JJ team./NN 
+-./: Analysis./NN of./IN business./NN needs./NNS and./CC development./NN of./IN technical./JJ solutions./NNS 
+-./: Applying./NN foresight./NN to./TO look./VB beyond./IN immediate./JJ requirements./NNS for./IN future./JJ extensibility./NN 
+-./: Participating./NN in./IN design./NN and./CC code./NN reviews./NNS as./IN necessary./JJ 
+-./: Supporting./VBG clients./NNS evolving./VBG needs./NNS through./IN ongoing./JJ product./NN enhancements./NNS and./CC application./NN extensions./NNS 
+
+Required./VBN Skills./NNS 
+If./IN you./PRP have./VBP :./: 
+
+-./: Ability./NN to./TO work./VB in./IN a./DT project./NN based./VBN organization./NN and./CC the./DT ability./NN to./TO deliver./VB quality./NN output./NN on-or-before./RB the./DT deadlines./NNS 
+-./: Experience./NN working./VBG in./IN an./DT agile./NN development./NN environment./NN 
+-./: Ability./NN and./CC willingness./NN to./TO take./VB ownership./NN of./IN the./DT projects./NNS 
+-./: Exceptional./JJ organization./NN skills./NNS and./CC the./DT knowledge./NN surrounding./VBG good./JJ processes./NNS to./TO complete./VB the./DT work./NN needed./VBN for./IN the./DT project./NN 
+-./: Effective./NN relationship./NN building./VBG skills./NNS with./IN team./NN members./NNS to./TO develop./VB joint./JJ vision./NN for./IN a./DT project./NN 
+-./: Good./JJ verbal./NN and./CC written./VBN communication./NN skills./NNS ,./, including./VBG active./JJ listening./NN skills./NNS 
+-./: Excellent./NN analytical./JJ and./CC problem-solving./JJ skills./NNS 
+-./: 1+./CD year./NN practical./JJ experience./NN developing./VBG .net./NN applications./NNS 
+We./PRP want./VBP to./TO talk./VB to./TO you./PRP ../. 
+If./IN you./PRP also./RB have./VBP :./: 
+
+-./: Experience./NN with./IN Microsoft./NNP .NET./NNP technologies./NNS including./VBG ,./, ASP.NET./NNP ,./, ADO.NET./NNP in./IN a./DT 3./CD tier./NN physical./JJ and./CC logical./JJ environment./NN 
+-./: .NET./NN Framework./NN 2.0./CD -./: 4.0./CD 
+-./: Languages./NNS :./: C./NNP #./# ,./, SQL/T-SQL./NNP ,./, JavaScript/DHTML./NNP ,./, HTML./NNP ,./, XML./NNP 
+-./: NET./NN (./( 2.0./CD 4.0./CD )./) ,./, JQuery./NNP ,./, JSON./NNP 
+-./: Visual./JJ Studio./NNP (./( 2005./CD -./: 2010./CD )./) 
+-./: MS./NN SQL./NNP Server./NNP experience./NN (./( 2005./CD 2008./CD )./) 
+-./: Visual./JJ Source./NNP Safe./NNP 
+-./: Team./NN Foundation./NNP Server./NNP 2010./CD 
+-./: Experience./NN developing./VBG XML./NNP Web./NNP Services./NNPS 
+We./PRP REALLY./NNP want./VBP to./TO talk./VB to./TO you./PRP ../. 

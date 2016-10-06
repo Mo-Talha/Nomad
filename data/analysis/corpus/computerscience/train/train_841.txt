@@ -1,0 +1,29 @@
+This./DT position./NN is./VBZ limited./VBN to./TO students./NNS that./WDT are./VBP registered./VBN in./IN a./DT recognized./VBN Co-Op./NN or./CC Intern./JJ Program./NNP at./IN a./DT Canadian./JJ College./NNP or./CC University./NNP ../. 
+Nokia./NNP is./VBZ a./DT global./JJ leader./NN in./IN the./DT technologies./NNS that./WDT connect./VBP people./NNS and./CC things./NNS ../. With./IN state-of-the-art./JJ software./NN ,./, hardware./NN and./CC services./NNS for./IN any./DT type./NN of./IN network./NN ,./, Nokia./NNP is./VBZ uniquely./RB positioned./VBN to./TO help./VB communication./NN service./NN providers./NNS ,./, governments./NNS ,./, and./CC large./JJ enterprises./NNS deliver./RB on./IN the./DT promise./NN of./IN 5G./CD ,./, the./DT Cloud./NNP and./CC the./DT Internet./NNP of./IN Things./NNP ../. Serving./VBG customers./NNS in./IN over./IN 100./CD countries./NNS ,./, our./PRP$ research./NN scientists./NNS and./CC engineers./NNS continue./VBP to./TO invent./VB and./CC accelerate./VB new./JJ technologies./NNS that./WDT will./MD increasingly./RB transform./VB the./DT way./NN people./NNS and./CC things./NNS communicate./NN and./CC connect./NN ../. 
+
+The./DT Policy./NNP &./CC Payment./NNP Product./NNP Group./NNP in./IN Nokia./NNP 's./POS IP./NNP Platform./NNP Division./NNP is./VBZ responsible./JJ for./IN delivering./VBG reliable./JJ ,./, scalable./JJ and./CC flexible./JJ charging./NN solutions./NNS for./IN mobile./JJ service./NN providers./NNS worldwide./VBP ../. We./PRP are./VBP seeking./VBG highly./RB creative./JJ students./NNS to./TO design./VB elegant./JJ ,./, usable./JJ ,./, innovative./JJ and./CC desirable./JJ user./NN interface./NN for./IN our./PRP$ charging./NN ,./, analytics./NNS and./CC policy./NN products./NNS ../. 
+
+Our./PRP$ UX./NN Developers./NNP duties./NNS include./VBP :./: 
+-./: Interact./NN closely./RB with./IN the./DT product./NN line./NN managers./NNS to./TO jointly./RB define./VB the./DT content./NN of./IN the./DT interface./NN 
+-./: Work./NN with./IN developers./NNS to./TO understand./VB the./DT capabilities./NNS of./IN the./DT reporting./NN and./CC dashboard./NN platforms./NNS 
+-./: Collaborate./NN with./IN the./DT central./JJ UX./NNP team./NN to./TO understand./VB the./DT styling./NN guidelines./NNS 
+-./: Create./NN information./NN architecture./NN and./CC wireframes./NNS that./IN both./DT meet./NN business./NN goals./NNS and./CC ensure./VB a./DT positive./JJ user./NN experience./NN 
+-./: Document./NN and./CC communicate./VB your./PRP$ design./NN ideas./NNS to./TO fellow./VB team./NN members./NNS and./CC stakeholders./NNS 
+
+Qualification./NN :./: -./: 
+3rd./CD year+./JJ co-op./JJ student./NN registered./VBN in./IN a./DT recognized./VBN Co-Op./NN or./CC Intern./JJ Program./NNP at./IN a./DT Canadian./JJ College./NNP or./CC University./NNP ../. While./IN few./JJ programs./NNS are./VBP directed./VBN strictly./RB at./IN UX./NNP design./NN ,./, applicants./NNS from./IN computer./NN science./NN or./CC graphic./JJ design./NN programs./NNS with./IN the./DT desired./JJ experience./NN will./MD be./VB considered./VBN ../. 
+Desired./NNP experience./NN for./IN this./DT position./NN :./: 
+-./: User./NN Interface./NN 
+-./: User./NN Experience./NN 
+-./: Visual./JJ Design./NN 
+-./: Responsive./NN Design./NN 
+-./: Adobe./NN Photoshop./NNP 
+-./: JavaScript./NN 
+-./: Visual./JJ Design./NN 
+-./: Wireframes/Mockups./NN 
+-./: HTML./NN 
+-./: CSS./NN 
+-./: Human./NNP Computer./NNP Interaction./NNP (./( HCI./NNP )./) 
+-./: User./NN Center./NNP Design./NNP principles./NNS 
+
+Nokia./NNP Canada./NNP is./VBZ committed./VBN to./TO building./VBG a./DT skilled./VBN ,./, diverse./JJ workforce./NN reflective./NN of./IN Canadian./JJ society./NN ../. As./IN a./DT result./NN ,./, we./PRP promote./VBP employment./NN equity./NN and./CC encourage./VB women./NNS ,./, Aboriginal./NNP persons./NNS ,./, and./CC persons./NNS with./IN a./DT disability./NN or./CC members./NNS of./IN a./DT visible./JJ minority./NN group./NN to./TO apply./VB ../. 

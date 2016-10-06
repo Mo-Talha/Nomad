@@ -1,0 +1,29 @@
+Want./VB to./TO work./VB in./IN a./DT dynamic./JJ and./CC challenging./JJ environment./NN on./IN the./DT very./RB edge./NN of./IN graphics./NNS kernel./NNS 
+driver./NN technology./NN ?./. 
+
+The./DT KMD./NNP (./( Kernel./NNP Mode./NNP Driver./NNP )./) team./NN is./VBZ the./DT right./JJ place./NN for./IN you./PRP !./. You./PRP will./MD get./VB to./TO work./VB with./IN the./DT 
+latest./JJS multiple./JJ graphics./NNS processing./NN and./CC multiple./JJ display./NN technologies./NNS and./CC platforms./NNS ,./, including./VBG those./DT not./RB yet./RB on./IN the./DT market./NN ../. Learn./VB about./IN graphics./NNS driver./JJ architecture./NN ,./, OS/driver/BIOS./NNP interactions./NNS and./CC how./WRB to./TO program./NN our./PRP$ graphics./NNS chips./NNS to./TO work./VB with./IN the./DT latest./JJS Windows./NNP operating./VBG system./NN ../. 
+
+You./PRP will./MD master./VB your./PRP$ C./NNP ,./, C++./NNP ,./, OOP./NNP ,./, and./CC kernel./VB mode./NN debugging./VBG skills./NNS ,./, while./IN 
+developing./VBG driver./NN code./NN and./CC working./VBG with./IN professionals./NNS as./IN a./DT valued./JJ member./NN of./IN our./PRP$ team./NN ../. 
+In./IN this./DT role./NN ,./, we./PRP will./MD help./VB you./PRP further./JJ hone./VB your./PRP$ strengths./NNS while./IN providing./VBG you./PRP opportunities./NNS to./TO develop./VB new./JJ skills./NNS ../. 
+
+
+Ideal./JJ Candidate./NNP Skill./NNP Sets./VBZ :./: 
+
+-./: Strong./NN C./NNP ,./, C++./NNP and./CC object-oriented./JJ programming./NN skills./NNS 
+-./: Windows./NNS development./NN experience./NN 
+-./: Experience./NN with./IN software./NN development./NN processes./NNS and./CC tools./NNS such./JJ as./IN debuggers./NNS ,./, source./NN 
+code./NN control./NN systems./NNS and./CC profilers./NNS is./VBZ a./DT plus./JJ 
+-./: Good./JJ communication./NN and./CC problem./NN solving./NN skills./NNS 
+-./: Highly./NN motivated./VBN ,./, self-starter./JJ with./IN good./JJ interpersonal./JJ skills./NNS 
+
+AMD./NNP is./VBZ a./DT semiconductor./NN design./NN innovator./NN leading./VBG the./DT next./JJ era./NN of./IN vivid./JJ digital./JJ experiences./NNS with./IN its./PRP$ groundbreaking./NN Accelerated./NNP Processing./NNP Units./NNP (./( APUs./NNP )./) and./CC Graphics./NNPS Processing./VBG Units./NNP (./( GPUs./NNP )./) powering./VBG a./DT wide./JJ range./NN of./IN computing./VBG devices./NNS ../. AMD./NNP 's./POS superior./JJ graphics./NNS technologies./NNS are./VBP found./VBN in./IN a./DT variety./NN of./IN solutions./NNS ranging./VBG from./IN game./NN consoles./NNS ,./, PCs./NNS to./TO supercomputers./NNS ../. AMD./NNP 's./POS server./NN products./NNS are./VBP focused./VBN on./IN driving./VBG industry-leading./JJ cloud./NN computing./NN and./CC virtualization./NN solutions./NNS ../. 
+
+If./IN you./PRP have./VBP a./DT passion./NN for./IN excellence./NN and./CC a./DT drive./NN to./TO achieve./VB ,./, you./PRP belong./VBP at./IN AMD./NNP ../. Our./PRP$ 
+employees./NNS ,./, AMDers./NNS as./IN we./PRP like./VBP to./TO call./VB them./PRP ,./, work./VB hard./RB ,./, have./VBP fun./VBN ,./, and./CC thrive./JJ on./IN success./NN ../. We./PRP 
+meet./VB the./DT challenges./NNS of./IN an./DT evolving./VBG marketplace./NN by./IN staying./VBG true./JJ to./TO our./PRP$ corporate./JJ values./NNS ,./, 
+including./VBG an./DT unwavering./JJ respect./NN for./IN individuals./NNS and./CC a./DT focus./NN on./IN retaining./VBG superior./JJ employees./NNS ../. 
+
+AMD./NNP welcomes./NNS and./CC encourages./NNS applications./NNS from./IN people./NNS with./IN disabilities./NNS ../. Reasonable./JJ 
+accommodations./NNS are./VBP available./JJ for./IN applicants./NNS with./IN disabilities./NNS during./IN the./DT recruitment./NN process./NN ,./, unless./IN undue./JJ hardship./NN to./TO AMD./NNP would./MD result./VB ../. Any./NNP applicant./NN who./WP requires./VBZ accommodation./NN should./MD contact./VB AskHR./NNP @./NNP amd.com./NN or./CC toll-free./NN at./IN (./( 877./CD )./) 263-9009./CD and./CC request./VB to./TO be./VB connected./VBN with./IN the./DT appropriate./JJ HR./NNP Representative./NNP to./TO discuss./VB accommodation./NN needs./NNS ../. 

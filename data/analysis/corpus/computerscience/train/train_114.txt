@@ -1,0 +1,80 @@
+Profile./NN 
+
+CAMH./NNP is./VBZ one./CD of./IN the./DT largest./JJS addiction./NN and./CC mental./JJ health./NN organizations./NNS in./IN North./NNP America./NNP and./CC Canada./NNP 's./POS leading./JJ mental./JJ health./NN and./CC addiction./NN teaching./NN hospital./NN ../. CAMH./NNP is./VBZ a./DT Pan./JJ American./NNP Health./NNP Organization./NNP and./CC World./NNP Health./NNP Organization./NNP Collaborating./NNP Centre./NNP and./CC is./VBZ fully./RB affiliated./VBN with./IN the./DT University./NNP of./IN Toronto./NNP ../. CAMH./NNP provides./VBZ a./DT unique./JJ combination./NN of./IN clinical./JJ care./NN and./CC research./NN ,./, policy./NN ,./, education./NN and./CC health./NN promotion./NN expertise./NN to./TO help./VB improve./VB the./DT lives./NNS of./IN people./NNS impacted./VBN by./IN mental./JJ health./NN and./CC addiction./NN issues./NNS ../. 
+
+CAMH./NNP 's./POS high./JJ quality./NN ,./, client-centred./JJ clinical./JJ care./NN meets./VBZ the./DT diverse./JJ needs./NNS of./IN people./NNS facing./VBG addiction./NN and./CC mental./JJ health./NN challenges./NNS at./IN different./JJ stages./NNS of./IN their./PRP$ lives./NNS and./CC illnesses./NNS ../. CAMH./NNP recognizes./VBZ the./DT needs./NNS and./CC role./NN of./IN the./DT family./NN in./IN clinical./JJ care./NN and./CC its./PRP$ multidisciplinary./JJ staff./NN strives./VBZ to./TO incorporate./VB factors./NNS of./IN race./NN ,./, culture./NN ,./, ethnicity./NN ,./, gender./NN ,./, age./NN ,./, abilities./NNS ,./, religion./NN and./CC sexual./JJ orientation./NN in./IN its./PRP$ work./NN ../. 
+
+Clinical./JJ services./NNS include./VBP assessment./JJ ,./, brief./JJ interventions./NNS ,./, residential./JJ programs./NNS ,./, continuing./VBG care./NN ,./, and./CC family./NN support./NN ,./, all./DT in./IN partnership./NN with./IN clients./NNS and./CC their./PRP$ families./NNS or./CC significant./JJ others./NNS ../. CAMH./NNP works./VBZ with./IN other./JJ providers./NNS to./TO ensure./VB that./DT quality./NN of./IN life./NN factors./NNS including./VBG housing./NN ,./, employment./NN ,./, income./NN support./NN ,./, and./CC social./JJ support./NN ,./, are./VBP addressed./VBN as./IN key./JJ elements./NNS of./IN care./NN ,./, recovery./NN ,./, public./JJ policy./NN and./CC research./NN ../. 
+
+CAMH./NNP has./VBZ Canada./NNP 's./POS largest./JJS mental./JJ health./NN and./CC addictions./NNS research./NN program./NN ,./, bringing./VBG together./RB internationally./RB recognized./VBN biological./JJ ,./, psychological./JJ and./CC social./JJ researchers./NNS ,./, doing./VBG work./NN that./WDT ranges./VBZ from./IN molecular./JJ neurosciences./NNS to./TO social./JJ policy./NN development./NN ../. 
+
+CAMH./NNP research./NN advances./NNS knowledge./VBP about./IN the./DT cause./NN of./IN mental./JJ health./NN and./CC addiction./NN disorders./NNS ;./: develops./VBZ improved./VBN diagnostic./JJ and./CC evaluation./NN techniques./NNS ;./: develops./VBZ customized./VBN ,./, effective./JJ treatment./NN ,./, rehabilitation./NN ,./, prevention./NN and./CC health./NN promotion./NN strategies./NNS ;./: and./CC enhances./NNS knowledge./VBP about./IN policies./NNS and./CC systems./NNS to./TO best./VB serve./NN affected./JJ populations./NNS ../. The./DT research./NN program./NN at./IN CAMH./NNP supports./NNS advanced./VBD teaching./NN and./CC training./NN of./IN researchers./NNS and./CC other./JJ health./NN professionals./NNS ,./, who./WP are./VBP recruited./VBN locally./RB ,./, nationally./RB and./CC internationally./RB ../. 
+
+CAMH./NNP provides./VBZ policy./NN ,./, education./NN and./CC health./NN promotion./NN services./NNS and./CC supports./NNS across./IN the./DT province./NN ../. CAMH./NNP collaborates./VBZ with./IN key./JJ partners./NNS to./TO advocate./VB for./IN evidence-based./JJ public./JJ policies./NNS that./WDT respond./VBP to./TO the./DT culturally-specific./JJ needs./NNS of./IN people./NNS with./IN addiction./NN and./CC mental./JJ health./NN problems./NNS ../. This./DT work./NN includes./VBZ a./DT focus./NN on./IN developing./VBG mental./JJ health./NN and./CC addiction./NN strategies./NNS at./IN all./DT levels./NNS of./IN government./NN ,./, as./RB well./RB as./IN on./IN specific./JJ issues./NNS such./JJ as./IN addressing./VBG concurrent./NN disorders./NNS and./CC advocating./VBG for./IN new./JJ investments./NNS in./IN community-based./JJ mental./JJ health./NN services./NNS ../. 
+
+As./IN a./DT teaching./NN hospital./NN ,./, CAMH./NNP provides./VBZ accredited./VBD continuing./VBG medical./JJ education./NN to./TO students./NNS ,./, practitioners./NNS and./CC psychiatrists./NNS ../. Its./PRP$ professional./JJ education./NN ,./, public./JJ education./NN and./CC health./NN promotion./NN courses./NNS ,./, tools./NNS and./CC resources./NNS support./VBP a./DT broad./JJ range./NN of./IN health./NN professionals./NNS and./CC community./NN service./NN providers./NNS and./CC build./JJ capacity./NN province-wide./RB to./TO address./VB mental./JJ health./NN and./CC addiction./NN issues./NNS ../. 
+
+
+Summary./JJ 
+
+CAMH./NNP has./VBZ established./VBN an./DT Enterprise./NNP Reporting./NNP Strategy./NNP and./CC Program./NNP to./TO implement./VB a./DT centralized./JJ reporting./NN technology./NN ,./, people./NNS and./CC process./NN framework./NN to./TO support./VB Finance./NNP ,./, Human./NNP Resources./NNPS and./CC Clinical./NNP reporting./NN and./CC analytics./NNS throughout./IN the./DT organization./NN ../. 
+
+Notable./JJ projects./NNS include./VBP ,./, but./CC are./VBP not./RB limited./VBN to./TO :./: 
+
+1./CD ../. CAMH./NNP Enterprise./NNP Reporting./NNP (./( called./VBN iManage./NN )./) -./: Phase./NN 2b./CD 
+2./CD ../. Toronto./NNP Central./NNP Local./NNP Health./NNP Integration./NNP Network./NNP (./( a./DT Regional./NNP Health./NNP Authority./NNP )./) Shared./VBD Performance./NNP Management./NNP Information./NNP System./NNP (./( called./VBN HSP360./NNP )./) './POS Phase./NNP 3./CD 
+3./LS ../. Ongoing./VBG Operations./NNS for./IN both./DT the./DT existing./VBG iManage./NN and./CC HSP360./NNP systems./NNS 
+
+
+Responsibilities./NNS 
+
+Students./NNS will./MD be./VB exposed./VBN to./TO a./DT number./NN of./IN different./JJ areas./NNS within./IN CAMH./NNP and./CC may./MD have./VB direct./JJ exposure./NN to./TO IM/IT./NNP ,./, Finance./NNP ,./, HR./NNP and./CC Clinical./NNP professionals./NNS as./RB well./RB as./IN LHIN./NNP stakeholders./NNS ../. Tasks./NNS for./IN students./NNS would./MD include./VB ,./, but./CC not./RB be./VB limited./VBN to./TO :./: 
+-./: Gathering./NN and./CC documenting./VBG reporting./NN requirements./NNS with./IN stakeholders./NNS 
+-./: Building./NN reports./NNS and./CC dashboards./NNS 
+-./: Identifying./NN and./CC documenting./VBG methods./NNS 
+-./: Assisting./NN in./IN the./DT facilitation./NN and./CC scribing./VBG for./IN design./NN review./NN sessions./NNS 
+-./: Data./NN quality./NN and./CC end-user./NN testing./NN 
+-./: Documenting./NN and./CC developing./VBG operational./JJ processes./NNS 
+-./: Developing./VBG strategic./JJ documents./NNS and./CC presentations./NNS 
+-./: Supporting./VBG other./JJ project./NN and./CC program./NN management./NN activities./NNS ,./, as./IN needed./VBN 
+-./: Preparing./VBG other./JJ documentation./NN ,./, as./IN needed./VBN 
+
+
+Required./VBN Skills./NNS 
+
+Candidates./NNS must./MD meet./VB the./DT following./VBG minimum./JJ requirements./NNS :./: 
+-./: Ability./NN to./TO independently./RB manage./VB multiple./JJ tasks./NNS and./CC prioritize./VB conflicting./NN priorities./NNS 
+-./: Ability./NN to./TO identify./VB issues./NNS ,./, risks./NNS and./CC concerns./NNS and./CC escalate/resolve./VB as./IN appropriate./JJ 
+-./: Have./VBP strong./JJ time./NN management./NN ,./, organizational./JJ ,./, analytical./JJ and./CC interpersonal./JJ skills./NNS 
+-./: Have./VBP excellent./JJ written./VBN and./CC oral./JJ communication./NN skills./NNS 
+-./: Ability./NN to./TO think./VB creatively./RB with./IN a./DT focus./NN on./IN results./NNS and./CC outcomes./NNS 
+-./: Proficiency./NN in./IN Microsoft./NNP Excel./NNP ,./, PowerPoint./NNP ,./, and./CC Word./NNP 
+The./DT following./JJ additional./JJ qualifications./NNS are./VBP preferred./VBN ,./, but./CC not./RB mandatory./JJ :./: 
+-./: Experience./NN working./VBG with./IN MS./NNP SharePoint./NNP 
+-./: Proficiency./NN in./IN MS./NNP Visio./NNP 
+-./: Previous./JJ experience./NN with./IN reporting./VBG and/or./NN analytics./NNS 
+-./: SQL./NN Programming./NNP knowledge./NN 
+
+
+Transportation./NN and./CC Housing./NN 
+
+Located./VBN in./IN Toronto./NNP (./( Queen./NNP Street./NNP and./CC Ossington./NNP Avenue./NNP campus./NN )./) ,./, this./DT placement./NN is./VBZ close./JJ to./TO public./JJ transit./NN ../. 
+
+
+Compensation./NN and./CC Benefits./NNP Information./NNP 
+
+Pay./NN Rates./NNS :./: 
+-./: 1st./CD term./NN =./NNP $./$ 2,500./CD per./IN month./NN (./( pro-rated./JJ )./) 
+-./: 2nd./CD term./NN =./NNP $./$ 2,750./CD per./IN month./NN (./( pro-rated./JJ )./) 
+-./: 3rd./CD term./NN =./NNP $./$ 3,000./CD per./IN month./NN (./( pro-rated./JJ )./) 
+-./: 4th./CD term./NN =./NNP $./$ 3,250./CD per./IN month./NN (./( pro-rated./JJ )./) 
+-./: Masters./NNS =./VBP $./$ 4,000./CD per./IN month./NN (./( pro-rated./JJ )./) 
+
+
+Career./NNP Development./NNP and./CC Training./NNP 
+
+Benefits./NNS of./IN a./DT placement./NN at./IN CAMH./NNP :./: 
+-./: Collaboration./NN with./IN students./NNS from./IN other./JJ programs./NNS across./IN the./DT country./NN 
+-./: A./NN structured./JJ student./NN program./NN to./TO develop./VB competencies./NNS while./IN contributing./VBG to./TO the./DT success./NN of./IN CAMH./NNP initiatives./NNS 
+-./: Competitive./NN pay./NN 
+-./: Diverse./NN hospital./NN experience./NN in./IN business./NN ,./, technology./NN ,./, and./CC clinical./JJ engagement./NN 

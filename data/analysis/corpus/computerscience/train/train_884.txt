@@ -1,0 +1,50 @@
+SAP./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Sept../NNP 23./CD ,./, 2016./CD from./IN 2:30./CD PM./NNP -./: 4:30./CD PM./NNP at./IN Bombshelter./NNP Pub./NNP ../. Please./NNP plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+_____________________________________________./NN 
+
+Reminder./NN :./: Students./NNS are./VBP responsible./JJ for./IN ensuring./VBG they./PRP are./VBP eligible./JJ for./IN an./DT 8-month./JJ work./NN term./NN before./IN applying./VBG ../. Please./NNP discuss./VB your./PRP$ work/study./NN sequence./NN flexibility./NN with./IN your./PRP$ academic./JJ advisor./NN as./RB soon./RB as./IN possible./JJ ../. 
+______________________________________./NN 
+
+Location./NN :./: Vancouver./NNP ,./, BC./NNP ,./, CA./NNP 
+Requisition./NN ID./NNP :./: 126103./CD 
+Work./NNP Area./NNP :./: Software-Development./JJ Operations./NNS 
+Expected./VBN Travel./NN :./: 0./CD -./: 10./CD %./NN 
+
+Enterprise./NN Analytics./NNP -./: Business./NN Intelligence/./NNP Analytics./NNP Developer./NNP 
+
+As./IN market./NN leader./NN in./IN enterprise./NN application./NN software./NN ,./, SAP./NNP helps./VBZ companies./NNS of./IN all./DT sizes./NNS and./CC industries./NNS innovate./VBP through./IN simplification./NN ../. From./IN the./DT back./JJ office./NN to./TO the./DT boardroom./NN ,./, warehouse./NN to./TO storefront./VB ,./, on./IN premise./NN to./TO cloud./VB ,./, desktop./VB to./TO mobile./VB device./NN -./: SAP./JJ empowers./NNS people./NNS and./CC organizations./NNS to./TO work./VB together./RB more./RBR efficiently./RB and./CC use./VB business./NN insight./NN more./RBR effectively./RB to./TO stay./VB ahead./RB of./IN the./DT competition./NN ../. SAP./NNP applications./NNS and./CC services./NNS enable./JJ customers./NNS to./TO operate./VB profitably./RB ,./, adapt./RB continuously./RB ,./, and./CC grow./VB sustainably./RB ../. 
+
+Purpose./NNP &./CC Objective./NNP of./IN Position./NNP 
+
+Part./NN of./IN the./DT Business./NNP Insight./NNP &./CC Technology./NNP ,./, the./DT Enterprise./NNP Analytics./NNP team./NN drives./VBZ SAP./NNP 's./POS internal./JJ global./JJ Business./NN Intelligence./NNP (./( BI./NNP )./) and./CC Analytics./NNPS strategy./NN ../. The./DT team./NN is./VBZ committed./VBN to./TO enabling./VBG strategic./JJ insight./NN &./CC execution./NN of./IN the./DT business./NN through./IN the./DT design./NN and./CC delivery./NN of./IN innovative./JJ and./CC effective./JJ business./NN intelligence./NN solutions./NNS ../. 
+
+Within./IN Enterprise./NNP Analytics./NNPS ,./, the./DT Platform./NNP &./CC Solution./NNP Enablement./NNP (./( PSE./NNP )./) team./NN defines./VBZ the./DT technical./JJ roadmap./NN ,./, builds./VBZ the./DT analytics./NNS foundation./NN and./CC develops./VBZ solution./NN and./CC tools./NNS that./WDT are./VBP used./VBN globally./RB at./IN SAP./NNP ../. 
+
+As./IN a./DT member./NN of./IN the./DT PSE./NNP team./NN ,./, you./PRP will./MD actively./RB participate./VB to./TO the./DT entire./JJ lifecycle./NN of./IN Business./NNP Intelligence./NNP and./CC Enterprise./NNP Performance./NNP Management./NNP (./( EPM./NNP )./) solutions./NNS implementation./NN ../. You./PRP will./MD play./VB an./DT active./JJ role./NN in./IN the./DT setup./NN ,./, development./NN and./CC support./NN of./IN various./JJ components./NNS needed./VBN for./IN best-in-class./NN BI./NNP solutions./NNS while./IN ensuring./VBG alignment./NN with./IN SAP./NNP 's./POS technical./JJ landscape./NN and./CC processes./NNS ../. 
+
+This./DT eight-month./JJ internship./NN offers./VBZ an./DT excellent./JJ opportunity./NN for./IN broad./JJ exposure./NN working./VBG with./IN a./DT global./JJ and./CC diversified./JJ team./NN of./IN Business./NNP Intelligence./NNP professionals./NNS ../. 
+
+Expectations./NNP &./CC Tasks./NNP 
+Development./NNP /./NNP coding./NN of./IN Analytics./NNS solutions./NNS 
+Direct./JJ interaction./NN with./IN global./JJ team./NN members./NNS and./CC end-users./NNS 
+Prepare./NNP and./CC present./JJ presentations/status./NN reports./NNS 
+Document./NNP architecture./NN and./CC procedures./NNS 
+
+Skills./NNP /./NNP Competencies./NNP 
+Experienced./VBN with./IN JavaScript./NNP and./CC HTML5./NNP 
+Knowledgeable./JJ with./IN SQL./NNP scripting./VBG ,./, data./NNS modeling./NN and./CC database./NN design./NN 
+Communication./NN Skills./NNP (./( written./VBN ,./, verbal./JJ ,./, and./CC listening./VBG )./) 
+Ability./NN to./TO work./VB independently./RB and./CC to./TO multi-task./NN (./( reliable./JJ ,./, responsible./JJ and./CC accountable./JJ )./) 
+Attention./NN to./TO details./NNS -./: quick./NN learner./NN 
+
+Educational./JJ Requirements./NNP (./( degrees./NNS ,./, class./NN completion./NN ,./, etc./FW ../. )./) 
+Enrollment./NN in./IN a./DT Computer./NNP Science./NNP ,./, Information./NNP Systems./NNP or./CC similar./JJ (./( Information./NNP Technology./NNP focused./VBD )./) ,./, MIS./NNP or./CC DSS./NNP degree./JJ program./NN preferred./VBD 
+Minimum./JJ GPA./NNP :./: 3.0./CD 
+Must./NN have./VBP completed./VBN sophomore./JJ year./NN of./IN school./NN 
+Position./NN is./VBZ open./JJ to./TO undergraduate./VB &./CC graduate./NN students./NNS 
+Can./MD commit./VB for./IN 8./CD months./NNS fulltime./RB internship./VBP starting./VBG January./NNP 2017./CD ../. 
+
+Qualifications./NNS :./: Requires./NNS candidates./NNS to./TO currently./RB be./VB enrolled./VBN in./IN an./DT undergraduate./NN ,./, Masters./NNP ,./, MBA./NNP or./CC PhD./NNP degree./VBP program./NN which./WDT is./VBZ applicable./JJ to./TO the./DT position./NN ../. 
+
+SAP./NNP 'S./POS DIVERSITY./NNP COMMITMENT./NNP 
+
+To./TO harness./VB the./DT power./NN of./IN innovation./NN ,./, SAP./NNP invests./VBZ in./IN the./DT development./NN of./IN its./PRP$ diverse./NN employees./NNS ../. We./PRP aspire./VBP to./TO leverage./VB the./DT qualities./NNS and./CC appreciate./VB the./DT unique./JJ competencies./NNS that./IN each./DT person./NN brings./VBZ to./TO the./DT company./NN ../. 

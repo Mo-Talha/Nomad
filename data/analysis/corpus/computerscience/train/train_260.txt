@@ -1,0 +1,36 @@
+Summary./JJ 
+
+In./IN this./DT Co-op./JJ position./NN ,./, you./PRP 'll./MD work./VB as./IN part./NN of./IN the./DT App./NNP Development./NNP Team./NNP within./IN the./DT Digital./NNP Operations./NNP group./NN in./IN the./DT Media./NNP Operations./NNP &./CC Technology./NNP department./NN in./IN English./NNP Services./NNPS ../. You./PRP 'll./MD focus./VB on./IN core./NN CBC./NNP apps./NN such./JJ as./IN CBC./NNP News./NNP ,./, CBC./NNP Radio./NNP and./CC CBC./NNP Sports./NNP ../. 
+
+You./PRP 'll./MD support./VB the./DT team./NN through./IN design./NN ,./, development./NN and./CC testing./NN ,./, as./RB well./RB as./IN supporting./VBG the./DT apps./NN in./IN market./NN ../. We./PRP 'll./MD show./VB you./PRP how./WRB we./PRP apply./VBP user./JJ centric./NN ,./, test./NN driven./VBN learnings./NNS in./IN order./NN to./TO continually./RB improve./VB the./DT CBC./NNP experience./NN in./IN the./DT mobile./JJ space./NN ../. 
+
+This./DT is./VBZ not./RB a./DT position./NN in./IN which./WDT you./PRP 'll./MD be./VB relegated./VBN to./TO mundane./VB tasks./NNS !./. Expect./VB to./TO be./VB included./VBN as./IN part./NN of./IN a./DT highly./RB visible./JJ and./CC intrepid./JJ team./NN that./WDT is./VBZ responsible./JJ for./IN high./JJ profile./NN app./JJ product./NN launches./NNS here./RB at./IN the./DT CBC./NNP ../. In./IN your./PRP$ time./NN with./IN us./PRP ,./, we./PRP hope./VBP to./TO give./VB you./PRP an./DT experience./NN that./WDT will./MD take./VB you./PRP to./TO the./DT next./JJ level./NN ../. 
+
+We./PRP are./VBP seeking./VBG students./NNS with./IN interest./NN and./CC experience./NN in./IN one./CD or./CC more./JJR of./IN :./: iOS./NN Development./NNP ,./, Android./NNP Development./NNP or./CC QA./NNP testing./VBG concepts./NNS specifically./RB for./IN Mobile./NNP Native./NNP Apps./NNP ../. 
+
+The./DT position./NN will./MD focus./VB on./IN core./NN CBC./NNP content./NN offerings./NNS such./JJ as./IN CBC./NNP News./NNP ,./, CBC./NNP TV./NNP ,./, CBC./NNP Radio./NNP ,./, CBC./NNP Music./NNP and./CC CBC./NNP Sports./NNP ../. The./DT developer./NN will./MD work./VB for./IN the./DT Digital./NNP Operations./NNP group./NN in./IN the./DT Media./NNP Operations./NNP &./CC Technology./NNP department./NN in./IN English./NNP Services./NNP at./IN the./DT CBC./NNP in./IN downtown./NN Toronto./NNP ../. 
+
+Responsibilities./NNS 
+
+Responsibilities./NNS include./VBP taking./VBG part./NN in./IN planning./NN ,./, prototyping./VBG ,./, implementing./VBG ,./, unit./NN testing./NN ,./, supporting./VBG enhancements./NNS ,./, feature./NN requests./NNS and./CC bug./NN fixes./NNS ../. Documentation./NNP tasks./NNS will./MD be./VB required./VBN for./IN every./DT product./NN ../. Technical./JJ support./NN may./MD be./VB required./VBN for./IN live./JJ streaming./NN ,./, in-app./JJ purchases./NNS and./CC special./JJ events./NNS ../. The./DT developer./NN co-op./NN will./MD seek./VB guidance./NN from./IN our./PRP$ senior./JJ architect./NN and./CC senior./JJ developers./NNS on./IN the./DT team./NN ../. The./DT developer./NN co-op./NN will./MD have./VB to./TO abide./VB by./IN standards./NNS and./CC processes./NNS defined./VBN by./IN the./DT development./NN team./NN leads./VBZ ../. 
+
+Communication./NN and./CC coordination./NN with./IN our./PRP$ Audience./NNP Relations./NNP department./NN will./MD be./VB necessary./JJ to./TO continue./VB to./TO improve./VB our./PRP$ deliverables./NNS based./VBN on./IN user./JJ feedback./NN ../. 
+
+We./PRP are./VBP looking./VBG for./IN an./DT ambitious./JJ and./CC talented./VBD co-op./JJ student./NN to./TO join./VB and./CC support./VB us./PRP while./IN bringing./VBG fresh./JJ ideas./NNS and./CC outlook./NN to./TO our./PRP$ existing./VBG team./NN environment./NN ../. 
+
+Required./VBN Skills./NNS 
+
+We./PRP are./VBP looking./VBG for./IN intermediate./JJ and./CC advanced./JJ students./NNS in./IN Computer./NNP Science./NNP or./CC Engineering./NNP who./WP have./VBP programming./VBG experience./NN in./IN one./CD or./CC more./JJR of./IN :./: C./NNP ,./, C++./NNP ,./, Objective-C./NNP ,./, Java./NNP ,./, Swift./NNP or./CC XML./NNP ../. 
+
+Experience./NN in./IN either./DT Xcode./NNP (./( iOS./NN )./) or./CC Android./NNP SDK/Studio./NNP is./VBZ a./DT plus./JJ ,./, as./IN is./VBZ if./IN you./PRP have./VBP published./VBN an./DT app./NN in./IN either./CC the./DT App./NNP Store./NNP or./CC Google./NNP Play./NNP ../. 
+
+The./DT ideal./JJ candidate./NN will./MD have./VB :./: 
+
+-./: good./JJ understanding./NN of./IN object./NN oriented./VBN programming./NN and./CC design./NN patterns./NNS 
+-./: familiarity./NN with./IN bug./NN tracking./NN tools./NNS 
+-./: technical./JJ and./CC analytical./JJ skills./NNS 
+-./: creative./NN problem./NN solving./VBG skills./NNS 
+-./: good./NN written./VBN and./CC verbal./JJ communication./NN skills./NNS 
+-./: good./JJ organizational./JJ and./CC time./NN management./NN skills./NNS 
+-./: ability./NN to./TO quickly./RB learn./VB and./CC adapt./VB to./TO new./JJ technologies./NNS 
+-./: Ability./NN to./TO handle./VB multiple./JJ priorities./NNS 

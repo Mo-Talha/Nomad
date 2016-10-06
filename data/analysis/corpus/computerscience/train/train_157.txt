@@ -1,0 +1,32 @@
+About./IN The./DT Opportunity./NN 
+The./DT IT./NNP Security./NNP &./CC Compliance./NNP Professional./NNP is./VBZ responsible./JJ for./IN overseeing./VBG ,./, evaluating./VBG ,./, and./CC supporting./VBG compliance./NN issues./NNS pertinent./NN to./TO the./DT organization./NN ../. Individuals./NNS in./IN this./DT role./NN perform./VB a./DT variety./NN of./IN activities./NNS ,./, encompassing./VBG compliance./NN from./IN an./DT internal./JJ and./CC external./JJ perspective./NN ../. Such./JJ activities./NNS include./VBP leading./VBG and./CC conducting./VBG internal./JJ investigations./NNS ,./, ensure./VB that./IN employees./NNS comply./VBP with./IN internal./JJ policies./NNS and./CC procedures./NNS ,./, and./CC serve./VBP as./IN a./DT resource./NN to./TO the./DT organization./NN during./IN independent./JJ assessments./NNS ../. The./DT IT./NNP Security./NNP Compliance./NNP Professional./NNP provides./VBZ guidance./NN and./CC independent./JJ evaluation./NN of./IN the./DT organization./NN to./TO management./NN through./IN various./JJ reporting./VBG streams./NNS ../. 
+
+The./DT Professional./NNP also./RB concentrates./VBZ on./IN protecting./VBG information./NN and./CC information./NN systems./NNS from./IN unauthorized./JJ access./NN ,./, inappropriate./NN use./NN ,./, disclosure./NN ,./, disruption./NN ,./, modification./NN ,./, or./CC destruction./NN to./TO provide./VB confidentiality./NN ,./, integrity./NN ,./, and./CC availability./NN ../. 
+
+What./WP you./PRP 'll./MD do./VB 
+-./: Reporting./NN and./CC Metrics./NNS for./IN Senior./NNP Leadership./NNP Team./NNP on./IN open./JJ audit./NN and./CC compliance./NN related./VBN issues./NNS 
+-./: Compliance./NN mapping./NN and./CC maintaining./NN controls./NNS on./IN frameworks./NNS and./CC other./JJ regulations./NNS 
+-./: Audit/Testing./NN on./IN internal./JJ controls./NNS and./CC remediation./NN issues./NNS 
+-./: SDLC./NN compliance./NN monitoring./NN and./CC security./NN risk./NN assessment./NN for./IN high./JJ risk./NN initiatives./NNS 
+-./: Security./NN Operations./NNPS on./IN intrusion./NN detection./NN and./CC vulnerability./NN management./NN systems./NNS 
+-./: Continuous./JJ Improvement./NNP on./IN internal./JJ controls./NNS through./IN self-assessments./NNS and./CC random./JJ validation./NN 
+-./: Internal./NNP Security./NNP Consulting./NNP on./IN Poilcy./NNP and./CC Baselines./NNP standards./NNS 
+
+Who./WP you./PRP are./VBP 
+-./: Possess./NN knowledge./NN of./IN Sarbanes./NNP Oxley./NNP ,./, and./CC PCI./NNP compliance./NN standards./NNS ,./, corporate./JJ security./NN and./CC policies./NNS and./CC procedures./NNS 
+-./: Have./VBP strong./JJ communication./NN skills./NNS especially./RB in./IN areas./NNS where./WRB diplomacy./NN is./VBZ needed./VBN to./TO help./VB ensure./VB that./DT new./JJ policies./NNS and./CC procedures./NNS gain./VBP the./DT support./NN they./PRP need./VBP to./TO be./VB adopted./VBN by./IN the./DT enterprise./NN and./CC management./NN 
+-./: Understand./NN IT./NNP compliance./NN frameworks./NNS (./( ISO./NNP ,./, CoBIT./NNP ,./, ITIL./NNP ,./, etc./FW ../. )./) 
+-./: Hold./NN experience./NN in./IN multiple./JJ security./NN domains./NNS (./( e.g./NN ../. Access./NNP control./NN ,./, application./NN and./CC system./NN development./NN ,./, operations./NNS security./NN ,./, network./NN ,./, BCP/DR./NNP ,./, etc./FW ../. )./) 
+-./: Proficient./NN in./IN assessing./VBG technical./JJ controls./NNS of./IN databases./NNS ,./, operating./VBG systems./NNS ,./, networks./NNS and./CC ERP./NNP applications./NNS 
+-./: 3rd./CD or./CC 4th./CD year./NN student./NN working./VBG towards./NNS an./DT Engineering./NNP or./CC Computer./NNP Science./NNP degree./NN 
+
+About./IN LoyaltyOne./NNP 
+LoyaltyOne./NNP is./VBZ a./DT global./JJ leader./NN in./IN the./DT design./NN and./CC implementation./NN of./IN coalition./NN loyalty./NN programs./NNS ,./, customer./NN analytics./NNS ,./, and./CC loyalty./NN services./NNS for./IN Fortune./NNP 1000./CD clients./NNS around./IN the./DT world./NN ../. LoyaltyOne./NNP has./VBZ over./RP 20./CD years./NNS history./NN leveraging./VBG data-driven./JJ insights./NNS to./TO develop./VB and./CC operate./VB some./DT of./IN the./DT world./NN 's./POS most./RBS effective./JJ loyalty./NN programs./NNS and./CC customer-centric./JJ solutions./NNS ../. These./DT include./VBP the./DT AIR./NNP MILES./NNP Reward./NNP Program./NNP ,./, North./NNP America./NNP 's./POS premier./JJR coalition./NN loyalty./NN program./NN ,./, Precima./NNP ,./, the./DT global./JJ retail./JJ strategy./NN and./CC analytics./NNS arm./NN ,./, LoyaltyOne./NNP Consulting./NNP ;./: European-based./JJ BrandLoyalty./NNP ,./, and./CC Latin./NNP America./NNP 's./POS leading./JJ coalition./NN program./NN ,./, dotz./NN ../. LoyaltyOne./NNP is./VBZ an./DT Alliance./NNP Data./NNP company./NN ../. www.loyalty.com./NN 
+
+Application./NN Process./NN :./: 
+Please./NNP submit./VB your./PRP$ application./NN ,./, consisting./VBG of./IN Cover./NNP Letter./NNP ,./, Resume./NNP and./CC Transcripts./NNP online./VBP to./TO 
+https./NN :./: //alliancedata.taleo.net/careersection/loyalty/jobdetail.ftl./NN ?./. job=0081185./NN &./CC lang=en./NN &./CC sns_id=mailto./JJ #./# .V-AnbmsDdgE.mailto./JJ 
+
+Transcripts./NNS to./TO submit./VB :./: all./DT university./NN grades./NNS received./VBD to./TO date./NN 
+
+Alliance./NNP Data./NNP is./VBZ an./DT Equal./JJ Employment./NNP Opportunity./NNP employer./NN ../. Accordingly./RB ,./, we./PRP will./MD make./VB reasonable./JJ accommodations./NNS to./TO respond./VB to./TO the./DT needs./NNS of./IN people./NNS with./IN disabilities./NNS in./IN accordance./NN with./IN legislation./NN ../. 

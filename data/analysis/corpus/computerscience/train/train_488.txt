@@ -1,0 +1,17 @@
+You./PRP have./VBP an./DT interest./NN in./IN joining./VBG a./DT growing./VBG company./NN that./WDT develops./VBZ software./NN using./VBG cutting./VBG edge./NN technologies./NNS ,./, as./RB well./RB as./IN having./VBG mature./NN products./NNS with./IN leading./VBG market./NN share./NN ../. You./PRP are./VBP passionate./JJ about./IN the./DT web./NN platform./NN and./CC love./NN to./TO stay./VB on./IN top./NN of./IN the./DT newest./JJS developments./NNS in./IN the./DT technologies./NNS ,./, from./IN browsers./NNS and./CC servers./NNS to./TO frameworks./NNS and./CC libraries./NNS ../. 
+
+This./DT is./VBZ your./PRP$ opportunity./NN to./TO work./VB on./IN software./NN products./NNS that./WDT are./VBP utilized./VBN by./IN police./NN and./CC emergency./NN services./NNS agencies./NNS in./IN five./CD countries./NNS ../. 
+
+Responsibilities./NNS 
+You./PRP will./MD work./VB independently./RB and./CC with./IN team./NN members./NNS building./NN features./NNS for./IN data./NNS workflow./NN ,./, analysis./NN ,./, and./CC reporting./VBG using./VBG a./DT variety./NN of./IN software./NN technologies./NNS ../. Applying./VBG your./PRP$ knowledge./NN of./IN building./VBG data-driven./JJ web./NN applications./NNS ,./, you./PRP may./MD be./VB writing./VBG back-end./JJ business./NN logic./NN for./IN communicating./VBG with./IN the./DT database./NN ,./, MVC./NNP components./NNS on./IN the./DT client./NN or./CC the./DT server./NN ,./, web./NN forms./NNS ,./, user./JJ interfaces./NNS ,./, or./CC reports./NNS ../. 
+
+Your./PRP$ knowledge./NN of./IN security./NN will./MD come./VB into./IN play./NN at./IN all./DT levels./NNS of./IN development./NN to./TO ensure./VB that./IN the./DT sensitive./JJ data./NNS of./IN the./DT users./NNS can./MD not./RB be./VB compromised./VBN ../. 
+
+At./IN the./DT office./NN ,./, you./PRP will./MD be./VB part./NN of./IN a./DT closely./RB knit./JJ team./NN who./WP shares./NNS responsibilities./NNS for./IN ensuring./VBG the./DT smooth./JJ operation./NN of./IN the./DT company./NN ../. 
+
+Required./VBN Skills./NNS 
+The./DT ability./NN to./TO develop./VB Web./NNP Applications./NNP that./WDT may./MD include./VB the./DT following./JJ technologies./NNS :./: RDBMSs./NNP (./( SQL./NNP Server./NNP ,./, Oracle./NNP )./) ,./, web./JJ servers./NNS (./( IIS./NNP ,./, Tomcat./NNP )./) ,./, server-side./JJ programming./NN languages./NNS (./( C./NNP #./# ,./, .NET./NNP ,./, Java./NNP )./) ,./, OOP./NNP (./( classical./JJ and./CC prototypal./JJ )./) ,./, XML./NNP ,./, HTTP./NNP ,./, RESTful./NNP services./NNS ,./, client-side./JJ scripting./NN (./( JavaScript./NNP ,./, JSON./NNP )./) ,./, web./JJ UI./NNP technologies./NNS (./( HTML./NNP ,./, CSS./NNP ,./, web./NN images./NNS ,./, etc./FW ../. )./) ,./, i18n./JJ and./CC L10n./NNP ,./, web./JJ security./NN (./( XSS./NNP ,./, SQL./NNP injection./NN ,./, sessions./NNS ,./, authentication./NN ,./, data./NNS sanitization./NN and./CC validation./NN )./) ../. 
+
+Transportation./NN And./CC Housing./NN 
+We./PRP will./MD discuss./VB with./IN the./DT candidates./NNS our./PRP$ relocation./NN and./CC transportation./NN offerings./NNS ../. 
+../. 

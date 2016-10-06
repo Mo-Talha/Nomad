@@ -1,0 +1,66 @@
+4./CD or./CC 8./CD month./NN work./NN term./NN available./JJ -./: Please./NNP state./NN your./PRP$ availability./NN in./IN your./PRP$ Cover./NNP Letter./NN 
+
+Vacancy./NNP Number./NNP :./: 14464./CD 
+Number./NNP of./IN positions./NNS :./: 1.0./CD 
+Town/City./NN :./: Toronto./NNP ,./, Ontario./NNP (./( CA-ON./NNP )./) 
+Business./NN Unit./NN :./: TEL./NNP ENGRNG./NNP (./( 10004000./CD )./) 
+Division./NN :./: TEL./NNP ENGRNG2./NNP 
+Department./NNP :./: TEL./NNP ENGRNG3./NNP (./( 10004027./CD )./) 
+Duration./NN of./IN assignment./NN :./: 4./CD -./: 8./CD Months./NNS 
+
+
+
+You./PRP will./MD be./VB a./DT member./NN of./IN the./DT above./JJ group./NN ,./, which./WDT is./VBZ responsible./JJ for./IN :./: 
+
+Telecom./NNP Transport./NNP communication./NN systems./NNS for./IN Power./NNP System./NNP applications./NNS ,./, including./VBG Point./NN to./TO Point./NNP Microwave./NNP Radio./NNP ,./, WiMAX./NNP ,./, 2-Way./JJ Mobile./NNP Radio./NNP and./CC SONET./NNP Systems./NNPS ,./, and./CC supporting./VBG subsystems./NNS including./VBG DC./NNP Power./NNP ,./, Physical./NNP Security./NNP &./CC local./JJ alarming./NN ../. 
+
+
+
+Your./PRP$ job./NN duties./NNS may./MD include./VB :./: 
+-Developing./VBG design./NN standards./NNS ,./, deployment./JJ designs./NNS and./CC configuration./NN settings./NNS ,./, 
+-Updating./VBG reports./NNS for./IN telecommunications./NNS systems./NNS and./CC projects./NNS ../. 
+-Assisting./VBG other./JJ team./NN members./NNS with./IN project./NN of./IN greater./JJR complexity./NN 
+-Site./JJ visits./NNS on./IN occasion./NN 
+-Create./JJ Drawing./NNP mark-up./NN and./CC other./JJ document./NN edits./NNS to./TO support./VB designs./NNS or./CC reports./NNS 
+-Perform./NN other./JJ duties./NNS as./IN required./VBN ../. 
+
+
+
+This./DT job./NN will./MD provide./VB you./PRP with./IN the./DT following./JJ professional./JJ development./NN :./: 
+-Exposure./NN to./TO a./DT professional./JJ technical./JJ environment./NN 
+-Gain./NN knowledge./NN of./IN corporate./JJ and./CC industry./NN technical./JJ standards./NNS 
+-Understand./NN financial./JJ ,./, technical./JJ and./CC health./NN and./CC safety./NN impacts./NNS of./IN engineering./NN design./NN 
+
+
+
+Job./NN Requirements./NNS :./: 
+-Electrical./JJ or./CC Telecom./NNP Engineering./NNP Student./NN 
+-Preferred./VBN University./NNP 3rd./CD year./NN 
+-Other./NN requirements./NNS :./: Strong./NNP communication./NN &./CC organizational./JJ skills./NNS ,./, detailed./VBN oriented./VBN and./CC Microsoft./NNP Office./NNP suite./NN skills./NNS are./VBP dentate./JJ assets./NNS ../. 
+
+
+
+Additional./JJ Job./NNP Conditions./NNS :./: 
+-Occasional./JJ Travel./NNP may./MD be./VB involved./VBN 
+
+
+
+Additional./JJ Information./NN :./: 
+-Please./NN include./VBP a./DT copy./NN of./IN your./PRP$ unofficial./JJ transcript./NN 
+-We./NN will./MD contact./VB your./PRP$ school./NN to./TO confirm./VB your./PRP$ co-op./JJ eligibility./NN 
+
+
+
+If./IN you./PRP are./VBP an./DT international./JJ student./NN ,./, please./VB ensure./VB you./PRP have./VBP obtained./VBN a./DT proper./JJ work./NN permit./NN and./CC a./DT Social./NNP Insurance./NNP Number./NNP (./( SIN./NNP )./) ../. Speak./JJ with./IN your./PRP$ school./NN 's./POS career./NN centre./NN if./IN you./PRP have./VBP any./DT questions./NNS about./IN acquiring./VBG this./DT documentation./NN ../. 
+
+
+
+If./IN you./PRP share./NN our./PRP$ passion./NN for./IN safety./NN ,./, our./PRP$ customer./NN service./NN focus./NN ,./, and./CC are./VBP ready./JJ to./TO play./VB a./DT lead./JJ role./NN in./IN building./VBG a./DT bright./JJ future./NN ,./, we./PRP would./MD love./VB to./TO hear./VB from./IN you./PRP !./. 
+
+
+
+Hydro./NNP One./NNP is./VBZ an./DT enthusiastic./JJ equal./JJ opportunity./NN employer./NN ../. We./PRP thank./VBP all./DT candidates./NNS for./IN applying./VBG ../. Only./RB those./DT candidates./NNS selected./VBN for./IN an./DT interview./NN will./MD be./VB contacted./VBN ../. 
+
+
+
+This./DT is./VBZ a./DT paid./JJ position./NN ../. 

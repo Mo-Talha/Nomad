@@ -1,0 +1,42 @@
+The./DT Home./NNP Depot./NNP Canada./NNP is./VBZ the./DT Canadian./JJ arm./NN of./IN the./DT world./NN 's./POS largest./JJS home./NN improvement./NN retailer./NN with182./NN stores./NNS in./IN 10./CD Canadian./JJ provinces./NNS and./CC employs./VBZ more./JJR than./IN 28,000./CD associates./NNS from./IN coast-to-coast./NN of./IN all./DT skill./NN levels./NNS in./IN full./JJ and./CC part-time./JJ positions./NNS ../. 
+
+Based./VBN out./IN of./IN our./PRP$ dynamic./JJ Toronto-based./JJ Store./NNP Support./NNP Centre./NNP (./( SSC./NNP )./) ,./, we./PRP have./VBP many./JJ opportunities./NNS available./JJ for./IN students./NNS seeking./VBG a./DT big./JJ challenge./NN with./IN great./JJ rewards./NNS ../. 
+
+Our./PRP$ SSC./NNP serves./VBZ stores./NNS across./IN the./DT country./NN ../. Some./DT companies./NNS call./VBP it./PRP their./PRP$ 'head./JJ office./NN './POS but./CC at./IN The./DT Home./NNP Depot./NNP we./PRP are./VBP dedicated./VBN to./TO being./VBG the./DT number./NN one./CD customer./NN service./NN retailer./NN in./IN the./DT world./NN ../. 
+
+
+AT./IN THE./NNP HOME./NNP DEPOT./NNP ,./, OUR./NNP VALUES./NNP AND./NNP UNIQUE./NNP CULTURE./NNP ARE./NNP OUR./NNP COMPETITIVE./NNP ADVANTAGE./NN !./. 
+
+Our./PRP$ associates./NNS are./VBP proud./JJ to./TO work./VB here./RB and./CC it./PRP shows./VBZ ../. One./CD of./IN our./PRP$ most./RBS important./JJ values./NNS is./VBZ taking./VBG care./NN of./IN our./PRP$ people./NNS ../. We./PRP do./VBP this./DT by./IN encouraging./VBG associates./NNS to./TO embrace./VB their./PRP$ entrepreneurial./JJ spirit./NN by./IN being./VBG creative./JJ and./CC taking./VBG risks./NNS ../. We./PRP give./VBP opportunities./NNS to./TO learn./VB ,./, grow./VB and./CC succeed./VB ../. We./PRP recognize./VBP each./DT other./JJ 's./POS hard./JJ work./NN and./CC acknowledge./NN achievements./NNS ../. 
+
+
+Some./DT of./IN the./DT other./JJ great./JJ things./NNS that./WDT make./VBP the./DT SSC./NNP an./DT excellent./JJ place./NN to./TO work./VB :./: 
+
+-./: Mentoring./VBG from./IN Outstanding./VBG Leaders./NNS 
+-./: Onsite./NN Gym./NNP and./CC Fitness./NNP Consultants./NNS 
+-./: TTC./NN Accessibility./NNP and./CC Free./NNP Underground./NNP Parking./NNP 
+-./: Walking./NN Trails./NNS nearby./RB 
+-./: Associate./NN Resource./NNP Groups./NNP (./( Orange./NNP Women./NNP 's./POS Network./NNP ,./, Orange./NNP Pride./NNP ,./, etc./FW ../. )./) 
+-./: Active./JJ Social./NNP Committee./NNP (./( Summer./NNP BBQ./NNP 's./POS ,./, Holiday./NNP Party./NNP ,./, Children./NNP 's./POS Holiday./NNP Party./NNP ,./, etc./FW ../. )./) 
+-./: Giving./VBG Back./RP to./TO Our./PRP$ Communities./NNS (./( 250./CD local./JJ community./NN improvements./NNS across./IN Canada./NNP )./) 
+-./: Ability./NN to./TO Volunteer./NNP through./IN a./DT Team./NNP Depot./NNP events./NNS 
+
+
+If./IN you./PRP want./VBP to./TO be./VB a./DT part./NN of./IN a./DT team./NN and./CC culture./NN that./WDT values./VBZ people./NNS helping./VBG people./NNS './POS look./NN no./DT further./RB ../. Apply./VB now./RB !./. 
+
+
+Position./NNP Overview./NNP 
+
+Do./VBP you./PRP enjoy./VB working./VBG in./IN the./DT latest./JJS cloud./NN based./VBN solution./NN ?./. Do./VBP you./PRP want./VB to./TO be./VB a./DT part./NN of./IN The./DT Home./NNP Depot./NNP team./NN that./WDT develops./VBZ analytical./JJ infrastructure./NN and./CC computational./JJ capabilities./NNS that./WDT drives./VBZ business./NN decision./NN making./NN ?./. 
+
+We./PRP are./VBP looking./VBG for./IN a./DT candidate./NN who./WP is./VBZ passionate./JJ about./IN data./NNS ,./, able./JJ to./TO prepare./VB and./CC manipulate./VB large./JJ datasets./NNS to./TO extract./VB meaningful./JJ business./NN insights./NNS ../. 
+
+
+Desired./NNP Skills./NNP 
+
+-./: Strong./JJ Database./NNP knowledge./NN with./IN SQL./NNP skills./NNS and./CC database./NN design./NN ../. 
+-./: Experience./NN in./IN Java./NNP or./CC Python./NNP scripting./NN ../. 
+-./: Demonstrates./VBZ ability./NN to./TO understand./VB business./NN problems./NNS and./CC articulate./VB a./DT technical./JJ solution./NN ../. 
+-./: Knowledge./NN of./IN correlation./NN ,./, multivariate./JJ regression./NN and./CC data./NNS massaging./VBG for./IN use./NN in./IN predictive./JJ and./CC prescriptive./JJ modeling./NN ../. 
+-./: Strong./NN written./VBN and./CC oral./JJ communication./NN skills./NNS ../. 
+-./: Experience./NN in./IN data./NNS visualization./NN tools./NNS like./IN Tableau./NNP is./VBZ a./DT plus./NN ../. 

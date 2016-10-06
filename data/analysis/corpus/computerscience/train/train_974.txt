@@ -1,0 +1,51 @@
+Interested./JJ to./TO learn./VB what./WP it./PRP is./VBZ like./IN to./TO work./VB at./IN Sun./NNP Life./NNP Financial./NNP during./IN a./DT co-op./JJ placement./NN ?./. Reach./VB out./IN to./TO the./DT Sun./NNP Life./NNP Campus./NNP Ambassador./NNP :./: Jenny./NNP Ma./NNP jenny.ma./NN @./NNP sunlife.com./NN Please./NNP also./RB create./VBP a./DT profile./NN in./IN our./PRP$ system./NN when./WRB applying./VBG for./IN a./DT co-op./JJ role./NN by./IN following./VBG this./DT link./NN :./: 
+http./NN :./: //bit.ly/2bjp16q./NN 
+--./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: -./: 
+
+Role./JJ Summary./NNP :./: 
+The./DT Business./NNP Systems./NNPS Analyst./NNP role./NN provides./VBZ support./NN and./CC analysis./NN to./TO various./JJ functions./NNS through./IN project./NN oriented./VBN and/or./JJ application./NN support./NN work./NN ../. Business./CC Systems./NNPS Analysts./NNS participate./VBP in./IN reviewing./VBG ,./, analyzing./VBG and./CC evaluating./VBG business./NN needs./NNS for./IN internal./JJ teams./NNS as./RB well./RB as./IN external./JJ clients./NNS ../. They./PRP work./VBP within./IN the./DT IT./NNP organization./NN ,./, partnering./VBG with./IN business./NN clients./NNS ,./, to./TO ensure./VB technical./JJ business./NN needs./NNS are./VBP understood./JJ and./CC guide./VB the./DT development./NN of./IN risk./NN assessments./NNS and./CC testing./VBG strategies./NNS ../. They./PRP recognize./VBP opportunities./NNS for./IN process./NN improvement./NN ,./, create./VBP new./JJ processes./NNS and./CC documentation./NN ,./, and./CC publish./JJ project./NN ,./, process./NN ,./, and./CC other./JJ documentation./NN ../. The./DT Business./NNPS Systems./NNPS Analyst./NNP analyzes./VBZ issues./NNS to./TO determine./VB process./NN gaps./NNS ,./, user./NN knowledge./NN gaps./NNS ,./, user./JJ errors./NNS ,./, and/or./RB technological./JJ gaps./NNS ../. 
+
+Main./NN Accountabilities./NNS :./: 
+-Identify./NN and./CC assist./NN in./IN the./DT re-engineering./NN ,./, improvement./NN or./CC replacement./NN of./IN business./NN processes./NNS and./CC associated./VBN technology./NN 
+-Gather./RB ,./, document./NN ,./, examine./NN and./CC manage./NN business./NN requirements./NNS ../. 
+-Facilitate./VB the./DT communication./NN between./IN the./DT business./NN and./CC information./NN technology./NN areas./NNS 
+-Perform./NN risk./NN assessments./NNS and./CC business./NN requirements./NNS validation./NN in./IN collaboration./NN with./IN others./NNS 
+-Ensure./NN business./NN requirements./NNS are./VBP clear./JJ ,./, understandable./JJ ,./, audience./NN appropriate./NN and./CC accurate./NN to./TO meet./VB business./NN needs./NNS 
+-Partner./NN with./IN the./DT technical./JJ staff./NN to./TO interpret./VB business./NN needs./NNS ,./, assist./NN in./IN solution./NN design./NN ,./, and./CC deliver./VB the./DT expected./VBN result./NN 
+-Be./RB proactive./JJ by./IN researching/analyzing./VBG issues./NNS ,./, defining./VBG opportunities./NNS for./IN process./NN improvements./NNS and./CC making./VBG recommendations./NNS 
+-Take./JJ ownership./NN of./IN support/project./JJ issues./NNS and./CC engage./VB the./DT appropriate./JJ resources./NNS to./TO reach./VB solution./NN 
+-Ensure./NN project./NN deliverables./NNS are./VBP implemented./VBN within./IN time./NN ,./, budget./NN and./CC quality./NN parameters./NNS ;./: strong./JJ prioritization./NN of./IN competing./VBG tasks./NNS and/or./IN conflicting./VBG deadlines./NNS ../. 
+-Assist./NN in./IN preparation./NN of./IN test./NN strategies./NNS ,./, test./NN plans./NNS ,./, test./NN situations./NNS and./CC test./NN cases./NNS 
+-May./NN also./RB be./VB involved./VBN in./IN Project./NNP Management./NNP activities./NNS such./JJ as./IN managing./VBG the./DT delivery./NN of./IN projects./NNS through./IN initiation./NN ,./, planning./NN ,./, analysis./NN ,./, design./NN ,./, construction./NN ,./, deployment./NN ,./, and./CC post-project./JJ review./NN 
+
+Competencies./NNP &./CC Technical./NNP Skills./NNP :./: 
+-Customer./NN and./CC results./NNS focused./VBD :./: ability./NN to./TO work./VB with./IN customers./NNS to./TO understand./VB and./CC act./VB based./VBN on./IN their./PRP$ needs./NNS ,./, assess./NN risks./NNS ,./, and./CC achieve./VB a./DT valued./VBN result./NN 
+-Strong./JJ analysis./NN ,./, organization./NN and./CC problem./NN solving./NN skills./NNS 
+-Knowledge./NN of./IN business./NN analysis./NN principals./NNS and./CC best./JJS practices./NNS 
+-Adaptable./JJ ,./, maintains./VBZ effectiveness./NN while./IN managing./VBG competing./VBG demands./NNS ,./, dealing./VBG with./IN frequent./JJ change./NN ,./, delays./NNS or./CC unexpected./JJ events./NNS 
+-Comfortable./JJ with./IN ambiguity./NN and./CC ability./NN to./TO operate./VB in./IN a./DT matrix./NN environment./NN 
+-Uses./NNS sound./NN and./CC accurate./JJ judgment./NN 
+-Strong./JJ communication./NN skills./NNS ;./: ability./NN to./TO understand./VB and./CC accurately./RB interpret./VB the./DT meaning./NN ,./, purpose./NN and./CC importance./NN of./IN verbal./JJ and./CC non-verbal./JJ messages./NNS ../. Shares./NNPS information./NN in./IN a./DT timely./JJ manner./NN 
+-Natural./JJ sense./NN of./IN urgency./NN and./CC drive./NN to./TO reach./VB goals./NNS with./IN high./JJ efficiency./NN 
+-Ability./NN to./TO express./VB ideas./NNS ,./, thoughts./NNS and./CC information./NN clearly./RB 
+-Innovative./JJ and./CC looks./VBZ for./IN new./JJ and./CC sometimes./JJ unconventional./JJ approaches./NNS 
+-Ability./NN to./TO build./VB and./CC maintain./VB strong./JJ relationships./NNS across./IN teams./NNS ,./, departments./NNS and./CC divisions./NNS 
+-Facilitation./NN :./: ability./NN to./TO guide./VB and./CC keep./VB a./DT group./NN on./IN track./NN and./CC ensure./VB everyone./NN is./VBZ heard./VBN while./IN moving./VBG discussions./NNS toward./IN the./DT intended./JJ goals./NNS and./CC decisions./NNS 
+-Analysis./NN :./: ability./NN to./TO elicit./VB high./JJ level./NN business./NN requirements./NNS by./IN questioning./VBG and./CC probing./VBG for./IN clarification./NN 
+-Consulting./NN :./: Gather./CC information./NN by./IN applying./VBG approaches./NNS or./CC styles./NNS applicable./JJ to./TO the./DT situation./NN 
+-Problem./JJ management./NN :./: work./NN to./TO prevent./VB problems./NNS or./CC decrease./VB impact./NN of./IN problems./NNS when./WRB possible./JJ 
+-Training./VBG :./: prepare./NN and./CC clearly./RB present./JJ information./NN ,./, transfer./NN knowledge./NN clearly./RB and./CC effectively./RB 
+-Project./JJ Management./NN :./: takes./VBZ ownership./NN of./IN assigned./JJ project./NN deliverables./NNS ,./, plans./VBZ activities./NNS to./TO ensure./VB delivery./NN by./IN agreed./VBN upon./IN due./JJ dates./NNS 
+-Documentation./NN :./: writes./VBZ clearly./RB and./CC concisely./RB ,./, able./JJ to./TO present./VB data./NNS and./CC statistics./NNS in./IN various./JJ formats./NNS to./TO meet./VB audience./NN needs./NNS for./IN comprehension./NN and./CC decision./NN making./NN 
+
+Assets./NNS :./: 
+-Financial./JJ services./NNS /./JJ products./NNS experience./NN and./CC knowledge./NN 
+-Group./JJ Benefits./NNP ;./: Individual./NNP Insurance./NNP and./CC Investments./NNP ;./: Group./NNP Retirement./NNP Services./NNPS business./NN knowledge./NN 
+-Experience./NN in./IN an./DT Information./NNP Technology./NNP environment./NN 
+-Process./JJ improvement./NN experience./NN or./CC conceptual./JJ knowledge./NN 
+-Data./NNS analytics./NNS skill./VBP -./: collect./NN and./CC mine./NN data./NNS 
+-Participation./NN in./IN best./JJ practice./NN Industry./NNP organization./NN (./( IIBA./NNP )./) 
+-Knowledge./NN of./IN change./NN management./NN practices./NNS 
+-Strong./JJ influencing./NN and./CC negotiation./NN skills./NNS 
+
+Sun./NNP Life./NNP Financial./NNP promotes./VBZ equal./JJ opportunity./NN employment./NN 

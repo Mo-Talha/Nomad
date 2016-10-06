@@ -1,0 +1,43 @@
+Summary./JJ 
+
+The./DT student./NN will./MD be./VB involved./VBN in./IN the./DT CAMH./NNP IT./NNP Security./NNP Assessment./NNP and./CC Remediation./NNP and./CC the./DT CAMH./NNP Perimeter./NNP Security./NNP projects./NNS ../. At./IN a./DT high./JJ level./NN ,./, the./DT IT./NNP Security./NNP Assessment./NNP and./CC Remediation./NNP project./NN includes./VBZ the./DT review./NN of./IN the./DT CAMH./NNP IT./NNP security./NN governance./NN model./NN and./CC the./DT update./NN of./IN IT./NNP security./NN policies./NNS and./CC standards./NNS ../. The./DT project./NN also./RB covers./VBZ the./DT assessment./NN and./CC remediation./NN of./IN various./JJ technologies./NNS implemented./VBN at./IN CAMH./NNP ../. Security./NNP tools./NNS and./CC penetration./NN testing./NN will./MD be./VB used./VBN to./TO identify./VB and./CC remediate./VB vulnerabilities./NNS ../. As./IN for./IN the./DT Perimeter./NNP Security./NNP project./NN ,./, it./PRP involves./VBZ upgrading./VBG our./PRP$ perimeter./NN security./NN defense./NN with./IN new./JJ technologies./NNS ,./, such./JJ as./IN firewalls./NNS and./CC the./DT intrusion./NN detection./NN and./CC prevention./NN systems./NNS ../. 
+
+
+Responsibilities./NNS 
+
+CAMH./NNP is./VBZ looking./VBG to./TO engage./VB up./RP to./TO one./CD (./( 1./CD )./) student./NN to./TO support./VB the./DT activities./NNS of./IN these./DT initiatives./NNS ../. The./DT selected./VBN student./NN will./MD work./VB closely./RB with./IN the./DT IT./NNP Infrastructure./NNP team./NN and./CC participate./VB in./IN tasks./NNS ,./, including./VBG but./CC not./RB limited./JJ to./TO :./: 
+Supporting./VBG project./NN management./NN activities./NNS (./( e.g./NN ../. status./NN reporting./NN ,./, issue./NN management./NN ,./, risk./NN management./NN ,./, timelines./NNS ,./, minute./NN taking./NN )./) 
+Involvement./NN in./IN the./DT development./NN of./IN an./DT IT./NNP security./NN training./VBG course./NN to./TO be./VB used./VBN for./IN new./JJ staff./NN orientation./NN ../. This./DT course./NN will./MD also./RB be./VB used./VBN for./IN online./JJ staff./NN training./NN ../. 
+Reviewing./VBG and/or./RP drafting./VBG updates./NNS to./TO IT./NNP security./NN policies./NNS ,./, standards./NNS and/or./NN procedures./NNS ../. 
+Performing./VBG research./NN on./IN IT./NNP infrastructure./NN and./CC security./NN technologies./NNS ../. 
+Performing./VBG data./NNS collection./NN and./CC analysis./NN ../. Participating./VBG in./IN solution/system./NN design./NN sessions./NNS ../. 
+Documenting./VBG current./JJ processes./NNS and./CC providing./VBG future./JJ state./NN recommendations./NNS ../. 
+
+
+Required./VBN Skills./NNS 
+
+Candidates./NNS must./MD meet./VB the./DT following./VBG minimum./JJ requirements./NNS :./: 
+Knowledge./NNP or./CC experience./NN in./IN IT./NNP security./NN technologies./NNS such./JJ as./IN Firewalls./NNP ,./, IPS./NNP ,./, Content./NNP filters./NNS 
+Knowledge./NNP ,./, training./NN or./CC certification./NN in./IN IT./NNP security./NN programs./NNS such./JJ as./IN CISSP./NNP and./CC SSCP./NNP 
+Knowledge./NNP ,./, training./NN or./CC experience./NN in./IN infrastructure./NN technologies./NNS such./JJ network./NN protocols./NNS ,./, DNS./NNP ,./, email./NN systems./NNS 
+Ability./NN to./TO independently./RB manage./VB multiple./JJ tasks./NNS and./CC prioritize./VB conflicting./VBG priorities./NNS ../. 
+Ability./NN to./TO identify./VB issues./NNS ,./, risks./NNS and./CC concerns./NNS and./CC escalate/resolve./VB as./IN appropriate./NN ../. 
+Have./VB strong./JJ time./NN management./NN ,./, organizational./JJ ,./, analytical./JJ and./CC interpersonal./JJ skills./NNS ../. 
+Have./NNP excellent./JJ written./VBN and./CC oral./JJ communication./NN skills./NNS ../. 
+Ability./NN to./TO think./VB creatively./RB with./IN a./DT focus./NN on./IN results./NNS and./CC outcomes./NNS ../. 
+Proficiency./NN in./IN Microsoft./NNP Excel./NNP ,./, PowerPoint./NNP ,./, and./CC Word./NNP 
+
+Located./VBN in./IN Toronto./NNP (./( Queen./NNP Street./NNP and./CC Ossington./NNP Avenue./NNP campus./NN )./) ,./, this./DT placement./NN is./VBZ close./JJ to./TO public./JJ transit./NN ../. 
+
+Mandatory./JJ Requirements./NNS 
+Compensation./NN And./CC Benefits./NNP Information./NNP Pay./NNP Rates./NNS :./: 
+1st./CD term./NN =./NNP $./$ 2,500./CD per./IN month./NN (./( pro-rated./JJ )./) 
+2nd./CD term./NN =./NNP $./$ 2,750./CD per./IN month./NN (./( pro-rated./JJ )./) 
+3rd./CD term./NN =./NNP $./$ 3,000./CD per./IN month./NN (./( pro-rated./JJ )./) 
+4th./JJ term./NN =./NNP $./$ 3,250./CD per./IN month./NN (./( pro-rated./JJ )./) 
+Masters./NNS =./VBP $./$ 4,000./CD per./IN month./NN (./( pro-rated./JJ )./) 
+Career./NNP Development./NNP And./CC Training./NNP Benefits./NNP of./IN a./DT placement./NN at./IN CAMH./NNP :./: 
+Collaboration./NN with./IN students./NNS from./IN other./JJ programs./NNS across./IN the./DT country./NN 
+A./DT structured./JJ student./NN program./NN to./TO develop./VB competencies./NNS while./IN contributing./VBG to./TO the./DT success./NN of./IN CAMH./NNP initiatives./NNS 
+Competitive./JJ pay./NN 
+Diverse./NNP hospital./NN experience./NN in./IN business./NN ,./, technology./NN ,./, and./CC clinical./JJ engagement./NN 

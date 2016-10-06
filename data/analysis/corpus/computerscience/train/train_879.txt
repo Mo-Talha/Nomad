@@ -1,0 +1,53 @@
+Rogers./NNS Communications./NNPS will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Oct../NNP 4./CD ,./, 2016./CD from./IN 2:30./CD PM./NNP -./: 4:30./CD PM./NNP at./IN Fed./NNP Hall./NNP -./: Westmount./NNP Room./NNP ../. Please./NNP plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+
+Summary./JJ Job./NNP Description./NNP 
+
+This./DT position./NN provides./VBZ operations./NNS and./CC Tier./NNP IV./NNP support./NN to./TO the./DT Data./NNP ,./, Communications./NNP and./CC Entertainment./NNP platforms./NNS ,./, the./DT Corporate./NNP and./CC Wireless./NNP networks./NNS ,./, and./CC to./TO the./DT CT-NOC./NNP and./CC customer./NN care./NN centres./NNS ,./, and./CC for./IN configuration./NN and./CC provisioning./NN of./IN Access./NNP network/Cisco./JJ devices./NNS ../. It./PRP also./RB provides./VBZ implementation./NN support./NN to./TO Wireline./NNP Access./NNP Network./NNP departments./NNS ../. The./DT areas./NNS of./IN responsibility./NN are./VBP ;./: IP./NNP Management./NNP ,./, Configuration./NNP Management./NNP and./CC Capacity./NNP Augmentation./NNP with./IN focus./NN on./IN IPv4/IPv6./NNP management./NN and./CC switch./NN and./CC port./NN assignments./NNS for./IN optimum./JJ performance./NN and./CC within./IN capacity./NN constraints./NNS ../. 
+
+Expectation./NN of./IN Role./NNP 
+
+You./PRP will./MD be./VB expected./VBN to./TO be./VB proactive./JJ in./IN developing./VBG or./CC contributing./VBG techniques./NNS and./CC processes./NNS to./TO effectively./RB manage./VB and./CC support./VB the./DT devices./NNS and./CC services./NNS end./VBP to./TO end./VB ../. This./DT involves./VBZ both./DT hardware./NN and./CC software./NN ,./, from./IN a./DT security./NN and./CC daily./JJ operational./JJ perspective./NN to./TO ensure./VB consistency./NN with./IN industry./NN standards./NNS ,./, internal./JJ policies./NNS and./CC forward./RB looking./VBG precautions./NNS ../. Own./VB the./DT Role./NNP ../. 
+
+Responsibilities./NNS 
+
+Provide./VB support./NN with./IN the./DT commissioning./NN ,./, provisioning./NN ,./, and./CC proactive./JJ maintenance./NN of./IN core./NN and./CC edge./NN network./NN components./NNS of./IN all./DT services./NNS ../. 
+Actively./RB participate./VB on./IN all./DT projects./NNS related./VBN to./TO the./DT services./NNS Provisioning./VBG Operations./NNP supports./NNS ;./: such./JJ as./IN upgrades./NNS ,./, modifications./NNS ,./, augmentations./NNS and./CC new./JJ service./NN introduction./NN ,./, etcetera./NN ../. 
+Work./NN to./TO achieve./VB a./DT high./JJ level./NN of./IN security./NN on./IN platforms./NNS Provisioning./VBG Operations./NNP manages./NNS ,./, by./IN minimizing./VBG the./DT vulnerabilities./NNS and./CC by./IN following./VBG guidelines./NNS from./IN the./DT vendors./NNS ,./, engineering./NN and./CC the./DT Network./NNP Security./NNP team./NN ../. 
+Review./NNP all./DT MOPs./NNP (./( Method./NNP of./IN Procedure./NNP )./) prior./RB to./TO any./DT change./NN control./NN activities./NNS to./TO ensure./VB impact./NN to./TO customers./NNS is./VBZ minimized./VBN ../. And./CC to./TO work./VB cross-functionally./RB with./IN other./JJ functional./JJ groups./NNS such./JJ as./IN the./DT CT./NNP NOC./NNP and./CC other./JJ platforms./NNS (./( Network./NNP Planning./NNP ,./, Management./NNP &./CC Control./NNP Network./NNP ,./, IP./NNP Core./NNP Server./NNP Operations./NNP and./CC etcetera./NN )./) to./TO review./VB and./CC approve./VB proposed./VBN change./NN activities./NNS ../. 
+Must./NNP be./VB willing./JJ to./TO work./VB in./IN an./DT on-call./JJ environment./NN ../. 
+Adhere./RB to./TO all./DT policy./NN and./CC legal./JJ requirements./NNS under./IN Health./NNP and./CC Safety./NNP legislation./NN ../. 
+
+Key./NNP Accountabilities./NNS 
+
+Ensure./NN all./DT customer./NN data./NNS and./CC information./NN is./VBZ secure./NN from./IN all./DT unauthorized./JJ person./NN (./( s./NN )./) ../. 
+Ensure./NN best./JJS interest./NN of./IN Rogers./NNP and./CC its./PRP$ business./NN is./VBZ prioritized./VBN ../. 
+Ensure./NN risks./NNS associated./VBN with./IN business./NN or./CC service./NN is./VBZ mitigated./VBN to./TO highest./JJS degree./NN of./IN control./NN ../. 
+Ensure./NN all./DT documentation./NN such./JJ as./IN but./CC not./RB limited./JJ to./TO MOPs./NNP are./VBP complete./JJ with./IN all./DT relevant./JJ information./NN and./CC is./VBZ reviewed./VBN by./IN senior./JJ specialist./NN prior./RB to./TO affecting./VBG network./NN ../. 
+Ensure./NN system./NN access./NN policies./NNS are./VBP adhered./VBN to./TO ,./, acquiring./VBG exemption./NN authorization./NN where./WRB needed./VBN ../. 
+Ensure./NN all./DT policies./NNS and./CC standards./NNS listed./VBN in./IN Rogers./NNP './POS literature./NN are./VBP met./VBN and./CC adhered./VBN to./TO at./IN all./DT time./NN ../. 
+Ensure./NN business./NN requirements./NNS are./VBP prioritized./VBN when./WRB on-call./NN ../. 
+Ensure./NNP service./NN delivery./NN and./CC customer./NN satisfaction./NN ../. 
+Ensure./NN minimal./JJ if./IN any./DT impact./NN to./TO customer./NN service./NN or./CC the./DT business./NN when./WRB provisioning./NN ../. 
+Ensure./NN support./NN is./VBZ requested./VBN from./IN senior./JJ specialists./NNS if./IN and./CC when./WRB need./VBP arises./NNS thus./RB minimize./VB risks./NNS ../. 
+
+Qualifications./NNS 
+
+Must./RB be./VB enrolled./VBN in./IN a./DT technology./NN discipline./NN at./IN a./DT technical./JJ college./NN university./NN and./CC will./MD be./VB graduating./VBG with./IN a./DT diploma./NN or./CC degree./NN (./( Computer./NNP Science./NNP ,./, Computer./NNP Networking./NNP ,./, Electrical./NNP Engineering./NNP )./) ../. 
+Must./NNP have./VBP a./DT technical./JJ understanding./NN of./IN TCP/IP./NNP and./CC subnetting./NN ../. 
+Must./NNP have./VBP experience./NN with./IN Cisco./NNP UBR10K./NNP ,./, RFGW10./NNP and./CC Nexus./NNP Switch./NNP devices./NNS ../. 
+Must./NNP have./VBP experience./NN with./IN networking./NN ,./, Cisco./NNP and./CC Juniper./NNP routers./NNS and./CC UNIX./NNP servers./NNS such./JJ as./IN SUN./NNP or./CC HP./NNP ../. 
+Experience./NN in./IN Cable./NNP ,./, Telecommunications./NNP or./CC Internet./NNP in./IN a./DT Network./NNP Operations./NNP or./CC Network./NNP Engineering./NNP environment./NN would./MD be./VB an./DT asset./NN ../. 
+Experienced./NNP in./IN process./NN development./NN would./MD be./VB an./DT asset./NN ../. 
+Must./RB be./VB proficient./JJ with./IN Microsoft./NNP Office./NNP ,./, Visio./NNP and./CC MS./NNP Project./NNP ../. 
+Core./NN values./NNS ;./: customer./NN focus./NN ,./, team./NN work./NN ,./, communication./NN ,./, accountability./NN and./CC innovation./NN ../. 
+Role./NNP Specific./NNP Competencies./NNP ;./: integrity./NN ,./, adaptability./NN ,./, problem./NN solving./NN ,./, achievement./JJ orientation./NN ,./, listening./VBG ,./, understanding./VBG and./CC responding./VBG ../. 
+Report./NNP writing./VBG experience./NN required./VBN ../. 
+Ability./NN to./TO work./VB both./DT independently./RB and./CC as./IN part./NN of./IN a./DT team./NN ../. 
+A./DT high./JJ level./NN of./IN attention./NN to./TO detail./NN and./CC follow./VB up./RP ../. 
+Proven./NNP ability./NN to./TO produce./VB results./NNS ../. 
+Excellent./JJ organizational./JJ and./CC interpersonal./JJ skills./NNS ../. 
+Must./RB be./VB reliable./JJ and./CC conscientious./JJ ../. 
+Must./RB be./VB available./JJ to./TO work./VB on./IN a./DT rotating./VBG on-call./JJ environment./NN ../. 
+Experience./NN and./CC exposure./NN to./TO Six./NNP Sigma./NNP is./VBZ preferred./VBN ,./, but./CC not./RB essential./JJ ../. 
+Must./RB be./VB a./DT team./NN player./NN ../. 
+Must./RB be./VB able./JJ to./TO work./VB any./DT shift./NN as./IN required./VBN ../. 

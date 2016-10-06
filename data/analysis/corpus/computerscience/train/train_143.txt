@@ -1,0 +1,31 @@
+CECA./NNP Reminder./NNP :./: Students./NNS are./VBP responsible./JJ for./IN ensuring./VBG they./PRP are./VBP eligible./JJ for./IN an./DT 8-month./JJ work./NN term./NN before./IN applying./VBG ../. Please./NNP discuss./VB your./PRP$ work/study./NN sequence./NN flexibility./NN with./IN your./PRP$ academic./JJ advisor./NN as./RB soon./RB as./IN possible./JJ ../. 
+--./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: 
+Placement./NNP length./SYM -./: ideally./RB 8./CD months./NNS ,./, but./CC a./DT 4./CD month./NN term./NN may./MD be./VB possible./JJ ../. 
+
+Are./NNP you./PRP a./DT creative./JJ student./NN with./IN strong./JJ analytical./JJ skills./NNS ?./. Do./VBP you./PRP enjoy./VB designing./VBG and./CC creating./VBG client./NN centric./JJ solutions./NNS ?./. We./PRP are./VBP looking./VBG for./IN a./DT skilled./JJ Computer./NNP Science./NNP student./NN to./TO work./VB with./IN our./PRP$ team./NN to./TO manage./VB and./CC innovate./VB on./IN the./DT services./NNS provided./VBD to./TO small./JJ and./CC medium./JJ size./NN business./NN through./IN the./DT Canada./NNP Business./NNP Network./NNP website./NN and./CC the./DT BizPaL./NNP service./NN ../. 
+
+What./WP would./MD you./PRP do./VB ?./. 
+-./: Design./NN CMS./NNP extensions./NNS and./CC add-on./NNS 
+-./: Work./NN on./IN web./JJ interaction./NN designs./NNS 
+-./: Work./NN with./IN structured./JJ content./NN 
+-./: Programming./NN in./IN PHP./NNP 
+-./: Actively./RB participate./VB in./IN design./NN and./CC development./NN of./IN website./JJ functionalities./NNS 
+-./: Respond./NN to./TO issues./NNS raised./VBN through./IN the./DT support./NN desk./NN 
+
+Our./PRP$ ideal./JJ candidate./NN would./MD have./VB these./DT qualities./NNS :./: 
+-./: Knowledge./NN and./CC experience./NN with./IN PHP./NNP development./NN 
+-./: Knowledge./NN and./CC experience./NN managing./NN CMS./NNP 
+-./: Strong./NN communication./NN skills./NNS (./( oral./JJ and./CC written./VBN )./) 
+-./: Strong./NN problem./NN solving./VBG skills./NNS 
+-./: The./DT ability./NN to./TO manage./VB multiple./JJ responsibilities./NNS 
+-./: Familiar./NN with./IN open./JJ data./NNS and./CC open./JJ source./NN software./NN 
+-./: Interested./JJ in./IN client./NN centric./JJ design./NN ../. 
+
+Transportation./NN And./CC Housing./NN 
+-./: Near./IN several./JJ bus./NN routes./NNS ,./, centrally./RB located./VBN in./IN downtown./JJ Ottawa./NNP ../. 
+-./: Can./MD not./RB provide./VB funding./NN or./CC assistance./NN for./IN relocation./NN ,./, accommodation./NN ,./, or./CC travel./NN expenses./NNS ../. 
+
+Mandatory./JJ Requirements./NNP -./: Security./NN Clearance./NN 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+-./: Salary./NN based./VBN on./IN Government./NNP of./IN Canada./NNP co-op./JJ student./NN pay./NN scale./NN (./( http./JJ :./: //www.tbs-sct.gc.ca/lrco-rtor/collective/lru-mnc/student-etudiants-eng.asp./JJ )./) ../. 

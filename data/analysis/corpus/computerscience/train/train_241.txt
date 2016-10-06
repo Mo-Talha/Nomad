@@ -1,0 +1,49 @@
+Autodesk./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Oct../NNP 20./CD ,./, 2016./CD from./IN 11:30./CD AM./NNP -./: 1:30./CD PM./NNP at./IN Davis./NNP Centre./NNP 1301./CD ../. Please./VB plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+_________________________________________________./NN 
+
+About./IN Autodesk./NNP 
+Autodesk./NNP is./VBZ a./DT world./NN leader./NN in./IN 3D./CD design./NN ,./, engineering./NN and./CC entertainment./NN software./NN and./CC services./NNS ../. Our./PRP$ software./NN is./VBZ used./VBN by./IN creators./NNS ,./, designers./NNS ,./, architects./NNS ,./, engineers./NNS ,./, video./JJ game./NN developers./NNS and./CC film./NN makers./NNS around./IN the./DT world./NN ../. Our./PRP$ Montreal./JJ location./NN is./VBZ primarily./RB focused./VBN on./IN developing./VBG design./NN software./NN for./IN the./DT Media./NNP &./CC Entertainment./NNP industry./NN (./( video./JJ game./NN and./CC film./NN )./) ../. 
+
+Our./PRP$ Co-op./JJ students./NNS work./VBP on./IN a./DT variety./NN of./IN projects./NNS that./WDT help./VBP enhance./VB our./PRP$ products./NNS and./CC solutions./NNS for./IN our./PRP$ customers./NNS ../. 
+
+Autodesk./NNP Inc../NNP is./VBZ looking./VBG for./IN a./DT talented./JJ QA./NNP Analyst./NNP Intern./NNP to./TO join./VB an./DT exciting./JJ team./NN of./IN professionals./NNS who./WP build./VBP some./DT of./IN the./DT most./RBS advanced./JJ 3D./CD animation./NN solutions./NNS for./IN designers./NNS ,./, visualization./NN specialists./NNS ,./, games./NNS and./CC film./NN artists./NNS ../. 
+
+As./IN a./DT QA./NNP Analyst./NNP Intern./NNP part./NN of./IN Autodesk./NNP 's./POS Live./NNP Design./NNP product./NN group./NN ,./, you./PRP will./MD work./VB as./IN part./NN of./IN a./DT team./NN ,./, using./VBG agile./JJ development./NN methodologies./NNS to./TO provide./VB the./DT best./JJS real-time./JJ experience./NN and./CC interactive./JJ workflows./NNS for./IN our./PRP$ customers./NNS using./VBG the./DT latest./JJS in./IN technology./NN ../. This./DT is./VBZ an./DT opportunity./NN for./IN you./PRP to./TO contribute./VB in./IN significant./JJ way./NN on./IN an./DT industry./NN leading./VBG digital./JJ content./JJ creation./NN solution./NN ../. 
+Autodesk./NNP offers./VBZ a./DT fun./NN ,./, creative./JJ and./CC rewarding./VBG environment./NN with./IN a./DT full./JJ range./NN of./IN benefits./NNS for./IN interns./NNS ,./, including./VBG flexible./JJ schedules./NNS &./CC and./CC open./JJ concept./NN working./VBG environment./NN ../. 
+
+Responsibilities./NNS :./: 
+Analyze./NNP stories./NNS and./CC specifications./NNS to./TO create./VB test./NN cases./NNS for./IN new./JJ features./NNS ,./, supplement./NN and./CC improve./VB existing./VBG testing./VBG where./WRB applicable./JJ ../. 
+Execute./NN tests./NNS to./TO find./VB defects./NNS in./IN features./NNS or./CC products./NNS ../. Isolates./NNS and./CC confirms./NNS defects./NNS and./CC works./VBZ with./IN developers./NNS to./TO prioritize./VB defects./NNS and./CC fix./VB them./PRP ../. 
+Validate./VB the./DT behavior./NN of./IN software./NN on./IN a./DT variety./NN of./IN operating./VBG systems./NNS and./CC hardware./NN 
+Log./NNP defects./NNS in./IN database./NN for./IN tracking./VBG and./CC reporting./NN ,./, and./CC provides./VBZ accurate./JJ evaluation./NN of./IN software./NN quality./NN and./CC reliability./NN to./TO the./DT team./NN leader./NN ../. 
+Participate./NNP in./IN team./NN meetings./NNS throughout./IN the./DT product./NN development./NN life./NN cycle./NN ../. 
+Work./NN with./IN the./DT development./NN team./NN to./TO proactively./RB recognize./VB and./CC prevent./VB issues./NNS from./IN occurring./VBG ../. 
+Simulate./NNP user./NN experience./NN for./IN assigned./JJ product./NN features./NNS ../. 
+Monitor./NNP customer./NN newsgroups./NNS and./CC beta./NN forums./NNS to./TO detect./VB defects./NNS in./IN production./NN software./NN ../. 
+
+Required./VBN Skills./NNS and./CC Experience./NN :./: 
+
+Currently./RB pursuing./VBG your./PRP$ degree./NN ,./, ideally./RB with./IN a./DT focus./NN on./IN computer./NN graphics./NNS ,./, game./NN development./NN or./CC 3D./CD programming./NN 
+Demonstrated./VBN understanding./NN of./IN schedule./NN demands./NNS of./IN creating./VBG high./JJ quality./NN products./NNS under./IN strict./JJ deadlines./NNS 
+Basic./NNP knowledge./NN of./IN Python./NNP ,./, Ruby./NNP and/or./VBZ JavaScript./NNP 
+Working./VBG knowledge./NN of./IN standard./JJ business./NN tools./NNS ,./, Microsoft./NNP Word./NNP ,./, Outlook./NNP ,./, Excel./NNP 
+Experience./NN leveraging./VBG debugging./NN tools./NNS 
+Thorough./IN understanding./NN of./IN SQA./NNP methodologies./NNS and./CC practices./NNS 
+Attention./NN to./TO detail./VB ,./, excellent./JJ communication./NN skills./NNS 
+Ability./NN to./TO work./VB in./IN a./DT fast./JJ pace./NN environment./NN that./WDT requires./VBZ frequent./JJ shift./NN in./IN areas./NNS of./IN focus./NN 
+Ability./NN to./TO work./VB independently./RB and./CC take./VB initiative./NN to./TO solve./VB problems./NNS and./CC QA./NNP challenges./NNS 
+Good./JJ written./VBN and./CC verbal./JJ English./NNP communication./NN skills./NNS 
+
+Preferred./JJ Qualifications./NNS :./: 
+
+Experience./NN testing./VBG applications./NNS on./IN Mobile./NNP and./CC Virtual./NNP Reality./NNP (./( VR./NNP )./) 
+Experience./NN using./VBG 3D./CD Animation./NN Applications./NNS 
+Experience./NN with./IN WebGL./NNP 
+Experience./NN with./IN game./NN engines./NNS like./IN Unity./NNP or./CC Unreal./VB 
+Knowledge./NNP of./IN the./DT Autodesk./NNP family./NN of./IN software./NN products./NNS 
+
+Did./NNP you./PRP know./VB ?./. You./PRP can./MD download./VB our./PRP$ software./NN for./IN free./JJ by./IN visiting./VBG :./: http./NN :./: //www.autodesk.com/education/free-software/all./JJ 
+
+We./PRP 'd./MD like./VB to./TO thank./VB all./DT applicants./NNS for./IN their./PRP$ interest./NN ../. Only./RB selected./JJ students./NNS will./MD be./VB contacted./VBN for./IN an./DT interview./NN ../. 
+
+Visit./VB us./PRP at./IN :./: www.autodesk.com./NN 

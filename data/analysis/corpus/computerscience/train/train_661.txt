@@ -1,0 +1,28 @@
+This./DT position./NN is./VBZ limited./VBN to./TO students./NNS that./WDT are./VBP registered./VBN in./IN a./DT recognized./VBN Co-op./NN or./CC Intern./JJ Program./NNP at./IN a./DT Canadian./JJ College./NNP or./CC University./NNP ../. 
+
+Nokia./NNP is./VBZ a./DT global./JJ leader./NN in./IN the./DT technologies./NNS that./WDT connect./VBP people./NNS and./CC things./NNS ../. With./IN state-of-the-art./JJ software./NN ,./, hardware./NN and./CC services./NNS for./IN any./DT type./NN of./IN network./NN ,./, Nokia./NNP is./VBZ uniquely./RB positioned./VBN to./TO help./VB communication./NN service./NN providers./NNS ,./, governments./NNS ,./, and./CC large./JJ enterprises./NNS deliver./RB on./IN the./DT promise./NN of./IN 5G./CD ,./, the./DT Cloud./NNP and./CC the./DT Internet./NNP of./IN Things./NNP ../. Serving./VBG customers./NNS in./IN over./IN 100./CD countries./NNS ,./, our./PRP$ research./NN scientists./NNS and./CC engineers./NNS continue./VBP to./TO invent./VB and./CC accelerate./VB new./JJ technologies./NNS that./WDT will./MD increasingly./RB transform./VB the./DT way./NN people./NNS and./CC things./NNS communicate./NN and./CC connect./NN ../. 
+
+The./DT ION./NNP Procurement./NNP Data./NNP Analyst./NNP position./NN is./VBZ a./DT very./RB dynamic./JJ role./NN within./IN Procurement./NNP supporting./VBG the./DT ION./NNP Strategic./NNP Analyst./NNP Organization./NNP with./IN regular./JJ reporting./NN and./CC analysis./NN ../. This./DT role./NN provides./VBZ exposure./NN to./TO a./DT broad./JJ range./NN of./IN processes./NNS and./CC systems./NNS required./VBN to./TO support./VB the./DT standard./NN reporting./NN requirements./NNS ,./, Senior./NNP Management./NNP analysis./NN requests./NNS and./CC data./NNS support./NN on./IN a./DT number./NN of./IN BG./NNP projects./NNS ../. 
+
+Job./NNP Description./NNP :./: 
+The./DT ION./NNP Procurement./NNP Data./NNP Analyst./NNP primarily./RB supports./VBZ reporting./NN requirements./NNS that./WDT are./VBP required./VBN for./IN standard./JJ KPIs./NNP ,./, to./TO support./VB day./NN to./TO day./NN cost./VB saving./NN activity./NN and./CC to./TO support./VB the./DT needs./NNS of./IN senior./JJ management./NN and./CC various./JJ ION./NNP projects./NNS ../. The./DT regular./JJ reports./NNS are./VBP designed./VBN to./TO ensure./VB cost./NN savings./NNS ,./, compliance./NN and./CC data./NNS integrity./NN is./VBZ maintained./VBN within./IN ION./NNP analysis./NN and./CC tools./NNS ../. 
+
+Work./NN with./IN and./CC support./VB the./DT ION./NNP Strategic./NNP Analyst./NNP Organization./NNP and./CC ION./NNP management./NN throughout./IN the./DT year./NN on./IN regular./JJ weekly./JJ ,./, monthly./JJ and./CC quarterly./JJ reports./NNS ,./, and./CC day./NN to./TO day./NN activities./NNS ../. 
+-./: Primary./JJ focus./NN on./IN the./DT KPIs./NNP and./CC Reporting./NNP Standard./NNP Reports./NNP ,./, KPIs./NNP and./CC Cost./NNP Saving./NNP analysis./NN 
+-./: Managing./NN queries./NNS to./TO provide./VB forecast./NN assessment./NN ,./, supplier./JJR risk./NN assessment./NN 
+-./: Work./NN regularly./RB with./IN ION./NNP Strategic./NNP Analysts./NNS ,./, to./TO provide./VB the./DT required./JJ reporting./NN and./CC metrics./NNS around./IN cost./NN data./NNS analysis./NN ,./, reporting./VBG compliance./NN and./CC help./VB drive./NN required./VBN integrity./NN and./CC help./NN to./TO ensure./VB that./IN costs./NNS saving./VBG changes./NNS are./VBP implemented./VBN within./IN the./DT Databases./NNPS ../. 
+-./: Help./NN with./IN the./DT ION./NNP Monthly./NNP Reporting./NNP Package./NNP ;./: contract./NN coverage./NN ,./, non./JJ contract./NN ,./, in./IN year./NN savings./NNS ,./, preferred./VBD supplier./NN status./NN ,./, PPV./NNP ,./, cost./NN accuracy./NN ,./, BU./NNP forecast./NN ../. 
+-./: Work./NN with./IN a./DT variety./NN of./IN internal./JJ departments./NNS for./IN data./NNS accuracy./NN ,./, compliance./NN and./CC discrepancy./NN review./NN ie./NN ../. Supply./NNP chain./NN ,./, component./NN engineering./NN (./( TCMs./NNP )./) ,./, Global./NNP Procurement./NNP 
+-./: Support./NN the./DT management./NN of./IN good./JJ supplier./NN relationships./NNS provide./VBP reports./NNS to./TO management./NN for./IN analysis./NN and./CC supplier./NN reviews./NNS 
+
+Skills./NNS and./CC Competences./NNS :./: 
+-./: Excellent./NN skills./NNS in./IN Microsoft./NNP Excel./NNP filters./NNS ,./, v-lookups./NNS ,./, pivot./NN tables./NNS ,./, complex./JJ formulas./NNS essential./JJ 
+-./: Competent./NN skills./NNS in./IN Microsoft./NNP Word./NNP ,./, PowerPoint./NNP and./CC Outlook./NNP 
+-./: Database./NN knowledge./NN SAP./NNP ,./, MS./NNP Access./NNP 
+-./: Analytical./NN skills./NNS 
+-./: Detail./NN orientated./VBN personality./NN 
+-./: Excellent./NN communication./NN (./( written./VBN and./CC oral./JJ )./) and./CC inter-personal./JJ skills./NNS 
+-./: Ability./NN to./TO prioritize./VB and./CC multi-task./JJ workload./NN ,./, work./NN under./IN the./DT pressure./NN of./IN tight./JJ time./NN constraints./NNS 
+-./: Enjoy./NN working./VBG within./IN a./DT team./NN environment./NN 
+
+Nokia./NNP Canada./NNP is./VBZ committed./VBN to./TO building./VBG a./DT skilled./VBN ,./, diverse./JJ workforce./NN reflective./NN of./IN Canadian./JJ society./NN ../. As./IN a./DT result./NN ,./, we./PRP promote./VBP employment./NN equity./NN and./CC encourage./VB women./NNS ,./, Aboriginal./NNP persons./NNS ,./, and./CC persons./NNS with./IN a./DT disability./NN or./CC members./NNS of./IN a./DT visible./JJ minority./NN group./NN to./TO apply./VB ../. 

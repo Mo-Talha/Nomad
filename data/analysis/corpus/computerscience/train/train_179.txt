@@ -1,0 +1,117 @@
+________________________________________________________________________./NN 
+
+One./CD of./IN our./PRP$ co-ops./NNS will./MD be./VB selected./VBN a./DT Social./NNP Capital./NNP Fellow./NNP ,./, where./WRB you./PRP will./MD be./VB able./JJ to./TO interact./VB with./IN one./CD of./IN our./PRP$ investors./NNS and./CC also./RB join./VB a./DT community./NN of./IN Waterloo./NNP students./NNS that./WDT worked./VBD across./IN the./DT Social./NNP Capital./NNP portfolio./NN (./( see./VB below./IN for./IN more./JJR details./NNS )./) 
+
+Remind./NN 
+
+Full./NNP Stack./NNP /./NNP Web./NNP Frontend./NNP ,./, iOS./NN ,./, Android./NNP ,./, Backend./NNP ,./, DevOps./NNP ,./, Growth./NNP Roles./NNP :./: 
+
+About./IN the./DT Job./NN :./: 
+
+We./PRP are./VBP undergoing./VBG substantial./JJ growth./NN and./CC we./PRP forecast./VBP our./PRP$ user-base./JJ to./TO expand./VB substantially./RB this./DT coming./VBG year./NN ../. You./PRP will./MD build./VB features./NNS that./WDT will./MD drive./VB additional./JJ user./NN engagement./NN and./CC prepare./VB our./PRP$ infrastructure./NN for./IN huge./JJ scale./NN and./CC high./JJ availability./NN ../. We./PRP are./VBP recruiting./VBG for./IN all./DT types./NNS of./IN roles./NNS -./: please./NN indicate./VB in./IN your./PRP$ cover./JJ letter./NN your./PRP$ preference./NN and./CC why./WRB ../. During./IN your./PRP$ interview./NN we./PRP will./MD discuss./VB which./WDT role./NN (./( s./PRP )./) you./PRP are./VBP interested./JJ in./IN ../. 
+
+See./VB http./NN :./: //remind.com/co-ops./JJ for./IN more./JJR details./NNS ../. 
+
+Also./RB ,./, check./VB out./RP http./NN :./: //engineering.remind.com/introducing-empire/./NN for./IN an./DT example./NN of./IN a./DT large./JJ open./JJ source./NN project./NN which./WDT we./PRP built./VBP ../. 
+
+Compensation./NN :./: 
+Stipend./NN :./: $./$ 6,500./CD /./NNP month./NN 
+We./PRP find./VBP and./CC cover./RB furnished./VBN housing./NN (./( shared./VBN with./IN one./CD or./CC two./CD other./JJ interns/co-ops./NNS )./) 
+We./PRP pay./VBP flight./NN and./CC visa./NN costs./NNS (./( if./IN necessary./JJ )./) 
+
+About./IN Us./NNS :./: 
+
+We./PRP believe./VBP great./JJ education./NN is./VBZ the./DT first./JJ step./NN to./TO solving./VBG many./JJ of./IN the./DT world./NN 's./POS most./RBS pressing./JJ problems./NNS ../. Our./PRP$ purpose./NN is./VBZ to./TO build./VB products./NNS to./TO make./VB it./PRP easier./JJR for./IN teachers./NNS to./TO provide./VB that./DT education./NN ../. 
+
+Teachers./NNS are./VBP busy./JJ ../. Our./PRP$ mission./NN is./VBZ to./TO make./VB tools./NNS that./WDT are./VBP simple./JJ to./TO use./VB ,./, but./CC highly./RB effective./JJ ../. Signing./VBG up./RP takes./VBZ less./JJR than./IN two./CD minutes./NNS on./IN the./DT website./NN ,./, iPhone./NN app./NN ,./, or./CC Android./NNP app./NN ,./, and./CC it./PRP only./RB takes./VBZ seconds./NNS for./IN students./NNS or./CC parents./NNS to./TO join./VB a./DT class./NN ../. Safety./NNP is./VBZ a./DT primary./JJ feature./NN ,./, teachers./NNS never./RB see./VBP students/parents./NNS phone./NN numbers./NNS ,./, nor./CC will./MD students/parents./NNS see./VB theirs./NNS ../. 
+
+The./DT connected./JJ classroom./NN is./VBZ rapidly./RB evolving./VBG ../. We./PRP help./VBP innovative./JJ teachers./NNS take./VBP advantage./NN of./IN technology./NN in./IN a./DT way./NN that./WDT frees./VBZ up./RP their./PRP$ time./NN to./TO focus./VB on./IN what./WP they./PRP do./VBP best./JJS :./: teach./NN ../. Join./VB us./PRP in./IN our./PRP$ mission./NN !./. 
+
+Responsibilities./NNS :./: 
+
+We./PRP have./VBP open./JJ roles./NNS doing./VBG native./JJ mobile./NN development./NN ,./, front-end./JJ web./NN development./NN as./RB well./RB as./IN backend./JJ infrastructure./NN ../. Tell./VB us./PRP what./WDT you./PRP are./VBP most./RBS passionate./JJ about./IN and./CC select./VB what./WP area./NN you./PRP want./VBP to./TO work./VB on./IN ../. 
+
+1./CD ../. JavaScript./NNP Engineer./NNP Role./NNP :./: 
+
+Work./NN closely./RB with./IN our./PRP$ Product./NN Managers./NNPS ,./, designers./NNS and./CC other./JJ JavaScript./NNP Engineers./NNPS to./TO build./VB rich./JJ web./NN applications./NNS using./VBG ReactJS./NNP ../. We./PRP use./VBP a./DT modern./JJ web./NN stack./NN including./VBG http./NN :./: //webpack.github.io/./NN ,./, http./NN :./: //facebook.github.io/react/./NN ,./, http./NN :./: //backbonejs.org/./NN and./CC ECMAScript./NNP 6./CD ../. 
+
+You./PRP will./MD be./VB measured./VBN by./IN delighting./VBG our./PRP$ users./NNS (./( teachers./NNS ,./, parents./NNS and./CC students./NNS )./) and./CC seeing./VBG increased./JJ engagement./NN with./IN our./PRP$ applications./NNS ../. Success./NNP also./RB includes./VBZ delivering./VBG a./DT well-tested./JJ (./( through./IN test./NN automation./NN )./) solution./NN ../. 
+
+
+JavaScript./NNP Engineer./NNP Requirements./NNS :./: 
+
+-./: You./PRP have./VBP a./DT track./NN record./NN of./IN shipping./VBG code./NN into./IN production./NN as./IN part./NN of./IN a./DT small./JJ team./NN ../. 
+
+-./: You./PRP have./VBP built./VBN and./CC shipped./VBN web./NN applications./NNS to./TO real./JJ users./NNS ../. 
+
+-./: You./PRP have./VBP a./DT body./NN of./IN prior./JJ frontend./NN work./NN ,./, including./VBG significant./JJ projects./NNS written./VBN in./IN Javascript./NNP ../. 
+
+-./: You./PRP have./VBP worked./VBN with./IN Javascript./NNP and./CC have./VB a./DT good./JJ working./NN knowledge./NN of./IN HTML5./NNP and./CC CSS./NNP ../. 
+
+-./: You./PRP are./VBP a./DT strong./JJ proponent./NN of./IN writing./VBG comprehensive./JJ unit./NN and./CC integration./NN tests./NNS ../. 
+
+
+2./CD ../. Mobile./NNP (./( iOS./JJ /./NNP Android./NNP )./) Developer./NNP Role./NNP :./: 
+
+Our./PRP$ iOS./NN app./NN hit./VBD #./# 2./CD Overall./NNP in./IN the./DT US./NNP and./CC #./# 1./CD in./IN Canada./NNP during./IN this./DT past./JJ back./NN to./TO school./NN ../. Roll./VB out./RP new./JJ features./NNS for./IN our./PRP$ mobile./JJ apps./NN in./IN a./DT small./JJ team./NN -./: having./VBG a./DT giant./JJ impact./NN ../. Delight./NNP our./PRP$ users./NNS (./( teachers./NNS ,./, parents./NNS and./CC students./NNS )./) and./CC see./VB more./JJR of./IN them./PRP using./VBG mobile./JJ applications./NNS replacing./VBG desktop./NN and./CC mobile./JJ web./NN usage./NN ../. Push./NNP code./NN on./IN your./PRP$ first./JJ day./NN on./IN the./DT job./NN with./IN the./DT goal./NN of./IN releasing./VBG every./DT 2./CD weeks./NNS ../. 
+
+Our./PRP$ mobile./NN developers./NNS work./VBP in./IN cross-functional./JJ teams./NNS together./RB with./IN backend./NN or./CC full./JJ stack./NN developers./NNS and./CC designers./NNS ../. Mobile./NNP developers./NNS have./VBP the./DT opportunity./NN to./TO pair./VB with./IN backend./NN developers./NNS and./CC learn./VB our./PRP$ full./JJ technology./NN stack./NN ../. We./PRP encourage./VBP people./NNS to./TO be./VB generalists./NNS ../. 
+
+
+Mobile./JJ Requirements./NNS :./: 
+
+-You./NNS have./VBP contributed./VBN to./TO an./DT Android./NNP or./CC iOS./JJ product./NN ../. 
+
+-You./NNS have./VBP strong./JJ Java./NNP and/or./NN Objective-C./NNP programming./NN skills./NNS ../. 
+
+-You./NNS are./VBP obsessed./VBN with./IN writing./VBG quality./NN ,./, maintainable./JJ code./NN with./IN good./JJ test./NN coverage./NN ../. 
+
+3./LS ../. Backend./NNP /./JJ Infrastructure./NNP Role./NNP :./: 
+Be./NNP responsible./JJ for./IN delivering./VBG hundreds./NNS of./IN millions./NNS of./IN SMS./NNP messages./NNS and./CC push./JJ notifications./NNS per./IN month./NN and./CC growing./VBG rapidly./RB ../. This./DT team./NN builds./VBZ the./DT backend./NN infrastructure./NN that./WDT reliably./VBZ serves./VBZ 30./CD %./NN of./IN the./DT teachers./NNS in./IN the./DT US./NNP ../. You./PRP will./MD be./VB measured./VBN by./IN delighting./VBG our./PRP$ users./NNS (./( teachers./NNS ,./, parents./NNS and./CC students./NNS )./) with./IN new./JJ functionality./NN and./CC also./RB by./IN improving./VBG site./NN and./CC message./NN delivery./NN performance./NN and./CC reliability./NN ../. A./DT key./JJ deliverable./NN is./VBZ to./TO reliably./VB scale./JJ our./PRP$ service./NN through./IN huge./JJ growth./NN periods./NNS ../. 
+
+Backend./JJ Requirements./NNS :./: 
+
+-./: You./PRP have./VBP a./DT proven./JJ track./NN record./NN of./IN shipping./VBG code./NN into./IN production./NN as./IN part./NN of./IN a./DT small./JJ team./NN ../. 
+
+-./: You./PRP have./VBP a./DT strong./JJ body./NN of./IN prior./JJ backend./NN work./NN building./NN scalable./JJ ,./, highly./RB available./JJ services./NNS ../. 
+
+-./: You./PRP have./VBP mastery./VBN of./IN one./CD or./CC more./JJR programming./JJ languages./NNS ../. We./PRP use./VBP a./DT lot./NN of./IN Go./NNP ,./, Ruby./NNP and./CC Javascript./NNP in./IN our./PRP$ backend./NN services./NNS but./CC were./VBD language./NN agnostic./JJ in./IN our./PRP$ hiring./NN ../. 
+
+-./: You./PRP have./VBP experience./VBN with./IN distributed./JJ systems./NNS and./CC networking./NN ../. 
+
+-./: You./PRP have./VBP experience./VBN with./IN some./DT of./IN the./DT following./JJ technologies./NNS :./: Postgres./NNS ,./, DynamoDB./NNP ,./, RedShift./NNP ,./, Kinesis./NNP ,./, RabbitMQ./NNP ,./, node.js./RB ,./, redis./NN ,./, AWS./NNP ,./, Heroku./NNP ,./, NoSQL./NNP 
+
+Perks./NNS :./: 
+-./: Very./RB competitive./JJ salary./NN 
+-./: We./PRP pay./VBP your./PRP$ flight./NN ,./, visa./NN ,./, housing./NN 
+-./: High-end./JJ laptop./JJ and./CC 27./CD ''./'' Cinema./NNP display./NN 
+-./: Unstructured./VBD hack./JJ events./NNS 
+-./: Stocked./VBD kitchen./NN and./CC fridge./NN 
+-./: Foosball./NN table./NN ,./, couches./NNS ,./, 30-foot./JJ loft./JJ ceilings./NNS w/lots./NNS of./IN light./NN 
+-./: Daily./JJ lunches./NNS and./CC dinners./NNS in./IN the./DT office./NN ../. 
+
+
+
+ABOUT./IN THE./NNP SOCIAL./NNP CAPITAL./NNP ENGINEERING./NNP FELLOWS./NNP 
+
+The./DT Social./NNP Capital./NNP Fellows./NNP program./NN pairs./NNS top./JJ Waterloo./NNP engineering./NN students./NNS with./IN breakthrough./NN startups./NNS in./IN our./PRP$ portfolio./NN spanning./VBG education./NN ,./, financial./JJ services./NNS ,./, enterprise./NN ,./, consumer./NN and./CC healthcare./NN ../. Fellows./NNP will./MD work./VB on./IN impactful./JJ technical./JJ problems./NNS ,./, while./IN also./RB building./VBG relationships./NNS with./IN developers./NNS ,./, entrepreneurs./NNS ,./, and./CC investors./NNS ../. Fellows./NNP will./MD be./VB dedicated./VBN to./TO specific./JJ portfolio./NN companies./NNS ,./, but./CC may./MD also./RB work./VB with./IN Social./NNP Capital./NNP ,./, and./CC will./MD network./NN with./IN Fellows./NNP at./IN other./JJ portfolio./NN companies./NNS as./RB well./RB as./IN Social./NNP Capital./NNP leadership./NN ../. Only./RB a./DT handful./NN of./IN Fellows./NNP will./MD be./VB selected./VBN every./DT term./NN ,./, and./CC if./IN successful./JJ ,./, will./MD have./VB the./DT opportunity./NN to./TO work./VB with./IN other./JJ portfolio./NN companies./NNS or./CC the./DT firm./NN in./IN subsequent./JJ terms./NNS ../. 
+
+ABOUT./IN SOCIAL./NNP CAPITAL./NNP 
+
+Social./NNP Capital./NNP is./VBZ a./DT private./JJ and./CC public./JJ investment./NN firm./NN based./VBN in./IN Palo./NNP Alto./NNP ,./, CA./NNP that./IN works./VBZ with./IN entrepreneurs./NNS to./TO solve./VB the./DT world./NN 's./POS hardest./JJS problems./NNS ../. The./DT CEO./NNPS and./CC founder./NN ,./, Chamath./NNP Palihapitiya./NNP ,./, graduated./VBD from./IN the./DT University./NNP of./IN Waterloo./NNP with./IN an./DT Electrical./JJ Engineering./NNP degree./NN ../. Before./IN founding./VBG Social./NNP Capital./NNP ,./, Chamath./NNP was./VBD a./DT member./NN of./IN the./DT senior./JJ executive./NN team./NN at./IN Facebook./NNP and./CC a./DT key./NN driver./NN behind./IN its./PRP$ rise./NN to./TO become./VB one./CD of./IN the./DT most./RBS important./JJ and./CC impactful./JJ companies./NNS in./IN the./DT world./NN ../. Here./RB 's./VBZ Chamath./NNP in./IN a./DT podcast./NN interview./NN talking./VBG about./IN the./DT state./NN of./IN the./DT tech./NN industry./NN and./CC why./WRB Social./NNP Capital./NN invests./NNS in./IN startups./NNS solving./VBG truly./RB hard./JJ problems./NNS :./: http./NN :./: //www.recode.net/2016/3/21/11587128/silicon-valleys-homogeneous-rich-douchebags-wont-win-forever-says./JJ 
+
+Why./WRB you./PRP should./MD apply./VB 
+
+o./RB Build./NNP products./NNS that./WDT have./VBP real./JJ impact./NN 
+o./JJ Drive./NNP growth./NN at./IN potential./JJ billion./CD dollar./NN companies./NNS 
+o./RB Receive./NNP meaningful./JJ mentorship./NN 
+o./NN Network./NNP with./IN like-minded./JJ developers./NNS ,./, entrepreneurs./NNS ,./, and./CC investors./NNS (./( including./VBG Social./NNP Capital./NNP leadership./NN )./) 
+
+
+Other./JJ reasons./NNS 
+
+o./RB $./$ 8,500./CD monthly./JJ salary./NN +./VBD $./$ 1,000./CD monthly./JJ housing./NN stipend./NN (./( for./IN the./DT co-op./JJ chosen./NN as./IN the./DT Social./NNP Capital./NNP Fellow./NNP )./) 
+o./NN For./IN ``./`` outstanding./JJ ''./'' fellows./NNS ,./, fully./RB vested./JJ equity./NN of./IN portfolio./NN company./NN 
+o./IN It./PRP 's./VBZ a./DT platform./NN for./IN future./JJ employment./NN 
+o./NNS Make./NNP informed./VBD decisions./NNS re./NN :./: both./DT future./JJ co-ops./NNS and./CC full-time./JJ jobs./NNS 
+o./JJ Visa./NNP sponsorship./NN 

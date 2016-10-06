@@ -1,0 +1,30 @@
+Agfa./NNP HealthCare./NNP develops./VBZ imaging./VBG and./CC information./NN solutions./NNS for./IN hospitals./NNS worldwide./VBP enabling./VBG them./PRP to./TO provide./VB more./RBR efficient./JJ and./CC effective./JJ care./NN for./IN patients./NNS ../. 
+
+The./DT Agfa./NNP HealthCare./NNP integration./NN of./IN health./NN records./NNS &./CC systems./NNS improves./VBZ the./DT ability./NN of./IN healthcare./NN providers./NNS to./TO provide./VB better./JJR and./CC more./RBR timely./RB care./NN ../. We./PRP take./VBP great./JJ pride./NN in./IN writing./VBG the./DT software./NN that./WDT helps./VBZ caregivers./NNS meet./VB the./DT need./NN of./IN their./PRP$ patients./NNS ../. You./PRP will./MD be./VB involved./VBN in./IN the./DT development./NN and./CC delivery./NN of./IN a./DT product./NN suite./NN that./WDT enables./VBZ providers./NNS to./TO consolidate./VB and./CC integrate./VB health./NN records./NNS for./IN millions./NNS of./IN patients./NNS across./IN regions./NNS and./CC nations./NNS ,./, at./IN a./DT much./RB lower./JJR cost./NN than./IN today./NN ../. Using./VBG the./DT latest./JJS technologies./NNS ,./, you./PRP will./MD interact./VB directly./RB with./IN R./NNP &./CC D./NNP and./CC customer./NN project./NN implementation./NN teams./NNS ,./, ensuring./VBG successful./JJ design./NN and./CC specification./NN of./IN the./DT overall./JJ solution./NN ../. You./PRP embrace./VBP new./JJ technologies./NNS ,./, are./VBP eager./JJ to./TO learn./VB ,./, and./CC are./VBP motivated./VBN knowing./VBG that./IN what./WP you./PRP are./VBP doing./VBG will./MD save./VB and./CC improve./VB lives./NNS ../. 
+
+As./IN a./DT co-op./JJ student./NN at./IN AGFA./NNP ,./, you./PRP will./MD be./VB assigned./VBN real./JJ work./NN on./IN projects./NNS of./IN significant./JJ scope./NN and./CC size./NN ../. You./PRP will./MD benefit./VB from./IN the./DT guidance./NN of./IN experienced./JJ testers./NNS --./: many./JJ of./IN whom./WP have./VBP been./VBN through./IN the./DT same./JJ co-op./JJ process./NN --./: while./IN working./VBG as./IN a./DT member./NN of./IN a./DT project./NN team./NN ../. If./IN you./PRP are./VBP a./DT high./JJ achiever./NN who./WP shares./NNS our./PRP$ commitment./NN to./TO technical./JJ excellence./NN and./CC social./JJ responsibility./NN ,./, do./VBP n't./RB miss./VB this./DT opportunity./NN to./TO join./VB our./PRP$ talented./JJ team./NN ../. Transcripts./NNS must./MD be./VB included./VBN with./IN resume./NN for./IN consideration./NN ../. 
+
+For./IN more./JJR information./NN on./IN Agfa./NNP and./CC our./PRP$ products./NNS ,./, visit./VB our./PRP$ web./NN site./NN at./IN http./NN :./: //www.agfa.com./NN 
+
+Job./NNP Summary./NNP :./: 
+The./DT student./NN will./MD be./VB exposed./VBN to./TO the./DT activities./NNS surrounding./VBG the./DT testing./NN of./IN one./CD of./IN our./PRP$ medical./JJ software./NN products./NNS used./VBN in./IN hospitals./NNS and./CC clinics./NNS around./IN the./DT world./NN ../. There./EX will./MD be./VB opportunities./NNS to./TO learn./VB about./IN the./DT key./JJ features./NNS of./IN the./DT product./NN ,./, the./DT regulatory./JJ testing./NN requirements./NNS and./CC about./IN the./DT tools./NNS and./CC processes./NNS used./VBN in./IN testing./VBG such./JJ a./DT product./NN ../. 
+
+The./DT focus./NN of./IN this./DT position./NN is./VBZ to./TO assist./VB the./DT Verification./NNP and./CC Validation./NNP team./NN on./IN several./JJ exciting./JJ projects./NNS and./CC tasks./NNS including./VBG ,./, but./CC not./RB restricted./VBN to./TO the./DT following./NN :./: 
+Updating./VBG and./CC migrating./VBG test./NN cases./NNS to./TO our./PRP$ test./NN management./NN system./NN 
+Soliciting./VBG requirements./NNS ,./, writing./VBG specifications./NNS and./CC developing./VBG test./NN cases./NNS that./WDT are./VBP used./VBN in./IN our./PRP$ verification./NN process./NN 
+Installing./VBG and./CC configuring./VBG portions./NNS of./IN our./PRP$ testing./VBG environment./NN 
+Testing./VBG of./IN the./DT product./NN to./TO verify./VB specific./JJ business./NN requirements./NNS and./CC more./JJR specifically./RB :./: 
+-Manually./RB execute./JJ existing./VBG test./NN suites./NNS 
+-Create./NN and./CC update./JJ test./NN cases./NNS 
+-Report./NN defects./NNS in./IN our./PRP$ bug./NN tracking./NN system./NN 
+-Participate./NN in./IN exploratory./NN and./CC scripted./VBD testing./VBG 
+-Provide./JJ status./NN reports./NNS 
+-Participate./NN in./IN Project./NNP Meetings./NNP 
+
+Education./NN ,./, Experience./NNP and./CC Skill./NNP Requirements./NNS :./: 
+2nd./CD -./: 4th./CD year./NN Computer./NNP Science./NNP or./CC Informatics./NNPS student./NN 
+Excellent./JJ technical./JJ writing./NN skills./NNS 
+An./DT inquisitive./JJ and./CC analytical./JJ mind./NN 
+Strong./JJ problem./NN solving./NN skills./NNS 
+A./DT detail-oriented./JJ individual./NN 
+Previous./JJ quality./NN assurance./NN experience./NN would./MD be./VB an./DT asset./NN 

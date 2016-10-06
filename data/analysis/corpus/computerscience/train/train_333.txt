@@ -1,0 +1,31 @@
+Summary./JJ 
+Health./NNP Canada./NNP is./VBZ currently./RB seeking./VBG a./DT Data./NNP Scientist./NN to./TO support./VB the./DT HPFB./NNP 's./POS activities./NNS ;./: and./CC if./IN you./PRP meet./VBP the./DT requirements./NNS and./CC possess./VB the./DT desired./JJ skills./NNS and./CC experience./NN ,./, we./PRP encourage./VBP you./PRP to./TO apply./VB ../. 
+
+At./IN the./DT Health./NNP Products./NNPS and./CC Food./NNP Branch./NNP (./( HPFB./NNP )./) ,./, you./PRP will./MD become./VB a./DT part./NN of./IN the./DT Business./NNP Informatics./NNPS Division./NNP (./( BID./NNP )./) within./IN the./DT Resource./NNP Management./NNP and./CC Operations./NNP Directorate./NNP (./( RMOD./NNP )./) ../. Furthermore./RB ,./, you./PRP will./MD join./VB the./DT HPFB./NNP Big./NNP Data./NNP Reference./NNP Group./NNP ,./, where./WRB you./PRP will./MD have./VB the./DT opportunity./NN to./TO participate./VB in./IN the./DT identifying./NN ,./, processing./NN ,./, and./CC managing./NN of./IN large./JJ amounts./NNS of./IN data./NNS in./IN order./NN to./TO provide./VB significant./JJ insights./NNS that./WDT can./MD improve./VB regulatory./JJ operations./NNS ../. This./DT includes./VBZ confirming./VBG problem./NN and./CC policy./NN areas./NNS ,./, establishing./VBG the./DT computing./NN infrastructure./NN for./IN statistical./JJ processing./NN and./CC data./NN analysis./NN ,./, and./CC extracting./VBG insights./NNS ,./, creating./VBG and./CC optimizing./VBG statistical./JJ and/or./NN machine./NN learning./NN models./NNS ,./, and./CC basic./JJ descriptions./NNS of./IN the./DT data./NNS ../. 
+
+Responsibilities./NNS 
+-./: Combine./NN ,./, connect./NN ,./, and./CC draw./JJ information./NN from./IN large./JJ ,./, complex./JJ data./NN bases./NNS from./IN varying./VBG sources./NNS 
+-./: Build./NN and./CC optimize./VB algorithmic./JJ models./NNS using./VBG concepts./NNS from./IN statistics./NNS ,./, machine./NN learning./NN ,./, and./CC optimization./NN 
+-./: Perform./NN data./NNS mining./NN and./CC derive./JJ insights./NNS from./IN large./JJ volumes./NNS of./IN data./NNS 
+-./: Transform./NN and./CC convert./NN unstructured./JJ data./NNS sets./NNS into./IN structured./VBN data./NNS for./IN analysis./NN and./CC interpretation./NN of./IN trends./NNS 
+-./: Provide./NN advice./NN on./IN the./DT research./NN and./CC analysis./NN of./IN data./NNS and./CC information./NN ,./, and./CC asses./VBZ the./DT significance./NN and./CC implications./NNS to./TO program./NN and./CC policy./NN development./NN 
+-./: Work./NN with./IN a./DT team./NN to./TO deliver./VB insight./NN and./CC value./NN to./TO clients./NNS from./IN heterogeneous./JJ data./NNS sets./NNS with./IN solutions./NNS that./WDT integrate./VBP into./IN engineering./NN and./CC decision./NN making./NN processes./NNS 
+-./: Write./NN reports./NNS and./CC deliver./VB presentations./NNS on./IN results./NNS ,./, and./CC recommendations./NNS 
+-./: Build./VB algorithmic./JJ models./NNS with./IN tools./NNS such./JJ as./IN SAS./NNP ,./, R./NNP programming./NN and./CC SPSS./NNP ,./, to./TO display./VB results./NNS of./IN analysis./NN 
+
+Required./VBN Skills./NNS 
+Experience./NN :./: 
+-./: Experience./NN and/or./JJ knowledge./NN of./IN statistical./JJ techniques./NNS used./VBN in./IN analyzing./VBG and./CC summarizing./VBG data./NNS and./CC interpreting./VBG trends./NNS 
+-./: Experience./NN and/or./JJ knowledge./NN of./IN Big./NNP Data./NNP and./CC Statistical./NNP Models./NNP 
+-./: Experience./NN and/or./JJ training./NN in./IN quantitative./JJ methods./NNS ,./, such./JJ as./IN optimization./NN ,./, forecasting./NN ,./, time./NN series./NN analysis./NN ,./, etc./FW ../. 
+-./: Experience./NN building./NN algorithmic./JJ models./NNS with./IN tools./NNS such./JJ as./IN SAS./NNP ,./, R./NNP programming./NN and./CC SPSS./NNP 
+-./: Experience./NN using./VBG machine./NN learning./VBG techniques./NNS using./VBG clustering./NN ,./, regression./NN ,./, classification./NN ,./, graphical./JJ models./NNS ,./, mixture./NN models./NNS ,./, topic./NN models./NNS and./CC matrix./JJ factorization./NN 
+-./: Experience./NN and/or./JJ knowledge./NN of./IN analytical./JJ and./CC machine./NN learning./NN platforms./NNS 
+-./: Experience./NN in./IN data./NNS mining./VBG including./VBG data./NNS auditing./NN ,./, aggregation./NN ,./, validation./NN and./CC reconciliation./NN 
+
+Skills./NNS :./: 
+-./: Excellent./NN research./NN and./CC analytical./JJ skills./NNS 
+-./: Strong./NN written./VBN and./CC verbal./JJ communication./NN skills./NNS 
+-./: Strong./NN understanding./NN of./IN applied./JJ statistics./NNS ,./, data./NNS mining./NN ,./, and./CC machine./NN learning./NN structures./NNS ,./, theories./NNS ,./, principles./NNS ,./, and./CC techniques./NNS 
+-./: Able./NN to./TO manipulate./VB complex./JJ ,./, high./JJ volume./NN data./NNS from./IN varying./VBG sources./NNS 
+-./: Strong./JJ interpersonal./JJ and./CC collaborative./JJ skills./NNS 

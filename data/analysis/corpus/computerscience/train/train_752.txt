@@ -1,0 +1,24 @@
+The./DT Core./NNP Technology./NNP Division./NNP (./( CTD./NNP )./) of./IN Dell./NNP EMC./NNP offers./VBZ first-class./JJ products./NNS ,./, protecting./VBG customers-./JJ mission-critical./JJ enterprise./NN applications./NNS ../. The./DT products-./JJ intuitive./JJ user./NN interface./NN and./CC policy-based./JJ backup./NN engine./NN help./NN automate./VB and./CC simplify./VB the./DT entire./JJ backup./NN and./CC recovery./NN process./NN ../. Powerful./NNP snapshot./JJ management./NN provides./VBZ instant./JJ data./NNS protection./NN and./CC rapid./JJ recovery./NN ../. Deduplication./NN offers./VBZ breakthrough./IN space./NN and./CC time./NN savings./NNS 
+
+If./IN you./PRP thrive./VBP in./IN a./DT challenging./NN ,./, results-oriented./JJ and./CC rewarding./VBG environment./NN ,./, take./VB a./DT closer./JJR look./NN at./IN Dell./NNP EMC./NNP ../. We./PRP want./VBP to./TO talk./VB to./TO candidates./NNS interested./JJ in./IN a./DT co-op./JJ term./NN as./IN a./DT Software./NNP Developer./NNP with./IN the./DT CTD./NNP division./NN of./IN Dell./NNP EMC./NNP ,./, located./VBN in./IN our./PRP$ Burlington./NNP ,./, Canada./NNP facility./NN ../. 
+
+Position./NN Summary./NNP 
+Development./NNP of./IN the./DT automation./NN framework./NN used./VBN to./TO coordinate./VB both./DT Windows./NNP and./CC UNIX./NNP machines./NNS in./IN the./DT testing./NN of./IN company./NN produced./VBN software./NN ../. The./DT tested./JJ software./NN being./VBG used./VBN for./IN the./DT backup./NN and./CC restore./NN of./IN Enterprise-level./NNP applications./NNS and./CC databases./NNS ,./, such./JJ as./IN DB2./NNP ,./, Informix./NNP ,./, Lotus./NNP ,./, Oracle./NNP ,./, SAP./NNP and./CC Sybase./NNP ../. 
+
+Key./NNP activities./NNS may./MD include./VB :./: 
+Implementing./VBG new./JJ features./NNS within./IN the./DT framework./NN 
+Making./VBG improvements./NNS to./TO the./DT already./RB existing./VBG code./NN base./NN 
+Participate./NNP in./IN team./NN meetings./NNS ,./, discussing./VBG possible./JJ improvements./NNS 
+Unit./NNP test./NN ,./, debug./NN and./CC correct./NN defects./NNS 
+Configuring./VBG and./CC testing./VBG development./NN lab./NN computers./NNS and./CC software./NN 
+
+Skills/Experience./NN Required./VBN :./: 
+Strong./JJ academic./JJ record./NN is./VBZ a./DT must./MD ../. 
+Good./JJ knowledge./NN of./IN some./DT of./IN the./DT following./NN :./: HTML./NNP ,./, JavaScript./NNP ,./, Perl./NNP ,./, shell./NN scripting./NN (./( ksh./UH ,./, bash./NN )./) ,./, batch./VBP file./NN scripting./NN ,./, GUI./NNP design./NN &./CC development./NN ../. 
+Working./VBG knowledge./NN of./IN the./DT command./NN line./NN ,./, threads./NNS ,./, and./CC common./JJ programming./NN practices./NNS ../. 
+Familiarity./NN with./IN Windows./NNP and./CC UNIX./NNP (./( Solaris./NNP ,./, HP-UX./NNP ,./, AIX./NNP ,./, and./CC Linux./NNP )./) is./VBZ desired./VBN ../. 
+Familiarity./NN with./IN revision./NN control./NN software./NN (./( SVN./NNP ,./, Perforce./NNP ,./, Git./NNP )./) and./CC virtualization./NN software./NN (./( VMware./NNP )./) is./VBZ desired./VBN ../. 
+Other./JJ important./JJ skills./NNS include./VBP :./: good./JJ written./VBN and./CC verbal./JJ communication./NN skills./NNS ;./: enthusiasm./NN to./TO learn./VB and./CC to./TO make./VB and./CC meet./VB objectives./NNS ;./: motivated./VBN ,./, effective./JJ ,./, and./CC responsible./JJ team./NN player./NN ;./: good./JJ problem./NN solving./VBG capabilities./NNS ;./: good./JJ analytical./JJ skills./NNS ../. 
+
+Education./NN 
+Student./NN working./VBG towards./NNS a./DT Bachelor./NNP in./IN Computer./NNP Science./NNP ,./, Computer./NNP Engineering./NNP or./CC an./DT equivalent./JJ offering./NN of./IN programming./VBG experience./NN and./CC knowledge./NN ../. 

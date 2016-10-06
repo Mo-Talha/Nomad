@@ -1,0 +1,34 @@
+This./DT position./NN is./VBZ limited./VBN to./TO students./NNS that./WDT are./VBP registered./VBN in./IN a./DT recognized./VBN Co-op./NN or./CC internship./JJ program./NN at./IN a./DT Canadian./JJ College./NNP or./CC University./NNP ../. 
+
+Nokia./NNP is./VBZ a./DT global./JJ leader./NN in./IN the./DT technologies./NNS that./WDT connect./VBP people./NNS and./CC things./NNS ../. With./IN state-of-the-art./JJ software./NN ,./, hardware./NN and./CC services./NNS for./IN any./DT type./NN of./IN network./NN ,./, Nokia./NNP is./VBZ uniquely./RB positioned./VBN to./TO help./VB communication./NN service./NN providers./NNS ,./, governments./NNS ,./, and./CC large./JJ enterprises./NNS deliver./RB on./IN the./DT promise./NN of./IN 5G./CD ,./, the./DT Cloud./NNP and./CC the./DT Internet./NNP of./IN Things./NNP ../. Serving./VBG customers./NNS in./IN over./IN 100./CD countries./NNS ,./, our./PRP$ research./NN scientists./NNS and./CC engineers./NNS continue./VBP to./TO invent./VB and./CC accelerate./VB new./JJ technologies./NNS that./WDT will./MD increasingly./RB transform./VB the./DT way./NN people./NNS and./CC things./NNS communicate./NN and./CC connect./NN ../. 
+
+The./DT Network./NNP Management./NNP Business./NNP Unit./NNP in./IN Nokia./NNP 's./POS IP./NNP Division./NNP is./VBZ recruiting./VBG highly./RB motivated./VBN Software./NNP Developers./NNP ../. Our./PRP$ Team./NN develops./VBZ software./NN solutions./NNS to./TO allow./VB our./PRP$ Customers./NNS to./TO manage./VB their./PRP$ networks./NNS :./: 
+-./: The./DT 5620./CD Service./NNP Aware./NNP Manager./NNP (./( SAM./NNP )./) ,./, proven./RB with./IN more./JJR than./IN 600./CD deployments./NNS globally./RB ,./, delivers./NNS powerful./JJ capabilities./NNS that./WDT simplify./VBP operations./NNS of./IN IP./NNP core./NN ,./, Wireless./NNP ,./, and./CC integrated./JJ IP/optical./NNP networks./NNS ../. It./PRP is./VBZ used./VBN by./IN the./DT world./NN 's./POS largest./JJS companies./NNS to./TO manage./VB the./DT Internet./NNP ,./, cellular./JJ networks./NNS and./CC data./NN centers./NNS ../. 
+
+Our./PRP$ products./NNS are./VBP built./VBN using./VBG various./JJ technologies./NNS ,./, including./VBG :./: 
+-./: Java./NN ,./, Tomcat./NNP ,./, JBoss./NNP 
+-./: Oracle./NN 10g./CD /./NN 11g./CD 
+-./: Web./NN technologies./NNS (./( HTML./NNP ,./, Javascript./NNP ,./, SOAP/XML./NNP )./) 
+-./: Linux./NN (./( Ubuntu./NNP ,./, Red./NNP Hat./NNP )./) ,./, 
+-./: Tools./NNS :./: Git./NNP ,./, Gradle./NNP ,./, Artifactory./NNP ,./, Jira./NNP 
+
+As./IN a./DT Software./NNP Developer./NNP ,./, you./PRP will./MD be./VB working./VBG within./IN a./DT small./JJ integrated./JJ team./NN contributing./VBG features./NNS to./TO our./PRP$ core./NN software./NN product./NN in./IN an./DT Agile./NNP environment./NN ../. The./DT successful./JJ candidate./NN 's./POS responsibilities./NNS will./MD include./VB :./: 
+-./: Designing./NN and./CC implementing./NN features./NNS and./CC enhancements./NNS for./IN our./PRP$ Network./NNP Management./NNP apps./NN ../. 
+-./: Working./NN in./IN a./DT team-based./JJ Agile./NNP Environment./NNP ;./: collaborate./NN with./IN Developers./NNP ,./, Testers./NNP ,./, and./CC Product./NNP Management./NNP to./TO refine./VB requirements./NNS ,./, develop./VB ,./, and./CC test./VB our./PRP$ solutions./NNS ../. 
+
+DESIRED./NNP SKILLS./NNP 
+-./: Programming./VBG experience./NN in./IN Java./NNP ,./, Java./NNP Swing./NNP and./CC web./JJ GUIs./NNP ../. 
+-./: Demonstrated./VBD ability./NN to./TO learn./VB quickly./RB and./CC to./TO work./VB in./IN a./DT fast./NN paced./VBN ,./, innovative./JJ environment./NN ../. 
+-./: Object./NN Oriented./VBN Analysis./NNP and./CC Design./NNP ../. 
+-./: Knowledge./NN of./IN relational./JJ databases./NNS ../. 
+-./: Strong./JJ interpersonal./JJ and./CC communication./NN skills./NNS are./VBP required./VBN ,./, both./DT written./VBN and./CC verbal./JJ ../. 
+
+ADDITIONAL./NNP ASSETS./NNP 
+-./: Network./NN management./NN concepts./NNS and./CC basic./JJ protocols./NNS (./( e.g./NN ../. SNMP./NNP ,./, TL1./NNP ,./, Corba./NNP ,./, Netconf./NNP )./) ../. 
+-./: Experience./NN with./IN J2EE./NNP Application./NNP Server./NNP environment./NN 
+-./: Knowledge./NN in./IN IP./NNP networking./NN ,./, familiar./JJ with./IN networking./VBG concepts./NNS such./JJ as./IN Routing./VBG Protocols./NNP (./( ie./JJ OSPF./NNP ,./, BGP./NNP )./) ,./, MPLS./NNP ,./, IP./NNP VPN./NNP ,./, VLAN./NNP ,./, VLL/VPLS./NNP 
+-./: Knowledge./NN in./IN Optical./NNP networking./NN ,./, familiar./JJ with./IN networking./VBG concepts./NNS such./JJ as./IN DWDM./NNP ,./, OTN./NNP ,./, GMPLS./NNP ,./, ODU./NNP ../. 
+-./: Prior./NN and./CC demonstrated./VBD experience./NN in./IN a./DT Software./NNP Development./NNP role./NN 
+-./: Familiar./NN with./IN UNIX./NNP or./CC Linux./NNP 
+
+We./PRP are./VBP an./DT Equal./JJ Opportunity./NNP Employer./NNP and./CC do./VBP not./RB discriminate./VB against./IN any./DT employee./NN or./CC applicant./NN for./IN employment./NN because./IN of./IN race./NN ,./, color./NN ,./, sex./NN ,./, age./NN ,./, national./JJ origin./NN ,./, religion./NN ,./, sexual./JJ orientation./NN ,./, gender./NN identity./NN ,./, status./NN as./IN a./DT veteran./NN ,./, and./CC basis./NN of./IN disability./NN or./CC any./DT other./JJ federal./JJ ,./, state./NN or./CC local./JJ protected./JJ class./NN ../. 

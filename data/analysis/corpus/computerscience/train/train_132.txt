@@ -1,0 +1,18 @@
+This./DT is./VBZ a./DT training./NN opportunity./NN to./TO learn./VB about./IN medical./JJ device./NN development./NN ;./: namely./RB software./NN medical./JJ device./NN development./NN ../. This./DT purpose./NN of./IN this./DT position./NN is./VBZ to./TO assist./VB software./NN developers./NNS in./IN the./DT design./NN and./CC implementation./NN of./IN software./NN ../. 
+
+Responsibilities./NNS 
+-Assist./NN Software./NNP Developers./NNP in./IN the./DT design./NN and./CC implementation./NN of./IN software./NN ../. 
+-Assist./NN with./IN the./DT design./NN and./CC implementation./NN of./IN medical./JJ imaging./NN related./JJ tools./NNS (./( i.e./NN ../. surface./NN reconstruction./NN ,./, registration./NN ,./, and./CC segmentation./NN )./) ../. 
+-Provide./RB detailed./JJ documentation./NN of./IN design./NN and./CC implementation./NN of./IN software./NN ../. 
+-Testing./VBG of./IN new./JJ and./CC existing./JJ products./NNS ,./, including./VBG working./VBG directly./RB with./IN hardware./NN and./CC software./NN development./NN engineers./NNS ,./, developing./VBG test./NN plans./NNS ,./, executing./VBG tests./NNS and./CC documenting./VBG results./NNS ../. 
+
+Required./VBN Skills./NNS 
+-Software./NN development./NN experience./NN in./IN C./NNP #./# and./CC C++./NNP (./( C++/CLI./NNP experience./NN also./RB preferred./VBN )./) ../. 
+-Experience./NN with./IN visualization./NN software./NN tools./NNS such./JJ as./IN VTK./NNP and./CC OpenGL./NNP ,./, as./RB well./RB as./IN general./JJ graphics./NNS and./CC 3D./CD mathematics./NNS techniques./NNS ../. 
+-Strong./JJ verbal./JJ and./CC written./VBN communication./NN skills./NNS ../. 
+-Ability./NN to./TO work./VB in./IN a./DT multidisciplinary./JJ team./NN independently./RB with./IN minimal./JJ supervision./NN and./CC manage./NN deadlines./NNS ../. 
+-Willingness./NN to./TO accept./VB multiple./JJ tasks./NNS supporting./VBG product./NN development./NN engineers./NNS ../. 
+-Accurate./NN and./CC detail-oriented./JJ with./IN a./DT high./JJ level./NN of./IN initiative./NN ../. 
+-Ability./NN to./TO learn./VB advanced./JJ technical./JJ concepts./NNS ../. 
+-Active./JJ listening./NN and./CC ability./NN to./TO work./VB as./IN part./NN of./IN a./DT team./NN ../. 
+-Commitment./NN to./TO high./JJ quality./NN work./NN ../. 

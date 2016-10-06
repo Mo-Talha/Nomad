@@ -1,0 +1,33 @@
+_______________________________________________________________________./NN 
+
+Job./NNP Summary./NNP 
+As./IN a./DT Software./NNP Web./NNP Tools./NNP Engineer./NNP ,./, you./PRP 'll./MD be./VB responsible./JJ for./IN creating./VBG web./NN applications./NNS to./TO support./VB Reliability./NNP Engineering./NNP ../. The./DT web./NN tools./VBZ you./PRP make./VBP will./MD generate./VB and./CC visualize./VB data./NNS that./WDT is./VBZ reviewed./VBN at./IN an./DT executive./JJ level./NN and./CC has./VBZ an./DT impact./NN on./IN the./DT design./NN of./IN future./JJ products./NNS ../. You./PRP 'll./MD propose./VB software./NN designs./NNS ,./, follow./VBP through./IN with./IN implementation./NN ,./, and./CC iterate./VB in./IN response./NN to./TO feedback./VB ../. This./DT is./VBZ a./DT hands-on./JJ work./NN environment./NN where./WRB engineers./NNS are./VBP expected./VBN to./TO be./VB self-motivated./JJ ,./, proficient./JJ with./IN a./DT wide./JJ range./NN of./IN technologies./NNS ,./, and./CC support./VB several./JJ projects./NNS concurrently./RB ../. 
+
+Key./NNP Responsibilities./NNS 
+This./DT engineer./NN will./MD be./VB responsible./JJ for./IN the./DT following./NN :./: 
+-Compiling./VBG and./CC presenting./VBG analytical./JJ data./NNS into./IN web-based./JJ reports./NNS ../. 
+-Designing./VBG and./CC developing./VBG front-end./JJ and./CC back-end./JJ web./NN application./NN features./NNS ../. 
+-Modifying./VBG and./CC optimizing./VBG SQL./NNP queries./NNS and./CC database./NN schema./NN ../. 
+-Deploying./VBG and./CC supporting./VBG web./NN applications./NNS on./IN Linux./NNP environments./NNS ../. 
+-Create./NN data./NNS analysis/visualization./NN tools./NNS to./TO monitor./VB progress./NN of./IN remote./JJ testbeds./NNS ../. 
+
+Key./JJ Qualifications./NNS :./: 
+A./DT strong./JJ candidate./NN will./MD have./VB :./: 
+-Strong./JJ experience./NN with./IN Ruby./NNP on./IN Rails./NNP with./IN an./DT emphasis./NN on./IN solid./JJ object-oriented./JJ design./NN 
+-Experience./NN with./IN RoR./NNP TDD./NNP (./( e.g./NN ../. RSpec./NNP )./) 
+-Experience./NN with./IN HTML5./NNP ,./, CSS3./NNP ,./, and./CC JavaScript./NNP 
+-Experience./NN with./IN RESTful./NNP Web./NNP Service./NNP APIs./NNP 
+-Experience./NN optimizing./VBG SQL./NNP (./( MySQL/Postgres./NNP )./) queries./NNS and./CC database./NN schema./NN 
+-Experience./NN with./IN shell./NN scripting./VBG (./( Python./NNP ,./, Ruby./NNP ,./, Bash./NNP ,./, etc./FW ../. )./) 
+-Experience./NN with./IN Ember.js./NNP is./VBZ a./DT plus./JJ 
+-Experience./NN with./IN using./VBG Git./NNP 
+-Strong./JJ nix./RB server./JJ administration./NN skills./NNS 
+-Strong./JJ analytical./JJ and./CC problem./NN solving./NN skills./NNS 
+-Effective./JJ communication./NN skills./NNS 
+-Passion./NN for./IN quality./NN and./CC attention./NN to./TO detail./VB 
+
+Pursuing./VBG a./DT BS./NNP or./CC MS./NNP in./IN CS/CompE/EE./NNP or./CC relevant./JJ work./NN experience./NN 
+
+Apple./NNP is./VBZ an./DT Equal./JJ Employment./NNP Opportunity./NNP Employer./NNP that./WDT is./VBZ committed./VBN to./TO inclusion./NN and./CC diversity./NN ../. We./PRP also./RB take./VBP affirmative./JJ action./NN to./TO offer./VB employment./NN and./CC advancement./NN opportunities./NNS to./TO all./DT applicants./NNS ,./, including./VBG minorities./NNS ,./, women./NNS ,./, protected./VBD veterans./NNS ,./, and./CC individuals./NNS with./IN disabilities./NNS ../. 
+
+This./DT job./NN is./VBZ located./VBN in./IN Cupertino./NNP ,./, CA./NNP and./CC offers./VBZ competitive./JJ benefits./NNS including./VBG corporate./JJ housing./NN OR./NNP $./$ 1000./CD monthly./JJ rent./NN stipend./NN ,./, paid./VBD travel./NN expenses./NNS to./TO and./CC from./IN Waterloo./NNP and./CC substantial./JJ discounts./NNS on./IN Apple./NNP products./NNS ../. 

@@ -1,0 +1,69 @@
+Programmer./NNP Analyst./NNP Co-op./NNP -./: Frontier./NNP -./: Jan2017Co-op57./NN 
+
+Interested./JJ in./IN being./VBG a./DT part./NN of./IN a./DT team./NN that./WDT is./VBZ leading./VBG the./DT evolution./NN of./IN retail./JJ in./IN Canada./NNP ?./. 
+
+Embracing./NN and./CC driving./VBG change./NN is./VBZ critical./JJ to./TO Canadian./JJ Tire./NNP './POS success./NN ../. The./DT complexity./NN and./CC rate./NN at./IN which./WDT the./DT retail./JJ industry./NN is./VBZ transforming./VBG has./VBZ increased./VBN exponentially./RB in./IN recent./JJ years./NNS and./CC we./PRP are./VBP committed./VBN to./TO being./VBG a./DT leader./NN in./IN the./DT industry./NN ../. As./IN such./JJ we./PRP are./VBP relentlessly./RB focused./VBN on./IN innovating./VBG at./IN every./DT level./NN of./IN our./PRP$ business./NN ,./, investing./VBG in./IN new./JJ technologies./NNS and./CC doubling./VBG down./RP on./IN the./DT best./JJS talent./NN to./TO drive./VB the./DT company./NN forward./RB ../. It./PRP is./VBZ an./DT especially./RB exciting./JJ time./NN to./TO join./VB Canadian./JJ Tire./NNP ../. 
+
+Our./PRP$ IT./NNP team./NN plays./VBZ a./DT critical./JJ role./NN in./IN our./PRP$ evolution./NN ,./, specifically./RB as./IN we./PRP transition./VBP to./TO an./DT omni-retailer./NN where./WRB digital./JJ complements./NNS the./DT physical./JJ ../. Our./PRP$ commitment./NN to./TO being./VBG a./DT world-class./JJ digital./JJ organization./NN is./VBZ evident./JJ in./IN how./WRB we./PRP are./VBP using./VBG cutting-edge./NN technologies./NNS to./TO bring./VB our./PRP$ digital./JJ strategy./NN to./TO life./NN in-store./RB ,./, online./NN and./CC on./IN your./PRP$ mobile./JJ devices./NNS ,./, ultimately./RB improving./VBG customer./NN experiences./NNS ,./, driving./VBG traffic./NN ,./, and./CC boosting./VBG loyalty./NN ../. 
+
+What./WP You'l./VBZ Do./VBP 
+The./DT mandate./NN of./IN the./DT Frontier./NNP program./NN is./VBZ to./TO `modernize'Equity./NNP './POS (./( store./NN operations./NNS legacy./NN system./NN )./) underlying./VBG technology./NN foundation./NN without./IN introducing./VBG any./DT major./JJ functional./JJ changes./NNS ../. `Rewrite'all./VB the./DT components./NNS with./IN the./DT exception./NN of./IN obsolete./JJ functions./NNS and./CC replace./VB some./DT functions./NNS with./IN new./JJ software./NN engines./NNS (./( i.e./NN ../. signage./NN ,./, reporting./NN ,./, search./NN ,./, security./NN )./) ../. 
+
+The./DT Frontier./NNP team./NN consists./VBZ of./IN approximately./RB 180./CD people./NNS ,./, who./WP are./VBP split./VBN across./IN many./JJ teams./NNS 'onshore./POS and./CC offshore./RB :./: Business./NN Analysts./NNS ,./, Programmer./NNP Analysts./NNS ,./, Quality./NNP Assurance./NNP Analysts./NNS ,./, Solution./NNP Architects./NNP ,./, Planners'These./NNP teams./NNS work./VBP together./RB to./TO deliver./VB new./JJ capabilities./NNS to./TO the./DT Canadian./NNP Tire./NNP Retail./NNP environment./NN ,./, in./IN addition./NN to./TO provide./VB expert./JJ level./NN support./NN to./TO the./DT sustaining./VBG organization./NN ,./, focusing./VBG on./IN the./DT improvement./NN of./IN current./JJ state./NN business./NN practices./NNS ../. This./DT type./NN of./IN work./NN includes./VBZ stakeholder./JJR analyses./NNS ,./, business./NN requirements./NNS gathering./NN and./CC documentation./NN ,./, process./NN mapping./NN ,./, and./CC the./DT formulation./NN of./IN technical./JJ specifications./NNS 'followed./VBD up./RP by./IN development./NN /./NN coding./NN ,./, testing./VBG ,./, implementation./NN and./CC ongoing./JJ support./NN ../. 
+
+Create./NNP and./CC deploy./JJ dynamic./JJ technical./JJ solutions./NNS according./VBG to./TO CTC./NNP standards./NNS 
+
+Use./NNP technical./JJ skill./NN set./VBN to./TO provide./VB ad./NN hoc./NN solutions./NNS to./TO ongoing./VBG business./NN challenges./NNS 
+
+Review./NNP code./NN for./IN obsolete./JJ objects./NNS and./CC follow./VB defined./JJ process./NN to./TO remove./VB them./PRP 
+
+Who./WP You./PRP Are./VBP 
+We./PRP are./VBP looking./VBG for./IN talented./JJ individuals./NNS who./WP :./: 
+
+thrive./JJ solving./VBG problems./NNS and./CC are./VBP able./JJ to./TO balance./VB and./CC prioritize./VB activities./NNS 
+
+drive./JJ innovation./NN with./IN their./PRP$ `think./NN outside./IN of./IN the./DT box'mindset./NN 
+
+take./VB initiative./NN and./CC are./VBP able./JJ to./TO successfully./RB manage./VB projects./NNS 
+
+build./VB relationships./NNS easily./RB ,./, and./CC are./VBP collaborative./JJ team./NN players./NNS with./IN strong./JJ communication./NN skills./NNS 
+
+What./WP You'e./VBZ Done./NN 
+Second./JJ year./NN post-secondary./JJ education./NN in./IN computer./NN science./NN or./CC a./DT related./JJ discipline./NN 
+
+Strong./JJ communication./NN and./CC analysis./NN skills./NNS 
+
+Ability./NN to./TO operate./VB effectively./RB in./IN a./DT fast./NN paced./JJ environment./NN ,./, learning./VBG quickly./RB &./CC delivering./VBG results./NNS 
+
+Quick./NNP learner./NN 
+
+Analytical./JJ problem-solver./NN 
+
+Familiar./NNP with./IN MS./NNP office./NN (./( Work./NNP ,./, Excel./NNP ,./, etc./NN )./) 
+
+(./( AS/400./NNP environment./NN ,./, TurnOver./NNP ,./, Probe/Abstract./NNP -./: will./MD be./VB trained./VBN on./IN these./DT )./) 
+
+JAVA./NNP knowledge./NN and./CC general./JJ system./NN development./NN experience./NN 
+
+Assets./NNS 
+
+Specific./JJ technology./NN background./NN in./IN C./NNP #./# (./( 2.0./CD and./CC 4.0./CD )./) and./CC SQL./NNP Server./NNP 2005/2008./CD 
+
+ETL./NNP experience./NN ;./: specific./JJ technology./NN background./NN in./IN SQL./NNP Server./NNP Integration./NNP Services./NNP (./( SSIS./NNP )./) 
+
+Source./NN control./NN and./CC IT./NNP change./VB management./NN experience./NN 
+
+Business./NN Intelligence./NNP integration./NN (./( i.e./NN ../. Crystal./NNP Reports./NNPS )./) 
+
+Prior./NNP Supply./NNP Chain./NNP experience./NN +/or./NNP Prior./NNP Project./NNP Management./NNP experience./NN 
+
+Why./WRB Us./NN 
+Canadian./JJ Tire./NNP is./VBZ one./CD of./IN Canada./NNP './POS most./RBS iconic./JJ and./CC diversified./JJ companies./NNS ../. Our./PRP$ culture./NN and./CC values./NNS uphold./VBP our./PRP$ pledge./NN to./TO sustainable./JJ practices./NNS ,./, and./CC commitment./NN to./TO our./PRP$ local./JJ communities./NNS through./IN Jumpstart./NNP and./CC Soldier./NNP On./IN can./MD not./RB be./VB beat./NN ../. 
+
+Launch./VB your./PRP$ career./NN at./IN Canada./NNP './POS most./RBS trusted./JJ and./CC innovative./JJ retailer./NN ../. 
+
+This./DT position./NN is./VBZ subject./JJ to./TO the./DT successful./JJ completion./NN of./IN the./DT following./JJ Pre-employment./JJ conditions./NNS :./: 
+Reference./NN Checks./NNS 
+
+Criminal./JJ Background./NNP Checks./NNP 
+Canadian./JJ Tire./NNP is./VBZ an./DT equal./JJ opportunity./NN employer./NN ../. We./PRP are./VBP committed./VBN to./TO inclusive./VB ,./, barrier-free./JJ recruitment./NN and./CC selection./NN processes./NNS and./CC work./NN environments./NNS ../. If./IN you./PRP are./VBP contacted./VBN for./IN a./DT job./NN opportunity./NN ,./, please./VB advise./VB us./PRP of./IN any./DT accommodations./NNS needed./VBN to./TO ensure./VB you./PRP have./VBP access./NN to./TO a./DT fair./JJ and./CC equitable./JJ process./NN ../. Any./DT information./NN received./VBD relating./VBG to./TO accommodation./VB will./MD be./VB addressed./VBN confidentially./RB ../. 

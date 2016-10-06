@@ -1,0 +1,33 @@
+Position./NN :./: IT./JJ Solutions./NNP Tester./NNP 
+Reports./NNS To./TO :./: Manager./NNP ,./, IT./NNP 
+
+Maple./NNP Leaf./NNP Sports./NNP +./NNP Entertainment./NNP is./VBZ one./CD of./IN North./NNP America./NNP 's./POS leading./JJ providers./NNS of./IN unimaginable./JJ experiences./NNS ../. We./PRP are./VBP the./DT parent./NN company./NN of./IN the./DT Toronto./NNP Maple./NNP Leafs./NNP (./( NHL./NNP )./) ,./, Toronto./NNP Raptors./NNP (./( NBA./NNP )./) ,./, Toronto./NNP FC./NNP (./( MLS./NNP )./) ,./, and./CC Toronto./NNP Marlies./NNP (./( AHL./NNP )./) ../. Our./PRP$ talented./JJ group./NN of./IN professionals./NNS are./VBP accountable./JJ for./IN delivering./VBG everything./NN our./PRP$ teams./NNS need./VBP to./TO win./VB ../. At./IN the./DT end./NN of./IN the./DT day./NN ,./, our./PRP$ mission./NN is./VBZ simple./JJ :./: bring./VB the./DT world./NN to./TO its./PRP$ feet./NNS ../. 
+
+Position./NN Summary./NN :./: 
+
+Solutions./NNS to./TO be./VB tested./VBN include./VBP a./DT variety./NN of./IN software./NN and./CC applications./NNS ,./, developed./VBD both./DT in-house./NN and./CC by./IN external./JJ vendors./NNS ,./, which./WDT are./VBP being./VBG implemented./VBN to./TO optimize./VB how./WRB business./NN is./VBZ conducted./VBN at./IN MLSE./NNP ../. The./DT IT./NNP Solutions./NNP Tester./NNP will./MD work./VB closely./RB with./IN project./NN QC./NNP Leads./NNP ,./, Business./NNP Analysts./NNS ,./, and./CC Developers./NNP to./TO ensure./VB the./DT solutions./NNS fulfill./VBP business./NN requirements./NNS and./CC meet./VB established./JJ standards./NNS of./IN quality./NN ../. 
+
+Responsibilities./NNS :./: 
+
+o./JJ Involvement./NNP in./IN test./NN planning./NN to./TO ensure./VB thorough./IN understanding./NN of./IN scope./NN and./CC strategy./NN of./IN testing./VBG 
+o./NN Writing./VBG test./NN cases./NNS and./CC scripts./NNS derived./VBN from./IN use./NN cases./NNS ,./, functional./JJ and./CC non-functional./JJ requirements./NNS ,./, and./CC design./NN documents./NNS 
+o./JJ Track./NNP test./NN cases./NNS and./CC results./NNS in./IN Team./NNP Foundation./NNP Server./NNP (./( TFS./NNP )./) -./: similar./JJ to./TO JIRA./VB 
+o./JJ Report./NNP on./IN defects./NNS found./VBN during./IN testing./VBG in./IN TFS./NNP 
+o./JJ Execute./NNP systems./NNS and./CC integration./NN testing./VBG -./: includes./VBZ :./: smoke./NN testing./VBG ,./, end-to-end./JJ ,./, integrations./NNS ,./, performance./NN ,./, regression./NN ,./, etc./FW ../. 
+o./NN Draft./NNP reports./NNS and./CC communications./NNS regarding./VBG test./NN statuses./NNS and./CC results./NNS 
+o./JJ Assist./NNP in./IN coordinating./VBG QC./NNP activities./NNS 
+
+Position./NN Requirements./NNS :./: 
+
+o./IN A./NNP Bachelor./NNP 's./POS degree./NN (./( or./CC working./VBG towards./NNS )./) preferably./RB in./IN IT./NNP ,./, Computer./NNP Science./NNP ,./, Engineering./NNP ,./, or./CC Commerce./NNP 
+o./IN Understanding./NNP of./IN System./NNP Development./NNP Life./NNP Cycle./NNP (./( SDLC./NNP )./) and./CC QC./NNP methodologies./NNS an./DT asset./NN 
+o./JJ Experience./NN with./IN SQL./NNP databases./VBZ an./DT asset./NN 
+o./NN Strong./NNP analytical./JJ and./CC problem./NN solving./NN skills./NNS 
+o./NN Strong./NNP verbal./NN and./CC written./VBN communication./NN skills./NNS with./IN the./DT ability./NN to./TO liaise./VB with./IN a./DT variety./NN of./IN stakeholders./NNS 
+o./JJ Ability./NNP to./TO work./VB independently./RB as./RB well./RB as./IN with./IN a./DT team./NN 
+o./RB Good./JJ organizational./NN and./CC time./NN management./NN skills./NNS 
+o./JJ Thoroughness./NNP and./CC attention./NN to./TO detail./VB 
+o./JJ Proficient./NNP with./IN Microsoft./NNP Office./NNP products./NNS 
+
+Instructions./NNS to./TO Apply./VB :./: 
+-./: Interested./JJ applicants./NNS are./VBP asked./VBN to./TO visit./VB http./NN :./: //chk.tbe.taleo.net/chk06/ats/careers/requisition.jsp./NN ?./. org=MAPLELEAFSPORTS./NN &./CC cws=1./NN &./CC rid=3083./NN to./TO apply./VB ../. 

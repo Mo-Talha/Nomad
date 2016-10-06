@@ -1,0 +1,36 @@
+We./PRP are./VBP looking./VBG for./IN a./DT Front-end./JJ Software./NNP Development./NNP Co-op./NNP to./TO join./VB our./PRP$ Publisher./NN Services./NNPS team./NN ../. In./IN this./DT role./NN ,./, you./PRP will./MD be./VB responsible./JJ for./IN integrating./VBG Polar./NNP 's./POS platform./NN on./IN our./PRP$ customer./NN 's./POS websites./NNS by./IN writing./VBG front-end./JJ code./NN using./VBG JavaScript./NNP ,./, HTML./NNP and./CC CSS./NNP ../. You./PRP will./MD use./VB Polar./NNP 's./POS JavaScript./NNP API./NNP ,./, jQuery./NN and./CC modern./JJ web./NN development./NN tools./NNS to./TO write./VB high./JJ quality./NN software./NN that./WDT will./MD run./VB on./IN top-tier./JJ media./NNS companies./NNS './POS desktop./NN and./CC mobile./JJ sites./NNS ../. Previous./JJ co-ops./NNS in./IN this./DT position./NN have./VBP written./VBN code./NN for./IN major./JJ publishers./NNS including./VBG the./DT likes./NNS of./IN Huffington./NNP Post./NNP ,./, TechCrunch./NNP ,./, Engadget./NNP ,./, The./DT Economist./NNP ,./, GQ./NNP ,./, Vogue./NNP ,./, Telegraph./NNP and./CC National./NNP Post./NNP ../. 
+
+You./PRP will./MD also./RB be./VB involved./VBN in./IN building./VBG demo./NN scripts./NNS and./CC integrations./NNS for./IN new./JJ product./NN features./VBZ that./WDT highlight./VBD the./DT capabilities./NNS of./IN the./DT platform./NN for./IN prospective./JJ customers./NNS ../. You./PRP will./MD work./VB very./RB closely./RB with./IN Polar./NNP 's./POS Publisher./NN Consultants./NNPS who./WP act./VBP as./IN a./DT technical./JJ liaison./NN for./IN the./DT customer./NN and./CC coordinate./VB integration./NN projects./NNS with./IN the./DT client./NN stakeholders./NNS ../. Publisher./NN Consultants./NNPS will./MD act./VB as./IN your./PRP$ mentor./NN providing./VBG day-to-day./JJ guidance./NN and./CC requirements./NNS for./IN integration./NN projects./NNS ../. 
+
+This./DT role./NN will./MD see./VB you./PRP :./: 
+-./: Write./VB high-quality./NN web./NN software./NN using./VBG JavaScript./NNP ,./, jQuery./NN framework./NN ,./, HTML./NNP and./CC CSS./NNP 
+-./: Design./NN and./CC implement./JJ new./JJ features/additions./NNS for./IN Polar./NNP 's./POS integration./NN tools./NNS and./CC infrastructure./NN 
+-./: Analyze./NN and./CC optimize./VB new./JJ and./CC current./JJ customers./NNS './POS implementations./NNS 
+-./: Troubleshoot./NN technical./JJ issues./NNS coming./VBG through./IN Customer./NNP Support./NNP channels./NNS and./CC resolve./VB or./CC escalate./VB them./PRP appropriately./RB ../. 
+
+Skills./NNP you./PRP 'll./MD use./VB and./CC improve./VB :./: 
+
+-./: Best./JJS practices./NNS of./IN web./NN software./NN development./NN 
+-./: Profiling./NN websites./NNS using./VBG modern./JJ web./NN development./NN tools./NNS to./TO optimize./VB and./CC troubleshoot./VB scripts./NNS 
+
+It./PRP 's./VBZ a./DT bonus./NN (./( but./CC not./RB a./DT requirement./NN )./) if./IN you./PRP 're./VBP already./RB familiar./JJ with./IN some./DT of./IN the./DT technologies./NNS and/or./VBP tools./IN we./PRP use./VBP every./DT day./NN :./: 
+
+-JavaScript./NN ,./, HTML./NNP ,./, CSS./NNP ,./, jQuery./NN 
+-Chrome./JJ Web./NNP Inspector./NNP 
+-Python./NN ,./, Django./NNP 
+-GitHub./NN ,./, Jira./NNP ,./, Zendesk./NNP 
+
+Why./WRB Polar./NNP ?./. 
+At./IN Polar./NNP ,./, we./PRP believe./VBP in./IN high./JJ quality./NN ,./, scalable./JJ and./CC beautiful./JJ software./NN ../. Great./NNP software./NN is./VBZ an./DT essential./JJ part./NN of./IN great./JJ media./NNS experiences./NNS and./CC great./JJ media./NNS businesses./NNS ../. 
+
+Polar./NNP 's./POS MediaVoice./NNP Platform./NNP enables./VBZ publishers./NNS to./TO build./VB a./DT scalable./JJ native./JJ advertising./NN business./NN that./WDT leverages./VBZ existing./VBG infrastructure./NN ,./, tools./NNS ,./, workflows./NNS ,./, and./CC processes./NNS ../. The./DT world./NN 's./POS largest./JJS publishers./NNS choose./VBP MediaVoice./NNP to./TO power./NN their./PRP$ native./JJ ads./NNS programs./NNS ../. Our./PRP$ customers./NNS include./VBP AOL./NNP ,./, The./DT Washington./NNP Post./NNP ,./, Associated./NNP Press./NNP ,./, Conde./NNP Nast./NNP ,./, Gannett./NNP ,./, News./NNP Corp./NNP ,./, The./DT Huffington./NNP Post./NNP ,./, The./DT Economist./NNP ,./, National./NNP Post./NNP and./CC The./DT Telegraph./NNP ../. 
+
+We./PRP 're./VBP an./DT agile./NN ,./, engineering./NN lead./JJ company./NN ../. We./PRP house./NN a./DT fun./NN ,./, dynamic./JJ ,./, and./CC innovative./JJ team./NN who./WP have./VBP gained./VBN a./DT well-deserved./JJ reputation./NN for./IN shipping./NN products./NNS ,./, features./NNS ,./, and./CC updates./NNS on./IN time./NN and./CC beyond./IN expectation./NN ../. 
+
+#./# LifeAtPolar./JJ 
+Our./PRP$ bright./NN ,./, big./JJ ,./, loft-style./JJ downtown./NN Toronto./NNP office./NN (./( a./DT block./NN from./IN Union./NNP Station./NNP )./) boasts./VBZ great./JJ natural./JJ light./NN and./CC views./NNS of./IN the./DT city./NN ,./, free./JJ snacks./NNS and./CC drinks./NNS ,./, a./DT kitchen./NN stocked./VBN with./IN breakfast./NN essentials./NNS ,./, and./CC an./DT espresso./JJ machine./NN to./TO help./VB wake./VB you./PRP up./RP in./IN the./DT morning./NN ../. To./TO help./VB you./PRP unwind./IN we./PRP 've./VBP got./VBN couches./NNS ,./, a./DT pool./NN table./NN ,./, a./DT ping-pong./JJ room./NN ,./, and./CC ample./JJ choice./NN in./IN seating./VBG arrangements./NNS ../. 
+
+Co-op./JJ Life./NNP At./IN Polar./NNP :./: 
+Co-op./JJ placements./NNS at./IN Polar./NNP are./VBP different./JJ ../. You./PRP don./VBP './'' do./VBP busy./JJ work./NN ,./, you./PRP do./VBP n't./RB grab./VB coffee./NN ;./: you./PRP learn./VBP ,./, you./PRP write./VBP code./NNS ,./, and./CC that./IN code./NN is./VBZ used./VBN :./: Your./PRP$ activity./NN actually./RB goes./VBZ into./IN production./NN ../. You./PRP are./VBP assigned./VBN a./DT peer/mentor./NN and./CC can./MD come./VB to./TO them./PRP with./IN any./DT questions./NNS you./PRP may./MD have./VB ../. 
+
+Read./VB more./RBR about./IN what./WP some./DT of./IN our./PRP$ previous./JJ Co-op./JJ students./NNS said./VBD about./IN working./VBG at./IN Polar./NNP :./: http./NN :./: //polar.me/blog/2014/11/every-co-op-should-consider-polar./JJ 

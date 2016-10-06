@@ -1,0 +1,17 @@
+Reminder./NN :./: Students./NNS are./VBP responsible./JJ for./IN ensuring./VBG they./PRP are./VBP eligible./JJ for./IN an./DT 8-month./JJ work./NN term./NN before./IN applying./VBG ../. Please./NNP discuss./VB your./PRP$ work/study./NN sequence./NN flexibility./NN with./IN your./PRP$ academic./JJ advisor./NN as./RB soon./RB as./IN possible./JJ ../. 
+
+POSITION./NNP SUMMARY./NNP 
+As./IN a./DT member./NN of./IN the./DT BlackBerry./NNP IT./NNP Applications./NNP Team./NNP ,./, the./DT successful./JJ student./NN will./MD have./VB the./DT opportunity./NN to./TO work./VB as./IN a./DT fully./RB contributing./JJ team./NN member./NN with./IN the./DT opportunity./NN to./TO directly./RB mentor./VB with./IN a./DT Senior./JJ Application./NNP Developer./NNP ../. In./IN addition./NN to./TO experiences./NNS gained./VBN from./IN working./VBG as./IN part./NN of./IN a./DT development./NN team./NN ,./, the./DT student./NN will./MD be./VB exposed./VBN to./TO enterprise./VB applications./NNS ,./, automation./NN and./CC other./JJ enterprise./NN tools./NNS during./IN their./PRP$ work./NN term./NN ../. While./IN this./DT role./NN offers./VBZ balanced./JJ proportions./NNS of./IN teamwork./NN along./IN with./IN individual./JJ work./NN ,./, ultimately./RB it./PRP will./MD be./VB strong./JJ personal./JJ initiative./NN ,./, accountability./NN and./CC independence./NN that./WDT will./MD lead./VB to./TO success./NN in./IN this./DT role./NN ../. 
+
+Location./NN :./: Waterloo./NN 
+Length./NNP of./IN Term./NNP :./: 8./CD months./NNS 
+
+RESPONSIBILITIES./NN 
+-./: Provide./NN tool./NN configuration./NN and./CC support./NN to./TO all./DT software./NN development./NN related./VBN enterprise./NN applications./NNS to./TO our./PRP$ R./NNP &./CC D./NNP developers./NNS and./CC across./NN BlackBerry./NNP as./IN whole./JJ ../. 
+-./: Learn./VB many./JJ industry./NN standard./NN applications./NNS related./VBN to./TO defect./VB management./NN ,./, Agile/Scrum./NNP ,./, project./NN management./NN ,./, source./NN control./NN ,./, test./NN management./NN etc./NN ../. 
+-./: Learn./NN and./CC participate./VB in./IN development./NN tasks./NNS on./IN internal./JJ self-service/./JJ automation/./NN mobile./JJ application./NN ,./, using./VBG PHP./NNP ,./, Java./NNP Script./NNP ,./, JSON./NNP ,./, Java./NNP ../. 
+
+SKILLS./NNP AND./CC QUALIFICATIONS./NNP 
+-./: Hands./NNS on./IN experience./NN with./IN Java./NNP &./CC .Net./NN 
+-./: Strong./NN communication./NN (./( fluent./JJ English./NNP written./VBN and./CC verbal./JJ )./) skills./NNS required./VBN 
+-./: Strong./JJ personal./JJ initiative./NN and./CC accountability./NN to./TO succeed./VB independently./RB as./IN a./DT part./NN of./IN a./DT larger./JJR team./NN 

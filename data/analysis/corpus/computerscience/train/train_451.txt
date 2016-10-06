@@ -1,0 +1,29 @@
+Locations./NNS :./: Ottawa./NNP ,./, Waterloo./NNP 
+Length./NNP of./IN Term./NNP :./: 4./CD Months./NNS 
+
+POSITION./NNP SUMMARY./NNP 
+As./IN students./NNS of./IN BlackBerry./NNP ,./, you./PRP will./MD play./VB an./DT important./JJ role./NN in./IN the./DT success./NN of./IN our./PRP$ business./NN ../. BlackBerry./NNP provides./VBZ you./PRP the./DT opportunity./NN to./TO be./VB amazing./JJ !./. We./PRP offer./VBP a./DT dynamic./JJ work./NN environment./NN where./WRB you./PRP are./VBP encouraged./VBN to./TO achieve./VB your./PRP$ highest./JJS potential./JJ ../. Each./DT of./IN our./PRP$ opportunities./NNS offers./VBZ meaningful./JJ ,./, hands-on./JJ experience./NN working./VBG alongside./RB industry./NN experts./NNS ../. 
+
+RESPONSIBILITIES./NN 
+-Integrate./NN Qualcomm./NNP and./CC Google./NNP releases./NNS and./CC drops./NNS from./IN other./JJ teams./NNS 
+-Perform./NN SCRUM./NNP tests./VBZ to./TO verify./VB the./DT new./JJ releases./NNS and./CC drops./NNS to./TO limit./VB regressions./NNS 
+-Debugging./VBG ,./, fixing./VBG and./CC reporting./VBG regression./NN issues./NNS after./IN the./DT integration./NN 
+-Communicate./JJ systematic./JJ processes./NNS and./CC regression./NN issues./NNS effectively./RB to./TO related./VBN areas./NNS 
+-Customizing./VBG internal./JJ development./NN tools./NNS 
+-Build./NN ,./, manage./NN ,./, and./CC maintain./VB the./DT source./NN code./NN structure./NN 
+
+SKILLS./NNP AND./CC QUALIFICATIONS./NNP 
+-Courses./NNS completed./VBN :./: C./NNP ,./, C+./NNP ,./, Java./NNP 
+-Familiar./NN with./IN Linux./NNP commands./NNS and./CC git./JJ source./NN managment./NN tool./NN 
+-Currently./RB pursuing./VBG an./DT Engineering./NN or./CC Computer./NNP Science/./NNP related./VBD degree./NN 
+-Familiar./NN with./IN programming./NN and./CC scripting./NN languages./NNS is./VBZ required./VBN 
+-Understanding./VBG system./NN interactions./NNS within./IN the./DT context./NN of./IN multi-threaded./JJ embedded./JJ systems./NNS 
+-Hardware./NN knowledge./NN about./IN computing./VBG 
+-Able./JJ to./TO learn./VB quickly./RB and./CC adapt./VB to./TO working./VBG in./IN cross-functional./JJ teams./NNS 
+-Capable./JJ of./IN identifying./VBG and./CC solving./VBG technical./JJ issues./NNS 
+-Complying./VBG with./IN product./NN quality./NN standards./NNS and./CC ensuring./VBG effective./JJ practices./NNS 
+
+ADDITIONAL./NNP ASSETS./NNP 
+-Desire./NN to./TO learn./VB about./IN BlackBerry./NNP 's./POS new./JJ and./CC existing./JJ products./NNS 
+-Strong./RB written./VBN and./CC verbal./JJ communication./NN skills./NNS 
+-Previous./JJ experience./NN with./IN debugging./NN 

@@ -1,0 +1,26 @@
+Wanted./VBN :./: Coding./VBG ninjas./NNS who./WP are./VBP fast./JJ learners./NNS ,./, great./JJ communicators./NNS ,./, and./CC ping./VBG pong./NN or./CC foosball./JJ gurus./NNS who./WP want./VBP to./TO join./VB one./CD of./IN the./DT Top./NNP Employers./NNP for./IN Young./NNP People./NNPS and./CC one./CD of./IN top./JJ 5./CD SaaS./NNP companies./NNS in./IN Canada./NNP !./. 
+
+Vision./NNP Critical./NNP provides./VBZ a./DT cloud-based./JJ customer./NN intelligence./NN platform./NN that./WDT allows./VBZ companies./NNS to./TO build./VB engaged./VBN ,./, secure./JJ communities./NNS of./IN customers./NNS they./PRP can./MD use./VB continuously./RB ,./, across./IN the./DT enterprise./NN ,./, for./IN ongoing./VBG ,./, real-time./JJ feedback./NN and./CC insight./NN ../. Designed./VBN for./IN today./NN 's./POS always-on./JJ ,./, social./JJ and./CC mobile./JJ savvy./NN customer./NN ,./, Vision./NNP Critical./NNP 's./POS technology./NN helps./VBZ large./JJ ,./, customer-centric./JJ enterprises./NNS discover./VBP what./WP their./PRP$ customers./NNS want./VBP so./IN they./PRP can./MD deliver./VB what./WP they./PRP need./VBP ../. Unlike./IN traditional./JJ customer./NN research./NN ,./, which./WDT is./VBZ slow./JJ ,./, expensive./JJ and./CC gathers./NNS dust./VBP on./IN a./DT shelf./NN ,./, Vision./NNP Critical./NNP 's./POS customer./NN intelligence./NN platform./NN replaces./VBZ static./JJ data./NNS and./CC cumbersome./JJ reports./NNS with./IN real-time./JJ actionable./JJ customer./NN intelligence./NN that./IN companies./NNS need./VBP to./TO build./VB better./JJR products./NNS ,./, deliver./VB better./JJR services./NNS and./CC achieve./VBP better./JJR business./NN outcomes./NNS ../. 
+
+Software./NNP Development./NNP Co-op./NNP (./( 8./CD Months./NNP )./) -./: Starting./VBG January./NNP 3./CD ,./, 2017./CD 
+Who./WP You./PRP Are./VBP :./: 
+-./: A./DT Computer./NNP Science./NNP or./CC Engineering./NNP student./NN wanting./VBG to./TO prove./VB yourself./PRP ,./, test./VB your./PRP$ limits./NNS ,./, build./VB great./JJ software./NN ,./, and./CC be./VB mentored./VBN by./IN top./JJ notch./NN developers./NNS 
+-./: A./DT team./NN player./NN who./WP will./MD contribute./VB to./TO an./DT Agile./NNP team./NN as./IN an./DT engineer./NN building./VBG our./PRP$ industry./NN leading./VBG SaaS./NNP product./NN suite./NN 
+-./: Driven./NN ,./, focused./VBD and./CC results-oriented./JJ always./RB looking./VBG to./TO learn./VB cutting-edge./NN technologies./NNS 
+-./: Looking./VBG to./TO open./VB doors./NNS and./CC start./VB your./PRP$ career./NN with./IN one./CD of./IN the./DT Top./NNP SaaS./NNP companies./NNS in./IN Canada./NNP 
+-./: Very./RB confident./JJ with./IN at./IN least./JJS one./CD modern./JJ programming./NN language./NN 
+-./: Enjoy./NN learning./VBG from./IN hands./NNS on./IN experiences./NNS such./JJ as./IN Hackathons./NNS 
+-./: Someone./NN who./WP wants./VBZ to./TO embrace./VB a./DT work/life./JJ balance./NN so./IN you./PRP can./MD enjoy./VB all./DT that./DT Vancouver./NNP has./VBZ to./TO offer./VB 
+What./WP you./PRP 'll./MD learn./VB :./: 
+-./: Develop./NN using./VBG a./DT variety./NN of./IN cutting./VBG edge./NN tools./NNS and./CC technologies./NNS :./: 
+o./JJ Languages./NNS :./: C./NNP #./# ,./, Android./NNP and./CC iOS./NN Development./NNP ,./, HTML5./NNP ,./, JavaScript./NNP frameworks./VBZ (./( JQuery./NNP ,./, RequireJS./NNP ,./, AngularJS./NNP ,./, React./NNP )./) ,./, CSS3./NNP ,./, .NET./NNP Technologies./NNPS 
+o./JJ Databases./NNS :./: SQL./NNP ,./, Oracle./NNP ,./, Redshift./NNP 
+o./JJ Testing./NN :./: NUnit./NNP ,./, Selenium./NNP ,./, Specflow./NNP 
+o./NN AWS./NNP Services./NNPS :./: Virtual./JJ Servers./NNS ,./, Load./NNP Balancing./NNP ,./, Lambda./NNP ,./, S3./NNP ,./, Redshift./NNP ,./, and./CC many./JJ others./NNS 
+-./: Progressive./NN Development./NNP Methodologies./NNS :./: 
+o./JJ Fast-paced./NNP agile./NN environment./NN with./IN one./CD week./NN sprints./NNS 
+o./RB Continuous./JJ integration./NN ,./, continuous./JJ delivery./NN 
+o./JJ Test./NNP driven./NN development./NN ,./, paired./VBD programming./NN 
+Want./VBP an./DT insider./NN 's./POS view./NN of./IN Vision./NNP Critical./NNP ?./. Check./VB out./RP a./DT day./NN in./IN the./DT life./NN of./IN a./DT software./NN developer./NN at./IN VC./NNP !./. 
+Here./RB is./VBZ the./DT view./NN from./IN our./PRP$ Vancouver./NNP office./NN :./: http./NN :./: //webcam.visioncritical.com/./NN 
+If./IN this./DT sounds./VBZ like./IN the./DT perfect./JJ opportunity./NN for./IN you./PRP we./PRP invite./VBP you./PRP to./TO apply./VB online./JJ now./RB ../. Please./NNP include./VB your./PRP$ school./NN transcripts./NNS with./IN your./PRP$ resume./NN or./CC cover./NN letter./NN ../. 

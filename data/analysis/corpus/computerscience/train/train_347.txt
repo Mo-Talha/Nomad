@@ -1,0 +1,20 @@
+Research./NN Trainee./NNP in./IN Computational./NNP Medicine./NNP ,./, Genomics./NNP and./CC Bioinformatics./NNS 
+
+Summary./JJ 
+The./DT Centre./NNP for./IN Computational./NNP Medicine./NNP (./( CCM./NNP )./) is./VBZ a./DT core./NN facility./NN within./IN the./DT world-renowned./JJ SickKids./NNP Research./NNP Institute./NNP ,./, located./VBN in./IN the./DT Discovery./NNP District./NNP of./IN downtown./NN Toronto./NNP ../. Our./PRP$ research./NN combines./VBZ the./DT development./NN of./IN novel./JJ software./NN systems./NNS and./CC methods./NNS in./IN the./DT pursuit./NN of./IN important./JJ biomedical./JJ problems./NNS related./VBN to./TO human./JJ health./NN ../. 
+
+We./PRP are./VBP seeking./VBG a./DT highly./RB motivated./JJ trainee./NN to./TO work./VB on./IN the./DT cutting./VBG edge./NN of./IN some./DT of./IN the./DT fastest./JJS growing./VBG areas./NNS of./IN applications./NNS :./: Data./NNP science./NN -./: Genomics./NNPS -./: Analysis./NN of./IN large./JJ medical./JJ datasets./NNS -DNA./VBP sequencing./VBG technologies./NNS -./: Statistics./NNS ../. 
+
+Responsibilities./NNS 
+Your./PRP$ day-to-day./JJ work./NN will./MD involve./VB software./NN development./NN using./VBG Python./NNP ,./, R./NNP ,./, high./JJ performance./NN computing./NN ,./, biological./JJ databases./NNS ,./, and./CC advanced./VBD data-analysis./NN pipelines./NNS ../. The./DT successful./JJ candidate./NN will./MD work./VB closely./RB with./IN scientists./NNS and./CC researchers./NNS to./TO develop./VB and./CC customize./VB software./NN ,./, to./TO help./VB them./PRP model./VB the./DT relationships./NNS between./IN genotypes./NNS and./CC diseases./NNS and./CC to./TO solve./VB complex./JJ data./NNS analyses./NNS problems./NNS ../. 
+
+Required./VBN Skills./NNS 
+Highly./NNP skilled./VBD and./CC motivated./JJ students./NNS from./IN the./DT following./JJ fields./NNS are./VBP encouraged./VBN to./TO apply./VB :./: 
+
+-./: ENG./NN -./: Software./NN 
+-./: MATH./NN -./: Computer./NNP Science./NN 
+-./: MATH./NN -./: Bioinformatics./NNS 
+-./: MATH./NN -./: Applied./NNP Mathematics./NNS 
+
+Career./NNP Development./NNP And./CC Training./NNP 
+The./DT CCM./NNP offers./VBZ a./DT collaborative./JJ environment./NN with./IN a./DT multi-disciplinary./JJ team./NN of./IN researchers./NNS ,./, software./NN developers./NNS and./CC clinicians./NNS ../. The./DT lab./NN 's./POS work./NN environment./NN is./VBZ relaxed./VBN and./CC casual./JJ ,./, placing./VBG an./DT emphasis./NN on./IN learning./VBG and./CC professional./JJ growth./NN ../. As./IN a./DT research./NN facility./NN ,./, the./DT Centre./NNP for./IN Computational./NNP Medicine./NNP will./MD also./RB give./VB you./PRP many./JJ opportunities./NNS to./TO attend./VB seminars./NNS and./CC lectures./NNS by./IN people./NNS ranging./VBG from./IN graduate./NN students./NNS to./TO Nobel./NNP laureates./NNS ../. 

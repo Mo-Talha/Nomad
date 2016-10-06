@@ -1,0 +1,40 @@
+Palette./NNP 's./POS magnetically./RB connected./JJ sliders./NNS ,./, dials./NNS and./CC buttons./NNS offer./VBP photographers./NNS and./CC other./JJ creatives./NNS a./DT faster./JJR ,./, more./RBR intuitive./JJ and./CC precise./JJ editing./VBG experience./NN ../. 
+
+At./IN Palette./NNP ,./, we./PRP 're./VBP interested./JJ in./IN creating./VBG a./DT new./JJ category./NN of./IN hardware./NN and./CC software./NN that./WDT bridges./VBZ the./DT gap./NN between./IN the./DT physical./JJ and./CC digital./JJ in./IN a./DT way./NN that./WDT recognizes./VBZ we./PRP all./DT work./VBP differently./RB ,./, says./VBZ Calvin./NNP Chu./NNP ,./, Co-Founder./NNP and./CC CEO./NNP ../. We./PRP 're./VBP excited./VBN to./TO see./VB people./NNS use./VBP Palette./NNP 's./POS hands-on./JJ controls./NNS to./TO make./VB interaction./NN more./JJR natural./JJ and./CC enjoyable./JJ ../. 
+
+Palette./NNP 's./POS award-winning./JJ design./NN is./VBZ now./RB used./VBN by./IN thousands./NNS of./IN creative./JJ professionals./NNS in./IN over./IN 50./CD countries./NNS ../. Receiving./VBG phenomenal./JJ customer./NN reviews./NN has./VBZ accelerated./VBN sales./NNS and./CC distribution./NN to./TO well-known./JJ retailers./NNS around./IN the./DT world./NN ../. The./DT company./NN was./VBD founded./VBN in./IN 2013./CD and./CC is./VBZ backed./VBN by./IN VC./NNP investors./NNS from./IN both./DT Silicon./NNP Valley./NNP and./CC Canada./NNP ../. Building./NNP off./RP this./DT initial./JJ success./NN ,./, Palette./NNP is./VBZ quickly./RB growing./VBG to./TO help./VB even./RB more./RBR professionals./NNS produce./VBP their./PRP$ best./JJS work./NN ../. 
+
+Summary./JJ 
+You./PRP are./VBP passionate./JJ about./IN building./NN and./CC shipping./VBG consumer./NN tech./NN products./NNS !./. You./PRP have./VBP an./DT entrepreneurial./JJ spirit./NN and./CC get./VB things./NNS done./VBN !./. Whether./IN it./PRP is./VBZ the./DT front./JJ end./NN of./IN our./PRP$ website./NN or./CC the./DT backend./NN of./IN the./DT Palette./NNP app./NN ,./, your./PRP$ work./NN will./MD be./VB immediately./RB valuable./JJ to./TO thousands./NNS of./IN users./NNS world./NN wide./JJ ../. As./IN a./DT core./NN member./NN of./IN our./PRP$ software./NN team./NN ,./, you./PRP will./MD help./VB create./VB applications./NNS to./TO let./VB users./NNS configure./VB Palette./NNP hardware./NN in./IN various./JJ modes./NNS ../. The./DT software./NN layer./NN allows./VBZ Palette./NNP kits./NNS to./TO control./VB various./JJ photo./NN ,./, video./NN and./CC music./NN editing./NN applications./NNS ../. Palette./NNP can./MD also./RB be./VB used./VBN with./IN any./DT other./JJ applications./NNS and./CC games./NNS ,./, using./VBG the./DT keyboard./NN and./CC joystick./NN modes./NNS ../. The./DT programming./JJ language./NN or./CC tools./NNS you./PRP use./VBP could./MD vary./VB based./VBN on./IN the./DT needs./NNS of./IN the./DT problem./NN ../. You./PRP will./MD be./VB part./NN of./IN the./DT entire./JJ software./NN development./NN life./NN cycle./NN ../. As./IN part./NN of./IN a./DT very./RB small./JJ but./CC growing./VBG team./NN ,./, you./PRP will./MD have./VB the./DT opportunity./NN to./TO grow./VB with./IN the./DT company./NN &./CC shape./NN the./DT role./NN you./PRP way./NN you./PRP want./VBP !./. 
+
+Responsibilities./NNS 
+-./: Design./NN and./CC develop./VB for./IN Palette./NNP 's./POS primary./JJ software./NN architecture./NN &./CC app./NN ;./: configure./NN Palette./NNP hardware./NN in./IN different./JJ modes./NNS ,./, control./NN other./JJ apps./JJ via./IN PaletteApp./NNP ,./, share./NN user./JJ profiles./NNS ,./, integrate./NN with./IN other./JJ OS./NNP services./NNS and./CC many./JJ more./JJR UI./JJ features.../NN 
+-./: Integrate./NN the./DT Palette./NNP system./NN with./IN popular./JJ third./JJ party./NN software./NN :./: photo./NN /./VBZ video./JJ /./NNP music./NN editing./VBG software./NN ,./, games./NNS and./CC more./JJR 
+-./: Create./NN the./DT developer./NN API./NNP ecosystem./NN for./IN 2nd./CD or./CC 3rd./CD party./NN developers./NNS 
+-./: Explore./NN new./JJ and./CC innovative./JJ ways./NNS to./TO use./VB Palette./NNP and./CC its./PRP$ ever./RB expanding./VBG lineup./NN of./IN hardware./NN modules./NNS :./: jog./NN wheels./NNS ,./, trackball./NN ,./, motorized./JJ faders./NNS ,./, joysticks./NNS and./CC more./JJR !./. 
+Required./VBN Skills./NNS 
+-./: Enrolled./VBN in./IN Computer./NNP Science./NNP ,./, Software./NNP Engineering./NNP ,./, Computer./NNP Engineering./NNP ,./, Mechatronics./NNP Engineering./NNP or./CC other./JJ similar./JJ programs./NNS 
+-./: Experienced./VBD in./IN one./CD or./CC more./JJR of./IN the./DT following./VBG programming./NN languages./NNS :./: C/C++./NNP ,./, Java./NNP ,./, Objective-C./NNP 
+-./: Knowledge./NN or./CC experience./NN in./IN object./NN oriented./VBN programming./NN ,./, design./NN patterns./NNS ,./, version./NN control./NN software./NN (./( e.g./NN ../. Git./NNP ,./, SVN./NNP )./) and./CC good./JJ software./NN development./NN practices./NNS 
+-./: Ability./NN to./TO pick./VB up./RP new./JJ programming./NN languages./NNS quickly./RB 
+--./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: -./: 
+Bonus./NNP Skills./NNP (./( Nice./NNP to./TO have./VB )./) 
+--./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: -./: 
+-./: Cross./NN platform./NN frameworks./NNS such./JJ as./IN Qt./NNP ,./, GTK+./NNP or./CC wxWidgets./NNS 
+-./: Web./NN development./NN experience./NN (./( e.g./NN ../. HTML./NNP ,./, CSS./NNP ,./, JavaScript./NNP )./) 
+-./: Experience./NN with./IN Adobe./NNP Creative./NNP Suite./NNP or./CC other./JJ photo/audio/video./NN editing./VBG applications./NNS 
+-./: Embedded./VBN software./NN (./( in./IN C./NNP )./) and./CC device./NN driver./NN development./NN 
+-./: Work./NN with./IN USB./NNP ,./, HID./NNP ,./, MIDI./NNP and./CC other./JJ peripheral./JJ protocols./NNS 
+-./: Previous./JJ experience./NN in./IN building./NN and./CC shipping./NN software./NN 
+-./: Personal./JJ passion./NN for./IN design./NN ,./, creativity./NN ,./, and./CC human-computer./JJ interaction./NN 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+--./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: -./: 
+Why./WRB You./PRP Want./VBP To./TO Be./VB Part./NNP of./IN Palette./NNP :./: 
+--./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: -./: 
+-./: Be./NN responsible./JJ for./IN the./DT next./JJ generation./NN products./NNS of./IN Palette./NNP 
+-./: Work./NN with./IN an./DT extremely./RB smart./JJ ,./, ambitious./JJ ,./, and./CC fun./NN team./NN 
+-./: Have./VBP the./DT opportunity./NN to./TO be./VB involved./VBN in./IN all./DT parts./NNS of./IN the./DT business./NN 
+-./: Help./NN build./VB the./DT closely-knit./NN and./CC growing./VBG tech./JJ community./NN in./IN Kitchener-Waterloo./NNP 
+-./: Work./NN in./IN an./DT open./JJ ,./, collaborative./JJ and./CC innovative./JJ workspace./NN :./: The./DT Tannery./NNP Building./NNP (./( former./JJ Google./NNP office./NN )./) with./IN access./NN to./TO gym./VB ,./, basketball./NN court./NN ,./, table./JJ tennis./NN ,./, patios./NNS ,./, and./CC surrounded./VBN by./IN many./JJ other./JJ smart./JJ startups./NNS 
+-./: Work./NN hard./RB and./CC play./VB hard./JJ :./: regular./JJ team./NN dinners./NNS and./CC fun./JJ events./NNS ../. In./IN the./DT past./JJ we./PRP 've./VBP done./VBN rock./NN climbing./NN ,./, archery./NN tag./NN ,./, escape./NN rooms./NNS ,./, sports./NNS ,./, barbeques./NNS and./CC beer./NN pong./NN 

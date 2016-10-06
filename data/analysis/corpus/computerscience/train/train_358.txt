@@ -1,0 +1,12 @@
+KA./NNP Imaging./NNP is./VBZ a./DT Waterloo./NNP based./VBN university./NN spinoff./NN company./NN ../. KA./NNP Imaging./NNP has./VBZ innovated./VBN a./DT novel./JJ real-time./JJ X-ray./JJ imager./NN with./IN higher./JJR resolution./NN ,./, increased./VBD dynamic./JJ range./NN ,./, and./CC lower./JJR dose./NN that./WDT can./MD be./VB manufactured./VBN in./IN an./DT LCD./NNP display./NN process./NN ../. We./PRP plan./VBP to./TO sell./VB our./PRP$ imagers./NNS to./TO X-ray./JJ system./NN integrators./NNS ../. 
+
+Summary./JJ 
+Develop./NNP driver./NN and./CC API./NNP software./NN to./TO extract./VB ,./, process./NN and./CC display./NN images./NNS for./IN novel./JJ digital./JJ X-ray./JJ imager./NN ../. 
+
+Responsibilities./NNS 
+1./CD ../. Design./NN and./CC implementation./NN of./IN DotNet./NNP and./CC C./NNP sharp./JJ code./NN for./IN driver./NN and./CC API./NNP interface./NN ../. 
+2./CD ../. Image./NN acquisition./NN ,./, basic./JJ processing./NN and./CC interfacing./VBG with./IN front./JJ end./NN software./NN ../. 
+
+Required./VBN Skills./NNS 
+1./CD ../. Computer./NNP Engineering./NNP or./CC Computer./NNP Science./NNP 3B./CD or./CC 4A./CD student./NN 
+2./CD ../. C/C++./NNP ,./, TCP/IP./NNP ,./, WIN32./NNP APIs./NNP and./CC other./JJ relevant./JJ programming./NN skills./NNS 

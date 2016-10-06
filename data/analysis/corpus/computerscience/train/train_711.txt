@@ -1,0 +1,20 @@
+Reports./NNS to./TO :./: AVP./NNP ,./, Quantitative./NNP Investments./NNP and./CC Portfolio./NNP Risk./NNP 
+Department./NNP :./: Investments./NNS 
+Status./NN :./: Temporary./NNP ,./, Full-Time./NNP (./( Temporary./NNP employment./NN until./IN April./NNP 29./CD ,./, 2016./CD )./) 
+
+Overall./JJ Purpose./NN :./: 
+To./TO contribute./VB to./TO the./DT efficiency./NN and./CC effectiveness./NN of./IN the./DT investment./NN process./NN through./IN application./NN development./NN and./CC automation./NN 
+
+Accountabilities./NNS :./: 
+Develop./VB applications./NNS to./TO improve./VB analytics./NNS of./IN securities./NNS ,./, communication./NN of./IN data./NNS ,./, or./CC general./JJ 
+investment./NN needs./NNS 
+Contribute./NNP to./TO existing./VBG automation./NN infrastructure./NN adding./VBG new./JJ functionality./NN 
+Support./NNP smooth./VBD functioning./NN of./IN existing./VBG processes./NNS and./CC applications./NNS ../. 
+Expand./NNP data./NNS warehouse./NN with./IN new./JJ feeds./NNS and./CC reporting./NN enhancements./NNS 
+Monitor./NNP trends./NNS and./CC enhancements./NNS within./IN Python./NNP open./JJ source./NN community./NN 
+
+Qualifications./NNS :./: 
+Strong./JJ programming./NN capabilities./NNS ,./, specifically./RB in./IN Python./NNP 
+SQL./JJ query./NN knowledge./NN and./CC understanding./NN of./IN database./NN structures./NNS 
+Interest./NN in./IN and./CC aptitude./VB for./IN investments./NNS 
+Strong./JJ analytical./JJ abilities./NNS required./VBN 

@@ -1,0 +1,20 @@
+--./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: -./: 
+
+Summary./JJ 
+You./PRP 'll./MD be./VB joining./VBG an./DT experience./NN team./NN with./IN domain./NN expertise./NN in./IN data./NNS science./NN ,./, finance./NN ,./, and./CC dealmaking./VBG ../. We./PRP 're./VBP disrupting./VBG a./DT large./JJ market./NN :./: $./$ 7./CD trillion./CD in./IN trade./NN finance./NN globally./RB ../. Our./PRP$ goal./NN is./VBZ to./TO help./VB financial./JJ institutions./NNS to./TO dramatically./RB improve./VB financing./NN along./IN the./DT supply./NN chain./NN ../. This./DT is./VBZ a./DT great./JJ opportunity./NN to./TO make./VB a./DT substantial./JJ impact./NN in./IN this./DT massive./JJ market./NN ../. If./IN you./PRP are./VBP interested./JJ in./IN reinventing./VBG financial./JJ operations./NNS within./IN financial./JJ services./NNS ,./, can./MD handle./VB high-impact./JJ quantitative./JJ analysis./NN ,./, have./VBP a./DT thirst./NN for./IN simplicity./NN in./IN the./DT face./NN of./IN complexity./NN ,./, and./CC thrive./NN in./IN a./DT startup./NN environment./NN ,./, we./PRP 'd./MD love./VB to./TO talk./VB to./TO you./PRP ../. 
+
+Responsibilities./NNS 
+You./PRP 'll./MD be./VB a./DT key./JJ member./NN of./IN the./DT data./NNS science./NN team./NN ../. Some./DT of./IN the./DT responsibilities./NNS include./VBP :./: 
+1./CD )./) Architect./VBP a./DT reliable./JJ and./CC scalable./JJ data./NNS infrastructure./NN using./VBG Big./NNP Data./NNP technologies./NNS 
+2./CD )./) Collaborate./NN with./IN data./NNS scientists./NNS to./TO design./VB and./CC implement./VB machine./NN learning./NN models./NNS 
+3./LS )./) Build./NNP data./NNS pipelines./NNS that./WDT collect./VBP ,./, connect./VBP ,./, and./CC curate./VB data./NNS from./IN various./JJ internal./JJ and./CC external./JJ data./NNS sources./NNS 
+
+Required./VBN Skills./NNS 
+1./CD )./) Desired./VBD to./TO design./VB and./CC implement./VB highly./RB scalable./JJ ,./, reliable./JJ ,./, extensive./JJ and./CC maintainable./JJ code./NN frameworks./NNS that./WDT support./VBP large-scale./JJ data./NNS platforms./NNS ../. 
+2./CD )./) Knowledge./NNP of./IN distributed./VBN data./NN architectures./NNS and./CC their./PRP$ eco-systems./NNS (./( Hadoop./NNP ,./, Hive./NNP ,./, Pig./NNP ,./, Spark./NNP ,./, EMR./NNP ,./, etc./FW ../. )./) 
+3./LS )./) Knowledge./NNP of./IN Amazon./NNP Web./NNP Services./NNP (./( AWS./NNP )./) and./CC Redshift./NNP in./IN an./DT enterprise./NN environment./NN 
+4./CD )./) Experience./NN with./IN SQL./NNP and./CC noSQL./JJ Databases./NNS 
+5./CD )./) Ability./NN to./TO turn./VB datasets./NNS into./IN human./JJ readable./JJ charts./NNS and./CC web-based./JJ visualizations./NNS (./( D3.js./NNP )./) 
+6./CD )./) Strong./NNP programming./VBG skills./NNS (./( Java/Python./NNP )./) 
+7./CD )./) Developed./VBD full-stack./JJ data./NNS applications./NNS 
+8./CD )./) Knowledge./NNP of./IN accounting./NN and./CC finance./NN concepts./NNS is./VBZ desirable./JJ 

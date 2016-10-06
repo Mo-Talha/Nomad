@@ -1,0 +1,42 @@
+We./PRP want./VBP to./TO be./VB Where./NNP Business./NNP Meets./NNPS the./DT Future.../NNP 
+
+INTERSECT./NNP (./( formerly./RB BNOTIONS./NNP )./) delivers./NNS mobile./JJ and./CC IoT./NNP product./NN strategy./NN ,./, design./NN thinking./NN ,./, and./CC engineering./NN excellence./NN for./IN businesses./NNS that./WDT want./VBP to./TO get./VB ahead./RB ../. We./PRP deliver./VBD experiences./NNS that./WDT inspire./VBP the./DT next./JJ generation./NN of./IN business./NN ../. 
+
+At./IN the./DT core./NN of./IN our./PRP$ company./NN is./VBZ a./DT strong./JJ engineering./NN culture./NN that./WDT allows./VBZ us./PRP to./TO build./VB solutions./NNS rapidly./RB with./IN confidence./NN ../. We./PRP believe./VBP in./IN highly./RB collaborative./JJ and./CC cross./JJ functional./JJ teams./NNS ../. 
+
+We./PRP are./VBP hiring./VBG engineers./NNS for./IN the./DT technology./NN of./IN tomorrow./NN ../. We./PRP 're./VBP looking./VBG for./IN individuals./NNS who./WP bleed./VBP engineering./NN ,./, and./CC have./VBP a./DT relentless./NN thirst./NN for./IN new./JJ knowledge./NN ../. You./PRP are./VBP the./DT type./NN of./IN individual./NN who./WP loves./VBZ problem./NN solving./NN and./CC challenging./VBG your./PRP$ mind./NN ../. 
+
+Recommended./VBN :./: 
+-./: You./PRP have./VBP a./DT github./NN presence./NN 
+-./: You./PRP enjoy./VBP solving./VBG problems./NNS 
+-./: You./PRP are./VBP familiar./JJ with./IN software./NN engineering./NN lifecycles./NNS 
+-./: You./PRP know./VBP what./WP clean./JJ code./NN is./VBZ 
+-./: You./PRP are./VBP passionate./JJ about./IN your./PRP$ craft./NN ,./, and./CC are./VBP familiar./JJ with./IN one./CD or./CC more./JJR mobile./JJ communities./NNS ../. 
+-./: You./PRP know./VBP the./DT difference./NN between./IN a./DT binary./JJ tree./NN ,./, a./DT heap./NN ,./, and./CC a./DT hash./NN table./NN and./CC you./PRP know./VBP when./WRB to./TO use./VB them./PRP ../. 
+-./: You./PRP love./VBP exploring./VBG new./JJ technologies./NNS and./CC concepts./NNS and./CC you./PRP enjoy./VBP sharing./VBG ideas./NNS with./IN others./NNS 
+
+As./IN our./PRP$ Mobile./NNP Engineer./NNP ,./, you./PRP will./MD be./VB responsible./JJ for./IN the./DT following./NN :./: 
+-./: Developing./VBG high./JJ quality./NN ,./, UX./NNP rich./VBP mobile./JJ applications./NNS for./IN iOS./NN and./CC Android./NNP platforms./NNS ../. 
+-./: Working./VBG with./IN a./DT multidisciplinary./JJ team./NN to./TO understand./VB system/application./NN requirements./NNS and./CC 
+recommend./VB appropriate./JJ solutions./NNS 
+-./: Working./VBG independently./RB ,./, and./CC as./IN part./NN of./IN a./DT team./NN ,./, to./TO develop./VB mobile./JJ solutions./NNS that./WDT meet./VBP client./NN 's./POS 
+needs./NNS and./CC perform./VB efficiently./RB and./CC as./IN designed./VBN 
+-./: Optimizing./NN applications./NNS for./IN performance./NN and./CC memory./NN usage./NN 
+-./: Consistently./RB delivering./VBG highquality./NN output./NN 
+-./: Tracking./NN and./CC planning./NN project./NN progress./NN through./IN a./DT Project./NNP Management./NNP System./NNP (./( Pivotal./NNP 
+Tracker./NN )./) 
+-./: Keeping./VBG up./RP with./IN the./DT latest./JJS trends./NNS in./IN the./DT mobile./JJ industry./NN 
+
+As./IN our./PRP$ Mobile./NNP Engineer./NNP ,./, you./PRP will./MD possess./VB the./DT following./JJ skills./NNS ,./, attributes./NNS and./CC experience./NN :./: 
+-./: Currently./RB enrolled./VBN in./IN a./DT coop./NN 
+program./NN 
+-./: At./IN least./JJS two./CD years./NNS of./IN practical./JJ experience./NN developing./VBG natively./RB in./IN either./CC iOS./JJ and/or./NN Android./NNP 
+-./: Desire./NN and./CC ability./NN to./TO learn./VB new./JJ mobile./JJ platforms./NNS 
+-./: Experience./NN with./IN Android./NNP Studio./NNP and./CC XCode./NNP IDE./NNP 's./POS 
+-./: High./JJ degree./NN of./IN knowledge./NN with./IN Social./NNP API./NNP 's./POS ,./, especially./RB Facebook./NNP 
+-./: Knowledgeable./NN of./IN Web./NNP technologies./NNS such./JJ as./IN HTML./NNP ,./, CSS./NNP ,./, JavaScript./NNP and./CC JSON./NNP 
+-./: Self-motivated./JJ and./CC willing./JJ to./TO take./VB initiative./NN 
+-./: A./DT passion./NN for./IN code./NN quality./NN and./CC adherence./NN to./TO standards./NNS 
+-./: Experience./NN working./VBG with./IN a./DT version./NN control./NN system./NN ,./, especially./RB GIT./NNP 
+-./: Excellent./NN communications./NNS skills./NNS 
+-./: Keen./NN eye./NN for./IN details./NNS and./CC quality./NN at./IN both./DT the./DT code./NN level./NN and./CC the./DT overall./JJ application./NN UX./NN 

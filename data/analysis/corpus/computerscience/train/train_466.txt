@@ -1,0 +1,25 @@
+If./IN you./PRP would./MD be./VB excited./VBN to./TO work./VB in./IN a./DT dynamic./JJ startup./NN environment./NN and./CC are./VBP passionate./JJ about./IN using./VBG state./NN of./IN the./DT art./NN technology./NN to./TO help./VB solve./VB important./JJ and./CC complex./JJ global./JJ health./NN problems./NNS ,./, BlueDot./NNP may./MD be./VB the./DT place./NN for./IN you./PRP ../. 
+
+BlueDot./NNP is./VBZ a./DT social./JJ purpose./NN business./NN spun./VBD out./IN of./IN St../NNP Michael./NNP 's./POS Hospital./NNP in./IN Toronto./NNP ../. Its./PRP$ mission./NN is./VBZ to./TO make./VB the./DT world./NN a./DT safer./JJR place./NN from./IN infectious./JJ diseases./NNS by./IN integrating./VBG expertise./NN in./IN medicine./NN and./CC health./NN with./IN big./JJ data./NNS analytics./NNS and./CC visualization./NN ../. BlueDot./NNP helps./VBZ governments./NNS ,./, businesses./NNS ,./, and./CC individuals./NNS around./IN the./DT world./NN protect./VBP themselves./PRP from./IN the./DT health./NN ,./, security./NN ,./, and./CC economic./JJ consequences./NNS of./IN global./JJ infectious./JJ diseases./NNS ../. We./PRP have./VBP a./DT highly./RB cross-disciplinary./JJ team./NN that./WDT includes./VBZ expertise./NN in./IN medicine./NN ,./, health./NN sciences./NNS ,./, geographic./JJ information./NN systems./NNS ,./, data./NNS sciences./NNS ,./, statistics./NNS ,./, mathematics./NNS and./CC web-applications./NNS ../. BlueDot./NNP is./VBZ located./VBN at./IN the./DT beautiful./JJ Li./NNP Ka./NNP Shing./NNP Knowledge./NNP Institute./NNP just./RB a./DT block./NN away./RB from./IN Yonge./NNP and./CC Dundas./NNP Square./NNP ,./, right./RB in./IN the./DT heart./NN of./IN downtown./NN Toronto./NNP ../. BlueDot./NNP recently./RB received./VBD Series./NNP A./NNP venture./NN capital./NN funding./NN from./IN Horizons./NNP Ventures./NNP ,./, the./DT private./JJ investment./NN arm./NN of./IN Asian./JJ businessman./NN Li./NNP Ka-shing./NNP ../. Based./VBN in./IN Hong./NNP Kong./NNP ,./, Horizons./NNP Ventures./NNP is./VBZ a./DT leading./VBG investor./NN in./IN some./DT of./IN the./DT !./. world./NN 's./VBZ most./RBS innovative./JJ companies./NNS and./CC ``./`` disruptive./JJ technologies./NNS ''./'' including./VBG Facebook./NNP ,./, Waze./NNP ,./, Skype./NNP ,./, Spotify./NNP ,./, Siri./NNP and./CC Hampton./NNP Creek./NNP ../. 
+
+
+Responsibilities./NNS :./: 
+
+To./TO develop./VB Web./NNP Applications./NNP and./CC Services./NNPS to./TO implement./VB new./JJ tasks./NNS and./CC fix./JJ bugs./NNS in./IN current./JJ applications./NNS 
+
+
+Required./VBN Skills./NNS :./: 
+
+-./: Enrolled./VBN in./IN a./DT Bachelor./NNP 's./POS degree./NN in./IN computer./NN science./NN ,./, computer./NN engineering./NN or./CC relevant./JJ experience./NN (./( 3rd./CD or./CC 4th./CD year./NN undergraduate./NN with./IN relevant./JJ experience./NN would./MD be./VB preferred./VBN )./) 
+-./: Knowledge./NN and./CC practical./JJ experience./NN of./IN HTML5./NNP ,./, JQuery./NNP ,./, AJAX./NNP ,./, CSS3./NNP 
+-./: Experience./NN in./IN web./JJ application./NN development./NN using./VBG .Net./NNS 
+-./: Knowledge./NN in./IN relational./JJ databases./NNS and./CC SQL./NNP Query./NNP 
+-./: Solid./NN background./NN and./CC understanding./NN of./IN web./JJ infrastructure./NN and./CC web./NN services./NNS 
+-./: Proven./NN experience./NN in./IN software./NN development./NN life./NN cycle./NN and./CC methodologies./NNS ../. 
+-./: Ability./NN to./TO work./VB collaboratively./RB with./IN other./JJ developers./NNS and./CC in./IN a./DT multidisciplinary./JJ environment./NN 
+-./: Ability./NN to./TO work./VB independently./RB 
+-./: Detail./NN oriented./VBN and./CC able./JJ to./TO prioritize./VB tasks./NNS 
+-./: Demonstrated./VBD organizational./JJ skills./NNS 
+-./: Excellent./NN communication./NN skills./NNS 
+-./: Must./NN conduct./NN all./DT duties./NNS in./IN a./DT professional./JJ manner./NN 
+-./: Must./NN uphold./JJ data./NNS security./NN or./CC privacy./NN agreements./NNS 

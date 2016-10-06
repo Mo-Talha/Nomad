@@ -1,0 +1,33 @@
+Summary./JJ 
+If./IN you./PRP 're./VBP an./DT exceptional./JJ coder./NN ,./, have./VBP a./DT passion./NN for./IN creating./VBG great./JJ desktop./NN ,./, web./NN and./CC mobile./JJ applications./NNS ,./, and./CC want./VBP to./TO experience./VB the./DT culture./NN of./IN a./DT start-up./JJ ..../: we./PRP want./VBP to./TO talk./VB to./TO you./PRP ../. This./DT is./VBZ a./DT great./JJ opportunity./NN to./TO employ./VB and./CC expand./VB your./PRP$ skills./NNS ../. 
+
+At./IN Sony./NNP Creative./NNP Software./NNP (./( part./NN of./IN Sony./NNP North./NNP America./NNP Professional./NNP Engineering./NNP )./) ,./, our./PRP$ legacy./NN is./VBZ in./IN making./VBG audio./JJ and./CC video./JJ editing./NN software./NN which./WDT includes./VBZ some./DT products./NNS you./PRP may./MD have./VB heard./NN of./IN --./: ACID./NNP ,./, Vegas./NNP ,./, and./CC Sound./NNP Forge./NNP ../. That./DT legacy./NN continues./VBZ with./IN our./PRP$ Catalyst./NNP line./NN of./IN products./NNS and./CC is./VBZ expanding./VBG to./TO a./DT number./NN of./IN new./JJ projects./NNS in./IN web./NN and./CC mobile./JJ application./NN development./NN ../. It./PRP 's./VBZ an./DT exciting./JJ time./NN ../. 
+
+Although./IN now./RB part./NN of./IN the./DT Sony./NNP family./NN ,./, our./PRP$ office./NN in./IN Waterloo./NNP was./VBD once./RB a./DT start-up./JJ and./CC we./PRP continue./VBP to./TO embrace./VB our./PRP$ roots./NNS by./IN having./VBG very./RB small./JJ teams./NNS ,./, a./DT relaxed./JJ culture./NN ,./, and./CC a./DT drive./NN to./TO build./VB great./JJ products./NNS ../. 
+
+A./DT few./JJ other./JJ things./NNS you./PRP should./MD know./VB ..../: 
+-./: Our./PRP$ office./NN is./VBZ a./DT fun./NN ,./, relaxed./VBN ,./, and./CC casual./JJ environment./NN ../. We./PRP play./VBP card./JJ games./NNS ,./, board./NN games./NNS ,./, ping./VBG pong./NN ,./, foosball./NN ,./, and./CC PlayStation./NNP when./WRB we./PRP need./VBP breaks./NNS ../. 
+-./: We./PRP get./VBP discounts./NNS on./IN Sony./NNP stuff./NN ,./, including./VBG big-screen./JJ TVs./NN !./. 
+-./: This./DT position./NN is./VBZ in./IN Uptown./NNP Waterloo./NNP ,./, a./DT short./JJ walk./NN from./IN UWaterloo./NNP ../. 
+
+Although./IN the./DT projects./NNS may./MD vary./VB ,./, what./WP we./PRP 'll./MD guarantee./VB is./VBZ that./IN you./PRP 'll./MD work./VB on./IN a./DT small./JJ team./NN focused./VBD on./IN shipping./VBG real./JJ products./NNS ../. Your./PRP$ work./NN matters./NNS !./. Say./NNP 'no./POS './'' to./TO co-op./JJ terms./NNS that./WDT do./VBP n't./RB let./VB you./PRP work./VB on./IN something./NN real./JJ ../. 
+
+Here./RB are./VBP some./DT examples./NNS of./IN things./NNS previous./JJ co-op./JJ students./NNS have./VBP worked./VBN on./IN :./: 
+-./: Designing./NN and./CC implementing./VBG attractive./JJ and./CC elegant./JJ user./NN interfaces./NNS for./IN both./DT desktop./NN and./CC web./NN ../. 
+-./: Building./NN the./DT architecture./NN for./IN high./JJ performance./NN ,./, multi-threaded./JJ applications./NNS ../. 
+-./: Developing./VBG optimized./JJ algorithms./NN for./IN audio./NN ,./, video./NN and./CC photo./NN effects./NNS ../. 
+-./: Developing./NN infrastructure./NN for./IN communicating./VBG application./NN analytics./NNS ../. 
+
+In./IN a./DT nutshell./NN ,./, we./PRP 're./VBP looking./VBG for./IN coders./NNS with./IN :./: 
+-./: Real./NN experience./NN in./IN JavaScript./NNP or./CC C++./NNP ../. 
+-./: Familiarity./NN with./IN programming./VBG on./IN Mac./NNP ,./, Windows./NNP ,./, iOS./NN and./CC Android./NNP possibly./RB using./VBG frameworks./NNS such./JJ Qt./NNP or./CC React./NNP Native./NNP ../. 
+-./: Web./NN development./NN experience./NN using./VBG HTML/CSS./NNP and./CC libraries./NNS such./JJ as./IN AngularJS./NNP and./CC React./NNP ../. 
+-./: A./DT passion./NN for./IN well-designed./JJ ,./, cross-platform./JJ code./NN ../. 
+-./: An./DT interest./NN in./IN high./JJ performance./NN algorithms./NN ,./, multi-threading./NN ,./, and./CC great./JJ user./JJ interfaces./NNS ../. 
+-./: An./DT interest./NN in./IN working./VBG in./IN an./DT Agile./NNP Scrum./NNP environment./NN ../. 
+-./: Excellent./NN communication./NN skills./NNS ,./, and./CC a./DT good./JJ sense./NN of./IN humour./NN ../. 
+
+Tips./NNS for./IN Your./PRP$ Application./NN 
+-./: If./IN you./PRP have./VBP written./VBN any./DT of./IN your./PRP$ own./JJ software./NN -./: whether./IN it./PRP 's./VBZ an./DT application./NN ,./, a./DT game./NN ,./, or./CC a./DT website./JJ ,./, please./VB include./VBP a./DT reference./NN to./TO it./PRP in./IN your./PRP$ resume./JJ package./NN ../. Your./PRP$ own./JJ side./NN projects./NNS mean./VBP much./RB more./JJR than./IN completing./VBG programming./NN courses./NNS at./IN university./NN ../. 
+-./: If./IN you./PRP have./VBP any./DT C++./NNP ,./, JavaScript./NNP ,./, or./CC other./JJ programming./VBG experience./NN from./IN other./JJ jobs./NNS or./CC work./NN terms./NNS ,./, please./NN describe./VB the./DT projects./NNS you./PRP 've./VBP worked./VBN on./IN ../. 
+-./: Including./VBG a./DT link./NN to./TO a./DT personal./JJ website./NN or./CC portfolio./NN showcasing./VBG your./PRP$ work./NN is./VBZ highly./RB recommended./JJ ../. 

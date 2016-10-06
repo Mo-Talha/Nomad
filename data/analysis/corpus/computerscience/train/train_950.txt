@@ -1,0 +1,37 @@
+Wattpad./NNP is./VBZ where./WRB people./NNS come./VBP to./TO be./VB entertained./VBN ,./, inspired./VBN ,./, and./CC to./TO connect./VB around./IN stories./NNS that./WDT matter./VBP to./TO them./PRP ../. More./JJR than./IN 40./CD million./CD people./NNS have./VBP joined./VBN Wattpad./NNP to./TO date./NN ,./, making./VBG it./PRP the./DT world./NN 's./POS largest./JJS community./NN of./IN readers./NNS and./CC writers./NNS ../. With./IN Wattpad./NNP ,./, anyone./NN can./MD read./VB or./CC write./VB on./IN any./DT device./NN :./: Phone./NN ,./, tablet./NN ,./, or./CC computer./NN ../. 
+
+Our./PRP$ users./NNS have./VBP written./VBN and./CC shared./VBN more./JJR than./IN 100./CD million./CD stories./NNS ,./, in./IN aggregate./JJ spending./NN a./DT mind-boggling./JJ 11./CD billion./CD minutes./NNS each./DT month./NN using./VBG our./PRP$ platform./NN ../. 
+
+What./WP we./PRP offer./VBP Co-op./JJ Students./NNS :./: 
+-./: Wattpad./NN pays./VBZ 20./CD %./NN above./IN the./DT term./NN average./NN as./IN recommended./VBN by./IN Waterloo./NNP 
+-./: Meaningful./NN work./NN that./WDT will./MD touch./VB millions./NNS of./IN users./NNS worldwide./VBP 
+-./: Your./PRP$ TTC./NNP pass./NN is./VBZ on./IN us./PRP 
+-./: Monthly./JJ Hack./NNP days./NNS for./IN a./DT chance./NN to./TO show./VB us./PRP your./PRP$ creativity./NN 
+-./: Casual./JJ work./NN environment./NN in./IN a./DT beautiful./JJ downtown./JJ office./NN located./VBN in./IN the./DT St../NNP Lawrence./NNP Market./NNP district./NN 
+
+The./DT Web./NNP Team./NNP is./VBZ looking./VBG for./IN passionate./NN ,./, upper-year./JJ applicants./NNS with./IN an./DT interest./NN in./IN rich./JJ client./NN applications./NNS and./CC modern./JJ web./NN development./NN ../. We./PRP build./VBP and./CC maintain./VBP a./DT dynamic./JJ ,./, large-scale./JJ web./NN application./NN that./WDT receives./VBZ tens./NNS of./IN millions./NNS of./IN pageviews./NNS every./DT day./NN ../. We./PRP 've./VBP recently./RB moved./VBN the./DT bulk./NN of./IN our./PRP$ frontend./JJ application./NN to./TO a./DT server./NN rendered./VBN application./NN written./VBN in./IN JavaScript./NNP on./IN top./NN of./IN node./NN ,./, express./NN ,./, backbone./NN and./CC a./DT suite./NN of./IN supporting./VBG frameworks./NNS and./CC utilities./NNS ../. We./PRP use./VBP git./JJ for./IN version./NN control./NN ,./, we./PRP believe./VBP strongly./RB in./IN testing./VBG ,./, and./CC leverage./NN agile./JJ methodologies./NNS in./IN executing./VBG development./NN ../. 
+
+We./PRP work./VBP closely./RB with./IN the./DT Product./NNP and./CC Design./NNP Teams./NNP to./TO implement./VB new./JJ features./NNS that./WDT are./VBP responsive./JJ ,./, accessible./JJ ,./, SEO./NNP friendly./RB and./CC standards./NNS compliant./NN ../. Here./RB at./IN at./IN Wattpad./NNP you./PRP will./MD ship./VB code./JJ daily./JJ into./IN production./NN where./WRB it./PRP will./MD be./VB used./VBN by./IN millions./NNS of./IN people./NNS ../. 
+
+What./WP you./PRP will./MD be./VB doing./VBG :./: 
+-./: contributing./NN to./TO the./DT codebase./NN of./IN a./DT large-scale./JJ Javascript./NNP application./NN 
+-./: implementing./NN modern./JJ interfaces./NNS in./IN HTML/CSS./NNP 
+-./: using./VBG analytic./JJ tools./NNS to./TO track./VB and./CC improve./VB user./NN interaction./NN 
+-./: writing./NN unit./NN tests./NNS ,./, debugging./VBG code./NN ,./, cross./NN browser/device./NN testing./VBG 
+-./: working./NN with./IN Product./NNP &./CC Design./NNP to./TO accurately./RB implement./VB provided./JJ specifications./NNS 
+
+What./WP we./PRP 're./VBP looking./VBG for./IN :./: 
+-./: a./DT self-starting./JJ ,./, accountable./JJ attitude./NN 
+-./: astute./NN analytical./JJ and./CC problem./NN solving./NN skills./NNS 
+-./: excellent./NN communication./NN skills./NNS both./DT written./VBN and./CC verbal./JJ 
+-./: solid./JJ understanding./NN of./IN fundamental./JJ programming./NN concepts./NNS 
+-./: ample./NN experience./NN with./IN Javascript./NNP ,./, HTML./NNP and./CC CSS./NNP 
+-./: interest/knowledge./NN in./IN modern./JJ web./NN development./NN methodologies./NNS 
+
+Bonus./NNP Points./NNS if./IN you./PRP have./VBP :./: 
+-./: experience./NN working./VBG with./IN Javascript./NNP frameworks./NNS (./( backbone./NN ,./, angular./JJ ,./, react./NN )./) 
+-./: experience./NN working./VBG on./IN high-traffic./JJ websites./NNS or./CC mobile./JJ applications./NNS 
+-./: knowledge./NN of./IN responsive./JJ design./NN techniques./NNS and./CC accessible./JJ markup./NN 
+-./: interest./NN in./IN user./JJ experience./NN ,./, interaction./NN design./NN and./CC UI./NNP development./NN 
+
+To./TO learn./VB more./JJR about./IN Wattpad./NNP visit./NN www.wattpad.com/life./NN 

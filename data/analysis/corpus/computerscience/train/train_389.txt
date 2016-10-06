@@ -1,0 +1,34 @@
+Summary./JJ 
+In./IN this./DT role./NN ,./, you./PRP will./MD work./VB with./IN the./DT company./NN 's./POS founders./NNS to./TO help./VB improve./VB and./CC develop./VB new./JJ features./NNS for./IN the./DT NightShift./NNP product./NN ../. You./PRP will./MD be./VB working./VBG on./IN a./DT highly./RB distributed./JJ system./NN with./IN hundreds./NNS of./IN end./NN devices./NNS running./VBG embedded./VBD C++./NNP software./NN connected./VBN to./TO a./DT modern./JJ software./NN stack./NN written./VBN in./IN Python./NNP ../. You./PRP will./MD work./VB on./IN all./DT parts./NNS of./IN this./DT system./NN and./CC gain./VB experience./NN with./IN networking./NN ,./, cloud./NN ,./, and./CC web./JJ technologies./NNS as./IN you./PRP work./VBP on./IN building./NN and./CC improving./VBG it./PRP ../. 
+
+Responsibilities./NNS 
+Play./VB an./DT integral./JJ role./NN in./IN the./DT development./NN of./IN the./DT NightShift./NNP product./NN 
+
+Learn./NNP and./CC apply./VB knowledge./NN of./IN IP./NNP networking./VBG technology./NN 
+
+Develop./NNP embedded./VBD and./CC cloud./JJ software./NN in./IN C++./NNP and./CC Python./NNP 
+
+Required./VBN Skills./NNS 
+Experience./NN with./IN a./DT scripting./VBG language./NN such./JJ as./IN Python./NNP 
+
+Experience./NN with./IN C./NNP or./CC C++./NNP 
+
+Experience./NN with./IN Javascript./NNP 
+
+Familiarity./NN with./IN Linux./NNP 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+Stock./NN options./NNS will./MD be./VB awarded./VBN to./TO high./JJ performing./VBG co-op./JJ students./NNS with./IN stock./NN options./NNS in./IN the./DT company./NN in./IN addition./NN to./TO a./DT competitive./JJ salary./NN 
+
+Career./NNP Development./NNP And./CC Training./NNP 
+What./WP Aterlo./NNP Networks./NNP Offers./NNP 
+
+-./: A./DT small./JJ team./NN -./: you./PRP will./MD be./VB working./VBG with./IN and./CC learning./VBG a./DT broad./JJ variety./NN of./IN technologies./NNS and./CC you./PRP will./MD be./VB making./VBG a./DT real./JJ impact./NN 
+
+-./: An./DT amazing./JJ work./NN environment./NN in./IN the./DT Accelerator./NNP Center./NNP where./WRB you./PRP will./MD be./VB working./VBG next./JJ to./TO many./JJ of./IN Waterloo./NNP 's./POS top./JJ startup./NN companies./NNS 
+
+-./: Flexible./JJ hours./NNS -./: our./PRP$ culture./NN values./VBZ what./WP you./PRP get./VBP done./VBN ,./, not./RB when./WRB and./CC where./WRB you./PRP do./VBP it./PRP 
+
+-./: Interaction./NN with./IN customers./NNS -./: learn./VB what./WP our./PRP$ customers./NNS value./NN and./CC solve./VB interesting./VBG problems./NNS they./PRP run./VBP into./IN 
+
+-./: Stock./NN options./NNS -./: we./PRP 're./VBP a./DT small./JJ startup./NN company./NN with./IN lots./NNS of./IN potential./JJ ,./, and./CC we./PRP reward./VBP high./JJ performing./VBG co-op./JJ students./NNS with./IN stock./NN options./NNS in./IN the./DT company./NN in./IN addition./NN to./TO a./DT competitive./JJ salary./NN 

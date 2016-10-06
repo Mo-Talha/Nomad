@@ -1,0 +1,33 @@
+Job./NNP Summary./NNP 
+
+Are./NNP you./PRP a./DT wizard./NN ,./, a./DT rockstar./NN ,./, or./CC a./DT ninja./NN ?./. Well./NNP that./IN 's./VBZ too./RB bad./JJ ,./, because./IN we./PRP are./VBP actually./RB looking./VBG for./IN really./RB good./JJ iOS./NN developers./NNS ../. 
+
+Do./VBP you./PRP think./VB the./DT internet./NN is./VBZ a./DT better./JJR place./NN when./WRB everyone./NN can./MD browse./VB the./DT same./JJ internet./NN regardless./NN of./IN where./WRB they./PRP 're./VBP located./VBN ?./. Or./CC maybe./RB that./IN it./PRP 's./VBZ a./DT little./JJ creepy./NN that./IN widespread./JJ tracking./NN and./CC surveillance./NN have./VBP become./VBN the./DT de./FW facto./FW standard./NN on./IN the./DT internet./NN ?./. 
+
+Founded./VBN in./IN 2011./CD ,./, TunnelBear./NNP is./VBZ a./DT small./JJ team./NN of./IN startup./NN veterans./NNS ../. We./PRP think./VBP that./IN digital./JJ privacy./NN is./VBZ important./JJ and./CC geographic./JJ access./NN restrictions./NNS make./VBP the./DT internet./NN a./DT worse./JJR place./NN ../. Our./PRP$ highly./RB accoladed./VBN applications./NNS make./VBP regular./JJ appearances./NNS on./IN Lifehacker./NNP ,./, PC./NNP World./NNP ,./, TNW./NNP and./CC New./NNP York./NNP Times./NNP for./IN helping./VBG average./JJ users./NNS avoid./JJ access./NN restrictions./NNS and./CC browse./NN privately./RB ../. 
+
+TunnelBear./NNP is./VBZ gearing./VBG up./RP to./TO add./VB an./DT entirely./RB different./JJ product./NN to./TO our./PRP$ privacy./NN suite./RB ../. We./PRP want./VBP to./TO bring./VB our./PRP$ form./NN of./IN private./JJ browsing./NN to./TO every./DT computer./NN and./CC mobile./JJ device./NN in./IN the./DT world./NN ../. This./DT wo./MD n't./RB be./VB easy./JJ ,./, we./PRP are./VBP going./VBG to./TO have./VB to./TO outsmart./VB everyone./NN from./IN Facebook./NNP ,./, Google./NNP ,./, dodgy./JJ advertisers./NNS and./CC maybe./RB the./DT occasional./JJ corrupt./JJ government./NN ../. 
+
+We./PRP are./VBP looking./VBG for./IN someone./NN who./WP takes./VBZ joy./NN in./IN finding./VBG simple./JJ solutions./NNS to./TO complex./VB problems./NNS and./CC shares./NNS our./PRP$ passion./NN for./IN mauling./VBG internet./JJ access-restriction./NN ,./, digital./JJ privacy./NN ,./, and./CC giant./JJ digital./JJ bear./NN humour./NN ../. The./DT ideal./JJ candidate./NN for./IN this./DT position./NN is./VBZ passionate./JJ about./IN pushing./VBG the./DT limits./NNS of./IN the./DT iOS./NN platform./NN and./CC has./VBZ a./DT published./VBN app./NN or./CC a./DT side./NN project./NN portfolio./NN that./WDT proves./VBZ it./PRP ../. 
+
+Desirable./JJ Skills./NNS 
+A./DT passion./NN for./IN iOS./NN and./CC macOS./NN technologies./NNS 
+Ability./NN to./TO write./VB clear./JJ ,./, concise./NN ,./, and./CC well-tested./JJ code./NN in./IN Swift./NNP ,./, Objective-C./NNP and./CC ,./, occasionally./RB ,./, other./JJ languages./NNS 
+Thorough./IN understanding./NN of./IN Cocoa./NNP Touch./NNP building./NN blocks./NNS -./: Foundation./NN ,./, UIKit./NNP ,./, Core./NNP Animation./NNP ,./, Grand./NNP Central./NNP Dispatch./NNP ../. Experience./NN with./IN app./JJ internationalization./NN ,./, MapKit./NNP ,./, StoreKit./NNP ,./, NetworkExtensions./NNP is./VBZ also./RB nice./JJ to./TO have./VB ../. 
+A./DT good./JJ taste./NN for./IN design./NN and./CC an./DT intuitive./JJ understanding./NN of./IN ``./`` what./WP works./VBZ ''./'' in./IN an./DT iOS./NN app./NN 
+Should./MD have./VB shipped./VBN a./DT finished./JJ product./NN -./: whether./IN it./PRP 's./VBZ a./DT ``./`` for-fun./JJ ''./'' app./NN ,./, an./DT open./JJ source./NN library./NN ,./, or./CC a./DT really./RB impressive./JJ school./NN project./NN ../. Real./JJ artists./NNS ship./NN ../. 
+Be./NNP able./JJ to./TO work./VB in./IN areas./NNS outside./IN of./IN your./PRP$ usual./JJ comfort./NN zone./NN and./CC get./VB things./NNS done./VBN quickly./RB 
+Have./VBP an./DT interest./NN in./IN network./NN security./NN and./CC computer/device./NN privacy./NN 
+Experience./NN with./IN AppKit./NNP ,./, Security./NNP Framework./NNP ,./, OpenVPN./NNP or./CC other./JJ VPN./NNP technologies./NNS is./VBZ a./DT big./JJ bonus./NN 
+
+Career./NNP Development./NNP and./CC Provided./VBD Training./NN 
+Work./NN with./IN world-class./JJ engineers./NNS building./NN products./NNS used./VBN by./IN millions./NNS of./IN people./NNS around./IN the./DT world./NN 
+You./PRP will./MD ship./VB production./NN code./NN on./IN a./DT regular./JJ basis./NN 
+Wear./IN a./DT giant./JJ bear./NN suit./NN (./( optional./JJ ..../: sort./NN of./IN !./. )./) 
+
+Other./JJ Job./NNP Details./NNS 
+Challenging./NNP ,./, meaningful./JJ and./CC fun./JJ work./NN 
+Choose./NNP from./IN a./DT variety./NN of./IN tasks./NNS ,./, we./PRP never./RB run./VBP out./RB of./IN interesting./JJ projects./NNS 
+Casual./JJ and./CC fun./JJ office./NN ../. AeroPress./NNP ,./, Ping-pong./NNP table./NN ,./, beer-stocked./JJ fridge./NN ,./, Xbox./NNP ,./, Rocket./NNP League./NNP ,./, etc./NN ../. 
+Flexible./JJ working./NN hours./NNS ,./, competitive./JJ salary./NN 
+Located./VBN near./IN Queen./NNP and./CC Bathurst./NNP 

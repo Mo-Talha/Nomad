@@ -1,0 +1,22 @@
+JSI./NNP is./VBZ an./DT established./JJ leader./NN in./IN state-of-the-art./JJ collection./NN management./NN solutions./NNS for./IN the./DT law./NN enforcement./NN and./CC intelligence./NN community./NN ../. A./DT privately./RB held./VBN ,./, customer-focused./JJ company./NN with./IN more./JJR than./IN 35./CD years./NNS './POS experience./NN in./IN the./DT industry./NN ,./, JSI./NNP has./VBZ developed./VBN hundreds./NNS of./IN products./NNS and./CC systems./NNS ,./, and./CC delivered./VBD tens./NNS of./IN thousands./NNS of./IN solutions./NNS to./TO customers./NNS in./IN dozens./NNS of./IN countries./NNS ../. 
+
+JSI./NNP has./VBZ a./DT relaxed./NN ,./, casual./JJ work./NN environment./NN where./WRB employees./NNS enjoy./VBP a./DT personal./JJ team./NN atmosphere./RB where./WRB open./JJ communications./NNS and./CC design./NN discussions./NNS are./VBP encouraged./VBN ../. This./DT position./NN will./MD provide./VB an./DT interesting./JJ work./NN environment./NN for./IN a./DT student./NN who./WP wishes./VBZ to./TO learn./VB more./JJR about./IN the./DT software./NN development./NN life-cycle./NN ../. JSI./NNP follows./VBZ the./DT Agile./NNP software./NN development./NN methodology./NN allowing./VBG rapid./JJ development./NN and./CC delivery./NN of./IN software./NN to./TO meet./VB customer./NN 's./POS constantly./RB evolving./VBG intercept./JJ requirements./NNS ../. 
+
+The./DT Product./NNP Management./NNP team./NN is./VBZ responsible./JJ for./IN both./DT sales./NNS /./VBP marketing./NN as./RB well./RB as./IN creating./VBG requirements./NNS and./CC specifications./NNS for./IN the./DT new./JJ capabilities./NNS that./WDT will./MD be./VB developed./VBN for./IN our./PRP$ flagship./NN product./NN ../. The./DT Product./NNP Management./NNP Administrative./NNP Assistant./NNP will./MD be./VB responsible./JJ supporting./VBG the./DT Product./NNP Management./NNP Team./NNP in./IN their./PRP$ day./NN to./TO day./NN activities./NNS ../. This./DT includes./VBZ ,./, but./CC is./VBZ not./RB limited./VBN to./TO the./DT following./NN :./: 
+
+1./CD ../. Marketing./VBG Support./NN 
+a./DT ../. Creating./VBG marketing./NN and./CC product./NN demonstration./NN videos./IN using./VBG tools./NNS such./JJ as./IN Sony./NNP Vegas./NNP 
+b./NN ../. Developing./VBG printed./JJ marketing./NN material./NN using./VBG tools./NNS such./JJ as./IN Adobe./NNP InDesign./NNP and./CC Illustrator./NNP 
+
+2./CD ../. Programming./VBG /./JJ Development./NNP of./IN Sales./NNS Configuration./NNP Tools./NNP 
+a./DT ../. Development./NNP in./IN Visual./NNP Basic./NNP for./IN Applications./NNP (./( VBA./NNP )./) 
+b./NN ../. Working./VBG in./IN Microsoft./NNP Excel./NNP 
+
+3./LS ../. Administration./NN of./IN Product./NNP Management./NNP Demonstration./NNP Systems./NNPS 
+a./DT ../. Creation./NN ,./, Modification./NNP ,./, and./CC Administration./NNP of./IN Windows./NNP ,./, Ubuntu./NNP ,./, and./CC CentOS./NNP based./VBN virtual./JJ machines./NNS in./IN VMWare./NNP Workstation./NNP and./CC ESXi./NNP 
+
+4./CD ../. Product./NN Management./NN 
+a./DT ../. Developing./VBG status./NN reports./NNS 
+b./NN ../. Assisting./VBG in./IN entering./VBG requirements./NNS for./IN new./JJ contracts./NNS ,./, and./CC updating./VBG the./DT status./NN of./IN these./DT requirements./NNS when./WRB signed./VBD off./RP 
+
+5./CD ../. Maintenance./NN of./IN high./JJ level./NN product./NN knowledge./NN 

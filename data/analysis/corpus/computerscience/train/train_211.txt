@@ -1,0 +1,31 @@
+Now./RB is./VBZ the./DT time./NN to./TO unleash./VB your./PRP$ knowledge./NN and./CC show./VB the./DT world./NN what./WP you./PRP can./MD really./RB do./VB ../. Make./VB your./PRP$ education./NN count./NN by./IN coming./VBG to./TO work./VB at./IN AMD./NNP ../. As./IN a./DT Co-op./NNP ,./, PEY./NNP or./CC Intern./NNP student./NN ,./, you./PRP can./MD make./VB an./DT immediate./JJ contribution./NN to./TO AMD./NNP 's./POS next./JJ generation./NN of./IN technology./NN innovations./NNS ../. We./PRP have./VBP a./DT dynamic./JJ ,./, high-energy./JJ work./NN environment./NN ,./, filled./VBN with./IN expert./JJ employees./NNS and./CC unique./JJ opportunities./NNS for./IN developing./VBG your./PRP$ career./NN ../. With./IN the./DT AMD./NNP ,./, you./PRP can./MD get./VB hands-on./JJ experience./NN that./WDT will./MD give./VB you./PRP a./DT competitive./JJ edge./NN in./IN the./DT workforce./NN ../. You./PRP can./MD put./VB classroom./NN theory./NN into./IN practice./NN and./CC get./VB an./DT inside./JJ look./NN at./IN AMD./NNP 's./POS technical./JJ teams./NNS ,./, work./NN style./NN and./CC culture./NN ../. 
+
+Our./PRP$ Toronto./NNP office./NN is./VBZ conveniently./RB located./VBN in./IN the./DT heart./NN of./IN 'Silicon./NNP Valley./NNP North./NNP './POS in./IN Markham./NNP near./IN Hwy./NNP 7./CD and./CC Hwy./NNP 404./CD ../. 
+
+The./DT Markham./NNP campus./NN consists./VBZ of./IN 2./CD buildings./NNS and./CC over./RB 1500+./CD employees./NNS ../. AMD./NNP has./VBZ a./DT strong./JJ student./NN population./NN ,./, hiring./VBG 30+./CD co-ops./JJ each./DT semester./NN and./CC 100+./CD PEYs./NNP each./DT year./NN ../. Employees./NNS enjoy./VBP state./NN of./IN the./DT art./NN facilities./NNS including./VBG underground./JJ parking./NN ,./, employee./NN gym./NN ,./, fully./RB stocked./VBN break./NN rooms./NNS ,./, game./NN rooms./NNS ,./, and./CC a./DT world./NN class./NN cafeteria./NN serving./VBG up./RP a./DT variety./NN of./IN tasty./JJ dishes./NNS each./DT day./NN ../. 
+
+You./PRP will./MD enjoy./VB an./DT enriching./VBG learning./JJ experience./NN during./IN your./PRP$ work./NN term./NN at./IN AMD./NNP ,./, with./IN managers./NNS ,./, supervisors./NNS and./CC colleagues./NNS who./WP are./VBP all./DT enthusiastic./JJ to./TO mentor./VB you./PRP ../. You./PRP 'll./MD work./VB side./RB by./IN side./NN with./IN your./PRP$ team./NN to./TO contribute./VB to./TO the./DT latest./JJS AMD./NNP GPU./NNP and./CC APU./NNP technology./NN ../. At./IN AMD./NNP you./PRP 're./VBP not./RB just./RB a./DT student./NN ,./, you./PRP 're./VBP a./DT valued./JJ member./NN of./IN our./PRP$ team./NN !./. 
+
+Get./VB a./DT jumpstart./NN on./IN an./DT exciting./JJ career./NN -apply./NN today./NN !./. 
+www.amd.com./NN 
+
+ABOUT./IN THE./NNP DEPARTMENT./NNP 
+Display./NNP Team./NNP of./IN SW./NNP Base./NNP Graphics./NNP Department./NNP is./VBZ responsible./JJ for./IN one./CD of./IN the./DT core./NN components./NNS of./IN AMD./NNP graphics./NNS drivers./NNS -./: Display./NNP Abstraction./NNP Layer./NNP (./( DAL./NNP )./) ../. DAL./NNP contains./VBZ OS-independent./JJ logic./NN of./IN handling./VBG all./DT types./NNS of./IN display./NN devices./NNS connected./VBN to./TO AMD./NNP graphics./NNS and./CC APU./NNP chips./NNS ,./, including./VBG recognizing./VBG display./NN capabilities./NNS ,./, mode/timing./VBG enumeration./NN to./TO OS./NNP ,./, programming./VBG hardware./NN blocks./NNS that./WDT constitute./VBP display./VBP pipes./NNS in./IN graphics./NNS chip./NN to./TO drive./VB connected./VBN displays./NNS in./IN accordance./NN with./IN industry./NN standards./NNS ,./, and./CC many./JJ others./NNS ../. DAL./NNP code./NN is./VBZ included./VBN in./IN AMD./NNP graphics./NNS drivers./NNS for./IN all./DT Windows./NNP and./CC Linux-based./JJ OSes./NNP ../. 
+
+JOB./NNP PURPOSE./NNP 
+Developing./VBG and./CC maintaining./VBG graphics./NNS driver./RB code./VBP in./IN fast-paced./JJ production./NN environment./NN on./IN the./DT very./RB edge./NN of./IN modern./JJ technology./NN 
+
+KEY./NNP RESPONSIBILITIES./NNP 
+Debugging./VBG and./CC fixing./VBG existing./VBG driver./NN issues./NNS ,./, participating./VBG in./IN new./JJ ASIC./NNP bring./NN up./RP ,./, development./NN of./IN new./JJ display./NN technologies./NNS and./CC new./JJ software./NN features./NNS for./IN AMD./NNP graphics./NNS drivers./NNS ,./, in./IN accordance./NN with./IN established./VBN software./NN processes./VBZ ../. 
+
+SKILLS./NNP AND./CC EXPERIENCE./NNP REQUIREMENTS./NNP 
+-Strong./JJ C./NNP ,./, C++./NNP and./CC object-oriented./JJ programming./NN skills./NNS 
+-Windows./NNS and/or./VBP Linux/Android./NNP development./NN experience./NN 
+-Experience./NN with./IN software./NN development./NN processes./NNS and./CC tools./NNS such./JJ as./IN debuggers./NNS ,./, source./NN code./NN control./NN systems./NNS and./CC profilers./NNS is./VBZ a./DT plus./JJ 
+-Good./NN communication./NN and./CC problem./NN solving./NN skills./NNS 
+-Highly./RB motivated./VBN ,./, self-starter./JJ with./IN good./JJ interpersonal./JJ skills./NNS 
+
+WHAT./NNP YOU./NNP WILL./MD LEARN./VB 
+You./PRP will./MD get./VB to./TO work./VB with./IN the./DT newest./JJS and./CC coolest./VB wired./VBN and./CC wireless./JJ display./NN technologies./NNS and./CC platforms./NNS ,./, including./VBG those./DT not./RB yet./RB on./IN the./DT market./NN ../. Learn./VB about./IN graphics./NNS driver./JJ architecture./NN ,./, OS/driver/BIOS./NNP interactions./NNS and./CC how./WRB to./TO program./NN graphics./NNS chips./NNS to./TO output./NN vivid./NNS images./NNS on./IN connected./JJ displays./NNS ../. You./PRP will./MD master./VB your./PRP$ C/C++./NNP ,./, OOP./NNP ,./, and./CC kernel./VB mode./NN debugging./VBG skills./NNS ,./, while./IN developing./VBG driver./NN code./NN and./CC working./VBG with./IN great./JJ professionals./NNS as./IN a./DT valued./JJ member./NN of./IN our./PRP$ team./NN ../. 
+
+This./DT team./NN is./VBZ essential./JJ to./TO the./DT success./NN of./IN AMD./NNP as./IN a./DT growing./VBG company./NN ../. It./PRP is./VBZ a./DT very./RB exciting./JJ environment./NN and./CC you./PRP will./MD be./VB working./VBG with./IN the./DT very./RB best./JJS in./IN our./PRP$ technology./NN ../. You./PRP will./MD be./VB working./VBG on./IN some./DT of./IN the./DT most./RBS exciting./JJ projects./NNS the./DT industry./NN has./VBZ to./TO offer./VB ../. 

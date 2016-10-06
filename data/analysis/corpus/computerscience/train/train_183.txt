@@ -1,0 +1,35 @@
+COMPANY./NN DESCRIPTION./NNP 
+
+As./IN market./NN leader./NN in./IN enterprise./NN application./NN software./NN ,./, SAP./NNP helps./VBZ companies./NNS of./IN all./DT sizes./NNS and./CC industries./NNS innovate./VBP through./IN simplification./NN ../. From./IN the./DT back./JJ office./NN to./TO the./DT boardroom./NN ,./, warehouse./NN to./TO storefront./VB ,./, on./IN premise./NN to./TO cloud./VB ,./, desktop./VB to./TO mobile./VB device./NN -./: SAP./JJ empowers./NNS people./NNS and./CC organizations./NNS to./TO work./VB together./RB more./RBR efficiently./RB and./CC use./VB business./NN insight./NN more./RBR effectively./RB to./TO stay./VB ahead./RB of./IN the./DT competition./NN ../. SAP./NNP applications./NNS and./CC services./NNS enable./JJ customers./NNS to./TO operate./VB profitably./RB ,./, adapt./RB continuously./RB ,./, and./CC grow./VB sustainably./RB ../. 
+
+PURPOSE./NNP AND./NNP OBJECTIVES./NNP 
+
+We./PRP are./VBP looking./VBG for./IN an./DT enthusiastic./JJ and./CC innovative./JJ student./NN to./TO join./VB our./PRP$ team./NN and./CC contribute./NN to./TO the./DT IQ./NNP installation./NN project./NN ../. 
+
+EXPECTATIONS./NNP AND./NNP TASKS./NNP 
+
+The./DT successful./JJ student./NN will./MD assist./VB in./IN designing./VBG ,./, implementing./VBG ,./, porting./VBG ,./, testing./VBG and./CC fixing./VBG the./DT 
+installer./NN and./CC related./JJ automated./JJ infrastructure./NN ../. This./DT is./VBZ a./DT great./JJ opportunity./NN to./TO improve./VB your./PRP$ Install./NNP Anywhere./NNP ,./, Java./NNP ,./, debugging./NN ,./, scripting./VBG ,./, make./NN and./CC multiplatform./NN skills./NNS by./IN working./VBG alongside./RB talented./VBN ,./, skillful./JJ developers./NNS committed./VBD to./TO creating./VBG a./DT world-class./JJ product./NN ../. By./IN joining./VBG our./PRP$ team./NN ,./, you./PRP become./VBP a./DT member./NN of./IN a./DT world-class./JJ research./NN and./CC development./NN team./NN and./CC be./VB mentored./VBN by./IN people./NNS who./WP are./VBP pushing./VBG forward./RB the./DT state./NN of./IN the./DT art./NN in./IN application./NN installation./NN ,./, configuration./NN and./CC deployment./NN ../. 
+
+EDUCATION./NN AND./CC QUALIFICATIONS./NNP /./NNP SKILLS./NNP AND./NNP COMPETENCIES./NNP 
+
+-./: Exposure./NN to./TO programming./VBG in./IN Java./NNP and/or./NN system./NN shell./NN scripts./NNS 
+-./: Working./VBG knowledge./NN of./IN build./JJ systems./NNS (./( make./VB &./CC source./NN control./NN )./) 
+-./: Working./VBG knowledge./NN of./IN scripting./VBG languages./NNS 
+-./: Windows./NNS and/or./VBP Unix./NNP functional./JJ experience./NN 
+-./: Good./JJ oral./JJ and./CC written./VBN communication./NN skills./NNS 
+-./: Ability./NN to./TO work./VB independently./RB 
+
+The./DT following./VBG are./VBP not./RB required./VBN but./CC would./MD be./VB valuable./JJ :./: 
+-./: Unix./NN and/or./JJ Unix./NNP platform./NN administration./NN and./CC configuration./NN experience./NN 
+-./: Understanding./NN of./IN revision./NN control./NN and./CC build./VB systems./NNS 
+-./: Software./NN design./NN experience./NN and/or./NN InstallAnywhere./NNP exposure./NN 
+
+WORK./NN EXPERIENCE./NN 
+
+Successful./JJ applicants./NNS will./MD have./VB an./DT exceptional./JJ ability./NN to./TO learn./VB and./CC the./DT motivation./NN to./TO excel./VB in./IN 
+software./NN design./NN ,./, implementation./NN ,./, and./CC testing./VBG ../. 
+
+SAP./NNP 'S./POS DIVERSITY./NNP COMMITMENT./NNP 
+
+To./TO harness./VB the./DT power./NN of./IN innovation./NN ,./, SAP./NNP invests./VBZ in./IN the./DT development./NN of./IN its./PRP$ diverse./NN employees./NNS ../. We./PRP aspire./VBP to./TO leverage./VB the./DT qualities./NNS and./CC appreciate./VB the./DT unique./JJ competencies./NNS that./IN each./DT person./NN brings./VBZ to./TO the./DT company./NN ../. 

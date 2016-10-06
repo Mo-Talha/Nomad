@@ -1,0 +1,25 @@
+ConradConnect./NNP is./VBZ offered./VBN to./TO UW./NNP student./NN entrepreneurs./NNS by./IN the./DT Conrad./NNP Business./NNP ,./, Entrepreneurship./NNP ,./, and./CC Technology./NNP Centre./NNP at./IN the./DT University./NNP of./IN Waterloo./NNP ../. It./PRP is./VBZ both./DT an./DT online./NN platform./NN and./CC series./NN of./IN events./NNS that./WDT aims./VBZ to./TO build./VB the./DT UW./NNP entrepreneurial./JJ ecosystem./NN by./IN connecting./VBG student./NN entrepreneurs./NNS to./TO peers./NNS ,./, business./NN advisors./NNS ,./, events./NNS ,./, and./CC discussion./NN groups./NNS ../. 
+
+The./DT Community./NNP Manager./NNP will./MD manage./VB both./DT the./DT online./NN platform./NN and./CC events./NNS ../. This./DT involves./VBZ introducing./VBG students./NNS and./CC business./NN people./NNS to./TO the./DT platform./NN ,./, managing./VBG the./DT platform./NN ,./, curating./VBG events./NNS notifications./NNS ,./, organizing./VBG events./NNS ,./, and./CC liaising./VBG with./IN Conrad./NNP staff./NN ../. It./PRP is./VBZ a./DT two-term./JJ coop./NN positions./NNS ../. The./DT first./JJ term./NN will./MD overlap./VB with./IN the./DT incumbent./JJ community./NN manager./NN for./IN training./NN purposes./NNS ;./: during./IN the./DT second./JJ term./NN the./DT manager./NN will./MD operate./VB independently./RB ../. 
+
+Responsibilities./NNS 
+-./: Encourage./NN students./NNS and./CC alumni./NNS to./TO use./VB the./DT platform./NN while./IN supporting./VBG new./JJ users./NNS through./IN theonboarding./VBG process./NN 
+-./: Foster./NN the./DT growth./NN of./IN a./DT positive./JJ entrepreneurial./JJ online./NN community./NN ;./: encourage./VB resource./NN sharing./NN ,./, 
+-./: peer-to-./NN peer./NN mentoring./NN ,./, and./CC coaching./VBG relationships./NNS 
+-./: Present./NN the./DT platform./NN to./TO potential./JJ users./NNS 
+-./: Prepare./NN specification./NN documents./NNS to./TO customize./VB the./DT platform./NN in./IN co-operation./NN with./IN commercial./JJ developers./NNS 
+-./: Organize./NN and./CC host./NN events./NNS 
+
+Required./VBN Skills./NNS 
+-./: Candidate./NN must./MD be./VB a./DT self-directed./JJ team./NN player./NN able./JJ to./TO communicate./VB well./RB ,./, and./CC have./VBP the./DT ability./NN to./TO juggle./VB multiple./JJ projects./NNS ,./, proactively./RB solve./VB problems./NNS ,./, deliver./VB against./IN tight./JJ deadlines./NNS in./IN a./DT fast-paced./JJ environment./NN 
+-./: Strong./JJ sense./NN of./IN professionalism./NN and./CC ability./NN to./TO work./VB independently./RB 
+-./: Excellent./NN communication./NN skills./NNS ,./, both./DT written./VBN and./CC verbal./JJ 
+-./: Ability./NN to./TO multitask./VB ,./, prioritize./VB and./CC handle./VB multiple./JJ responsibilities./NNS 
+-./: Fastidious./JJ attention./NN to./TO detail./VB 
+-./: Outgoing./NN ,./, strong./JJ leadership./NN capabilities./NNS 
+-./: Ability./NN to./TO multi-task./NN and./CC work./NN efficiently./RB under./IN pressure./NN with./IN careful./JJ attention./NN to./TO detail./NN is./VBZ a./DT must./MD 
+
+Other./JJ Job./NNP Details./NNS :./: 
+-./: Completion./NN of./IN BET./NNP 300./CD and./CC enterprise./VB co-op./NN is./VBZ an./DT asset./NN 
+-./: Entrepreneurial./JJ experience./NN is./VBZ an./DT asset./NN 
+-./: Software./NN development./NN experience./NN is./VBZ an./DT asset./NN 

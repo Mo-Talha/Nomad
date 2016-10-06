@@ -1,0 +1,52 @@
+Job./NNP Description./NNP 
+Do./VBP you./PRP like./IN breaking./VBG things./NNS ,./, pushing./VBG them./PRP to./TO the./DT limit./NN and./CC pointing./VBG out./RP other./JJ people./NNS 's./POS mistakes./NNS ?./. 
+
+Olson./NNP is./VBZ looking./VBG for./IN Data./NNP &./CC Quality./NNP Asurance./NNP Analyst./NNP to./TO join./VB our./PRP$ young./JJ and./CC growing./VBG team./NN 
+
+What./WP will./MD you./PRP be./VB doing./VBG ?./. 
+===./NN 
+-./: Test./NN and./CC break./VB our./PRP$ developers./NNS './POS work./NN -./: help./NN Olson./NNP deliver./VB a./DT flawless./JJ product./NN to./TO the./DT market./NN 
+-./: Create./NN test./NN plans./NNS and./CC test./NN scripts./NNS based./VBN on./IN given./VBN business./NN requirements./NNS 
+-./: Execute./NN and./CC maintain./VB reports./NNS from./IN databases./NNS (./( SQL./NNP )./) and./CC Google./NNP Analystics./NNP 
+-./: Opportunity./NN to./TO explore./VB other./JJ interests./NNS :./: development./NN work./NN ,./, marketing./NN analytics./NNS ,./, research./NN 
+
+Who./WP are./VBP we./PRP looking./VBG for./IN ?./. 
+===./NN 
+-./: Smart./NN and./CC sharp./JJ with./IN great./JJ attention./NN to./TO details./NNS 
+-./: Ready./NN to./TO take./VB on./IN challenges./NNS and./CC think./VB outside./IN the./DT box./NN 
+-./: Tech-savvyness./NN with./IN the./DT latest./JJS gadgets./NNS 
+-./: Excellent./NN written./VBN and./CC verbal./JJ communication./NN skills./NNS -./: you./PRP will./MD not./RB sit./VB in./IN corner./NN on./IN your./PRP$ own./JJ ,./, you./PRP will./MD have./VB to./TO work./VB and./CC communicate./VB to./TO make./VB sure./JJ projects./NNS run./VBP smoothly./RB 
+-./: understanding./NN of./IN software./NN development./NN life./NN cycle./NN ,./, QA./NNP methodologies./NNS 
+
+What./WP would./MD make./VB you./PRP even./RB more./RBR awesome./JJ ?./. 
+===./NN 
+-./: Experience./NN with./IN bug./NN tracking./NN tools./NNS (./( JIRA./NNP )./) 
+-./: Knowledge./NN of./IN databases./NNS (./( SQL./NNP )./) ,./, excel./RB ,./, pivot./JJ tables./NNS ,./, Google./NNP Analytics./NNP 
+-./: Development./NNP skills./NNS :./: HTML./NNP /./NNP HTML5./NNP ,./, JavaScript./NNP ,./, CSS./NNP ,./, Java./NNP 
+-./: Familiarity./NN with./IN Photoshop./NNP 
+
+What./WP 's./VBZ in./IN it./PRP for./IN you./PRP ?./. 
+===./NN 
+-./: Most./JJS of./IN the./DT things./NNS that./IN you./PRP work./VBP on./IN will./MD be./VB public-facing./JJ so./IN you./PRP can./MD stake./NN your./PRP$ claim./NN 
+-./: You./PRP do./VBP important./JJ things./NNS ,./, for./IN example./NN -./: the./DT reports./NNS that./IN you./PRP maintain./VBP will./MD have./VB direct./JJ ties./NNS to./TO the./DT company./NN 's./POS revenue./NN ,./, it./PRP 's./VBZ not./RB for./IN the./DT faint./NN of./IN heart./NN 
+-./: As./IN our./PRP$ experience./NN with./IN our./PRP$ past./JJ co-ops./NNS have./VBP suggested./VBN ,./, we./PRP very./RB much./JJ welcome./IN co-ops./NNS who./WP are./VBP ready./JJ to./TO go./VB beyond./IN and./CC take./VB on./IN challenges./NNS ,./, depending./VBG on./IN your./PRP$ interest./NN and./CC skills./NNS we./PRP might./MD throw./VB work./NN at./IN you./PRP that./WDT go./VBP beyond./IN your./PRP$ skill./NN set./VBN 
+
+Where./WRB is./VBZ Olson./NNP Canada./NNP ?./. 
+===./NN 
+-./: Downtown./NN Toronto./NNP 
+-./: Walking./VBG distance./NN of./IN St./NNP Patrick./NNP subway./NN station./NN 
+-./: Foods./NNS &./CC restaurants./NNS all./DT nearby./RB ,./, you./PRP wo./MD n't./RB have./VB to./TO worry./VB about./IN starving./VBG 
+
+Why./WRB Olson./NNP Canada./NNP ?./. 
+===./NN 
+-./: You./PRP get./VBP to./TO work./VB in./IN a./DT young./JJ ,./, vibrant./JJ and./CC welcoming./VBG work./NN environment./NN ../. We./PRP have./VBP open./JJ workspace./NN with./IN no./DT cubicles./NNS ,./, even./RB your./PRP$ manager./NN might./MD be./VB sitting./VBG just./RB across./IN from./IN you./PRP 
+-./: A./DT lot./NN of./IN people./NNS here./RB also./RB been./VBN through./IN co-op./JJ themselves./PRP ,./, they./PRP know./VBP how./WRB it./PRP feels./VBZ and./CC work./VB hard./RB to./TO give./VB you./PRP the./DT best./JJS experience./NN 
+-./: Lunch./NN Fridays./NNP ,./, snacks./VBZ &./CC pops./NNS available./JJ everyday./JJ &./CC beer./NN keg./NN (./( yes./UH ,./, if./IN you./PRP are./VBP old./JJ enough./RB ,./, you./PRP get./VBP to./TO drink./VB beers./NNS )./) 
+-./: We./PRP try./VBP out./RP new./JJ things./NNS :./: the./DT technology./NN team./NN at./IN Olson./NNP Canada./NNP keeps./VBZ up./RP with./IN the./DT latest./JJS &./CC greatest./JJS ,./, we./PRP always./RB push./VB our./PRP$ tech./NN capabilities./NNS 
+-./: We./PRP value./NN your./PRP$ inputs./NNS !./. If./IN you./PRP have./VBP suggestions./NNS on./IN how./WRB we./PRP can./MD improve./VB the./DT things./NNS that./IN you./PRP are./VBP working./VBG on./IN ,./, we./PRP are./VBP happy./JJ to./TO listen./VB 
+
+What./WP our./PRP$ previous./JJ co-ops./NNS say./VBP about./IN their./PRP$ experience./NN ?./. 
+===./NN 
+-./: ``./`` During./IN my./PRP$ second./JJ term./NN at./IN Olson./NNP ,./, I./PRP learned./VBD and./CC applied./VBD a./DT lot./NN more./RBR programming./JJ principles./NNS than./IN I./PRP expected./VBD ../. ''./'' 
+-./: ``./`` I./PRP was./VBD given./VBN several./JJ opportunities./NNS at./IN Olson./NNP to./TO learn./VB beyond./IN my./PRP$ job./NN description./NN ''./'' 
+-./: ``./`` This./DT co-op./JJ term./NN was./VBD a./DT great./JJ experience./NN much./JJ thanks./NNS to./TO everyone./NN in./IN the./DT company./NN for./IN their./PRP$ hospitality./NN and./CC willingness./NN to./TO teach./VB me./PRP about./IN everything./NN they./PRP could./MD ../. ''./'' 

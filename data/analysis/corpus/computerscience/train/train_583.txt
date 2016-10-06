@@ -1,0 +1,39 @@
+WHY./WRB DO./VBP WE./NNP LOVE./NNP COMING./NNP TO./NNP WORK./NNP EVERY./NNP DAY./NNP ?./. 
+
+At./IN D+H./NNP ,./, our./PRP$ incredible./JJ team./NN of./IN employees./NNS ..../: 
+
+Embrace./NN change./NN 
+We./PRP 're./VBP flexible./JJ ,./, ready./JJ to./TO navigate./VB through./IN ambiguity./NN with./IN an./DT open./JJ mind./NN ,./, and./CC are./VBP energized./VBN by./IN our./PRP$ fast-paced./JJ environment./NN ../. 
+
+Are./NNP driven./VBN and./CC motivated./VBN 
+We./PRP love./VBP a./DT good./JJ challenge./NN and./CC are./VBP fueled./VBN by./IN the./DT opportunity./NN to./TO help./VB shape./VB our./PRP$ future./NN ../. 
+
+Think./NNP Innovatively./NNP 
+The./DT world./NN is./VBZ changing./VBG rapidly./RB and./CC we./PRP 're./VBP always./RB looking./VBG for./IN new./JJ ways./NNS to./TO help./VB our./PRP$ clients./NNS grow./VB ,./, compete./VB and./CC optimize./VB their./PRP$ business./NN ../. 
+
+Value./NNP Results./NNP and./CC Relationships./NNP 
+D+H./NNP is./VBZ a./DT trusted./JJ partner./NN to./TO some./DT of./IN the./DT world./NN 's./POS largest./JJS banks./NNS and./CC corporations./NNS and./CC our./PRP$ products./NNS are./VBP critical./JJ to./TO their./PRP$ business./NN ../. We./PRP believe./VBP in./IN collaboration./NN and./CC teamwork./NN to./TO achieve./VB the./DT best./JJS results./NNS ../. 
+
+Your./PRP$ success./NN story./NN starts./VBZ at./IN D+H./NNP ../. For./IN more./JJR information./NN ,./, visit./NN dh.com./NN 
+
+
+A./DT member./NN of./IN the./DT Retail./JJ Solution./NNP (./( Enhancement./NNP Services./NNPS )./) Applications./NNPS Development./NNP team./NN ,./, reporting./VBG to./TO the./DT Manager./NNP ,./, Product./NNP Development./NNP ,./, responsible./JJ for./IN the./DT development./NN of./IN Enhancement./NNP Services./NNPS systems./NNS used./VBD to./TO service./VB leading./VBG financial./JJ lenders./NNS in./IN the./DT banking./NN sector./NN ../. Includes./NNP technical./JJ design./NN ,./, systems./NNS analysis./NN ,./, coding./VBG ,./, unit./NN and./CC integration./NN testing./NN ../. Liaise./NN with./IN other./JJ developers./NNS ,./, team./NN leads./NNS ,./, technical./JJ leads./NNS ,./, QA./NNP ,./, project./NN managers./NNS ,./, business./NN analysts./NNS and./CC end./NN users./NNS regarding./VBG the./DT development./NN and./CC implementation./NN of./IN various./JJ applications./NNS utilizing./JJ .Net./NN and./CC Microsoft./NNP based./VBN platforms./NNS ../. 
+
+Responsibilities./NNS :./: 
+
+-./: Create./NN Code./NNP and./CC Unit./NNP Tests./NNP for./IN various./JJ components./NNS in./IN adherence./NN to./TO internal./JJ standards./NNS and./CC best./JJS practices./NNS 
+-./: Support./NN automation./NN team./NN and./CC enhance./NN Build./NNP Automation./NNP 
+-./: Create./NN Documentation./NN to./TO support./VB delivered./VBN features./NNS 
+-./: Participate./NN in./IN design./NN sessions./NNS 
+-./: Help./NN support./NN and./CC troubleshoot./NN issues./NNS throughout./IN the./DT product./NN development./NN life-cycle./NN 
+
+Skills./NNS and./CC Knowledge./NNP :./: 
+
+-./: Microsoft./NN Word./NNP ,./, Excel./NNP 
+-./: Microsoft./NN Visio./NNP 
+-./: Microsoft./NNP Visual./NNP Studio./NNP and./CC Team./NNP Foundation./NNP System./NNP 
+-./: C./NN #./# .Net./NN and./CC TSQL./NNP 
+-./: Excellent./NN written./VBN and./CC verbal./JJ skills./NNS 
+-./: Self-reliant./NN ,./, good./JJ problem./NN solver./NN ,./, results./NNS oriented./VBD 
+-./: Strong./NN attention./NN to./TO detail./VB 
+-./: Take./VB pride./NN in./IN quality./NN of./IN deliverables./NNS 

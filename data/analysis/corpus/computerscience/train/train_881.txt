@@ -1,0 +1,26 @@
+YOU./NNS are./VBP a./DT dynamic./JJ and./CC energetic./JJ individual./NN who./WP is./VBZ able./JJ to./TO multi-task./JJ and./CC work./NN with./IN little./JJ supervision./NN ../. You./PRP are./VBP very./RB organized./VBN ,./, analytical./JJ and./CC good./JJ at./IN prioritizing./VBG ../. You./PRP possess./VBP well./RB developed./JJ communication./NN and./CC interpersonal./JJ skills./NNS ../. You./PRP are./VBP technologically./RB savvy./JJ with./IN experience./NN in./IN the./DT following./NN :./: Microsoft./NNP office./NN products./NNS including./VBG Word./NNP ,./, Excel./NNP and./CC PowerPoint./NNP ,./, have./VBP had./VBN exposure./NN to./TO relational./JJ databases./NNS (./( MS./NNP SQL./NNP Server./NNP ,./, MS./NNP Access./NNP )./) ,./, 
+exposure./NN to./TO development./NN software./NN (./( C./NNP #./# ,./, VB.Net./NNP 2.0./CD and./CC higher./JJR )./) ../. 
+Ability./NN to./TO learn./VB reporting./VBG software./NN such./JJ as./IN Business./NNP Objects./NNPS ,./, Crystal./NNP Reports./NNP and./CC MicroStrategy./NNP ../. 
+
+You./PRP are./VBP legally./RB eligible./JJ to./TO work./VB in./IN Canada./NNP ../. 
+
+THE./DT OPPORTUNITY./NNP 4./CD month./NN co-op./JJ term./NN 
+
+Application./NNP Developer./NNP (./( Co-op./NNP )./) Position./NN 
+
+Our./PRP$ IS./NNP function./NN is./VBZ composed./VBN of./IN 12./CD professionals./NNS and./CC managers./NNS supporting./VBG an./DT extensive./JJ and./CC sophisticated./JJ technical./JJ infrastructure./NN and./CC systems./NNS application./NN portfolio./NN ../. 
+YOU./NN will./MD work./VB with./IN the./DT Business./NNP Intelligence./NNP IT./NNP group./NN within./IN Information./NNP Systems./NNP ,./, assisting./VBG the./DT team./NN and./CC business./NN users./NNS with./IN Business./NNP Intelligence./NNP application./NN development./NN projects./NNS ../. 
+
+YOUR./PRP$ excellent./JJ analytical./JJ and./CC organizational./JJ skills./NNS should./MD be./VB complemented./VBN by./IN positive./JJ communication./NN skills./NNS and./CC a./DT willingness./NN to./TO learn./VB and./CC use./VB new./JJ skills./NNS as./RB well./RB as./IN your./PRP$ existing./VBG technical./JJ skills./NNS ../. 
+
+YOU./NN will./MD run./VB and./CC support./VB the./DT existing./VBG systems./NNS making./VBG sure./JJ the./DT batch./NN programs./NNS run./VBP ,./, troubleshooting./VBG issues./NNS ../. YOUR./NNP project./NN based./VBN role./NN will./MD include./VB database./NN development./NN in./IN relational./JJ databases./NNS -./: SQL./NNP Server./NNP 2012./CD ;./: Report./NNP development./NN -./: Business./NN Objects./NNPS Query./NNP and./CC Reporting./NNP Tool./NNP ;./: Web./NNP development./NN using./VBG C./NNP #./# ,./, VB.Net./NNP ;./: Analytical./NNP development./NN -./: root./NN cause./NN analysis./NN of./IN issues./NNS ../. 
+
+WHAT./WP WE./NNP OFFER./VBP 
+
+We./PRP work./VBP with./IN every./DT employee./NN to./TO develop./VB leadership./NN skills./NNS ,./, taking./VBG into./IN account./NN individual./JJ performance./NN ,./, experience./NN ,./, growth./NN ,./, and./CC other./JJ factors./NNS to./TO realize./VB employees./NNS './POS career./NN goals./NNS ../. You./PRP 'll./MD be./VB able./JJ to./TO work./VB in./IN a./DT diverse./NN ,./, dynamic./JJ international./JJ business./NN environment./NN ,./, where./WRB you./PRP 'll./MD use./VB state-of-the./JJ art./NN technology./NN in./IN a./DT modern./JJ ,./, progressive./JJ setting./NN to./TO deliver./VB world-class./JJ solutions./NNS and./CC systems./NNS ../. Our./PRP$ culture./NN is./VBZ based./VBN on./IN teamwork./NN ,./, leadership./NN and./CC commitment./NN and./CC we./PRP offer./VBP our./PRP$ employees./NNS a./DT competitive./JJ salary./NN and./CC compensation./NN package./NN ../. 
+
+WHO./IN WE./NNP ARE./NNP 
+
+We./PRP are./VBP Rothmans./NNPS ,./, Benson./NNP &./CC Hedges./NNP Inc../NNP ,./, Philip./NNP Morris./NNP Internationals./NNP affiliate./NN in./IN Canada./NNP ../. Today./NN we./PRP are./VBP Canada./NNP 's./POS second./JJ largest./JJS tobacco./NN company./NN ,./, manufacturing./NN and./CC selling./NN cigarettes./NNS and./CC fine-cut./JJ tobacco./NN as./RB well./RB as./IN distributing./VBG pipe./NN tobacco./NN and./CC cigar./NN products./NNS ../. We./PRP currently./RB employ./VBP over./IN 780./CD people./NNS throughout./IN our./PRP$ 8./CD corporate./JJ and./CC sales./NNS offices./NNS and./CC our./PRP$ factory./NN ../. For./IN more./JJR information./NN ,./, click./NN here./RB ../. 
+
+Diversity./NNP and./CC inclusion./NN is./VBZ one./CD of./IN RBH./NNP 's./POS core./NN values./NNS and./CC we./PRP encourage./VBP applications./NNS from./IN all./DT qualified./VBN candidates./NNS ../. We./PRP are./VBP committed./VBN to./TO fair./VB and./CC accessible./JJ employment./NN practices./NNS and./CC will./MD provide./VB accommodation./NN in./IN all./DT parts./NNS of./IN the./DT hiring./NN process./NN ../. If./IN you./PRP require./VBP a./DT disability-related./JJ accommodation./NN at./IN any./DT time./NN during./IN the./DT hiring./NN process./NN ,./, please./VB inform./JJ RBH./NNP of./IN your./PRP$ requirements./NNS ../. 

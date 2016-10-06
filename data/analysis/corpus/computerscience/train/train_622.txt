@@ -1,0 +1,51 @@
+Profile./NN 
+Horizn./NNP 's./POS mission./NN is./VBZ straightforward./JJ :./: we./PRP want./VBP to./TO change./VB how./WRB companies./NNS train./VBP their./PRP$ employees./NNS and./CC partners./NNS by./IN giving./VBG them./PRP a./DT powerful./JJ platform./NN that./WDT educates./VBZ ,./, engages./NNS and./CC rewards./NNS ../. Combining./VBG the./DT power./NN of./IN learning./NN ,./, mobile./NN ,./, incentives./NNS and./CC social./JJ community./NN ,./, we./PRP offer./VBP a./DT high-performance./JJ training./NN technology./NN platform./NN that./WDT drives./VBZ measurable./JJ results./NNS ../. 
+
+Horizn./NNP is./VBZ a./DT learning./VBG technology./NN company./NN that./WDT operates./VBZ globally./RB helping./VBG companies./NNS in./IN 20+./CD countries./NNS and./CC 15./CD languages./NNS in./IN North./NNP America./NNP ,./, South./NNP America./NNP ,./, Asia./NNP and./CC Europe./NNP ../. Our./PRP$ clients./NNS are./VBP global./JJ and./CC our./PRP$ platform./NN is./VBZ enterprise./RB scalable./JJ ../. Horizn./NNP 's./POS employees./NNS come./VBP from./IN around./IN the./DT world./NN and./CC speak./VB 8./CD languages./NNS and./CC counting./NN ../. 
+
+Summary./JJ 
+We./PRP are./VBP seeking./VBG a./DT start-up./JJ Product./NNP Manager./NNP responsible./JJ for./IN delivering./VBG world-class./JJ solutions./NNS to./TO Horizn./NNP 's./POS global./JJ customers./NNS ../. This./DT position./NN is./VBZ designed./VBN for./IN a./DT brilliant./JJ and./CC highly./RB motivated./JJ product./NN manager./NN ,./, who./WP has./VBZ a./DT high./JJ attention./NN to./TO detail./VB and./CC strives./NNS for./IN customer./NN satisfaction./NN ../. This./DT is./VBZ a./DT great./JJ opportunity./NN to./TO work./VB directly./RB with./IN a./DT highly./RB accomplished./JJ leadership./NN team./NN ,./, hit./VBD a./DT hot./JJ market./NN with./IN best-of-breed./JJ marketing./NN technology./NN and./CC be./VB a./DT foundational./JJ part./NN of./IN our./PRP$ global./JJ business./NN ../. 
+
+You./PRP 're./VBP curious./JJ ,./, driven./VBN ,./, and./CC a./DT marketing./NN technologist./NN that./WDT wants./VBZ to./TO disrupt./VB a./DT long-standing./JJ industry./NN !./. You./PRP have./VBP worked./VBN in./IN a./DT startup./NN or./CC you./PRP are./VBP hungry./JJ to./TO work./VB in./IN a./DT start-up./NN ,./, you./PRP want./VBP to./TO learn./VB from./IN a./DT highly./RB successful./JJ product./NN lead./NN and./CC are./VBP excited./VBN to./TO join./VB a./DT company./NN that./WDT 's./VBZ experiencing./VBG explosive./JJ growth./NN !./. You./PRP proactively./RB take./VBP on./IN tasks./NNS that./WDT are./VBP outside./IN your./PRP$ core./NN function./NN for./IN the./DT good./NN of./IN the./DT company./NN ../. You./PRP understand./VBP that./IN the./DT client./NN comes./VBZ first./RB and./CC you./PRP are./VBP willing./JJ to./TO do./VB what./WP it./PRP takes./VBZ to./TO make./VB your./PRP$ clients./NNS happy./JJ ../. 
+
+Responsibilities./NNS 
+-./: Working./VBG closely./RB with./IN the./DT VP./NNP Product./NNP and./CC with./IN existing./VBG clients./NNS to./TO research./NN ,./, design./NN ,./, implement./NN and./CC test./NN cutting-edge./NN web./NN and./CC mobile./JJ sales./NNS training./VBG applications./NNS 
+-./: Providing./VBG detailed./JJ documentation./NN throughout./IN all./DT stages./NNS of./IN product./NN development./NN ,./, including./VBG client-facing./JJ documentation./NN for./IN new./JJ features./NNS 
+-./: Working./VBG closely./RB with./IN Engineering./NNP and./CC Project./NNP Management./NNP teams./NNS to./TO deliver./VB world./NN class./NN training./NN applications./NNS 
+-./: Documenting./NN feature./NN requests./NNS from./IN existing./VBG clients./NNS and./CC working./VBG with./IN all./DT areas./NNS of./IN the./DT business./NN to./TO ensure./VB that./IN feature./NN requests./NNS are./VBP understood./JJ and./CC prioritized./VBN correctly./RB 
+-./: Working./VBG independently./RB to./TO push./VB forward./RB your./PRP$ part./NN of./IN the./DT project./NN regardless./NN of./IN obstacles./NNS 
+-./: Maintaining./VBG an./DT awareness./NN of./IN relevant./JJ industry./NN and./CC technology./NN developments./NNS and./CC potential./JJ impacts./NNS on./IN existing./VBG and./CC planned./VBN application./NN development./NN and./CC maintenance./NN 
+-./: Continually./RB exceeding./VBG management./NN expectations./NNS while./IN juggling./VBG multiple./JJ projects./NNS with./IN rapidly./RB changing./VBG requirements./NNS and./CC deadlines./NNS 
+-./: Building./NN internal./JJ reports./NNS to./TO share./NN information./NN about./IN product./NN usage./NN and./CC enable./VB the./DT tracking./NN of./IN KPIs./NNP 
+-./: Maintaining./VBG an./DT awareness./NN of./IN relevant./JJ industry./NN and./CC technology./NN developments./NNS and./CC potential./JJ impacts./NNS on./IN existing./VBG and./CC planned./VBN application./NN development./NN and./CC maintenance./NN 
+-./: Performing./VBG detailed./JJ competitive./JJ and./CC industry./NN analysis./NN 
+-./: Developing./VBG proof-of-concept./JJ implementations./NNS of./IN larger./JJR feature./NN requests./NNS and./CC supporting./VBG them./PRP with./IN detailed./JJ documentation./NN 
+-./: Playing./VBG the./DT role./NN of./IN the./DT sales./NNS engineer./VBP when./WRB required./VBN and./CC giving./VBG product./NN demonstrations./NNS to./TO prospective./JJ clients./NNS 
+
+Required./VBN Skills./NNS 
+-./: Are./VBP a./DT motivated./JJ self-starter./NN who./WP has./VBZ a./DT background./NN working./VBG in./IN early-stage./NN companies./NNS where./WRB resources./NNS are./VBP limited./JJ 
+-./: Wicked./VBD smart./JJ problem./NN solver./NN ,./, with./IN the./DT ability./NN to./TO quickly./RB think./VB on./IN their./PRP$ feet./NNS and./CC analyze./VBP the./DT endless./JJ amount./NN of./IN decisions./NNS that./WDT need./VBP to./TO be./VB made./VBN each./DT day./NN 
+-./: Has./NN successfully./RB shipped./VBN engaging./NN and./CC delightful./JJ enterprise./NN web./NN applications./NNS before./IN 
+-./: Strong./JJ technical./JJ background./NN ,./, with./IN experience./NN building./NN enterprise./NN web./NN and./CC mobile./NN applications./NNS 
+-./: Thoughtful./NN about./IN what./WP makes./VBZ a./DT great./JJ user./JJ experience./NN and./CC has./VBZ great./JJ product./NN instincts./NNS 
+-./: Superb./NN leadership./NN skills./NNS and./CC a./DT high./JJ emotional./JJ intelligence./NN 
+-./: Thinks./VBZ deeply./VBP about./IN user./NN needs./NNS ,./, competitive./JJ &./CC market./NN trends./NNS ,./, company./NN strategy./NN and./CC can./MD ruthlessly./RB prioritize./VB 
+-./: Has./NN excellent./JJ communication./NN skills./NNS and./CC is./VBZ able./JJ to./TO articulate./VB and./CC shape./VB a./DT vision./NN ,./, strategy./NN 
+-./: Has./VBZ the./DT ability./NN to./TO self-manage./JJ multiple./JJ projects./NNS simultaneously./RB and./CC meet./VB deadlines./NNS 
+-./: Has./NN entrepreneurial./JJ spirit./NN and./CC passion./NN for./IN education./NN 
+
+Transportation./NN And./CC Housing./NN 
+1./CD minute./NN walk./NN from./IN Queens./NNP Park./NNP Subway./NNP Station./NNP ,./, near./IN University./NNP Ave../NNP &./CC College./NNP St./NNP ../. 
+Near./IN University./NNP of./IN Toronto./NNP ,./, plenty./NN of./IN affordable./JJ housing./NN nearby./RB if./IN required./VBN 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+-./: Above./IN average./JJ pay./NN 
+-./: Endless./NN amount./NN of./IN opportunities./NNS to./TO build./VB your./PRP$ resume./NN 
+-./: Other./JJ startup./NN perks./NNS (./( i.e./JJ meals./NNS when./WRB staying./VBG late./RB ,./, XBox./NNP tournaments./NNS ,./, etc./FW ../. )./) 
+
+Career./NNP Development./NNP And./CC Training./NNP 
+-./: Award./NN winning./VBG CEO./NNP 
+-./: Report./NN directly./RB to./TO a./DT highly./RB successful./JJ Product./NNP Management./NNP executive./NN that./WDT is./VBZ also./RB a./DT Waterloo./NNP graduate./NN 
+-./: Small./NN startup./NN with./IN Fortune./NNP 500./CD clients./NNS ,./, building./VBG a./DT disruptive./JJ platform./NN 
+
+Located./VBN within./IN MaRS./NNP Discovery./NNP District./NNP building./NN ,./, home./NN to./TO numerous./JJ startups./NNS ,./, entrepreneurs./NNS ,./, investors./NNS ,./, meetups./NNS ,./, etc./FW ../. 

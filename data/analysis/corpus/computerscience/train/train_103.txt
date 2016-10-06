@@ -1,0 +1,44 @@
+Employer./NNP Profile./NNP 
+
+500px./CD is./VBZ an./DT award-winning./JJ online./NN community./NN for./IN the./DT sharing./NN ,./, discovery./NN ,./, buying./VBG and./CC selling./NN of./IN high-quality./NN photography./NN by./IN individual./JJ photographers./NNS ../. Every./DT month./NN ,./, millions./NNS of./IN people./NNS visit./VBP the./DT 500px.com./CD website./NN ,./, in-browser./JJ apps./NN and./CC mobile./JJ apps./NN from./IN around./IN the./DT world./NN to./TO find./VB the./DT world./NN 's./POS most./RBS inspiring./JJ photography./NN ../. 500px./CD 's./POS investors./NNS include./VBP Andreessen./NNP Horowitz./NNP ,./, Harrison./NNP Metal./NNP ,./, ff./NN Ventures./NNS ,./, and./CC others./NNS ../. 
+
+You./PRP will./MD have./VB the./DT opportunity./NN to./TO work./VB with./IN one./CD of./IN Canada./NNP 's./POS top./JJ consumer./NN driven./VBN startups./NNS ../. We./PRP take./VBP pride./NN in./IN the./DT product./NN we./PRP ship./VBP and./CC love./VBP what./WP we./PRP do./VBP ../. By./IN joining./VBG 500px./CD you./PRP will./MD see./VB the./DT immediate./JJ impact./NN of./IN your./PRP$ work./NN and./CC contribute./NN to./TO inspiring./VBG the./DT world./NN with./IN the./DT world./NN 's./POS best./JJS photo./NN sharing./NN ../. 
+
+Job./NNP Summary./NNP 
+
+We./PRP 're./VBP looking./VBG for./IN a./DT versatile./JJ developer./NN co-op./NN to./TO join./VB our./PRP$ high-energy./JJ mobile./JJ team./NN ../. You./PRP will./MD help./VB us./PRP build./VB Android./NNP and./CC iOS./VB apps./NN that./IN serve./VBZ our./PRP$ large./JJ and./CC diverse./JJ community./NN of./IN photographers./NNS by./IN helping./VBG them./PRP create./NN ,./, edit./NN ,./, share./NN ,./, and./CC get./VB rewarded./VBN for./IN their./PRP$ work./NN ../. 
+
+Responsibilities./NNS 
+
+The./DT Job./NN :./: 
+-./: Build./NN beautiful./JJ apps./NN that./WDT keep./VBP millions./NNS of./IN users./NNS engaged./VBN everyday./JJ 
+-./: Grow./NN as./IN part./NN of./IN a./DT world-class./NN mobile./NN team./NN 
+-./: Innovate./NN :./: smart./JJ camera./NN ,./, personalization./NN ,./, advanced./JJ image./NN editing./VBG etc./NN ../. 
+
+Required./VBN Skills./NNS 
+
+You./PRP :./: 
+-./: Are./VBP a./DT fast./JJ learner./NN 
+-./: Write./NN thoughtfully./RB clean./JJ code./NN and./CC tests./NNS 
+-./: Have./VBP published./VBN mobile./JJ apps./NN (./( please./VB provide./VB links./NNS )./) 
+
+Ideally./RB ,./, you./PRP :./: 
+-./: Love./NN photography./NN (./( please./VB provide./VB links./NNS )./) 
+-./: Love./NN contributing./NN to./TO open./VB source./NN (./( please./VB provide./VB links./NNS )./) 
+
+Transportation./NN And./CC Housing./NN 
+Our./PRP$ office./NN is./VBZ located./VBN in./IN downtown./NN Toronto./NNP ,./, easily./RB accessible./JJ by./IN subway./NN and./CC streetcars./NNS ../. 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+
+The./DT Perks./NNS :./: 
+-./: Monthly./JJ Hack./NNP Days./NNPS :./: Work./NN on./IN whatever./WDT you./PRP 're./VBP most./JJS passionate./JJ about./IN every./DT month./NN ../. Learn./NNP ,./, build./NN ,./, become./VB better./RBR ../. 
+-./: Team./NN Hangouts./VBZ :./: Culture./NN is./VBZ extremely./RB important./JJ to./TO us./PRP ../. Join./VB in./IN and./CC go./VB to./TO restaurants./NNS ,./, crazy./JJ activities./NNS (./( like./IN axe./NN throwing./VBG !./. )./) or./CC retreats./VBZ with./IN the./DT team./NN ../. 
+-./: Free./JJ and./CC Healthy./JJ Lunches./NNS :./: We./PRP feed./VBP you./PRP the./DT best./JJS so./RB you./PRP can./MD be./VB your./PRP$ best./JJS ../. Enjoy./VB catered./VBN healthy./JJ and./CC delicious./JJ lunches./NNS four./CD days./NNS a./DT week./NN ../. 
+-./: Best./JJS Caffeine./NN :./: We./PRP buy./VBP Toronto./NNP 's./POS best./JJS coffee./NN and./CC teas./NNS ,./, so./IN expect./JJ better-than-Starbucks./NNS lattes./NNS and./CC a./DT huge./JJ variety./NN of./IN teas./NNS to./TO choose./VB from./IN for./IN your./PRP$ daily./JJ pick-me-up./NN ../. 
+-./: Office./NN Space./NN :./: You./PRP 'll./MD be./VB treated./VBN to./TO a./DT larger-than-usual./JJ work./NN desk./NN with./IN Herman./NNP Miller./NNP Aeron./NNP ,./, the./DT world./NN 's./POS most./RBS comfortable./JJ office./NN chair./NN ,./, in./IN our./PRP$ open-concept./JJ office./NN ../. 
+-./: Free./JJ 500px./CD Awesome./JJ Accounts./NNS :./: Let./VB your./PRP$ inner./JJ creative./JJ flourish./NN with./IN unlimited./JJ access./NN to./TO all./DT things./NNS 500px./CD ../. 
+
+Career./NNP Development./NNP And./CC Training./NNP 
+
+500px./CD is./VBZ an./DT experienced./JJ co-op./JJ student./NN employer./NN -./: we./PRP support./VBP co-op./JJ students./NNS with./IN an./DT amazing./JJ onboarding./NN experience./NN ,./, provide./VBP assigned./VBN mentors./NNS ,./, and./CC then./RB treat./VB them./PRP as./IN full./JJ members./NNS of./IN the./DT team./NN ../. You./PRP 'll./MD be./VB supported./VBN while./IN being./VBG given./VBN free./JJ reign./NN and./CC ownership./NN over./IN your./PRP$ work./NN ../. That./DT means./VBZ you./PRP 'll./MD learn./VB a./DT lot./NN ,./, and./CC get./VB plenty./NN of./IN great./JJ opportunities./NNS to./TO develop./VB your./PRP$ skills./NNS and./CC gain./NN experience./NN in./IN our./PRP$ unique./JJ startup./NN environment./NN ../. 

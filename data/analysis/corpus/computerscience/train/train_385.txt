@@ -1,0 +1,30 @@
+About./IN us./PRP 
+-./: Believe./NN in./IN being./VBG lean./JJ -./: we./PRP constantly./RB Build./NNP ,./, Measure./NNP ,./, and./CC Learn./NNP in./IN all./DT aspect./NN of./IN our./PRP$ business./NN 
+-./: Customer./NN centric./NN ;./: we./PRP will./MD be./VB successful./JJ when./WRB we./PRP delight./VBD our./PRP$ customers./NNS 
+-./: R./NN &./CC D./NNP office./NN in./IN North./NNP Waterloo./NNP ;./: HQ./NNP in./IN Silicon./NNP Valley./NNP 
+If./IN you./PRP are./VBP ready./JJ for./IN a./DT challenge./NN ,./, come./VB work./NN at./IN Arctic./NNP Wolf./NNP Networks./NNP ,./, make./VBP a./DT difference./NN ,./, and./CC be./VB part./NN of./IN our./PRP$ success./NN !./. 
+
+Arctic./NNP Wolf./NNP Networks./NNP is./VBZ looking./VBG for./IN a./DT talented./JJ software./NN developer./NN to./TO help./VB us./PRP revolutionize./VB the./DT way./NN that./IN network./NN security./NN is./VBZ delivered./VBN to./TO small./JJ and./CC medium./JJ businesses./NNS ../. Our./PRP$ small./JJ hardworking./NN team./NN is./VBZ passionate./JJ about./IN building./VBG a./DT cloud-based./JJ solution./NN that./WDT will./MD solve./VB the./DT real./JJ world./NN security./NN problems./NNS that./IN IT./NNP professionals./VBZ face./NN ../. We./PRP are./VBP a./DT four-year-old./JJ ,./, well-funded./JJ ,./, startup./NN led./VBN by./IN a./DT Silicon./NNP Valley./NNP founder./NN with./IN a./DT proven./JJ track./NN record./NN ../. 
+
+What./WP you./PRP 'll./MD do./VB 
+-./: Tackle./NN complex./JJ information./NN modelling./VBG problems./NNS to./TO achieve./VB a./DT simple./JJ and./CC effective./JJ solution./NN 
+-./: Work./NN on./IN tooling./VBG to./TO extract./VB critical./JJ s./NN 
+ecurity./NN events./NNS from./IN 2./CD billion./CD observations./NNS a./DT day./NN ../. 
+-./: Meet./NN daily./JJ with./IN the./DT team./NN to./TO review./VB progress./NN and./CC share./NN technical./JJ issues./NNS 
+
+Responsibilities./NNS 
+Work./NN on./IN development./NN projects./NNS with./IN senior./JJ developers./NNS ,./, learn./VBP new./JJ technologies./NNS ,./, and./CC cloud./JJ practices./NNS ../. Will./MD be./VB responsible./JJ for./IN writing./VBG code./NN and./CC testing./VBG your./PRP$ work./NN ../. You./PRP will./MD be./VB working./VBG on./IN our./PRP$ data./NNS pipeline./NN that./WDT currently./RB handles./VBZ over./IN 3./CD billion./CD events./NNS a./DT day./NN ../. 
+
+About./IN you./PRP 
+-./: Self./NN starter./NN who./WP enjoys./VBZ big./JJ technical./JJ challenges./NNS 
+-./: Excited./VBN by./IN the./DT opportunity./NN to./TO learn./VB new./JJ things./NNS 
+-./: Great./NN design./NN skills./VBZ with./IN a./DT true./JJ love./NN of./IN coding./VBG 
+-./: Solid./JJ work./NN experience./NN with./IN Python./NNP ,./, C/C++./NNP ,./, Linux./NNP 
+-./: Excellent./NN understanding./NN of./IN networking./NN protocols./NNS -./: TCP/IP./NNP ,./, SSL/TLS./NNP ,./, IP./NNP routing./VBG 
+-./: Experience./NN with./IN tools./NNS like./IN Wireshark./NNP ,./, Nmap./NNP ,./, tcpdump./NN 
+-./: Have./VBP knowledge./NN of./IN Big./NNP Data./NNP tooling./NN ,./, analytics./NNS ,./, and./CC Machine./NNP Learning./NNP 
+-./: Familiarity./NN with./IN AWS./NNP Cloud./NNP methodology./NN ../. 
+-./: Knowledgeable./NN in./IN the./DT field./NN of./IN network./NN security./NN 
+-./: Working./VBG knowledge./NN of./IN GitHub./NNP ,./, Jenkins./NNP ,./, and./CC automated./VBD test./NN tools./NNS 
+-./: Believe./NN in./IN testing./VBG as./IN a./DT fundamental./JJ development./NN practice./NN 
+-./: Excellent./NN written./VBN and./CC oral./JJ communication./NN skills./NNS 

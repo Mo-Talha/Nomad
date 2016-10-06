@@ -1,0 +1,31 @@
+_______________________________________________________________________./NN 
+
+Description./NN :./: 
+In./IN this./DT highly./RB visible./JJ role./NN ,./, as./IN part./NN of./IN a./DT highly./RB talented./VBN team./NN you./PRP will./MD be./VB at./IN the./DT heart./NN of./IN the./DT chip./NN design./NN effort./NN interfacing./VBG with./IN all./DT disciplines./NNS (./( vertical./JJ product./NN model./NN )./) with./IN critical./JJ impact./NN in./IN getting./VBG functional./JJ products./NNS to./TO millions./NNS of./IN customers./NNS quickly./RB ../. 
+
+Core./NN Responsibilities./NNS :./: 
+
+You./PRP will./MD be./VB responsible./JJ for./IN ensuring./VBG the./DT quality./NN of./IN the./DT SOC./NNP &./CC are./VBP expected./VBN to./TO :./: 
+Work./NN closely./RB with./IN the./DT team./NN ,./, review./NN specifications./NNS ,./, develop./VB attributes./NNS ,./, tests./NNS &./CC coverage./NN plans./NNS ,./, define./NN methodology./NN &./CC test./NN benches./NNS ../. 
+Work./NN closely./RB with./IN design./NN &./CC micro-architecture./NN teams./NNS to./TO understand./VB the./DT functional./JJ &./CC performance./NN goals./NNS of./IN the./DT design./NN ../. 
+Stay./NNP abreast./RB with./IN design./NN specs./NN ,./, conduct./VBP test./NN plan./NN reviews./VBZ ,./, develop./VB block/full./JJ chip./NN tests./NNS &./CC triage./NN of./IN failures./NNS ../. 
+Have./VBP strong./JJ communication./NN skills./NNS combined./VBN with./IN good./JJ team-oriented./JJ approaches./NNS to./TO lead./VB the./DT verification./NN efforts./NNS in./IN a./DT specific./JJ area./NN of./IN the./DT design./NN ../. 
+Support./NNP gate./NN level./NN functional./JJ verification./NN ,./, run./VB regressions./NNS ,./, manage./NN bug./NN tracking./NN ,./, analyze./JJ code./NN &./CC functional./JJ coverage./NN ..../: etc./NN ../. 
+Work./NNP independently./RB &./CC manage./NN deliverables./NNS to./TO align./VB with./IN the./DT project./NN goals./NNS plus./CC support./JJ cross-functional./JJ engineering./NN efforts./NNS ../. 
+
+Key./JJ Qualifications./NNS :./: 
+The./DT ideal./JJ candidate./NN will./MD have./VB Verification./NNP experience./NN :./: 
+Advanced./NNP knowledge./NN of./IN CPU./NNP &./CC SOC./NNP architecture/design./NN &./CC in-depth./JJ knowledge./NN of./IN verification./NN flow./NN ../. 
+Experience./NN with./IN low-level./JJ programming./NN of./IN complex./JJ computer./NN systems./NNS in./IN C/C++/assembly./NNP ../. 
+Familiarity./NN with./IN verification./NN environments./NNS ,./, VMM./NNP ,./, System./NNP Verilog./NNP is./VBZ a./DT plus./NN ../. 
+Knowledge./NNP of./IN industry./NN standard./NN interfaces./NNS ,./, good./JJ understanding./NN of./IN Verilog./NNP ,./, Verilog./NNP simulator./NN and./CC debug./NN ../. 
+Clear./JJ understanding./NN of./IN constrained./JJ random./JJ verification./NN process./NN ,./, functional./JJ coverage./NN ,./, code./NN coverage./NN ,./, assertion./NN methodology./NN &./CC philosophy./NN ../. 
+Knowledge./NNP of./IN formal./JJ ,./, hardware./JJ acceleration./NN all./DT plusses./NNS ../. 
+Should./MD be./VB a./DT team./NN player./NN with./IN excellent./JJ communication./NN skills./NNS and./CC the./DT desire./NN to./TO take./VB on./IN diverse./NN challenges./NNS ../. 
+
+Education./NN :./: 
+BSEE/MSEE./NNP or./CC MSCE./NNP 
+
+Apple./NNP is./VBZ an./DT Equal./JJ Employment./NNP Opportunity./NNP Employer./NNP that./WDT is./VBZ committed./VBN to./TO inclusion./NN and./CC diversity./NN ../. We./PRP also./RB take./VBP affirmative./JJ action./NN to./TO offer./VB employment./NN and./CC advancement./NN opportunities./NNS to./TO all./DT applicants./NNS ,./, including./VBG minorities./NNS ,./, women./NNS ,./, protected./VBD veterans./NNS ,./, and./CC individuals./NNS with./IN disabilities./NNS ../. 
+
+This./DT job./NN is./VBZ located./VBN in./IN Cupertino./NNP ,./, CA./NNP and./CC offers./VBZ competitive./JJ benefits./NNS including./VBG corporate./JJ housing./NN OR./NNP $./$ 1000./CD monthly./JJ rent./NN stipend./NN ,./, paid./VBD travel./NN expenses./NNS to./TO and./CC from./IN Waterloo./NNP and./CC substantial./JJ discounts./NNS on./IN Apple./NNP products./NNS ../. 

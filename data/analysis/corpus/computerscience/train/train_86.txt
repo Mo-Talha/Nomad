@@ -1,0 +1,29 @@
+The./DT Company./NN :./: 
+At./IN AO./NNP Smith./NNP ,./, we./PRP are./VBP building./VBG on./IN over./IN 150./CD years./NNS of./IN history./NN ../. We./PRP have./VBP been./VBN pioneers./NNS in./IN the./DT manufacturing./NN of./IN consumer./NN durable./JJ products./NNS since./IN 1847./CD ,./, and./CC are./VBP now./RB moving./VBG into./IN a./DT future./NN where./WRB innovation./NN and./CC a./DT spirit./NN of./IN continuous./JJ improvement./NN will./MD drive./VB our./PRP$ businesses./NNS to./TO grow./VB and./CC succeed./VB on./IN a./DT North./JJ American./JJ scale./NN ../. To./TO help./VB us./PRP achieve./VB this./DT ,./, we./PRP recognize./VBP the./DT importance./NN of./IN building./VBG a./DT team./NN committed./VBN to./TO responding./VBG to./TO customer./NN needs./NNS and./CC a./DT competitive./JJ environment./NN ../. 
+
+A../NN O../NNP Smith./NNP WPC./NNP Canada./NNP located./VBN in./IN Fergus./NNP is./VBZ seeking./VBG a./DT computer./NN science./NN co-op./JJ student./NN to./TO assist./VB in./IN the./DT I.T./NNP ../. department./NN ../. This./DT position./NN will./MD introduce./VB the./DT student./NN to./TO a./DT distribution./NN centre./NN environment./NN and./CC allow./VB them./PRP to./TO apply./VB and./CC improve./VB their./PRP$ software./NN development./NN and./CC hardware./NN skills./NNS ../. 
+
+Reports./NNS to./TO :./: Business./NN Systems./NNPS and./CC I.T./NNP ../. Manager./NNP 
+
+Job./NNP Purpose./NNP :./: 
+The./DT primary./JJ role./NN of./IN this./DT position./NN is./VBZ to./TO support./VB the./DT business./NN requirements./NNS of./IN the./DT organization./NN by./IN assisting./VBG with./IN hardware./NN support./NN ,./, software./NN development./NN and./CC the./DT fulfillment./NN of./IN user./NN requests./NNS ../. The./DT student./NN will./MD be./VB provided./VBN with./IN guidance./NN to./TO ensure./VB success./NN and./CC growth./NN ,./, along./IN with./IN the./DT opportunity./NN to./TO participate./VB on./IN several./JJ cross./JJ functional./JJ teams./NNS and./CC projects./NNS ../. This./DT position./NN will./MD involve./VB programming./NN ,./, data./NN analysis./NN ,./, and./CC hardware./NN deployment./NN /./NN troubleshooting./NN ../. 
+
+Key./NNP Responsibilities/Assigned./VBD Duties./NNS :./: 
+-./: Provide./NN hardware./NN support./NN for./IN the./DT organization./NN as./IN required./VBN ../. 
+-./: Provide./NN day./NN to./TO day./NN ERP./NNP application./NN support./NN ../. 
+-./: Analyze./NN data./NNS using./VBG BI./NNP tools./NNS ,./, ERP./NNP reports./NNS and./CC SQL./NNP for./IN troubleshooting./VBG and./CC to./TO provide./VB ad./NN hoc./NN analyses./VBZ for./IN end./NN users./NNS ../. 
+-./: Creation./NN of./IN reporting./VBG systems./NNS to./TO measure./VB success./NN of./IN implemented./JJ programs./NNS and./CC performance./NN of./IN the./DT organization./NN ../. 
+-./: Development./NNP and./CC maintenance./NN of./IN dynamic./JJ websites./NNS for./IN both./DT internal./JJ and./CC customer./NN facing./NN applications./NNS ../. 
+
+Learning./VBG Outcomes./NNS :./: 
+-./: Applicant./NN will./MD gain./VB an./DT understanding./NN of./IN the./DT supply./NN chain./NN process./NN and./CC lean./JJ manufacturing./NN techniques./NNS ../. 
+-./: Applicant./NN will./MD experience./VB working./VBG with./IN a./DT large./JJ RDBMS./NNP (./( Oracle./NNP )./) and./CC the./DT development./NN of./IN ad-hoc./JJ SQL./NNP reports./NNS ../. 
+-./: C./NN #./# /./JJ asp.net./NN programming./VBG skills./NNS will./MD be./VB developed./VBN through./IN the./DT creation./NN of./IN both./DT internal./JJ and./CC customer./NN facing./NN websites./NNS ../. 
+-./: Student./NN will./MD gain./VB familiarity./NN with./IN deployment./NN and./CC servicing./NN of./IN a./DT wide./JJ range./NN of./IN hardware./NN and./CC networking./JJ devices./NNS ../. 
+
+Preferred./JJ Experience./NNP and./CC Skills./NNS :./: 
+-./: Ability./NN to./TO work./VB independently./RB and./CC with./IN limited./JJ guidance./NN to./TO translate./VB business./NN requirements./NNS into./IN functional./JJ processes/applications./NNS ../. 
+-./: Excellent./NN communication./NN and./CC interpersonal./JJ skills./NNS ,./, along./IN with./IN the./DT ability./NN to./TO provide./VB systems./NNS support./NN ../. 
+-./: Understanding./NN of./IN hardware./NN ,./, software./NN and./CC network./NN components./NNS ../. 
+-./: Knowledge./NN of./IN Windows./NNP PCs./NNP as./RB well./RB as./IN peripheral./JJ devices./NNS such./JJ as./IN scanners./NNS ,./, printers./NNS ../. 
+-./: Experience./NN in./IN Website./NNP deployment./NN ,./, using./VBG C./NNP #./# /asp.net./NN ../. 

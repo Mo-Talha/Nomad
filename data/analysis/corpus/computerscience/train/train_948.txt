@@ -1,0 +1,32 @@
+Wanted./VBN :./: software./NN enthusiasts./NNS who./WP want./VBP to./TO go./VB beyond./IN coding./NN and./CC learn./VB the./DT art./NN of./IN continuous./JJ software./NN delivery./NN in./IN a./DT rapidly./RB changing./VBG cloud./NN environment./NN ../. We./PRP need./VBP fast./JJ learners./NNS and./CC multi-taskers./NNS who./WP wants./VBZ to./TO join./VB one./CD of./IN the./DT Top./NNP Employers./NNP for./IN Young./NNP People./NNPS and./CC one./CD of./IN top./JJ 5./CD SaaS./NNP companies./NNS in./IN Canada./NNP and./CC have./VBP a./DT love./NN for./IN ping./VBG pong./NN or./CC foosball./NN :./: )./) 
+
+Vision./NNP Critical./NNP provides./VBZ a./DT cloud-based./JJ customer./NN intelligence./NN platform./NN that./WDT allows./VBZ companies./NNS to./TO build./VB engaged./VBN ,./, secure./JJ communities./NNS of./IN customers./NNS they./PRP can./MD use./VB continuously./RB ,./, across./IN the./DT enterprise./NN ,./, for./IN ongoing./VBG ,./, real-time./JJ feedback./NN and./CC insight./NN ../. Designed./VBN for./IN today./NN 's./POS always-on./JJ ,./, social./JJ and./CC mobile./JJ savvy./NN customer./NN ,./, Vision./NNP Critical./NNP 's./POS technology./NN helps./VBZ large./JJ ,./, customer-centric./JJ enterprises./NNS discover./VBP what./WP their./PRP$ customers./NNS want./VBP so./IN they./PRP can./MD deliver./VB what./WP they./PRP need./VBP ../. Unlike./IN traditional./JJ customer./NN research./NN ,./, which./WDT is./VBZ slow./JJ ,./, expensive./JJ and./CC gathers./NNS dust./VBP on./IN a./DT shelf./NN ,./, Vision./NNP Critical./NNP 's./POS customer./NN intelligence./NN platform./NN replaces./VBZ static./JJ data./NNS and./CC cumbersome./JJ reports./NNS with./IN real-time./JJ actionable./JJ customer./NN intelligence./NN that./IN companies./NNS need./VBP to./TO build./VB better./JJR products./NNS ,./, deliver./VB better./JJR services./NNS and./CC achieve./VBP better./JJR business./NN outcomes./NNS ../. 
+
+This./DT is./VBZ an./DT exciting./JJ position./NN to./TO improve./VB the./DT efficiency./NN and./CC reliability./NN of./IN our./PRP$ continuous./JJ delivery./NN process./NN and./CC framework./NN of./IN our./PRP$ world./NN class./NN SaaS./NNP solutions./NNS in./IN an./DT energetic./JJ dynamic./JJ environment./NN with./IN cutting-edge./NN technology./NN ../. You./PRP will./MD have./VB a./DT passion./NN to./TO enhance./VB and./CC improve./VB our./PRP$ processes./NNS and./CC software./NN delivery./NN automation./NN ../. This./DT position./NN will./MD require./VB strong./JJ software./NN development./NN skills./NNS along./IN with./IN a./DT passion./NN to./TO embrace./VB continuous./JJ delivery/release./NN engineering./NN practices./NNS ../. 
+
+Release./NNP Engineering./NNP Co-op./NNP (./( 8./CD Months./NNP )./) -./: Starting./VBG January./NNP 3./CD ,./, 2017./CD 
+Who./WP You./PRP Are./VBP :./: 
+-./: A./DT Computer./NNP Science./NNP or./CC Engineering./NNP student./NN or./CC recent./JJ grad./NN wanting./VBG to./TO prove./VB yourself./PRP ,./, test./VB your./PRP$ limits./NNS ,./, build./VB great./JJ software./NN ,./, and./CC be./VB mentored./VBN by./IN top./JJ notch./NN developers./NNS 
+-./: A./DT team./NN player./NN who./WP will./MD contribute./VB to./TO an./DT agile./JJ team./NN as./IN an./DT engineer./NN building./VBG our./PRP$ industry./NN leading./VBG SaaS./NNP product./NN suite./NN 
+-./: Driven./NN ,./, focused./VBD and./CC results-oriented./JJ always./RB looking./VBG to./TO learn./VB cutting-edge./NN technologies./NNS 
+-./: Looking./VBG to./TO open./VB doors./NNS and./CC start./VB your./PRP$ career./NN with./IN one./CD of./IN the./DT Top./NNP SaaS./NNP companies./NNS in./IN Canada./NNP 
+-./: Confident./NN with./IN at./IN least./JJS one./CD modern./JJ programming./NN language./NN 
+-./: Someone./NN who./WP has./VBZ a./DT love./NN for./IN learning./VBG different./JJ technology./NN and./CC a./DT passion./NN for./IN problem./NN solving./NN 
+-./: A./DT desire./NN to./TO understand./VB what./WP it./PRP takes./VBZ to./TO deliver./VB the./DT code./NN someone./NN builds./NNS on./IN their./PRP$ workstation./NN all./PDT the./DT way./NN to./TO a./DT production./NN cloud./NN server./NN 
+-./: Enjoy./NN learning./VBG from./IN hands./NNS on./IN experiences./NNS such./JJ as./IN Hackathons./NNS 
+-./: Someone./NN who./WP wants./VBZ to./TO embrace./VB a./DT work/life./JJ balance./NN so./IN you./PRP can./MD enjoy./VB all./DT that./DT Vancouver./NNP has./VBZ to./TO offer./VB 
+
+What./WP you./PRP 'll./MD learn./VB :./: 
+-./: Develop./NN using./VBG a./DT variety./NN of./IN cutting./VBG edge./NN tools./NNS and./CC technologies./NNS :./: 
+o./JJ Languages./NNS :./: C./NNP #./# ,./, PowerShell./NNP ,./, etc./NN ../. 
+o./JJ Databases./NNS :./: Ms./NNP SQL./NNP ,./, Oracle./NNP ,./, RedShift./NNP etc./FW ../. 
+o./JJ Tools/Platforms./NNS :./: Git./NNP ,./, AWS./NNP ,./, Chef./NNP ,./, VSphere./NNP ,./, Load./NNP Balancers./NNP ,./, Continuous./JJ Delivery./NNP Tools./NNP and./CC more./JJR 
+-./: Progressive./NN Development./NNP Methodologies./NNS :./: 
+o./JJ Fast-paced./NNP agile./NN environment./NN with./IN one./CD week./NN sprints./NNS 
+o./RB Continuous./JJ integration./NN (./( CI./NNP )./) and./CC Continuous./JJ delivery./NN (./( CD./NN )./) environment./NN with./IN a./DT -Release./NN Early./NNP ,./, Release./NNP Often-./NNP philosophy./NN 
+o./NN Grow./NNP and./CC introduce./VB improvements./NNS to./TO a./DT multi-team./JJ multi-technology./NN build/test/deploy./NN continuous./JJ delivery./NN infrastructure./NN with./IN focus./NN on./IN automation./NN 
+Want./VBP an./DT insider./NN 's./POS view./NN of./IN Vision./NNP Critical./NNP ?./. Check./VB out./RP a./DT day./NN in./IN the./DT life./NN of./IN a./DT software./NN developer./NN at./IN VC./NNP !./. 
+
+Here./RB is./VBZ the./DT view./NN from./IN our./PRP$ Vancouver./NNP office./NN :./: http./NN :./: //webcam.visioncritical.com/./NN 
+Positions./NNS are./VBP available./JJ in./IN our./PRP$ Vancouver./NNP office./NN !./. Ready./JJ to./TO join./VB our./PRP$ team./NN ?./. 
+If./IN this./DT sounds./VBZ like./IN the./DT perfect./JJ opportunity./NN for./IN you./PRP we./PRP invite./VBP you./PRP to./TO apply./VB online./JJ now./RB ../. Please./NNP include./VB your./PRP$ school./NN transcripts./NNS with./IN your./PRP$ resume./NN or./CC cover./NN letter./NN ../. 

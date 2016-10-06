@@ -1,0 +1,48 @@
+Did./NNP you./PRP know./VB ?./. 
+
+-./: The./DT Weather./NNP Network/MtoMdia./NNP is./VBZ the./DT #./# 1./CD Wx./NNP App./NNP in./IN Canada./NNP with./IN 4.2M./CD uniques./NNS (./( Mobile./NNP Metrix./NNP ,./, tablet./NN &./CC phone./NN )./) 
+-./: We./PRP have./VBP 2M./CD average./JJ monthly./JJ reach./NN on./IN Desktop./NNP &./CC Tablets./NNP generating./VBG 113M./CD average./JJ monthly./JJ page./NN views./NNS 
+
+Now./RB that./DT 's./VBZ impressive./JJ !./. 
+
+The./DT Opportunity./NN 
+
+You./PRP will./MD work./VB with./IN the./DT VP./NNP of./IN Technology./NNP Architecture./NNP and./CC Technology./NNP teams./NNS to./TO create./VB the./DT next./JJ generation./NN of./IN software./NN application./NN prototypes./NNS for./IN demonstrating./VBG concepts./NNS ../. You./PRP will./MD have./VB a./DT chance./NN to./TO work./VB on./IN different./JJ projects./NNS ,./, including./VBG :./: HTML5./NNP based./VBN TV./NN applications./NNS ,./, mobile./JJ applications./NNS ,./, big./JJ data./NNS analysis./NN and./CC backend./NN web./NN services./NNS ../. You./PRP will./MD explore./VB many./JJ open./JJ source./NN technologies./NNS and./CC evangelize./VB their./PRP$ adoption./NN in./IN Pelmorex./NNP ../. 
+
+A./DT day./NN in./IN the./DT life./NN of./IN a./DT Software./NNP Developer./NNP ,./, Co-op./NNP at./IN The./DT Weather./NNP Network./NN :./: 
+
+-./: Create./NN large./JJ scale./NN distributed./VBD applications./NNS that./WDT integrate./VBP to./TO several./JJ popular./JJ APIs./NNP such./JJ as./IN Facebook./NNP ,./, Yelp./NNP ,./, etc./NN ../. 
+-./: Work./NN with./IN the./DT Technology./NNP teams./NNS to./TO analyze./VB in-house./JJ software./NN systems./NNS and./CC propose./JJ ideas./NNS for./IN adopting./VBG best./JJS in./IN class./NN open./JJ source./NN where./WRB applicable./NN ../. 
+-./: Look./NN at./IN other./JJ competitive./JJ apps./NN that./WDT have./VBP heavy./VBN user./JJ adoption./NN and./CC build./VB conceptual./JJ prototypes./NNS of./IN neat./JJ elements./NNS in./IN them./PRP and./CC integrate./VB with./IN Pelmorex./NNP systems./NNS ../. 
+-./: Utilize./NN open./JJ source./NN big./JJ data./NN tools./NNS such./JJ as./IN Hadoop./NNP and./CC Apache./NNP Flume./NNP to./TO help./VB build./VB insights./NNS from./IN user./JJ information./NN in./IN web./NN server./NN logs./NNS ../. 
+
+About./IN YOU./NNS :./: 
+
+-./: Enjoy./NN staying./VBG on./IN top./NN of./IN newer./JJR technologies./NNS 
+-./: Strong./NN knowledge./NN with./IN one./CD or./CC more./JJR of./IN these./DT tools./NNS :./: Visual./JJ Studio./NNP ,./, .NET./NNP ,./, Java./NNP ,./, PHP./NNP ,./, Python./NNP ,./, C++./NNP 
+-./: Experience./NN developing./VBG applications./NNS within./IN a./DT Win32./NNP development./NN environment./NN ,./, Unix./NNP 
+-./: Strong./NN written./VBN and./CC verbal./JJ communication./NN skills./NNS 
+-./: Able./NN to./TO work./VB with./IN a./DT dynamic./JJ and./CC awesome./JJ multi-skilled./JJ technology./NN team./NN ../. 
+-./: Basic./JJ database./NN development./NN experience./NN (./( e.g../NN ,./, database./NN aware./JJ components./NNS ,./, relational./JJ design./NN ,./, SQL./NNP )./) 
+
+
+What./WP makes./VBZ you./PRP shine./VB ?./. 
+
+Experience./NN and/or./JJ interest./NN in./IN the./DT following./JJ areas./NNS will./MD be./VB considered./VBN an./DT asset./NN :./: 
+
+-./: Web./NN development./NN (./( backend./NN )./) ,./, REST./NNP services./NNS 
+-./: Front./NN end./NN technologies./NNS in./IN iOS./NN ,./, JavaScript./NNP and./CC Android./NNP 
+-./: Agile./NN software./NN development./NN methodology./NN 
+-./: Knowledge./NN of./IN integration./NN with./IN Facebook./NNP APIs./NNP ,./, Google./NNP APIs./NNP and./CC other./JJ popular./JJ third./JJ party./NN web./NN systems./NNS 
+-./: Demonstrated./VBN interest./NN and./CC experience./NN in./IN building./VBG systems./NNS that./WDT scale./VBP to./TO large./JJ user./NN traffic./NN 
+-./: You./PRP like./IN to./TO work./VB hard./RB ,./, but./CC you./PRP also./RB like./VBP to./TO have./VB FUN./NNP at./IN work./NN !./. !./. !./. !./. 
+-./: You./PRP 're./VBP PASSIONATE./VBG about./IN what./WP you./PRP do./VBP !./. 
+
+
+What./WP are./VBP we./PRP about./IN ?./. We./PRP 're./VBP the./DT #./# 1./CD weather./NN company./NN in./IN Canada./NNP ../. We./PRP 're./VBP about./IN providing./VBG current./JJ ,./, accurate./NN and./CC detailed./VBD weather./JJR information./NN ../. Our./PRP$ website./NN is./VBZ in./IN the./DT top./JJ 5./CD news./NN sites./NNS in./IN Canada./NNP and./CC our./PRP$ weather./NN app./NN is./VBZ the./DT most./RBS popular./JJ weather./NN app./NN in./IN Canada./NNP !./. 
+
+Why./WRB join./VB us./PRP ?./. Our./PRP$ founder./NN ,./, Pierre./NNP Morrissette./NNP ,./, has./VBZ built./VBN a./DT culture./NN where./WRB you./PRP feel./VBP like./IN you./PRP 're./VBP a./DT part./NN of./IN an./DT extended./JJ family./NN ../. People./NNS are./VBP friendly./JJ ../. People./NNS are./VBP accessible./JJ ../. People./NNS truly./RB care./VB about./IN each./DT other./JJ ../. Together./IN we./PRP 're./VBP focused./VBN on./IN the./DT future./NN and./CC becoming./VBG the./DT international./JJ leaders./NNS in./IN weather./DT information./NN ../. 
+
+Perks./NNS :./: Just./RB a./DT few./JJ reasons./NNS to./TO join./VB our./PRP$ amazing./JJ team./NN include./VBP competitive./JJ salary./NN and./CC benefits./NNS ,./, a./DT casual./JJ work./NN environment./NN and./CC summer./NN hours./NNS ../. We./PRP offer./VBP endless./JJ tea./NN and./CC fresh./JJ coffee./NN ,./, a./DT busy./JJ social./JJ calendar./NN of./IN events./NNS and./CC proximity./NN to./TO great./JJ amenities./NNS ../. We./PRP have./VBP plenty./NN of./IN free./JJ parking./NN and./CC are./VBP a./DT few-minutes./JJ './POS walk./NN to./TO the./DT nearest./JJS bus./NN stop./NN ../. 
+
+Do./VBP you./PRP have./VB what./WP it./PRP takes./VBZ ?./. We./PRP 're./VBP looking./VBG for./IN people./NNS who./WP live./VBP and./CC breathe./VB our./PRP$ core./NN values./NNS ;./: people./NNS who./WP have./VBP the./DT WOW./NNP factor./NN !./. Who./WP handle./VBP themselves./PRP with./IN HONESTY./NNP &./CC INTEGRITY./NNP and./CC through./IN TEAMWORK./NNP &./CC COLLABORATION./NNP will./MD INSPIRE./NNP INNOVATION./NNP &./CC DRIVE./NNP CHANGE./NNP !./. People./NNS who./WP are./VBP RESULTS./NNP ORIENTED./NNP ,./, have./VBP a./DT PASSION./NNP FOR./NNP EXCELLENCE./NNP &./CC EXECUTION./NNP and./CC through./IN FOCUS./NNP &./CC TENACITY./NNP challenge./VBP the./DT status./NN quo./NN and./CC think./VB outside./IN the./DT box./NN ../. We./PRP 're./VBP looking./VBG for./IN smart./JJ ,./, forward-thinking./JJ problem./NN solvers./NNS who./WP can./MD ENGAGE./VB PEOPLE./NNS with./IN their./PRP$ RESPECT./NNP &./CC WIN-WIN./NNP attitude./NN ../. Most./JJS of./IN all./DT ,./, we./PRP 're./VBP looking./VBG for./IN people./NNS who./WP are./VBP passionate./VB about./IN what./WP they./PRP do./VBP and./CC about./IN the./DT weather./NN ../. Does./VBZ this./DT sound./NN like./IN you./PRP ?./. 

@@ -1,0 +1,38 @@
+With./IN $./$ 171.4./CD billion./CD in./IN assets./NNS as./IN of./IN December./NNP 31./CD ,./, 2015./CD ,./, the./DT Ontario./NNP Teachers./NNP './POS Pension./NNP Plan./NNP is./VBZ the./DT largest./JJS single-profession./JJ pension./NN plan./NN in./IN Canada./NNP ../. An./DT independent./JJ organization./NN ,./, it./PRP invests./VBZ the./DT pension./NN fund./NN 's./POS assets./NNS and./CC administers./NNS the./DT pensions./NNS of./IN 316,000./CD active./JJ and./CC retired./JJ teachers./NNS in./IN Ontario./NNP ../. 
+
+POSITION./NNP SUMMARY./NNP 
+
+The./DT Global./NNP Systematic./NNP Investments./NNP (./( GSI./NNP )./) group./NN ,./, a./DT part./NN of./IN the./DT Capital./NNP Markets./NNP department./NN ,./, is./VBZ seeking./VBG an./DT individual./NN with./IN exceptional./JJ programming./NN skills./NNS to./TO join./VB our./PRP$ team./NN as./IN an./DT Investments./NNP Analyst./NNP Co-op./NNP with./IN a./DT focus./NN on./IN quantitative./JJ software./NN development./NN ../. 
+
+GSI./NNP is./VBZ an./DT internal./JJ quantitative./NN and./CC systematic./JJ ,./, multi-strategy./JJ ,./, cross-asset./JJ investment./NN team./NN ../. The./DT group./NN 's./POS mandate./NN is./VBZ to./TO provide./VB alpha./RB uncorrelated./JJ with./IN broad./JJ markets./NNS by./IN developing./VBG and./CC managing./VBG model-driven./JJ investment./NN portfolios./NNS and./CC trading./NN strategies./NNS across./IN a./DT broad./JJ range./NN of./IN asset./NN classes./NNS ../. The./DT group./NN also./RB is./VBZ responsible./JJ for./IN building./NN and./CC maintaining./VBG software./NN infrastructure./NN required./VBN to./TO for./IN the./DT delivery./NN ,./, execution./NN and./CC research./NN of./IN the./DT investment./NN process./NN ../. 
+
+The./DT successful./JJ candidate./NN will./MD have./VB a./DT passion./NN for./IN systematic./JJ investing./NN or./CC algorithmic./JJ trading./NN and./CC have./VBP the./DT opportunity./NN to./TO learn./VB about./IN and./CC contribute./VB to./TO investment./NN strategy./NN research./NN ../. 
+
+REQUIREMENTS./NNP AND./CC RESPONSIBILITIES./NNP 
+
+The./DT candidate./NN must./MD meet./VB the./DT following./JJ requirement./NN ../. 
+
+-./: Very./RB strong./JJ programming./NN skills./NNS in./IN Matlab./NNP ../. 
+-./: Extensive./JJ programming./NN experience./NN in./IN multiple./JJ programming./NN languages./NNS ../. 
+-./: Strong./NN software./NN engineering./NN knowledge./NN in./IN design./NN patterns./NNS ,./, object./VBP orientated./VBN programming./NN ,./, database./NN ,./, code./NN control./NN ,./, continuous./JJ integration./NN ../. 
+-./: Working./VBG toward./IN a./DT degree./NN in./IN a./DT quantitative./JJ discipline./NN such./JJ as./IN Engineering./NNP ,./, Computer./NNP Science./NNP ,./, Mathematics./NNP ,./, Computational./NNP Finance./NNP etc./NN ../. 
+-./: Can./NN demonstrate./VB a./DT passion./NN for./IN both./DT software./NN development./NN and./CC systematic./JJ investment./NN /./NN algorithmic./JJ trading./NN ../. 
+
+The./DT following./NN would./MD be./VB assets./NNS :./: 
+
+-./: Knowledge./NN in./IN one./CD or./CC several./JJ areas./NNS of./IN the./DT following./NN :./: econometrics./NNS ,./, statistics./NNS ,./, quantitative./JJ computing./NN ,./, market./NN microstructure./NN ,./, predictive./JJ algorithms./NN ,./, parallel/cloud./JJ computing./NN ,./, continuous./JJ integration./NN ../. 
+
+The./DT candidate./NN will./MD :./: 
+
+-./: Improve./VB the./DT team./NN 's./POS in-house./NN codebase./NN which./WDT runs./VBZ all./DT aspects./NNS of./IN the./DT investment./NN process./NN including./VBG trading./NN ,./, execution./NN and./CC research./NN ../. 
+-./: Add./NN incremental./JJ improvements./NNS our./PRP$ codebase./NN to./TO accommodate./VB future./JJ research./NN &./CC production./NN needs./NNS such./JJ as./IN the./DT expansion./NN into./IN new./JJ instruments/asset./NN classes./NNS ,./, trading./NN frequencies./NNS ,./, execution./NN styles./NNS ,./, etc./FW ../. 
+-./: Analyze./NN and./CC manage./VB large./JJ data./NNS sets./NNS ../. 
+-./: Adhere./NN to./TO software./NN engineering./NN best./JJS practices./NNS ../. 
+-./: Act./NNP ethically./RB and./CC in./IN the./DT best./JJS interest./NN of./IN the./DT team./NN at./IN all./DT times./NNS ../. 
+
+The./DT candidate./NN will./MD benefit./VB from./IN :./: 
+
+-./: Working./NN and./CC learning./VBG from./IN a./DT world./NN class./NN systematic./JJ investment./NN team./NN with./IN a./DT history./NN of./IN strong./JJ performance./NN ../. 
+
+
+This./DT job./NN offer./NN is./VBZ contingent./JJ upon./IN successful./JJ completion./NN of./IN criminal./JJ and./CC credit./NN check./NN ../. 

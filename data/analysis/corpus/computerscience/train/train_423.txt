@@ -1,0 +1,19 @@
+BanaLogic./NNP Corporation./NNP is./VBZ a./DT product./NN design./NN and./CC engineering./NN company./NN ,./, specializing./VBG in./IN the./DT automotive./JJ diagnostic./JJ tools./NNS ../. Having./VBG developed./VBD a./DT number./NN of./IN innovative./JJ products./NNS including./VBG safety./NN and./CC emissions./NNS analyzers./NNS ,./, on-board./JJ diagnostics./NNS devices./NNS ,./, and./CC Artificial./NNP Intelligence./NNP computing./VBG systems./NNS ../. 
+
+Priding./VBG itself./PRP on./IN providing./VBG superior./JJ leading./VBG edge./NN technologies./NNS and./CC outstanding./JJ customer./NN service./NN ,./, BanaLogic./NNP has./VBZ supplied./VBN products./NNS to./TO the./DT automotive./JJ industry./NN ,./, government./NN agencies./NNS ,./, and./CC as./IN OEM./NNP 's./POS to./TO fortune./VB 500./CD companies./NNS for./IN over./IN a./DT decade./NN ../. 
+Our./PRP$ company./NN has./VBZ hired./VBN co-op./JJ students./NNS in./IN the./DT past./NN and./CC have./VBP been./VBN excited./VBN with./IN the./DT enthusiasm./NN ,./, outside./IN the./DT box./NN thinking./NN and./CC fresh./JJ ideas./NNS the./DT students./NNS bring./VBP to./TO our./PRP$ team./NN !./. We./PRP reward./VBP our./PRP$ students./NNS with./IN meaningful./JJ work./NN and./CC opportunities./NNS ../. 
+
+Our./PRP$ company./NN is./VBZ hiring./VBG a./DT software./NN developer./NN to./TO work./VB on./IN our./PRP$ FastLign./NNP team./NN on./IN an./DT exciting./JJ new./JJ and./CC innovative./JJ product./NN in./IN the./DT industry./NN ../. 
+
+Check./VB it./PRP out./RP at./IN :./: https./NN :./: //www.youtube.com/watch./NN ?./. v=rNZw01rLfxM./NN 
+
+We./PRP are./VBP looking./VBG for./IN a./DT software./NN developer./NN to./TO join./VB our./PRP$ team./NN ../. We./PRP have./VBP a./DT variety./NN of./IN development./NN projects./NNS on-going./JJ ../. One./CD of./IN our./PRP$ projects./NNS involves./VBZ the./DT implementation./NN of./IN a./DT system./NN that./WDT analyzes./VBZ vehicle./NN images./NNS for./IN the./DT purpose./NN of./IN Make/Model./NNP Recognition./NNP ../. 
+
+Responsibilities./NNS 
+You./PRP will./MD be./VB involved./VBN in./IN all./DT aspects./NNS of./IN the./DT development./NN process./NN including./VBG design./NN ,./, development./NN &./CC testing./NN of./IN the./DT project./NN you./PRP will./MD be./VB working./VBG on./IN ../. 
+
+Required./VBN Skills./NNS 
+Strong./JJ development./NN skills./NNS ../. C++./NNP ,./, MySql./NNP ,./, Linux./NNP experience./NN a./DT definite./JJ asset./NN ../. 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+Competitive./NNP based./VBN on./IN experience./NN 

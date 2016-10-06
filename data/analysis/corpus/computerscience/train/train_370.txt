@@ -1,0 +1,28 @@
+_______________________________________________________________________./NN 
+
+Description./NN :./: 
+As./IN an./DT Embedded./NNP Software./NNP Engineering./NNP Co-Op./NNP ,./, you./PRP will./MD be./VB responsible./JJ for./IN designing./VBG and./CC maintaining./VBG hardware./JJ test./NN suites./NNS for./IN Apple./NNP 's./POS mobile./JJ products./NNS ../. You./PRP will./MD work./VB side./RB by./IN side./NN with./IN hardware./NN engineers./NNS on./IN specifying./NN ,./, implementing./NN ,./, and./CC debugging./VBG stress./NN tests./NNS for./IN new./JJ products./NNS in./IN development./NN ../. 
+
+Some./DT of./IN your./PRP$ responsibilities./NNS will./MD include./VB :./: 
+Write./NNP ,./, debug./NN ,./, and./CC integrate./VB new./JJ tests./NNS for./IN integrated./JJ Wireless./NNP chipsets./NNS ,./, complex./JJ Digital./NNP Interfaces./NNPS and./CC Power./NNP Management./NNP Subsystems./NNP 
+Work./NN closely./RB with./IN hardware./NN and./CC firmware./NN engineers./NNS to./TO debug./VB silicon./JJ issues./NNS exposed./VBN during./IN testing./VBG 
+Architect./NN and./CC maintain./VB test./NN frameworks./NNS to./TO scale./VB into./IN test./NN racks./NNS and./CC manufacturing./VBG test./NN lines./NNS 
+Interface./NN with./IN Hardware./NNP ,./, Firmware./NNP ,./, Program./NNP Management./NNP and./CC various./JJ other./JJ cross-functional./JJ teams./NNS throughout./IN Apple./NNP 
+Early./JJ engagement./NN with./IN design./NN teams./NNS and./CC silicon./JJ vendors./NNS to./TO bringup./VB new./JJ test./NN functionality./NN on./IN untested./JJ silicon./NN 
+Support./NNP product./NN development./NN builds./VBZ locally./RB and./CC remotely./RB 
+
+Key./JJ Qualifications./NNS :./: 
+Pursuing./VBG a./DT BS./NNP CS/EE/CE./NNP or./CC similar./JJ 
+Experience./NN with./IN programming./NN ,./, testing./VBG and./CC debugging./VBG embedded./JJ devices./NNS and./CC device./NN drivers./NNS 
+Proficiency./NN with./IN embedded./JJ Programming./VBG languages./NNS such./JJ as./IN C/C++./NNP 
+Familiarity./NN with./IN lab./JJ test./NN equipment./NN including./VBG oscilloscopes./NNS ,./, power./NN supplies./NNS and./CC digital./JJ logic./NN analyzers./NNS 
+Ability./NN to./TO debug./VB and./CC develop./VB in./IN a./DT fast-paced./JJ and./CC team-based./JJ environment./NN 
+Experience./NN in./IN working./VBG in./IN a./DT team-based./JJ code./NN development./NN environment./NN 
+Knowledge./NNP in./IN the./DT following./JJ areas./NNS is./VBZ advantageous./JJ :./: 
+Digital./NNP communication./NN protocols./NNS such./JJ as./IN UART./NNP ,./, I2C./NNP ,./, USB./NNP ,./, PCIe./NNP ,./, HSIC./NNP 
+Unix/linux-based./JJ development./NN -./: Interpreting./VBG hardware./NN schematics./NNS and./CC layouts./NNS 
+Microarchitecture./NN topologies./NNS including./VBG SRAM./NNP ,./, DRAM./NNP ,./, DMA./NNP and./CC Powercontrol./NNP state./NN machines./NNS 
+
+Apple./NNP is./VBZ an./DT Equal./JJ Employment./NNP Opportunity./NNP Employer./NNP that./WDT is./VBZ committed./VBN to./TO inclusion./NN and./CC diversity./NN ../. We./PRP also./RB take./VBP affirmative./JJ action./NN to./TO offer./VB employment./NN and./CC advancement./NN opportunities./NNS to./TO all./DT applicants./NNS ,./, including./VBG minorities./NNS ,./, women./NNS ,./, protected./VBD veterans./NNS ,./, and./CC individuals./NNS with./IN disabilities./NNS ../. 
+
+This./DT job./NN is./VBZ located./VBN in./IN Cupertino./NNP ,./, CA./NNP and./CC offers./VBZ competitive./JJ benefits./NNS including./VBG corporate./JJ housing./NN OR./NNP $./$ 1000./CD monthly./JJ rent./NN stipend./NN ,./, paid./VBD travel./NN expenses./NNS to./TO and./CC from./IN Waterloo./NNP and./CC substantial./JJ discounts./NNS on./IN Apple./NNP products./NNS ../. 

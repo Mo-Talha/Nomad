@@ -1,0 +1,23 @@
+This./DT position./NN is./VBZ limited./VBN to./TO students./NNS that./WDT are./VBP registered./VBN in./IN a./DT recognized./VBN Co-op./NN or./CC internship./JJ program./NN at./IN a./DT Canadian./JJ College./NNP or./CC University./NNP ../. 
+
+Nokia./NNP is./VBZ a./DT global./JJ leader./NN in./IN the./DT technologies./NNS that./WDT connect./VBP people./NNS and./CC things./NNS ../. With./IN state-of-the-art./JJ software./NN ,./, hardware./NN and./CC services./NNS for./IN any./DT type./NN of./IN network./NN ,./, Nokia./NNP is./VBZ uniquely./RB positioned./VBN to./TO help./VB communication./NN service./NN providers./NNS ,./, governments./NNS ,./, and./CC large./JJ enterprises./NNS deliver./RB on./IN the./DT promise./NN of./IN 5G./CD ,./, the./DT Cloud./NNP and./CC the./DT Internet./NNP of./IN Things./NNP ../. Serving./VBG customers./NNS in./IN over./IN 100./CD countries./NNS ,./, our./PRP$ research./NN scientists./NNS and./CC engineers./NNS continue./VBP to./TO invent./VB and./CC accelerate./VB new./JJ technologies./NNS that./WDT will./MD increasingly./RB transform./VB the./DT way./NN people./NNS and./CC things./NNS communicate./NN and./CC connect./NN ../. 
+
+TEC./NNP responsibilities./NNS 
+The./DT 7x50./CD ION./NNP Technical./NNP Expertise./NNP Center./NNP (./( TEC./NNP )./) is./VBZ seeking./VBG co-op./JJ students./NNS with./IN an./DT interest./NN in./IN IP./NNP networks./NNS to./TO support./VB the./DT Nokia./NNP 7x50./CD Service./NNP Router./NNP Portfolio./NNP ../. The./DT key./JJ responsibilities./NNS of./IN a./DT TEC./NNP engineer./NN include./VBP interfacing./VBG with./IN internal./JJ Nokia./NNP R./NNP &./CC D./NNP teams./NNS and./CC customers./NNS to./TO troubleshoot./VB complex./JJ problems./NNS in./IN live./JJ networks./NNS ,./, assist./NN in./IN network./NN design./NN and./CC new./JJ product./NN introduction./NN activities./NNS ../. We./PRP are./VBP looking./VBG for./IN individuals./NNS who./WP are./VBP comfortable./JJ working./VBG in./IN a./DT customer-facing./JJ role./NN ,./, in./IN a./DT global./JJ team./NN responsible./JJ for./IN supporting./VBG major./JJ service./NN providers./NNS across./IN Europe./NNP ,./, Asia./NNP and./CC the./DT Americas./NNPS ../. 
+
+Job./NNP description./NN 
+A./DT co-op./JJ student./NN will./MD have./VB the./DT opportunity./NN to./TO gain./VB hands-on./JJ experience./NN on./IN key./JJ functions./NNS of./IN the./DT 7x50./CD series./NN of./IN routers./NNS such./JJ as./IN :./: broadband./NN network./NN gateways./NNS for./IN residential./JJ internet./NN access./NN ,./, multiservice./NN edge./NN router./NN for./IN business./NN VPNs./NNP ,./, cloud./NN and./CC data./NNS center./NN interconnect./NN services./NNS ,./, mobile./JJ backhaul./NN aggregation./NN and./CC the./DT mobile./JJ packet./NN core./NN (./( 2G./CD ,./, 3G./CD and./CC 4G./CD LTE./NNP )./) ../. 
+
+As./IN a./DT co-op./NN in./IN our./PRP$ team./NN ,./, your./PRP$ role./NN will./MD encompass./VB :./: 
+-./: Deploying./VBG an./DT IP./NNP network./NN using./VBG the./DT Nokia./NNP 7x50./CD SR./NNP family./NN of./IN products./NNS 
+-./: Recreating./VBG customer./NN network./NN scenarios./NNS in./IN a./DT lab./NN environment./NN by./IN configuring./VBG routing./VBG protocols./NNS and./CC test./NN equipment./NN to./TO mimic./VB a./DT live./JJ network./NN 
+-./: Troubleshooting./NN issues./NNS escalated./VBD to./TO our./PRP$ team./NN using./VBG established./VBN procedures./NNS and./CC creative./JJ alternatives./NNS 
+-./: Hardware./NN failure./NN investigations./NNS including./VBG testing./VBG and./CC analysis./NN 
+
+Qualifications./NNS 
+-./: Pursuing./VBG a./DT Bachelors./NNS degree./VBP in./IN Electrical./NNP or./CC Computer./NNP Engineering./NNP ,./, Computer./NNP Science./NNP ,./, Information./NNP technology./NN or./CC equivalent./NN 
+-./: Knowledge./NN of./IN IP/MPLS./NNP and./CC routing./VBG protocols./NNS such./JJ as./IN OSPF./NNP ,./, ISIS./NNP ,./, BGP./NNP is./VBZ an./DT asset./NN 
+-./: Excellent./NN communication./NN skills./NNS to./TO provide./VB written./VBN and./CC verbal./JJ explanations./NNS to./TO customers./NNS and./CC internal./JJ Nokia./NNP teams./NNS 
+-./: Good./JJ organizational./JJ and./CC time./NN management./NN skills./NNS with./IN the./DT ability./NN to./TO prioritize./VB between./IN tasks./NNS 
+
+Nokia./NNP Canada./NNP is./VBZ committed./VBN to./TO building./VBG a./DT skilled./VBN ,./, diverse./JJ workforce./NN reflective./NN of./IN Canadian./JJ society./NN ../. As./IN a./DT result./NN ,./, we./PRP promote./VBP employment./NN equity./NN and./CC encourage./VB women./NNS ,./, Aboriginal./NNP persons./NNS ,./, and./CC persons./NNS with./IN a./DT disability./NN or./CC members./NNS of./IN a./DT visible./JJ minority./NN group./NN to./TO apply./VB ../. 

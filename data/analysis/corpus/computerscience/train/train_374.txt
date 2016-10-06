@@ -1,0 +1,28 @@
+_______________________________________________________________________./NN 
+
+Description./NN :./: 
+Apple./NNP 's./POS Silicon./NNP Engineering./NNP Group./NNP (./( SEG./NNP )./) designs./NNS and./CC implements./VBZ the./DT chips./NNS that./WDT help./VBP make./VB the./DT iPhone./NN and./CC iPad./JJ world./NN class./NN products./NNS ../. The./DT A9./NNP chip./NN in./IN the./DT iPhone./NN 6S./CD and./CC the./DT A9X./NNP in./IN the./DT iPad./JJ Pro./NNP are./VBP the./DT most./RBS recent./JJ examples./NNS of./IN our./PRP$ engineering./NN capability./NN ../. Working./VBG within./IN SEG./NNP ,./, the./DT Silicon./NNP Validation./NNP S/W./NNP team./NN wrote./VBD code./NN to./TO interact./VB with./IN all./PDT the./DT blocks./NNS in./IN the./DT SoC./NNP to./TO ensure./VB that./IN the./DT A9./NNP and./CC A9X./NNP were./VBD exceptionally./RB well./RB implemented./VBN and./CC fabricated./VBN chips./NNS ../. SiVal./NNP S/W./NNP engineers./NNS work./VBP with./IN iOS./JJ engineers./NNS and./CC RTL./NNP designers./NNS during./IN debug./JJ sessions./NNS ../. We./PRP 're./VBP looking./VBG for./IN self-motivated./JJ engineers./NNS to./TO jump./VB in./IN and./CC join./VB us./PRP as./IN we./PRP write./VBP code./NNS to./TO push./VB logic./NN blocks./NNS to./TO the./DT limits./NNS of./IN their./PRP$ capabilities./NNS ../. 
+
+Key./JJ Qualifications./NNS :./: 
+Successful./JJ Silicon./NNP Validation./NNP candidates./NNS will./MD have./VB :./: 
+Experience./NN in./IN low-level./JJ kernel./NN programming./NN ../. 
+Proficiency./NN in./IN C./NNP and/or./NN assembly./RB level./JJ programming./NN ../. 
+System./NNP level./JJ perspective./NN (./( knowledge./NN of./IN memory./NN hierarchies./NNS ,./, bus./NN protocols./NNS ,./, and./CC synchronization./NN mechanisms./NNS are./VBP all./DT pluses./NNS )./) ../. 
+Strong./JJ communication./NN skills./NNS ../. 
+A./DT strong./JJ desire./NN to./TO analyze./VB failures./NNS to./TO root./VB cause./NN working./VBG with./IN designers./NNS and./CC other./JJ engineers./NNS to./TO ensure./VB fast./JJ resolution./NN ../. 
+
+Additional./JJ Requirements./NNS :./: 
+Areas./NNP of./IN expertise./NN within./IN Silicon./NNP Validation./NNP include./NN :./: 
+
+CPU./NNP Data./NNP Motion./NNP Engineer./NNP 
+In./IN this./DT highly./RB visible./JJ role./NN ,./, you./PRP will./MD write./VB code./NN to./TO push./VB data./NNS throughout./IN the./DT memory./NN hierarchy./NN in./IN an./DT effort./NN maximize./VB the./DT amount./NN of./IN control./NN logic./NN responsible./JJ for./IN handling./VBG data./NNS ../. Working./VBG with./IN others./NNS in./IN the./DT group./NN ,./, you./PRP will./MD write./VB code./NN to./TO drive./VB a./DT myriad./NN of./IN logic./NN blocks./NNS so./RB to./TO push./VB data./NNS throughout./IN the./DT system./NN ../. 
+
+Media./NNP IP./NNP S/W./NNP Engineer./NNP 
+Apple./NNP 's./POS products./NNS are./VBP known./VBN for./IN the./DT crisp./NN graphics./NNS and./CC images./NNS rendered./VBN on./IN their./PRP$ displays./NNS ../. A./DT collection./NN of./IN media./NNS blocks./NNS play./VBP a./DT central./JJ role./NN and./CC you./PRP can./MD work./VB with./IN these./DT agents./NNS to./TO ensure./VB that./IN all./DT modes./NNS of./IN imagery./NN and./CC the./DT full./JJ range./NN of./IN capabilities./NNS are./VBP utilized./JJ ../. 
+
+Connectivity./NNP IP./NNP S/W./NNP Engineer./NNP 
+Apple./NNP 's./POS products./NNS have./VBP a./DT great./JJ deal./NN of./IN internal./JJ I/O./NNP for./IN communication./NN between./IN wireless./NN ,./, cellular./JJ ,./, and./CC storage./NN devices./NNS ../. In./IN this./DT role./NN you./PRP will./MD be./VB writing./VBG code./NN to./TO engage./VB these./DT communication./NN channels./NNS and./CC put./VBD them./PRP through./IN their./PRP$ paces./NNS ../. 
+
+Apple./NNP is./VBZ an./DT Equal./JJ Employment./NNP Opportunity./NNP Employer./NNP that./WDT is./VBZ committed./VBN to./TO inclusion./NN and./CC diversity./NN ../. We./PRP also./RB take./VBP affirmative./JJ action./NN to./TO offer./VB employment./NN and./CC advancement./NN opportunities./NNS to./TO all./DT applicants./NNS ,./, including./VBG minorities./NNS ,./, women./NNS ,./, protected./VBD veterans./NNS ,./, and./CC individuals./NNS with./IN disabilities./NNS ../. 
+
+This./DT job./NN is./VBZ located./VBN in./IN Cupertino./NNP ,./, CA./NNP and./CC offers./VBZ competitive./JJ benefits./NNS including./VBG corporate./JJ housing./NN OR./NNP $./$ 1000./CD monthly./JJ rent./NN stipend./NN ,./, paid./VBD travel./NN expenses./NNS to./TO and./CC from./IN Waterloo./NNP and./CC substantial./JJ discounts./NNS on./IN Apple./NNP products./NNS ../. 

@@ -1,0 +1,22 @@
+POSITION./NNP SUMMARY./NNP 
+A./DT Database./NNP Developer./NNP ,./, developing./VBG BlackBerry./NNP 's./POS Lawful./JJ Access./NNP systems./NNS ../. The./DT student./NN work./NN is./VBZ part./NN of./IN a./DT company-wide./JJ initiative./NN to./TO move./VB from./IN traditional./JJ enterprise-scale./JJ closed-source./JJ relational./JJ databases./NNS to./TO open./VB source./NN ,./, ``./`` Big./JJ Data./NNS ''./'' platforms./NNS ../. 
+
+Location./NN :./: Mississauga./NNP ,./, ON./NNP 
+Length./NNP of./IN Term./NNP :./: 4./CD Months./NNS 
+
+RESPONSIBILITIES./NN 
+Understand./NN and./CC improve./VB existing./VBG Oracle./NNP database./NN ,./, including./VBG stored./VBN procedures./NNS and./CC other./JJ database./NN structures./NNS 
+Develop./NNP and./CC test./NN applications./NNS to./TO load/cleanse/transform./VB source./NN data./NNS from./IN Hive./JJ tables./NNS onto./IN other./JJ database./NN platforms./NNS (./( Cassandra./NNP ,./, Galera./NNP ,./, etc./NN )./) 
+Monitor./NNP daily./JJ load./NN jobs./NNS from./IN production./NN systems./NNS 
+Communicate./NNP with./IN internal./JJ partners./NNS to./TO understand./VB system./NN requirements./NNS 
+Keep./VB updating./NN knowledge./NN and./CC skills./NNS on./IN ever-emerging./JJ Big./NNP Data./NNP and./CC database./NN technology./NN 
+
+SKILLS./NNP AND./CC QUALIFICATIONS./NNP 
+Possesses./NNS good./JJ communication./NN skills./NNS and./CC a./DT positive./JJ attitude./NN 
+Demonstrates./NNS initiative./VBP 
+Has./NNP experience./NN working./VBG as./IN part./NN of./IN a./DT team./NN 
+Has./NNP experience./NN using./VBG SQL./NNP and./CC possesses./NNS knowledge./NN of./IN relational./JJ database./NN concepts./NNS 
+Has./NNP experience./NN with./IN relational./JJ database./NN technology./NN such./JJ as./IN Oracle/MySQL/Postgres./NNS 
+Has./JJ interest./NN in./IN learning./VBG about./IN new./JJ ,./, alternative./JJ database./NN technologies./NNS 
+Has./NNP experience./NN with./IN Linux./NNP shell./NN scripting./VBG 
+Any./DT experience./NN with./IN Big./NNP Data./NNP (./( Cassandra/Hadoop/Hive/Oozie/Spark./NNP )./) ,./, and./CC No-SQL./JJ platforms./NNS would./MD be./VB a./DT huge./JJ advantage./NN 

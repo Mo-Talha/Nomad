@@ -1,0 +1,19 @@
+Our./PRP$ Business./NN 
+
+daVinci./NN helps./VBZ retailers./NNS present./JJ optimal./JJ assortments./NNS to./TO customers./NNS to./TO improve./VB sales./NNS and./CC profitability./NN ../. Created./VBN by./IN merchants./NNS for./IN merchants./NNS ,./, daVinci./NN 's./POS assortment./NN planning./NN solution./NN integrates./VBZ business./NN intelligence./NN with./IN buyers./NNS knowledge./VBP to./TO fashion./NN individual./JJ assortments./NNS optimized./VBN to./TO the./DT tastes./NNS of./IN every./DT micro-market./NN 
+
+Job./NNP Responsibility./NNP 
+
+Perform./NNP software./NN development./NN and./CC maintenance./NN functions./NNS for./IN an./DT assortment./NN planning./NN application./NN ../. 
+Partner./NNP in./IN a./DT team./NN environment./NN but./CC also./RB be./VB able./JJ to./TO independently./RB design./VB ,./, develop./VB ,./, code./NN ,./, test./NN and./CC debug./VB new./JJ software./NN or./CC make./VB significant./JJ enhancements./NNS to./TO existing./VBG software./NN ../. 
+Design./NN and./CC develop./VB secure./NN ,./, scalable./JJ ,./, and./CC fault./NN tolerant./JJ solutions./NNS across./IN iOS./NN mobile./NN platform.../NN 
+
+
+Required./VBN Skills./NNS 
+
+-./: Strong./JJ Object-C./JJ ,./, multi-threaded./JJ ,./, client/server./NN or./CC browser/server./NN experience./NN and./CC expertise./NN ,./, XML./NNP ,./, RESTFul./NNP are./VBP required./VBN 
+-./: Mobile./NN Applications/libraries./NNS for./IN iOS./NN Platform./NN 
+-./: Solid./JJ experience./NN with./IN source./NN control./NN packages./NNS (./( e.g./NN ../. SVN./NNP ,./, Git./NNP )./) 
+-./: Time-management./NN ,./, decision-making./NN ,./, and./CC organizational./JJ skills./NNS a./DT must./MD 
+-./: Software./NN testing./VBG skill./NN is./VBZ required./VBN 
+-./: Good./JJ English./JJ communication./NN skills./NNS are./VBP required./VBN 

@@ -1,0 +1,35 @@
+____________________________________________________________./NN 
+
+Summary./JJ 
+About./IN Noom./NN :./: 
+Noom./NN is./VBZ a./DT New./NNP York./NNP City./NNP based./VBN health./NN &./CC wellness./NN tech./NN startup./NN that./WDT uses./VBZ mobile./JJ technology./NN to./TO help./VB people./NNS lead./VBP healthier./JJR lives./NNS (./( 32./CD million./CD and./CC counting./VBG !./. )./) ../. While./IN other./JJ fitness./JJ companies./NNS just./RB track./RB ,./, we./PRP coach./VBP ../. We./PRP learn./VBP from./IN the./DT best./JJS research./NN in./IN nutrition./NN ,./, psychology./NN and./CC behavior./JJ modification./NN and./CC combine./VB it./PRP with./IN the./DT latest./JJS tech./NN to./TO design./VB next-generation./JJ health./NN &./CC wellness./NN apps./NN on./IN Android./NNP and./CC iOS./NN ../. 
+
+We./PRP 've./VBP built./VBN a./DT strong./JJ foundation./NN with./IN hundreds./NNS of./IN thousands./NNS of./IN paying./VBG customers./NNS ,./, over./IN $./$ 23M./CD in./IN venture-backed./JJ funding./NN led./VBN by./IN RRE./NNP Ventures./NNP and./CC Intervest./NNP ,./, and./CC a./DT team./NN of./IN over./IN 60./CD full-time./JJ Noomers./NNS across./IN offices./NNS in./IN NYC./NNP ,./, Seoul./NNP ,./, Tokyo./NNP ,./, and./CC Berlin./NNP ../. 
+Our./PRP$ Design./NN Challenge./NN :./: 
+Noom./NN is./VBZ looking./VBG for./IN an./DT idea-driven./JJ creative./JJ thinker./NN who./WP crushes./VBZ problems./NNS using./VBG design./NN ../. Read./VB on./IN if./IN you./PRP think./VBP you./PRP 've./VBP got./VBN the./DT stuff./NN ../. 
+
+We./PRP need./VBP a./DT visual./JJ design./NN that./WDT makes./VBZ people./NNS want./VBP to./TO open./VB our./PRP$ apps./NN ../. The./DT design./NN must./MD help./VB guide./VB and./CC motivate./VB our./PRP$ users./NNS to./TO do./VB hard./JJ things./NNS ../. You./PRP 'll./MD have./VB a./DT huge./JJ audience./NN and./CC huge./JJ responsibility./NN ../. You./PRP 'll./MD need./VB to./TO visualize./VB what./WP never./RB has./VBZ been./VBN ../. You./PRP 'll./MD need./VB to./TO be./VB adept./VBN at./IN working./VBG with./IN both./DT marketing./NN and./CC engineering./NN ,./, enabling./VBG large./JJ amounts./NNS of./IN complex./JJ data./NNS to./TO be./VB understood./JJ and./CC absorbed./JJ quickly./RB with./IN a./DT diagram./NN ,./, or./CC quickly./RB putting./VBG together./RP a./DT physical./JJ or./CC digital./JJ mock-up./NN of./IN a./DT proposed./VBN solution./NN ../. Your./PRP$ challenge./NN will./MD be./VB to./TO visualize./VB information./NN in./IN a./DT positive./JJ way./NN ,./, create./VBP feedback./NN that./WDT looks./VBZ encouraging./JJ (./( even./RB when./WRB it./PRP 's./VBZ negative./JJ )./) and./CC design./NN appealing./VBG user./JJ interfaces./NNS that./WDT are./VBP enjoyable./JJ every./DT day./NN ../. 
+
+What./WP You./PRP 'll./MD Be./VB Doing./VBG :./: 
+-./: Create./NN visual./JJ design./NN systems./NNS for./IN Noom./NNP 's./POS apps./NN that./WDT enhances./VBZ the./DT user./NN experience./NN 
+-./: Gathering./NN and./CC interpreting./VBG product./NN feedback./NN 
+-./: Iterative./NN prototyping./NN and./CC refining./NN designs./NNS from./IN lowly./RB wireframes./NNS to./TO beautiful./VB mocks./NNS 
+-./: Effectively./RB communicate./VBP Noom./NNP 's./POS key./JJ brand./NN messages./NNS across./IN all./DT platforms./NNS 
+
+What./WP We./PRP 're./VBP Looking./VBG For./IN :./: 
+-./: Currently./RB obtaining./VBG ,./, or./CC recently./RB completed./VBN BA./NNP in./IN Graphic./NNP Design./NNP ,./, User./NNP Interaction./NNP ,./, engineering./NN or./CC related./JJ field./NN from./IN an./DT accredited./JJ university./NN 
+-./: Experience./NN working./VBG in./IN teams./NNS and./CC demonstrates./VBZ leadership./NN ability./NN 
+-./: Deep./JJ product/iterative./JJ experience./NN with./IN a./DT large-scale./JJ mobile./JJ application./NN 
+-./: Lo./NN fi./NN and./CC hi./NN fi./NN prototyping./VBG skills./NNS 
+-./: Strong./NN work./NN ethic./JJ and./CC high./JJ degree./NN of./IN conscientiousness./NN 
+-./: Self./NN starter./NN with./IN ability./NN to./TO create./VB schedules./NNS and./CC define./VB scope./NN of./IN work./NN even./RB without./IN explicit./JJ requirements./NNS and./CC direction./NN 
+-./: Proficiency./NN with./IN HTML./NNP and./CC CSS./NNP --./: implement./JJ markups./NNS ,./, create./NN prototypes./NNS ,./, and./CC code./NN 
+-./: Bonus./NN ,./, but./CC not./RB required./JJ --./: experience./NN in./IN data./NNS visualization./NN ,./, illustration./NN ,./, motion./NN design./NN and./CC copywriting./NN 
+
+Reasons./NNS to./TO join./VB us./PRP :./: 
+-./: We./PRP have./VBP an./DT amazing./JJ chef./NN who./WP provides./VBZ delicious./JJ and./CC healthy./JJ meals./NNS every./DT day./NN ../. She./PRP also./RB prepares./VBZ breakfast./NN and./CC snacks./NNS ../. We./PRP eat./VBP lunch./JJ together./RB everyday./JJ and./CC although./IN we./PRP 're./VBP small./JJ ,./, the./DT lunch./NN table./JJ virtually./RB looks./VBZ like./IN the./DT UN./NNP ,./, representing./VBG no./RB less./JJR than./IN 11./CD countries./NNS ../. 
+-./: Noom./NN is./VBZ featured./VBN in./IN Crain./NNP 's./POS Best./JJS Places./NNPS to./TO Work./VB :./: http./NN :./: //www.crainsnewyork.com/gallery/20131206/FEATURES/120909999/64./NN 
+-./: Great./NN NYC./NNP office./NN location./NN in./IN the./DT Chelsea./NNP district./NN of./IN Manhattan./NNP ,./, close./RB to./TO public./JJ transportation./NN ../. 
+-./: Relocation./NN to./TO NYC./NNP and./CC free./JJ temporary./JJ housing./NN available./JJ in./IN central./JJ NY./NNP for./IN the./DT duration./NN of./IN the./DT internship./NN 
+-./: Professional./NN Development./NNP :./: work./NN on./IN real./JJ product./NN features./NNS ,./, show./VBP off./RP your./PRP$ latest./JJS accomplishments./NNS during./IN our./PRP$ weekly./JJ TGIF./NNP ,./, and./CC bring./VB your./PRP$ brilliant./JJ ideas./NNS to./TO our./PRP$ Hackathons./NNS ../. 
+-./: Make./NNP impact./NN not./RB only./RB in./IN the./DT product./NN and./CC company./NN ,./, but./CC also./RB by./IN improving./VBG the./DT health./NN and./CC well-being./NN of./IN our./PRP$ millions./NNS of./IN users./NNS 

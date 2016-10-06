@@ -1,0 +1,66 @@
+--./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: -./: 
+
+Our./PRP$ goal./NN is./VBZ to./TO accelerate./VB medical./JJ research./NN by./IN unlocking./VBG the./DT potential./NN of./IN every./DT byte./NN of./IN research./NN data./NNS ../. Castor./NNP EDC./NNP ,./, our./PRP$ data./NNS collection./NN tool./NN for./IN medical./JJ research./NN ,./, enables./VBZ every./DT researcher./NN worldwide./NN to./TO collect./VB high-quality./JJ research./NN data./NNS ../. We./PRP are./VBP unique./JJ because./IN this./DT tool./NN allows./VBZ researchers./NNS to./TO create./VB and./CC manage./VB their./PRP$ studies./NNS in./IN an./DT easy./JJ and./CC fast./JJ ,./, yet./RB affordable./JJ way./NN ../. 
+
+We./PRP have./VBP a./DT strong./JJ vision./NN of./IN how./WRB to./TO develop./VB our./PRP$ product./NN which./WDT means./VBZ we./PRP have./VBP a./DT full./JJ and./CC interesting./JJ backlog./NN ../. In./IN the./DT coming./JJ months./NNS we./PRP will./MD be./VB working./VBG on./IN a./DT EHR-data./JJ importer./NN ,./, Runtime./NNP Rule./NNP Engine./NNP ,./, Encryption./NNP ,./, an./DT R-Shiny./JJ Reporting./NN Module./NNP and./CC a./DT Mobile./NNP App./NNP ../. Our./PRP$ senior./JJ development./NN team./NN has./VBZ room./NN for./IN a./DT Software./NNP Engineering./NNP intern./NN that./WDT will./MD operate./VB as./IN a./DT full./JJ team./NN member./NN ../. 
+
+What./WP you./PRP will./MD be./VB doing./VBG :./: 
+
+-./: Working./VBG on./IN our./PRP$ core./JJ product./NN :./: Castor./NN EDC./NNP (./( PHP./NNP /./NNP SQL./NNP )./) 
+-./: Working./VBG on./IN your./PRP$ own./JJ ``./`` tickets./NNS ''./'' in./IN the./DT sprint./NN 
+-./: Interfacing./VBG directly./RB with./IN the./DT CEO./NNP and./CC CTO./NNP ../. 
+-./: Learning./VBG how./WRB to./TO use./VB new./JJ technologies./NNS such./JJ as./IN PHP7./NNP ,./, ExtJS./NNP 6+./CD ,./, Varnish./NNP ,./, REDIS./NNP ,./, NoSQL./NNP ,./, RabbitMQ./NNP ,./, AWS./NNP S3./NNP and./CC CloudFront./NNP ,./, Domain./NNP Driven./NNP Design./NNP and./CC modeling./NN ,./, Microservices./NNS 
+-./: Helping./VBG us./PRP improve./VB stability./NN and./CC security./NN through./IN (./( automated./VBN )./) testing./NN ,./, Continuous./JJ Delivery./NNP and./CC security./NN best./RBS practices./NNS 
+-./: ..../: and./CC more./JJR ,./, we./PRP want./VBP to./TO hear./VB your./PRP$ ideas./NNS as./RB well./RB !./. We./PRP will./MD jointly./RB shape./VB your./PRP$ role./NN !./. 
+
+We./PRP are./VBP looking./VBG for./IN someone./NN who./WP :./: 
+
+-./: Is./NN interested./JJ in./IN the./DT medical./JJ world./NN and./CC research./NN 
+-./: Studies./NNS (./( Bachelor/Master./NNP )./) Computer./NNP Science./NNP or./CC a./DT relevant./JJ education./NN ;./: 
+-./: Can./NN work./NN independently./RB and./CC has./VBZ strong./JJ analytical./JJ skills./NNS 
+-./: Has./NN experience./NN in./IN PHP./NNP /./NNP SQL./NNP 
+-./: Accepts./VBZ the./DT challenge./NN of./IN coming./VBG up./RP with./IN solutions./NNS for./IN complex./JJ problems./NNS 
+-./: Prefers./NNS high./JJ quality./NN ,./, well-structured./JJ code./NN over./IN quick./JJ fixes./NNS and./CC hacks./NNS 
+
+We./PRP offer./VBP you./PRP :./: 
+
+-./: The./DT ideal./JJ start-up./JJ experience./NN as./IN a./DT Dev./NNP in./IN our./PRP$ Agile./NNP scrum./NN way./NN of./IN working./VBG !./. 
+-./: The./DT chance./NN to./TO help./VB creating./VBG a./DT better./JJR world./NN through./IN improving./VBG medical./JJ research./NN 
+-./: The./DT opportunity./NN to./TO dive./VB into./IN the./DT culture./NN of./IN Amsterdam./NNP !./. 
+-./: Intensive./NN coaching./NN and./CC feedback./NN by./IN our./PRP$ CTO./NNP and./CC a./DT Senior./NNP Developer./NNP 
+-./: Young./NN and./CC smart./JJ colleagues./NNS ;./: that./IN all./DT participate./NN in./IN the./DT morning./NN stand-up./NN !./. 
+-./: The./DT platform./NN to./TO express./VB ideas./NNS and./CC opinions./NNS about./IN the./DT company./NN 
+-./: Free./JJ lunch./NN and./CC Friday./NNP afternoon./NN drinks./NNS 
+
+Working./VBG with./IN us./PRP 
+
+We./PRP work./VBP in./IN a./DT healthy./JJ (./( low./JJ carb./NN salad./NN @./NNP lunch./NN ,./, but./CC also./RB Fries./NNP Friday./NNP )./) ,./, efficient./JJ (./( no./DT overhead./NN !./. )./) ,./, challenging./VBG environment./NN ../. Working./VBG with./IN us./PRP also./RB means./VBZ having./VBG time./NN for./IN other./JJ important./JJ things./NNS in./IN life./NN ../. We./PRP love./VBP tech./JJ and./CC are./VBP always./RB finding./VBG new./JJ productivity./NN hacks./NNS (./( in./IN Slack./NNP ,./, IFTT./NNP integrations./NNS ,./, marketing./NN automation./NN )./) to./TO allow./VB us./PRP to./TO start./VB the./DT Friday./NNP drinks./VBZ early./JJ !./. !./. 
+
+VISA./NNP 
+
+Canadian./JJ nationals./NNS can./MD easily./RB apply./VB for./IN the./DT Working./NNP Holiday./NNP Program./NNP (./( https./NN :./: //ind.nl/EN/individuals/residence-wizard/au-pair-and-exchange/exchange-programme./JJ )./) ../. Non-Canadians./NNPS (./( and./CC non-EU./NN )./) must./MD go./VB through./IN an./DT intensive./JJ application./NN (./( GVVA./NNP )./) for./IN which./WDT we./PRP rapidly./RB require./VBP a./DT lot./NN of./IN documentation./NN ,./, we./PRP will./MD contact./VB you./PRP about./IN this./DT after./IN selection./NN ../. 
+
+Compensation./NN 
+
+-./: The./DT total./JJ compensation./NN (./( salary./JJ )./) per./IN month./NN will./MD be./VB :./: 600./CD 
+-./: The./DT compensation./NN for./IN travel./NN expenses./NNS will./MD be./VB :./: 0./CD 
+-./: Free./JJ lunch./NN ,./, snacks./NNS and./CC Friday./NNP afternoon./NN drinks./NNS 
+
+Basic./JJ cost./NN of./IN living./NN 
+
+-./: Rent./NN :./: 600-800/month./JJ 
+-./: Food./NN &./CC drinks./NNS :./: 250/month./CD 
+-./: Public./NN traffic./NN :./: 80/month./CD (./( pick./VB a./DT spot./NN on./IN East./NNP side./NN of./IN town./NN so./IN you./PRP can./MD bike./VB !./. )./) 
+
+..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: ..../: 
+
+IMPORTANT./NNP NOTE./NNP FROM./NNP CECA./NNP RE./NNP :./: EMPLOYMENT./NNP OUTSIDE./NNP Canada./NNP and./CC USA./NNP 
+
+This./DT work./NN opportunity./NN will./MD be./VB outside./IN Canada./NNP and./CC USA./NNP ,./, and./CC therefore./RB will./MD have./VB certain./JJ financial./JJ realities./NNS ../. Students./NNS should./MD be./VB aware./JJ that./IN student./NN salaries./NNS in./IN countries./NNS outside./IN North./NNP America./NNP are./VBP typically./RB significantly./RB lower./JJR than./IN Canadian./JJ minimum./JJ wages./NNS ,./, and./CC that./IN it./PRP is./VBZ unlikely./JJ that./IN the./DT local./JJ salary./NN will./MD allow./VB for./IN any./DT significant./JJ level./NN of./IN savings./NNS during./IN the./DT work./NN term./NN ../. 
+
+Also./RB ,./, international./JJ companies./NNS do./VBP not./RB necessarily./RB provide./VB any./DT additional./JJ compensation./NN for./IN airfare./NN ,./, work./NN permit./NN or./CC housing./NN expenses./NNS ../. Sign-offs./NNS will./MD not./RB be./VB permitted./VBN for./IN financial./JJ reasons./NNS ;./: so./RB ,./, please./VB review./VB what./WP is./VBZ covered./VBN or./CC not./RB covered./VBN in./IN the./DT compensation./NN details./NNS ../. Use./VB a./DT currency./NN converter./NN like./IN http./NN :./: //www.bankofcanada.ca/rates/exchange/daily-converter/./JJ to./TO understand./VB the./DT Canadian./JJ equivalent./NN ../. Students./NNS should./MD assume./VB that./IN all./DT expenses./NNS related./VBN to./TO airfare./VB ,./, work./VB permit./NN and./CC housing./NN will./MD be./VB the./DT responsibility./NN of./IN the./DT student./NN ../. 
+
+It./PRP is./VBZ also./RB for./IN the./DT student./NN to./TO determine./VB whether./IN they./PRP are./VBP eligible./JJ to./TO work./VB in./IN the./DT specific./JJ country./NN in./IN question./NN ../. To./TO assess./VB your./PRP$ eligibility./NN ,./, please./VB go./VB to./TO https./VB :./: //uwaterloo.ca/co-operative-education/working-abroad/finding-international-job-opportunities/are-you-eligible-work-abroad./NN ,./, and./CC read./VBD the./DT information./NN listed./VBN in./IN its./PRP$ entirety./NN before./IN you./PRP apply./VBP for./IN this./DT job./NN ../. 
+Before./IN you./PRP apply./VBP to./TO this./DT job./NN ,./, please./NN be./VB aware./JJ of./IN mandatory./NN and./CC other./JJ requirements./NNS for./IN students./NNS working./VBG outside./IN Canada./NNP :./: https./NN :./: //uwaterloo.ca/co-operative-education/working-abroad/found-international-job-jobmine./NN ../. 
+
+Co-op./JJ students./NNS who./WP are./VBP successful./JJ in./IN obtaining./VBG an./DT international./JJ co-op./JJ work./NN term./NN can./MD consider./VB applying./VBG for./IN international./JJ travel./NN awards./NNS /scholarships./VBZ detailed./VBN at./IN Student./NNP Awards./NNP and./CC Financial./NNP Aid./NNP (./( SAFA./NNP )./) :./: https./NN :./: //uwaterloo.ca/student-awards-financial-aid/international-experience-awards./NNS ../. Apply./NNP as./RB early./RB as./IN possible./JJ as./IN applications./NNS have./VBP deadlines./NNS -./: see./NN SAFA./NNP site./NN for./IN details./NNS ../. 

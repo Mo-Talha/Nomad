@@ -1,0 +1,34 @@
+Connected./VBN Lab./NNP is./VBZ one./CD of./IN the./DT fastest./JJS growing./VBG connected./VBN software./NN companies./NNS in./IN North./NNP America./NNP ../. Our./PRP$ mission./NN is./VBZ to./TO build./VB the./DT best./JJS connected./JJ software./NN experiences./NNS for./IN the./DT world./NN 's./POS most./RBS ambitious./JJ brands./NNS ../. We./PRP are./VBP a./DT world-class./JJ team./NN of./IN Software./NNP &./CC Firmware./NNP Engineers./NNPS ,./, UI/UX./NNP designers./NNS and./CC Product./NNP Strategists./NNP ../. We./PRP come./VBP from./IN Apple./NNP ,./, Facebook./NNP ,./, Xtreme./NNP Labs./NNP ,./, Pivotal./NNP Labs./NNP and./CC Uber./NNP ../. We./PRP have./VBP past./JJ experience./NN building./NN products./NNS for./IN Facebook./NNP ,./, Uber./NNP ,./, Instagram./NNP ,./, Twitter./NNP ,./, Salesforce./NNP and./CC the./DT NFL./NNP ../. 
+
+We./PRP 're./VBP building./VBG a./DT team./NN that./WDT 's./VBZ passionate./NN about./IN innovation./NN ,./, apprenticeship./NN (./( learning./VBG by./IN pairing./VBG )./) and./CC building./VBG amazing./JJ experiences./NNS ../. And./CC if./IN you./PRP love./VBP a./DT good./JJ time./NN ,./, whether./IN it./PRP 's./VBZ athletics./NNS ,./, canoe./JJ trips./NNS ,./, League./NNP of./IN Legends./NNP ,./, movies./NNS ,./, quiet./JJ conversation./NN at./IN a./DT coffee./NN shop./NN ,./, tinkering./VBG with./IN 3D./CD printers./NNS ,./, or./CC just./RB chilling./NN ,./, so./RB do./VBP we./PRP !./. 
+
+About./IN you./PRP :./: 
+-./: You./PRP are./VBP smart./JJ ,./, reliable./JJ ,./, kind./NN ,./, honest./NN ,./, and./CC excited./VBD to./TO teach./VB and./CC learn./VB 
+-./: You./PRP 're./VBP excited./VBN about./IN working./VBG directly./RB with./IN a./DT talented./JJ team./NN who./WP has./VBZ deep./JJ experience./NN working./VBG on./IN major./JJ product./NN launches./NNS 
+-./: You./PRP love./VBP a./DT good./JJ time./NN ../. Connected./VBN Lab./NNP is./VBZ a./DT playful./JJ environment./NN and./CC has./VBZ access./NN to./TO awesome./VB perks./NNS 
+-./: You./PRP like./IN tackling./VBG technical./JJ challenges./NNS 
+-./: You./PRP have./VBP a./DT passion./NN for./IN connected./JJ devices./NNS and./CC willingness./NN to./TO learn./VB 
+
+Responsibilities./NNS :./: 
+-./: Manual./JJ functional./JJ testing./NN on./IN the./DT apps./NN we./PRP are./VBP working./VBG on./IN (./( familiarity./NN with./IN Pivotal./NNP Tracker./NNP ,./, GitHub./NNP and./CC Fabric./NNP are./VBP an./DT asset./NN )./) 
+-./: Automated./VBD UI./NNP testing./VBG 
+-./: Overall./JJ QA./NNP process./NN improvements./NNS and./CC revision./NN 
+-./: Developing./VBG RC./NNP test./NN documentation./NN and./CC weekly./JJ QA./NNP testing./NN procedures./NNS 
+-./: Deploying./NN software./NN solutions./NNS that./WDT support./VBP Connected./NNP Lab./NNP 's./POS automated./VBN quality./NN assurance./NN ,./, including./VBG load./NN testing./NN ,./, continuous./JJ integration./NN ,./, build./VB packaging./NN ,./, and./CC deployment./NN infrastructures./NNS 
+-./: Researching./NN and./CC developing./VBG test./NN tools./NNS for./IN security./NN testing./VBG including./VBG proxy./JJ tests./NNS using./VBG Charles./NNP Proxy./NNP 
+-./: Communicating./NN and./CC reporting./VBG all./DT issues./NNS daily./RB regarding./VBG project./NN quality./NN to./TO team./VB leads./NNS and./CC project./NN members./NNS 
+
+Required./VBN Skills./NNS :./: 
+-./: Currently./RB pursuing./VBG a./DT degree./NN in./IN Computer./NNP Science./NNP ,./, Computer./NNP Engineering./NNP ,./, or./CC equivalent./NN 
+-./: Proficiency./NN in./IN writing./VBG concise./NN ,./, technical./JJ bug./NN reports./NNS 
+-./: Experience./NN working./VBG with./IN mobile./JJ and./CC web./JJ applications./NNS 
+-./: Ability./NN to./TO write./VB procedural./JJ scripts./NNS (./( Bash./NNP ,./, Python./NNP ,./, Ruby./NNP ,./, etc./NN )./) 
+-./: Ability./NN to./TO write./VB automated./JJ tests./NNS using./VBG Selenium./NNP ,./, Calabash./NNP ,./, UIA./NNP ,./, Espresso./NNP ,./, KIF./NNP ,./, Cucumber./NNP ,./, Frank./NNP or./CC equivalent./JJ 
+-./: Experience./NN with./IN at./IN least./JJS one./CD continuous./JJ integration./NN package./NN an./DT asset./NN (./( CruiseControl./NNP ,./, Jenkins./NNP ,./, Travis./NNP ,./, Concourse./NNP CI./NNP or./CC similar./JJ )./) 
+-./: Proficiency./NN with./IN Git./NNP 
+
+Career./NNP Development./NNP and./CC Training./NN :./: 
+Mentoring./NNP ,./, lunch./NN and./CC learns./NNS ,./, microlearns./NNS ,./, pair./NN programming./NN 
+
+Transportation./NN and./CC Housing./NN :./: 
+Conveniently./RB located./VBN in./IN downtown./NN Toronto./NNP ,./, quick./JJ access./NN to./TO TTC./NNP ,./, restaurants./NNS and./CC amenities./NNS ../. 

@@ -1,0 +1,18 @@
+This./DT position./NN is./VBZ within./IN the./DT Project./NNP Management./NNP Office./NNP (./( PMO./NNP )./) ../. 
+
+Duties/Responsibilities./NNS :./: 
+1./CD ../. Will./MD create./VB user./JJ requirement./NN specifications./NNS (./( URS./NNP )./) in./IN co-operation./NN with./IN Project./NN Managers./NNS to./TO define./VB the./DT needs./NNS of./IN departmental./NN tools./NNS and./CC dashboards./NNS 
+2./CD ../. Will./MD work./VB from./IN developed./VBN or./CC existing./VBG URS./NNP to./TO develop./VB tools./NNS 
+3./LS ../. Test./NN and./CC rollout./NN developed./NN tools./NNS 
+4./CD ../. Create./NNP and./CC deliver./VB training./NN documentation/modules./NNS on./IN developed./NN tools./NNS 
+5./CD ../. Continuous./JJ improvement./NN on./IN existing./VBG tools./NNS 
+6./CD ../. Create./NNP scheduler./NN to./TO push./VB user-selected./JJ reports./NNS on./IN a./DT desired./JJ frequency./NN (./( via./IN email./NN or./CC network./NN location./NN )./) 
+
+Necessary./JJ Skills./NNP and./CC Experience./NN :./: 
+-./: 2nd./CD or./CC 3rd./CD year./NN Co-op./NN 
+-./: Experience./NN in./IN developing./VBG and./CC implementing./VBG software./NN test./NN plans./NNS across./IN different./JJ platforms./NNS 
+-./: Demonstrable./JJ ability./NN to./TO develop./VB software./NN tool./NN operation./NN instructions./NNS 
+-./: Expert./NN in./IN MS./NNP Excel./NNP and./CC interfacing./VBG with./IN other./JJ MS./NNP suite./NN products./NNS (./( VBA./NNP programmer./VBZ /./NNP developer./NN )./) 
+-./: Familiarity./NN with./IN Reading/Writing./VBG to./TO Databases./NNP (./( SQL./NNP ,./, ORACLE./NNP )./) 
+-./: App./NN programmer./NN /./NNP developer./NN (./( not./RB required./VBN but./CC an./DT asset./NN )./) 
+-./: Innovative./NN and./CC Creative./NNP with./IN an./DT ability./NN to./TO work./VB Independently./RB 

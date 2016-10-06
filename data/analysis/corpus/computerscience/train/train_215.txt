@@ -1,0 +1,26 @@
+Summary./JJ 
+Be./NNP part./NN of./IN a./DT fast./JJ moving./NN ,./, lean./JJ product./NN development./NN team./NN working./VBG on./IN the./DT continued./VBN development./NN in./IN computer./NN vision./NN and./CC machine./NN learning./NN applications./NNS ../. Deliver./NNP reliable./JJ ,./, scalable./JJ new./JJ features./NNS to./TO ARB./NNP Labs./NNP customers./NNS using./VBG Python./NNP ,./, Numpy./NNP ,./, Pandas./NNP ,./, Matplotplib./NNP and./CC Scikit-Learn./NNP ../. Work./NN with./IN the./DT development./NN team./NN to./TO design./VB and./CC deliver./VB finished./VBN ,./, high./JJ quality./NN ,./, and./CC compelling./VBG features./NNS and./CC products./NNS on./IN time./NN ../. 
+
+Responsibilities./NNS 
+-./: Collaborate./NN with./IN team./NN of./IN developers./NNS to./TO design./VB ,./, develop./VB ,./, unit./NN test./NN ,./, and./CC support./VB new./JJ features./NNS 
+-./: Strive./NN for./IN high./JJ quality./NN and./CC rapid./JJ output./NN through./IN the./DT use./NN of./IN agile./NN software./NN development./NN best./JJS practices./NNS 
+-./: Performance./NN tuning./NN ,./, testing./VBG ,./, refactoring./VBG ,./, usability./NN ,./, and./CC automation./NN 
+-./: Support./NN ,./, maintain./NN ,./, and./CC help./VB document./NN software./NN functionality./NN 
+-./: Maintain./NN coding./NN ,./, compliance./NN ,./, &./CC security./NN standards./NNS 
+-./: Work./NN with./IN other./JJ departments./NNS ,./, stakeholders./NNS ,./, and./CC customers./NNS on./IN software./NN development./NN ,./, improvements./NNS ,./, internal./JJ tools./NNS ,./, and./CC implementation./NN issues./NNS 
+-./: Maintenance./NN and./CC on-going./JJ support./NN of./IN past./JJ and./CC future./JJ technical./JJ solutions./NNS 
+-./: Proactively./RB learn./JJ product./NN frameworks./NNS and./CC code./NN base./NN 
+
+Required./VBN Skills./NNS 
+-./: 2+./CD years./NNS experience./RB working./VBG with./IN Python./NNP 2.7./CD and/or./NN 3.0./CD 
+-./: Experience./NN with./IN full-stack./NN development./NN 
+-./: Experience./NN with./IN MVC./NNP and./CC OOP./NNP design./NN patterns./NNS 
+-./: Experience./NN with./IN computer./NN vision./NN frameworks./NNS 
+-./: Agile./NN ,./, lean./JJ ,./, or./CC similar./JJ development./NN methodologies/experience./NN 
+-./: 2+./CD years./NNS of./IN SQL./NNP ,./, any./DT flavor./NN (./( mySQL./NN ,./, SQL./NNP Server./NNP ,./, PostgreSQL./NNP ,./, Sybase./NNP ,./, Oracle./NNP ,./, etc./FW ../. )./) 
+-./: Experience./NN with./IN Amazon./NNP Web./NNP Services./NNP (./( AWS./NNP )./) a./DT plus./NN 
+-./: Experience./NN in./IN web./NN development./NN :./: HTML/CSS/Javascript./NN 
+-./: Understanding./NN of./IN basic./JJ project./NN management./NN principles./NNS 
+-./: Understanding./NN Web./NNP Application./NNP Security./NNP (./( OWASP./NNP )./) 
+-./: Self-motivated./JJ and./CC able./JJ to./TO work./VB in./IN a./DT small./JJ team./NN with./IN minimal./JJ supervision./NN 
+-./: Good./JJ communication./NN and./CC organizational./JJ skills./NNS 

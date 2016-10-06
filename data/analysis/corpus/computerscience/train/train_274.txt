@@ -1,0 +1,43 @@
+Location./NN :./: Chicago./NNP ,./, New./NNP York./NNP 
+
+Your./PRP$ curiosity./NN gets./VBZ you./PRP up./RP in./IN the./DT morning./NN ,./, but./CC your./PRP$ relentless./JJ drive./NN to./TO improve./VB keeps./NNS you./PRP coming./VBG back./RB for./IN more./JJR ../. You./PRP 've./VBP got./VBN a./DT healthy./JJ appetite./NN for./IN taking./VBG risks./NNS and./CC clearly./RB understand./VBP the./DT macroeconomic./JJ landscape./NN ../. You./PRP 're./VBP also./RB exceptional./JJ at./IN statistics./NNS and./CC math./NN ../. Highly./NNP motivated./VBD ,./, you./PRP can./MD command./VB a./DT room./NN by./IN communicating./VBG advanced./JJ concepts./NNS in./IN a./DT concise./NN way./NN ../. 
+
+Citadel./NNP trades./NNS across./IN all./DT major./JJ asset./NN classes./NNS in./IN the./DT world./NN 's./POS largest./JJS financial./JJ markets./NNS ../. 
+Technology./NN drives./VBZ our./PRP$ high-performance./JJ trading./NN infrastructure./NN -./: it./PRP 's./VBZ one./CD of./IN the./DT industry./NN 's./POS most./RBS powerful./JJ platforms./NNS ../. Our./PRP$ teams./NNS have./VBP some./DT of./IN the./DT most./RBS talented./JJ and./CC focused./JJ minds./NNS in./IN the./DT industry./NN ../. It./PRP 's./VBZ not./RB just./RB about./IN being./VBG the./DT best./JJS ;./: it./PRP 's./VBZ about./IN extending./VBG our./PRP$ lead./NN significantly./RB ../. We./PRP recruit./VBP ambitious./JJ people./NNS who./WP want./VBP to./TO win./VB and./CC give./VB them./PRP next-generation./JJ tools./NNS to./TO focus./VB on./IN what./WP they./PRP do./VBP best./JJS :./: trade./NN in./IN incredibly./RB competitive./JJ ,./, fast-paced./JJ environments./NNS to./TO seize./VB opportunities./NNS that./IN others./NNS ca./MD n't./RB see./VB ../. 
+
+If./IN this./DT is./VBZ what./WP excites./VBZ you./PRP :./: 
+-./: Constantly./RB learning./VBG and./CC staying./VBG ahead./RB of./IN global./JJ market./NN dynamics./NNS 
+-./: Working./NN in./IN a./DT team./NN environment./NN that./WDT closely./RB integrates./VBZ trading./NN ,./, quantitative./JJ research./NN and./CC technology./NN 
+-./: Innovating./NN using./VBG one./CD of./IN the./DT industry./NN 's./POS most./RBS powerful./JJ trading./NN platforms./NNS 
+
+And./CC this./DT is./VBZ what./WP you./PRP 've./VBP got./VBN :./: 
+-./: Advanced./JJ training./NN in./IN Applied./NNP Math./NNP ,./, Engineering./NNP ,./, Statistical./NNP Modeling./NNP ,./, Calculus./NNP ,./, Computer./NNP 
+Science./NN ,./, Physics./NNPS or./CC related./VBN disciplines./NNS 
+-./: Strong./NN knowledge./NN of./IN probability./NN and./CC statistics./NNS 
+-./: Ability./NN to./TO solve./VB open-ended./JJ problems./NNS using./VBG analytical./JJ methods./NNS 
+-./: Solid./JJ knowledge/experience./NN with./IN Excel./NNP ,./, Python./NNP ,./, C./NNP ,./, C++./NNP or./CC VBA./NNP 
+-./: Passion./NN for./IN the./DT markets./NNS and./CC a./DT desire./NN to./TO seize./VB investment./NN opportunities./NNS 
+
+This./DT is./VBZ what./WP Citadel./NNP can./MD give./VB you./PRP :./: 
+-./: Meaningful./JJ projects./NNS that./WDT directly./RB impact./VBP global./JJ markets./NNS 
+-./: A./DT culture./NN that./WDT values./VBZ ambition./NN and./CC rewards./NNS talent./NN 
+-./: World-class./NN training./NN ,./, tools./NNS and./CC mentorship./NN 
+-./: Collaboration./NN with./IN some./DT of./IN the./DT leading./VBG thinkers./NNS in./IN the./DT industry./NN 
+
+The./DT Role./NNP 
+We./PRP are./VBP looking./VBG for./IN exceptional./JJ students./NNS to./TO work./VB within./IN one./CD of./IN our./PRP$ asset./NN management./NN investment./NN strategies./NNS or./CC liquidity./NN providing./VBG proprietary./JJ trading./NN businesses./NNS ../. You./PRP will./MD work./VB in./IN a./DT team./NN environment./NN with./IN close./JJ integration./NN of./IN trading./NN ,./, quantitative./JJ research./NN ,./, and./CC technology./NN ,./, and./CC learn./VB how./WRB to./TO manage./VB risk./NN and./CC identify./VB opportunities./NNS to./TO deploy./VB capital./NN ../. Responsibilities./NNS can./MD include./VB conducting./VBG research./NN and./CC analysis./NN in./IN the./DT evaluation./NN of./IN financial./JJ instruments./NNS utilizing./VBG fundamental./JJ ,./, technical./JJ ,./, statistical./JJ and/or./NN quantitative./JJ methods./NNS to./TO provide./VB support./NN for./IN investment./NN decisions./NNS ../. Potential./JJ businesses./NNS for./IN placement./NN include./NN ,./, but./CC are./VBP not./RB limited./VBN to./TO :./: Citadel./NNP Execution./NNP Services./NNPS ,./, Fixed./NNP Income./NNP ,./, Options./NNP Market-Making./NNP and./CC Quantitative./NNP Strategies./NNP ../. 
+
+-./: Citadel./NN Execution./NN Services./NNS :./: 
+o./JJ Citadel./NNP Execution./NNP Services./NNPS is./VBZ a./DT trading./NN team./NN focused./VBD on./IN leveraging./VBG individual./JJ trader./NN insights./NNS and./CC judgement./NN on./IN top./NN of./IN highly./RB quantitative./JJ and./CC systematic./JJ core./NN trading./NN models./NNS ../. This./DT team./NN coordinates./VBZ very./RB closely./RB with./IN the./DT Citadel./NNP Quantitative./NNP Strategies./NNP team./NN and./CC focuses./NNS on./IN ETFs./NNP and./CC other./JJ cash./NN equity./NN strategies./NNS ../. 
+
+-./: Fixed./VBN Income./NNP :./: 
+o./NN Global./NNP Fixed./NNP Income./NNP deploys./VBZ capital./NN in./IN the./DT developed./JJ interest-rate./NN ,./, currency./NN ,./, and./CC mortgage./NN markets./NNS ,./, focusing./VBG on./IN liquid./NN products./NNS including./VBG nominal./JJ and./CC inflation-protected./JJ government./NN bonds./NNS ,./, interest-rate./JJ swaps./NNS ,./, futures./NNS ,./, rates./NNS options./NNS ,./, FX./NNP options./NNS ,./, and./CC Agency./NNP mortgage-backed./JJ securities./NNS ../. Strategies./NNS are./VBP primarily./RB concentrated./VBN in./IN the./DT G10./NNP markets./NNS ../. Global./NNP Fixed./NNP Income./NNP employs./VBZ a./DT combination./NN of./IN macroeconomic./JJ analysis./NN ,./, quantitative./JJ modeling./NN ,./, and./CC rigorous./JJ portfolio./NN construction./NN to./TO identify./VB and./CC capture./VB opportunities./NNS ../. Each./DT portfolio./NN manager./NN in./IN Global./NNP Fixed./NNP Income./NNP has./VBZ a./DT disciplined./VBN approach./NN to./TO their./PRP$ specific./JJ domain./NN ,./, and./CC the./DT team./NN jointly./RB identifies./VBZ potential./JJ investments./NNS across./IN these./DT products./NNS and./CC regions./NNS through./IN a./DT collaborative./JJ investment./NN process./NN ../. 
+
+-./: Options./NNS Market-Making./NN :./: 
+o./NN Options./NNP Market-Making./NNP is./VBZ a./DT team./NN comprised./VBN of./IN quantitative./JJ traders./NNS focused./VBD on./IN the./DT design./NN ,./, implementation./NN and./CC execution./NN of./IN Citadel./NNP Securities./NNP './POS automated./VBD options./NNS trading./VBG systems./NNS ../. This./DT team./NN works./VBZ closely./RB with./IN colleagues./NNS in./IN Quantitative./NNP Research./NNP and./CC Information./NNP Technology./NNP ,./, to./TO blend./VB practical./JJ trading./NN insight./NN with./IN leading-edge./JJ analytics./NNS and./CC technology./NN ../. 
+
+-./: Quantitative./NN Strategies./NNS :./: 
+o./JJ Quantitative./NNP Strategies./NNP applies./VBZ mathematical./JJ and./CC statistical./JJ models./NNS to./TO the./DT financial./JJ markets./NNS ,./, combining./VBG rigorous./JJ research./NN and./CC advanced./VBD technology./NN to./TO identify./VB and./CC execute./VB on./IN investment./NN opportunities./NNS ../. The./DT team./NN operates./VBZ globally./RB ,./, seeking./VBG to./TO generate./VB alpha./NN by./IN applying./VBG systematic./JJ strategies./NNS across./IN a./DT diverse./NN set./NN of./IN asset./NN classes./NNS including./VBG equities./NNS ,./, sovereign./JJ bonds./NNS ,./, fixed./JJ income./NN ,./, credit./NN ,./, commodities./NNS and./CC currencies./NNS ../. 
+
+About./IN Citadel./NNP 
+Citadel./NNP is./VBZ a./DT worldwide./JJ leader./NN in./IN finance./NN that./IN uses./VBZ next-generation./NN technology./NN and./CC alpha-driven./JJ strategies./NNS to./TO transform./VB the./DT global./JJ economy./NN ../. We./PRP tackle./VBP some./DT of./IN the./DT toughest./JJS problems./NNS in./IN the./DT industry./NN by./IN pushing./VBG ourselves./PRP to./TO be./VB the./DT best./JJS again./RB and./CC again./RB ../. It./PRP 's./VBZ demanding./VBG work./NN for./IN the./DT brightest./JJS minds./NNS ,./, but./CC we./PRP would./MD n't./RB have./VB it./PRP any./DT other./JJ way./NN ../. Here./RB ,./, great./JJ ideas./NNS come./VBP from./IN everyone./NN ../. 

@@ -1,0 +1,29 @@
+Main./NN Responsibilities./NNS :./: 
+This./DT role./NN is./VBZ ideal./JJ for./IN individuals./NNS seeking./VBG an./DT opportunity./NN to./TO enhance./VB and./CC develop./VB their./PRP$ technical./JJ skills./NNS and./CC customer./NN interaction./NN expertise./NN ../. In./IN this./DT position./NN ,./, you./PRP 'll./MD work./VB with./IN the./DT full./JJ range./NN of./IN Pleora./NNP 's./POS video./NN interface./NN products./NNS on./IN multiple./JJ platforms./NNS (./( Windows./NNP ,./, Linux./NNP ,./, Mac./NNP OS-x./NNP )./) and./CC build./VB your./PRP$ software./NN skills./NNS by./IN reviewing./VBG ,./, debugging./NN ,./, and./CC developing./VBG sample./JJ code./NN for./IN customers./NNS ../. 
+
+Responsibilities./NNS 
+You./PRP 'll./MD collaborate./VB with./IN our./PRP$ applications./NNS engineering./NN and./CC product./NN development./NN teams./NNS -./: widely./RB regarded./VBD as./IN the./DT experts./NNS in./IN video./JJ interface./NN technologies./NNS -./: and./CC work./VB directly./RB with./IN our./PRP$ global./JJ customer./NN base./NN of./IN designers./NNS ,./, systems./NNS integrators./NNS ,./, and./CC manufacturers./NNS to./TO help./VB solve./VB their./PRP$ problems./NNS ../. Based./VBN on./IN your./PRP$ work./NN with./IN our./PRP$ customers./NNS ,./, you./PRP 'll./MD also./RB be./VB counted./VBN on./IN to./TO provide./VB input./NN into./IN potential./JJ future./NN products./NNS and./CC features./NNS ../. So./RB if./IN you./PRP 're./VBP a./DT quick./JJ study./NN who./WP loves./VBZ a./DT challenge./NN ,./, we./PRP want./VBP to./TO meet./VB you./PRP ../. 
+
+Competencies./NNP &./CC Skills./NNP :./: 
+-./: Proven./NN troubleshooting./VBG ability./NN 
+-./: Keen./NN to./TO learn./VB new./JJ technologies./NNS 
+-./: Object./NN Oriented./VBD programming./JJ principles./NNS and./CC C++./NNP programming./NN language./NN 
+-./: Familiarity./NN with./IN low-level./JJ configuration./NN of./IN PC./NN system./NN internals./NNS including./VBG drivers./NNS 
+-./: Familiarity./NN with./IN Embedded./NNP software/firmware./NN or./CC hardware./NN development./NN 
+-./: Ability./NN to./TO set./VB up./RP and./CC troubleshoot./VB small./JJ IP./NNP networks./NNS 
+-./: A./DT self-starter./NN 
+-./: Effective./NN written./VBN ,./, and./CC strong./JJ verbal./NN ,./, communication./NN skills./NNS in./IN English./NNP 
+-./: Demonstrated./VBN tact./NN and./CC diplomacy./NN competencies./NNS that./WDT can./MD be./VB applied./VBN to./TO customer./NN interactions./NNS 
+
+Term./NN :./: 4./CD months./NNS ,./, with./IN a./DT strong./JJ possibility./NN of./IN a./DT further./JJ 4./CD months./NNS extension./NN ../. 
+
+Pleora./NNP will./MD provide./VB reasonable./JJ accommodation./NN to./TO persons./NNS with./IN disabilities./NNS in./IN the./DT recruitment./NN process./NN upon./IN request./NN ../. 
+
+Transportation./NN And./CC Housing./NN 
+student./NN will./MD have./VB to./TO manage./VB these./DT ../. 
+
+Education/Disciplines./NNS :./: 
+3rd./CD of./IN 4th./CD year./NN student./NN :./: Engineering./NN ;./: Computing./NNP Science./NNP ;./: or./CC related./JJ field./NN ;./: 
+
+Career./NNP Development./NNP And./CC Training./NNP 
+Depending./VBG on./IN the./DT skills./NNS and./CC experience./NN of./IN the./DT students./NNS salary./VBP various./JJ between./IN $./$ 16-./JJ $./$ 22./CD hr./NN ../. 

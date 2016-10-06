@@ -1,0 +1,39 @@
+Gain./VB Experience./NN with./IN a./DT Global./JJ Leader./NN 
+
+The./DT Global./NNP Asset./NNP Liability./NNP Management./NNP (./( Global./NNP ALM./NNP )./) group./NN within./IN Investment./NNP Division./NNP has./VBZ the./DT mandate./NN to./TO play./VB a./DT leadership./NN role./NN in./IN the./DT identification./NN and./CC assessment./NN of./IN ALM./NNP related./JJ risks./NNS globally./RB along./IN with./IN the./DT development./NN of./IN an./DT effective./JJ risk./NN management./NN infrastructure./NN and./CC strategies./NNS to./TO support./VB the./DT company./NN 's./POS business./NN strategies./NNS and./CC financial./JJ objectives./NNS ../. 
+Reporting./VBG to./TO Director./NNP ,./, ALM./NNP Modeling./NNP and./CC Systems./NNPS ,./, this./DT position./NN is./VBZ based./VBN in./IN the./DT Toronto./NNP Head./NNP Office./NNP and./CC focuses./VBZ on./IN the./DT development./NN of./IN financial./JJ models./NNS and./CC applications./NNS that./WDT are./VBP used./VBN for./IN product./NN pricing./NN and./CC valuation./NN ,./, and./CC risk./NN measurement./NN ../. 
+
+The./DT student./NN will./MD have./VB the./DT opportunity./NN to./TO learn./VB about./IN modeling./NN of./IN assets./NNS and./CC liabilities./NNS ../. In./IN addition./NN to./TO using./VBG financial./JJ modeling./VBG techniques./NNS ,./, the./DT student./NN will./MD gain./VB experience./NN with./IN a./DT variety./NN of./IN programming./VBG technologies./NNS :./: C./NNP #./# .net./NNP ,./, VBA./NNP ,./, SQL./NNP ,./, AXIS./NNP and./CC Matlab./NNP ../. 
+
+This./DT position./NN will./MD provide./VB the./DT successful./JJ candidate./NN with./IN an./DT opportunity./NN to./TO join./VB a./DT motivated./JJ group./NN of./IN ALM./NNP professionals./NNS and./CC to./TO participate./VB in./IN projects./NNS that./WDT require./VBP both./DT technical./JJ and./CC business./NN acumen./NNS ../. The./DT incumbent./NN will./MD also./RB be./VB involved./VBN in./IN the./DT review./NN and./CC development./NN of./IN various./JJ Asset./NNP Liability./NNP Management./NNP methodologies./NNS and./CC reports./NNS ../. 
+
+Responsibilities./NNS :./: 
+-./: Assist./NN with./IN the./DT parameter./NN update./NN of./IN existing./VBG financial./JJ risk./NN models./NNS 
+-./: Assist./NN with./IN the./DT development./NN and./CC implementation./NN of./IN new./JJ financial./JJ models/Applications./NNS 
+-./: Support./NN all./DT aspects./NNS of./IN financial./JJ model./NN development./NN (./( requirements./NNS analysis./NN ,./, design./NN ,./, implementation./NN ,./, testing./VBG ,./, and./CC documentation./NN )./) 
+
+Qualifications./NNS 
+Education./NN and./CC Experience./NN Requirements./NNS :./: 
+-./: University./NNP student./NN in./IN a./DT quantitative./JJ discipline./NN (./( e.g../JJ ,./, Mathematics./NNPS ,./, Economics./NNP ,./, Statistics./NNPS ,./, Engineering./NNP ,./, Actuarial./NNP Science./NNP and./CC Computer./NNP Science./NNP )./) ;./: 
+-./: Prior./NN risk./NN management./NN experience./NN is./VBZ an./DT asset./NN 
+
+Technical./JJ :./: 
+-./: Knowledge./NN of./IN programming./VBG languages./NNS (./( VBA./NNP ,./, SQL./NNP ,./, C./NNP #./# .net./NNP )./) and./CC software./NN (./( Excel./NNP ,./, Access./NNP ,./, AXIS./NNP ,./, Matlab./NNP )./) 
+-./: Strong./JJ mathematical./JJ skills./NNS (./( calculus./NN ,./, differential./JJ equations./NNS ,./, and./CC numerical./JJ methods./NNS )./) 
+-./: Strong./JJ statistical./JJ skills./NNS (./( random./JJ variables./NNS ,./, stochastic./JJ processes./NNS )./) 
+-./: Strong./JJ financial./JJ background./NN (./( options./NNS ,./, futures./NNS and./CC other./JJ derivative./JJ securities./NNS )./) 
+
+Personal./JJ Effectiveness./NN :./: 
+-./: Excellent./NN analytical./JJ and./CC problem./NN solving./NN skills./NNS 
+-./: Excellent./NN verbal./JJ and./CC written./VBN communication./NN skills./NNS 
+-./: Well./RB organized./VBN and./CC results./NNS oriented./VBD 
+-./: Able./NN to./TO work./VB in./IN a./DT dynamic./JJ ,./, time-sensitive./JJ environment./NN 
+
+About./IN Manulife./NNP :./: 
+Manulife./NNP 's./POS 2013./CD Public./NNP Accountability./NNP statement./NN provides./VBZ a./DT broader./JJR context./NN to./TO our./PRP$ operations./NNS ../. 
+
+To./TO learn./VB more./JJR visit./NN :./: 
+http./NN :./: //www.manulife.com/public/files/201/1/MFC_PAS_2013.pdf./NN 
+
+About./IN John./NNP Hancock./NNP Financial./NNP and./CC Manulife./NNP Financial./NNP Corporation./NNP 
+John./NNP Hancock./NNP Financial./NNP is./VBZ a./DT division./NN of./IN Manulife./NNP Financial./NNP Corporation./NNP ,./, a./DT leading./VBG Canada-based./JJ financial./JJ services./NNS group./NN with./IN principal./JJ operations./NNS in./IN Asia./NNP ,./, Canada./NNP and./CC the./DT United./NNP States./NNPS ../. Operating./VBG as./IN Manulife./NNP in./IN Canada./NNP and./CC Asia./NNP ,./, and./CC as./IN John./NNP Hancock./NNP in./IN the./DT United./NNP States./NNPS ,./, the./DT Company./NNP offers./VBZ clients./NNS a./DT diverse./JJ range./NN of./IN financial./JJ protection./NN products./NNS and./CC wealth./NN management./NN services./NNS through./IN its./PRP$ extensive./JJ network./NN of./IN employees./NNS ,./, agents./NNS and./CC distribution./NN partners./NNS ../. Funds./NNS under./IN management./NN by./IN Manulife./NNP and./CC its./PRP$ subsidiaries./NNS were./VBD C./NNP $./$ 599./CD billion./CD as./IN at./IN December./NNP 31./CD ,./, 2013./CD ../. Manulife./NNP Financial./NNP Corporation./NNP trades./VBZ as./IN 'MFC./NNP './POS on./IN the./DT TSX./NNP ,./, NYSE./NNP and./CC PSE./NNP ,./, and./CC under./IN '945./NNP './POS on./IN the./DT SEHK./NNP ../. Manulife./NNP can./MD be./VB found./VBN on./IN the./DT Internet./NNP at./IN manulife.com./NN ../. 

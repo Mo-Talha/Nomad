@@ -1,0 +1,12 @@
+Summary./JJ 
+We./PRP are./VBP recruiting./VBG a./DT winter./NN co-op./NN to./TO join./VB the./DT IP-Multimedia./NNP solution./NN verification./NN team./NN ../. Communication./NN providers./NNS around./IN the./DT globe./NN deploy./NN complex./JJ networks./NNS that./WDT are./VBP mission./JJ critical./JJ and./CC are./VBP expected./VBN to./TO perform./VB flawlessly./RB ../. You./PRP will./MD work./VB with./IN the./DT team./NN who./WP is./VBZ responsible./JJ for./IN ensuring./VBG the./DT products./NNS exceed./VBP industry./NN standards./NNS ,./, and./CC meet./VB the./DT most./RBS stringent./JJ quality./NN standards./NNS ../. This./DT is./VBZ a./DT great./JJ opportunity./NN to./TO participate./VB in./IN the./DT development./NN and./CC testing./NN of./IN GENBAND./NNP 's./POS next./JJ generation./NN solutions./NNS ,./, leveraging./VBG cutting./VBG edge./NN virtualization./NN ,./, web./NN services./NNS and./CC cloud./JJ computing./VBG technologies./NNS to./TO deliver./VB best./JJS in./IN class./NN real-time./JJ communication./NN solutions./NNS ../. 
+
+Responsibilities./NNS 
+You./PRP will./MD be./VB responsible./JJ for./IN testing./VBG new./JJ products/solutions./NNS ../. Your./PRP$ primary./JJ responsibility./NN will./MD be./VB to./TO develop./VB test./NN plans./NNS to./TO validate./VB features./NNS work./VB as./RB expected./VBN ,./, and./CC that./IN they./PRP are./VBP designed./VBN as./IN per./IN the./DT requirements./NNS ../. You./PRP will./MD work./VB with./IN experienced./JJ test./NN engineers./NNS to./TO develop./VB testcases./NNS to./TO test./VB the./DT functionality./NN ,./, and./CC participate./VB in./IN new./JJ feature./NN automation./NN ,./, leveraging./VBG our./PRP$ new./JJ state./NN of./IN the./DT art./NN TestShell./NNP automation./NN framework./NN ../. 
+
+Required./VBN Skills./NNS 
+-./: Studying./VBG for./IN a./DT relevant./JJ degree./NN in./IN Computer./NNP Science/Engineering./VBG 
+-./: Enthusiastic./NN ,./, hardworking./VBG ,./, self-starter./NN and./CC eager./NN to./TO learn./VB 
+-./: Some./DT programming/scripting./JJ experience./NN would./MD be./VB an./DT asset./NN 
+-./: IP./NN networking./NN knowledge/skills./NNS 
+-./: Excellent./NN written./VBN and./CC verbal./JJ communication./NN skills./NNS ,./, including./VBG the./DT ability./NN to./TO produce./VB clear./JJ and./CC comprehensive./JJ reports./NNS and./CC specifications./NNS 

@@ -1,0 +1,25 @@
+Summary./JJ 
+Vidyard./NNP is./VBZ a./DT fast-growing./JJ B2B./NNP software./NN company./NN that./WDT helps./VBZ businesses./NNS generate./VB more./JJR revenue./NN through./IN the./DT use./NN of./IN online./JJ video./NN and./CC video./NN analytics./NNS ../. When./WRB you./PRP join./VBP our./PRP$ fast-growing./JJ team./NN ,./, you./PRP will./MD enjoy./VB a./DT modern./JJ ,./, creative./JJ and./CC diverse./JJ working./VBG environment./NN filled./VBN with./IN talented./JJ and./CC smart./JJ people./NNS like./IN yourself./PRP ../. Your./PRP$ success./NN in./IN this./DT role./NN will./MD be./VB assisted./VBN by./IN your./PRP$ entrepreneurial./JJ spirit./NN ,./, your./PRP$ ability./NN to./TO learn./VB quickly./RB ,./, your./PRP$ keen./JJ troubleshooting./VBG skills./NNS ,./, and./CC your./PRP$ ability./NN to./TO multitask./VB in./IN a./DT rapidly./RB shifting./VBG environment./NN 
+
+Responsibilities./NNS 
+We./PRP 're./VBP looking./VBG for./IN a./DT Web./NNP Developer./NNP Intern./NNP to./TO help./VB transform./VB our./PRP$ online./NN properties./NNS into./IN awe-inspiring./JJ digital./JJ experiences./NNS ../. As./IN a./DT part./NN of./IN our./PRP$ marketing./NN team./NN ,./, you./PRP 'll./MD help./VB to./TO build./VB and./CC maintain./VB our./PRP$ primary./JJ website./NN as./RB well./RB as./IN other./JJ online./JJ marketing./NN initiatives./NNS ../. You./PRP have./VBP experience./VBN turning./VBG static./JJ Photoshop./NNP files./VBZ into./IN pixel-perfect./JJ ,./, responsive./JJ websites./NNS ../. You./PRP are./VBP self-motivated./JJ ,./, conscientious./JJ and./CC care./NN about./IN helping./VBG your./PRP$ teammates./NNS succeed./VB while./IN increasing./VBG your./PRP$ exposure./NN to./TO ,./, and./CC education./NN in./IN ,./, web./NN development./NN ,./, web./NN analytics./NNS ,./, SEO./NNP ,./, A/B./NNP testing./VBG and./CC modern./JJ marketing./NN ../. 
+
+Required./VBN Skills./NNS 
+You./PRP know./VBP :./: 
+
+HTML4./NNP ,./, HTML5./NNP ,./, CSS3./NNP (./( including./VBG browser./JJR support./NN )./) 
+Web./NNP form./NN creation./NN 
+Media./NNP queries./NNS and./CC responsive./JJ design/development./NN 
+You./PRP have./VBP had./VBN exposure./NN to./TO :./: 
+
+CSS./NNP preprocessing./VBG markup./NN languages./NNS (./( SCSS./NNP ,./, SASS./NNP ,./, LESS./NNP )./) 
+Cross-browser./NNP compatibility./NN issues./NNS 
+Knowledge./NNP of./IN the./DT following./NN is./VBZ an./DT asset./NN :./: 
+
+Javascript./NNP &./CC jQuery./NN 
+Libraries./NNS like./IN Skrollr./NNP ,./, Velocity.js./NNP ,./, Greensock./NNP 
+PHP./NN 
+Front-end./JJ form./NN validation./NN 
+Web./NNP security./NN best-practices./NNS 
+Wordpress./NNP development./NN 
+AODA./NNP /./NNP WCAG./NNP Accessibility./NNP standards./NNS 

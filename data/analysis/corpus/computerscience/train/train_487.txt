@@ -1,0 +1,36 @@
+Summary./JJ 
+
+We./PRP are./VBP currently./RB seeking./VBG a./DT Programmer-Analyst./JJ co-op./NN to./TO join./VB our./PRP$ Investment./NN and./CC Wealth./NNP Management./NNP Services./NNP team./NN ../. In./IN this./DT role./NN ,./, the./DT successful./JJ candidate./NN is./VBZ expected./VBN to./TO assist./VB in./IN in./IN designing./NN ,./, building./NN and./CC modifying./NN applications./NNS and./CC databases./NNS to./TO support./VB and./CC enhance./VB our./PRP$ CI./NNP ,./, Assante./NNP and./CC KBSH./NNP Wealth./NNP Management./NNP departments./NNS ../. 
+
+
+Responsibilities./NNS :./: 
+
+-./: Develop./NN or./CC modify./VB web./NNS based./VBN applications./NNS both./DT Weblogic./NNP and./CC Tomcat./NNP based./VBN 
+-./: Design./NN database./NN schema./NN on./IN Sybase./NNP database./NN engine./NN platforms./NNS 
+-./: Create./NN interactive./JJ web./NN application./NN 
+-./: Develop./NN and./CC modify/enhance./NN online./NN and./CC batch./NN processes./NNS 
+-./: Maintain./NN and./CC create./NN kornshell./NN scripting./VBG 
+-./: Maintain./NN and./CC create./NN java./NNS based./VBN code./RB related./VBN to./TO both./DT online./JJ web./NN tools./NNS and./CC batch./NN processes./NNS 
+-./: Create./NN and./CC modify./VB job./NN scheduler./NN Autosys./NNP jobs./NNS streams./NNS 
+-./: Create./NN and./CC modify./VB vendor./NN proprietary./JJ data./NNS import./NN loads./NNS 
+
+
+Required./VBN Skills./NNS :./: 
+
+-./: You./PRP are./VBP enrolled./VBN with./IN a./DT University./NNP degree./NN related./VBN to./TO Computer./NNP Science./NNP ,./, Software./NNP Engineering./NNP or./CC Computing./NNP and./CC Financial./NNP Management./NNP 
+-./: Previous./JJ CO-OP./JJ work./NN experience./NN in./IN development./NN 
+-./: Working./VBG knowledge./NN of./IN Java./NNP ,./, SQL./NNP and./CC Unix./NNP kornshell./VBP scripting./VBG 
+-./: Database./NN knowledge./NN and./CC design./NN skills./NNS 
+-./: Knowledge./NN of./IN Java./NNP ,./, java./NN scripting./VBG &./CC EJB./NNP an./DT asset./NN for./IN back./JJ end./NN and./CC web./NN applications./NNS 
+-./: Very./RB good./JJ communication./NN and./CC listening./VBG skills./NNS to./TO understand./VB business./NN needs./NNS and./CC translate./VB those./DT needs./NNS into./IN workable./JJ solutions./NNS 
+-./: Strong./NN logic./NN and./CC analytical./JJ skills./NNS to./TO clearly./RB identify./VB key./JJ issues./NNS 
+-./: Solid./JJ conceptual./JJ and./CC problem-solving./JJ skills./NNS to./TO ascertain./VB issues./NNS and./CC provide./VB recommendations./NNS 
+-./: Proficient./NN at./IN setting./VBG priorities./NNS and./CC resolving./VBG issues./NNS in./IN a./DT professional./JJ manner./NN 
+-./: Effective./JJ time-management./JJ and./CC ability./NN to./TO manage./VB tasks./NNS simultaneously./RB and./CC adapt./VB to./TO changing./VBG priorities./NNS 
+-./: Strong./JJ sense./NN of./IN responsibility./NN for./IN the./DT systems./NNS and./CC applications./NNS we./PRP support./VBP 
+
+
+Transportation./NN And./CC Housing./NN :./: Based./VBN in./IN downtown./NN Toronto./NNP ,./, right./NN by./IN Union./NNP Station./NNP ../. Easy./NNP access./NN via./IN subway./NN and./CC Go./NNP train./NN ../. 
+
+
+Compensation./NN And./CC Benefits./NNP Information./NNP :./: Depending./VBG on./IN students./NNS './POS level./NN ,./, between./IN $./$ 23./CD and./CC $./$ 25/hour./CD 

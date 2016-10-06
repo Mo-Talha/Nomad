@@ -1,0 +1,42 @@
+GENERAL./NNP SUMMARY./NNP 
+The./DT Custom./NNP Solutions./NNP team./NN uses./VBZ a./DT fast-paced./JJ ,./, dynamic./JJ and./CC challenging./VBG environment./NN to./TO inspire./VB its./PRP$ members./NNS to./TO provide./VB innovative./JJ solutions./NNS to./TO meet./VB the./DT national./JJ enterprise./NN needs./NNS of./IN Canadian./JJ Blood./NNP Services./NNPS (./( CBS./NNP )./) ../. As./IN a./DT team./NN member./NN of./IN Custom./NNP Solutions./NNP ,./, the./DT successful./JJ candidate./NN will./MD gain./VB work./NN experience./NN in./IN all./DT aspects./NNS of./IN the./DT software./NN development./NN process./NN including./VBG business./NN analysis./NN ,./, requirements./NNS gathering./NN ,./, design./NN ,./, development./NN ,./, testing./VBG ,./, implementation./NN and./CC maintenance./NN ../. We./PRP value./NN the./DT input./NN of./IN all./DT team./NN members./NNS and./CC strive./JJ to./TO continuously./RB improve./VB our./PRP$ environment./NN with./IN new./JJ and./CC exciting./JJ advances./NNS in./IN software./NN development./NN methodologies./NNS ../. This./DT also./RB includes./VBZ new./JJ technologies./NNS to./TO support./VB the./DT rapid./JJ development./NN and./CC deployment./NN of./IN innovative./JJ designs./NNS ../. The./DT successful./JJ candidate./NN will./MD be./VB provided./VBN with./IN the./DT opportunity./NN to./TO combine./VB their./PRP$ ongoing./JJ academic./JJ pursuits./NNS with./IN valuable./JJ ,./, practical./JJ ,./, hands-on./JJ experience./NN ../. A./DT sample./JJ list./NN of./IN what./WP the./DT candidate./NN can./MD expect./VB to./TO learn./VB includes./VBZ :./: Java./NN and./CC Web./NNP frameworks./NNS (./( JSF./NNP ,./, Seam./NNP ,./, CDI./NNP ,./, Grails./NNP )./) ,./, CSS./NNP ,./, JavaScript./NNP ,./, JQuery./NNP ,./, SQL./NNP ,./, Object./NNP Oriented./NNP Design./NNP ,./, REST./NNP web./NN services./NNS ,./, Agile./NNP ,./, etc./FW ../. If./IN you./PRP are./VBP looking./VBG to./TO get./VB the./DT most./RBS out./IN of./IN your./PRP$ work./NN term./NN and./CC make./VB a./DT valuable./JJ contribution./NN to./TO CBS./NNP we./PRP want./VBP to./TO hear./VB from./IN you./PRP !./. 
+
+
+RESPONSIBILITIES/ACTIVITIES./NN 
+Responsibility./NN 1./CD 
+Uses./VBZ the./DT latest./JJS Java./NN and./CC Web./NNP based./VBN programming./VBG technologies./NNS to./TO develop./VB new./JJ web./NNS based./VBN solutions./NNS in./IN collaboration./NN with./IN IT./NNP business./NN systems./NNS analysts./NNS and./CC Custom./NNP Solutions./NNP './POS national./JJ enterprise./NN clients./NNS ../. 
+
+Activities./NNS :./: 
+Assists./NNS in./IN the./DT prototyping./NN and./CC design./NN of./IN new./JJ web./NN applications./NNS for./IN use./NN by./IN both./DT internal./JJ CBS./NNP employees./NNS across./IN the./DT entire./JJ enterprise./NN and./CC some./DT key./JJ external./JJ partners./NNS eg./VBP ../. Hospitals./NNS ../. 
+Works./NNS with./IN other./JJ software./NN development./NN team./NN members./NNS using./VBG agile./JJ software./NN development./NN methodologies./NNS while./IN working./VBG on./IN various./JJ projects./NNS ../. 
+Evaluates./NNS and./CC integrates./NNS with./IN 3rd./CD party./NN software./NN packages./NNS ../. 
+Develops./NNP functional./JJ specifications./NNS based./VBN on./IN user./NN requirements./NNS ../. 
+Participates./NNS in./IN database./NN modelling./NN design./NN ../. 
+Prepares./NNS test./VBP data./NNS and./CC conducts./NNS unit./NN and./CC integrated./JJ system./NN testing./VBG ../. 
+Prepares./NNS technical./JJ reports./NNS ,./, system./NN documentation./NN and./CC user./NN guides./NNS ../. 
+
+Responsibility./NN 2./CD 
+Maintains./NNS existing./VBG software./NN ../. 
+
+Activities./NNS :./: 
+Monitors./NNS national./JJ enterprise./NN systems./NNS and./CC database./JJ performance./NN ../. 
+Recommends./NNS and./CC implements./NNS system./NN enhancements./NNS ../. 
+Analyzes./NNP system./NN problems./NNS and./CC debugs./NNS application./NN and./CC database./NN errors./NNS ../. 
+Tests./NNS all./DT changes./NNS and./CC updates./VBZ documentation./NN accordingly./RB ../. 
+Provides./NNS end./VBP user./JJ support./NN responding./VBG professionally./RB to./TO all./DT enquiries./NNS ../. 
+
+
+QUALIFICATIONS./NN 
+Working./VBG level./NN experience./NN or./CC a./DT strong./JJ understanding./NN of./IN :./: 
+-./: Object./NN oriented./VBN design./NN and./CC modelling./NN ,./, 
+-./: Java./NN programming./NN and./CC web./NN design./NN ,./, 
+-./: Relational./NN databases./NNS (./( SQL./NNP )./) ../. 
+Desire./NN to./TO be./VB challenged./VBN ,./, able./JJ to./TO adapt./VB quickly./RB ,./, and./CC learn./VB new./JJ technologies./NNS ../. 
+Excellent./JJ communication./NN skills./NNS :./: written./VBN &./CC oral./JJ ../. 
+Creative./JJ ,./, positive./JJ ,./, and./CC self-motivated./JJ ../. 
+Capable./JJ of./IN working./VBG independently./RB and./CC within./IN a./DT team./NN ../. 
+Proven./NNP ability./NN to./TO learn./VB in./IN a./DT fast-paced./JJ ,./, dynamic./JJ and./CC challenging./JJ environment./NN ../. 
+
+Compensation./NN :./: $./$ 18./CD per./IN hour./NN 
+Location./NN of./IN Work./NN :./: Ottawa./NNP ,./, Ontario./NNP 
+Duration./NN of./IN job./NN :./: 4./CD months./NNS (./( with./IN the./DT possibility./NN of./IN an./DT extension./NN )./) 

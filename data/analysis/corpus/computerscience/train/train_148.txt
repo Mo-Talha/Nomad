@@ -1,0 +1,23 @@
+Intuit./NNP is./VBZ a./DT leading./VBG software./NN provider./NN of./IN business./NN and./CC financial./JJ management./NN solutions./NNS for./IN small./JJ and./CC mid-sized./JJ businesses./NNS ,./, consumers./NNS and./CC accounting./NN professionals./NNS ../. You./PRP probably./RB know./VBP us./PRP by./IN our./PRP$ flagship./NN products./NNS ,./, QuickBooks./NNP ,./, Quicken./NNP and./CC TurboTax./NNP ,./, but./CC that./DT 's./VBZ just./RB the./DT start./NN ../. We./PRP are./VBP currently./RB going./VBG through./IN a./DT fundamental./JJ transformation./NN from./IN a./DT shrink-wrapped./JJ software./NN company./NN to./TO one./CD of./IN the./DT country./NN 's./POS leading./JJ providers./NNS of./IN web-based./JJ applications./NNS and./CC solutions./NNS ../. 
+
+Intuit./NNP Canada./NNP is./VBZ consistently./RB recognized./VBN as./IN a./DT top./JJ employer./NN because./IN we./PRP seek./VBP the./DT best./JJS ../. In./IN fact./NN ,./, Report./NNP on./IN Business./NNP named./VBD us./PRP #./# 9./CD on./IN the./DT 50./CD Best./JJS Employers./NNS in./IN Canada./NNP list./NN ../. Our./PRP$ casual./JJ work./NN environment./NN ,./, emphasis./NN on./IN work-life./JJ balance./NN and./CC competitive./JJ rewards./NNS help./NN set./VB us./PRP apart./RB from./IN the./DT rest./NN ../. Come./NNP join./VBP us./PRP in./IN our./PRP$ Mississauga./NNP office./NN and./CC be./VB a./DT part./NN of./IN a./DT great./JJ and./CC growing./VBG team./NN ../. 
+
+Come./NNP join./NN Intuit./NNP as./IN part./NN of./IN the./DT Canada./NNP team./NN as./IN a./DT Software./NNP Developer./NNP (./( Co-Op./NNP )./) :./: 
+http./NN :./: //www.youtube.com/watch./NN ?./. v=VvFQtI8to9k./NN 
+
+We./PRP are./VBP looking./VBG for./IN creative./JJ problem./NN solvers./NNS with./IN a./DT passion./NN for./IN innovation./NN to./TO join./VB our./PRP$ team./NN and./CC revolutionize./VB the./DT way./NN the./DT world./NN does./VBZ business./NN ../. 
+
+Software./NNP Engineering./NNP Co-ops./NNP are./VBP paired./VBN with./IN Sr./NNP ../. Engineers./NNS as./IN mentors./NNS to./TO assist./VB as./IN the./DT successful./JJ candidate./NN better./RBR understands./VBZ our./PRP$ project./NN lifecycles./NNS and./CC developmental./JJ processes./NNS ../. 
+
+-./: Participates./NNS in./IN designing./VBG and./CC implementing./VBG features./NNS 
+-./: Ensures./NNS code./VBP is./VBZ high./JJ quality./NN 
+-./: Maintains./NNS software./NN written./VBN by./IN self./NN and./CC others./NNS 
+-./: Participates./NNS in./IN establishing./VBG project./NN plans./NNS and./CC estimating./VBG work./NN 
+-./: Contributes./NNS in./IN the./DT feature/product./NN functional./JJ design./NN process./NN 
+-./: Builds./NNS and./CC maintains./NNS engineering./NN test./NN plans./NNS and./CC software./NN 
+-./: Familiar./NN with./IN object./JJ oriented./VBN design./NN and./CC object./NN oriented./VBN programming./NN languages./NNS (./( C./NNP #./# ,./, C++./NNP ,./, Java./NNP )./) ../. 
+-./: Bilingual./NN (./( French./NNP &./CC English./NNP )./) a./DT plus./NN ../. 
+
+Learn./NNP more./RBR about./IN our./PRP$ award./NN winning./VBG workplace./NN and./CC how./WRB we./PRP give./VBP back./RB to./TO our./PRP$ local./JJ and./CC global./JJ communities./NNS ../. Discover./VB what./WP it./PRP 's./VBZ like./IN to./TO be./VB part./NN of./IN a./DT team./NN that./WDT rewards./VBZ taking./VBG risks./NNS and./CC trying./VBG new./JJ things./NNS ../. Join./VB us./PRP and./CC let./VB your./PRP$ ingenious./JJ ideas./NNS be./VB heard./VBN ../. How./WRB far./RB can./MD you./PRP think./VB ?./. www.intuitcareers.com./NN 
+
+Be./NNP innovative./JJ ..../: Be./VB yourself./PRP ..../: Be./NNP Intuit./NNP ..../: 

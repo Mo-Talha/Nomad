@@ -1,0 +1,25 @@
+_______________________________________________________________________./NN 
+
+Reminder./NN :./: Students./NNS are./VBP responsible./JJ for./IN ensuring./VBG they./PRP are./VBP eligible./JJ for./IN an./DT 8-month./JJ work./NN term./NN before./IN applying./VBG ../. Please./NNP discuss./VB your./PRP$ work/study./NN sequence./NN flexibility./NN with./IN your./PRP$ academic./JJ advisor./NN as./RB soon./RB as./IN possible./JJ ../. 
+___________________________________________________./NN 
+
+Description./NN :./: 
+As./IN part./NN of./IN Apple./NNP 's./POS Silicon./NNP Engineering./NNP Group./NNP ,./, you./PRP will./MD help./VB build./VB the./DT future./JJ generations./NNS of./IN the./DT coolest./JJS devices./NNS in./IN the./DT world./NN ../. We./PRP are./VBP looking./VBG for./IN high./JJ quality./NN students./NNS to./TO join./VB our./PRP$ team./NN and./CC work./NN on./IN various./JJ aspects./NNS of./IN the./DT physical./JJ design./NN of./IN our./PRP$ ultra./JJ low./JJ power./NN mobile./NN processors./NNS using./VBG the./DT latest./JJS process./NN technologies./NNS ../. Tasks./NNP include./VBP physical./JJ integration/verification./NN at./IN block./NN level./NN as./RB well./RB as./IN fullchip./JJ level./NN and./CC working./VBG with./IN CAD./NNP on./IN flow./NN development./NN ../. 
+
+Key./JJ Qualifications./NNS :./: 
+Desired./VBN Qualifications./NNS :./: 
+Pursuing./VBG BS./NNP or./CC higher./JJR degree./NN in./IN Computer./NNP or./CC Electrical./NNP Engineering./NNP 
+A./DT solid./JJ engineering./NN background./NN 
+Course./NNP work./NN in./IN Digital./NNP VLSI./NNP ,./, Logic./NNP Design./NNP ,./, Semiconductor./NNP Devices./NNPS ,./, Computer./NNP Architecture./NNP ,./, Object./NNP Oriented./NNP Programming./NNP ,./, Data./NNP Structure./NNP 
+Project./NN and./CC lab./JJ work./NN in./IN VLSI./NNP design./NN ,./, computer./NN programming./NN 
+Experience./NN with./IN layout./NN design./NN ,./, automatic./JJ place./NN and./CC route./NN tools./NNS using./VBG standard./JJ cell./NN libraries./NNS and./CC physical./JJ verification./NN using./VBG industry./NN standard./NN tools./NNS 
+Experience./NN in./IN writing./VBG code./NN in./IN at./IN least./JJS one./CD of./IN the./DT following./VBG programming./NN languages./NNS :./: Perl./NNP ,./, Tcl./NNP ,./, Python./NNP ,./, C./NNP ,./, C++./NNP 
+A./DT desire./NN to./TO tackle./VB challenging./VBG problems./NNS ,./, learn./VBP new./JJ ideas./NNS and./CC work./VB hard./RB with./IN minimal./JJ supervision./NN 
+Excellent./JJ written./VBN and./CC verbal./JJ communication./NN skill./NN 
+Extracurricular./JJ activities./NNS and./CC leadership./NN experience./NN will./MD also./RB be./VB considered./VBN 
+
+8./CD month./NN co-op./NN is./VBZ preferred./VBN ../. 
+
+Apple./NNP is./VBZ an./DT Equal./JJ Employment./NNP Opportunity./NNP Employer./NNP that./WDT is./VBZ committed./VBN to./TO inclusion./NN and./CC diversity./NN ../. We./PRP also./RB take./VBP affirmative./JJ action./NN to./TO offer./VB employment./NN and./CC advancement./NN opportunities./NNS to./TO all./DT applicants./NNS ,./, including./VBG minorities./NNS ,./, women./NNS ,./, protected./VBD veterans./NNS ,./, and./CC individuals./NNS with./IN disabilities./NNS ../. 
+
+This./DT job./NN is./VBZ located./VBN in./IN Cupertino./NNP ,./, CA./NNP and./CC offers./VBZ competitive./JJ benefits./NNS including./VBG corporate./JJ housing./NN OR./NNP $./$ 1000./CD monthly./JJ rent./NN stipend./NN ,./, paid./VBD travel./NN expenses./NNS to./TO and./CC from./IN Waterloo./NNP and./CC substantial./JJ discounts./NNS on./IN Apple./NNP products./NNS 

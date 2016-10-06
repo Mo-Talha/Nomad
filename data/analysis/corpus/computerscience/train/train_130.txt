@@ -1,0 +1,24 @@
+EventMobi./NNP is./VBZ changing./VBG the./DT way./NN attendees./VBZ experience./NN events./NNS using./VBG their./PRP$ smartphones./NNS and./CC tablets./NNS at./IN conferences./NNS and./CC tradeshows./NNS ../. Clients./NNS like./IN Disney./NNP ,./, Motorola./NNP and./CC some./DT of./IN the./DT biggest./JJS conferences./NNS and./CC associations./NNS have./VBP used./VBN EventMobi./NNP to./TO enhance./VB the./DT attendee./JJ experience./NN at./IN their./PRP$ events./NNS ../. Our./PRP$ event./NN apps./NN have./VBP been./VBN used./VBN by./IN thousands./NNS of./IN corporate./JJ &./CC association./NN event./NN planners./NNS and./CC millions./NNS of./IN attendees./NNS across./IN the./DT globe./NN ../. 
+
+We./PRP are./VBP on./IN a./DT crazy./JJ growth./NN spurt./NN and./CC looking./VBG for./IN passionate./NN ,./, fun./NN ,./, and./CC outgoing./VBG individuals./NNS who./WP love./VBP to./TO educate./VB others./NNS about./IN technology./NN ,./, build./VB relationships./NNS ,./, and./CC grow./VB EventMobi./NNP 's./POS international./JJ client./NN base./NN ../. Join./VB us./PRP and./CC help./VB change./VB the./DT way./NN the./DT world./NN meets./NNS and./CC learns./NNS at./IN live./JJ events./NNS with./IN EventMobi./NNP ../. 
+
+Want./NNP to./TO quickly./RB figure./VB out./RP what./WP EventMobi./NNP is./VBZ all./DT about./IN ?./. Then./RB watch./VB this./DT fun./NN 3min./CD video./NN here./RB :./: 
+http./NN :./: //www.eventmobi.com/careers/./JJ #./# video./NN 
+
+
+Responsibilities./NNS 
+As./IN a./DT Python./NNP prodigy./NN ,./, your./PRP$ role./NN will./MD be./VB to./TO assist./VB team./NN members./NNS with./IN the./DT creation./NN of./IN python./NN tools./NNS to./TO automate./VB business./NN processes./NNS ,./, and./CC update./JJ and./CC maintain./VB existing./VBG Python./NNP solutions./NNS ../. Our./PRP$ tasks./NNS primarily./RB involve./VBP web./JJ scraping./NN and./CC excel./JJ driving./NN ../. Your./PRP$ team./NN consists./VBZ of./IN tech-savvy./NN ,./, eager./JJ to./TO learn./VB young./JJ professionals./NNS and./CC everyone./NN from./IN our./PRP$ CEO./NN to./TO our./PRP$ developers./NNS is./VBZ involved./VBN in./IN the./DT support./NN process./NN at./IN EventMobi./NNP ../. Innovative./NNP and./CC disruptive./JJ thinking./NN will./MD be./VB required./VBN as./IN you./PRP 'll./MD be./VB working./VBG with./IN the./DT team./NN to./TO handle./VB anything./NN that./WDT comes./VBZ across./IN your./PRP$ way./NN ../. This./DT is./VBZ a./DT chance./NN to./TO learn./VB and./CC be./VB involved./VBN at./IN every./DT point./NN of./IN Canada./NNP 's./POS fastest./JJS growing./VBG startup./NN while./IN building./VBG professional./JJ relationships./NNS EventMobi./NNP 's./POS accomplished./JJ team./NN members./NNS ../. 
+
+
+Required./VBN Skills/Technical./JJ Skills./NNS :./: 
+-Currently./RB pursuing./VBG a./DT degree./NN in./IN Computer./NNP Science./NNP or./CC similar./JJ 
+-Experience./NN with./IN Python./NNP 
+-Experience./NN with./IN Selenium./NN 
+-Experience./NN with./IN GUI./NNP Libraries./NNP for./IN python./NN ,./, and./CC excel./RB driving./VBG libraries./NNS is./VBZ an./DT asset./NN (./( pyglet./NN ,./, pygui./NN ,./, openpyxl./NN ,./, etc./FW ../. )./) 
+-Ability./NN to./TO debug./VB and./CC test./VB code./NN to./TO ensure./VB quality./NN delivery./NN 
+-Proficiency./NN with./IN Git./NNP and./CC Github./NNP ,./, or./CC the./DT ability./NN to./TO learn./VB them./PRP quickly./RB 
+-Passion./NN for./IN connected./JJ devices./NNS ,./, and./CC willingness./NN to./TO learn./VB 
+
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+$./$ 20/hr./CD 

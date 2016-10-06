@@ -1,0 +1,35 @@
+PointClickCare./NNP is./VBZ the./DT leading./VBG cloud-based./JJ software./NN provider./NN for./IN the./DT senior./JJ care./NN market./NN in./IN North./NNP America./NNP ../. Driven./VBN by./IN a./DT passion./NN for./IN innovation./NN and./CC technology./NN ,./, were./VBD building./VBG solutions./NNS that./WDT have./VBP a./DT true./JJ impact./NN on./IN peoples./NNS lives./NNS ../. Recently./RB named./VBD one./CD of./IN Deloittes./NNPS fastest./JJS growing./VBG technology./NN companies./NNS and./CC Canadas./NNP best./JJS managed./VBN companies./NNS ,./, PointClickCare./NNP provides./VBZ vast./JJ opportunities./NNS and./CC a./DT great./JJ culture./NN for./IN our./PRP$ employees./NNS ../. PointClickCare./NNP is./VBZ a./DT fertile./JJ environment./NN to./TO advance./VB your./PRP$ career./NN while./IN performing./VBG meaningful./JJ work./NN with./IN great./JJ people./NNS ../. 
+
+Position./NN Summary./NN :./: 
+The./DT primary./JJ role./NN will./MD be./VB to./TO advise./VB ,./, write./VB ,./, and./CC execute./JJ test./NN cases./NNS ,./, and./CC test./NN scripts./NNS for./IN product./NN releases./NNS ../. The./DT successful./JJ candidate./NN will./MD work./VB under./IN the./DT supervision./NN of./IN Quality./NNP Analyst./NNP Lead./NNP on./IN a./DT project./NN team./NN that./WDT focuses./VBZ on./IN testing./VBG our./PRP$ flagship./NN product./NN ,./, PointClickCare./NNP ../. You./PRP will./MD work./VB in./IN a./DT fast./JJ moving./NN Agile./NNP Software./NNP Development./NNP environment./NN ../. 
+
+Key./JJ Responsibilities./NNS :./: 
+-./: Working./VBG directly./RB with./IN product./NN managers./NNS ,./, developers./NNS to./TO create./VB and./CC maintain./VB test./NN specifications./NNS ,./, test./NN plans./NNS and./CC test./NN cases./NNS to./TO rigorously./VB test./JJ product./NN functionality./NN 
+-./: Executing./NN functional./JJ ,./, system./NN and./CC regression./NN test./NN cases./NNS 
+-./: Investigating./VBG potential./JJ test./NN failures./NNS 
+-./: Bug./NN fix./JJ verification./NN a./DT 
+nd./DT validation./NN 
+-./: Perform./NN other./JJ required./VBN QA./NNP tasks./NNS as./IN assigned./JJ 
+
+Required./VBN Experience./NN :./: 
+-./: Enrolled./VBN in./IN a./DT computer./NN related./VBN degree./JJ program./NN 
+-./: Previous./JJ functional/regression./NN testing./VBG experience./NN on./IN enterprise./NN scale./NN ,./, mission./NN critical./JJ system./NN 
+-./: Excellent./NN understanding./NN of./IN relational./JJ database./NN and./CC enterprise./NN software./NN integration./NN concept./NN and./CC strong./JJ ,./, hands./NNS on./IN SQL./NNP skills./NNS and./CC experience./NN 
+-./: Experience./NN with./IN test./NN case./NN maintenance./NN 
+-./: Ability./NN to./TO demonstrate./VB strong./JJ understanding./NN of./IN Quality./NNP Assurance./NNP processes./NNS and./CC methodologies./NNS 
+-./: Understanding./NN of./IN multi-tier./JJ web./NNS based./VBN applications./NNS 
+-./: Ability./NN to./TO analyze./VB problems./NNS ,./, troubleshoot./NN and./CC clearly./RB communicate./JJ solutions./NNS to./TO problems./NNS correctly./RB 
+-./: Ability./NN to./TO work./VB effectively./RB with./IN rapid./JJ changing./VBG priorities./NNS 
+-./: Ability./NN to./TO organize./VB and./CC prioritize./VB work./NN 
+-./: Ability./NN to./TO work./VB independently./RB or./CC in./IN a./DT team./NN setting./NN 
+-./: Excellent./NN communication./NN and./CC documentation./NN skills./NNS 
+Additionally./RB Desired./NNP Skills./NNP and./CC Experience./NN :./: 
+
+-./: Automation./NN and./CC performance./NN testing./NN experience./NN 
+-./: Working./VBG knowledge./NN of./IN java./NN and./CC any./DT development./NN experience./NN 
+-./: Familiarity./NN with./IN JSP./NNP and./CC JavaScript./NNP with./IN ability./NN to./TO debug./VB pages./NNS 
+-./: Experience./NN with./IN Jira./NNP 
+-./: Exposure./NN to./TO long./JJ term./NN care./NN ,./, pharmacy./NN or./CC general./JJ business/commerce./NN systems./NNS is./VBZ a./DT significant./JJ asset./NN 
+
+Working./VBG at./IN PointClickCare./NNP goes./VBZ beyond./IN the./DT resume./NN ,./, because./IN the./DT work./NN we./PRP perform./VBP makes./VBZ a./DT true./JJ difference./NN in./IN peoples./NNS lives./NNS ../. We./PRP build./VBP innovative./JJ healthcare./NN technology./NN for./IN seniors./NNS and./CC their./PRP$ caregivers./NNS that./IN improve./VBP their./PRP$ quality./NN of./IN life./NN and./CC well-being./NN on./IN a./DT daily./JJ basis./NN ../. We./PRP believe./VBP work./NN is./VBZ so./RB much./RB more./RBR meaningful./JJ when./WRB youre./NN doing./VBG it./PRP with./IN a./DT higher./JJR purpose./NN ../. 
+For./IN more./JJR information./NN on./IN PointClickCare./NNP ,./, please./VB visit./FW us./PRP on./IN Glassdoor./NNP and./CC LinkedIn./NNP 

@@ -1,0 +1,65 @@
+Maple./NNP Leaf./NNP Foods./NNP is./VBZ Canada./NNP 's./POS leading./JJ consumer./NN packaged./VBD meats./NNS company./NN ,./, headquartered./VBN in./IN Toronto./NNP ,./, Ontario./NNP ../. We./PRP make./VBP high-quality./NN ,./, great./JJ tasting./NN ,./, nutritious./JJ and./CC innovative./JJ food./NN products./NNS under./IN leading./VBG brands./NNS including./VBG Maple./NNP Leaf./NNP ,./, Maple./NNP Leaf./NNP Prime./NNP ,./, Maple./NNP Leaf./NNP Natural./NNP Selections./NNP ,./, Schneiders./NNP ,./, Schneiders./NNP Country./NNP Naturals./NNP and./CC Mina./NNP ../. Our./PRP$ Company./NN employs./VBZ approximately./RB 11,500./CD people./NNS in./IN its./PRP$ operations./NNS across./IN Canada./NNP and./CC exports./NNS to./TO more./JJR than./IN 20./CD global./JJ markets./NNS including./VBG the./DT U.S../NNP and./CC Asia./NNP ../. 
+
+We./PRP have./VBP a./DT culture./NN where./WRB people./NNS are./VBP high./JJ energy./NN ,./, take./VB a./DT stand./NN ,./, pursue./VB excellence./NN and./CC create./VB the./DT future./NN ../. We./PRP balance./VBP fact-based./JJ discipline./NN with./IN the./DT need./NN for./IN speed./NN ../. We./PRP are./VBP incredibly./RB supportive./JJ in./IN working./VBG and./CC sharing./VBG information./NN with./IN each./DT other./JJ ../. We./PRP are./VBP driven./VBN by./IN integrity./NN ../. 
+
+Information./NN Solutions./NNS 
+
+Do./VBP you./PRP have./VB a./DT passion./NN for./IN technology./NN and./CC a./DT desire./NN to./TO build./VB ,./, deploy./NN and./CC maintain./VB world-class./NN IT./NNP systems./NNS ?./. Being./VBG a./DT part./NN of./IN the./DT Maple./NNP Leaf./NNP Information./NNP Solutions./NNP team./NN means./VBZ joining./VBG a./DT mission./NN to./TO deliver./VB ,./, support./NN and./CC improve./VB the./DT information./NN systems./NNS and./CC infrastructure./NN that./WDT enable./JJ our./PRP$ people./NNS to./TO manage./VB the./DT business./NN ../. 
+
+As./IN part./NN of./IN our./PRP$ diverse./JJ team./NN of./IN talented./JJ professionals./NNS ,./, you./PRP will./MD be./VB fueled./VBN by./IN a./DT passion./NN for./IN technology./NN and./CC a./DT desire./NN to./TO build./VB ,./, deploy./NN and./CC maintain./VB world-class./JJ systems./NNS ../. Embracing./VBG emerging./VBG technology./NN and./CC process./NN leadership./NN are./VBP important./JJ ,./, as./IN our./PRP$ people./NNS work./VBP collaboratively./RB with./IN cross-functional./JJ business./NN teams./NNS and./CC vendors./NNS to./TO optimize./VB value./NN for./IN the./DT organization./NN ../. 
+
+Number./NNP of./IN Co-op./NNP students./NNS 
+Typically./RB ,./, 8./CD co-op./JJ students./NNS are./VBP hired./VBN as./IN part./NN of./IN the./DT Information./NNP Solutions./NNP department./NN ../. 
+
+Pay./NN 
+Competitive./JJ salary./NN 
+
+Benefits./NNS 
+
+Being./VBG a./DT co-op./JJ student./NN means./VBZ making./VBG many./JJ tough./JJ decisions./NNS but./CC we./PRP want./VBP this./DT to./TO be./VB one./CD of./IN your./PRP$ easy./JJ decisions./NNS by./IN providing./VBG you./PRP with./IN :./: 
+
+-./: Mentorship./NN and./CC support./NN from./IN leadership./NN trainees./NNS and./CC senior./JJ leaders./NNS 
+-./: Training./NN and./CC development./NN through./IN Maple./NNP Leaf./NNP 's./POS Leadership./NNP Learning./NNP Hub./NNP and./CC through./IN our./PRP$ learning./VBG workshops./NNS on./IN Sharepoint./NNP ,./, SAP./NNP and./CC Microsoft./NNP 
+-./: Support./NN to./TO participate./VB in./IN community./NN outreach./VBP events./NNS and./CC initiatives./NNS 
+-./: Opportunity./NN to./TO participate./VB in./IN Taste./NNP Testings./NNP allowing./VBG you./PRP to./TO provide./VB feedback./NN on./IN our./PRP$ products./NNS 
+-./: Potential./NN opportunity./NN to./TO be./VB part./NN of./IN the./DT Leadership./NNP Training./NNP program./NN after./IN graduation./NN 
+
+Reports./NNS To./TO 
+IS./NNP Team./NNP Lead./NNP ,./, Operations./NNP 
+
+Position./NN Summary./NNP 
+
+Working./VBG in./IN the./DT IS./NNP Operations./NNP team./NN ,./, you./PRP will./MD provide./VB first./JJ class./NN monitoring./NN and./CC escalation./NN support./NN of./IN our./PRP$ SAP./NNP ,./, BPCS./NNP ,./, legacy./NN systems./NNS ,./, both./DT Infrastructure./NNP and./CC Application./NNP ../. 
+
+Position./NN Responsibilities./NNS 
+
+-./: Manage./NN batch./NN job./NN scheduling./VBG via./IN use./NN of./IN Cisco./NNP Tidal./NNP ,./, Performance./NNP monitoring./NN for./IN SAP./NNP ,./, BPCS./NNP ,./, Legacy./NNP systems./NNS and./CC all./DT Infrastructure./NNP ../. 
+-./: Provide./NN 1st./CD &./CC 2nd./CD level./NN systems./NNS support./NN ../. 
+-./: Provide./NN Service./NNP Management./NNP for./IN all./DT Maple./NNP Leaf./NNP business./NN using./VBG approved./VBD procedures./NNS &./CC tools./NNS ../. 
+-./: Maintain./NN excellent./JJ customer./NN service./NN levels./NNS ../. 
+-./: Monitor./NN system./NN back-ups./NN 
+-./: Provide./NN data./NNS recovery./NN &./CC restore./NN services./NNS ../. 
+-./: Perform./NN daily./JJ sending/receiving./NN of./IN backup./NN tapes./NNS ,./, data./NNS integrity./NN validation./NN ,./, and./CC offsite./RB data./NNS storage./NN inventory./NN ../. 
+-./: Adhere./NN to./TO C3./NNP policies./NNS for./IN Backups./NNP and./CC access./NN to./TO Data./NNP Centre./NNP facilities./NNS using./VBG established./VBN controls./NNS and./CC guidelines./NNS ../. 
+-./: Perform./NN 2nd./CD level./NN support./NN for./IN printers./NNS 
+-./: Create./NN and./CC maintain./VBP operational./JJ SOPs./NNP and./CC documentation./NN ../. 
+-./: Execute./NN SAP./NNP Transports./NNP 
+-./: Additional./NN tasks./NNS as./IN assigned./JJ 
+
+Required./VBN Education./NN 
+
+-./: Currently./RB enrolled./VBN in./IN IT./NNP or./CC equivalent./JJ diploma./NN ,./, degree./NN or./CC certificate./NN program./NN 
+
+Required./NNP Skills./NNP ,./, Experience/Knowledge./NNP 
+
+-./: Excellent./NN customer./NN service./NN skills./NNS ../. 
+-./: Basic./JJ knowledge./NN and./CC aptitude./NN to./TO learn./VB :./: hardware./NN &./CC software./NN for./IN servers./NNS (./( Windows./NNP ,./, UNIX./NNP and./CC AS/400./NNP )./) including./VBG ,./, printers./NNS ,./, networking./NN ,./, business./NN applications./NNS such./JJ as./IN SAP./NNP and./CC BPCS./NNP 
+-./: Ability./NN to./TO set./VB &./CC manage./VB multiple./JJ priorities./NNS &./CC to./TO meet./VB deadlines./NNS ../. 
+-./: Well-developed./JJ organizing./NN ,./, communicating./VBG &./CC documentation./NN skills./NNS ../. 
+-./: Above./NN average./NN problem./NN solving./VBG skills./NNS ../. 
+-./: Able./NN to./TO work./VB in./IN a./DT team./NN environment./NN ../. 
+-./: Strong./NN willingness./NN &./CC aptitude./NN to./TO learn./VB new./JJ skills./NNS 
+
+Want./VB to./TO see./VB what./WP our./PRP$ past./JJ co-op./JJ students./NNS have./VBP to./TO say./VB ?./. Click./NNP here./RB :./: https./NN :./: //www.youtube.com/watch./NN ?./. v=172PDI8T6pU./NN 
+
+For./IN more./JJR information./NN about./IN Maple./NNP Leaf./NNP Foods./NNP ,./, please./VB visit./VB the./DT Maple./NNP Leaf./NNP website./NN :./: http./NN :./: //www.mapleleaffoods.com/./NN 

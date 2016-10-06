@@ -1,0 +1,30 @@
+Blue./NNP Coat./NNP (./( recently./RB acquired./VBN by./IN Symantec./NNP )./) 
+
+We./PRP are./VBP looking./VBG for./IN a./DT talented./JJ QA./NNP Engineer./NNP to./TO work./VB on./IN a./DT team./NN focused./VBN on./IN system./NN ,./, performance./NN and./CC network./NN testing./VBG Symantec./NNP 's./POS ProxySG./NNP appliance./NN ../. As./IN a./DT member./NN of./IN this./DT QA./NNP team./NN ,./, you./PRP will./MD be./VB responsible./JJ for./IN participating./VBG in./IN design./NN meetings./NNS ,./, test./NN planning./NN ,./, execution./NN and./CC reporting./NN activities./NNS ../. You./PRP will./MD be./VB working./VBG with./IN your./PRP$ peers./NNS in./IN the./DT QA./NNP teams./NNS as./RB well./RB as./IN the./DT development./NN teams./NNS ,./, ensuring./VBG that./IN we./PRP have./VBP the./DT proper./JJ system./NN ,./, performance./NN and./CC network./NN test./NN coverage./NN for./IN the./DT product./NN ../. This./DT is./VBZ a./DT great./JJ opportunity./NN if./IN you./PRP are./VBP interested./JJ in./IN solving./VBG complex./JJ problems./NNS ,./, designing./VBG and./CC implementing./VBG efficient./JJ test./NN coverage./NN ,./, and./CC learning./VBG about./IN all./DT aspects./NNS of./IN our./PRP$ security./NN proxy./NN appliance./NN ../. 
+
+We./PRP are./VBP looking./VBG for./IN talented./VBN QA./NNP engineers./NNS to./TO help./VB our./PRP$ team./NN :./: 
+Maintain./NN and./CC expand./VB our./PRP$ system./NN ,./, performance./NN and./CC network./NN test./NN beds./NNS and./CC to./TO extend./VB their./PRP$ capabilities./NNS 
+Maintain./NNP ,./, create./NN and./CC execute./NN automated./JJ tests./NNS as./IN required./VBN 
+Define./NNP and./CC establish./VB new./JJ test./NN beds./NNS 
+Perform./NNP manual./JJ testing./VBG where./WRB applicable./JJ 
+Gather./NNP and./CC analyze./JJ test./NN results./NNS ,./, create./VBP comprehensive./JJ test./NN reports./NNS 
+Keep./VB at./IN the./DT forefront./NN of./IN test./NN technologies./NNS and./CC methodologies./NNS 
+
+You./PRP will./MD work./VB with./IN the./DT QA./NNP manager./NN to./TO establish./VB your./PRP$ goals./NNS for./IN your./PRP$ areas./NNS of./IN responsibility./NN and./CC use./VB your./PRP$ knowledge./NN and./CC skills./NNS to./TO design./VB ,./, execute./NN and./CC report./NN tests./NNS and./CC ,./, work./NN with./IN the./DT development./NN teams./NNS to./TO resolve./VB any./DT issues./NNS found./VBN ../. 
+
+Full./JJ Requirements./NNS :./: 
+Knowledge./NNP and./CC previous./JJ experience./NN in./IN system./NN ,./, performance./NN or./CC network./NN testing./NN ../. 
+Strong./JJ problem./NN solving./NN ,./, communication./NN ,./, organizational./JJ and./CC prioritization./NN skills./NNS 
+Demonstrated./VBN ability./NN to./TO complete./VB tasks./NNS independently./RB with./IN minimum./JJ supervision./NN 
+Desire./NN to./TO be./VB challenged./VBN and./CC work./NN with./IN a./DT great./JJ team./NN 
+
+The./DT following./NN would./MD be./VB a./DT real./JJ plus./NN for./IN the./DT positions./NNS :./: 
+Knowledge./NNP of./IN TCP/IP./NNP ,./, HTTP./NNP and./CC other./JJ network./NN and./CC internet./NN protocols./NNS 
+Experience./NN in./IN test./NN automation./NN using./VBG a./DT scripting./JJ language./NN ;./: Perl./NNP and/or./VBZ Python./NNP preferred./VBD 
+Experience./NN working./VBG with./IN JavaScript./NNP and./CC web./JJ app./NN frameworks./NNS 
+Security./NN testing./VBG experience./NN 
+Experience./NN working./VBG in./IN an./DT Agile./NNP environment./NN 
+
+About./IN Blue./NNP Coat./NNP (./( recently./RB acquired./VBN by./IN Symantec./NNP )./) 
+
+Symantec./NNP is./VBZ a./DT global./JJ leader./NN in./IN providing./VBG security./NN ,./, information./NN management./NN solutions./NNS to./TO help./VB our./PRP$ customers./NNS --./: from./IN consumers./NNS and./CC small./JJ businesses./NNS to./TO the./DT largest./JJS global./JJ organizations./NNS --./: secure./NN and./CC manage./VB their./PRP$ information./NN against./IN more./JJR risks./NNS at./IN more./JJR points./NNS ,./, more./RBR completely./RB and./CC efficiently./RB than./IN any./DT other./JJ company./NN ../. Our./PRP$ company./NN 's./POS unique./JJ focus./NN is./VBZ to./TO eliminate./VB risks./NNS to./TO information./NN ,./, technology./NN and./CC processes./VBZ independent./JJ of./IN the./DT device./NN ,./, platform./NN ,./, interaction./NN or./CC location./NN ../. 

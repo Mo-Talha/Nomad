@@ -1,0 +1,34 @@
+About./IN the./DT role./NN :./: 
+
+As./IN a./DT QA./NNP Developer./NNP you./PRP will./MD :./: 
+Implement./NN and./CC manage./NN robust./JJ testing./NN ,./, release./NN and./CC user./JJ support./NN processes./NNS 
+Design./NNP ,./, devise./NN and./CC implement./NN suitable./JJ testing./VBG areas./NNS and./CC coverage./NN 
+Create./NNP ,./, design./NN and./CC execute./NN impactful./JJ test./NN plans./NNS ,./, including./VBG both./DT automated./VBN and./CC manual./JJ tests./NNS 
+Take./VB ownership./NN of./IN testing./VBG tools./NNS and./CC environments./NNS required./VBN to./TO execute./VB test./NN plans./NNS effectively./RB and./CC efficiently./RB 
+
+About./IN us./PRP :./: 
+TextNow./NNP is./VBZ the./DT world./NN 's./POS first./JJ cloud-based./JJ phone./NN carrier./NN ../. Our./PRP$ mission./NN is./VBZ to./TO rattle./VB the./DT mobile./JJ landscape./NN ../. We./PRP believe./VBP that./IN communicating./VBG with./IN family./NN and./CC friends./NNS should./MD be./VB faster./JJR ,./, easier./JJR and./CC ,./, frankly./RB ,./, cheaper./JJR ../. With./IN a./DT multi-faceted./JJ approach./NN to./TO our./PRP$ products./NNS and./CC engineering./NN ,./, we./PRP continue./VBP to./TO grow./VB our./PRP$ millions./NNS of./IN users./NNS daily./RB ../. We./PRP are./VBP passionate./JJ about./IN our./PRP$ work./NN and./CC we./PRP strive./VBP to./TO create./VB the./DT absolute./JJ best./JJS experience./NN ../. 
+
+If./IN you./PRP want./VBP the./DT back./JJ story./NN ../. ../. ../. In./IN 2009./CD ,./, two./CD Waterloo./NNP graduates./NNS founded./VBD TextNow./NNP with./IN the./DT aim./NN of./IN providing./VBG a./DT better./RBR alternative./JJ to./TO traditional./JJ wireless./NN plans./NNS and./CC services./NNS ../. Today./NN ,./, our./PRP$ products./NNS have./VBP reached./VBN the./DT hands./NNS of./IN more./JJR than./IN 50./CD million./CD users./NNS ../. Our./PRP$ free./JJ app./NN provides./VBZ users./NNS with./IN their./PRP$ own./JJ genuine./JJ ten-digit./JJ number./NN ,./, which./WDT they./PRP can./MD use./VB to./TO make./VB free./JJ calls./NNS and./CC texts./VB both./DT domestically./RB and./CC internationally./RB ../. TextNow./NNP Wireless./NNP provides./VBZ a./DT subscription./NN model./NN that./WDT is./VBZ contract-free./JJ ,./, features./NNS unlimited./VBD talk./NN and./CC text./NN ,./, and./CC lets./VBZ customers./NNS use./VBP their./PRP$ number./NN across./IN platforms./NNS ../. 
+
+Check./VB us./PRP out./RP on./IN Instagram./NNP @./NNP TextNowApp./NNP for./IN a./DT sneak./JJ peek./NN at./IN what./WP life./NN at./IN TextNow./NNP looks./VBZ like./IN ../. 
+
+Our./PRP$ perks./NNS :./: 
+Impactful./JJ work./NN 
+TextNow-powered./JJ smartphone./NN and./CC macbook./NN (./( 13./CD ''./'' or./CC 15./CD ''./'' )./) 
+Competitive./JJ total./JJ compensation./NN package./NN 
+Catered./VBN breakfast./NN and./CC lunch./NN 
+Professional./NNP development./NN 
+Fitness./NNP center./NN on./IN site./NN ,./, games./NNS room./NN 
+Multiple./JJ social./JJ events./NNS (./( milestones./NNS celebrations./NNS ,./, volleyball./NN ,./, soccer./NN ,./, escape./NN rooms./NNS ,./, rock./NN climbing./NN )./) 
+
+About./IN you./PRP :./: 
+You./PRP are./VBP enrolled./VBN in./IN Computer./NNP Science./NNP ,./, Computer./NNP Engineering./NNP ,./, Software./NNP Engineering./NNP ,./, or./CC equivalent./JJ program./NN 
+Experience./NN in./IN testing./VBG all./DT types./NNS of./IN applications./NNS such./JJ as./IN mobile./NN ,./, web./NN and./CC client/server./NN applications./NNS 
+Proficiency./NN in./IN automated./JJ testing./VBG using./VBG multiple./JJ techniques./NNS ,./, including./VBG :./: unit./NN testing./NN ,./, functional./JJ in-browser./NN testing./NN ,./, and./CC performance./NN testing./NN 
+Knowledge./NNP of./IN HTTP./NNP ,./, REST./NNP APIs./NNP ,./, AJAX./NNP ,./, JavaScript./NNP 
+Experience./NN with./IN Selenium./NNP or./CC other./JJ automated./JJ testing./NN tools./NNS 
+Experience./NN with./IN QA./NNP methodologies./NNS ,./, understanding./NN of./IN software./NN development./NN process./NN 
+Demonstrable./JJ programming./NN knowledge./NN 
+Excellent./JJ troubleshooting./VBG instincts./NNS and./CC skills./NNS 
+Good./JJ verbal./NN and./CC written./VBN communication./NN skills./NNS 

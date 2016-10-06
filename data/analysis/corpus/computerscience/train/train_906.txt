@@ -1,0 +1,34 @@
+Interested./JJ to./TO learn./VB what./WP it./PRP is./VBZ like./IN to./TO work./VB at./IN Sun./NNP Life./NNP Financial./NNP during./IN a./DT co-op./JJ placement./NN ?./. Reach./VB out./IN to./TO the./DT Sun./NNP Life./NNP Campus./NNP Ambassador./NNP :./: Jenny./NNP Ma./NNP jenny.ma./NN @./NNP sunlife.com./NN Please./NNP also./RB create./VBP a./DT profile./NN in./IN our./PRP$ system./NN when./WRB applying./VBG for./IN a./DT co-op./JJ role./NN by./IN following./VBG this./DT link./NN :./: http./NN :./: //bit.ly/2cNXrz0./NN 
+--./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: --./: -./: 
+
+You./PRP believe./VBP life./NN is./VBZ about./IN aiming./VBG high./JJ and./CC making./VBG an./DT impact./NN ../. At./IN Sun./NNP Life./NNP Financial./NNP ,./, we./PRP work./VBP together./RB ,./, share./NN common./JJ values./NNS and./CC help./VB each./DT other./JJ grow./NN and./CC achieve./JJ goals./NNS ../. 
+
+With./IN roots./NNS tracing./VBG back./RB to./TO 1865./CD in./IN Canada./NNP ,./, Sun./NNP Life./NNP Financial./NNP has./VBZ grown./VBN to./TO become./VB an./DT established./JJ and./CC trusted./VBD name./NN in./IN insurance./NN and./CC financial./JJ services./NNS ,./, with./IN offices./NNS and./CC operations./NNS in./IN key./JJ markets./NNS around./IN the./DT world./NN ../. We./PRP recognize./VBP that./IN our./PRP$ growth./NN ,./, success./NN and./CC reputation./NN for./IN excellence./NN are./VBP due./JJ in./IN large./JJ measure./NN to./TO our./PRP$ talented./VBN and./CC dedicated./VBN employees./NNS ../. 
+
+Main./NN Accountabilities./NNS :./: 
+-./: Troubleshoot./NN LAN./NNP ,./, desktop/notebook./NN hardware./NN and./CC software./NN problems./NNS 
+-./: Provide./NN prompt./JJ follow-up./JJ and./CC updates./NNS on./IN work./NN orders./NNS and./CC requests./NNS 
+-./: Problem./NN resolution./NN and./CC escalation./NN as./IN it./PRP relates./VBZ to./TO imaging./VBG and./CC application./NN setup./NN 
+-./: Configuration./NN of./IN standard./JJ desktops/notebooks./NNS for./IN new./JJ hires./NNS ,./, client./NN refreshes./NNS and./CC break/fix./NN resolution./NN 
+-./: Configuration./NN of./IN Test./NNP Lab./NNP PCs./NNS 
+-./: Maintain./NN inventory./NN and./CC configuration./NN rooms./NNS 
+-./: Schedule./NN deployments./NNS of./IN desktop./NN /./NN notebook./NN hardware./NN to./TO our./PRP$ internal./JJ clients./NNS 
+-./: Infrastructure./NN support./NN including./VBG patching./NN of./IN network./NN connections./NNS 
+-./: Provide./NN consulting./NN to./TO client./NN 
+
+Competencies./NNS :./: 
+-./: Experience./NN in./IN desktop./NN /./NN notebook./NN hardware./NN and./CC software./NN configuration./NN ,./, setup./NN and./CC support./NN 
+-./: Strong./NN customer./NN service./NN background./NN or./CC equivalent./JJ experience./NN 
+-./: Strong./JJ technical./JJ knowledge./NN of./IN hardware./NN ,./, LANs/WANs./NNP ,./, Windows./NNP XP./NNP ,./, Lotus./NNP Notes./NNP ,./, MS./NNP -Office./NNP ,./, VPN./NNP Remote./NNP Access./NNP ,./, Wireless./NNP 
+-./: Strong./JJ organizational./JJ ,./, interpersonal./JJ and./CC team./NN skills./NNS 
+-./: Ability./NN to./TO apply./VB project./JJ management./NN concepts./NNS to./TO tasks./NNS 
+-./: Ability./NN to./TO recognize./VB gaps./NNS and./CC help./VB streamline./NN processes./NNS 
+-./: Excellent./NN verbal./JJ and./CC written./VBN communication./NN skills./NNS to./TO a./DT IT./NNP and./CC business./NN audience./NN 
+-./: Commitment./NN to./TO deal./VB with./IN pressure./NN and./CC multiple./JJ priorities./NNS 
+-./: Strong./JJ self-motivator./NN with./IN the./DT ability./NN to./TO take./VB ownership./NN of./IN tasks./NNS and./CC see./VB them./PRP through./IN 
+-./: An./DT eagerness./NN to./TO learn./VB and./CC a./DT passion./NN for./IN technology./NN 
+
+Assets./NNS :./: 
+-./: Ability./NN to./TO analyze./VB and./CC solve./VB technical./JJ problems./NNS 
+-./: Experience./NN supporting./VBG Blackberry./NNP devices./NNS 
+-./: Experience./NN using./VBG SMS./NNP ,./, OSD./NNP ,./, Safeboot./NNP ,./, AD./NNP ,./, McAfee./NNP ePO./NN ,./, Network./NNP concepts./NNS 

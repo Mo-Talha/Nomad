@@ -1,0 +1,55 @@
+Summary./JJ 
+We./PRP have./VBP openings./NNS in./IN our./PRP$ data./NNS ,./, app./NN ,./, and./CC server/backend./VB groups./NNS ../. 
+
+Responsibilities./NNS 
+Data./NNP scientist/engineer./NN :./: 
+Understanding./VBG data./NNS flow./NN in./IN a./DT large./JJ ,./, distributed./JJ system./NN 
+Designing./NNP ,./, coding./VBG and./CC executing./VBG data./NNS investigations./NNS 
+Performing./VBG robust./JJ statistical./JJ analyses./NNS 
+Producing./VBG internal./JJ presentations./NNS ,./, customer./NN reports./NNS and./CC visualizations./NNS to./TO summarize./VB the./DT conclusions./NNS 
+
+Web./NNP developer./NN :./: 
+Write./NNP well./RB designed./VBD ,./, testable./JJ ,./, efficient./JJ code./NN using./VBG best./JJS software./NN development./NN practices./NNS 
+Create./NNP website./WP layout/user./VBD interface./NN by./IN using./VBG standard./JJ HTML/CSS./NNP practices./NNS 
+Integrate./NNP data./NNS from./IN various./JJ back-end./JJ services./NNS and./CC databases./NNS 
+Gather./NNP and./CC refine./VB specifications./NNS and./CC requirements./NNS based./VBN on./IN technical./JJ needs./NNS 
+Create./NNP and./CC maintain./VB software./NN documentation./NN 
+Be./NNP responsible./JJ for./IN implementing./VBG new./JJ features./NNS and./CC maintaining./VBG and./CC scaling./VBG the./DT portal./NN as./IN needed./VBN 
+Collaborate./NN with./IN web./JJ designers./NNS to./TO match./VB visual./JJ design./NN intent./NN 
+
+Server/scaling/backend./NNP engineer./NN :./: 
+Set./NNP up./RP and./CC improve./VB tools./NNS for./IN continuous./JJ build./NN ,./, automated./VBD testing./NN and./CC release./NN management./NN 
+Define./NNP and./CC implement./VB a./DT scalable./JJ and./CC efficient./JJ release./NN process./NN 
+Ensure./NN that./IN engineers./NNS and./CC QA./NNP teams./NNS have./VBP proper./JJ protocols./NNS in./IN place./NN for./IN delivering./VBG issue-free./JJ software./NN 
+Build./NNP and./CC maintain./NN tools./NNS needed./VBN for./IN backend./NN and./CC mobile./JJ release./NN deployment./NN 
+Help./NNP build./VB and./CC improve./VB log./NN file./NN collection./NN and./CC monitoring./NN systems./NNS 
+Work./NN with./IN team./NN to./TO troubleshoot./VB operational./JJ issues./NNS and./CC develop./VB tools./NNS for./IN automation./NN and./CC early./JJ detection./NN of./IN problems./NNS 
+
+Required./VBN Skills./NNS 
+Data./NNP Scientist/Engineer./NN :./: 
+Strong./JJ programming./NN skills./NNS for./IN constructing./VBG and./CC understanding./VBG data./NNS pipelines./NNS ,./, particularly./RB in./IN Python./NNP (./( scipy/numpy./NN )./) and./CC SQL./NNP 
+Experience./NN with./IN modern/emerging./VBG scalable./JJ computing./VBG platforms./NNS and./CC languages./NNS (./( e.g./NN ../. Spark./NNP )./) 
+
+Web./NNP Engineer./NNP :./: 
+Proven./RB working./VBG experience./NN in./IN web./NN programming./NN 
+Top-notch./NN programming./NN skills./NNS and./CC in-depth./JJ knowledge./NN of./IN modern./JJ HTML/CSS./NNP 
+Proficiency./NN with./IN PHP./NNP and./CC Javascript./NNP 
+Knowledge./NNP of./IN relational./JJ database./NN systems./NNS and./CC web./JJ application./NN development./NN 
+Ability./NN to./TO work./VB and./CC thrive./VB in./IN a./DT fast-paced./JJ environment./NN ,./, learn./NN rapidly./RB ,./, and./CC master./NN diverse./NN web./NN technologies./NNS and./CC techniques./NNS 
+
+Server/scaling/backend./NNP engineer./NN :./: 
+Strong./JJ familiarity./NN with./IN git./NN 
+Extensive./JJ knowledge./NN of./IN Unix/Linux./NNP 
+Proficient./NN in./IN one./CD or./CC more./JJR scripting./JJ languages./NNS (./( Python./NNP ,./, Unix./NNP shells./NNS )./) 
+Experience./NN with./IN build./JJ configuration./NN tools./NNS ,./, such./JJ as./IN Jenkins./NNS ,./, Gradle./NNP ,./, Chef./NNP ,./, Puppet./NNP 
+Experience./NN automating./VBG release./NN and./CC build./NN processes./NNS ,./, including./VBG iOS./NN or./CC Android./VB 
+Excellent./JJ troubleshooting./NN skills./NNS 
+Ability./NN to./TO automate./VB systems./NNS installation./NN and./CC configuration./NN management./NN for./IN Linux./NNP 
+Ability./NN to./TO design./VB and./CC automate./VB a./DT system./NN that./WDT allows./VBZ on-demand./JJ test./NN environments./NNS 
+Experience./NN setting./VBG up./RP ,./, configuring./VBG ,./, administrating./VBG production./NN environments./NNS in./IN AWS./NNP 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+For./IN interns./NNS and./CC full./JJ time./NN ,./, we./PRP offer./VBP salaries./NNS in./IN the./DT range./NN of./IN other./JJ strong./JJ software./NN companies./NNS ../. For./IN full./JJ time./NN employees./NNS ,./, stock./NN options./NNS are./VBP available./JJ ../. 
+
+Career./NNP Development./NNP And./CC Training./NNP 
+More./JJR than./IN half./NN of./IN the./DT team./NN has./VBZ PhDs./VBN and./CC can./MD provide./VB good./JJ mentorship./NN for./IN an./DT undergraduate./JJ co-op./NN or./CC junior./JJ engineer./NN ../. 

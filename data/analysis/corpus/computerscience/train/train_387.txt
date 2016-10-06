@@ -1,0 +1,24 @@
+Arista./NNP Networks./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Oct../NNP 4./CD ,./, 2016./CD from./IN 11:30./CD AM./NNP -./: 1:30./CD PM./NNP at./IN Davis./NNP Centre./NNP -./: Corporate./NNP Lounge./NN 1301./CD ../. Please./VB plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB 
+_______________________________________________________./NN 
+
+
+___________________________________________________________./NN 
+
+The./DT manufacturing./NN software./NN engineer./NN develops./NNS and./CC maintains./VBZ the./DT software./NN infrastructure./NN used./VBN by./IN the./DT manufacturing./NN team./NN to./TO build./VB ,./, test./NN ,./, and./CC track./VB our./PRP$ products./NNS ../. 
+
+Responsibilities./NNS 
+As./IN part./NN of./IN the./DT manufacturing./NN team./NN ,./, you./PRP 'd./MD be./VB responsible./JJ for./IN :./: 
+The./DT manufacturing./VBG test./NN process./NN 
+-./: learn./NN what./WP is./VBZ required./VBN to./TO build./VB and./CC ship./VB high-end./JJ electronic./JJ systems./NNS in./IN production./NN quantities./NNS 
+-./: write./NN new./JJ test./NN scripts./NNS in./IN python./NN and./CC improve./VB the./DT testing./NN infrastructure./NN 
+-./: Add./NNP additional./JJ features./NNS to./TO manufacturing./VBG infrastructure./NN software./NN 
+-./: Deliver./VB the./DT test./NN scripts./VBZ to./TO our./PRP$ overseas./JJ contract./NN manufacturer./NN 
+The./DT design./NN verification./NN process./NN 
+-./: learn./NN how./WRB we./PRP test./VBP and./CC ensure./VB that./IN a./DT board./NN design./NN is./VBZ suitable./JJ for./IN production./NN 
+-./: add./NN support./NN for./IN new./JJ products./NNS ,./, and./CC create./VB test./NN suites./NNS to./TO beat./VB on./IN new./JJ board./NN designs./NNS 
+
+Required./VBN Skills./NNS 
+A./DT manufacturing./NN test./NN engineer./NN is./VBZ a./DT mix./NN of./IN a./DT software./NN and./CC a./DT hardware./NN engineer./NN ../. You./PRP need./VBP to./TO understand./VB the./DT hardware./NN well./RB enough./RB to./TO write./VB python./NN scripts./NNS to./TO test./VB them./PRP ,./, and./CC then./RB dive./VB into./IN the./DT software./NN and./CC hardware./NN details./NNS to./TO understand./VB what./WP 's./VBZ going./VBG on./IN when./WRB things./NNS fail./VBP ../. 
+
+Transportation./NN And./CC Housing./NN 
+Reimbursement./NN provided./VBD for./IN relocation./NN (./( flight./NN )./) 

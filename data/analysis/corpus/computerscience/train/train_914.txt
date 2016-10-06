@@ -1,0 +1,40 @@
+Do./VBP you./PRP enjoy./VB working./VBG on./IN interesting./JJ and./CC challenging./VBG projects./NNS ?./. We./PRP want./VBP to./TO talk./VB to./TO you./PRP !./. We./PRP are./VBP looking./VBG for./IN an./DT Android./NNP Software./NNP Engineer./NNP who./WP is./VBZ passionate./JJ about./IN creating./VBG apps./JJ consumers./NNS love./VBP ../. 
+
+Synaptop./NNP is./VBZ a./DT platform./NN for./IN shared./VBN experiences./NNS online./VBP ../. It./PRP is./VBZ an./DT operating./NN system./NN for./IN the./DT cloud./NN that./WDT allows./VBZ users./NNS to./TO watch./VB videos./NN ,./, play./NN games./NNS ,./, use./NN apps./NN and./CC interact./NN with./IN their./PRP$ friends./NNS in./IN sync./NN while./IN video./NN chatting./NN and./CC text./NN chatting./NN ../. 
+
+At./IN Synaptop./NNP ,./, we./PRP are./VBP reshaping./VBG the./DT planet./NN 's./POS digital./JJ landscape./NN ,./, deleting./VBG digital./JJ borders./NNS and./CC changing./VBG the./DT way./NN people./NNS interact./VBP online./JJ and./CC offline./JJ ../. Synaptop./NNP 's./POS mission./NN is./VBZ to./TO provide./VB leading-edge./JJ solutions./NNS to./TO help./VB people./NNS interact./VB seamlessly./RB and./CC to./TO use./VB technology./NN effortlessly./RB for./IN work./NN ,./, study./NN and./CC play./NN ../. 
+
+We./PRP have./VBP a./DT team./NN culture./NN that./WDT encourages./VBZ innovation./NN and./CC empowers./NNS software./NN developers./NNS by./IN giving./VBG them./PRP a./DT high./JJ level./NN of./IN ownership./NN for./IN the./DT product./NN vision./NN ,./, technical./JJ architecture./NN and./CC project./NN delivery./NN ../. We./PRP have./VBP a./DT fun./NN ,./, unique./JJ ,./, and./CC engaging./VBG culture./NN in./IN our./PRP$ new./JJ ,./, stylish./JJ office./NN ../. 
+We./PRP 're./VBP looking./VBG for./IN a./DT skilled./JJ performance-driven./JJ individual./NN who./WP can./MD help./VB us./PRP take./VB Synaptop./NNP to./TO the./DT next./JJ level./NN ../. 
+
+Responsibilities./NNS 
+Development./NNP and./CC maintenance./NN of./IN an./DT Android./NNP app./NN as./IN part./NN of./IN an./DT agile./JJ software./NN development./NN team./NN 
+Provide./NNP strong./JJ guidance./NN and./CC directly./RB contribute./VB with./IN design./NN ,./, architecture./NN ,./, implementation./NN and./CC maintenance./NN of./IN our./PRP$ Android./NNP app./NN 
+Ensure./NN the./DT technical./JJ feasibility./NN of./IN UI/UX./NNP designs./NNS 
+Optimize./NNP application./NN for./IN maximum./JJ speed./NN and./CC scalability./NN 
+Work./NNP both./DT independently./RB and./CC with./IN a./DT team./NN to./TO code./VB and./CC test./VB new./JJ features./NNS and./CC enhancements./NNS ../. 
+
+Qualifications/Requirements./NNS 
+2+./CD years./NNS of./IN experience./NN working./VBG on./IN Android./NNP front-end./NN development./NN ../. 
+Academic./NNP degree./NN or./CC comparable./JJ education./NN and./CC work./NN experience./NN 
+Submission./NN of./IN finished./JJ products./NNS to./TO the./DT Google./NNP Play./NNP store./NN ../. 
+Experience./NN developing./VBG tablet-specific./JJ applications./NNS ../. 
+Ability./NN to./TO rapidly./RB prototype./JJ functionality./NN ../. 
+Proficient./NN using./VBG Git./NNP source./NN control./NN ../. 
+Experience./NN with./IN Web./NNP services./NNS :./: REST./NN ,./, JAX-RS./NNP ,./, XML-RPC./NNP ,./, JSON-RPC./NNP ,./, SOAP./NNP )./) ,./, JDBC./NNP 
+Web./NNP Technologies./NNPS :./: HTML5./NNP ,./, JavaScript./NNP ,./, CSS./NNP ,./, HTML-DOM./NNP ,./, AJAX./NNP an./DT asset./NN 
+Development./NNP tools./NNS :./: Android./NNP Studio./NNP ,./, Gradle./NNP ,./, Ant/Maven./NNP ,./, Stash./NNP ,./, GIT./NNP ,./, MKS./NNP 
+
+Here./RB 's./POS why./WRB you./PRP should./MD work./VB at./IN Synaptop./NNP 
+Competitive./JJ salaries./NNS 
+Get./VB to./TO learn./VB cutting-edge./NN technologies./NNS 
+Great./NNP leadership./NN team./NN and./CC great./JJ atmosphere./NN 
+Career./NNP growth./NN and./CC professional./JJ development./NN opportunities./NNS 
+Health./NNP and./CC dental./JJ benefits./NNS 
+Free./JJ tea./NN ,./, coffee./NN and./CC snacks./NNS 
+Flexible./JJ hours./NNS 
+Great./NNP location./NN by./IN the./DT beach./NN 
+We./PRP work./VBP with./IN movies./NNS ../. It./PRP 's./VBZ a./DT lot./NN of./IN fun./NN !./. 
+More./RBR cool./JJ perks./NNS 
+
+To./TO learn./VB more./JJR about./IN Synaptop./NNP and./CC our./PRP$ current./JJ openings./NNS ,./, visit./NN :./: http./NN :./: //www.synaptop.com./NN 

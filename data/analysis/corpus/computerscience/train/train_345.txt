@@ -1,0 +1,15 @@
+Summary./JJ 
+This./DT is./VBZ a./DT position./NN in./IN the./DT Informatics./NNP &./CC Biocomputing./NNP department./NN at./IN the./DT Ontario./NNP Institute./NNP for./IN Cancer./NNP Research./NNP ../. We./PRP seek./VBP a./DT Software./NNP Developer./NNP to./TO join./VB a./DT team./NN developing./VBG cutting./VBG edge./NN Open./NNP Source./NNP applications./NNS for./IN sharing./VBG and./CC executing./VBG analysis./NN workflows./NNS in./IN cloud./JJ compute./NN environments./NNS such./JJ as./IN AWS./NNP and./CC OpenStack./NNP ../. The./DT applications./NNS will./MD be./VB used./VBN by./IN researchers./NNS around./IN the./DT world./NN to./TO process./NN and./CC interpret./VB vast./JJ amounts./NNS of./IN cancer./NN genomic./JJ data./NNS and./CC to./TO apply./VB this./DT understanding./NN to./TO new./JJ paradigms./NN for./IN diagnosing./VBG and./CC treating./VBG cancer./NN 
+
+Responsibilities./NNS 
+Create./NNP RESTful./NNP API/web./NNP applications./NNS ,./, desktop./NN clients./NNS 
+Create./NNP and./CC maintain./VB cloud-based./JJ computational./JJ workflows./NNS using./VBG virtualization./NN technologies./NNS such./JJ as./IN Docker./NNP and./CC languages./NNS such./JJ as./IN Common./NNP Workflow./NNP Language./NNP 
+Assists./NNS in./IN developing./VBG code./JJ -./: including./VBG reuse./NN of./IN standard./JJ elements./NNS -./: to./TO create./VB prototypes./NNS ../. 
+Research./NN solutions./NNS to./TO bugs./NNS and./CC other./JJ software./NN performance./NN issues./NNS 
+Creating./VBG useful./JJ and./CC informative./JJ graphs./NN and./CC visualizations./NNS 
+
+Required./VBN Skills./NNS 
+For./IN web./WP app./JJ work./NN ,./, a./DT background./NN with./IN Javascript./NNP ,./, HTML./NNP ,./, CSS./NNP and./CC JQuery./NNP 
+For./IN web./JJ application./NN and./CC computational./JJ tool./NN work./NN ,./, a./DT familiarity./NN with./IN Java./NNP 
+Experience./NN with./IN version./NN control./NN software./NN ,./, preferably./RB git./NN ,./, and./CC working./VBG with./IN teams./NNS of./IN developers./NNS following./VBG good./JJ coding./NN practices./NNS 
+Knowledge./NNP of./IN bioinformatics./NNS and./CC biology./NN is./VBZ an./DT asset./NN ,./, but./CC is./VBZ not./RB required./VBN 

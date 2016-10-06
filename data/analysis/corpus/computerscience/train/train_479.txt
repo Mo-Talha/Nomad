@@ -1,0 +1,33 @@
+Summary./JJ 
+As./IN a./DT buddybuild./JJ co-op./JJ student./NN ,./, you./PRP 'll./MD be./VB primarily./RB responsible./JJ for./IN the./DT back-end./JJ infrastructure./NN that./IN powers./NNS buddybuild./VBP ../. That./DT said./VBD ,./, we./PRP 're./VBP looking./VBG for./IN developers./NNS who./WP also./RB have./VBP experience./NN with./IN front./JJ end./NN technologies./NNS or./CC possess./VB a./DT curious./JJ predisposition./NN to./TO jump./VB in./IN and./CC learn./VB !./. 
+
+As./IN a./DT predisposition./NN ..../: you./PRP are./VBP :./: 
+
+-./: Exceptionally./RB clever./NN :./: You./PRP 're./VBP able./JJ to./TO distill./VB complex./JJ problems./NNS and./CC propose./JJ simple./NN ,./, elegant./JJ solutions./NNS ../. 
+
+-./: Driven./NN to./TO get./VB things./NNS done./VBN :./: Anxious./JJ to./TO design./VB ,./, build./VB ,./, and./CC ship./JJ solutions./NNS on./IN aggressive./JJ timelines./NNS ../. Take./VB pen./JJ to./TO paper./NN and./CC write/sketch./NN ideas./NNS ,./, concepts./NNS ,./, interactions./NNS -./: we./PRP 're./VBP looking./VBG for./IN makers./NNS ,./, doers./NNS ,./, creators./NNS !./. 
+
+-./: Able./NN to./TO play./VB well./RB with./IN others./NNS :./: Be./VB comfortable./JJ in./IN collaborative./JJ work./NN environments./NNS with./IN solid./JJ communication./NN skills./NNS ../. You./PRP 're./VBP a./DT great./JJ presenter./NN ,./, but./CC an./DT even./RB better./JJR listener./NN ../. We./PRP all./DT strive./VBP to./TO be./VB humble./JJ to./TO actively./RB solicit./VB and./CC incorporate./VB feedback./NN ../. 
+
+-./: Different./NN :./: We./PRP want./VBP unique./JJ skill./NN sets./NNS ,./, methodologies./NNS ,./, working./VBG styles./NNS ,./, and./CC ideas./NNS ../. Up-level./NNP an./DT already./RB strong./JJ and./CC diverse./JJ team./NN and./CC inspire./VB the./DT broader./JJR team./NN with./IN your./PRP$ expertise./NN ../. Look./VB for./IN opportunities./NNS to./TO work./VB outside./RB your./PRP$ comfort./NN zone./NN and./CC learn./NN from./IN others./NNS ../. 
+
+-./: An./DT ambitious./JJ malcontent./NN :./: We./PRP 're./VBP dissatisfied./VBN with./IN the./DT status-quo./NN in./IN the./DT world./NN around./IN us./PRP ../. We./PRP want./VBP to./TO be./VB constantly./RB aware./JJ of./IN the./DT potential./JJ for./IN improvement./NN with./IN a./DT keen./JJ desire./NN to./TO help./VB technology./NN play./VB a./DT more./RBR meaningful./JJ role./NN in./IN people./NNS 's./POS lives./NNS ../. 
+
+Responsibilities./NNS 
+-./: You./PRP 've./VBP been./VBN writing./VBG web./NN or./CC mobile./JJ applications./NNS and./CC can./MD point./VB to./TO things./NNS you./PRP 've./VBP worked./VBN on./IN 
+
+-./: You./PRP possess./VBP strong./JJ computer./NN science./NN fundamentals./NNS :./: data./NN structures./NNS ,./, algorithms./NN ,./, programming./VBG languages./NNS ,./, distributed./VBN systems./NNS ,./, and./CC information./NN retrieval./NN 
+
+-./: You./PRP know./VBP how./WRB the./DT web./NN works./VBZ ../. You./PRP know./VBP HTTP./NNP and./CC TCP/IP./NNP and./CC what./WP a./DT good./JJ API./NNP looks./VBZ like./IN 
+
+-./: You./PRP know./VBP how./WRB to./TO build./VB reliable./JJ and./CC safe./JJ distributed./VBN systems./NNS and./CC understand./VB the./DT tradeoffs./NNS made./VBD when./WRB engineering./NN a./DT feature./NN 
+
+
+Required./VBN Skills./NNS 
+-./: You./PRP 're./VBP familiar./JJ with./IN Mongo./NNP ,./, Express./NNP ,./, AngularJS./NNP ,./, and./CC Node./NNP 
+
+-./: You./PRP 're./VBP a./DT strong./JJ communicator./NN ../. Explaining./VBG complex./JJ technical./JJ concepts./NNS to./TO users./NNS ,./, designers./NNS ,./, and./CC other./JJ engineers./NNS is./VBZ no./DT problem./NN for./IN you./PRP 
+
+-./: Have./VBP experience./NN with./IN or./CC are./VBP interested./JJ in./IN understanding./VBG the./DT process./NN of./IN building./NN ,./, compiling./NN ,./, and./CC deploying./VBG iOS./NN and./CC Android./NNP apps./NN to./TO testers./NNS 
+
+-./: Previous./JJ experience./NN with./IN Continuous./NNP Integration/Continuous./NNP Deployment./NNP systems./NNS is./VBZ a./DT plus./JJ 

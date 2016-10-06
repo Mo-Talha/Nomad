@@ -1,0 +1,27 @@
+Blue./NNP Coat./NNP (./( recently./RB acquired./VBN by./IN Symantec./NNP )./) 
+
+We./PRP are./VBP looking./VBG for./IN a./DT talented./JJ QA./NNP Engineer./NNP to./TO work./VB on./IN a./DT team./NN focused./VBN on./IN testing./VBG Symantec./NNP 's./POS web./JJ application./NN ,./, Management./NNP Center./NNP ../. As./IN a./DT member./NN of./IN this./DT QA./NNP team./NN ,./, you./PRP will./MD be./VB responsible./JJ for./IN participating./VBG in./IN design./NN meetings./NNS ,./, test./NN planning./NN ,./, test./NN automation./NN and./CC overall./JJ testing./NN activities./NNS ../. You./PRP will./MD be./VB working./VBG with./IN your./PRP$ peers./NNS in./IN the./DT QA./NNP teams./NNS as./RB well./RB as./IN the./DT development./NN teams./NNS ,./, ensuring./VBG that./IN we./PRP have./VBP the./DT proper./JJ manual./JJ and./CC automated./JJ test./NN coverage./NN for./IN each./DT of./IN the./DT features./NNS we./PRP are./VBP delivering./VBG ../. This./DT is./VBZ a./DT great./JJ opportunity./NN if./IN you./PRP are./VBP interested./JJ in./IN solving./VBG complex./JJ problems./NNS ,./, designing./VBG and./CC coding./VBG efficient./JJ test./NN coverage./NN ,./, and./CC learning./VBG about./IN all./DT aspects./NNS of./IN our./PRP$ security./NN proxy./NN appliance./NN ../. 
+
+We./PRP are./VBP looking./VBG for./IN talented./VBN QA./NNP engineers./NNS to./TO help./VB our./PRP$ team./NN :./: 
+Expand./NNP our./PRP$ automated./JJ test./NN coverage./NN and./CC capabilities./NNS 
+Run./NNP automated./VBD test./NN suites./NNS 
+Gather./NNP and./CC analyze./JJ test./NN results./NNS ,./, create./VBP comprehensive./JJ test./NN reports./NNS 
+Perform./NNP manual./JJ testing./VBG where./WRB applicable./JJ 
+Keep./VB at./IN the./DT forefront./NN of./IN test./NN technologies./NNS and./CC methodologies./NNS 
+
+You./PRP will./MD work./VB with./IN the./DT QA./NNP lead./NN for./IN Management./NNP Center./NNP to./TO establish./VB your./PRP$ goals./NNS for./IN your./PRP$ areas./NNS of./IN responsibility./NN and./CC use./VB our./PRP$ extensive./JJ in-house./JJ automation./NN frameworks./NNS to./TO automate./VB functional./JJ tests./NNS ,./, run./VB these./DT tests./NNS ,./, document./VBD the./DT results./NNS and./CC work./NN with./IN the./DT development./NN teams./NNS to./TO resolve./VB any./DT issues./NNS found./VBN ../. 
+
+Requirements./NNS :./: 
+Strong./JJ problem./NN solving./NN ,./, communication./NN ,./, organizational./JJ and./CC prioritization./NN skills./NNS 
+Knowledge./NNP and./CC previous./JJ experience./NN with./IN automation./NN using./VBG a./DT scripting./JJ language./NN ;./: Perl./NNP and/or./VBZ Python./NNP preferred./VBD 
+Demonstrated./VBN ability./NN to./TO complete./VB tasks./NNS independently./RB with./IN minimum./JJ supervision./NN 
+Desire./NN to./TO be./VB challenged./VBN and./CC work./NN with./IN a./DT great./JJ team./NN 
+
+The./DT following./NN would./MD be./VB a./DT real./JJ plus./NN for./IN the./DT positions./NNS :./: 
+Knowledge./NNP of./IN JavaScript./NNP and./CC JSON./NNP 
+Experience./NN in./IN web./JJ application./NN testing./VBG 
+Experience./NN working./VBG in./IN an./DT Agile./NNP environment./NN 
+
+About./IN Blue./NNP Coat./NNP (./( recently./RB acquired./VBN by./IN Symantec./NNP )./) 
+
+Symantec./NNP is./VBZ a./DT global./JJ leader./NN in./IN providing./VBG security./NN ,./, information./NN management./NN solutions./NNS to./TO help./VB our./PRP$ customers./NNS --./: from./IN consumers./NNS and./CC small./JJ businesses./NNS to./TO the./DT largest./JJS global./JJ organizations./NNS --./: secure./NN and./CC manage./VB their./PRP$ information./NN against./IN more./JJR risks./NNS at./IN more./JJR points./NNS ,./, more./RBR completely./RB and./CC efficiently./RB than./IN any./DT other./JJ company./NN ../. Our./PRP$ company./NN 's./POS unique./JJ focus./NN is./VBZ to./TO eliminate./VB risks./NNS to./TO information./NN ,./, technology./NN and./CC processes./VBZ independent./JJ of./IN the./DT device./NN ,./, platform./NN ,./, interaction./NN or./CC location./NN ../. 

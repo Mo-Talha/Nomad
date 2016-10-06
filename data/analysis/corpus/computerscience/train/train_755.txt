@@ -1,0 +1,24 @@
+Are./NNP you./PRP excited./VBD about./IN shaping./VBG the./DT self-driving./JJ car./NN revolution./NN and./CC beyond./IN at./IN a./DT startup./NN ?./. Our./PRP$ founding./NN team./NN is./VBZ a./DT group./NN of./IN graduate./NN students./NNS from./IN Stanford./NNP with./IN background./NN in./IN deep./JJ learning./NN ,./, and./CC our./PRP$ goal./NN is./VBZ to./TO improve./VB people./NNS 's./POS lives./NNS by./IN transforming./VBG mobility./NN in./IN a./DT cost./NN effective./JJ way./NN that./WDT can./MD impact./VB everyone./NN ../. In./IN this./DT position./NN ,./, you./PRP will./MD be./VB part./NN of./IN the./DT team./NN working./VBG towards./NNS our./PRP$ vision./NN of./IN autonomous./JJ vehicles./NNS ../. Use./VB your./PRP$ passion./NN and./CC entrepreneurial./JJ spirit./NN to./TO work./VB on./IN a./DT small./JJ collaborative./JJ team./NN that./WDT is./VBZ using./VBG cutting./VBG edge./NN systems./NNS in./IN the./DT automotive./JJ industry./NN ../. 
+
+Responsibilities./NNS :./: 
+The./DT process./NN of./IN building./VBG self-driving./JJ cars./NNS span./VBD many./JJ areas./NNS of./IN computer./NN science./NN ../. As./IN a./DT Software./NNP Engineering./NNP Intern./NNP ,./, you./PRP will./MD be./VB given./VBN responsibilities./NNS in./IN developing./VBG software./NN for./IN the./DT onboard./JJ vehicle./NN systems./NNS ,./, building./NN infrastructure./NN and./CC tools./NNS for./IN data./NNS services./NNS ,./, or./CC designing./VBG applications/features./NNS for./IN simulation/annotation/visualizations./NNS ../. 
+
+Required./VBN :./: 
+Strong./JJ design./NN and./CC programming./NN skills./NNS demonstrated./VBD through./IN past./JJ work./NN experience./NN 
+Strong./JJ background./NN in./IN mathematics./NNS and./CC foundations./NNS of./IN computer./NN science./NN 
+Strong./JJ C++./NNP and/or./NN Python./NNP programmer./NN 
+Ability./NN to./TO quickly./RB develop./VB prototypes./NNS and./CC demos./NNS 
+
+Preferred./VBN :./: 
+Experience./NN in./IN machine./NN learning./NN ,./, computer./NN vision./NN ,./, and./CC robotics./NNS 
+Experience./NN in./IN sensor./NN systems./NNS such./JJ as./IN LiDAR./NNP ,./, camera./NN ,./, and./CC radar./NN 
+Experience./NN in./IN developing./VBG 3D./CD applications./NNS or./CC games./NNS 
+Experience./NN in./IN scaling./VBG infrastructures./NNS and./CC building./NN web./NN services./NNS 
+Familiarity./NN with./IN the./DT process./NN of./IN large./JJ scale./JJ machine-learning./NN pipelines./NNS 
+Familiarity./NN with./IN vehicle./NN systems./NNS 
+
+Perks./NNS :./: 
+Solve./NNP difficult./JJ problems./NNS that./WDT have./VBP immediate./JJ and./CC valuable./JJ real./JJ world./NN applications./NNS ../. 
+State./NN of./IN the./DT art./NN equipment./NN for./IN your./PRP$ work./NN station./NN 
+Catered./NNP lunch./NN ,./, dinner./NN ,./, snacks./NNS ,./, etc./FW 
+Free./JJ rides./NNS in./IN self-driving./JJ cars./NNS 

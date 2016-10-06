@@ -1,0 +1,30 @@
+Kik./NNP Interactive./NNP Inc../NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Sept../NNP 22./CD ,./, 2016./CD from./IN 7:30./CD PM./NNP -./: 9:30./CD PM./NNP at./IN University./NNP Club./NNP -./: Main./NN Dining./NNP Room./NNP ../. Please./NNP plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+
+Founded./VBN in./IN 2009./CD ,./, Kik./NNP is./VBZ the./DT username-based./JJ smartphone./NN messenger./NN that./WDT allows./VBZ over./IN 300./CD million./CD +./JJ people./NNS around./IN the./DT world./NN to./TO chat./VB ,./, browse./NN and./CC share./NN content./NN with./IN one./CD another./DT ../. A./DT Top./JJ 10./CD app./NN on./IN Android./NNP and./CC a./DT Top./JJ 30./CD app./NN on./IN iTunes./NNS ,./, Kik./NNP continues./VBZ to./TO grow./VB rapidly./RB ,./, with./IN hundreds./NNS of./IN thousands./NNS of./IN new./JJ people./NNS joining./VBG every./DT day./NN ../. Kik./NNP is./VBZ a./DT privately./RB held./VBN company./NN based./VBN in./IN Waterloo./NNP ,./, Canada./NNP ../. We./PRP 're./VBP a./DT fast./JJ growing./VBG start-up./JJ backed./VBN by./IN leading./VBG Venture./NNP Capital./NNP firms./NNS ../. 
+
+At./IN Kik./NNP ,./, we./PRP believe./VBP the./DT smartphone./NN era./NN represents./VBZ a./DT transformation./NN as./RB big./JJ as./IN the./DT rise./NN of./IN the./DT PC./NN or./CC the./DT creation./NN of./IN the./DT Internet./NNP ../. Your./PRP$ smartphone./NN is./VBZ actually./RB part./NN of./IN you./PRP :./: always./RB on./IN ,./, always./RB connected./VBN ,./, and./CC always./RB with./IN you./PRP ../. And./CC your./PRP$ smartphone./NN puts./VBZ the./DT world./NN in./IN your./PRP$ pocket./NN ,./, wherever./NN and./CC whenever./WRB you./PRP want./VBP it./PRP ../. We./PRP believe./VBP that./IN chat./WP is./VBZ at./IN the./DT core./NN of./IN the./DT smartphone./NN era./NN ../. 
+
+Over./IN 40./CD %./NN of./IN American./NNP youth./NNP use./NN Kik./NNP to./TO chat./VB ,./, browse./NN and./CC share./NN with./IN their./PRP$ friends./NNS ,./, putting./VBG Kik./NNP in./IN a./DT unique./JJ position./NN ../. Our./PRP$ bot./NN platform./NN and./CC other./JJ marketing./NN tools./NNS let./VB brands./NNS engage./VB their./PRP$ fans./NNS and./CC followers./NNS in./IN a./DT whole./JJ new./JJ way./NN ../. And./CC for./IN developers./NNS ,./, we./PRP 've./VBP built./VBN APIs./NNP and./CC libraries./NNS to./TO help./VB optimize./VB their./PRP$ web./NN sites./NNS for./IN mobile./NN and./CC for./IN Kik./NNP ../. 
+
+By./IN building./VBG our./PRP$ messenger./NN ,./, our./PRP$ tools./NNS for./IN brands./NNS ,./, and./CC our./PRP$ platform./NN for./IN developers./NNS ,./, we./PRP believe./VBP we./PRP have./VBP the./DT opportunity./NN to./TO dominate./VB in./IN chat./NN ../. We./PRP have./VBP an./DT incredibly./RB talented./VBN team./NN and./CC our./PRP$ plans./NNS are./VBP well./RB underway./RB ../. If./IN you./PRP are./VBP passionate./JJ about./IN messaging./VBG and./CC mobile./JJ -./: join./NN us./PRP and./CC make./VB your./PRP$ mark./NN ../. 
+
+We./PRP 're./VBP looking./VBG for./IN amazing./VBG design./NN co-ops./NNS to./TO make./VB an./DT impact./NN at./IN Kik./NNP ../. We./PRP 're./VBP passionate./JJ about./IN pixel./NN perfect./NN ,./, simple./NN ,./, and./CC intuitive./JJ interfaces./NNS and./CC as./IN a./DT UI/UX./NNP Designer./NNP Co-op./NNP you./PRP will./MD be./VB working./VBG with./IN the./DT team./NN that./WDT is./VBZ responsible./JJ for./IN the./DT look./NN and./CC feel./NN of./IN Kik./NNP 's./POS product./NN portfolio./NN ../. You./PRP will./MD have./VB the./DT opportunity./NN to./TO design./VB a./DT product./NN that./WDT is./VBZ used./VBN by./IN over./IN 200./CD million./CD people./NNS worldwide./VBP ../. 
+
+Your./PRP$ Impact./NN :./: 
+Working./VBG closely./RB with./IN the./DT business./NN and./CC engineering./NN teams./NNS to./TO create./VB beautiful./JJ ,./, high./JJ quality./NN product./NN designs./NNS 
+Creating./VBG assets./NNS for./IN and./CC working./VBG directly./RB with./IN developers./NNS to./TO implement./VB designs./NNS 
+Assisting./VBG the./DT team./NN in./IN order./NN to./TO hit./VB project./NN deadlines./NNS 
+
+What./WP We./PRP Expect./VBP From./IN You./PRP :./: 
+An./DT impressive./JJ portfolio./NN showcasing./VBG beautiful./JJ ,./, clean./JJ ,./, intuitive./JJ interfaces./NNS 
+You./PRP are./VBP passionate./JJ about./IN pixel./NN perfect./JJ implementation./NN 
+Design./NNP experience./NN creating./VBG consumer./NN mobile./NN and./CC web./JJ application./NN interfaces./NNS 
+Ability./NN to./TO quickly./RB understand./VB concepts./NNS behind./IN different./JJ user./JJ interface./NN designs./NNS 
+Experience./NN designing./VBG consumer./NN interfaces./NNS for./IN multiple./JJ smartphone./NN platforms./NNS (./( Android./NNP ,./, iOS./NN )./) is./VBZ a./DT plus./JJ 
+
+Perks./NNS :./: 
+Catered./VBN meals./NNS from./IN a./DT top./JJ local./JJ restaurant./NN ,./, twice./RB a./DT day./NN 
+Access./NN to./TO endless./VB supply./NN of./IN snacks./NNS and./CC drinks./NNS of./IN all./DT varieties./NNS 
+Ping-Pong./JJ and./CC Foosball./NNP tables./NNS 
+Fully./NNP equipped./VBD office./NN gym./NN ,./, with./IN a./DT shower./NN and./CC towel./NN service./NN 
+Quarterly./JJ company./NN off./IN sites./NNS and./CC ``./`` Hack./NNP Weeks./NNP ''./'' to./TO work./VB on./IN pet./JJ projects./NNS 

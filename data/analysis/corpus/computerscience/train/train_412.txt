@@ -1,0 +1,34 @@
+Axiom./NNP Zen./NNP is./VBZ a./DT best./RBS practices-driven./JJ engineering./NN team./NN (./( committed./VBN to./TO continuous./JJ deployment./NN ,./, continuous./JJ integration./NN ,./, automated./VBD testing./NN ,./, etc./NN )./) ,./, looking./VBG for./IN talented./VBN and./CC startup-minded./JJ iOS./NN developers./NNS to./TO join./VB our./PRP$ growing./VBG team./NN in./IN Vancouver./NNP BC./NNP ../. 
+
+If./IN you./PRP 're./VBP a./DT talented./JJ ,./, hard-working./JJ ,./, and./CC creative./JJ builder./NN with./IN a./DT demonstrated./JJ record./NN of./IN achievement./NN ,./, Axiom./NNP Zen./NNP might./MD be./VB the./DT place./NN for./IN you./PRP to./TO jump-start./VB your./PRP$ career./NN ../. 
+
+As./IN the./DT ideal./JJ candidate./NN ,./, you./PRP :./: 
+-./: Code./NN for./IN fun./NN and./CC are./VBP a./DT true./JJ geek./NN at./IN heart./NN 
+-./: Have./VBP a./DT strong./JJ grasp./NN of./IN CS./NNP fundamentals./NNS ,./, algorithms./NN ,./, data./NN structures./NNS ,./, and./CC design./NN patterns./NNS 
+-./: Have./VBP some./DT familiarity./NN with./IN agile./JJ software./NN development./NN methodologies./NNS including./VBG automated./JJ testing./NN ,./, pair-programming./NN ,./, continuous./JJ integration./NN ,./, and./CC continuous./JJ delivery./NN 
+-./: Interest./NN or./CC knowledge./NN of./IN UX./NNP and./CC UI./NNP design./NN principles./NNS 
+-./: Are./NN pursuing./VBG or./CC have./VBP completed./VBN a./DT BS/MS./NNP in./IN Computer./NNP Science./NNP or./CC Computer./NNP Engineering./NNP ,./, or./CC equivalent./JJ experience./NN 
+-./: Are./NN excited./VBN about./IN learning./VBG from./IN an./DT experienced./JJ and./CC fast-paced./JJ team./NN ,./, taking./VBG on./IN significant./JJ responsibilities./NNS ,./, and./CC pushing./VBG the./DT boundaries./NNS of./IN what./WP 's./VBZ possible./JJ on./IN the./DT web./NN ,./, mobile./NN ,./, and./CC other./JJ emerging./VBG platforms./NNS ../. 
+
+Bonus./NNP Points./NNS 
+-./: Awesome./NN ,./, demo-able./JJ apps./NN especially./RB those./DT built./VBN with./IN JavaScript./NNP ,./, Objective-C./NNP ,./, Ruby./NNP ,./, or./CC Python./NNP 
+-./: Interest./NN or./CC expertise./NN in./IN big./JJ data./NNS ,./, machine./NN learning./NN ,./, natural./JJ language./NN processing./NN (./( NLP./NNP )./) ,./, data./NNS mining./NN ,./, voice./NN recognition./NN or./CC other./JJ artificial./JJ intelligence./NN 
+-./: Mobile./NN /./JJ iOS./JJ interest./NN or./CC experience./NN 
+-./: Experience./NN with./IN JavaScript./NNP ,./, especially./RB Node.js./NNP 
+-./: REST./NN API./NNP familiarity./NN /./NNP expertise./NN 
+-./: Active./NN Facebook./NNP API./NNP developer./NN 
+-./: Passion./NN for./IN performance./NN optimization./NN 
+-./: Prior./JJ experience./NN with./IN top-tier./JJ Silicon./NNP Valley./NNP companies./NNS and./CC startups./NNS 
+-./: Familiarity./NN and./CC comfort./NN with./IN Git./NNP and./CC GitHub./NNP 
+-./: Creator./NN or./CC contributor./NN to./TO open./VB source./NN projects./NNS 
+
+We./PRP provide./VBP exceptional./JJ benefits./NNS :./: 
+
+-./: Personal./NN development./NN budget./NN ../. We./PRP actively./RB participate./VB in./IN the./DT development./NN of./IN our./PRP$ team./NN ../. You./PRP have./VBP access./NN to./TO a./DT Professional./NNP Development./NNP budget./NN of./IN $./$ 400./CD per./IN quarter./NN allocated./VBN ,./, separate./JJ from./IN your./PRP$ compensation./NN ,./, to./TO be./VB spent./VBN on./IN conferences./NNS ,./, classes./NNS ,./, books./NNS ,./, and./CC any./DT other./JJ resources./NNS to./TO maintain./VB and./CC expand./VB your./PRP$ skill./NN set./VBN ,./, industry./NN knowledge./NN ,./, and./CC professional./JJ growth./NN ../. Or./CC take./VB someone./NN interesting./VBG to./TO lunch./NN or./CC coffee./NN for./IN in-person./JJ learning./NN 
+-./: Flexible./JJ Vacation./NN and./CC Remote./NNP Work./NNP Policy./NNP ../. We./PRP support./VBP work-life./JJ harmony./NN and./CC also./RB believe./VB in./IN balance./NN ../. Make./VB your./PRP$ impact./NN consistently./RB and./CC we./PRP 're./VBP totally./RB flexible./JJ on./IN time./NN off./RP ../. Minimum./NNP of./IN 2./CD weeks./NNS every./DT year./NN ,./, with./IN no./DT limit./NN ../. 
+-./: Speaker./NN Travel./NNP Budget./NNP ../. We./PRP believe./VBP strongly./RB that./IN all./DT our./PRP$ team./NN members./NNS should./MD have./VB the./DT opportunity./NN to./TO become./VB thought./JJ leaders./NNS in./IN their./PRP$ fields./NNS ../. To./TO support./VB this./DT ,./, we./PRP have./VBP a./DT standard./NN policy./NN to./TO cover./VB travel./NN +./JJ accommodations./NNS for./IN speaking./NN engagements./NNS anywhere./RB in./IN the./DT Americas./NNPS ,./, and./CC are./VBP very./RB willing./JJ to./TO support./VB speaking./VBG engagements./NNS elsewhere./RB around./IN the./DT world./NN as./RB well./RB ../. 
+-./: ``./`` Live./VBP the./DT Brand./NNP ''./'' Experiences./NNS ../. [./JJ Axiom./NNP Zen./NNP Canada./NNP ]./NNP Several./NNP times./NNS per./IN week./NN ,./, the./DT team./NN engages./VBZ in./IN fun./NN and./CC exciting./NN products./NNS &./CC experiences./NNS sponsored./VBN by./IN the./DT company./NN ../. Everyone./NN has./VBZ the./DT opportunity./NN to./TO submit./VB ideas./NNS ../. We./PRP believe./VBP time./NN outside./IN of./IN the./DT office./NN helps./VBZ us./PRP think./VB outside./IN the./DT box./NN ../. 
+-./: ``./`` Live./VBP the./DT Brand./NNP ''./'' Products./NNPS ../. We./PRP also./RB believe./VBP that./IN using./VBG great./JJ products./NNS helps./VBZ us./PRP build./VB them./PRP better./JJR ../. Every./DT team./NN member./NN receives./VBZ a./DT generous./JJ equipment./NN budget./NN to./TO try./VB new./JJ gadgets./NNS ,./, tools./NNS ,./, platforms./NNS ,./, and./CC products./NNS ../. 
+-./: Maternity./NN /./NNP Paternity./NNP Leave./NNP ../. Flexible./JJ leave./VBP in./IN addition./NN to./TO existing./VBG leave./JJ allowance./NN in./IN accordance./NN with./IN state./NN and./CC federal./JJ laws./NNS ../. 
+-./: Commuter./NN Reimbursement./NNP ../. We./PRP cover./VBP public./JJ transport./NN to./TO work./VB and./CC back./RB ../. If./IN you./PRP bike./VBP to./TO work./VB instead./RB ,./, we./PRP set./VBD aside./RB $./$ 1000/year./CD for./IN bike./NN maintenance./NN ../. 
+-./: Top-Line./NN Equipment./NNP ../. Apple./NNP laptop./NN ,./, large./JJ 2nd./CD monitor./NN ,./, personal./JJ gadget./NN budget./NN ,./, company./NN smartphone./NN of./IN your./PRP$ choice./NN in./IN addition./NN to./TO fully./RB paid./VBN voice./NN and./CC data./NN plan./NN ../. Models./NNP dependent./JJ upon./IN needs./NNS and./CC department./NN function./NN ../. 

@@ -1,0 +1,43 @@
+NOTE./NN FROM./NNP CECA./NNP RE./NNP :./: EMPLOYMENT./NN BASED./NNP IN./NNP THE./NNP USA./NNP 
+
+This./DT work./NN opportunity./NN will./MD be./VB based./VBN in./IN the./DT USA./NNP ;./: therefore./RB all./DT applicants./NNS must./MD determine./VB whether./IN they./PRP are./VBP eligible./JJ to./TO work./VB in./IN the./DT USA./NNP ../. To./TO assess./VB your./PRP$ eligibility./NN please./NN go./VB to./TO https./VB :./: //uwaterloo.ca/co-operative-education/working-abroad/finding-international-job-opportunities/are-you-eligible-work-abroad./JJ and./CC read./VB the./DT information./NN listed./VBN in./IN its./PRP$ entirety./NN before./IN you./PRP apply./VBP for./IN this./DT job./NN ../. 
+
+For./IN specific./JJ information./NN on./IN the./DT USA./NNP visa./NN process./NN that./WDT affects./VBZ co-op./JJ employment./NN ,./, please./VB refer./VB to./TO http./VB :./: //uwaterloo.ca/co-operative-education/working-abroad/work-permits-international-co-op-work-terms/usa-work-permitj-1-visa./JJ 
+_________________________________________________./NN 
+
+FiveStars./NNS is./VBZ the./DT fastest./JJS growing./VBG company./NN in./IN customer./NN loyalty./NN and./CC marketing./NN automation./NN for./IN local./JJ businesses./NNS ../. Launched./VBN out./IN of./IN Y-Combinator./NN in./IN 2011./CD to./TO democratize./VB Fortune./NNP 500-level./JJ loyalty./NN technology./NN ,./, we./PRP now./RB drive./VBP two./CD million./CD customer./NN visits./NNS per./IN month./NN across./IN our./PRP$ network./NN of./IN over./IN nine./CD thousand./NN businesses./NNS and./CC have./VBP raised./VBN a./DT total./NN of./IN $./$ 45./CD million./CD in./IN funding./VBG from./IN top-tier./JJ investors./NNS like./IN Menlo./NNP Ventures./NNP ,./, Lightspeed./NNP Venture./NNP Partners./NNP ,./, and./CC DCM./NNP ../. 
+
+As./IN an./DT engineering./NN intern./NN ,./, you./PRP 'll./MD be./VB exposed./VBN to./TO a./DT broad./JJ set./NN of./IN technologies./NNS and./CC paired./VBN with./IN mentors./NNS who./WP are./VBP experts./NNS in./IN all./DT parts./NNS of./IN our./PRP$ stack./NN ../. We./PRP 'll./MD help./VB you./PRP develop./VB strong./JJ coding./NN practices./NNS ,./, show./VBP you./PRP best-in-class./JJ developer./NN tools./NNS ,./, give./VB you./PRP experience./VB architecting./VBG large./JJ scalable./JJ systems./NNS ,./, and./CC teach./VB you./PRP the./DT latest./JJS infrastructure./NN technologies./NNS needed./VBN to./TO support./VB a./DT company./NN that./WDT has./VBZ 2./CD native./JJ mobile./JJ apps./NN ,./, a./DT hybrid./JJ tablet./NN platform./NN ,./, a./DT full./JJ web./NN and./CC API./NNP stack./NN ,./, and./CC a./DT real-time./JJ WebSocket./NNP stack./NN ../. 
+
+Why./WRB Work./NN at./IN FiveStars./NNP ?./. 
+-./: You./PRP 're./VBP ready./JJ to./TO write./VB and./CC ship./VB code./NN that./WDT will./MD be./VB used./VBN by./IN thousands./NNS of./IN merchants./NNS and./CC millions./NNS of./IN consumers./NNS before./IN your./PRP$ internship./NN ends./VBZ ../. 
+-./: You./PRP want./VBP to./TO play./VB an./DT integral./JJ role./NN in./IN how./WRB new./JJ mobile./JJ technologies./NNS like./IN Bluetooth./NNP low./JJ energy./NN (./( BLE./NNP )./) will./MD be./VB used./VBN in./IN local./JJ commerce./NN ,./, and./CC showcase./VB it./PRP in./IN our./PRP$ native./JJ Android./NNP and./CC iOS./VB apps./NN 
+-./: You./PRP 'd./MD love./VB to./TO see./VB how./WRB we./PRP built./VBD a./DT Python./NNP platform./NN that./WDT currently./RB supports./VBZ over./IN 300./CD different./JJ brands./NNS of./IN restaurant./NN and./CC retail./JJ systems./NNS ,./, and./CC is./VBZ ported./VBN to./TO a./DT hybrid./JJ mobile./JJ app./NN for./IN merchants./NNS that./WDT runs./VBZ on./IN iOS./NN and./CC Android./NNP 
+-./: You./PRP 're./VBP ready./JJ to./TO contribute./VB to./TO the./DT full./JJ web./NN stack./NN we./PRP 've./VBP built./VBN which./WDT serves./VBZ detailed./JJ analytics./NNS to./TO merchants./NNS ,./, an./DT end./NN consumer./NN dashboard./NN ,./, and./CC two./CD full./JJ service./NN APIs./NNP ../. 
+-./: You./PRP 're./VBP more./RBR interested./JJ in./IN working./VBG on./IN a./DT cross-functional./JJ team./NN that./WDT is./VBZ responsible./JJ for./IN shipping./VBG a./DT product./NN rather./RB than./IN working./VBG on./IN a./DT siloed./NN engineering./NN team./NN ../. 
+-./: You./PRP 're./VBP ready./JJ to./TO learn./VB a./DT ton./NN because./IN growing./VBG knowledgeable./JJ engineers./NNS is./VBZ a./DT huge./JJ priority./NN for./IN us./PRP ,./, and./CC you./PRP 'll./MD have./VB choices./NNS and./CC ample./JJ opportunities./NNS to./TO work./VB across./IN our./PRP$ technology./NN stacks./NNS on./IN your./PRP$ product./NN team./NN ../. 
+
+Responsibilities./NNS :./: 
+-./: Work./NN across./IN the./DT entire./JJ web./NN and./CC desktop./NN stack./NN ,./, from./IN front-end./JJ to./TO back-end./VB to./TO database./VB to./TO OS./VB 
+-./: Learn./NN quickly./RB and./CC adapt./VB to./TO the./DT rapidly./RB changing./VBG web./NN environment./NN 
+-./: Get./NN exposure./NN to./TO 2-3./JJ parts./NNS of./IN our./PRP$ infrastructure./NN 
+-./: Love./NN to./TO pair./VB program./NN and./CC are./VBP ready./JJ to./TO learn./VB all./DT about./IN agile./JJ code./NN reviews./NNS and./CC test./NN architecture./NN 
+-./: Invest./NN in./IN FiveStars./NNP and./CC its./PRP$ culture./NN -./: our./PRP$ values./NNS are./VBP something./NN we./PRP live./VBP and./CC breathe./JJ every./DT day./NN 
+
+Requirements./NNS :./: 
+-./: Currently./RB pursuing./VBG Bachelor./NNP 's./POS ,./, Master./NNP 's./POS ,./, or./CC Ph.D./NNP degree./VBP in./IN any./DT of./IN the./DT following./NN :./: CS./NNP ,./, EE./NNP ,./, Physics./NNP ,./, Math./NNP 
+-./: Strong./NN team./NN player./NN -./: we./PRP work./VBP in./IN small./JJ product./NN teams./NNS that./WDT work./VBP very./RB closely./RB together./RB and./CC are./VBP constantly./RB collaborating./VBG in./IN order./NN to./TO move./VB as./RB fast./RB as./IN possible./JJ 
+-./: Excel./NN at./IN structured./VBN and./CC quantitative./JJ thinking./NN and./CC problem./NN solving./NN 
+-./: Love./NN to./TO crank./VB out./RP code./NN and./CC hack./NN on./IN problems./NNS in./IN your./PRP$ free./JJ time./NN 
+
+Preferred./VBN :./: 
+-./: Completed./VBD a./DT prior./JJ internship./NN at./IN a./DT top./JJ web/software./NN company./NN 
+-./: Experience./NN working./VBG for./IN a./DT startup./NN 
+
+Perks./NNS :./: 
+-./: Ground./NN floor./NN opportunity./NN to./TO join./VB a./DT fast./JJ growing./VBG start./VB up./RP 
+-./: Sharp./NN ,./, motivated./VBD co-workers./NNS in./IN a./DT fun./NN office./NN environment./NN 
+-./: Quarterly./NNP community./NN service./NN projects./NNS 
+-./: Most./JJS meals./NNS catered./VBD 
+-./: Dog-friendly./JJ office./NN 
+-./: Foosball./NN ,./, shuffleboard./NN ,./, ping-pong./JJ ,./, bubble./JJ hockey./NN 

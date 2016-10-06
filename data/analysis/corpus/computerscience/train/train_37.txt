@@ -1,0 +1,53 @@
+Job./NNP Title./NNP :./: Assistant./NN Business./NNP Analyst./NNP 
+
+Job./NNP Code./NNP :./: W2017-4901./JJ 
+
+Join./VB a./DT Team./NN on./IN the./DT Leading./NNP Edge./NNP 
+
+Are./NNP you./PRP looking./VBG for./IN a./DT Co-op./JJ opportunity./NN that./WDT will./MD allow./VB you./PRP to./TO gain./VB practical./JJ experience./NN in./IN a./DT corporation./NN at./IN the./DT heart./NN of./IN the./DT province./NN 's./POS power./NN system./NN ?./. Bringing./VBG together./RB almost./RB 300./CD generators./NNS ,./, traders./NNS ,./, local./JJ distribution./NN companies./NNS ,./, transmitters./NNS and./CC large./JJ volume./NN consumers./NNS ,./, the./DT IESO./NNP oversees./VBZ the./DT reliable./JJ operation./NN of./IN Ontario./NNP 's./POS electricity./NN grid./NN and./CC settles./VBZ the./DT province./NN 's./POS $./$ 14./CD billion./CD wholesale./JJ electricity./NN market./NN ../. Our./PRP$ vision./NN is./VBZ a./DT vibrant./JJ Ontario./NNP economy./NN supported./VBN by./IN a./DT reliable./JJ and./CC competitive./JJ electricity./NN market./NN ../. 
+
+To./TO make./VB this./DT happen./NN ,./, we./PRP are./VBP seeking./VBG forward-thinking./JJ students./NNS like./IN you./PRP ../. Employment./VB with./IN the./DT IESO./NNP offers./VBZ the./DT following./NN :./: 
+
+-./: Competitive./NN wages./NNS 
+-./: The./DT opportunity./NN to./TO work./VB with./IN industry./NN experts./NNS 
+-./: A./NN challenging./NN ,./, fast-paced./JJ team./NN environment./NN 
+-./: Valuable./JJ experience./NN at./IN a./DT widely./RB respected./VBN organization./NN in./IN a./DT dynamic./JJ ,./, high-profile./JJ industry./NN sector./NN 
+
+The./DT IESO./NNP will./MD provide./VB students./NNS with./IN an./DT opportunity./NN to./TO use./VB their./PRP$ knowledge./NN in./IN a./DT climate./NN that./IN fosters./NNS high./JJ standards./NNS of./IN performance./NN ,./, innovation./NN ,./, personal./JJ challenge./NN and./CC growth./NN ../. 
+
+Division/Department./NN :./: Market./NN Settlements./NNS 
+
+You./PRP will./MD be./VB a./DT part./NN of./IN a./DT group./NN responsible./JJ for./IN :./: 
+
+The./DT Market./NNP Settlements./NNP Department./NNP is./VBZ responsible./JJ for./IN customer./NN billing./NN which./WDT includes./VBZ developing./NN and./CC executing./VBG processes./NNS to./TO support./VB billing./NN calculations./NNS for./IN Ontario./NNP 's./POS wholesale./JJ electricity./NN market./NN ../. The./DT IESO./NNP processes./VBZ bills./NNS totaling./VBG approximately./RB a./DT billion./CD dollars./NNS a./DT month./NN ../. 
+
+Your./PRP$ job./NN duties./NNS may./MD include./VB :./: 
+-./: Becoming./NN familiar./JJ with./IN complex./JJ business./NN rules./NNS related./VBN to./TO billing./VBG Ontario./NNP 's./POS wholesale./JJ electricity./NN market./NN ../. 
+-./: Assisting./NN with./IN the./DT development./NN of./IN processes./NNS ,./, tools./NNS and./CC reports./NNS including./VBG but./CC not./RB limited./JJ to./TO requirement./VB definition./NN ,./, programming./NN ,./, testing./VBG and./CC maintenance./NN ../. 
+-./: Performing./VBG adhoc./JJ analysis./NN of./IN wholesale./JJ market./NN settlement./NN data./NNS to./TO support./VB customer./NN inquiries./NNS ,./, new./JJ settlement./NN initiatives./NNS or./CC settlement./NN issues./NNS ../. 
+-./: Documenting./NN processes/procedures./NNS ../. 
+
+This./DT job./NN will./MD provide./VB you./PRP with./IN the./DT following./JJ professional./JJ development./NN :./: 
+-./: Familiarity./NN with./IN Ontario./NNP 's./POS wholesale./JJ electricity./NN market./NN 
+-./: Opportunities./NNS to./TO utilize/develop./VB your./PRP$ Access./NNP or./CC other./JJ database./NN skills./NNS 
+-./: Involvement./NN in./IN any./DT or./CC all./DT aspects./NNS of./IN database/tool./NN development./NN beginning./VBG with./IN user./JJ requirements./NNS definition./NN through./IN design./NN ,./, programming./NN ,./, testing./VBG ,./, implementation./NN and./CC maintenance./NN ../. 
+-./: Written./NN documentation./NN 
+
+Location./NN :./: Mississauga./NNP ,./, Ontario./NNP 
+
+
+Discipline./NNP (./( s./PRP )./) Required./VBN :./: 
+Computer./NNP science./NN ,./, business./NN ,./, mathematics./NNS ,./, economics./NNS ,./, engineering./NN 
+
+The./DT following./JJ knowledge./NN is./VBZ essential./JJ in./IN order./NN to./TO perform./VB the./DT job./NN :./: 
+-./: Experience./NN with./IN Microsoft./NNP office./NN suite./NN 
+-./: Experience./NN with./IN documentation./NN of./IN tool./NN requirements./NNS ,./, testing./VBG ,./, procedures./NNS ,./, etc./FW ../. 
+-./: Experience./NN with./IN databases./NNS and./CC tool./NN development./NN ,./, primarily./RB using./VBG Microsoft./NNP access./NN 
+-./: Some./DT programming./VBG capabilities./NNS in./IN visual./JJ basic./NN 
+
+Level./NN :./: 2+./CD (./( completed./VBN at./IN least./JJS one./CD year./NN of./IN university./NN )./) 
+
+Duration./NN :./: January./NNP -./: April./NNP 2017./CD 
+
+IESO./NNP supports./VBZ the./DT principles./NNS and./CC practices./NNS of./IN diversity./NN ../. 
+For./IN more./JJR information./NN visit./IN our./PRP$ website./NN at./IN www.ieso.ca./NN 

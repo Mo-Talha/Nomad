@@ -1,0 +1,18 @@
+Freckle./NNP IoT./NNP leverages./VBZ next./JJ generation./NN connected./VBD devices./NNS to./TO reveal./VB consumers./NNS './POS path./NN to./TO purchase./VB ../. We./PRP have./VBP cultivated./VBN a./DT diverse./JJ ecosystem./NN of./IN beacon-enabled./JJ Location./NNP Partners./NNPS and./CC application./NN publishers./NNS ,./, which./WDT allows./VBZ us./PRP to./TO reach./VB consumers./NNS in./IN -./: and./CC out./IN -./: of./IN the./DT retail./JJ environment./NN ../. The./DT symbiotic./JJ relationship./NN between./IN our./PRP$ Open./NNP Beacon./NNP Network./NNP and./CC our./PRP$ AdTech./JJ Partners./NNPS enables./VBZ Freckle./NNP to./TO attribute./VB ad./NN impressions./NNS to./TO store./VB visits./NNS ,./, retarget./VB advertising./NN to./TO users./NNS after./IN store./NN visits./NNS and./CC provide./VB consumer./NN insights./NNS based./VBN on./IN real./JJ world./NN behaviour./NN ../. 
+
+Responsibilities./NNS :./: 
+-./: Create./NN and./CC execute./VB test./NN plans./NNS ,./, including./VBG new./JJ feature./NN testing./NN and./CC risk./NN based./VBN regression./NN ../. 
+-./: Execute./NN manual./JJ black./JJ box./NN ,./, exploratory./NN and./CC regression./NN testing./NN ../. 
+-./: Implement./NN and/or./IN execute./NN automated./JJ tests./NNS ../. 
+-./: Log./NN defects./NNS identified./VBN during./IN testing./VBG and./CC escalate./JJ issues./NNS quickly./RB and./CC effectively./RB ../. 
+-./: Work./NN closely./RB with./IN developers./NNS to./TO investigate./VB ,./, troubleshoot./NN ,./, and./CC verify./VB defect./JJ fixes./NNS ../. 
+-./: Contribute./NN to./TO process./VB refinement./NN ,./, with./IN an./DT emphasis./NN on./IN improving./VBG overall./JJ test./NN coverage./NN and./CC efficiency./NN ../. 
+
+Desired./NNP Skills./NNP &./CC Experience./NN :./: 
+-./: Completing./VBG a./DT university./NN degree./NN in./IN Computer./NNP Science./NNP or./CC a./DT related./JJ field./NN ../. 
+-./: Excellent./NN communication./NN skills./NNS ,./, high./JJ attention./NN to./TO detail./VB and./CC extremely./RB well./RB organized./VBN ../. 
+-./: Ability./NN to./TO take./VB initiative./NN and./CC learn./VB new./JJ products./NNS quickly./RB ../. 
+-./: Highly./NN motivated./JJ and./CC pro-active./JJ -./: always./RB looking./VBG for./IN more./JJR work./NN ../. 
+-./: Accomplish./NN QA./NNP tasks./NNS with./IN minimal./JJ supervision./NN ../. 
+-./: Ability./NN to./TO setup./VB and./CC install./VB servers./NNS ../. 
+-./: Efficient./NN troubleshooting./VBG skills./NNS ../. 

@@ -1,0 +1,74 @@
+Role./JJ Description./NN :./: 
+
+
+We./PRP are./VBP seeking./VBG curious./JJ and./CC qualified./JJ students./NNS to./TO join./VB our./PRP$ d./NN {./( }./) Innovation./NNP Lab./NNP (./( pronounced./VBN ``./`` dee./JJ space./NN ''./'' )./) ,./, operated./VBN by./IN the./DT technology./NN consulting./VBG group./NN ../. d./VB {./( }./) is./VBZ a./DT dedicated./JJ software./NN prototyping./VBG lab./NN located./VBN within./IN the./DT Communitech./NNP Hub./NNP you./PRP will./MD be./VB working./VBG alongside./IN some./DT of./IN the./DT brightest./JJS startup./NN people./NNS within./IN the./DT Kitchener./NNP /./NNP Waterloo./NNP region./NN ../. You./PRP will./MD be./VB part./NN of./IN a./DT multi-disciplinary./JJ ,./, high./JJ performance./NN team./NN that./WDT designs./VBZ and./CC prototypes./NNS innovative./JJ solutions./NNS that./WDT solve./VBP complex./JJ business./NN problems./NNS and./CC helps./VBZ launch./JJ new./JJ technology-based./JJ business./NN opportunities./NNS ../. 
+
+
+You./PRP will./MD be./VB part./NN of./IN a./DT collaborative./JJ team./NN that./WDT will./MD be./VB focused./VBN on./IN building./NN and./CC developing./VBG tangible./JJ ,./, innovative./JJ solutions./NNS that./WDT are./VBP visionary./JJ as./RB well./RB as./IN pragmatic./JJ these./DT solutions./NNS are./VBP software./NN based./VBN and./CC leverage./VB the./DT technologies./NNS and./CC concepts./NNS in./IN emerging./VBG spaces./NNS such./JJ as./IN wearables./NNS ,./, machine./NN learning./NN ,./, Internet./NNP of./IN things./NNS ,./, and./CC blockchain./NN ../. 
+
+
+
+As./IN a./DT Product./NNP Prototyper./NNP ,./, you./PRP will./MD work./VB with./IN a./DT small./JJ team./NN of./IN entrepreneurial-minded./JJ developers./NNS ,./, co-op./JJ students./NNS ,./, and./CC interaction./NN designers./NNS in./IN a./DT unique./JJ startup./NN environment./NN ../. You./PRP will./MD need./VB to./TO be./VB curious./JJ and./CC a./DT nimble./JJ explorer./NN of./IN new./JJ ideas./NNS ../. You./PRP will./MD be./VB asked./VBN to./TO wear./VB multiple./JJ hats./NNS ,./, juggle./NN multiple./NN responsibilities./NNS ,./, and./CC focus./VB your./PRP$ technical./JJ skills./NNS to./TO deliver./VB engaging./NN and./CC innovative./JJ prototypes./NNS for./IN Deloitte./NNP and./CC our./PRP$ customers./NNS ../. Leveraging./VBG state-of-the-art./JJ technologies./NNS ,./, you./PRP will./MD work./VB on./IN a./DT variety./NN of./IN projects./NNS within./IN small./JJ agile/scrum./JJ teams./NNS with./IN a./DT focus./NN on./IN prototypes./NNS ,./, design./NN ,./, MVP./NNP implementation./NN ,./, and./CC market./NN validation./NN ../. You./PRP will./MD be./VB working./VBG with./IN the./DT latest./JJS in./IN Internet./NNP of./IN Things./NNP technology./NN ,./, mobile./NN and./CC Web./NNP applications./NNS ,./, NoSQL./NNP databases./VBZ ,./, analytics./NNS ,./, wearables./NNS and./CC machine./NN learning./NN to./TO create./VB compelling./JJ prototype./NN products./NNS and./CC proof./NN of./IN concept./NN innovations./NNS ../. 
+
+
+To./TO keep./VB your./PRP$ career./NN development./NN on./IN track./NN ,./, we./PRP provide./VBP you./PRP with./IN mentoring./VBG and./CC counseling./VBG throughout./IN your./PRP$ tenure./NN ,./, and./CC an./DT ongoing./JJ evaluation./NN process./NN to./TO help./VB steer./VB your./PRP$ continued./JJ professional./JJ growth./NN and./CC advancement./NN ../. 
+
+
+Qualifications./NNS :./: 
+
+
+We./PRP are./VBP seeking./VBG candidates./NNS who./WP have./VBP demonstrated./VBN exceptional./JJ performance./NN in./IN these./DT and./CC other./JJ majors./NNS :./: 
+
+Computer./NNP Science./NN 
+Engineering./VBG 
+Math./NNP /./CD Math-Business./NN 
+
+
+We./PRP encourage./VBP candidates./NNS with./IN a./DT strong./JJ software./NN development./NN background./NN to./TO apply./VB ../. To./TO qualify./VB for./IN our./PRP$ Software./NNP Product./NNP Prototyper./NNP position./NN ,./, you./PRP should./MD possess./VB a./DT combination./NN of./IN the./DT following./JJ skillsets./NNS :./: 
+
+
+General./NNP 
+
+Strong./JJ interest./NN in./IN developing./VBG and./CC prototyping./VBG new./JJ digital./JJ products./NNS 
+Demonstrated./VBN interest./NN in./IN technology./NN ,./, software./NN ,./, and/or./JJ user./JJ experience./NN design./NN 
+Open-minded./JJ and./CC self-driven./JJ 
+Familiar./NNP with./IN agile/scrum./NN and./CC enjoys./VBZ working./VBG in./IN a./DT dynamic./JJ environment./NN 
+Ability./NN to./TO be./VB a./DT team-player./JJ and./CC action./NN oriented./VBD 
+The./DT interpersonal./JJ and./CC communication./NN skills./NNS required./VBN to./TO work./VB collaboratively./RB 
+
+Technical./JJ 
+
+iOS./NN (./( Objective-C./NNP /./NNP Swift./NNP )./) ,./, Android./NNP (./( Java./NNP )./) ,./, or./CC equivalent./JJ object./NN oriented./VBN language./NN 
+HTML5./NNP ,./, CSS./NNP ,./, jQuery./NN ,./, JavaScript./NNP 
+Working./VBG understanding./NN of./IN algorithms./NN 
+Worked./VBN with./IN different./JJ Database./NNP Technologies./NNPS (./( e.g./NN ../. SQL./NNP &./CC NoSQL./NNP )./) 
+Experience./NN with./IN a./DT Mobile./JJ Platform./NN or./CC Web./NNP Application./NNP Framework./NNP 
+Experience./NN with./IN Cloud./NNP Environments./NNS 
+Posting./VBG Information./NN :./: 
+
+This./DT posting./NN is./VBZ for./IN a./DT Software./NNP Product./NNP Prototyper./NNP Co-op./NNP position./NN typically./RB starting./VBG in./IN January./NNP and./CC ending./VBG in./IN April./NNP 
+This./DT posting./NN is./VBZ for./IN a./DT 12./CD to./TO 16./CD week./NN engagement./NN ,./, and./CC may./MD be./VB longer./JJR depending./VBG on./IN location./NN 
+The./DT role./NN is./VBZ based./VBN out./IN of./IN the./DT d./NN {./( }./) prototyping./VBG lab./NN in./IN the./DT Communitech./NNP Hub./NNP ,./, Kitchener./NNP ,./, ON./NNP 
+Applicants./NNS must./MD be./VB legally./RB able./JJ to./TO work./VB in./IN Canada./NNP 
+
+Please./NNP submit./VB your./PRP$ resume./NN ,./, cover./NN letter./NN and./CC unofficial./JJ transcript./NN 
+
+
+Get./VB your./PRP$ career./NN off./IN to./TO a./DT great./JJ start./NN ../. What./WP impact./NN will./MD you./PRP make./VB ?./. 
+
+We./PRP 're./VBP always./RB looking./VBG for./IN people./NNS with./IN the./DT relentless./NN energy./NN to./TO drive./VB and./CC push./VB themselves./PRP further./RB ../. To./TO find./VB new./JJ avenues./NNS and./CC unique./JJ ways./NNS to./TO reach./VB our./PRP$ shared./JJ goals./NNS ../. At./IN Deloitte./NNP ,./, we./PRP know./VBP that./IN being./VBG the./DT undisputed./JJ leader./NN means./VBZ empowering./VBG our./PRP$ people./NNS to./TO be./VB the./DT very./RB best./JJS they./PRP can./MD be./VB so./RB they./PRP can./MD make./VB an./DT impact./NN that./IN matters./NNS ../. 
+
+
+We./PRP offer./VBP a./DT truly./RB differentiated./JJ Talent./NNP Experience./NNP that./IN empowers./VBZ our./PRP$ people./NNS with./IN unlimited./JJ opportunities./NNS to./TO do./VB meaningful./JJ work./NN and./CC to./TO grow./VB ,./, learn./VB ,./, and./CC lead./NN at./IN every./DT point./NN in./IN their./PRP$ career./NN ../. Deloitte./NNP 's./POS workplace./NN of./IN the./DT future./NN is./VBZ a./DT unique./JJ workspace./NN that./IN strengthens./VBZ connections./NNS and./CC inspires./NNS innovative./JJ ways./NNS of./IN working./VBG providing./VBG our./PRP$ people./NNS with./IN the./DT tools./NNS to./TO make./VB an./DT impact./NN that./IN matters./NNS ../. 
+
+
+Lead./JJ yourself./PRP ../. Lead./VB a./DT team./NN ../. Lead./VB the./DT firm./NN ../. It./PRP 's./VBZ all./DT possible./JJ at./IN Deloitte./NNP ../. 
+
+Deloitte./NNP is./VBZ one./CD of./IN Canada./NNP 's./POS leading./VBG professional./JJ services./NNS firms./NNS ,./, providing./VBG audit./NN ,./, tax./NN ,./, consulting./NN and./CC financial./JJ advisory./NN services./NNS across./IN Canada./NNP ../. At./IN Deloitte./NNP ,./, we./PRP combine./VBP industry./NN insight./NN with./IN a./DT deep./JJ understanding./NN of./IN today./NN 's./POS local./JJ and./CC global./JJ business./NN challenges./NNS to./TO give./VB our./PRP$ clients./NNS the./DT intelligent./NN ,./, practical./JJ and./CC principled./JJ solutions./NNS they./PRP need./VBP to./TO resolve./VB both./DT today./NN 's./POS and./CC tomorrow./NN 's./POS challenges./NNS ../. 
+
+
+Let./VB Deloitte./NNP show./VB you./PRP how./WRB to./TO push./VB your./PRP$ career./NN to./TO the./DT next./JJ level./NN ../. And./CC let./VB your./PRP$ story./NN unfold./NN ../. 
+
+Deloitte./NNP is./VBZ an./DT inclusive./JJ employer./NN dedicated./VBN to./TO building./VBG a./DT diverse./NN workforce./NN ../. We./PRP encourage./VBP applications./NNS from./IN all./DT qualified./VBN candidates./NNS and./CC will./MD accommodate./VB applicants./NNS './POS needs./NNS under./IN the./DT respective./JJ provincial./JJ human./JJ rights./NNS codes./NNS throughout./IN all./DT stages./NNS of./IN the./DT recruitment./NN and./CC selection./NN process./NN ../. Please./NNP advise./VB the./DT Recruiter./NNP to./TO ensure./VB your./PRP$ accessibility./NN needs./NNS are./VBP accommodated./VBN throughout./IN this./DT process./NN ../. Information./NNP received./VBD relating./VBG to./TO accommodation./VB will./MD be./VB addressed./VBN confidentially./RB ../. 
+
+We./PRP thank./VBP all./DT applicants./NNS in./IN advance./NN for./IN their./PRP$ interest./NN ;./: however./RB ,./, only./RB those./DT candidates./NNS selected./VBN for./IN an./DT interview./NN will./MD be./VB contacted./VBN ../. 

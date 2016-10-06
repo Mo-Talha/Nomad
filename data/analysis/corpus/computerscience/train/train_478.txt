@@ -1,0 +1,34 @@
+The./DT Jr../NNP Programmer./NNP Analyst./NNP will./MD be./VB working./VBG under./IN the./DT direction./NN of./IN the./DT Lead./NNP Developer./NNP to./TO carry./VB out./RP various./JJ analysis/design/development/problem./IN solving./VBG tasks./NNS and./CC projects./NNS ,./, in./IN a./DT C./NNP #./# ,./, .NET./NNP ,./, SQL./NNP environment./NN for./IN Windows./NNP and./CC the./DT Web./NNP ../. 
+
+What./WP we./PRP can./MD offer./VB you./PRP :./: 
+-./: Competitive./NN salary./NN ,./, benefits./NNS package./NN ,./, matching./VBG retirement./NN plan./NN 
+-./: A./NN friendly./RB ,./, collaborative./JJ work./NN environment./NN 
+-./: Opportunities./NNS for./IN professional./JJ development./NN &./CC ongoing./VBG learning./NN 
+-./: A./DT chance./NN to./TO be./VB part./NN of./IN a./DT growing./VBG organization./NN 
+
+Typical./JJ Duties./NNS :./: 
+-./: Taking./VBG direction./NN ,./, guidance./NN and./CC tasks./NNS from./IN Senior./NNP Developers./NNP on./IN a./DT day-to-day./JJ basis./NN 
+-./: Assist./NN Development./NNP Team./NNP in./IN working./VBG with./IN pre-existing./JJ solutions./NNS and./CC developing./VBG new./JJ features./NNS or./CC solutions./NNS 
+-./: Assist./NN development./NN team./NN in./IN technological./JJ research./NN ,./, development./NN and./CC proof./NN of./IN concept./NN ../. 
+-./: Written./NN and./CC verbal./JJ analysis./NN while./IN evaluating./VBG a./DT problem./NN ,./, new./JJ feature./NN or./CC when./WRB completing./VBG development./NN work./NN 
+-./: Perform./NN other./JJ related./JJ duties./NNS and./CC projects./NNS as./IN required./JJ 
+
+We./PRP are./VBP searching./VBG for./IN someone./NN who./WP is/has./VBZ :./: 
+-./: Excellent./NN communication./NN skills./NNS (./( both./DT verbal./FW and./CC written./VBN )./) 
+-./: Ability./NN to./TO work./VB within./IN a./DT team./NN environment./NN to./TO collaboratively./RB develop./VB new./JJ features./NNS and./CC solutions./NNS 
+-./: ASP.NET./NN (./( C./NNP #./# ,./, VB./NNP )./) ,./, jQuery./NN ,./, JavaScript./NNP ,./, HTML./NNP ,./, CSS./NNP 
+-./: Microsoft./NNP SQL./NNP Server./NNP (./( MSSQL./NNP )./) and./CC SQL./NNP Server./NNP Reporting./NNP Services./NNPS 
+-./: Visual./JJ Studio./NNP .NET./NNP (./( C./NNP #./# ,./, ASP.NET./NNP )./) 
+-./: XML./NN Web./NNP Services./NNPS and./CC Server./NNP Components./NNP with./IN Microsoft./NNP Visual./NNP C./NNP #./# and./CC the./DT Microsoft./NNP .Net./NNP Framework./NNP 
+-./: Experience./NN with./IN any./DT of./IN the./DT following./VBG an./DT asset./NN :./: 
+-./: GIT./NNP Source./NNP Control./NNP ,./, Visual./NNP Studio./NNP 2013./CD ,./, SQL./NNP Reporting./NNP Server./NNP ,./, Windows./NNP 7./CD ,./, PDF./NNP Creation./NNP ,./, Windows./NNP 
+-./: Service./NNP Development./NNP ,./, Graphical./NNP File./NNP Manipulation./NNP 
+-./: Ability./NN to./TO self-manage./NN to./TO work./VB independently./RB and./CC to./TO work./VB within./IN a./DT team./NN environment./NN 
+-./: Ability./NN to./TO work./VB with./IN other./JJ staff./NN members./NNS to./TO perform./VB quality./NN testing./VBG and./CC analysis./NN 
+-./: Strong./JJ Analytical./JJ abilities./NNS to./TO evaluate./VB existing./VBG or./CC new./JJ features./NNS and./CC provide./VB detailed./JJ technical./JJ feedback./NN that./IN a./DT non-technical./JJ user./NN can./MD understand./VB 
+
+If./IN this./DT describes./VBZ you./PRP ,./, we./PRP 'd./MD love./VB to./TO hear./VB from./IN you./PRP !./. Please./VB visit./VB our./PRP$ website./NN at./IN www.buckland.com./NN to./TO understand./VB Buckland./NNP as./IN a./DT company./NN and./CC apply./VB through./IN our./PRP$ career./NN page./NN today./NN !./. 
+
+Buckland./NNP is./VBZ an./DT equal./JJ opportunity./NN employer./NN committed./VBD to./TO diversity./NN and./CC inclusion./NN ../. We./PRP are./VBP pleased./JJ to./TO consider./VB all./DT qualified./JJ applicants./NNS without./IN regard./NN to./TO race./NN ,./, color./NN ,./, religion./NN ,./, sex./NN ,./, national./JJ origin./NN ,./, age./NN ,./, disability./NN ,./, or./CC any./DT other./JJ legally./RB protected./VBN factors./NNS ../. 
+
+Upon./IN request./NN ,./, Buckland./NNP will./MD make./VB accommodations./NNS available./JJ to./TO applicants./NNS throughout./IN the./DT recruitment./NN and./CC hiring./NN process./NN ../. 

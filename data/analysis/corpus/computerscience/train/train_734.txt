@@ -1,0 +1,44 @@
+About./IN Us./NNP 
+nanoPay./JJ Inc../NNP is./VBZ a./DT payments./NNS and./CC loyalty./NN platform./NN that./WDT provides./VBZ a./DT consolidated./JJ set./NN of./IN APIs./NNP for./IN online./NN and./CC retail./JJ merchants./NNS to./TO run./VB their./PRP$ own./JJ loyalty./NN programs./NNS and./CC process./NN payments./NNS ../. Our./PRP$ payments./NNS platform./VB provides./VBZ an./DT innovative./JJ and./CC modern./JJ approach./NN that./WDT reduces./VBZ the./DT massive./JJ financial./JJ overhead./NN of./IN having./VBG to./TO deal./VB with./IN fraud./NN and./CC the./DT several./JJ layers./NNS of./IN fees./NNS associated./VBN with./IN processing./VBG credit./NN cards./NNS ../. The./DT nanoPay./JJ retail./JJ experience./NN revolves./NNS around./IN iOS./NN and./CC Android./NNP applications./NNS for./IN handling./VBG checkouts./NNS and./CC a./DT web./JJ application./NN for./IN merchants./NNS to./TO create./VB and./CC manage./VB the./DT settings./NNS for./IN their./PRP$ loyalty./NN program./NN ../. 
+
+About./IN You./PRP 
+If./IN you./PRP are./VBP the./DT sort./NN of./IN person./NN with./IN an./DT appetite./NN for./IN delving./VBG into./IN a./DT myriad./NN of./IN challenges./NNS including./VBG encryption/security./NN ,./, the./DT world./NN of./IN digital./JJ cash./NN ,./, web./JJ service./NN integration./NN ,./, working./VBG with./IN AWS./NNP ,./, NoSQL./NNP databases./VBZ ,./, Angular./NNP and./CC Node.js./NNP ,./, NFC./NNP ,./, and./CC more./JJR ,./, you./PRP will./MD love./VB working./VBG for./IN nanoPay./NN here./RB in./IN our./PRP$ Toronto./NNP offices./NNS ,./, located./VBN in./IN the./DT heart./NN of./IN Liberty./NNP Village./NNP ../. We./PRP feel./VBP that./IN with./IN the./DT right./JJ fearless./NN attitude./NN ,./, you./PRP will./MD be./VB in./IN the./DT center./NN of./IN some./DT of./IN the./DT most./RBS exciting./JJ developments./NNS in./IN the./DT world./NN of./IN technology./NN in./IN a./DT space./NN just./RB begging./VBG for./IN major./JJ disruption./NN ../. 
+
+Responsibilities./NNS :./: 
+-./: Write./JJ test./NN cases./NNS and./CC automated./JJ test./NN scripts./NNS for./IN our./PRP$ mobile./JJ apps./NN and./CC web./JJ portal./NN and./CC also./RB perform./VB manual./JJ testing./VBG wherever./RB necessary./JJ ../. 
+-./: Maintain./NN previously./RB written./VBN test./NN scripts./NNS and./CC scenarios./NNS 
+-./: Generate./NN clear./JJ and./CC comprehensible./JJ bug./NN reports./NNS using./VBG JIRA./NNP 
+-./: Perform./NN functional./JJ ,./, regression./NN and./CC acceptance./NN testing./NN of./IN the./DT mobile./JJ and./CC web./JJ apps./NN ../. 
+-./: Help./NN us./PRP improve./VB our./PRP$ QA./NNP methodologies./NNS 
+
+Requirements./NNS :./: 
+-./: Knowledge./NN of./IN any./DT of./IN these./DT scripting./VBG languages./NNS e.g./RB ../. Ruby./NNP ,./, python./NN or./CC javascript./NN ../. 
+-./: Experience./NN with./IN automated./JJ and./CC manual./JJ testing./NN of./IN mobile./NN and./CC web./NN apps./NN 
+-./: Outstanding./VBG oral./JJ and./CC written./VBN communication./NN skills./NNS 
+-./: Experience./NN with./IN any./DT automation./NN tool./NN for./IN mobile./JJ apps./NN (./( Calabash./NNP preferred./VBN )./) ,./, xcode./NNP and./CC android./JJ studio./NN ../. 
+-./: Version./NN control./NN via./IN Git/Github./NNP ,./, Mercurial./NNP ,./, etc./NN ../. 
+-./: An./DT appetite./NN to./TO be./VB challenged./VBN with./IN new./JJ concepts./NNS 
+
+Nice./NNP to./TO have./VB :./: 
+-./: Familiar./NN with./IN Calabash./NNP automation./NN tool./NN for./IN mobile./JJ testing./NN and./CC any./DT tool./NN for./IN web./JJ app./JJ testing./NN ../. 
+-./: Familiar./NN testing./VBG restful./JJ APIs./NNP and./CC web./NN services./NNS 
+-./: Familiarity./NN with./IN swift./NN and./CC Java./NNP ../. 
+
+Why./WRB work./NN at./IN nanoPay./NNS ?./. 
+-./: Build./VB a./DT product./NN that./WDT will./MD change./VB the./DT world./NN of./IN payments./NNS and./CC disrupt./VB an./DT entire./JJ industry./NN 
+-./: Mentorship./NN from./IN a./DT diverse./JJ set./NN of./IN incredibly./RB smart./JJ engineers./NNS 
+-./: Opportunity./NN to./TO work./VB with./IN an./DT elite./JJ executive./NN team./NN that./WDT founded./VBD numerous./JJ successful./JJ startups./NNS 
+-./: Casual./NN ,./, collaborative./JJ ,./, fun./JJ working./VBG environment./NN 
+-./: Challenging./NN work./NN that./WDT is./VBZ guaranteed./VBN to./TO take./VB more./JJR than./IN a./DT few./JJ days./NNS to./TO fully./RB grasp./VB 
+-./: Experience./NN working./VBG in./IN a./DT company./NN that./WDT fully./RB embraces./VBZ concepts./NNS of./IN agile./NN development./NN 
+-./: Write./NN code./NN on./IN your./PRP$ first./JJ day./NN 
+-./: Ample./JJ leadership./NN opportunities./NNS 
+
+Perks./NNS 
+-./: Endless./NN kegs./NN of./IN beer./NN (./( currently./RB Blanche./NNP de./NNP Chambly./NNP )./) 
+-./: Fun./NN company./NN social./JJ events./NNS ,./, including./VBG poker./NN nights./NNS ,./, BBQs./NNP ,./, hitting./VBG up./RP the./DT bars./NNS ,./, etc./FW ../. 
+-./: Lots./NNS of./IN snacks./NNS and./CC fruit./NN to./TO keep./VB you./PRP fuelled./VBN throughout./IN the./DT day./NN 
+-./: Ping./NN pong./NN table./NN 
+-./: Xbox./NN One./CD 
+-./: Macbook./NN Pro./NNP with./IN 4K./CD display./NN 
+-./: A./DT highly./RB accessible./JJ location./NN in./IN a./DT thriving./NN and./CC dynamic./JJ community./NN 

@@ -1,0 +1,66 @@
+NOTE./NN :./: All./DT applicants./NNS must./MD provide./VB a./DT portfolio/website./NN to./TO be./VB considered./VBN ../. Interested./JJ applicants./NNS can./MD email./VB their./PRP$ resume./NN to./TO :./: sarah.mcmullin./NN @./NNP sap.com./NN and./CC madhulika.saxena./NN @./NNP sap.com./NN 
+
+
+About./IN SAP./NNP 
+Do./VB you./PRP demand./VB the./DT best./JJS from./IN your./PRP$ professional./JJ career./NN ?./. Are./NNP you./PRP inspired./VBN by./IN excellence./NN ?./. At./IN SAP./NNP ,./, you./PRP will./MD have./VB the./DT power./NN to./TO make./VB a./DT real./JJ impact./NN ../. As./IN the./DT world./NN 's./POS largest./JJS business./NN software./NN company./NN ,./, SAP./NNP helps./VBZ companies./NNS and./CC organizations./NNS in./IN more./JJR than./IN 25./CD industries./NNS to./TO run./VB better./RB ../. 
+
+OUR./NNP VISION./NNP -./: Help./VBP the./DT World./NNP Run./NNP Better./NNP 
+OUR./NNP MISSION./NNP -./: Help./NN Every./NNP Customer./NNP Become./NNP a./DT Best-Run./JJ Business./NN 
+OUR./JJ CULTURE./NNP -./: Our./PRP$ people./NNS ,./, our./PRP$ rich./JJ diversity./NN ,./, and./CC our./PRP$ cultural./JJ wealth./NN are./VBP SAP./NNP 's./POS greatest./JJS assets./NNS 
+
+About./IN the./DT Emerging./NNP Technologies./NNPS Team./NN :./: 
+The./DT Emerging./NNP Technologies./NNPS group./NN is./VBZ a./DT dedicated./JJ team./NN of./IN skilled./JJ technical./JJ ,./, business./NN ,./, and./CC creative./JJ experts./NNS focused./VBD on./IN innovating./VBG IoT./NNP ,./, mobile./NN ,./, cloud./NN ,./, and./CC big./JJ data./NNS technologies./NNS that./IN extend./VBP SAP./NNP 's./POS leading./JJ position./NN as./IN the./DT #./# 1./CD business./NN software./NN provider./NN in./IN the./DT world./NN ../. We./PRP are./VBP a./DT strategic./JJ initiatives./NNS team./VBP co-innovating./NN with./IN customers./NNS to./TO build./VB new./JJ products./NNS with./IN mass./NN adoption./NN in./IN new./JJ markets./NNS ../. 
+
+Our./PRP$ Apphaus./NN :./: 
+
+We./PRP work./VBP in./IN an./DT open./JJ concept./NN space./NN known./VBN as./IN the./DT WatHaus./NNP that./WDT allows./VBZ for./IN easy./JJ collaboration./NN ,./, open./JJ discussions./NNS ,./, and./CC a./DT fun./NN ,./, everyday./JJ working./VBG environment./NN ../. The./DT WatHaus./NNP is./VBZ motivated./VBN by./IN principles./NNS of./IN user./NN empathy./NN ,./, delightful./JJ user./NN experience./NN ,./, best-in-class./NN technology./NN ,./, agile./NN development./NN ,./, and./CC multidisciplinary./JJ cooperation./NN ../. We./PRP invite./VBP you./PRP to./TO be./VB creative./JJ while./IN solving./VBG interesting./JJ and./CC challenging./VBG design./NN problems./NNS ../. 
+
+We./PRP have./VBP some./DT cool./JJ technology./NN in./IN the./DT space./NN like./IN the./DT Christie./NNP Digital./NNP MicroTiles./NNP ,./, Leap./NNP ,./, wearables./NNS ,./, and./CC the./DT latest./JJS mobile./NN and./CC computing./VBG devices./NNS ../. We./PRP 're./VBP also./RB home./NN to./TO our./PRP$ D-shop./NNP -./: a./DT makerspace./NN for./IN prototyping./VBG with./IN Lego-like./NNP electronics./NNS and./CC 3D./CD printing./NN ../. We./PRP 're./VBP actively./RB investing./VBG in./IN the./DT latest./JJS technology./NN and./CC pursuing./VBG to./TO get./VB the./DT HoloLens./NNP ,./, AR./NNP ,./, and./CC VR./NNP technologies./NNS involved./VBN in./IN this./DT space./NN ../. 
+
+Purpose./NNP and./CC Objectives./NNS :./: 
+
+If./IN you./PRP love./VBP innovation./NN ,./, embrace./NN challenges./NNS ,./, and./CC want./VBP to./TO have./VB a./DT positive./JJ impact./NN on./IN the./DT lives./NNS of./IN millions./NNS of./IN people./NNS by./IN designing./VBG easy-to-use./NN and./CC beautiful./JJ applications./NNS ,./, come./VB work./NN with./IN us./PRP ../. 
+
+As./IN an./DT UX/UI./NNP Design./NNP Intern/Co-op./NNP you./PRP will./MD be./VB responsible./JJ for./IN the./DT quality./NN and./CC clarity./NN of./IN product-customer./JJ interactions./NNS using./VBG the./DT user-centric./JJ design./NN approach./NN ../. You./PRP will./MD be./VB responsible./JJ for./IN seeing./VBG through./IN full./JJ user./NN interface./NN design./NN cycles./NNS for./IN the./DT given./VBN project./NN -./: from./IN concept./NN development./NN ,./, prototyping./VBG and./CC testing./VBG ,./, to./TO crafting./VBG high-fidelity./NN mockups./NNS ../. You./PRP will./MD have./VB a./DT lot./NN of./IN creative./JJ influence./NN in./IN this./DT team./NN therefore./RB you./PRP should./MD be./VB able./JJ to./TO communicate./VB your./PRP$ concepts./NNS effectively./RB and./CC clearly./RB ../. 
+
+Responsibilities./NNS :./: 
+
+-Define./NN and./CC design./NN use./NN cases./NNS ,./, workflows./NNS and./CC storyboards./NNS describing./VBG how./WRB the./DT user./NN would./MD interact./VB with./IN easy-to-use./NN ,./, small./JJ footprint./NN apps./NN ../. 
+-Identify./VB all./DT elements./NNS of./IN interaction./NN and./CC navigation./NN ,./, and./CC lay./VB them./PRP out./RP within./IN a./DT screen./NN so./IN they./PRP direct./VBP the./DT user./NN without./IN confusion./NN or./CC error./NN ../. 
+-Create./JJ consumer./NN grade./NN usable./JJ designs./NNS using./VBG wireframes./NNS and./CC prototypes./NNS ../. 
+-Create./VB exciting./JJ information./NN visualizations./NNS enabling./VBG the./DT user./NN to./TO instantly./RB understand./VB the./DT data./NN in./IN the./DT right./JJ context./NN ,./, spot./NN patterns./NNS ,./, trends./NNS and./CC relations./NNS in./IN a./DT self-service./JJ manner./NN ../. 
+-Present./VB your./PRP$ designs./NNS in./IN team./NN design./NN reviews./VBZ as./RB well./RB as./IN to./TO the./DT extended./JJ group./NN of./IN internal./JJ stakeholders./NNS ../. 
+-Participate./NN in./IN iterative./JJ design./NN ,./, testing./VBG and./CC development./NN sprint./NN cycles./NNS to./TO refine./VB the./DT overall./JJ product./NN ../. 
+-Collaborate./NN with./IN designers./NNS ,./, solution./NN managers./NNS ,./, developers./NNS ,./, testing./VBG team./NN and./CC possibly./RB external./JJ agencies./NNS to./TO ensure./VB that./IN the./DT designs./NNS are./VBP implemented./VBN as./IN effective./JJ user./NN experiences./NNS ../. 
+-Supporting./VBG marketing./NN activities./NNS (./( e.g./NN ../. collateral./NN development./NN )./) around./IN the./DT successful./JJ launch./NN of./IN emerging./VBG solutions./NNS on./IN multiple./JJ platforms./NNS ../. 
+-Participate./NN in./IN ,./, and./CC integrate./VB feedback./NN from./IN user./JJ research./NN ../. 
+
+Requirements./NNS :./: 
+
+-Expertise./NN with./IN Adobe./NNP Illustrator./NNP &./CC Adobe./NNP Photoshop./NNP 
+-Pursuing./VBG degree./NN in./IN Interaction./NNP Design./NNP ,./, Visual./NNP Design./NNP ,./, Communication./NNP Design./NNP ,./, Human./NNP Computer./NNP Interaction./NNP ,./, Human./NNP Factors./NNPS or./CC other./JJ related./JJ user./JJ experience./NN design./NN disciplines./NNS ../. 
+-Well./NN developed./VBD skills./NNS in./IN designing./VBG compelling./VBG user./JJ experiences./NNS ,./, wire./NN framing./NN ,./, sketching./VBG (./( story./NN boarding./NN ,./, scenarios./NNS ,./, rough./JJ layouts./NNS ,./, mock-ups./NNS )./) ,./, and./CC user./JJ interaction./NN design./NN are./VBP critical./JJ ../. 
+-Understand./VB the./DT process./NN of./IN defining./VBG ,./, designing./VBG and./CC delivering./VBG consumer./NN applications./NNS ../. 
+-Knowledgeable./JJ about./IN the./DT user./JJ interface./NN capabilities./NNS and./CC standards./NNS of./IN leading./VBG application./NN platforms./NNS ../. 
+-Knowledgeable./JJ about./IN the./DT technologies./NNS underlying./VBG software./NN interfaces./NNS ,./, and./CC able./JJ to./TO absorb./VB quickly./RB what./WP you./PRP dont./VBP already./RB know./VBP ../. 
+-Good./NN at./IN solving./VBG interface./NN and./CC interaction./NN design./NN problems./NNS ,./, offering./VBG not./RB just./RB one./CD but./CC a./DT variety./NN of./IN viable./JJ solutions./NNS ../. 
+-Strong./JJ communication./NN skills./NNS and./CC the./DT ability./NN to./TO effectively./RB engage./VB and./CC convey./VB ideas./NNS to./TO cross-functional./JJ technical./JJ and./CC non-technical./JJ teams./NNS 
+-Passion./NN for./IN end-user./NN focused./VBN software./NN applications./NNS design./NN and./CC development./NN with./IN an./DT appreciation./NN and./CC empathy./NN for./IN the./DT entire./JJ software./NN design./NN process./NN including./VBG strategy./NN ,./, development./NN ,./, and./CC production./NN rollout./NN ../. 
+
+
+The./DT SAP./NNP Waterloo./NNP Intern/Co-op./NNP Experience./NN :./: 
+
+Our./PRP$ Waterloo./NNP site./NN has./VBZ been./VBN recognized./VBN for./IN offering./VBG one./CD of./IN the./DT best./JJS work./NN term./NN experiences./NNS available./JJ anywhere./RB ../. From./IN the./DT moment./NN you./PRP arrive./VBP you./PRP 'll./MD be./VB impressed./VBN with./IN our./PRP$ commitment./NN to./TO creating./VBG an./DT outstanding./JJ coop./NN environment./NN !./. 
+
+Our./PRP$ co-op./JJ students./NNS do./VBP real./JJ work./VB -./: period./NN ../. We./PRP treat./VBP you./PRP like./IN full-time./JJ staff./NN ../. Students./NNS have./VBP the./DT opportunity./NN to./TO challenge./VB their./PRP$ skills./NNS while./IN working./VBG on./IN projects./NNS that./WDT support./VBP SAP./NNP 's./POS leading./JJ position./NN in./IN strategic./JJ markets./NNS (./( e.g./NN ../. mobile./NN ,./, cloud./NN ,./, big./JJ data./NN )./) ../. 
+
+We./PRP have./VBP approximately./RB 30-40./JJ co-op./JJ students./NNS at./IN any./DT given./VBN time./NN ,./, and./CC being./VBG part./NN of./IN that./DT community./NN plays./VBZ a./DT big./JJ part./NN in./IN your./PRP$ experience./NN ../. We./PRP make./VBP sure./JJ that./IN you./PRP have./VBP a./DT chance./NN to./TO interact./VB and./CC support./VB each./DT other./JJ ,./, as./RB well./RB as./IN socialize./NN at./IN co-op./JJ events./NNS ../. Our./PRP$ commitment./NN to./TO keeping./VBG you./PRP happy./JJ shows./NNS in./IN the./DT fun./NN activities./NNS we./PRP put./VBP together./RB just./RB for./IN our./PRP$ students./NNS ../. We./PRP offer./VBP flexible./JJ work./NN hours./NNS ,./, casual./JJ dress./NN ,./, free./JJ soft./JJ drinks./NNS and./CC many./JJ other./JJ great./JJ perks./NNS !./. 
+
+We./PRP invite./VBP you./PRP to./TO visit./VB us./PRP online./VB to./TO learn./VB more./JJR about./IN our./PRP$ company./NN and./CC products./NNS ../. 
+Check./VB out./RP our./PRP$ website./NN at./IN :./: www.sap.com./NN !./. 
+
+SAP./NNP 'S./POS DIVERSITY./NNP COMMITMENT./NNP 
+
+To./TO harness./VB the./DT power./NN of./IN innovation./NN ,./, SAP./NNP invests./VBZ in./IN the./DT development./NN of./IN its./PRP$ diverse./NN employees./NNS ../. We./PRP aspire./VBP to./TO leverage./VB the./DT qualities./NNS and./CC appreciate./VB the./DT unique./JJ competencies./NNS that./IN each./DT person./NN brings./VBZ to./TO the./DT company./NN ../. 
+
+Interested./JJ applicants./NNS can./MD email./VB their./PRP$ resume./NN to./TO :./: sarah.mcmullin./NN @./NNP sap.com./NN and./CC madhulika.saxena./NN @./NNP sap.com./NN ../. All./DT applicants./NNS must./MD provide./VB a./DT portfolio/website./NN to./TO be./VB considered./VBN ../. 

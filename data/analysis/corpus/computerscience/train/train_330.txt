@@ -1,0 +1,54 @@
+Bosch./NNP is./VBZ not./RB just./RB dishwashers./NNS and./CC power./NN tools./NNS ../. Employing./VBG more./JJR than./IN 380,000./CD people./NNS worldwide./RB ,./, we./PRP are./VBP also./RB robotics./NNS ,./, assembly./NN lines./NNS ,./, power./NN generation./NN ,./, automation./NN ,./, IoT./NNP and./CC connected./VBN devices./NNS ,./, electronics./NNS ,./, commercial./JJ sound./NN and./CC security./NN systems./NNS ,./, and./CC much./RB more./RBR ../. Bosch./NNP is./VBZ also./RB the./DT number./NN one./CD automotive./JJ parts./NNS supplier./NN in./IN the./DT world./NN !./. 
+
+With./IN ESCRYPT./NNP ,./, which./WDT belongs./VBZ to./TO Bosch./NNP subsidiary./NN ETAS./NNP ,./, you./PRP will./MD be./VB working./VBG on./IN an./DT innovative./JJ and./CC exciting./JJ new./JJ product./NN that./WDT does./VBZ n't./RB yet./RB exist./VB ,./, for./IN an./DT emerging./VBG market./NN ../. You./PRP will./MD be./VB helping./VBG to./TO shape./VB the./DT direction./NN of./IN connected./JJ automobiles./NNS for./IN years./NNS ,./, if./IN not./RB decades./NNS to./TO come./VB ../. You./PRP will./MD be./VB helping./VBG take./VB the./DT first./JJ steps./NNS toward./IN ensuring./VBG the./DT safety./NN and./CC security./NN of./IN hundreds./NNS of./IN millions./NNS of./IN drivers./NNS around./IN the./DT world./NN ,./, using./VBG the./DT latest./JJS technologies./NNS to./TO do./VB so./RB !./. Coupled./VBN with./IN current./JJ development./NN methodologies./NNS ,./, popular./JJ open./JJ source./NN projects./NNS ,./, data./NNS analytics./NNS and./CC cloud./NN computing./NN ,./, you./PRP will./MD be./VB sculpting./VBG the./DT future./NN of./IN automobiles./NNS ../. 
+
+At./IN ETAS./NNP Canada./NNP we./PRP are./VBP building./VBG automobile./IN security./NN -./: not./RB your./PRP$ neighbours./NNS './POS noisy./NN car./NN alarm./NN in./IN the./DT middle./NN of./IN the./DT night./NN ,./, but./CC the./DT embedded./JJ ,./, always./RB on./IN always./RB connected./VBN IoT./NNP type./NN ../. You./PRP will./MD have./VB the./DT chance./NN to./TO assist./VB with./IN the./DT design./NN of./IN a./DT system./NN to./TO deal./VB with./IN security./NN data./NNS from./IN millions./NNS of./IN cars./NNS around./IN the./DT world./NN ,./, detect./JJ security./NN events./NNS in./IN real-time./NN ,./, and./CC work./NN on./IN ways./NNS to./TO solve./VB problems./NNS before./IN the./DT hackers./NNS can./MD make./VB them./PRP in./IN to./TO news./NN stories./NNS ../. Build./VB the./DT software./NN ,./, GUIs./NNP ,./, analytics./NNS ,./, platform./NN ,./, and./CC cloud./NN services./NNS which./WDT will./MD provide./VB a./DT robust./JJ ,./, secure./NN ,./, scalable./JJ service./NN that./WDT will./MD keep./VB your./PRP$ friends./NNS and./CC families./NNS driving./VBG safely./RB ../. 
+
+Responsibilities./NNS 
+We./PRP are./VBP looking./VBG for./IN people./NNS to./TO work./VB in./IN our./PRP$ small./JJ ,./, startup./JJ style./NN office./NN (./( think./VBP exposed./VBN brick./NN and./CC beam./NN with./IN huge./JJ windows./NNS )./) that./WDT really./RB get./VB what./WP we./PRP are./VBP trying./VBG to./TO build./VB ../. We./PRP want./VBP people./NNS who./WP are./VBP passionate./JJ about./IN making./VBG important./JJ things./NNS and./CC using./VBG cool./JJ cutting-edge./JJ technology./NN ../. We./PRP need./VBP people./NNS that./WDT know./VBP (./( or./CC want./VBP to./TO know./VB )./) how./WRB to./TO Cloud./VB ,./, how./WRB to./TO Big./NNP Data./NNP ,./, how./WRB to./TO Data./NNP Science./NNP ,./, how./WRB to./TO code./VB and./CC most./JJS importantly./RB how./WRB to./TO be./VB a./DT problem./NN solver./NN ../. We./PRP need./VBP people./NNS who./WP get./VBP sucked./VBN in./IN to./TO a./DT problem./NN ,./, who./WP stay./VBP up./RB late./RB trying./VBG ,./, testing./VBG ,./, reading./NN ,./, failing./VBG ,./, fixing./VBG until./IN 'It./NNP Just./NNP Works./NNP './POS ../. Those./DT people./NNS who./WP dont./VBP like./IN to./TO give./VB up./RP ,./, who./WP know./VBP how./WRB to./TO dig./VB in./IN and./CC find./VB a./DT solution./NN ../. Because./IN you./PRP will./MD be./VB working./VBG on./IN things./NNS no./DT one./NN has./VBZ done./VBN before./RB ,./, you./PRP will./MD need./VB to./TO be./VB resilient./JJ ,./, ready./JJ to./TO fail./VB fast./RB ,./, then./RB change./NN fast./RB ../. You./PRP will./MD need./VB to./TO get./VB an./DT idea./NN ,./, put./VBD something./NN together./RB and./CC show./VB us./PRP how./WRB cool./JJ it./PRP is./VBZ ../. 
+
+As./IN the./DT options./NNS are./VBP quite./RB flexible./JJ (./( so./RB much./RB fun./NN to./TO be./VB had./VBN !./. !./. )./) ,./, the./DT successful./JJ candidate./NN would./MD be./VB a./DT direct./JJ match./NN or./CC be./VB a./DT hybrid./NN of./IN the./DT following./JJ roles./NNS :./: 
+
+Data./NNP Analyst./NNP 
+-./: Analyze./NN security./NN data./NNS coming./VBG from./IN connected./VBN cars./NNS to./TO identify./VB new/interesting./JJ points./NNS ,./, trends./NNS ,./, -problems./NNS 
+-./: Help./NN identify./VB improvements./NNS to./TO our./PRP$ data./NNS ,./, tools./NNS ,./, and./CC pipeline./NN 
+-./: Find./NN problems./NNS before./IN anyone./NN else./RB 
+-./: Work./NN with./IN JAVA./NNP ,./, Scala./NNP ,./, Python./NNP ,./, Kafka./NNP ,./, Elasticsearch./NNP ,./, databases./VBZ to./TO understand./VB what./WP is./VBZ going./VBG on./IN 
+-./: Develop./VB reports./NNS or./CC analytics./NNS for./IN the./DT data./NNS 
+
+Code./NNP Monkey./NNP 
+-./: Pick./NN up./RP a./DT ticket./NN ,./, solve./VBP a./DT problem./NN !./. Introduce./NNP a./DT new./JJ feature./NN !./. Open./NNP up./RP a./DT whole./JJ new./JJ can./MD of./IN worms./NNS !./. 
+-./: Work./NN to./TO connect./VB things./NNS to./TO other./JJ things./NNS using./VBG JAVA./NNP ,./, Scala./NNP ,./, Python./NNP ,./, Kafka./NNP ,./, Elasticsearch./NNP 
+-./: Create./NN entirely./RB new./JJ things./NNS !./. 
+
+Front-end./JJ Code./NNP Monkey./NNP 
+-./: Make./NN data./NNS beautiful./NN !./. 
+-./: Build./VB out./RP a./DT scalable./JJ ,./, secure./JJ web./NN portal./NN that./WDT connects./VBZ the./DT back./JJ end./NN data./NN to./TO the./DT customer./NN 
+-./: Work./NN to./TO connect./VB things./NNS to./TO other./JJ things./NNS using./VBG JAVA./NNP ,./, Scala./NNP ,./, Python./NNP ,./, Kafka./NNP ,./, Elasticsearch./NNP 
+-./: Stretch./VB your./PRP$ creative./JJ muscles./NNS ,./, show./VBP us./PRP your./PRP$ artistic./JJ side./NN 
+-./: Show./NN and./CC tell./VB us./PRP what./WP we./PRP need./VBP and./CC what./WP you./PRP can./MD do./VB 
+
+Platform./NNP junkie./NN 
+-./: A./DT sysadmin./NN with./IN a./DT love./NN of./IN configuration./NN management./NN ,./, automation./NN ,./, scalable./JJ systems./NNS ,./, and./CC open./JJ source./NN software./NN 
+-./: Build/maintain./NN linux./JJ hosts./NNS 
+-./: Build/improve./NN configuration./NN management./NN 
+-./: Build/improve./NN cloud./NN automation./NN 
+
+Required./VBN skills./NNS :./: 
+-./: Proficient./NN in./IN Microsoft./NNP Office./NNP 
+-./: Previous./JJ experience./NN with./IN Jira./NNP and./CC SQL./NNP an./DT asset./NN 
+-./: Excellent./NN inter-personal./JJ skills./NNS 
+-./: Excellent./NN communication./NN skills./NNS 
+-./: Moderate./NN proficiency./NN in./IN Java./NNP ,./, C++./NNP or./CC Python./NNP 
+-./: Moderate./NN proficiency./NN in./IN linux./JJ usage/administration./NN 
+
+Nice./NNP to./TO haves./NNS :./: 
+-./: Web./NN development./NN experience./NN (./( html5./NN ,./, node.js./RB ,./, service./NN side./NN programming./NN )./) 
+-./: Knowledge./NN of./IN Java./NNP (./( or./CC Scala./NNP )./) ,./, Python./NNP or./CC PERL./NNP 
+-./: Working./VBG knowledge./NN of./IN linux/unix./NN 
+-./: Experience./NN with./IN source./NN control./NN software./NN (./( git./JJ ,./, svn./JJ ,./, etc./FW )./) 
+-./: Continuous./JJ Integration./NNP ,./, Unit./NNP Testing./NNP experience./NN 
+-./: Configuration./NN Management./NNP experience./NN 
+
+Compensation./NN And./CC Benefits./NNP Information./NNP 
+Competitive./JJ salary./NN 

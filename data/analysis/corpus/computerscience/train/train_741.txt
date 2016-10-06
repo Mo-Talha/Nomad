@@ -1,0 +1,17 @@
+___________________________________________./NN 
+
+
+
+About./IN AeroFS./NNP 
+AeroFS./NNP is./VBZ an./DT on-premises./JJ file./NN sharing./NN and./CC collaboration./NN platform./NN ../. Located./VBN in./IN Palo./NNP Alto./NNP ,./, CA./NNP ,./, AeroFS./NNP is./VBZ funded./VBN by./IN top./JJ firms./NNS including./VBG Y./NNP Combinator./NNP ,./, Avalon./NNP Ventures./NNP and./CC Andreessen./NNP Horowitz./NNP ../. 
+
+AeroFS./NNP recently./RB launched./VBD Amium./NNP ,./, a./DT chat./NN and./CC documents./NNS platform./VBP that./IN turns./VBZ any./DT file./NN into./IN a./DT real-time./JJ activity./NN feed./NN and./CC conversation./NN ../. Amium./NNP integrates./VBZ with./IN Microsoft./NNP Office./NNP Online./NNP to./TO simplify./VB team./NN document./NN collaboration./NN ,./, as./RB well./RB as./IN a./DT number./NN of./IN other./JJ services./NNS including./VBG HelloSign./NNP ,./, Giphy./NNP ,./, GitHub./NNP ,./, JIRA./NNP ,./, PagerDuty./NNP ,./, and./CC Stripe./NNP ../. 
+
+About./IN the./DT Role./NNP 
+As./IN a./DT Frontend./NNP Software./NNP Engineering./NNP Intern./NNP at./IN AeroFS./NNP you./PRP will./MD create./VB delightful./JJ user./JJ interfaces./NNS used./VBN across./IN our./PRP$ product./NN offerings./NNS ../. More./RBR specifically./RB ,./, this./DT work./NN may./MD involve./VB :./: 
+-./: Creating./NN internally/externally./RB facing./JJ applications./NNS and./CC tools./NNS 
+-orking./VBG with./IN frameworks./NNS like./IN React./NNP ,./, React./NNP Native./NNP ,./, and./CC Angular.js./NNP ../. 
+-Working./VBG with./IN languages./NNS like./IN Python./NNP ,./, JavaScript./NNP ,./, and./CC Objective-C./NNP ../. 
+-and./RB many./JJ more./JJR problems./NNS 
+
+We./PRP are./VBP looking./VBG for./IN students./NNS with./IN one./CD or./CC more./JJR strong./JJ development./NN focused./VBD internships./NNS ../. Junior./JJ students./NNS may./MD apply./VB if./IN they./PRP have./VBP an./DT interesting./JJ side./NN project./NN that./WDT showcases./VBZ their./PRP$ abilities./NNS ../. 

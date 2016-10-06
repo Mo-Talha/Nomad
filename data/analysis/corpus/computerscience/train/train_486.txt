@@ -1,0 +1,54 @@
+CGI./NNP Group./NNP Inc./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Oct../NNP 7./CD ,./, 2016./CD from./IN 11:30./CD AM./NNP -./: 1:30./CD PM./NNP at./IN Tatham./NNP Centre./NNP -./: 2218./CD A./NNP and./CC B./NNP ../. Please./NNP plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+
+A./DT unique./JJ opportunity./NN to./TO be./VB involved./VBN in./IN large./JJ consulting./NN engagements./NNS ../. 
+
+Note./NN :./: Limited./VBN to./TO students./NNS in./IN their./PRP$ 3rd./CD year./NN or./CC higher./JJR ../. 
+
+Work./NN in./IN conjunction./NN with./IN our./PRP$ senior./JJ and./CC lead./JJ architects./NNS on./IN large./JJ projects./NNS across./IN multiple./JJ verticals./NNS in./IN the./DT GMA./NNP ../. Contribute./NNP to./TO projects./NNS involving./VBG technical./JJ analysis./NN ,./, solution./NN design./NN ,./, problem-solving./JJ and./CC end-to-end./JJ integration./NN ../. Work./NN with./IN a./DT large./JJ array./NN of./IN technology./NN platforms./NNS and./CC applications./NNS ../. Work./VB will./MD be./VB project-based./JJ and./CC take./VB place./NN at./IN CGI./NNP and./CC on-site./JJ with./IN our./PRP$ clients./NNS ../. 
+
+The./DT ideal./JJ candidate./NN will./MD bring./VB a./DT positive./JJ attitude./NN ,./, willingness./NN to./TO learn./VB ,./, good./JJ communications./NNS and./CC team./NN skills./NNS ,./, and./CC the./DT ability./NN to./TO put./VB their./PRP$ knowledge./NN to./TO work./VB in./IN a./DT project-oriented./JJ technical./JJ activities./NNS ../. 
+
+CGI./NNP Information./NNP Systems./NNP and./CC Management./NNP Consultants./NNP Inc../NNP (./( CGI./NNP )./) assist./VBP private./JJ and./CC public./JJ sector./NN organizations./NNS with./IN professional./JJ services./NNS of./IN outstanding./JJ quality./NN ,./, competence./NN ,./, performance./NN and./CC objectivity./NN ../. We./PRP deliver./VBP best-of-breed./JJ solutions./NNS to./TO fully./RB satisfy./VB client./NN objectives./NNS in./IN information./NN technology./NN ../. 
+
+Candidates./NNS with./IN prior./JJ work./NN term./NN experience./NN in./IN technical./JJ analysis./NN roles./NNS are./VBP encouraged./VBN to./TO apply./VB ../. 
+
+In./IN particular./JJ ,./, we./PRP require./VBP highly-motivated./JJ individuals./NNS with./IN exposure./NN to./TO ,./, or./CC a./DT strong./JJ desire./NN to./TO learn./VB about./IN :./: 
+
+Technical./JJ Knowledge./NNP 
+Java./NNP and./CC C/C++Object-oriented./NNP Programming./NNP 
+WSDL./NNP ,./, XML./NNP and./CC Schema./NNP design./NN and./CC development./NN 
+Spring./NN framework./NN 
+Hibernate./NNP framework./NN 
+iBatis./NN framework./NN 
+TIBCO./NNP Active./NNP Matrix./NNP 
+TIBCO./NNP Business./NNP Studio./NNP 
+Oracle./NNP RDBMS./NNP 
+JAS-WS./NNP ,./, and./CC JAXB2./NNP 
+SVN./NNP ,./, Hudson./NNP ,./, and./CC Maven./NNP 
+Eclipse./NNP IDE./NNP 
+
+Systems./NNPS Analysis./NNP Skills./NNP 
+Application./NN Architecture./NN 
+Data./NNP Architecture./NN 
+Security./NN and./CC Network./NNP Communications./NNP 
+MSOffice./NNP tools./NNS 
+Web./NNP services./NNS governance./NN 
+Multi-tier./JJR architectures./NNS 
+Systems./NNPS analysis./NN and./CC preparation./NN of./IN specifications./NNS 
+Quality./NN assurance./NN and./CC software./NN testing./VBG methods./NNS 
+Project./NN management./NN 
+
+Functions./NNS Performed./VBD 
+Evaluate./NNP and./CC understand./VBP the./DT underlying./NN business./NN goals./NNS 
+Support./NN business./NN development./NN opportunities./NNS 
+Research./NNP new./JJ technology./NN opportunities./NNS and./CC product./NN offerings./NNS 
+Analyze./NNP solutions./NNS to./TO business./NN problems./NNS 
+Deal./NN with./IN different./JJ technologies./NNS and./CC platforms./NNS 
+Communicate./NNP clearly./RB (./( verbal./JJ ,./, text./JJ ,./, and./CC diagrams./NNS )./) 
+
+We./PRP are./VBP offering./VBG the./DT chance./NN to./TO work./VB with./IN our./PRP$ team./NN of./IN experienced./JJ professionals./NNS on./IN a./DT range./NN of./IN engagements./NNS ../. Our./PRP$ clients./NNS include./VBP large./JJ financial./JJ institutions./NNS ,./, which./WDT will./MD make./VB this./DT a./DT rare./JJ opportunity./NN to./TO learn./VB about./IN consulting./VBG in./IN the./DT most./RBS advanced./JJ business./NN environments./NNS ../. 
+
+About./IN CGI./NNP 
+Founded./VBN in./IN 1976./CD ,./, CGI./NNP Group./NNP Inc../NNP is./VBZ the./DT fifth./JJ largest./JJS independent./JJ information./NN technology./NN and./CC business./NN process./NN services./NNS firm./NN in./IN the./DT world./NN ../. Approximately./RB 68,000./CD professionals./NNS serve./VBP thousands./NNS of./IN global./JJ clients./NNS from./IN offices./NNS and./CC delivery./NN centers./NNS across./IN the./DT Americas./NNPS ,./, Europe./NNP and./CC Asia./NNP Pacific./NNP ,./, leveraging./VBG a./DT comprehensive./JJ portfolio./NN of./IN services./NNS including./VBG high-end./JJ business./NN and./CC IT./NNP consulting./NN ,./, systems./NNS integration./NN ,./, application./NN development./NN and./CC maintenance./NN ,./, infrastructure./NN management./NN as./RB well./RB as./IN a./DT wide./JJ range./NN of./IN proprietary./JJ solutions./NNS ../. With./IN annual./JJ revenue./NN in./IN excess./NN of./IN C./NNP $./$ 10./CD billion./CD and./CC an./DT order./NN backlog./NN of./IN C./NNP $./$ 20./CD billion./CD ,./, CGI./NNP shares./NNS are./VBP listed./VBN on./IN the./DT TSX./NNP (./( GIB.A./NNP )./) and./CC the./DT NYSE./NNP (./( GIB./NNP )./) .Website./NN :./: www.cgi.com./NN ../. 
+
+This./DT is./VBZ a./DT great./JJ opportunity./NN to./TO join./VB a./DT winning./NN team./NN !./. At./IN CGI./NNP ,./, we./PRP 're./VBP in./IN the./DT business./NN of./IN satisfying./VBG clients./NNS ../. For./IN more./JJR than./IN 35./CD years./NNS ,./, we./PRP 've./VBP operated./VBN upon./IN the./DT principles./NNS of./IN sharing./VBG in./IN clients./NNS './POS challenges./NNS and./CC delivering./VBG quality./NN services./NNS to./TO address./VB them./PRP ../. CGI./NNP offers./VBZ entry-level./JJ positions./NNS for./IN new./JJ graduates./NNS ,./, and./CC being./VBG a./DT co-op./NN at./IN CGI./NNP is./VBZ a./DT great./JJ way./NN to./TO introduce./VB yourself./PRP to./TO us./PRP ../. We./PRP wish./VBP to./TO thank./VB all./DT applicants./NNS for./IN their./PRP$ interest./NN and./CC effort./NN in./IN applying./VBG for./IN this./DT position./NN ;./: however./RB ,./, only./RB candidates./NNS selected./VBN for./IN interviews./NNS will./MD be./VB contacted./VBN ../. 

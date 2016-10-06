@@ -1,0 +1,39 @@
+Job./NNP Title./NNP :./: JavaScript./NNP Developer./NNP 
+Reporting./VBG Manager./NNP :./: Director./NN of./IN Engineering./VBG 
+Location./NN :./: Toronto./NNP ,./, ON./NNP (./( Downtown./NNP )./) 
+Employee./NN Status./NN :./: Co-op./NN 
+
+Summary./NN :./: 
+Digiflare./NNP is./VBZ an./DT industry./NN leader./NN in./IN designing./VBG and./CC developing./VBG multi-screen./JJ experiences./NNS ../. Based./VBN in./IN Downtown./NNP Toronto./NNP ,./, our./PRP$ team./NN of./IN exceptional./JJ developers./NNS and./CC designers./NNS work./VBP in./IN collaboration./NN to./TO create./VB solutions./NNS leveraging./VBG the./DT latest./JJS technology./NN ,./, for./IN nearly./RB all./DT consumer./NN devices./NNS and./CC platforms./NNS ,./, including./VBG :./: iOS./NN ,./, Android./NNP ,./, Windows./NNP ,./, Xbox./NNP ,./, PlayStation./NNP ,./, Roku./NNP ,./, Chromecast./NNP ,./, Smart./NNP TV./NN ,./, and./CC more./JJR ../. 
+
+At./IN Digiflare./NNP ,./, you./PRP will./MD have./VB the./DT opportunity./NN to./TO work./VB on./IN some./DT of./IN the./DT most./RBS well-known./JJ brands./NNS in./IN the./DT world./NN such./JJ as./IN Disney./NNP ,./, Rogers./NNP ,./, Bell./NNP and./CC Discovery./NNP ../. You./PRP will./MD also./RB have./VB a./DT chance./NN to./TO work./VB with./IN some./DT of./IN the./DT most./RBS high./JJ profile./NN projects./NNS for./IN our./PRP$ clients./NNS ../. Past./IN co-op./JJ students./NNS have./VBP worked./VBN on./IN projects./NNS like./IN Shomi./NNP ,./, WATCH./NNP ABC./NNP ,./, The./DT Movie./NNP Network./NNP and./CC more./JJR !./. If./IN you./PRP are./VBP interested./JJ in./IN TV./NN and./CC video./NN ,./, this./DT is./VBZ the./DT place./NN for./IN you./PRP ../. 
+
+Position./NN Overview./NN :./: 
+As./IN a./DT JavaScript./NNP Developer./NNP ,./, you./PRP will./MD be./VB working./VBG in./IN a./DT small./JJ team./NN to./TO develop./VB an./DT application./NN on./IN one./CD of./IN the./DT following./JJ platforms./NNS :./: Xbox./VB One./CD ,./, Xbox./VBZ 360./CD ,./, Chromecast./NNP ,./, Roku./NNP ,./, Smart./NNP TV./NNP etc./NN ../. Past./NNP Connected./NNP Devices./NNPS Developer./NNP co-ops./NNS have./VBP worked./VBN on./IN projects./NNS such./JJ as./IN :./: Shomi./NNP ,./, WATCH./NNP ABC./NNP ,./, The./DT Movie./NNP Network./NNP and./CC PBS./NNP Kids./NNP ../. At./IN Digiflare./NNP ,./, we./PRP value./NN technical./JJ skill./NN ;./: you./PRP may./MD also./RB switch./VB platforms./NNS and./CC projects./NNS during./IN your./PRP$ term./NN ../. 
+
+Primary./JJ Responsibilities./NNS :./: 
+-./: Develop./NN HTML5/JavaScript./NNP applications./NNS on./IN Xbox./NN ,./, Roku./NNP ,./, Chromecast./NNP ,./, Samsung./NNP TV./NNP ,./, Amazon./NNP Fire./NNP TV./NN ,./, or./CC Windows./VBZ 8./CD platforms./NNS ../. 
+-./: Work./NN closely./RB with./IN Project./NNP Managers./NNP ,./, Developers./NNP ,./, etc./NN ../. to./TO understanding./VBG business./NN requirements./NNS ../. 
+-./: Work./NN closely./RB with./IN the./DT Creative./NNP team./NN to./TO ensure./VB product./NN quality./NN ../. 
+-./: Implement./NN applications./NNS based./VBN on./IN requirements./NNS ,./, functional./JJ and./CC technical./JJ specifications./NNS ../. 
+
+Requirements./NNS 
+-./: Knowledge./NN of./IN HTML5/JavaScript./NNP or./CC C./NNP #./# ,./, XAML./NNP and./CC Silverlight./NNP ../. 
+-./: Ability./NN to./TO switch./VB platforms./NNS if./IN necessary./JJ ../. 
+-./: Ability./NN to./TO develop./VB against./IN a./DT variety./NN of./IN web./JJ architectures./NNS and./CC services./NNS (./( HTTP./NNP ,./, JSON./NNP ,./, REST./NNP ,./, etc./FW ../. )./) ../. 
+-./: Experience./NN with./IN version./NN control./NN systems./NNS ../. Git./NNP experience./NN preferred./VBD ../. 
+-./: Ability./NN to./TO learn./VB new./JJ technologies./NNS quickly./RB ../. 
+-./: Must./NN have./VBP excellent./VBN problem./NN solving./VBG skills./NNS and./CC love./VB technical./JJ challenges./NNS ../. 
+-./: Must./NN be./VB self-motivated./JJ and./CC able./JJ to./TO multi-task./NN ../. 
+-./: Must./NN be./VB productive./JJ and./CC efficient./JJ ../. 
+-./: Experience./NN with./IN Agile./NNP Development./NNP ../. 
+
+What./WP We./PRP Offer./VBP :./: 
+-./: Competitive./NN salary./NN 
+-./: Flexible./JJ working./NN hours./NNS 
+-./: Fun./NN ,./, relaxed./JJ work./NN environment./NN 
+-./: Games./NNS room./NN with./IN Foosball./NNP ,./, Xbox./NNP One./NNP ,./, PlayStation./NNP 3./CD ,./, Wii./NNP U./NNP ,./, etc./NN ../. 
+-./: Monthly./JJ social./JJ events./NNS such./JJ as./IN Games./NNP Nights./NNP ,./, Pi./NNP Day./NNP ,./, Movie./NNP Trips./NNP ,./, etc./NN ../. 
+-./: Fully./RB stocked./VBN fridge./NN with./IN free./JJ beverages./NNS and./CC beer./NN 
+-./: Monthly./JJ lunch./NN and./CC learns./NNS 
+-./: Close./NN to./TO Union./NNP Station./NNP and./CC St./NNP Andrews./NNP Subway./NNP Station./NNP in./IN Toronto./NNP 's./POS Entertainment./NNP District./NNP 

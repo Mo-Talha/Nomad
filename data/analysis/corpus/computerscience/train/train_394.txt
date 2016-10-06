@@ -1,0 +1,47 @@
+Autodesk./NNP will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Oct../NNP 20./CD ,./, 2016./CD from./IN 11:30./CD AM./NNP -./: 1:30./CD PM./NNP at./IN Davis./NNP Centre./NNP 1301./CD ../. Please./VB plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+_________________________________________________./NN 
+
+About./IN Autodesk./NNP 
+Autodesk./NNP is./VBZ a./DT world./NN leader./NN in./IN 3D./CD design./NN ,./, engineering./NN and./CC entertainment./NN software./NN and./CC services./NNS ../. Our./PRP$ software./NN is./VBZ used./VBN by./IN creators./NNS ,./, designers./NNS ,./, architects./NNS ,./, engineers./NNS ,./, video./JJ game./NN developers./NNS and./CC film./NN makers./NNS around./IN the./DT world./NN ../. Our./PRP$ Montreal./JJ location./NN is./VBZ primarily./RB focused./VBN on./IN developing./VBG design./NN software./NN for./IN the./DT Media./NNP &./CC Entertainment./NNP industry./NN (./( video./JJ game./NN and./CC film./NN )./) ../. 
+
+Our./PRP$ Co-op./JJ students./NNS work./VBP on./IN a./DT variety./NN of./IN projects./NNS that./WDT help./VBP enhance./VB our./PRP$ products./NNS and./CC solutions./NNS for./IN our./PRP$ customers./NNS ../. 
+
+This./DT is./VBZ an./DT incredible./JJ opportunity./NN to./TO work./VB with./IN the./DT professionals./NNS who./WP build./VBP some./DT of./IN the./DT most./RBS advanced./JJ 3D./CD animation./NN solutions./NNS for./IN visualization./NN specialists./NNS ,./, game./NN and./CC film./NN artists./NNS !./. 
+
+As./IN a./DT Software./NNP Developer./NNP Co-op./NNP in./IN our./PRP$ team./NN ,./, you./PRP will./MD collaborate./VB with./IN experienced./JJ software./NN developers./NNS and./CC designers./NNS ,./, using./VBG Agile./NNP development./NN methodologies./NNS ../. You./PRP will./MD implement./VB key./JJ workflows./NNS that./WDT extend./VBP our./PRP$ capabilities./NNS to./TO the./DT cloud./NN ../. You./PRP will./MD also./RB learn./VB how./WRB to./TO work./VB in./IN a./DT collaborative./JJ and./CC professional./JJ setting./NN ,./, make./VBP short./JJ presentations./NNS to./TO your./PRP$ immediate./JJ peer./NN group./NN and./CC understand./VB how./WRB your./PRP$ work./NN impacts./VBZ our./PRP$ customers./NNS ,./, our./PRP$ business./NN and./CC more./JJR ../. 
+
+This./DT is./VBZ a./DT great./JJ opportunity./NN to./TO get./VB front-line./JJ development./NN experience./NN in./IN a./DT stimulating./JJ environment./NN ../. 
+
+Co-op./NNP objectives./NNS &./CC responsibilities./NNS 
+
+Design./NNP software./NN solutions./NNS that./WDT meet./VBP our./PRP$ customer./NN requirements./NNS in./IN collaboration./NN with./IN the./DT development./NN team./NN ;./: 
+Participate./VB in./IN iterative./JJ design./NN ,./, testing./VBG and./CC development./NN sprints./NNS to./TO refine./VB the./DT overall./JJ product./NN solution./NN ;./: 
+Present./JJ your./PRP$ solutions./NNS in./IN team./NN design./NN reviews./NNS ../. 
+
+What./WP we./PRP are./VBP looking./VBG for./IN 
+
+Currently./RB pursuing./VBG your./PRP$ degree./NN in./IN Computer./NNP Science./NNP ,./, Software./NNP or./CC Computer./NNP Engineering./NNP ,./, ideally./RB with./IN a./DT focus./NN on./IN 3D./CD programming./NN ,./, designing./VBG and/or./JJ game./NN design./NN and./CC animation./NN ../. 
+High./JJ interest./NN for./IN software./NN development./NN &./CC design./NN 
+You./PRP like./VBP to./TO work./VB with./IN others./NNS ,./, you./PRP communicate./VBP well./RB and./CC are./VBP ok./JJ with./IN presenting./VBG your./PRP$ ideas./NNS in./IN front./NN of./IN a./DT group./NN 
+
+Technical./JJ skills./NNS 
+Knowledge./NNP of./IN Windows./NNP development./NN 
+Some./DT knowledge./NN of./IN C++./NNP development./NN 
+Experience./NN with./IN Game./NNP engines./NNS /./NNP Realtime./NNP Engines./NNP and./CC /./NNP or./CC Computer./NNP Graphics./NNPS concepts./NNS 
+Experience./NN with./IN shader./NN programming./NN 
+
+Other./JJ skills./NNS that./WDT are./VBP nice-to-have./JJ 
+Experience./NN with./IN integrating./VBG new./JJ SDKs./NNP into./IN existing./VBG software./NN 
+Knowledge./NNP of./IN 3D./CD animation./NN or./CC simulation./NN 
+Experience./NN with./IN Virtual./NNP Reality./NNP devices./NNS and./CC toolkits./NNS 
+Basic./JJ experience./NN with./IN web./JJ technologies./NNS :./: REST./NN ,./, C./NNP #./# /.NET./NNP ,./, Java./NNP ,./, JavaScript./NNP ,./, or./CC Node.js./NNP ../. 
+Knowledge./NNP of./IN the./DT Autodesk./NNP family./NN of./IN software./NN products./NNS ,./, more./JJR specifically./RB 3ds./CD Max./NNP ,./, Maya./NNP ,./, Revit./NNP ,./, AutoCAD./NNP ,./, Inventor./NNP and./CC FBX./NNP 
+Familiarity./NN with./IN the./DT Agile./NNP development./NN process./NN 
+Some./DT user./JJ interface./NN development./NN experience./NN 
+Experience./NN with./IN GIT./NNP 
+
+You./PRP can./MD also./RB download./VB our./PRP$ software./NN for./IN free./JJ by./IN visiting./VBG :./: http./NN :./: //www.autodesk.com/education/free-software/all./JJ 
+
+Wed./NNP like./IN to./TO thank./VB all./DT applicants./NNS for./IN their./PRP$ interest./NN ../. Only./RB selected./JJ students./NNS will./MD be./VB contacted./VBN for./IN an./DT interview./NN ../. 
+
+Visit./VB us./PRP at./IN :./: www.autodesk.com./NN 

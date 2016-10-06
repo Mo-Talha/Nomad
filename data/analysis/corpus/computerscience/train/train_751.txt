@@ -1,0 +1,46 @@
+________________________________________________________________________./NN 
+
+Location./NN :./: Morristown./NNP NJ./NNP (./( Temporary./NNP location./NN in./IN Parsippany./NNP NJ./NNP )./) 
+Department./NNP :./: IT./NN 
+Title./NN :./: Agile./NNP SDLC./NNP (./( Software./NNP Development./NNP Life./NNP Cycle./NNP )./) Process./NNP Intern./NNP 
+
+Background./NN 
+
+Crum./NNP &./CC Forster./NNP ,./, based./VBN in./IN Morristown./NNP ,./, New./NNP Jersey./NNP ,./, is./VBZ a./DT national./JJ commercial./JJ property./NN and./CC casualty./NN insurance./NN company./NN in./IN the./DT United./NNP States./NNPS writing./VBG a./DT broad./JJ range./NN of./IN commercial./JJ coverage./NN ../. Crum./NNP &./CC Forster./NNP is./VBZ a./DT wholly./RB owned./JJ subsidiary./NN of./IN Fairfax./NNP Financial./NNP Holdings./NNPS Ltd../NNP Crum./NNP &./CC Forster./NNP is./VBZ a./DT partner./NN in./IN the./DT Fairfax./NNP Co-op./NNP Program./NNP ../. Fairfax./NNP Financial./NNP Holdings./NNP Limited./NNP is./VBZ a./DT financial./JJ services./NNS holding./VBG company./NN which./WDT ,./, through./IN its./PRP$ subsidiaries./NNS ,./, is./VBZ engaged./VBN in./IN property./NN and./CC casualty./NN insurance./NN and./CC reinsurance./NN and./CC investment./NN management./NN ../. The./DT Fairfax./NNP Co-op./NNP Program./NNP is./VBZ looking./VBG for./IN innovative./JJ ,./, talented./VBN ,./, and./CC self-motivated./JJ University./NNP of./IN Waterloo./NNP students./NNS who./WP are./VBP interested./JJ in./IN domestic./JJ and./CC international./JJ work./NN experience./NN ../. 
+
+The./DT C./NNP &./CC F./NNP IT./NNP Organization./NNP leverages./VBZ Agile./NNP software./NN development./NN principles./NNS to./TO achieve./VB success./NN in./IN its./PRP$ support./NN of./IN the./DT business./NN ../. IT./NNP resources./NNS are./VBP assigned./VBN to./TO squads./NNS that./WDT have./VBP specific./JJ missions./NNS ../. Each./DT squad./NN consists./VBZ of./IN a./DT cross-functional./JJ set./NN of./IN team./NN members./NNS from./IN the./DT various./JJ disciplines./NNS that./WDT are./VBP needed./VBN to./TO complete./VB the./DT mission./NN ../. The./DT basic./JJ roles./NNS include./VBP Squad./NNP Master./NNP ,./, Business./NNP Analyst./NNP ,./, Developer./NNP ,./, and./CC Tester./NNP ../. We./PRP are./VBP well./RB on./IN our./PRP$ way./NN to./TO creating./VBG our./PRP$ own./JJ silicon./NN valley-esque./JJ culture./NN that./WDT values./VBZ results./NNS and./CC a./DT sense./NN of./IN accomplishment./NN above./IN all./DT else./RB ../. If./IN you./PRP are./VBP interested./JJ in./IN learning./VBG about./IN how./WRB a./DT transformation./NN of./IN an./DT IT./NNP organization./NN can./MD be./VB done./VBN utilizing./VBG the./DT best./JJS Agile./NN tools./NNS in./IN the./DT world./NN then./RB this./DT is./VBZ the./DT place./NN for./IN you./PRP !./. 
+
+For./IN more./JJR information./NN please./IN visit./NN co-op.fairfax.ca./NN ../. 
+
+Job./NNP Description./NNP 
+
+This./DT position./NN is./VBZ to./TO support./VB our./PRP$ Atlassian./JJ Confluence./NNP /./NNP Jira./NNP squad./VBD which./WDT involves./VBZ :./: 
+
+-./: Gain./NN deep./JJ working./VBG knowledge./NN of./IN Atlassian./NNP 's./POS core./NN product./NN suite./NN (./( Confluence./NNP &./CC Jira./NNP )./) 
+-./: Learn./NN to./TO utilize./VB and./CC administer./RB numerous./JJ Atlassian./JJ Add-On./NNP 's./POS 
+-./: Create./NN Screencasts./NNS and./CC if./IN interested./JJ ,./, deliver./JJ presentations./NNS on./IN the./DT use./NN /./NNP value./NN of./IN new./JJ and./CC existing./JJ tools./NNS 
+-./: Become./VB a./DT hero./NN and./CC use./VB your./PRP$ creativity./NN and./CC skills./NNS to./TO Implement./NNP new./JJ processes./VBZ a./DT make./VB your./PRP$ co-workers./NNS lives./NNS easier./JJR 
+-./: Utilize./NN cutting./NN edge./NN Business./NNP Intelligence./NNP tools./NNS (./( like./IN Tableau./NNP )./) to./TO mine./VB the./DT Agile./NNP SDLC./NNP data./NNS 
+
+The./DT Agile./NNP SDLC./NNP Process./NNP Intern./NNP will./MD work./VB with./IN a./DT group./NN of./IN highly./RB motivated./VBN and./CC experienced./JJ technologists./NNS who./WP have./VBP spent./VBN that./IN past./JJ year./NN working./VBG hard./JJ to./TO provide./VB Agile./NNP SDLC./NNP tools./VBZ to./TO the./DT C./NNP &./CC F./NNP IT./NNP Organization./NNP ../. We./PRP are./VBP well./RB on./IN our./PRP$ way./NN to./TO creating./VBG our./PRP$ own./JJ silicon./NN valley-esque./JJ culture./NN that./WDT values./VBZ results./NNS and./CC a./DT sense./NN of./IN accomplishment./NN above./IN all./DT else./RB ../. If./IN you./PRP are./VBP interested./JJ in./IN learning./VBG about./IN how./WRB a./DT transformation./NN of./IN an./DT IT./NNP organization./NN can./MD be./VB done./VBN utilizing./VBG the./DT best./JJS Agile./NN tools./NNS in./IN the./DT world./NN then./RB this./DT is./VBZ the./DT place./NN for./IN you./PRP !./. 
+
+Individuals./NNS that./WDT would./MD best./VB match./VB our./PRP$ needs./NNS should./MD have./VB :./: 
+
+A./DT passion./NN for./IN learning./VBG 
+An./DT ability./NN to./TO use./VB Google./NNP and./CC on-line./JJ training./NN to./TO obtain./VB new./JJ skills./NNS quickly./RB 
+Great./NNP communication./NN skills./NNS 
+Fair./NNP and./CC friendly./JJ approach./NN 
+Is./VBZ a./DT great./JJ teammate./NN 
+Strong./JJ academic./JJ performance./NN 
+Good./JJ understanding./NN of./IN the./DT SDLC./NNP process./NN (./( how./WRB software./NN is./VBZ built./VBN !./. )./) 
+In./IN addition./NN :./: 
+If./IN a./DT US./NNP citizen./NN ,./, please./VB indicate./VB in./IN your./PRP$ cover./NN letter./NN or./CC resume./NN ../. 
+Students./NNS in./IN their./PRP$ 2nd./CD to./TO last./JJ or./CC last./JJ co-op./JJ term./NN preferable./NN ../. 
+
+Housing./VBG 
+
+Student./NN housing./NN will./MD be./VB available./JJ in./IN downtown./JJ Morristown./NNP with./IN other./JJ Waterloo./NNP Co-op./JJ students./NNS ../. 
+
+Interviews./NNS 
+
+The./DT Fairfax./NNP Co-op./NNP Program./NNP has./VBZ a./DT two-step./JJ interview./NN process./NN ../. If./IN selected./VBN for./IN an./DT interview./NN ,./, you./PRP will./MD have./VB one./CD interview./NN with./IN a./DT representative./NN from./IN Fairfax./NNP Financial./NNP Holdings./NNPS Ltd../NNP and./CC the./DT other./JJ with./IN the./DT co-op./JJ position./NN hiring./NN manager./NN ../. For./IN more./JJR information./NN please./NN visit./NN http./NN :./: //co-op.fairfax.ca/student-information/Interview-Process./NN ../. 

@@ -1,0 +1,42 @@
+Fairfax./NNP Financial./NNP Holdings./NNPS Ltd../NNP has./VBZ recently./RB launched./VBN FairVentures./NNP -./: a./DT brand./NN new./JJ innovation./NN and./CC research./NN space./NN at./IN the./DT Communitech./NNP Hub./NNP in./IN Kitchener-Waterloo./NNP ,./, Ontario./NNP ../. Fairfax./NNP is./VBZ focused./VBN to./TO be./VB on./IN the./DT leading./VBG edge./NN of./IN emerging./VBG technologies./NNS ,./, both./DT disruptive./JJ and./CC sustaining./NN ,./, with./IN particular./JJ focus./NN on./IN the./DT insurance./NN industry./NN ../. With./IN global./JJ subsidiaries./NNS ,./, the./DT FairVentures./NNP team./NN will./MD be./VB exposed./VBN to./TO a./DT variety./NN of./IN projects./NNS and./CC develop./VB solutions./NNS for./IN a./DT broad./JJ range./NN of./IN customers./NNS ../. Our./PRP$ Property./NNP &./CC Casualty./NNP insurance./NN subsidiaries./NNS specialize./VBP in./IN industries./NNS like./IN cyber./NNP security./NN ,./, crisis./NN &./CC risk./NN management./NN ,./, commercial./JJ &./CC personal./JJ property./NN ,./, workers./NNS './POS compensation./NN ,./, agriculture./NN ,./, auto./NN ,./, and./CC marine./NN &./CC energy./NN ../. 
+
+Objectives./NNS 
+
+We./PRP are./VBP looking./VBG for./IN students./NNS to./TO be./VB part./NN of./IN the./DT team./NN working./VBG in./IN our./PRP$ innovation./NN and./CC research./NN lab./NN on./IN the./DT following./JJ objectives./NNS :./: 
+
+1./CD ../. Development./NNP of./IN incremental./JJ sustainable./JJ innovations./NNS for./IN our./PRP$ subsidiaries./NNS through./IN liaising./VBG with./IN global./JJ Fairfax./NNP leaders./NNS ../. Ideas./NNS will./MD be./VB driven./VBN by./IN :./: 
+a./DT ../. Insurance./NN subsidiaries./NNS './POS or./CC their./PRP$ customers./NNS './POS needs./NNS ../. 
+b./NN ../. Opportunities./NNS ,./, observations./NNS ,./, and./CC experimentation./NN from./IN various./JJ technology./NN domains./NNS that./WDT may./MD be./VB useful./JJ for./IN subsidiaries./NNS ../. 
+2./CD ../. Development./NNP of./IN moonshot./NN or./CC industry-changing./JJ ideas./NNS ../. 
+3./LS ../. Disruption./NNP prevention./NN -./: researching./VBG potential./JJ innovation./NN to./TO the./DT insurance./NN industry./NN and./CC providing./VBG insight./NN and./CC assistance./NN to./TO subsidiaries./NNS so./IN they./PRP can./MD adapt./VB ../. 
+4./CD ../. Growing./VBG a./DT culture./NN of./IN innovation./NN throughout./IN Fairfax./NNP global./JJ operations./NNS ../. 
+
+What./WP we./PRP are./VBP looking./VBG for./IN 
+
+-./: Quick./NN learners./NNS with./IN an./DT analytical./JJ mindset./NN ../. 
+-./: Detail-oriented./JJ and./CC curiosity./NN to./TO help./VB deliver./VB inspiring./NN ,./, provocative./JJ and./CC disruptive./JJ results./NNS in./IN short./JJ amounts./NNS of./IN time./NN ../. 
+-./: Motivated./VBN ,./, team./NN players./NNS who./WP are./VBP capable./JJ of./IN owning./VBG and./CC driving./VBG assignments./NNS ../. 
+-./: Desire./NN to./TO learn./VB new./JJ technologies./NNS ,./, expand./VB your./PRP$ toolkit./NN ../. 
+-./: Entrepreneurial./NN spirit./NN and./CC a./DT desire./NN to./TO explore./VB the./DT unknown./JJ ../. 
+
+Skills./NNS 
+
+Given./VBN our./PRP$ mandate./NN ,./, our./PRP$ team./NN requires./VBZ a./DT breadth./NN of./IN skills./NNS ../. Individuals./NNS may./MD have./VB experience./NN or./CC skills./NNS in./IN the./DT areas./NNS listed./VBN below./IN :./: 
+
+-./: General./NNP software./NN development./NN using./VBG modern./JJ tools./NNS and./CC technologies./NNS 
+-./: Mobile./NN application./NN development./NN (./( native./JJ and/or./NN framework./NN )./) 
+-./: Project./NN Management./NN 
+-./: Data./NN Mining./NN and./CC Analysis./NN 
+-./: New./NNP Product./NNP Development./NNP 
+
+Background/Experience./NN Requirements./NNS 
+
+-./: Working./NN towards./IN a./DT degree./NN in./IN Engineering./NNP or./CC Math./NNP ../. 
+-./: Experience./NN working./VBG in./IN a./DT startup./NN or./CC small./JJ group./NN environment./NN ../. 
+-./: Knowledge./NN of./IN agile./JJ engineering./NN practices./NNS ,./, scrum./NN methods./NNS ,./, user-centered./JJ design./NN practices./NNS and./CC lean./JJ principles./NNS ../. 
+
+Fairfax./NNP Background./NNP 
+
+Fairfax./NNP Financial./NNP Holdings./NNP Limited./NNP is./VBZ a./DT holding./VBG company./NN which./WDT ,./, through./IN its./PRP$ subsidiaries./NNS ,./, is./VBZ engaged./VBN in./IN property./NN and./CC casualty./NN insurance./NN and./CC reinsurance./NN and./CC investment./NN management./NN ../. Fairfax./NNP 's./POS corporate./JJ objective./NN is./VBZ to./TO achieve./VB a./DT high./JJ rate./NN of./IN return./NN on./IN invested./JJ capital./NN and./CC build./VB long-term./JJ shareholder./NN value./NN ../. Fairfax./NNP was./VBD founded./VBN in./IN 1985./CD by./IN the./DT present./JJ Chairman./NNP and./CC Chief./NNP Executive./NNP Officer./NNP ,./, V../NNP Prem./NNP Watsa./NNP ../. The./DT company./NN has./VBZ been./VBN under./IN present./JJ management./NN since./IN 1985./CD and./CC is./VBZ headquartered./VBN in./IN Toronto./NNP ,./, Canada./NNP ../. We./PRP encourage./VBP you./PRP to./TO read./VB our./PRP$ Guiding./VBG Principles./NNS at./IN www.Fairfax.ca./NN 
+
+For./IN more./JJR information./NN on./IN the./DT Fairfax./NNP Co-op./NNP Program./NNP please./VB visit./VB co-op.fairfax.ca./JJ and./CC attend./VB our./PRP$ information./NN session./NN on./IN September./NNP 26th./CD at./IN 11:30./CD am./VBP in./IN TC./NNP 2218./CD ../. 

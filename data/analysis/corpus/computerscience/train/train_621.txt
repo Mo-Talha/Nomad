@@ -1,0 +1,38 @@
+General./NNP Motors./NNPS will./MD be./VB hosting./VBG an./DT information./NN session./NN on./IN Oct../NNP 20./CD ,./, 2016./CD from./IN 7:30./CD PM./NNP -./: 9:30./CD PM./NNP at./IN Sedra./NNP Student./NNP Design./NNP Centre./NNP ,./, E5-1001./NNP ../. Please./NNP plan./NN to./TO attend./VB ../. Visit./NNP www.ceca.uwaterloo.ca/students/sessions.php./NN to./TO register./VB ../. 
+
+At./IN General./NNP Motors./NNPS ,./, we./PRP are./VBP passionate./JJ about./IN earning./VBG customers./NNS for./IN life./NN ../. This./DT vision./NN unites./VBZ us./PRP as./IN a./DT team./NN each./DT and./CC every./DT day./NN and./CC is./VBZ the./DT hallmark./NN of./IN our./PRP$ customer-driven./JJ culture./NN ../. We./PRP are./VBP driving./VBG forward./RB ,./, accelerating./VBG change./NN and./CC opening./VBG the./DT door./NN to./TO new./JJ thinking./NN and./CC advanced./JJ technology./NN ../. General./NNP Motors./NNPS of./IN Canada./NNP strives./NNS for./IN an./DT open./JJ ,./, interactive./JJ ,./, and./CC dynamic./JJ work./NN environment./NN that./WDT promotes./VBZ a./DT rapid./JJ exchange./NN of./IN ideas./NNS and./CC information./NN ../. Our./PRP$ employees./NNS represent./VBP a./DT true./JJ cross-section./NN of./IN cultures./NNS ,./, demographics./NNS ,./, and./CC lifestyles./NNS ,./, which./WDT help./VBP General./NNP Motors./NNPS to./TO succeed./VB worldwide./NN ../. General./NNP Motors./NNPS of./IN Canada./NNP is./VBZ continually./RB looking./VBG for./IN students./NNS who./WP have./VBP the./DT ideas./NNS and./CC ambition./NN to./TO drive./VB GM./NNP forward./RB as./IN a./DT faster./RBR moving./NN ,./, more./RBR agile./JJ ,./, highly./RB innovative./JJ developer./NN ,./, manufacturer./NN ,./, and./CC marketer./NN of./IN automotive./JJ components./NNS and./CC vehicles./NNS ../. 
+
+Interested./JJ in./IN joining./VBG a./DT company./NN that./WDT is./VBZ driving./VBG the./DT future./NN of./IN the./DT automotive./JJ industry./NN ?./. The./DT opportunity./NN you./PRP have./VBP been./VBN looking./VBG for./IN may./MD be./VB waiting./VBG for./IN you./PRP at./IN General./NNP Motors./NNPS of./IN Canada./NNP ../. 
+
+Role./NNP Summary./NNP 
+We./PRP are./VBP looking./VBG for./IN software./NN development./NN interns./NNS who./WP responsible./JJ for./IN the./DT development./NN and./CC maintenance./NN of./IN applications./NNS aimed./VBN Android./NNP based./VBN information./NN and./CC entertainment./NN (./( Infotainment./NNP )./) system./NN ../. The./DT primary./JJ focus./NN will./MD be./VB the./DT development./NN of./IN Android./NNP applications./NNS ../. You./PRP will./MD be./VB working./VBG along-side./JJ other./JJ engineers./NNS and./CC developers./NNS working./VBG on./IN different./JJ layers./NNS of./IN the./DT information./NN and./CC entertainment./NN system./NN ../. 
+
+Key./NNP Responsibilities./NNS 
+-Participate./NN in./IN all./DT regular./JJ software./NN development./NN activities./NNS 
+-Translate./NN designs./NNS into./IN high./JJ quality./NN Android./NNP base./NN Java./NNP code./NN 
+-Participate./NN in./IN maintenance./NN of./IN existing./VBG codes./NNS and./CC bug./NN fixes./NNS 
+-Participate./NN in./IN code./NN ,./, and./CC test./NN case./NN reviews./NNS 
+-Provide./RB clear./JJ and./CC complete./JJ documentation./NN based./VBN on./IN the./DT definition./NN of./IN the./DT software./NN development./NN process./NN 
+-Co-work./NN with./IN team./NN members./NNS in./IN software./NN development./NN activities./NNS using./VBG the./DT Scrum/Agile./NNP development./NN process./NN 
+
+Qualifications./NNS 
+-Knowledge./NN of./IN Android./NNP ecosystem./NN and./CC the./DT libraries./NNS available./JJ for./IN common./JJ tasks./NNS 
+-Knowledge./NN of./IN Android./NNP design./NN principles./NNS and./CC interface./NN guidelines./NNS 
+-Knowledge./NN of./IN SCM./NNP tools./NNS such./JJ as./IN :./: GIT./NNP ,./, JIRA./NNP etc./FW ../. 
+-Knowledge./NN of./IN Android./NNP development./NN toolkit./NN and./CC process./NN 
+-Knowledge./NN of./IN Scrum/Agile./NNP development./NN process./NN and./CC concept./NN of./IN continuous./JJ integration./NN 
+-Knowledge./NN of./IN Android./NNP SDK./NNP ,./, and./CC how./WRB to./TO deal./VB with./IN different./JJ screen./NN sizes./NNS is./VBZ a./DT plus./JJ 
+-Development./JJ experience./NN with./IN Java./NNP ,./, Android./NNP ,./, Application./NNP frameworks./VBZ is./VBZ a./DT plus./JJ 
+-Strong./JJ organizational./JJ ,./, problem./NN solving./NN and./CC analytical./JJ skills./NNS 
+-Highly./RB adaptable./JJ and./CC able./JJ to./TO work./VB independently./RB and./CC in./IN a./DT team./NN environment./NN 
+-Fundamental./JJ computer./NN skills./NNS including./VBG working./VBG knowledge./NN of./IN MS./NNP Word./NNP ,./, Excel./NNP and./CC PowerPoint./NNP 
+
+TO./NNP APPLY./NNP FOR./NNP THIS./NNP POSTION./NNP YOU./NNP MUST./NNP APPLY./NNP ONLINE./NNP (./( https./NN :./: //gm.taleo.net/careersection/10360/jobdetail.ftl./NN ?./. job=ENG0032006./NN )./) AND./CC APPLY./NNP THROUGH./NNP YOUR./NNP SCHOOL./NNP 'S./POS ONLINE./NNP SYSTEM./NNP AS./NNP REQUIRED./NNP 
+
+NOTE-./NNP YOU./NNP MUST./NNP BE./NNP ENROLLED./NNP IN./NNP A./NNP CO-OP./NNP OR./NNP INTERNSHIP./NNP PROGRAM./NNP AND./NNP MEET./NNP THE./NNP PROGRAM./NNP 'S./POS ELIGIBILITY./NNP REQUIREMENTS./NNP ../. ALL./DT STUDENTS./NNP MUST./NNP ALSO./NNP BE./NNP LEGALLY./NNP ENTITLED./NNP TO./NNP WORK./NNP IN./NNP CANADA./NNP ../. 
+
+Accommodation./NN is./VBZ available./JJ for./IN applicants./NNS with./IN disabilities./NNS ../. Should./MD you./PRP be./VB contacted./VBN by./IN General./NNP Motors./NNPS of./IN Canada./NNP Company./NNP ,./, please./NN advise./VB if./IN you./PRP require./VBP accommodation./NN ../. 
+
+For./IN more./JJR information./NN about./IN GM./NNP Canada./NNP ,./, visit./VB our./PRP$ website./NN at./IN www.gm.ca/careers./NNS 
+
+General./NNP Motors./NNPS of./IN Canada./NNP values./NNS diversity./NN and./CC is./VBZ an./DT equal./JJ opportunity./NN employer./NN ../. 
