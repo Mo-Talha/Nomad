@@ -8,10 +8,11 @@ class ChunkTagger(nltk.TaggerI):
             untagged_sent = nltk.tag.untag(tagged_sent)
             history = []
             for i, (word, tag) in enumerate(tagged_sent):
-                feature_set = self.chunk_features(untagged_sent, i, history)
+                feature_set = self.chunk_features(tagged_sent, i, history)
                 train_set.append((feature_set, tag))
                 history.append(tag)
-        self.classifier = nltk.MaxentClassifier.train(train_set, algorithm='megam', trace=0)
+                #algorithm='megam'
+        self.classifier = nltk.MaxentClassifier.train(train_set, trace=0)
 
     def tag(self, sentence):
         history = []
