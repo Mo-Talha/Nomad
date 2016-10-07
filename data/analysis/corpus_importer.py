@@ -26,6 +26,8 @@ for i, job in enumerate(Job.objects(programs="MATH-Computer Science")):
 
     sentences = tokenizer.tokenize(summary, comp_keywords)
 
+    continue
+
     sentences = [nltk.pos_tag(sent) for sent in sentences]
 
     for sentence in sentences:

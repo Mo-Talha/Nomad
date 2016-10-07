@@ -16,12 +16,15 @@ def tokenize(summary, keywords):
 
             for keyword_index, keyword in enumerate(keywords):
 
+                if 'Java' in sent:
+                    print "found java"
+
                 keyword_pattern = re.compile(r'[\s*|,]({})[\s*|,]'.format(re.escape(keyword)), re.IGNORECASE)
 
                 keyword_found = keyword_pattern.search(sent)
 
                 if keyword_found:
-                    parsed_sent = re.sub(keyword_pattern, r'TOKENIZER_KEYWORD_{} '.format(keyword_index), parsed_sent)
+                    parsed_sent = re.sub(keyword_pattern, r' TOKENIZER_KEYWORD_{} '.format(keyword_index), parsed_sent)
 
                     history.append(('TOKENIZER_KEYWORD_{}'.format(keyword_index), keyword))
 
