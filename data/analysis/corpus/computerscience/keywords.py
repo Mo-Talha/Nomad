@@ -170,10 +170,6 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'Assembly language': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'Assembly': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -198,7 +194,11 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'AutoLISP / Visual LISP': {
+    'AutoLISP': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Visual LISP': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -219,6 +219,14 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ASP.NET': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'ASP': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    '.NET': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -358,10 +366,6 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'CFEngine': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'CFML': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -383,10 +387,6 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Charm': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Chef': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -598,10 +598,6 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'dBase': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'dc': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -746,7 +742,7 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'EusLisp Robot Programming Language': {
+    'EusLisp Robot': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -926,6 +922,10 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'Golang': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'Go!': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -947,10 +947,6 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Google Apps Script': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Google App Engine': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -977,6 +973,10 @@ keywords = {
     'Groovy': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Grails': {
+        'keyword': 'Grails',
+        'type': keyword_type.types['FRWK']
     },
     'H': {
         'keyword': 'ALGOL 68',
@@ -1152,6 +1152,14 @@ keywords = {
     },
     'Java': {
         'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'J2EE': {
+        'keyword': 'Java EE',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'JEE': {
+        'keyword': 'Java EE',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'JavaScript': {
@@ -1444,10 +1452,6 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Magma': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'make': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -1935,6 +1939,10 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'PL/11': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'PL-11': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -1943,7 +1951,15 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'PL-0': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'PL/B': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'PL-B': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -1951,7 +1967,15 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'PL-C': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'PL/I': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'PL-I': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -1959,11 +1983,23 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'PL-M': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'PL/P': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'PL-P': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'PL/SQL': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'PL-SQL': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -2175,6 +2211,10 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'JRuby': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'RuneScript': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -2188,10 +2228,6 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'S2': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'S3': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -2499,10 +2535,6 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'Tom': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'TOM': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -2584,6 +2616,10 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Unix shell': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Shell': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -2676,6 +2712,10 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Wolfram Language': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Wolfram': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -2785,219 +2825,379 @@ keywords = {
     },
     'T-SQL': {
        'keyword': 'ALGOL 68',
-       'type': keyword_type.types['DB_LANG']
+       'type': keyword_type.types['DB']
     },
     'SQL': {
         'keyword': 'ALGOL 68',
-        'type': keyword_type.types['DB_LANG']
+        'type': keyword_type.types['DB']
     },
     'NoSQL': {
         'keyword': 'ALGOL 68',
-        'type': keyword_type.types['DB_LANG']
+        'type': keyword_type.types['DB']
     },
     'Graph databases': {
         'keyword': 'ALGOL 68',
-        'type': keyword_type.types['DB_LANG']
+        'type': keyword_type.types['DB']
+    },
+    'Thrift': {
+        'keyword': 'Apache Thrift',
+        'type': keyword_type.types['APACHE_FRWK']
+    },
+    'Pig': {
+        'keyword': 'Apache Pig',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Abdera': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Abdera',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Accumulo': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Accumulo',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'ActiveMQ': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache ActiveMQ',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Allura': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Allura',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Ant': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Ant',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Buildr': {
+        'keyword': 'Apache Buildr',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
     },
     'Arrow': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Arrow',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'APR': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache APR',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Archiva': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Archiva',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Beam': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Beam',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Beehive': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Beehive',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Bloodhound': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Bloodhound',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Calcite': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Calcite',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Camel': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Camel',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Celix': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Celix',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'CloudStack': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache CloudStack',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Cocoon': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Cocoon',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Commons': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Commons',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Continuum': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Continuum',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Cordova': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Cordova',
+        'type': keyword_type.types['MOBILE_FRWK']
     },
     'cTAKES': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache cTAKES',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Curator': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Curator',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'CXF': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache CXF',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Cassandra': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Cassandra',
+        'type': keyword_type.types['DB']
     },
     'Cayenne': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Cayenne',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'CouchDB': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache CouchDB',
+        'type': keyword_type.types['DB']
     },
     'Derby': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Derby',
+        'type': keyword_type.types['DB']
     },
     'JDO': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache JDO',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Torque': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Torque',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Directory': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Directory',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Felix': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Felix',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Flex': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Flex',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Flink': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Flink',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Forrest': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Forrest',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Flume': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Flume',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Geronimo': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Geronimo',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Giraph': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Giraph',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Gump': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
-    },
-    'Harmony': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Gump',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Hadoop': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Hadoop',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'HiveMind': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache HiveMind',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Apache HTTP': {
         'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'AOLserver': {
+        'keyword': 'AOLserver',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Boa': {
+        'keyword': 'Boa',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Caddy': {
+        'keyword': 'Caddy',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Caudium': {
+        'keyword': 'Caudium',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Cherokee HTTP Server': {
+        'keyword': 'Cherokee HTTP Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'GlassFish': {
+        'keyword': 'GlassFish',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Hiawatha': {
+        'keyword': 'Hiawatha',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'HFS': {
+        'keyword': 'HFS',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'IBM HTTP Server': {
+        'keyword': 'IBM HTTP Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Internet Information Services': {
+        'keyword': 'IIS',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'IIS': {
+        'keyword': 'IIS',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Jetty': {
+        'keyword': 'Jetty',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Jexus': {
+        'keyword': 'Jexus',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'lighttpd': {
+        'keyword': 'lighttpd',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'LiteSpeed Web Server': {
+        'keyword': 'LiteSpeed Web Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Mongoose': {
+        'keyword': 'Mongoose',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Monkey HTTP Server': {
+        'keyword': 'Monkey HTTP Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'NaviServer': {
+        'keyword': 'NaviServer',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'NCSA HTTPd': {
+        'keyword': 'NCSA HTTPd',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Nginx': {
+        'keyword': 'Nginx',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'OpenLiteSpeed': {
+        'keyword': 'OpenLiteSpeed',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Oracle HTTP Server': {
+        'keyword': 'Oracle HTTP Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Oracle iPlanet Web Server': {
+        'keyword': 'Oracle iPlanet Web Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Oracle WebLogic Server': {
+        'keyword': 'Oracle WebLogic Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Resin Open Source': {
+        'keyword': 'Resin',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Resin Professional': {
+        'keyword': 'Resin',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Resin': {
+        'keyword': 'Resin',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'thttpd': {
+        'keyword': 'thttpd',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'TUX web server': {
+        'keyword': 'TUX web server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Wakanda Server': {
+        'keyword': 'Wakanda Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'WEBrick': {
+        'keyword': 'WEBrick',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Xitami': {
+        'keyword': 'Xitami',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Yaws': {
+        'keyword': 'Yaws',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Zeus Web Server': {
+        'keyword': 'Zeus Web Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Zope': {
+        'keyword': 'Zope',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'JBoss': {
+        'keyword': 'Boss EAP',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'JBoss EAP': {
+        'keyword': 'Boss EAP',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Tornado': {
+        'keyword': 'Tornado (web server)',
+        'type': keyword_type.types['WEB_SRV']
     },
     'iBATIS': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache iBATIS',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Jackrabbit': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Jackrabbit',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Jakarta': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Jakarta',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'James': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache James',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'jclouds': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache jclouds',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Kafka': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Kafka',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Kylin': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Kylin',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Lenya': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Lenya',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'log4j': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache log4j',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Lucene': {
         'keyword': 'ALGOL 68',
@@ -3007,692 +3207,1375 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['SEARCH_SRV']
     },
+    'Elasticsearch': {
+        'keyword': 'Elasticsearch',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
     'Lucy': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Lucy',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Mahout': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Lucy',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Marmotta': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Marmotta',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Maven': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Maven',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
     },
     'MINA': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache MINA',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'MyFaces': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache MyFaces',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'OFBiz': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache OFBiz',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Olingo': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Olingo',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'OODT': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache OODT',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Oozie': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Oozie',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'OpenJPA': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache OpenJPA',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'OpenNLP': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache OpenNLP',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'OpenOffice': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache OpenOffice',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'PDFBox': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache PDFBox',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Pivot': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Pivot',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Phoenix': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Phoenix',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'HBase': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache HBase',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'POI': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache POI',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Portals': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Portals',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Qpid': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Qpid',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Samza': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Samza',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Santuario': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Santuario',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'ServiceMix': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache ServiceMix',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Shale': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Shale',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Singa': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Singa',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'SpamAssassin': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache SpamAssassin',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Spark': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Spark',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Stanbol': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Stanbol',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Stonehenge': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Stonehenge',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Stratos': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Stratos',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Struts': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Struts',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Subversion': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Subversion',
+        'type': keyword_type.types['VC']
     },
     'SVN': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Subversion',
+        'type': keyword_type.types['VC']
     },
     'Git': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Git',
+        'type': keyword_type.types['VC']
+    },
+    'P4': {
+        'keyword': 'P4',
+        'type': keyword_type.types['VC']
+    },
+    'Perforce': {
+        'keyword': 'Perforce',
+        'type': keyword_type.types['VC']
+    },
+    'VCS': {
+        'keyword': 'VCS',
+        'type': keyword_type.types['VC']
     },
     'Tapestry': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Tapestry',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Tajo': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Tajo',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Tika': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Tika',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Tomcat': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Tomcat',
+        'type': keyword_type.types['WEB_SRV']
     },
     'UIMA': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache UIMA',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Velocity': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Velocity',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Wave': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Wave',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Axis': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Axis',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Muse': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Muse',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Rampart': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Rampart',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Tuscany': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Tuscany',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Wicket': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Wicket',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Xalan': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Xalan',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Xerces': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Xerces',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'XMLBeans': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache XMLBeans',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Batik': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Batik',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'FOP': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache FOP',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Zest': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Zest',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Zookeeper': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['FRWK']
+        'keyword': 'Apache Zookeeper',
+        'type': keyword_type.types['APACHE_FRWK']
+    },
+    'Storm': {
+        'keyword': 'Apache Storm',
+        'type': keyword_type.types['APACHE_FRWK']
+    },
+    'ASDF': {
+        'keyword': 'ASDF',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'A-A-P': {
+        'keyword': 'A-A-P',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Brazel': {
+        'keyword': 'Brazel',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'BitBake': {
+        'keyword': 'BitBake',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Boot': {
+        'keyword': 'Boot',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Buck': {
+        'keyword': 'Buck',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Cabal': {
+        'keyword': 'Cabal',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'FinalBuilder': {
+        'keyword': 'FinalBuilder',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Flowtracer': {
+        'keyword': 'Flowtracer',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Gradle': {
+        'keyword': 'Gradle',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'IncrediBuild': {
+        'keyword': 'IncrediBuild',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Leiningen': {
+        'keyword': 'Leiningen',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'MSBuild': {
+        'keyword': 'MSBuild',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'NAnt': {
+        'keyword': 'NAnt',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Octopus Deploy': {
+        'keyword': 'Octopus Deploy',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Perforce Jam': {
+        'keyword': 'Perforce Jam',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Psake': {
+        'keyword': 'Psake',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Rake': {
+        'keyword': 'Rake',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'sbt': {
+        'keyword': 'sbt',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'SCons': {
+        'keyword': 'SCons',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Stack': {
+        'keyword': 'Stack',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Tweaker': {
+        'keyword': 'Tweaker',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Visual Build': {
+        'keyword': 'Visual Build',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Waf': {
+        'keyword': 'Waf',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'AnthillPro': {
+        'keyword': 'AnthillPro',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Bamboo': {
+        'keyword': 'Bamboo',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Buildbot': {
+        'keyword': 'Buildbot',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'BuiltIT': {
+        'keyword': 'BuiltIT',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Buildout': {
+        'keyword': 'Buildout',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'CABIE': {
+        'keyword': 'CABIE',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'CruiseControl': {
+        'keyword': 'CruiseControl',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'DeployBot': {
+        'keyword': 'DeployBot',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Hudson': {
+        'keyword': 'Hudson',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
     },
     'Jenkins': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['AUTO_TOOl']
+        'keyword': 'Jenkins',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Team Foundation Server': {
+        'keyword': 'Team Foundation Server',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Visual Studio Team Services': {
+        'keyword': 'Visual Studio Team Services',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'TeamCity': {
+        'keyword': 'TeamCity',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Travis CI': {
+        'keyword': 'Travis CI',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Shippable': {
+        'keyword': 'Shippable',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Ansible': {
+        'keyword': 'Ansible',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'CFEngine': {
+        'keyword': 'CFEngine',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'Distelli': {
+        'keyword': 'Distelli',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'OpenMaker Software': {
+        'keyword': 'OpenMaker Software',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'Puppet': {
+        'keyword': 'Puppet',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'Salt': {
+        'keyword': 'Salt',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'Rex': {
+        'keyword': 'Rex',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
     },
     'Vagrant': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Vagrant',
         'type': keyword_type.types['VM_ENV']
     },
     'VMWare': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'VMWare',
         'type': keyword_type.types['VM_ENV']
     },
     'VirtualBox': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Puppet': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Elasticsearch': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Django': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Flask': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Machine learning': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Linux': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Unix': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Windows': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'PostgreSQL': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'MSSQL': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'MySQL': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'MarioDB': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Storm': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Presto': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Redis': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'MapReduce': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Shark': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Android': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'iOS': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'p4': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Perforce': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'OpenGl': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'DirectX': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'React': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'React.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'React Native': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Node.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Node': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Express': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Express.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'RethinkDB': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Backbone': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Backbone.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Marionette': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Marionette.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Ember': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Ember.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'jQuery': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Underscore': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Underscore.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Lodash': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Lodash.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'D3': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'D3.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'PhantomJS': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Selenium': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Grunt': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Grunt.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Gulp': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Gulp.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Aurelia': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Aurelia.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Meteor': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Meteor.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Polymer': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Polymer.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Knockout': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Knockout.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Vue': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Vue.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Mercury.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Three': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Three.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Moment': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Moment.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Ionic': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Chart.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Socket.io': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Twitter Bootstrap': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Jasmine': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Mustache': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Mustache.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Handlebars': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Handlebars.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Require.js': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Play Framework': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Play (Scala)': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Ruby on Rails': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Redux': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'ES6': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'VirtualBox',
         'type': keyword_type.types['VM_ENV']
     },
     'Docker': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['VM_ENV']
     },
-    'Amazon Web Services': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
+    'Linux': {
+        'keyword': 'Linux',
+        'type': keyword_type.types['OS']
     },
-    'AWS': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'XHTML': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'HTML': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'CSS': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'SQL Server': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Azure': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'AJAX': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Pig': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'JRuby': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Grails': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
+    'Unix': {
+        'keyword': 'Unix',
+        'type': keyword_type.types['OS']
     },
     'CentOS': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
+        'keyword': 'CentOS',
+        'type': keyword_type.types['OS']
     },
     'Ubuntu': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
+        'keyword': 'Ubuntu',
+        'type': keyword_type.types['OS']
     },
     'RHEL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'RHEL',
+        'type': keyword_type.types['OS']
+    },
+    'Windows': {
+        'keyword': 'Windows',
+        'type': keyword_type.types['OS']
+    },
+    'OS X': {
+        'keyword': 'OS X',
+        'type': keyword_type.types['OS']
+    },
+    'Django': {
+        'keyword': 'Django',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Flask': {
+        'keyword': 'Flask',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Play': {
+        'keyword': 'Play Framework',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+
+    'Play Framework': {
+        'keyword': 'Play Framework',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Play (Scala)': {
+        'keyword': 'Play Framework',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Rails': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Ruby on Rails': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'PostgreSQL': {
+        'keyword': 'PostgreSQL',
+        'type': keyword_type.types['DB']
+    },
+    'MSSQL': {
+        'keyword': 'MSSQL',
+        'type': keyword_type.types['DB']
+    },
+    'MS SQL': {
+        'keyword': 'MSSQL',
+        'type': keyword_type.types['DB']
+    },
+    '4th Dimension': {
+        'keyword': '4th Dimension',
+        'type': keyword_type.types['DB']
+    },
+    'Adabas D': {
+        'keyword': 'Adabas D',
+        'type': keyword_type.types['DB']
+    },
+    'Alpha Five': {
+        'keyword': 'Alpha Five',
+        'type': keyword_type.types['DB']
+    },
+    'Aster Data': {
+        'keyword': 'Aster Data',
+        'type': keyword_type.types['DB']
+    },
+    'Amazon Aurora': {
+        'keyword': 'Amazon Aurora',
+        'type': keyword_type.types['DB']
+    },
+    'Altibase': {
+        'keyword': 'Altibase',
+        'type': keyword_type.types['DB']
+    },
+    'CA Datacom': {
+        'keyword': 'CA Datacom',
+        'type': keyword_type.types['DB']
+    },
+    'CA IDMS': {
+        'keyword': 'CA IDMS',
+        'type': keyword_type.types['DB']
+    },
+    'Clustrix': {
+        'keyword': 'Clustrix',
+        'type': keyword_type.types['DB']
+    },
+    'CSQL': {
+        'keyword': 'CSQL',
+        'type': keyword_type.types['DB']
+    },
+    'CUBRID': {
+        'keyword': 'CUBRID',
+        'type': keyword_type.types['DB']
+    },
+    'DataEase': {
+        'keyword': 'DataEase',
+        'type': keyword_type.types['DB']
+    },
+    'Database Management Library': {
+        'keyword': 'Database Management Library',
+        'type': keyword_type.types['DB']
+    },
+    'Dataphor': {
+        'keyword': 'Dataphor',
+        'type': keyword_type.types['DB']
+    },
+    'dBase': {
+        'keyword': 'dBase',
+        'type': keyword_type.types['DB']
+    },
+    'Empress Embedded Database': {
+        'keyword': 'Empress Embedded Database',
+        'type': keyword_type.types['DB']
+    },
+    'EXASolution': {
+        'keyword': 'EXASolution',
+        'type': keyword_type.types['DB']
+    },
+    'EnterpriseDB': {
+        'keyword': 'EnterpriseDB',
+        'type': keyword_type.types['DB']
+    },
+    'eXtremeDB': {
+        'keyword': 'eXtremeDB',
+        'type': keyword_type.types['DB']
+    },
+    'FileMaker Pro': {
+        'keyword': 'FileMaker Pro',
+        'type': keyword_type.types['DB']
+    },
+    'Firebird': {
+        'keyword': 'Firebird',
+        'type': keyword_type.types['DB']
+    },
+    'FrontBase': {
+        'keyword': 'FrontBase',
+        'type': keyword_type.types['DB']
+    },
+    'Google Fusion Tables': {
+        'keyword': 'Google Fusion Tables',
+        'type': keyword_type.types['DB']
+    },
+    'Greenplum': {
+        'keyword': 'Greenplum',
+        'type': keyword_type.types['DB']
+    },
+    'GroveSite': {
+        'keyword': 'GroveSite',
+        'type': keyword_type.types['DB']
+    },
+    'H2': {
+        'keyword': 'H2',
+        'type': keyword_type.types['DB']
+    },
+    'Helix database': {
+        'keyword': 'Helix database',
+        'type': keyword_type.types['DB']
+    },
+    'HSQLDB': {
+        'keyword': 'HSQLDB',
+        'type': keyword_type.types['DB']
+    },
+    'IBM DB2': {
+        'keyword': 'IBM DB2',
+        'type': keyword_type.types['DB']
+    },
+    'IBM Lotus Approach': {
+        'keyword': 'IBM Lotus Approach',
+        'type': keyword_type.types['DB']
+    },
+    'IBM DB2 Express-C': {
+        'keyword': 'IBM DB2 Express-C',
+        'type': keyword_type.types['DB']
+    },
+    'Infobright': {
+        'keyword': 'Infobright',
+        'type': keyword_type.types['DB']
+    },
+    'Informix': {
+        'keyword': 'Informix',
+        'type': keyword_type.types['DB']
+    },
+    'Ingres': {
+        'keyword': 'Ingres',
+        'type': keyword_type.types['DB']
+    },
+    'InterBase': {
+        'keyword': 'InterBase',
+        'type': keyword_type.types['DB']
+    },
+    'InterSystems Cache': {
+        'keyword': 'InterSystems Cache',
+        'type': keyword_type.types['DB']
+    },
+    'GT.M': {
+        'keyword': 'GT.M',
+        'type': keyword_type.types['DB']
+    },
+    'LibreOffice Base': {
+        'keyword': 'LibreOffice Base',
+        'type': keyword_type.types['DB']
+    },
+    'Linter': {
+        'keyword': 'Linter',
+        'type': keyword_type.types['DB']
+    },
+    'MaxDB': {
+        'keyword': 'MaxDB',
+        'type': keyword_type.types['DB']
+    },
+    'MemSQL': {
+        'keyword': 'MemSQL',
+        'type': keyword_type.types['DB']
+    },
+    'Microsoft Access': {
+        'keyword': 'Microsoft Access',
+        'type': keyword_type.types['DB']
+    },
+    'Microsoft Jet Database Engine': {
+        'keyword': 'Microsoft Jet Database Engine',
+        'type': keyword_type.types['DB']
+    },
+    'SQL Azure': {
+        'keyword': 'SQL Azure',
+        'type': keyword_type.types['DB']
+    },
+    'Microsoft Visual FoxPro': {
+        'keyword': 'Microsoft Visual FoxPro',
+        'type': keyword_type.types['DB']
+    },
+    'Mimer SQL': {
+        'keyword': 'Mimer SQL',
+        'type': keyword_type.types['DB']
+    },
+    'MonetDB': {
+        'keyword': 'MonetDB',
+        'type': keyword_type.types['DB']
+    },
+    'mSQL': {
+        'keyword': 'mSQL',
+        'type': keyword_type.types['DB']
+    },
+    'Netezza': {
+        'keyword': 'Netezza',
+        'type': keyword_type.types['DB']
+    },
+    'NexusDB': {
+        'keyword': 'NexusDB',
+        'type': keyword_type.types['DB']
+    },
+    'NonStop SQL': {
+        'keyword': 'NonStop SQL',
+        'type': keyword_type.types['DB']
+    },
+    'NuoDB': {
+        'keyword': 'NuoDB',
+        'type': keyword_type.types['DB']
+    },
+    'Openbase': {
+        'keyword': 'Openbase',
+        'type': keyword_type.types['DB']
+    },
+    'OpenOffice.org Base': {
+        'keyword': 'OpenOffice.org Base',
+        'type': keyword_type.types['DB']
+    },
+    'Oracle': {
+        'keyword': 'Oracle',
+        'type': keyword_type.types['DB']
+    },
+    'Oracle Rdb': {
+        'keyword': 'Oracle Rdb',
+        'type': keyword_type.types['DB']
+    },
+    'Panorama': {
+        'keyword': 'Panorama',
+        'type': keyword_type.types['DB']
+    },
+    'Pervasive PSQL': {
+        'keyword': 'Pervasive PSQL',
+        'type': keyword_type.types['DB']
+    },
+    'Polyhedra': {
+        'keyword': 'Polyhedra',
+        'type': keyword_type.types['DB']
+    },
+    'Progress Software': {
+        'keyword': 'Progress Software',
+        'type': keyword_type.types['DB']
+    },
+    'RDM Embedded': {
+        'keyword': 'RDM Embedded',
+        'type': keyword_type.types['DB']
+    },
+    'RDM Server': {
+        'keyword': 'RDM Server',
+        'type': keyword_type.types['DB']
+    },
+    'R:Base': {
+        'keyword': 'R:Base',
+        'type': keyword_type.types['DB']
+    },
+    'The SAS system': {
+        'keyword': 'The SAS system',
+        'type': keyword_type.types['DB']
+    },
+    'SAND CDBMS': {
+        'keyword': 'SAND CDBMS',
+        'type': keyword_type.types['DB']
+    },
+    'SAP HANA': {
+        'keyword': 'SAP HANA',
+        'type': keyword_type.types['DB']
+    },
+    'SAP Sybase Adaptive Server Enterprise': {
+        'keyword': 'SAP Sybase Adaptive Server Enterprise',
+        'type': keyword_type.types['DB']
+    },
+    'SAP Sybase IQ': {
+        'keyword': 'SAP Sybase IQ',
+        'type': keyword_type.types['DB']
+    },
+    'SQL Anywhere': {
+        'keyword': 'SQL Anywhere',
+        'type': keyword_type.types['DB']
+    },
+    'ScimoreDB': {
+        'keyword': 'ScimoreDB',
+        'type': keyword_type.types['DB']
+    },
+    'SmallSQL': {
+        'keyword': 'SmallSQL',
+        'type': keyword_type.types['DB']
+    },
+    'solidDB': {
+        'keyword': 'solidDB',
+        'type': keyword_type.types['DB']
+    },
+    'SQLBase': {
+        'keyword': 'SQLBase',
+        'type': keyword_type.types['DB']
+    },
+    'SQLite': {
+        'keyword': 'SQLite',
+        'type': keyword_type.types['DB']
+    },
+    'Sybase Advantage Database Server': {
+        'keyword': 'Sybase Advantage Database Server',
+        'type': keyword_type.types['DB']
+    },
+    'Teradata': {
+        'keyword': 'Teradata',
+        'type': keyword_type.types['DB']
+    },
+    'Tibero': {
+        'keyword': 'Tibero',
+        'type': keyword_type.types['DB']
+    },
+    'TimesTen': {
+        'keyword': 'TimesTen',
+        'type': keyword_type.types['DB']
+    },
+    'Trafodion': {
+        'keyword': 'Trafodion',
+        'type': keyword_type.types['DB']
+    },
+    'txtSQL': {
+        'keyword': 'txtSQL',
+        'type': keyword_type.types['DB']
+    },
+    'Unisys RDMS 2200': {
+        'keyword': 'Unisys RDMS 2200',
+        'type': keyword_type.types['DB']
+    },
+    'UniData': {
+        'keyword': 'UniData',
+        'type': keyword_type.types['DB']
+    },
+    'UniVerse': {
+        'keyword': 'UniVerse',
+        'type': keyword_type.types['DB']
+    },
+    'Vectorwise': {
+        'keyword': 'Vectorwise',
+        'type': keyword_type.types['DB']
+    },
+    'Vertica': {
+        'keyword': 'Vertica',
+        'type': keyword_type.types['DB']
+    },
+    'VMDS': {
+        'keyword': 'VMDS',
+        'type': keyword_type.types['DB']
+    },
+    'Presto': {
+        'keyword': 'Presto (SQL Query Engine)',
+        'type': keyword_type.types['DB']
+    },
+    'RethinkDB': {
+        'keyword': 'RethinkDB',
+        'type': keyword_type.types['DB']
+    },
+    'Redis': {
+        'keyword': 'Redis',
+        'type': keyword_type.types['DATA_STRUCT_SRV']
+    },
+    'Memcached': {
+        'keyword': 'Memcached',
+        'type': keyword_type.types['DATA_STRUCT_SRV']
+    },
+    'Android': {
+        'keyword': 'Android',
         'type': keyword_type.types['VM_ENV']
     },
-    'Redshift': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
+    'Android Studio': {
+        'keyword': 'Android Studio',
+        'type': keyword_type.types['MOBILE_OS']
     },
-    'Lambda': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
+    'Android Studio/Java': {
+        'keyword': 'Android Studio/Java',
+        'type': keyword_type.types['MOBILE_OS']
     },
-    'UI/UX': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
+    'iOS': {
+        'keyword': 'iOS',
+        'type': keyword_type.types['MOBILE_OS']
     },
-    'UX/UI': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
+    'Angular': {
+        'keyword': 'AngularJS',
+        'type': keyword_type.types['JS_LIB']
     },
-    'Google Analytics': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
+    'Angular.js': {
+        'keyword': 'AngularJS',
+        'type': keyword_type.types['JS_LIB']
     },
-    'Thrift': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
+    'AngularJS': {
+        'keyword': 'AngularJS',
+        'type': keyword_type.types['JS_LIB']
     },
-    'Resque': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
+    'React': {
+        'keyword': 'React.js',
+        'type': keyword_type.types['JS_LIB']
     },
-    'Greenlets': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
+    'React.js': {
+        'keyword': 'React.js',
+        'type': keyword_type.types['JS_LIB']
     },
-    'Tornado': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
+    'React Native': {
+        'keyword': 'React Native',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Node': {
+        'keyword': 'Node.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Node.js': {
+        'keyword': 'Node.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Express': {
+        'keyword': 'Express.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Express.js': {
+        'keyword': 'Express.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Backbone': {
+        'keyword': 'Backbone.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Backbone.js': {
+        'keyword': 'Backbone.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Marionette': {
+        'keyword': 'Marionette.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Marionette.js': {
+        'keyword': 'Marionette.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Ember': {
+        'keyword': 'Ember.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Ember.js': {
+        'keyword': 'Ember.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'jQuery': {
+        'keyword': 'jQuery',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Underscore': {
+        'keyword': 'Underscore.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Underscore.js': {
+        'keyword': 'Underscore.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Lodash': {
+        'keyword': 'Lodash.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Lodash.js': {
+        'keyword': 'Lodash.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'D3': {
+        'keyword': 'D3.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'D3.js': {
+        'keyword': 'D3.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Grunt': {
+        'keyword': 'Grunt.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Grunt.js': {
+        'keyword': 'Grunt.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Gulp': {
+        'keyword': 'Gulp.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Gulp.js': {
+        'keyword': 'Gulp.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Aurelia': {
+        'keyword': 'Aurelia.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Aurelia.js': {
+        'keyword': 'Aurelia.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Meteor': {
+        'keyword': 'Meteor.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Meteor.js': {
+        'keyword': 'Meteor.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Polymer': {
+        'keyword': 'Polymer.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Polymer.js': {
+        'keyword': 'Polymer.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Knockout': {
+        'keyword': 'Knockout.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Knockout.js': {
+        'keyword': 'Knockout.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Vue': {
+        'keyword': 'Vue.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Vue.js': {
+        'keyword': 'Vue.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Mercury.js': {
+        'keyword': 'Mercury.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Three': {
+        'keyword': 'Three.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Three.js': {
+        'keyword': 'Three.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Moment': {
+        'keyword': 'Moment.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Moment.js': {
+        'keyword': 'Moment.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Ionic': {
+        'keyword': 'Ionic',
+        'type': keyword_type.types['MOBILE_FRWK']
+    },
+    'Chart': {
+        'keyword': 'Chart.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Chart.js': {
+        'keyword': 'Chart.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'SocketIO': {
+        'keyword': 'Socket.io',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Socket.io': {
+        'keyword': 'Socket.io',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Mustache': {
+        'keyword': 'Mustache.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Mustache.js': {
+        'keyword': 'Mustache.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Handlebars': {
+        'keyword': 'Handlebars.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Handlebars.js': {
+        'keyword': 'Handlebars.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Require.js': {
+        'keyword': 'Require.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'ECMAScript6': {
+        'keyword': 'ECMAScript6',
+        'type': keyword_type.types['Keyword']
+    },
+    'ES6': {
+        'keyword': 'ECMAScript6',
+        'type': keyword_type.types['Keyword']
+    },
+    'Phantom': {
+        'keyword': 'PhantomJS',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Phantom.js': {
+        'keyword': 'PhantomJS',
+        'type': keyword_type.types['Keyword']
+    },
+    'PhantomJS': {
+        'keyword': 'PhantomJS',
+        'type': keyword_type.types['Keyword']
+    },
+    'Selenium': {
+        'keyword': 'Selenium',
+        'type': keyword_type.types['Keyword']
+    },
+    'Amazon Web Services': {
+        'keyword': 'Amazon Web Services',
+        'type': keyword_type.types['Keyword']
+    },
+    'AWS': {
+        'keyword': 'Amazon Web Services',
+        'type': keyword_type.types['Keyword']
+    },
+    'EC2': {
+        'keyword': 'Amazon EC2',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Elastic MapReduce': {
+        'keyword': 'Amazon Elastic MapReduce',
+        'type': keyword_type.types['AWS_PRODUCT']
     },
     'Beanstalk': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
+        'keyword': 'Amazon Elastic Beanstalk',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon Lambda': {
+        'keyword': 'Amazon Lambda',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon Route 53': {
+        'keyword': 'Amazon Route 53',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon Virtual Private Cloud': {
+        'keyword': 'Amazon Virtual Private Cloud',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon Simple Storage Service': {
+        'keyword': 'Amazon Simple Storage Service (S3)',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'S3': {
+        'keyword': 'Amazon Simple Storage Service',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Glacier': {
+        'keyword': 'Amazon Glacier',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon Elastic Block Store': {
+        'keyword': 'Amazon Elastic Block Store',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'EBS': {
+        'keyword': 'Amazon Elastic Block Store',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'DynamoDB': {
+        'keyword': 'Amazon DynamoDB',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'ElastiCache': {
+        'keyword': 'Amazon ElastiCache',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Redshift': {
+        'keyword': 'Amazon Redshift',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon SimpleDB': {
+        'keyword': 'Amazon SimpleDB',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'XHTML': {
+        'keyword': 'XHTML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'HTML': {
+        'keyword': 'HTML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'CSS': {
+        'keyword': 'CSS',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'LESS': {
+        'keyword': 'LESS',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'SASS': {
+        'keyword': 'SASS',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Bootstrap': {
+        'keyword': 'Bootstrap',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'awsm.css': {
+        'keyword': 'awsm.css',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Baseguide': {
+        'keyword': 'Baseguide',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'BoxySheets': {
+        'keyword': 'BoxySheets',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Bulma': {
+        'keyword': 'Bulma',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Cascade Framework': {
+        'keyword': 'Cascade Framework',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Cascade Framework Light': {
+        'keyword': 'Cascade Framework Light',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Chopstick': {
+        'keyword': 'Chopstick',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Concise': {
+        'keyword': 'Concise',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Flexify': {
+        'keyword': 'Flexify',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'floatz': {
+        'keyword': 'floatz',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Foundation': {
+        'keyword': 'Foundation',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Ink': {
+        'keyword': 'Ink',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'inuitcss': {
+        'keyword': 'inuitcss',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Jalsonic Opinion': {
+        'keyword': 'Jalsonic Opinion',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Kathamo': {
+        'keyword': 'Kathamo',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Kube': {
+        'keyword': 'Kube',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Kule Lazy': {
+        'keyword': 'Kule Lazy',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Material Design Lite': {
+        'keyword': 'Material Design Lite',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Materialize': {
+        'keyword': 'Materialize',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Modest Grid': {
+        'keyword': 'Modest Grid',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Pure CSS': {
+        'keyword': 'Pure CSS',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Responsee': {
+        'keyword': 'Responsee',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Responsive BP': {
+        'keyword': 'Responsive BP',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Responsive Grid System': {
+        'keyword': 'Responsive Grid System',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Schema UI': {
+        'keyword': 'Schema UI',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Semantic UI': {
+        'keyword': 'Semantic UI',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Sierra SCSS Library': {
+        'keyword': 'Sierra SCSS Library',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Tacit': {
+        'keyword': 'Tacit',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'uikit': {
+        'keyword': 'uikit',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Unsemantic': {
+        'keyword': 'Unsemantic',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Visual Component Library (VCL)': {
+        'keyword': 'Visual Component Library (VCL)',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'W3.CSS': {
+        'keyword': 'W3.CSS',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Wee': {
+        'keyword': 'Wee',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Diisba framework': {
+        'keyword': 'Diisba framework',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Resque': {
+        'keyword': 'Resque',
+        'type': keyword_type.types['KEYWORD']
     },
     'Celery': {
         'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Arduino': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'FreeBSD': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'NetBSD': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'OpenBSD': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'JBoss': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'Golang': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
-    },
-    'SASS': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['VM_ENV']
+        'type': keyword_type.types['KEYWORD']
     },
     'Neural Networks': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Neural Networks',
         'type': keyword_type.types['VM_ENV']
-    }
+    },
+    'Machine learning': {
+        'keyword': 'Machine learning',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'MapReduce': {
+        'keyword': 'Machine learning',
+        'type': keyword_type.types['KEYWORD']
+    },
 }
 
 
 def get_keywords():
     return [keyword for keyword in keywords]
+
+
+def generate_keywords(summary):
+    k = []
+
+    for key in keywords:
+        if key in summary:
+            k.append(key)
+
+    return k

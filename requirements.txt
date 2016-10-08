@@ -4,3 +4,4 @@ mongoengine==0.10.6
 redis==2.10.5
 lxml==3.6.4
 nltk==3.2.1
+numpy==1.11.2

@@ -16,9 +16,6 @@ def tokenize(summary, keywords):
 
             for keyword_index, keyword in enumerate(keywords):
 
-                if 'Java' in sent:
-                    print "found java"
-
                 keyword_pattern = re.compile(r'[\s*|,]({})[\s*|,]'.format(re.escape(keyword)), re.IGNORECASE)
 
                 keyword_found = keyword_pattern.search(sent)
