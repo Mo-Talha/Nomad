@@ -19,7 +19,7 @@ comp_keywords = set(comp_sci_keywords.get_keywords())
 
 for i, job in enumerate(Job.objects(programs="MATH-Computer Science")):
 
-    if i < 500:
+    if i < 505:
         continue
 
     summary = engine.filter_summary(job.summary).encode('ascii', 'ignore')
@@ -32,7 +32,11 @@ for i, job in enumerate(Job.objects(programs="MATH-Computer Science")):
     for sentence in sentences:
         begin = False
         inside = False
+        contains_keyword = False
+
         iob_tag = ''
+
+        iob_tags = []
 
         for word in sentence:
 
@@ -44,6 +48,7 @@ for i, job in enumerate(Job.objects(programs="MATH-Computer Science")):
 
                 else:
                     begin = True
+                    contains_keyword = True
 
                     if begin and not inside:
                         begin = False
@@ -54,6 +59,10 @@ for i, job in enumerate(Job.objects(programs="MATH-Computer Science")):
                         iob_tag = '{} {} I-KEYWORD'.format(*word)
 
             if iob_tag:
-                train_file.write(iob_tag + "\n")
+                iob_tags.append(iob_tag)
+
+        if contains_keyword:
+            for iob in iob_tags:
+                train_file.write(iob + "\n")
 
 train_file.close()

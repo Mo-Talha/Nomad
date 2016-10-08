@@ -17,6 +17,10 @@ keywords = {
         'keyword': 'A++',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'Arduino': {
+        'keyword': 'Arduino',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'ABAP': {
         'keyword': 'ABAP',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -323,6 +327,10 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'C--': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'C/C++': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -1166,6 +1174,14 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'Java Script': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'JS': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'JCL': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -1767,6 +1783,26 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'Obj C': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Obj-C': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Objective C': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Xcode/Objective-C': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Xcode/Objective C': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'Objective-J': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -2207,6 +2243,18 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'Ruby/Ruby on Rails': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Ruby on Rails': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Rails': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK']
+    },
     'Ruby': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -2639,7 +2687,27 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'VB': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'VBA': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'Visual Basic .NET': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'C#/VB.NET': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'VB .NET': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'VB.NET': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -2823,9 +2891,21 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'TSQL': {
+        'keyword': 'T-SQL',
+        'type': keyword_type.types['DB']
+    },
+    'T SQL': {
+        'keyword': 'T-SQL',
+        'type': keyword_type.types['DB']
+    },
     'T-SQL': {
-       'keyword': 'ALGOL 68',
+       'keyword': 'T-SQL',
        'type': keyword_type.types['DB']
+    },
+    'SQL Server': {
+        'keyword': 'MSSQL',
+        'type': keyword_type.types['DB']
     },
     'SQL': {
         'keyword': 'ALGOL 68',
@@ -2833,6 +2913,14 @@ keywords = {
     },
     'NoSQL': {
         'keyword': 'ALGOL 68',
+        'type': keyword_type.types['DB']
+    },
+    'MongoDB': {
+        'keyword': 'MongoDB',
+        'type': keyword_type.types['DB']
+    },
+    'Mongo': {
+        'keyword': 'MongoDB',
         'type': keyword_type.types['DB']
     },
     'Graph databases': {
@@ -3187,6 +3275,10 @@ keywords = {
         'keyword': 'Apache Kafka',
         'type': keyword_type.types['APACHE_FRWK']
     },
+    'RabbitMQ': {
+        'keyword': 'RabbitMQ',
+        'type': keyword_type.types['FRWK']
+    },
     'Kylin': {
         'keyword': 'Apache Kylin',
         'type': keyword_type.types['APACHE_FRWK']
@@ -3334,6 +3426,14 @@ keywords = {
     'Struts': {
         'keyword': 'Apache Struts',
         'type': keyword_type.types['APACHE_FRWK']
+    },
+    'Hibernate': {
+        'keyword': 'Hibernate ORM',
+        'type': keyword_type.types['FRWK']
+    },
+    'Spring': {
+        'keyword': 'Spring MVC',
+        'type': keyword_type.types['FRWK']
     },
     'Subversion': {
         'keyword': 'Apache Subversion',
@@ -3595,6 +3695,10 @@ keywords = {
         'keyword': 'Shippable',
         'type': keyword_type.types['CONT_INTEGRATION_TOOL']
     },
+    'Chef': {
+        'keyword': 'Chef',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
     'Ansible': {
         'keyword': 'Ansible',
         'type': keyword_type.types['CONF_MANAGE_TOOL']
@@ -3631,6 +3735,14 @@ keywords = {
         'keyword': 'VMWare',
         'type': keyword_type.types['VM_ENV']
     },
+    'Hyper V': {
+        'keyword': 'Hyper-V',
+        'type': keyword_type.types['VM_ENV']
+    },
+    'Hyper-V': {
+        'keyword': 'Hyper-V',
+        'type': keyword_type.types['VM_ENV']
+    },
     'VirtualBox': {
         'keyword': 'VirtualBox',
         'type': keyword_type.types['VM_ENV']
@@ -3639,7 +3751,15 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['VM_ENV']
     },
+    'Kali Linux': {
+        'keyword': 'Linux',
+        'type': keyword_type.types['OS']
+    },
     'Linux': {
+        'keyword': 'Linux',
+        'type': keyword_type.types['OS']
+    },
+    'Linux/Unix': {
         'keyword': 'Linux',
         'type': keyword_type.types['OS']
     },
@@ -3667,8 +3787,20 @@ keywords = {
         'keyword': 'OS X',
         'type': keyword_type.types['OS']
     },
+    'OSX': {
+        'keyword': 'OS X',
+        'type': keyword_type.types['OS']
+    },
+    'Python/Django': {
+        'keyword': 'Django',
+        'type': keyword_type.types['WEB_FRWK']
+    },
     'Django': {
         'keyword': 'Django',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Python/Flask': {
+        'keyword': 'Flask',
         'type': keyword_type.types['WEB_FRWK']
     },
     'Flask': {
@@ -3688,16 +3820,16 @@ keywords = {
         'keyword': 'Play Framework',
         'type': keyword_type.types['WEB_FRWK']
     },
-    'Rails': {
-        'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK']
-    },
-    'Ruby on Rails': {
-        'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK']
-    },
     'PostgreSQL': {
         'keyword': 'PostgreSQL',
+        'type': keyword_type.types['DB']
+    },
+    'Postgres': {
+        'keyword': 'PostgreSQL',
+        'type': keyword_type.types['DB']
+    },
+    'MySQL': {
+        'keyword': 'MySQL',
         'type': keyword_type.types['DB']
     },
     'MSSQL': {
@@ -3976,7 +4108,11 @@ keywords = {
         'keyword': 'SAP Sybase Adaptive Server Enterprise',
         'type': keyword_type.types['DB']
     },
-    'SAP Sybase IQ': {
+    'SAP Sybase': {
+        'keyword': 'SAP Sybase IQ',
+        'type': keyword_type.types['DB']
+    },
+    'Sybase': {
         'keyword': 'SAP Sybase IQ',
         'type': keyword_type.types['DB']
     },
@@ -4068,19 +4204,23 @@ keywords = {
         'keyword': 'Memcached',
         'type': keyword_type.types['DATA_STRUCT_SRV']
     },
+    'Android Studio': {
+        'keyword': 'Android',
+        'type': keyword_type.types['MOBILE_OS']
+    },
+    'Android Studio/Java': {
+        'keyword': 'Android',
+        'type': keyword_type.types['MOBILE_OS']
+    },
     'Android': {
         'keyword': 'Android',
         'type': keyword_type.types['VM_ENV']
     },
-    'Android Studio': {
-        'keyword': 'Android Studio',
-        'type': keyword_type.types['MOBILE_OS']
-    },
-    'Android Studio/Java': {
-        'keyword': 'Android Studio/Java',
-        'type': keyword_type.types['MOBILE_OS']
-    },
     'iOS': {
+        'keyword': 'iOS',
+        'type': keyword_type.types['MOBILE_OS']
+    },
+    'iPhone': {
         'keyword': 'iOS',
         'type': keyword_type.types['MOBILE_OS']
     },
@@ -4096,16 +4236,16 @@ keywords = {
         'keyword': 'AngularJS',
         'type': keyword_type.types['JS_LIB']
     },
+    'React Native': {
+        'keyword': 'React Native',
+        'type': keyword_type.types['JS_LIB']
+    },
     'React': {
         'keyword': 'React.js',
         'type': keyword_type.types['JS_LIB']
     },
     'React.js': {
         'keyword': 'React.js',
-        'type': keyword_type.types['JS_LIB']
-    },
-    'React Native': {
-        'keyword': 'React Native',
         'type': keyword_type.types['JS_LIB']
     },
     'Node': {
@@ -4294,11 +4434,11 @@ keywords = {
     },
     'ECMAScript6': {
         'keyword': 'ECMAScript6',
-        'type': keyword_type.types['Keyword']
+        'type': keyword_type.types['KEYWORD']
     },
     'ES6': {
         'keyword': 'ECMAScript6',
-        'type': keyword_type.types['Keyword']
+        'type': keyword_type.types['KEYWORD']
     },
     'Phantom': {
         'keyword': 'PhantomJS',
@@ -4306,23 +4446,23 @@ keywords = {
     },
     'Phantom.js': {
         'keyword': 'PhantomJS',
-        'type': keyword_type.types['Keyword']
+        'type': keyword_type.types['KEYWORD']
     },
     'PhantomJS': {
         'keyword': 'PhantomJS',
-        'type': keyword_type.types['Keyword']
+        'type': keyword_type.types['KEYWORD']
     },
     'Selenium': {
         'keyword': 'Selenium',
-        'type': keyword_type.types['Keyword']
+        'type': keyword_type.types['KEYWORD']
     },
     'Amazon Web Services': {
         'keyword': 'Amazon Web Services',
-        'type': keyword_type.types['Keyword']
+        'type': keyword_type.types['KEYWORD']
     },
     'AWS': {
         'keyword': 'Amazon Web Services',
-        'type': keyword_type.types['Keyword']
+        'type': keyword_type.types['KEYWORD']
     },
     'EC2': {
         'keyword': 'Amazon EC2',
@@ -4384,8 +4524,20 @@ keywords = {
         'keyword': 'Amazon SimpleDB',
         'type': keyword_type.types['AWS_PRODUCT']
     },
+    'HTML/XHTML': {
+        'keyword': 'XHTML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'XHTML': {
         'keyword': 'XHTML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'HTML/DHTML': {
+        'keyword': 'DHTML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'DHTML': {
+        'keyword': 'DHTML',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'HTML': {
@@ -4393,6 +4545,14 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CSS': {
+        'keyword': 'CSS',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'HTML5': {
+        'keyword': 'HTML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'CSS3': {
         'keyword': 'CSS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -4552,6 +4712,10 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['KEYWORD']
     },
+    'XML': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['KEYWORD']
+    },
     'Neural Networks': {
         'keyword': 'Neural Networks',
         'type': keyword_type.types['VM_ENV']
@@ -4574,8 +4738,10 @@ def get_keywords():
 def generate_keywords(summary):
     k = []
 
+    filtered_summary = summary.lower()
+
     for key in keywords:
-        if key in summary:
+        if key.lower() in filtered_summary:
             k.append(key)
 
     return k
