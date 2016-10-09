@@ -8,7 +8,7 @@ import data.analysis.corpus.computerscience.keywords as comp_sci_keywords
 
 class ChunkTagger(nltk.TaggerI):
     def __init__(self, train_sentences):
-        nltk.config_megam('/home/mo/Downloads/MEGAM/megam-64.opt')
+        nltk.config_megam('../algorithms/megam-64.opt')
 
         train_set = []
         for tagged_sent in train_sentences:

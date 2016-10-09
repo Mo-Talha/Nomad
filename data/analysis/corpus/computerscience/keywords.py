@@ -242,10 +242,16 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'Bash Scripting': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    """
     'BASIC': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    """
     'bc': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -331,6 +337,14 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'C++': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'C#/VB.NET': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'C#/.NET': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -982,9 +996,25 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'Groovy/Grails': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Grails/Groovy': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Groovy on Grails': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Groovy-on-Grails': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['WEB_FRWK']
+    },
     'Grails': {
         'keyword': 'Grails',
-        'type': keyword_type.types['FRWK']
+        'type': keyword_type.types['WEB_FRWK']
     },
     'Hack': {
         'keyword': 'ALGOL 68',
@@ -1173,6 +1203,22 @@ keywords = {
     'JS': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'ECMAScript6': {
+        'keyword': 'ECMAScript6',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'ES6': {
+        'keyword': 'ECMAScript6',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'ECMAScript7': {
+        'keyword': 'ECMAScript7',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'ES7': {
+        'keyword': 'ECMAScript7',
+        'type': keyword_type.types['KEYWORD']
     },
     'JCL': {
         'keyword': 'ALGOL 68',
@@ -1683,10 +1729,12 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    """
     'Nice': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    """
     'Nickle': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -1772,6 +1820,10 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Objective C': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'ObjectiveC': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -1919,6 +1971,10 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'Laravel': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['WEB_FRWK']
+    },
     'PHP7': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -1951,7 +2007,7 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'Pipelines': {
+    'CMS Pipelines': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -2232,6 +2288,18 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Ruby/Ruby on Rails': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Ruby/Ror': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Ruby/Rails': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Rails/Ruby': {
         'keyword': 'Ruby on Rails',
         'type': keyword_type.types['WEB_FRWK']
     },
@@ -2547,6 +2615,10 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'Tcl/Tk': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'Tea': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -2684,10 +2756,6 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Visual Basic .NET': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'C#/VB.NET': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -3436,15 +3504,19 @@ keywords = {
         'type': keyword_type.types['VC']
     },
     'P4': {
-        'keyword': 'P4',
+        'keyword': 'Perforce',
         'type': keyword_type.types['VC']
     },
     'Perforce': {
         'keyword': 'Perforce',
         'type': keyword_type.types['VC']
     },
-    'VCS': {
-        'keyword': 'VCS',
+    'CVS': {
+        'keyword': 'CVS',
+        'type': keyword_type.types['VC']
+    },
+    'Mercurial': {
+        'keyword': 'Mercurial',
         'type': keyword_type.types['VC']
     },
     'Tapestry': {
@@ -3526,6 +3598,14 @@ keywords = {
     'Storm': {
         'keyword': 'Apache Storm',
         'type': keyword_type.types['APACHE_FRWK']
+    },
+    'Makefile': {
+        'keyword': 'Makefile',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Makefiles': {
+        'keyword': 'Makefile',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
     },
     'ASDF': {
         'keyword': 'ASDF',
@@ -4278,7 +4358,7 @@ keywords = {
     },
     'React Native': {
         'keyword': 'React Native',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['MOBILE_FRWK']
     },
     'React': {
         'keyword': 'React.js',
@@ -4316,6 +4396,10 @@ keywords = {
         'keyword': 'Backbone.js',
         'type': keyword_type.types['JS_LIB']
     },
+    'BackboneJS': {
+        'keyword': 'Backbone.js',
+        'type': keyword_type.types['JS_LIB']
+    },
     'Backbone.js': {
         'keyword': 'Backbone.js',
         'type': keyword_type.types['JS_LIB']
@@ -4324,11 +4408,19 @@ keywords = {
         'keyword': 'Marionette.js',
         'type': keyword_type.types['JS_LIB']
     },
+    'MarionetteJS': {
+        'keyword': 'Marionette.js',
+        'type': keyword_type.types['JS_LIB']
+    },
     'Marionette.js': {
         'keyword': 'Marionette.js',
         'type': keyword_type.types['JS_LIB']
     },
     'Ember': {
+        'keyword': 'Ember.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'EmberJS': {
         'keyword': 'Ember.js',
         'type': keyword_type.types['JS_LIB']
     },
@@ -4341,6 +4433,10 @@ keywords = {
         'type': keyword_type.types['JS_LIB']
     },
     'Underscore': {
+        'keyword': 'Underscore.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'UnderscoreJS': {
         'keyword': 'Underscore.js',
         'type': keyword_type.types['JS_LIB']
     },
@@ -4360,7 +4456,15 @@ keywords = {
         'keyword': 'Lodash.js',
         'type': keyword_type.types['JS_LIB']
     },
+    'LodashJS': {
+        'keyword': 'Lodash.js',
+        'type': keyword_type.types['JS_LIB']
+    },
     'D3': {
+        'keyword': 'D3.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'D3JS': {
         'keyword': 'D3.js',
         'type': keyword_type.types['JS_LIB']
     },
@@ -4376,11 +4480,19 @@ keywords = {
         'keyword': 'Grunt.js',
         'type': keyword_type.types['JS_LIB']
     },
+    'GruntJS': {
+        'keyword': 'Grunt.js',
+        'type': keyword_type.types['JS_LIB']
+    },
     'Gulp': {
         'keyword': 'Gulp.js',
         'type': keyword_type.types['JS_LIB']
     },
     'Gulp.js': {
+        'keyword': 'Gulp.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'GulpJS': {
         'keyword': 'Gulp.js',
         'type': keyword_type.types['JS_LIB']
     },
@@ -4392,11 +4504,19 @@ keywords = {
         'keyword': 'Aurelia.js',
         'type': keyword_type.types['JS_LIB']
     },
+    'AureliaJS': {
+        'keyword': 'Aurelia.js',
+        'type': keyword_type.types['JS_LIB']
+    },
     'Meteor': {
         'keyword': 'Meteor.js',
         'type': keyword_type.types['JS_LIB']
     },
     'Meteor.js': {
+        'keyword': 'Meteor.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'MeteorJS': {
         'keyword': 'Meteor.js',
         'type': keyword_type.types['JS_LIB']
     },
@@ -4408,11 +4528,19 @@ keywords = {
         'keyword': 'Polymer.js',
         'type': keyword_type.types['JS_LIB']
     },
+    'PolymerJS': {
+        'keyword': 'Polymer.js',
+        'type': keyword_type.types['JS_LIB']
+    },
     'Knockout': {
         'keyword': 'Knockout.js',
         'type': keyword_type.types['JS_LIB']
     },
     'Knockout.js': {
+        'keyword': 'Knockout.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'KnockoutJS': {
         'keyword': 'Knockout.js',
         'type': keyword_type.types['JS_LIB']
     },
@@ -4424,15 +4552,29 @@ keywords = {
         'keyword': 'Vue.js',
         'type': keyword_type.types['JS_LIB']
     },
+    'VueJS': {
+        'keyword': 'Vue.js',
+        'type': keyword_type.types['JS_LIB']
+    },
     'Mercury.js': {
         'keyword': 'Mercury.js',
         'type': keyword_type.types['JS_LIB']
     },
+    'MercuryJS': {
+        'keyword': 'Mercury.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    """
     'Three': {
         'keyword': 'Three.js',
         'type': keyword_type.types['JS_LIB']
     },
+    """
     'Three.js': {
+        'keyword': 'Three.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'ThreeJS': {
         'keyword': 'Three.js',
         'type': keyword_type.types['JS_LIB']
     },
@@ -4442,6 +4584,14 @@ keywords = {
     },
     'Moment.js': {
         'keyword': 'Moment.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'MomentJS': {
+        'keyword': 'Moment.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Log4js': {
+        'keyword': 'Log4js',
         'type': keyword_type.types['JS_LIB']
     },
     'Ionic': {
@@ -4484,13 +4634,17 @@ keywords = {
         'keyword': 'Require.js',
         'type': keyword_type.types['JS_LIB']
     },
-    'ECMAScript6': {
-        'keyword': 'ECMAScript6',
-        'type': keyword_type.types['KEYWORD']
+    'Bower': {
+        'keyword': 'Bower',
+        'type': keyword_type.types['JS_LIB']
     },
-    'ES6': {
-        'keyword': 'ECMAScript6',
-        'type': keyword_type.types['KEYWORD']
+    'BowerJS': {
+        'keyword': 'Bower.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Bower.js': {
+        'keyword': 'Bower.js',
+        'type': keyword_type.types['JS_LIB']
     },
     'Phantom': {
         'keyword': 'PhantomJS',
@@ -4592,6 +4746,10 @@ keywords = {
         'keyword': 'DHTML',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'HTML 5': {
+        'keyword': 'HTML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'HTML': {
         'keyword': 'HTML',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -4618,6 +4776,10 @@ keywords = {
     },
     'SASS': {
         'keyword': 'SASS',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'SCSS': {
+        'keyword': 'SCSS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Bootstrap': {
@@ -4780,7 +4942,15 @@ keywords = {
         'keyword': 'Neural Networks',
         'type': keyword_type.types['VM_ENV']
     },
+    'Neural-Networks': {
+        'keyword': 'Neural Networks',
+        'type': keyword_type.types['VM_ENV']
+    },
     'Machine learning': {
+        'keyword': 'Machine learning',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'Machine-learning': {
         'keyword': 'Machine learning',
         'type': keyword_type.types['KEYWORD']
     },
@@ -4792,11 +4962,23 @@ keywords = {
         'keyword': 'Natural Language Processing',
         'type': keyword_type.types['KEYWORD']
     },
+    'Natural-Language-Processing': {
+        'keyword': 'Natural Language Processing',
+        'type': keyword_type.types['KEYWORD']
+    },
     'Artificial Intelligence': {
         'keyword': 'Artificial Intelligence',
         'type': keyword_type.types['KEYWORD']
     },
+    'Artificial-Intelligence': {
+        'keyword': 'Artificial Intelligence',
+        'type': keyword_type.types['KEYWORD']
+    },
     'Big Data': {
+        'keyword': 'Big Data',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'Big-Data': {
         'keyword': 'Big Data',
         'type': keyword_type.types['KEYWORD']
     },
