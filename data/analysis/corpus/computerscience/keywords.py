@@ -234,10 +234,6 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'B': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'Babbage': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -339,6 +335,14 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'C#': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'C#/Visual Studio': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Visual Studio/C#': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -471,10 +475,6 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Cobra': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'CODE': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -986,10 +986,6 @@ keywords = {
         'keyword': 'Grails',
         'type': keyword_type.types['FRWK']
     },
-    'H': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'Hack': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -1047,10 +1043,6 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'HyperTalk': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'I': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -1435,10 +1427,6 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'M': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'M2001': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -1635,10 +1623,6 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'N': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'NASM': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -1740,10 +1724,6 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'NXT-G': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'O': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -1883,7 +1863,7 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'P': {
+    "P''": {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -1936,6 +1916,10 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PHP': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'PHP7': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -2056,10 +2040,6 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PLEXIL': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Plus': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -2199,6 +2179,14 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'RedHat Linux': {
+        'keyword': 'RedHat Linux',
+        'type': keyword_type.types['OS']
+    },
+    'Red Hat Linux': {
+        'keyword': 'RedHat Linux',
+        'type': keyword_type.types['OS']
+    },
     'Red': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -2251,7 +2239,15 @@ keywords = {
         'keyword': 'Ruby on Rails',
         'type': keyword_type.types['WEB_FRWK']
     },
+    'Ruby-on-Rails': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK']
+    },
     'Rails': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Rails3': {
         'keyword': 'Ruby on Rails',
         'type': keyword_type.types['WEB_FRWK']
     },
@@ -2635,10 +2631,6 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'U': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'Ubercode': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -2672,10 +2664,6 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'UnrealScript': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'V': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -2751,10 +2739,6 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'W': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'WATFIV, WATFOR': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -2788,10 +2772,6 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Wyvern': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'X': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -2855,19 +2835,11 @@ keywords = {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'Y': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'Yorick': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'YQL': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Z': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -2923,7 +2895,15 @@ keywords = {
         'keyword': 'MongoDB',
         'type': keyword_type.types['DB']
     },
+    'Couchbase': {
+        'keyword': 'Couchbase',
+        'type': keyword_type.types['DB']
+    },
     'Graph databases': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['DB']
+    },
+    'Graph database': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['DB']
     },
@@ -3089,6 +3069,10 @@ keywords = {
     },
     'Hadoop': {
         'keyword': 'Apache Hadoop',
+        'type': keyword_type.types['APACHE_FRWK']
+    },
+    'Hive': {
+        'keyword': 'Apache Hive',
         'type': keyword_type.types['APACHE_FRWK']
     },
     'HiveMind': {
@@ -3300,6 +3284,10 @@ keywords = {
         'type': keyword_type.types['SEARCH_SRV']
     },
     'Elasticsearch': {
+        'keyword': 'Elasticsearch',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'Elastic Search': {
         'keyword': 'Elasticsearch',
         'type': keyword_type.types['SEARCH_SRV']
     },
@@ -3763,6 +3751,14 @@ keywords = {
         'keyword': 'Linux',
         'type': keyword_type.types['OS']
     },
+    'Unix/Linux': {
+        'keyword': 'Linux',
+        'type': keyword_type.types['OS']
+    },
+    'Solaris': {
+        'keyword': 'Solaris',
+        'type': keyword_type.types['OS']
+    },
     'Unix': {
         'keyword': 'Unix',
         'type': keyword_type.types['OS']
@@ -3788,6 +3784,18 @@ keywords = {
         'type': keyword_type.types['OS']
     },
     'OSX': {
+        'keyword': 'OS X',
+        'type': keyword_type.types['OS']
+    },
+    'Mac': {
+        'keyword': 'OS X',
+        'type': keyword_type.types['OS']
+    },
+    'Mac OS X': {
+        'keyword': 'OS X',
+        'type': keyword_type.types['OS']
+    },
+    'MacOS': {
         'keyword': 'OS X',
         'type': keyword_type.types['OS']
     },
@@ -3830,6 +3838,10 @@ keywords = {
     },
     'MySQL': {
         'keyword': 'MySQL',
+        'type': keyword_type.types['DB']
+    },
+    'MySQL/MariaDB': {
+        'keyword': 'MariaDB',
         'type': keyword_type.types['DB']
     },
     'MSSQL': {
@@ -4196,6 +4208,10 @@ keywords = {
         'keyword': 'RethinkDB',
         'type': keyword_type.types['DB']
     },
+    'Varnish': {
+        'keyword': 'Varnish',
+        'type': keyword_type.types['DATA_STRUCT_SRV']
+    },
     'Redis': {
         'keyword': 'Redis',
         'type': keyword_type.types['DATA_STRUCT_SRV']
@@ -4214,15 +4230,39 @@ keywords = {
     },
     'Android': {
         'keyword': 'Android',
-        'type': keyword_type.types['VM_ENV']
+        'type': keyword_type.types['MOBILE_OS']
     },
     'iOS': {
         'keyword': 'iOS',
         'type': keyword_type.types['MOBILE_OS']
     },
+    'Windows Mobile': {
+        'keyword': 'Windows Phone',
+        'type': keyword_type.types['MOBILE_OS']
+    },
+    'Windows Phone': {
+        'keyword': 'Windows Phone',
+        'type': keyword_type.types['MOBILE_OS']
+    },
     'iPhone': {
         'keyword': 'iOS',
         'type': keyword_type.types['MOBILE_OS']
+    },
+    'CommonJS': {
+        'keyword': 'CommonJS',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Common JS': {
+        'keyword': 'CommonJS',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Common.js': {
+        'keyword': 'CommonJS',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Webpack': {
+        'keyword': 'Webpack',
+        'type': keyword_type.types['JS_LIB']
     },
     'Angular': {
         'keyword': 'AngularJS',
@@ -4248,11 +4288,19 @@ keywords = {
         'keyword': 'React.js',
         'type': keyword_type.types['JS_LIB']
     },
+    'ReactJS': {
+        'keyword': 'React.js',
+        'type': keyword_type.types['JS_LIB']
+    },
     'Node': {
         'keyword': 'Node.js',
         'type': keyword_type.types['JS_LIB']
     },
     'Node.js': {
+        'keyword': 'Node.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'NodeJS': {
         'keyword': 'Node.js',
         'type': keyword_type.types['JS_LIB']
     },
@@ -4301,6 +4349,10 @@ keywords = {
         'type': keyword_type.types['JS_LIB']
     },
     'Lodash': {
+        'keyword': 'Lodash.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'Lo-dash': {
         'keyword': 'Lodash.js',
         'type': keyword_type.types['JS_LIB']
     },
@@ -4552,6 +4604,10 @@ keywords = {
         'keyword': 'HTML',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'CSS/CSS3': {
+        'keyword': 'CSS',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'CSS3': {
         'keyword': 'CSS',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -4565,6 +4621,10 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Bootstrap': {
+        'keyword': 'Bootstrap',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Dojo': {
         'keyword': 'Bootstrap',
         'type': keyword_type.types['CSS_FRWK']
     },
@@ -4724,7 +4784,27 @@ keywords = {
         'keyword': 'Machine learning',
         'type': keyword_type.types['KEYWORD']
     },
+    'Natural Language Processing': {
+        'keyword': 'Natural Language Processing',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'Natural-Language Processing': {
+        'keyword': 'Natural Language Processing',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'Artificial Intelligence': {
+        'keyword': 'Artificial Intelligence',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'Big Data': {
+        'keyword': 'Big Data',
+        'type': keyword_type.types['KEYWORD']
+    },
     'MapReduce': {
+        'keyword': 'Machine learning',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'Map/Reduce': {
         'keyword': 'Machine learning',
         'type': keyword_type.types['KEYWORD']
     },
