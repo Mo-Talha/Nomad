@@ -4324,6 +4324,10 @@ keywords = {
         'keyword': 'Windows Phone',
         'type': keyword_type.types['MOBILE_OS']
     },
+    'Blackberry': {
+        'keyword': 'Windows Phone',
+        'type': keyword_type.types['MOBILE_OS']
+    },
     'iPhone': {
         'keyword': 'iOS',
         'type': keyword_type.types['MOBILE_OS']
@@ -4598,11 +4602,11 @@ keywords = {
         'keyword': 'Ionic',
         'type': keyword_type.types['MOBILE_FRWK']
     },
-    'Chart': {
+    'Chart.js': {
         'keyword': 'Chart.js',
         'type': keyword_type.types['JS_LIB']
     },
-    'Chart.js': {
+    'ChartJS': {
         'keyword': 'Chart.js',
         'type': keyword_type.types['JS_LIB']
     },
@@ -4622,6 +4626,10 @@ keywords = {
         'keyword': 'Mustache.js',
         'type': keyword_type.types['JS_LIB']
     },
+    'MustacheJS': {
+        'keyword': 'Mustache.js',
+        'type': keyword_type.types['JS_LIB']
+    },
     'Handlebars': {
         'keyword': 'Handlebars.js',
         'type': keyword_type.types['JS_LIB']
@@ -4630,7 +4638,15 @@ keywords = {
         'keyword': 'Handlebars.js',
         'type': keyword_type.types['JS_LIB']
     },
+    'HandlebarsJS': {
+        'keyword': 'Handlebars.js',
+        'type': keyword_type.types['JS_LIB']
+    },
     'Require.js': {
+        'keyword': 'Require.js',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'RequireJS': {
         'keyword': 'Require.js',
         'type': keyword_type.types['JS_LIB']
     },
