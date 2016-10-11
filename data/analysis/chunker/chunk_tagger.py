@@ -1,14 +1,11 @@
+import os
+
 import nltk
-
-from nltk.corpus import PlaintextCorpusReader
-
-import data.analysis.tokenizer.word_tokenizer as tokenizer
-import data.analysis.corpus.computerscience.keywords as comp_sci_keywords
 
 
 class ChunkTagger(nltk.TaggerI):
     def __init__(self, train_sentences):
-        nltk.config_megam('../algorithms/megam-64.opt')
+        nltk.config_megam('{}/../algorithms/megam-64.opt'.format(os.path.dirname(os.path.abspath(__file__))))
 
         train_set = []
 
@@ -46,14 +43,17 @@ class Chunker(nltk.ChunkParserI):
         train_sents = [sentence.strip('\n').split('\n') for sentence in train_sentences.split('. . O')]
 
         # Generates tagged sentences as: [[(('Confidence', 'NN'), 'B-NP'), (('in', 'IN'), 'O')..], ..]
-        tagged_sentences = [[self.iob2tags(line) for line in sent] for sent in train_sents]
+        tagged_sentences = [[self.iob2chunkertags(line) for line in sent] for sent in train_sents]
 
         self.tagger = ChunkTagger(tagged_sentences)
 
     def parse(self, sentence):
         tagged_sentence = self.tagger.tag(sentence)
+
         keyword_tags = [(word, tag, chunk_type) for ((word, tag), chunk_type) in tagged_sentence]
-        return nltk.chunk.conlltags2tree(keyword_tags)
+
+        """
+
         sentence_keywords = comp_sci_keywords.generate_keywords(sentence)
 
         tokenized_sentence = tokenizer.tokenize(sentence, sentence_keywords)
@@ -65,39 +65,29 @@ class Chunker(nltk.ChunkParserI):
         keyword_tags = [(word, tag, chunk_type) for ((word, tag), chunk_type) in tagged_sentences]
 
         return nltk.chunk.conlltags2tree(keyword_tags)
+        """
+
+        return nltk.chunk.conlltags2tree(keyword_tags)
+
+    def evaluate(self, test_sentences):
+        test_sents = [sentence.strip('\n').split('\n') for sentence in test_sentences.split('. . O')]
+
+        tagged_sentences = [[Chunker.iob2tags(line) for line in sent] for sent in test_sents]
+
+        trees = []
+
+        for sentence in tagged_sentences:
+            tree = nltk.chunk.conlltags2tree(sentence, chunk_types="KEYWORD")
+            trees.append(tree)
+
+        return super(Chunker, self).evaluate(trees)
+
+    @staticmethod
+    def iob2chunkertags(line):
+        word, tag, chunk = line.rsplit(" ", 2)
+        return (word, tag), chunk
 
     @staticmethod
     def iob2tags(line):
         word, tag, chunk = line.rsplit(" ", 2)
-        return ((word, tag), chunk)
-
-    @staticmethod
-    def iob2tags2(line):
-        word, tag, chunk = line.rsplit(" ", 2)
-        return (word, tag, chunk)
-
-
-comp_sci_train_corpus = PlaintextCorpusReader('../corpus/computerscience/', '.*')
-
-chunker = Chunker(comp_sci_train_corpus.raw('train.txt'))
-
-
-train_sents = [sentence.strip('\n').split('\n') for sentence in comp_sci_train_corpus.raw('test.txt').split('. . O')]
-
-tagged_sentences = [[Chunker.iob2tags2(line) for line in sent] for sent in train_sents]
-
-trees = []
-
-for sentence in tagged_sentences:
-    tree = nltk.chunk.conlltags2tree(sentence, chunk_types="KEYWORD")
-    trees.append(tree)
-
-print chunker.evaluate(trees)
-
-
-while True:
-    try:
-       print chunker.parse(raw_input("Enter some input? O_o \n"))
-
-    except Exception as e:
-        print e
+        return word, tag, chunk
