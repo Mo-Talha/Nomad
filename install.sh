@@ -60,6 +60,16 @@ install_phantom(){
     fi
 }
 
+install_nodejs(){
+    if ! ls /etc/apt/sources.list.d/ 2>&1 | grep -q chris-lea-ubuntu-node_js; then
+        sudo add-apt-repository -y ppa:chris-lea/node.js
+
+        sudo apt-get update -qq -y
+
+        sudo apt-get install nodejs
+    fi
+}
+
 # Get password
 sudo echo
 
@@ -67,3 +77,4 @@ install_git
 install_mongodb
 install_redis
 install_phantom
+install_nodejs
