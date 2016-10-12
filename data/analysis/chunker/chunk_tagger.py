@@ -34,7 +34,55 @@ class ChunkTagger(nltk.TaggerI):
     @staticmethod
     def chunk_features(sentence, i, history):
         word, pos = sentence[i]
-        return {"pos": pos}
+
+        if i == 0:
+            prev_word, prev_pos, prev_pos_2nd = "<START>", "<START>", "<START>"
+        else:
+
+            if i == 1:
+                prev_word_2nd, prev_pos_2nd = "<START>", "<START>"
+                prev_word, prev_pos = sentence[i - 1]
+            else:
+                prev_word_2nd, prev_pos_2nd = sentence[i - 2]
+                prev_word, prev_pos = sentence[i - 1]
+
+        if i == len(sentence) - 1:
+            next_word, next_pos, next_pos_2nd = "<END>", "<END>", "<END>"
+        else:
+
+            if i == len(sentence) - 2:
+                next_word_2nd, next_pos_2nd = "<END>", "<END>"
+                next_word, next_pos = sentence[i + 1]
+            else:
+                next_word_2nd, next_pos_2nd = sentence[i + 2]
+                next_word, next_pos = sentence[i + 1]
+
+        """
+        Learning techniques: Keywords are likely to be NNP or NN (less likely).
+        Keywords are likely to be bundled together.
+        """
+
+        return {
+            "pos": pos,
+            "prevpos": prev_pos,
+            "nextpos": next_pos,
+            "2ndprevpos": prev_pos_2nd,
+            "2ndnextpos": next_pos_2nd,
+            "prevpos+pos": "%s+%s" % (prev_pos, pos),
+            "pos+nextpos": "%s+%s" % (pos, next_pos),
+            "tags-since-dt": ChunkTagger.tags_since_dt(sentence, i)
+        }
+
+    @staticmethod
+    def tags_since_dt(sentence, i):
+        tags = set()
+        for word, pos in sentence[:i]:
+            if pos == 'DT':
+                tags.add(pos)
+                break
+            else:
+                tags.add(pos)
+        return '+'.join(sorted(tags))
 
 
 class Chunker(nltk.ChunkParserI):
@@ -51,21 +99,6 @@ class Chunker(nltk.ChunkParserI):
         tagged_sentence = self.tagger.tag(sentence)
 
         keyword_tags = [(word, tag, chunk_type) for ((word, tag), chunk_type) in tagged_sentence]
-
-        """
-
-        sentence_keywords = comp_sci_keywords.generate_keywords(sentence)
-
-        tokenized_sentence = tokenizer.tokenize(sentence, sentence_keywords)
-
-        tagged_sentence = nltk.pos_tag(tokenized_sentence[0]) # Get first sentence
-
-        tagged_sentences = self.tagger.tag(tagged_sentence)
-
-        keyword_tags = [(word, tag, chunk_type) for ((word, tag), chunk_type) in tagged_sentences]
-
-        return nltk.chunk.conlltags2tree(keyword_tags)
-        """
 
         return nltk.chunk.conlltags2tree(keyword_tags)
 
