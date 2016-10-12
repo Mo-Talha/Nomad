@@ -69,8 +69,7 @@ class ChunkTagger(nltk.TaggerI):
             "2ndprevpos": prev_pos_2nd,
             "2ndnextpos": next_pos_2nd,
             "prevpos+pos": "%s+%s" % (prev_pos, pos),
-            "pos+nextpos": "%s+%s" % (pos, next_pos),
-            "tags-since-dt": ChunkTagger.tags_since_dt(sentence, i)
+            "pos+nextpos": "%s+%s" % (pos, next_pos)
         }
 
     @staticmethod
@@ -113,7 +112,9 @@ class Chunker(nltk.ChunkParserI):
             tree = nltk.chunk.conlltags2tree(sentence, chunk_types="KEYWORD")
             trees.append(tree)
 
-        return super(Chunker, self).evaluate(trees)
+        chunk_score = super(Chunker, self).evaluate(trees)
+
+        return chunk_score
 
     @staticmethod
     def iob2chunkertags(line):

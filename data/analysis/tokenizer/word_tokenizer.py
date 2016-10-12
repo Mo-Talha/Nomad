@@ -1,4 +1,5 @@
 import re
+import random
 
 import nltk
 
@@ -21,9 +22,11 @@ def tokenize(summary, keywords):
                 keyword_found = keyword_pattern.search(sent)
 
                 if keyword_found:
-                    parsed_sent = re.sub(keyword_pattern, r' TOKENIZER_KEYWORD_{} '.format(keyword_index), parsed_sent)
+                    keyword_hash = random.getrandbits(128)
 
-                    history.append(('TOKENIZER_KEYWORD_{}'.format(keyword_index), keyword_found.groups(0)[0]))
+                    parsed_sent = re.sub(keyword_pattern, r' {}_{} '.format(keyword_hash, keyword_index), parsed_sent)
+
+                    history.append(('{}_{}'.format(keyword_hash, keyword_index), keyword_found.groups(0)[0]))
 
             # Tokenize after removing all potential keywords (otherwise, for example, C++ will be tokenized as C, +, +)
             sent_tokenized = nltk.word_tokenize(parsed_sent)

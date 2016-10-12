@@ -84,7 +84,6 @@ industry NN O
 , , O
 such JJ O
 as IN O
-Microsoft NNP O
 Visual Studio .Net NNP B-KEYWORD
 , , O
 C# NNP B-KEYWORD
@@ -97,7 +96,6 @@ SOA NNP B-KEYWORD
 , , O
 WCF NNP B-KEYWORD
 , , O
-Microsoft NNP O
 SQL Server NNP B-KEYWORD
 , , O
 Oracle NNP B-KEYWORD
@@ -152,7 +150,7 @@ Strong NN O
 knowledge NN O
 of IN O
 Android NNP B-KEYWORD
-SDK NNP O
+SDK NNP I-KEYWORD
 , , O
 different JJ O
 versions NNS O
@@ -187,7 +185,7 @@ Swift NNP B-KEYWORD
 and CC O
 the DT O
 iOS NN B-KEYWORD
-SDK NNP O
+SDK NNP I-KEYWORD
 in IN O
 general JJ O
 . . O
@@ -280,7 +278,6 @@ knowledge NN O
 of IN O
 SQL NNP B-KEYWORD
 , , O
-Microsoft NNP O
 SQL Server NNP B-KEYWORD
 , , O
 MYSQL NNP B-KEYWORD
@@ -623,7 +620,7 @@ Oracle NNP B-KEYWORD
 Developer NNP O
 and CC O
 general JJ O
-Oracle/database NNP O
+Oracle/database NNP B-KEYWORD
 expertise NN O
 . . O
 Familiarity NN O
@@ -777,8 +774,8 @@ Control NNP O
 system NN O
 such JJ O
 as IN O
-Apache NNP O
-Subversion NNP B-KEYWORD
+Apache NNP B-KEYWORD
+Subversion NNP I-KEYWORD
 . . O
 Previous JJ O
 experience NN O
@@ -858,7 +855,7 @@ Basic JJ O
 knowledge NN O
 in IN O
 Programming VBG O
-Languages NNP O
+Languages NNS O
 ( ( O
 like IN O
 Java NNP B-KEYWORD
@@ -876,7 +873,7 @@ months NNS O
 experience NN O
 in IN O
 Programming VBG O
-Languages NNP O
+Languages NNS O
 ( ( O
 Java NNP B-KEYWORD
 / NNP O
@@ -965,7 +962,6 @@ such JJ O
 as IN O
 Microsoft Access NNP B-KEYWORD
 or CC O
-Microsoft NNP O
 SQL Server NNP B-KEYWORD
 is VBZ O
 an DT O
@@ -1338,8 +1334,8 @@ Redis NNP B-KEYWORD
 . . O
 Experience NN O
 with IN O
-Amazon NNP O
-EC2 NNP B-KEYWORD
+Amazon NNP B-KEYWORD
+EC2 NNP I-KEYWORD
 or CC O
 other JJ O
 cloud NN O
@@ -1427,7 +1423,6 @@ HTML NNP B-KEYWORD
 , , O
 CSS NNP B-KEYWORD
 , , O
-Microsoft NNP O
 ASPX/.NET NNP B-KEYWORD
 , , O
 Java NNP B-KEYWORD
@@ -1453,7 +1448,6 @@ candidate NN O
 will MD O
 have VB O
 complementary JJ O
-Microsoft NNP O
 ( ( O
 ASP.Net NNP B-KEYWORD
 ) ) O
@@ -1554,8 +1548,8 @@ DB2 NNP O
 , , O
 Unix NNP B-KEYWORD
 , , O
-Apache NNP O
-Ant NNP B-KEYWORD
+Apache NNP B-KEYWORD
+Ant NNP I-KEYWORD
 , , O
 Eclipse NNP B-KEYWORD
 , , O
@@ -1634,9 +1628,9 @@ JavaScript NNP B-KEYWORD
 , , O
 CSS NNP B-KEYWORD
 , , O
-HTML-DOM NNP O
+HTML-DOM NNP B-KEYWORD
 , , O
-AJAX NNP O
+AJAX NNP B-KEYWORD
 an DT O
 asset NN O
 . . O
@@ -1746,7 +1740,7 @@ Google NNP O
 Web NNP O
 Toolkit NNP O
 ( ( O
-GWT NNP O
+GWT NNP B-KEYWORD
 ) ) O
 , , O
 Struts NNP B-KEYWORD
@@ -1938,7 +1932,7 @@ across IN O
 : : O
 SAS NN B-KEYWORD
 , , O
-SPSS NNP O
+SPSS NNP B-KEYWORD
 , , O
 R NNP B-KEYWORD
 , , O
@@ -2019,7 +2013,7 @@ dashboard NN O
 Ops NNP O
 HTML NNP B-KEYWORD
 dashboard NN O
-Marketing NNP O
+Marketing NN O
 / NN O
 Analytics NNP O
 / NNP O
@@ -2346,7 +2340,7 @@ Servers NNS O
 Load NNP O
 Balancing NNP O
 , , O
-Lambda NNP O
+Lambda NNP B-KEYWORD
 , , O
 S3 NNP B-KEYWORD
 , , O
@@ -2744,12 +2738,12 @@ processing NN O
 with IN O
 RabbitMQ NNP B-KEYWORD
 , , O
-Apache NNP O
-Storm NNP B-KEYWORD
+Apache NNP B-KEYWORD
+Storm NNP I-KEYWORD
 , , O
 and CC O
-Apache NNP O
-Kafka NNP B-KEYWORD
+Apache NNP B-KEYWORD
+Kafka NNP I-KEYWORD
 and CC O
 create VB O
 powerful JJ O
@@ -2800,14 +2794,14 @@ with IN O
 NoSQL NNP B-KEYWORD
 stores NNS O
 like IN O
-MongoDB NNP O
+MongoDB NNP B-KEYWORD
 , , O
 CouchDB NNP B-KEYWORD
 , , O
 ES NNP B-KEYWORD
 , , O
-Apache NNP O
-Solr NNP B-KEYWORD
+Apache NNP B-KEYWORD
+Solr NNP I-KEYWORD
 , , O
 Cassandra NNP B-KEYWORD
 , , O
@@ -2825,12 +2819,12 @@ processors NNS O
 like IN O
 RabbitMQ NNP B-KEYWORD
 , , O
-Apache NNP O
-Storm NNP B-KEYWORD
+Apache NNP B-KEYWORD
+Storm NNP I-KEYWORD
 , , O
 or CC O
-Apache NNP O
-Kafka NNP B-KEYWORD
+Apache NNP B-KEYWORD
+Kafka NNP I-KEYWORD
 . . O
 Understanding NN O
 of IN O
@@ -2927,8 +2921,8 @@ CouchDB NNP B-KEYWORD
 , , O
 ES NNP B-KEYWORD
 , , O
-Apache NNP O
-Solr NNP B-KEYWORD
+Apache NNP B-KEYWORD
+Solr NNP I-KEYWORD
 , , O
 Cassandra NNP B-KEYWORD
 , , O
@@ -2946,12 +2940,12 @@ processors NNS O
 like IN O
 RabbitMQ NNP B-KEYWORD
 , , O
-Apache NNP O
-Storm NNP B-KEYWORD
+Apache NNP B-KEYWORD
+Storm NNP I-KEYWORD
 , , O
 or CC O
-Apache NNP O
-Kafka NNP B-KEYWORD
+Apache NNP B-KEYWORD
+Kafka NNP I-KEYWORD
 . . O
 You PRP O
 should MD O
@@ -3405,7 +3399,7 @@ such JJ O
 as IN O
 D3 NNP B-KEYWORD
 , , O
-Tableau NNP O
+Tableau NNP B-KEYWORD
 , , O
 R NNP B-KEYWORD
 and CC O
@@ -3458,7 +3452,7 @@ e.g. NN O
 , , O
 SQL Server NNP B-KEYWORD
 , , O
-DB2 NNP O
+DB2 NNP B-KEYWORD
 , , O
 MySQL NNP B-KEYWORD
 ) ) O
@@ -3504,7 +3498,6 @@ knowledge NN O
 of IN O
 SQLite NNP B-KEYWORD
 and/or NN O
-Microsoft NNP O
 SQL Server NNP B-KEYWORD
 2014 CD O
 C++ NNP B-KEYWORD
@@ -3555,9 +3548,9 @@ C# NNP B-KEYWORD
 and CC O
 software NN O
 ( ( O
-Excel NNP O
+Excel NNP B-KEYWORD
 , , O
-Access NNP O
+Access NNP B-KEYWORD
 , , O
 AXIS NNP B-KEYWORD
 , , O
@@ -3681,7 +3674,6 @@ industry NN O
 , , O
 such JJ O
 as IN O
-Microsoft NNP O
 visual studio .net NN B-KEYWORD
 , , O
 c# NN B-KEYWORD
@@ -3694,7 +3686,6 @@ soa NN B-KEYWORD
 , , O
 wcf NN B-KEYWORD
 , , O
-Microsoft NNP O
 sql server NN B-KEYWORD
 , , O
 oracle NN B-KEYWORD
@@ -3735,7 +3726,7 @@ Strong NN O
 knowledge NN O
 of IN O
 android NN B-KEYWORD
-SDK NNP O
+SDK NNP I-KEYWORD
 , , O
 different JJ O
 versions NNS O
@@ -3770,7 +3761,7 @@ swift NN B-KEYWORD
 and CC O
 the DT O
 iOS NN B-KEYWORD
-SDK NNP O
+SDK NNP I-KEYWORD
 in IN O
 general JJ O
 . . O
@@ -3863,7 +3854,6 @@ knowledge NN O
 of IN O
 sql NNP B-KEYWORD
 , , O
-Microsoft NNP O
 sql server NN B-KEYWORD
 , , O
 mysql NNP B-KEYWORD

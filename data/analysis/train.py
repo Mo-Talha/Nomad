@@ -10,6 +10,19 @@ import data.analysis.corpus.computerscience.keywords as comp_sci_keywords
 import nltk
 
 
+def print_chunk_score(chunkscore):
+    print chunkscore
+    print ""
+
+    print "Chunker missed sentences: "
+    print chunkscore.missed()
+    print ""
+
+    print "Chunker incorrect sentences: "
+    print chunkscore.incorrect()
+    print ""
+
+
 if __name__ == '__main__':
     if len(sys.argv) > 1:
         if sys.argv[1] == 'comp-sci':
@@ -24,12 +37,15 @@ if __name__ == '__main__':
                                                 .format(os.path.dirname(os.path.abspath(__file__))), '.*')
 
         chunker = Chunker(comp_sci_corpus.raw('train.txt'))
-        print chunker.evaluate(comp_sci_corpus.raw('test.txt'))
+
+        chunk_score = chunker.evaluate(comp_sci_corpus.raw('test.txt'))
+
+        print_chunk_score(chunk_score)
 
         while True:
             try:
 
-                sentence = raw_input("Enter some input? O_o \n")
+                sentence = raw_input("Please enter a sentence:\n")
 
                 sentence_keywords = comp_sci_keywords.generate_keywords(sentence)
 
