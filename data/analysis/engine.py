@@ -1,9 +1,14 @@
+import os
+import sys
 import re
-
-from nltk import sent_tokenize, word_tokenize
-from nltk.corpus import stopwords
+import cPickle as pickle
 
 import filters
+
+import chunker.chunk_tagger as chunk_tagger
+import data.analysis.corpus.computerscience.keywords as comp_sci_keywords
+
+sys.modules['chunker.chunk_tagger'] = chunk_tagger
 
 
 def filter_summary(summary):
@@ -33,10 +38,21 @@ def filter_summary(summary):
     return filtered_summary
 
 
-def get_keywords(summary):
-    stop_words = set(stopwords.words('english'))
-    return [word for word in word_tokenize(summary) if word not in stop_words]
+def get_keywords(summary, programs):
+    for program in programs:
+        if 'MATH' in program or 'ENG' in program:
+            keywords = comp_sci_keywords.generate_keywords(summary)
+            generated_keywords = load_chunker('computerscience').get_keywords(summary, keywords)
 
-if __name__ == '__main__':
-    for x in get_keywords(filter_summary(filters.test_summary)):
-        print x
+            for k in generated_keywords[:]:
+                if k not in keywords:
+                    generated_keywords.remove(k)
+
+            return generated_keywords
+
+    return []
+
+
+def load_chunker(corpus_name):
+    with open('{}/chunker/{}.pickle'.format(os.path.dirname(os.path.abspath(__file__)), corpus_name), 'rb') as f:
+        return pickle.load(f)

@@ -69,9 +69,6 @@ class JobmineCrawler(crawler.Crawler):
 
         for option in [disciplines[0] for disciplines in izip_longest(*[iter(all_disciplines)] * 3)]:
 
-            #TODO: remove
-            break
-
             # Each time we iterate through we click and/or interact with the DOM thus changing it. This
             # means that our old references to elements are stale and need to be reloaded
             coop_discipline_menu_1 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
@@ -299,7 +296,7 @@ class JobmineCrawler(crawler.Crawler):
             coop_job_status_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_JS_JOBSTATUS')
 
             for option in coop_job_status_ele.find_elements_by_tag_name('option'):
-                if option.text == 'Posted':
+                if option.text == 'Apps Avail': #TODO: change to Posted
                     option.click()
                     break
 

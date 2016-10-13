@@ -1,12 +1,52 @@
 import models.keyword_type as keyword_type
 
 keywords = {
-    'A#': {
-        'keyword': 'A#',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'A-0 System': {
         'keyword': 'A-0 System',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'ABC ALGOL': {
+        'keyword': 'ABC ALGOL',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Ace DASL': {
+        'keyword': 'Ace DASL',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Agilent VEE': {
+        'keyword': 'Agilent VEE',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'ALGOL 58': {
+        'keyword': 'ALGOL 58',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'ALGOL 60': {
+        'keyword': 'ALGOL 58',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'ALGOL 68': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'ALGOL W': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Amiga E': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'App Inventor for Android': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Ateji PX': {
+        'keyword': 'ALGOL 68',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'A#': {
+        'keyword': 'A#',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'A+': {
@@ -29,10 +69,6 @@ keywords = {
         'keyword': 'ABC',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'ABC ALGOL': {
-        'keyword': 'ABC ALGOL',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'ABSET': {
         'keyword': 'ABSET',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -47,10 +83,6 @@ keywords = {
     },
     'Accent': {
         'keyword': 'Accent',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Ace DASL': {
-        'keyword': 'Ace DASL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ACL2': {
@@ -81,10 +113,6 @@ keywords = {
         'keyword': 'Agda',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'Agilent VEE': {
-        'keyword': 'Agilent VEE',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'Agora': {
         'keyword': 'Agora',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -101,22 +129,6 @@ keywords = {
         'keyword': 'ALF',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'ALGOL 58': {
-        'keyword': 'ALGOL 58',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'ALGOL 60': {
-        'keyword': 'ALGOL 58',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'ALGOL 68': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'ALGOL W': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'Alice': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -126,10 +138,6 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'AmbientTalk': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Amiga E': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
@@ -148,11 +156,6 @@ keywords = {
     'APL': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'App Inventor for Android': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-
     },
     'AppleScript': {
         'keyword': 'ALGOL 68',
@@ -179,10 +182,6 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ATS': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Ateji PX': {
         'keyword': 'ALGOL 68',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },

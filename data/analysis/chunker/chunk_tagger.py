@@ -1,6 +1,9 @@
 import os
+import cPickle as pickle
 
 import nltk
+
+import data.analysis.tokenizer.word_tokenizer as tokenizer
 
 
 class ChunkTagger(nltk.TaggerI):
@@ -72,20 +75,11 @@ class ChunkTagger(nltk.TaggerI):
             "pos+nextpos": "%s+%s" % (pos, next_pos)
         }
 
-    @staticmethod
-    def tags_since_dt(sentence, i):
-        tags = set()
-        for word, pos in sentence[:i]:
-            if pos == 'DT':
-                tags.add(pos)
-                break
-            else:
-                tags.add(pos)
-        return '+'.join(sorted(tags))
-
 
 class Chunker(nltk.ChunkParserI):
-    def __init__(self, train_sentences):
+    def __init__(self, corpus_name, train_sentences):
+        self.corpus_name = corpus_name
+
         # train_sents: [[u'Experience NN O', u'with IN O', u'application NN O', ..]]
         train_sents = [sentence.strip('\n').split('\n') for sentence in train_sentences.split('. . O')]
 
@@ -97,9 +91,28 @@ class Chunker(nltk.ChunkParserI):
     def parse(self, sentence):
         tagged_sentence = self.tagger.tag(sentence)
 
-        keyword_tags = [(word, tag, chunk_type) for ((word, tag), chunk_type) in tagged_sentence]
+        sentence_tags = [(word, tag, chunk_type) for ((word, tag), chunk_type) in tagged_sentence]
 
-        return nltk.chunk.conlltags2tree(keyword_tags)
+        return nltk.chunk.conlltags2tree(sentence_tags)
+
+    def get_keywords(self, summary, corpus_keywords):
+        keywords = []
+
+        summary_sentences = [sentence.strip() for sentence in nltk.sent_tokenize(summary)]
+
+        for sentence in summary_sentences:
+            tokenized_sentence = tokenizer.tokenize(sentence, corpus_keywords)
+            tagged_sentence = nltk.pos_tag(tokenized_sentence)
+
+            conll_tree = self.parse(tagged_sentence)
+
+            sentence_tags = nltk.chunk.tree2conlltags(conll_tree)
+
+            for (word, tag, iob) in sentence_tags:
+                if iob.endswith("KEYWORD"):
+                    keywords.append(word)
+
+        return list(set(keywords))
 
     def evaluate(self, test_sentences):
         test_sents = [sentence.strip('\n').split('\n') for sentence in test_sentences.split('. . O')]
@@ -115,6 +128,11 @@ class Chunker(nltk.ChunkParserI):
         chunk_score = super(Chunker, self).evaluate(trees)
 
         return chunk_score
+
+    def save_chunker(self):
+        with open('{}/{}.pickle'.format(os.path.dirname(os.path.abspath(__file__)), self.corpus_name), 'wb') as f:
+            pickle.dump(self, f)
+            f.close()
 
     @staticmethod
     def iob2chunkertags(line):

@@ -5,6 +5,7 @@ from datetime import datetime
 from comment import Comment
 from applicant import Applicant
 from rating import AggregateRating
+from keyword import Keyword
 
 import program as Program
 import term as Term
@@ -57,7 +58,7 @@ class Job(Document):
     comments = EmbeddedDocumentListField(Comment, default=[])
 
     # Keywords for job (ex. programming languages for software jobs)
-    _keywords = ListField(StringField(), default=[])
+    keywords = EmbeddedDocumentListField(Keyword, default=[])
 
     # Deprecated
     deprecated = BooleanField(default=False)

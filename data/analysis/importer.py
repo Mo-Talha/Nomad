@@ -8,6 +8,7 @@ from models.employer import Employer
 from models.job import Job
 from models.applicant import Applicant
 from models.comment import Comment
+from models.keyword import Keyword
 import models.employer_alias as employer_alias
 
 import models.program as Program
@@ -54,6 +55,15 @@ def import_job(**kwargs):
 
     summary = kwargs['summary']
 
+    filtered_summary = engine.filter_summary(summary)
+
+    summary_keywords = engine.get_keywords(summary, programs)
+
+    keywords = []
+
+    for keyword in summary_keywords:
+        keywords.append(Keyword(keyword='', type=''))
+
     date = kwargs['date']
     year = date.year
 
@@ -81,9 +91,10 @@ def import_job(**kwargs):
         applicant = Applicant(applicants=applicants, date=date)
 
         # New job so number of remaining positions is same as openings
-        job = Job(title=job_title, summary=engine.filter_summary(summary), year=year,
+        job = Job(title=job_title, summary=filtered_summary, year=year,
                   term=term, location=[location], openings=openings, remaining=openings,
-                  applicants=[applicant], levels=levels, programs=programs, url=url)
+                  applicants=[applicant], levels=levels, programs=programs, url=url,
+                  keywords=keywords)
 
         job.save()
 
@@ -105,7 +116,8 @@ def import_job(**kwargs):
             # New job so number of remaining positions is same as openings
             job = Job(title=job_title, summary=engine.filter_summary(summary), year=year,
                       term=term, location=[location], openings=openings, remaining=openings,
-                      applicants=[applicant], levels=levels, programs=programs, url=url)
+                      applicants=[applicant], levels=levels, programs=programs, url=url,
+                      keywords=keywords)
 
             job.save()
 
@@ -116,8 +128,6 @@ def import_job(**kwargs):
             logger.info(COMPONENT, 'Job: {} already exists'.format(job_title))
 
             job = Job.objects(id__in=[job.id for job in employer.jobs], title=job_title).first()
-    
-            filtered_summary = engine.filter_summary(summary)
 
             if not year >= job.year:
                 raise DataIntegrityError('Job: {} by {} cannot be advertised before {}'
@@ -135,7 +145,7 @@ def import_job(**kwargs):
                 # Assume new job so number of remaining positions is same as openings
                 new_job = Job(title=job_title, summary=filtered_summary, year=year, term=term,
                               location=[location], openings=openings, remaining=openings, applicants=[applicant],
-                              levels=levels, programs=programs, url=url)
+                              levels=levels, programs=programs, url=url, keywords=keywords)
     
                 new_job.save()
     

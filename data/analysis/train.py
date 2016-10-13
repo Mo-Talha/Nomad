@@ -1,13 +1,14 @@
 import sys
 import os
 
+import nltk
+
 from nltk.corpus import PlaintextCorpusReader
 
 from chunker.chunk_tagger import Chunker
 
 import data.analysis.tokenizer.word_tokenizer as tokenizer
 import data.analysis.corpus.computerscience.keywords as comp_sci_keywords
-import nltk
 
 
 def print_chunk_score(chunkscore):
@@ -23,22 +24,32 @@ def print_chunk_score(chunkscore):
     print ""
 
 
+def parse_sentence(chunker, sent, keywords):
+    tokenized_sentence = tokenizer.tokenize(sent, keywords)
+    tagged_sentence = nltk.pos_tag(tokenized_sentence)
+
+    return chunker.parse(tagged_sentence)
+
+
 if __name__ == '__main__':
     if len(sys.argv) > 1:
         if sys.argv[1] == 'comp-sci':
             comp_sci_corpus = PlaintextCorpusReader('{}/corpus/computerscience/'
                                                     .format(os.path.dirname(os.path.abspath(__file__))), '.*')
 
-            chunker = Chunker(comp_sci_corpus.raw('train.txt'))
-            print chunker.evaluate(comp_sci_corpus.raw('test.txt'))
+            comp_sci_chunker = Chunker('computerscience', comp_sci_corpus.raw('train.txt'))
+            chunk_score = comp_sci_chunker.evaluate(comp_sci_corpus.raw('test.txt'))
+
+            print_chunk_score(chunk_score)
+
+            comp_sci_chunker.save_chunker()
 
     else:
         comp_sci_corpus = PlaintextCorpusReader('{}/corpus/computerscience/'
                                                 .format(os.path.dirname(os.path.abspath(__file__))), '.*')
 
-        chunker = Chunker(comp_sci_corpus.raw('train.txt'))
-
-        chunk_score = chunker.evaluate(comp_sci_corpus.raw('test.txt'))
+        comp_sci_chunker = Chunker('computerscience', comp_sci_corpus.raw('train.txt'))
+        chunk_score = comp_sci_chunker.evaluate(comp_sci_corpus.raw('test.txt'))
 
         print_chunk_score(chunk_score)
 
@@ -49,11 +60,7 @@ if __name__ == '__main__':
 
                 sentence_keywords = comp_sci_keywords.generate_keywords(sentence)
 
-                tokenized_sentence = tokenizer.tokenize(sentence, sentence_keywords)
-
-                tagged_sentence = nltk.pos_tag(tokenized_sentence[0])  # Get first sentence
-
-                print chunker.parse(tagged_sentence)
+                print parse_sentence(comp_sci_chunker, sentence, sentence_keywords)
 
             except Exception as e:
                 print e

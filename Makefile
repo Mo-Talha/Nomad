@@ -46,6 +46,9 @@ clean:
 	find . -name 'ghostdriver.log' -delete
 	find . -name 'screenshot.png' -delete
 
+clean_chunker:
+	find . -name '*.pickle' -delete
+
 import_jobs:
 	@echo "*** Importing Jobmine data. This may take several hours. ***"
 	@echo
@@ -68,6 +71,17 @@ import_comments:
 
 
 import: import_jobs import_comments
+
+train_compsci: clean_chunker
+	@echo "*** Training Computer Science Chunker. This may take a few minutes or less. ***"
+	@echo
+
+	PYTHONPATH=$(PYTHONPATH):. python data/analysis/train.py comp-sci
+
+	@echo
+	@echo "*** Done ***"
+
+train: clean_chunker train_compsci
 
 export_data:
 	mongodump --db nomad
