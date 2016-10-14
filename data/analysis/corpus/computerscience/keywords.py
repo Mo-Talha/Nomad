@@ -22,7 +22,7 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ALGOL 60': {
-        'keyword': 'ALGOL 58',
+        'keyword': 'ALGOL 60',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ALGOL 68': {
@@ -30,211 +30,211 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ALGOL W': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ALGOL W',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Amiga E': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Amiga E',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'App Inventor for Android': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'App Inventor for Android',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Ateji PX': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Ateji PX',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Visual LISP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Visual LISP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Active Server Pages': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'keyword': 'ASP.NET',
+        'type': keyword_type.types['WEB_FRWK']
     },
     'Bash Scripting': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Bash Scripting',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'C Shell': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'C Shell',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Common Lisp': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Common Lisp',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Component Pascal': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Component Pascal',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Coral 66': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Coral 66',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Easy PL/I': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Easy PL/I',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'EASYTRIEVE PLUS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'EASYTRIEVE PLUS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Edinburgh IMP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Edinburgh IMP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Emacs Lisp': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Emacs Lisp',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'EusLisp Robot': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'EusLisp Robot',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'EXEC 2': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'EXEC 2',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Franz Lisp': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Franz Lisp',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Game Maker Language': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Game Maker Language',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'GameMonkey Script': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'GameMonkey Script',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'GNU E': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'GNU E',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Google Apps Script': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Google Apps Script',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Hamilton C shell': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Hamilton C shell',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Hartmann pipelines': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Hartmann pipelines',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'High Level Assembly': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'High Level Assembly',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'IBM Basic assembly language': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'IBM Basic assembly language',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'IBM HAScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'IBM HAScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'IBM Informix-4GL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'IBM Informix-4GL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'IBM RPG': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'IBM RPG',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Java Script': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'JavaScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Join Java': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Join Java',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'JScript .NET': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'JScript .NET',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'JavaFX Script': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'JavaFX Script',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Klerer-May System': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Klerer-May System',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'L# .NET': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'L# .NET',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MASM Microsoft Assembly x86': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MASM Microsoft Assembly x86',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MAT LAB': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MATLAB',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MaxScript internal language 3D Studio Max': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MaxScript internal language 3D Studio Max',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Maya (MEL)': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Maya (MEL)',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MIVA Script': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MIVA Script',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Model 204': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Model 204',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Not eXactly C': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Not eXactly C',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Not Quite C': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Not Quite C',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Object Lisp': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Object Lisp',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Object REXX': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Object REXX',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Object Pascal': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Object Pascal',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Xcode/Objective-C': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Objective C',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Xcode/Objective C': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Objective C',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Obj C': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Objective C',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Objective C': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Objective C',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'OpenEdge ABL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'OpenEdge ABL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CMS Pipelines': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CMS Pipelines',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Red Hat Linux': {
@@ -252,6 +252,546 @@ keywords = {
     'Ruby-on-Rails': {
         'keyword': 'Ruby on Rails',
         'type': keyword_type.types['WEB_FRWK']
+    },
+    'C#/Visual Studio': {
+        'keyword': 'C#',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Visual Studio/C#': {
+        'keyword': 'C#',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Executable UML': {
+        'keyword': 'Executable UML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Groovy on Grails': {
+        'keyword': 'Groovy on Grails',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'RedHat Linux': {
+        'keyword': 'RedHat Linux',
+        'type': keyword_type.types['OS']
+    },
+    'Stackless Python': {
+        'keyword': 'Stackless Python',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Turbo C++': {
+        'keyword': 'Turbo C++',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'UCSD Pascal': {
+        'keyword': 'UCSD Pascal',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Unix shell': {
+        'keyword': 'Shell',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Visual Basic': {
+        'keyword': 'Visual Basic',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Visual Basic .NET': {
+        'keyword': 'Visual Basic .NET',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'VB .NET': {
+        'keyword': 'Visual Basic .NET',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Visual DataFlex': {
+        'keyword': 'Visual DataFlex',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Visual DialogScript': {
+        'keyword': 'Visual DialogScript',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Visual Fortran': {
+        'keyword': 'Visual Fortran',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Visual FoxPro': {
+        'keyword': 'Visual FoxPro',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Visual J++': {
+        'keyword': 'Visual J++',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Visual J#': {
+        'keyword': 'Visual J#',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Visual Objects': {
+        'keyword': 'Visual Objects',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Visual Prolog': {
+        'keyword': 'Visual Prolog',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Windows PowerShell': {
+        'keyword': 'PowerShell',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Z notation': {
+        'keyword': 'Z notation',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'T SQL': {
+        'keyword': 'T-SQL',
+        'type': keyword_type.types['DB']
+    },
+    'SQL Server': {
+        'keyword': 'MSSQL',
+        'type': keyword_type.types['DB']
+    },
+    'Graph databases': {
+        'keyword': 'Graph databases',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'Graph database': {
+        'keyword': 'Graph databases',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'Apache HTTP': {
+        'keyword': 'Apache HTTP Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Cherokee HTTP Server': {
+        'keyword': 'Cherokee HTTP Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'LiteSpeed Web Server': {
+        'keyword': 'LiteSpeed Web Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Monkey HTTP Server': {
+        'keyword': 'Monkey HTTP Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'NCSA HTTPd': {
+        'keyword': 'NCSA HTTPd',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Oracle HTTP Server': {
+        'keyword': 'Oracle HTTP Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Oracle iPlanet Web Server': {
+        'keyword': 'Oracle iPlanet Web Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Oracle WebLogic Server': {
+        'keyword': 'Oracle WebLogic Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Resin Open Source': {
+        'keyword': 'Resin',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Resin Professional': {
+        'keyword': 'Resin',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'TUX web server': {
+        'keyword': 'TUX Web server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Wakanda Server': {
+        'keyword': 'Wakanda Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Zeus Web Server': {
+        'keyword': 'Zeus Web Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'JBoss EAP': {
+        'keyword': 'JBoss EAP',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Elastic Search': {
+        'keyword': 'Elasticsearch',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'Octopus Deploy': {
+        'keyword': 'Octopus Deploy',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Perforce Jam': {
+        'keyword': 'Perforce Jam',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Visual Build': {
+        'keyword': 'Visual Build',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Team Foundation Server': {
+        'keyword': 'Team Foundation Server',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Visual Studio Team Services': {
+        'keyword': 'Visual Studio Team Services',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Travis CI': {
+        'keyword': 'Travis-CI',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'OpenMaker Software': {
+        'keyword': 'OpenMaker Software',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'Hyper V': {
+        'keyword': 'Hyper-V',
+        'type': keyword_type.types['VM_ENV']
+    },
+    'Kali Linux': {
+        'keyword': 'Kali Linux',
+        'type': keyword_type.types['OS']
+    },
+    'Play Framework': {
+        'keyword': 'Play Framework',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'Play (Scala)': {
+        'keyword': 'Play Framework',
+        'type': keyword_type.types['WEB_FRWK']
+    },
+    'MS SQL': {
+        'keyword': 'MSSQL',
+        'type': keyword_type.types['DB']
+    },
+    '4th Dimension': {
+        'keyword': '4th Dimension',
+        'type': keyword_type.types['DB']
+    },
+    'Adabas D': {
+        'keyword': 'Adabas D',
+        'type': keyword_type.types['DB']
+    },
+    'Alpha Five': {
+        'keyword': 'Alpha Five',
+        'type': keyword_type.types['DB']
+    },
+    'Aster Data': {
+        'keyword': 'Aster Data',
+        'type': keyword_type.types['DB']
+    },
+    'Amazon Aurora': {
+        'keyword': 'Amazon Aurora',
+        'type': keyword_type.types['DB']
+    },
+    'CA Datacom': {
+        'keyword': 'CA Datacom',
+        'type': keyword_type.types['DB']
+    },
+    'CA IDMS': {
+        'keyword': 'CA IDMS',
+        'type': keyword_type.types['DB']
+    },
+    'Database Management Library': {
+        'keyword': 'Database Management Library',
+        'type': keyword_type.types['DB']
+    },
+    'Empress Embedded Database': {
+        'keyword': 'Empress Embedded Database',
+        'type': keyword_type.types['DB']
+    },
+    'FileMaker Pro': {
+        'keyword': 'FileMaker Pro',
+        'type': keyword_type.types['DB']
+    },
+    'Google Fusion Tables': {
+        'keyword': 'Google Fusion Tables',
+        'type': keyword_type.types['DB']
+    },
+    'Helix database': {
+        'keyword': 'Helix database',
+        'type': keyword_type.types['DB']
+    },
+    'IBM DB2': {
+        'keyword': 'IBM DB2',
+        'type': keyword_type.types['DB']
+    },
+    'IBM Lotus Approach': {
+        'keyword': 'IBM Lotus Approach',
+        'type': keyword_type.types['DB']
+    },
+    'IBM DB2 Express-C': {
+        'keyword': 'IBM DB2 Express-C',
+        'type': keyword_type.types['DB']
+    },
+    'InterSystems Cache': {
+        'keyword': 'InterSystems Cache',
+        'type': keyword_type.types['DB']
+    },
+    'LibreOffice Base': {
+        'keyword': 'LibreOffice Base',
+        'type': keyword_type.types['DB']
+    },
+    'Microsoft Jet Database Engine': {
+        'keyword': 'Microsoft Jet Database Engine',
+        'type': keyword_type.types['DB']
+    },
+    'SQL Azure': {
+        'keyword': 'SQL Azure',
+        'type': keyword_type.types['DB']
+    },
+    'Microsoft Visual FoxPro': {
+        'keyword': 'Microsoft Visual FoxPro',
+        'type': keyword_type.types['DB']
+    },
+    'Microsoft Access': {
+        'keyword': 'Microsoft Access',
+        'type': keyword_type.types['DB']
+    },
+    'Mimer SQL': {
+        'keyword': 'Mimer SQL',
+        'type': keyword_type.types['DB']
+    },
+    'NonStop SQL': {
+        'keyword': 'NonStop SQL',
+        'type': keyword_type.types['DB']
+    },
+    'Oracle Rdb': {
+        'keyword': 'Oracle Rdb',
+        'type': keyword_type.types['DB']
+    },
+    'Pervasive PSQL': {
+        'keyword': 'Pervasive PSQL',
+        'type': keyword_type.types['DB']
+    },
+    'Progress Software': {
+        'keyword': 'Progress Software',
+        'type': keyword_type.types['DB']
+    },
+    'RDM Embedded': {
+        'keyword': 'RDM Embedded',
+        'type': keyword_type.types['DB']
+    },
+    'RDM Server': {
+        'keyword': 'RDM Server',
+        'type': keyword_type.types['DB']
+    },
+    'SAND CDBMS': {
+        'keyword': 'SAND CDBMS',
+        'type': keyword_type.types['DB']
+    },
+    'SAP HANA': {
+        'keyword': 'SAP HANA',
+        'type': keyword_type.types['DB']
+    },
+    'SAP Sybase Adaptive Server Enterprise': {
+        'keyword': 'SAP Sybase Adaptive Server Enterprise',
+        'type': keyword_type.types['DB']
+    },
+    'SAP Sybase': {
+        'keyword': 'SAP Sybase',
+        'type': keyword_type.types['DB']
+    },
+    'The SAS system': {
+        'keyword': 'The SAS system',
+        'type': keyword_type.types['DB']
+    },
+    'SQL Anywhere': {
+        'keyword': 'SQL Anywhere',
+        'type': keyword_type.types['DB']
+    },
+    'Sybase Advantage Database Server': {
+        'keyword': 'Sybase Advantage Database Server',
+        'type': keyword_type.types['DB']
+    },
+    'Unisys RDMS 2200': {
+        'keyword': 'Unisys RDMS 2200',
+        'type': keyword_type.types['DB']
+    },
+    'Android Studio': {
+        'keyword': 'Android',
+        'type': keyword_type.types['MOBILE_OS']
+    },
+    'Android Studio/Java': {
+        'keyword': 'Android',
+        'type': keyword_type.types['MOBILE_OS']
+    },
+    'Windows Mobile': {
+        'keyword': 'Windows Phone',
+        'type': keyword_type.types['MOBILE_OS']
+    },
+    'Windows Phone': {
+        'keyword': 'Windows Phone',
+        'type': keyword_type.types['MOBILE_OS']
+    },
+    'Common JS': {
+        'keyword': 'CommonJS',
+        'type': keyword_type.types['JS_LIB']
+    },
+    'React Native': {
+        'keyword': 'React Native',
+        'type': keyword_type.types['MOBILE_FRWK']
+    },
+    'Amazon Web Services': {
+        'keyword': 'Amazon Web Services',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'Elastic MapReduce': {
+        'keyword': 'Amazon Elastic MapReduce',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon Lambda': {
+        'keyword': 'Amazon Lambda',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon Route 53': {
+        'keyword': 'Amazon Route 53',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon Virtual Private Cloud': {
+        'keyword': 'Amazon Virtual Private Cloud',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon VPC': {
+        'keyword': 'Amazon Virtual Private Cloud',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon Simple Storage Service': {
+        'keyword': 'Amazon Simple Storage Service (S3)',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon Elastic Block Store': {
+        'keyword': 'Amazon Elastic Block Store',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon SimpleDB': {
+        'keyword': 'Amazon SimpleDB',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'HTML 5': {
+        'keyword': 'HTML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Cascade Framework': {
+        'keyword': 'Cascade Framework',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Cascade Framework Light': {
+        'keyword': 'Cascade Framework Light',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Jalsonic Opinion': {
+        'keyword': 'Jalsonic Opinion',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Kule Lazy': {
+        'keyword': 'Kule Lazy',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Material Design Lite': {
+        'keyword': 'Material Design Lite',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Modest Grid': {
+        'keyword': 'Modest Grid',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Pure CSS': {
+        'keyword': 'Pure CSS',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Responsive BP': {
+        'keyword': 'Responsive BP',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Responsive Grid System': {
+        'keyword': 'Responsive Grid System',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Schema UI': {
+        'keyword': 'Schema UI',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Semantic UI': {
+        'keyword': 'Semantic UI',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Sierra SCSS Library': {
+        'keyword': 'Sierra SCSS Library',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Visual Component Library (VCL)': {
+        'keyword': 'Visual Component Library (VCL)',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Diisba framework': {
+        'keyword': 'Diisba framework',
+        'type': keyword_type.types['CSS_FRWK']
+    },
+    'Neural Networks': {
+        'keyword': 'Neural Networks',
+        'type': keyword_type.types['VM_ENV']
+    },
+    'Machine learning': {
+        'keyword': 'Machine learning',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'Natural Language Processing': {
+        'keyword': 'Natural Language Processing',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'Artificial Intelligence': {
+        'keyword': 'Artificial Intelligence',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'Big Data': {
+        'keyword': 'Big Data',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'Bourne shell': {
+        'keyword': 'Bourne shell',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'CMS EXEC': {
+        'keyword': 'CMS EXEC',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Little b': {
+        'keyword': 'Little b',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Small Basic': {
+        'keyword': 'Small Basic',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'IBM HTTP Server': {
+        'keyword': 'IBM HTTP Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Internet Information Services': {
+        'keyword': 'IIS',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Mac OS X': {
+        'keyword': 'OS X',
+        'type': keyword_type.types['OS']
+    },
+    'OS X': {
+        'keyword': 'OS X',
+        'type': keyword_type.types['OS']
+    },
+    'OpenOffice.org Base': {
+        'keyword': 'OpenOffice.org Base',
+        'type': keyword_type.types['DB']
+    },
+    'WATFIV, WATFOR': {
+        'keyword': 'WATFIV, WATFOR',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Natural-Language Processing': {
+        'keyword': 'Natural Language Processing',
+        'type': keyword_type.types['KEYWORD']
     },
     'A#': {
         'keyword': 'A#',
@@ -338,947 +878,923 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Alice': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Alice',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Alma-0': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Alma-0',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'AmbientTalk': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'AmbientTalk',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'AMOS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'AMOS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'AMPL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'AMPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Apex': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Apex',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'APL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'APL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'AppleScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'AppleScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Arc': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Arc',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ARexx': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ARexx',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Argus': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Argus',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'AspectJ': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'AspectJ',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Assembly': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Assembly',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ATS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ATS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'AutoHotkey': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'AutoHotkey',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Autocoder': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Autocoder',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'AutoIt': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'AutoIt',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'AutoLISP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'AutoLISP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Averest': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Averest',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'AWK': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'AWK',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Axum': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Axum',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ASP.NET': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ASP.NET',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ASP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ASP.NET',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     '.NET': {
-        'keyword': 'ALGOL 68',
+        'keyword': '.NET',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Babbage': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Babbage',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Bash': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Bash',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'bc': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'bc',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'BCPL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'BCPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'BeanShell': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'BeanShell',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Batch': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Batch',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Bertrand': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Bertrand',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'BETA': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'BETA',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Bigwig': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Bigwig',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Bistro': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Bistro',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'BitC': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'BitC',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'BLISS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'BLISS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Blockly': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Blockly',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'BlooP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'BlooP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Blue': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Blue',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Boo': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Boo',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Boomerang': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Bourne shell': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Boomerang',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'BREW': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'BREW',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'BPEL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'BPEL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'C/C++': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'C/C++',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'C': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'C',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'C--': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'C--',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'C++': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'C++',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'C#/VB.NET': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'C#',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'C#/.NET': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'C#/Visual Studio': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Visual Studio/C#': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'C#',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'C#': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'C#',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'C/AL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'C/AL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ObjectScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ObjectScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Caml': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Caml',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CDuce': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CDuce',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Cecil': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Cecil',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Cesil': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Cesil',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Ceylon': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Ceylon',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CFML': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CFML',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Cg': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Cg',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Ch': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Ch',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Chapel': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Chapel',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Charity': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Charity',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Charm': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Charm',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CHILL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CHILL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CHIP-8': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CHIP-8',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'chomski': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'chomski',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ChucK': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ChucK',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CICS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CICS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Cilk': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Cilk',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Citrine': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Citrine',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Claire': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Claire',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Clarion': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Clarion',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Clean': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Clean',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Clipper': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Clipper',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CLIST': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CLIST',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Clojure': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Clojure',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CLU': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CLU',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CMS-2': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CMS-2',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'COBOL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'COBOL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CobolScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CobolScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Cobra': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Cobra',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CoffeeScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CoffeeScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ColdFusion': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ColdFusion',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'COMAL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'COMAL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CPL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'COMIT': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'COMIT',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CIL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CIL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'COMPASS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'COMPASS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CHR': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CHR',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Converge': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Converge',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Cool': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Cool',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Coq': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Coq',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Corn': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Corn',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CorVision': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CorVision',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'COWSEL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'COWSEL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Cryptol': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Cryptol',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'csh': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'csh',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Csound': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Csound',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CSP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CSP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'CUDA': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'CUDA',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Curl': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Curl',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Curry': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Curry',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Cyclone': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Cyclone',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Cython': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Cython',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'D': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'D',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'DASL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'DASL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Dart': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Dart',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'DataFlex': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'keyword',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Datalog': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Datalog',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'DATATRIEVE': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'DATATRIEVE',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'dc': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'dc',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'DCL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'DCL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Deesel': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Deesel',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Delphi': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Delphi',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'DinkC': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'DinkC',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'DIBOL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'DIBOL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Dog': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Dog',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Draco': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Draco',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'DRAKON': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'DRAKON',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Dylan': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Dylan',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'DYNAMO': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'DYNAMO',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'E': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'E',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'E#': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'E#',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Ease': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Ease',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ECMAScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ECMAScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'EGL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'EGL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Eiffel': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Eiffel',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ELAN': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ELAN',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Elixir': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Elixir',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Elm': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Elm',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Emerald': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Emerald',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Epigram': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Epigram',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'EPL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'EPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Erlang': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Erlang',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'es': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'es',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Escher': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Escher',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ESPOL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ESPOL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Esterel': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Esterel',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Etoys': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Etoys',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Euclid': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Euclid',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Euler': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Euler',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Euphoria': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'CMS EXEC': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Euphoria',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'EXEC': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Executable UML': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'EXEC',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'F': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'F',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'F#': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'F#',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Factor': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Factor',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Falcon': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Falcon',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Fantom': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Fantom',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'FAUST': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'FAUST',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'FFP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'FFP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'FL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'FL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Flavors': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Flavors',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'FlooP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'FlooP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'FLOW-MATIC': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'FLOW-MATIC',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'FOCAL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'FOCAL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'FOCUS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'FOCUS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'FOIL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'FOIL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'FORMAC': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'FORMAC',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     '@Formula': {
-        'keyword': 'ALGOL 68',
+        'keyword': '@Formula',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Forth': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Forth',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Fortran': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Fortran',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Fortress': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Fortress',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'FoxBase': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'FoxBase',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'FoxPro': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'FoxPro',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'FP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'FP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'FPr': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'FPr',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Frege': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Frege',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'F-Script': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'F-Script',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'G': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'G',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'GAMS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'GAMS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'GAP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'GAP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'G-code': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'G-code',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Genie': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Genie',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'GDL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'GDL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'GJ': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'GJ',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'GEORGE': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'GEORGE',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'GLSL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'GLSL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'GM': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'GM',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Go': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Go',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Golang': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Go',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'GOAL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'GOAL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Godiva': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Godiva',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Golo': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Golo',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'GOM': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'GOM',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Gosu': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Gosu',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'GOTRAN': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'GOTRAN',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'GPSS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'GPSS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'GraphTalk': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'GraphTalk',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'GRASS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'GRASS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-        'Groovy/Grails': {
-        'keyword': 'ALGOL 68',
+    'Groovy/Grails': {
+        'keyword': 'Groovy on Grails',
         'type': keyword_type.types['WEB_FRWK']
     },
     'Grails/Groovy': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['WEB_FRWK']
-    },
-    'Groovy on Grails': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Groovy on Grails',
         'type': keyword_type.types['WEB_FRWK']
     },
     'Groovy-on-Grails': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Groovy on Grails',
         'type': keyword_type.types['WEB_FRWK']
     },
     'Grails': {
-        'keyword': 'Grails',
+        'keyword': 'Groovy on Grails',
         'type': keyword_type.types['WEB_FRWK']
     },
     'Groovy': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Groovy',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Hack': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Hack',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'HAL/S': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'HAL/S',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Harbour': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Harbour',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Haskell': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Haskell',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Haxe': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Haxe',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'HLSL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'HLSL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Hop': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Hop',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Hopscotch': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Hopscotch',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Hope': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Hope',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Hugo': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Hugo',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Hume': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Hume',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'HyperTalk': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'HyperTalk',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ICI': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ICI',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Icon': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Icon',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Id': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Id',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'IDL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'IDL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Idris': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Idris',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'IMP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'IMP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Inform': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Inform',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Io': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Io',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Ioke': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Ioke',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'IPL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'IPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'IPTSCRAE': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'IPTSCRAE',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ISLISP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ISLISP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ISPF': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ISPF',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ISWIM': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ISWIM',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'J': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'J',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'J#': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'J#',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'J++': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'J++',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'JADE': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'JADE',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Jako': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Jako',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'JAL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'JAL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Janus': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Janus',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'JASS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'JASS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Java': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Java',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'J2EE': {
@@ -1290,992 +1806,976 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'JavaScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'JavaScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'JS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'JavaScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ECMAScript6': {
         'keyword': 'ECMAScript6',
-        'type': keyword_type.types['KEYWORD']
+        'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ES6': {
         'keyword': 'ECMAScript6',
-        'type': keyword_type.types['KEYWORD']
+        'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ECMAScript7': {
         'keyword': 'ECMAScript7',
-        'type': keyword_type.types['KEYWORD']
+        'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ES7': {
         'keyword': 'ECMAScript7',
-        'type': keyword_type.types['KEYWORD']
+        'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'JCL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'JCL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'JEAN': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'JEAN',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'JOSS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'JOSS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Joule': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Joule',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'JOVIAL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'JOVIAL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Joy': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Joy',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'JScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'JScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Julia': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Julia',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Jython': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Jython',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'K': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'K',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Kaleidoscope': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Kaleidoscope',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Karel': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Karel',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Karel++': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Karel++',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'KEE': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'KEE',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Kixtart': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Kixtart',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'KIF': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'KIF',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Kojo': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Kojo',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Kotlin': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Kotlin',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'KRC': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'KRC',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'KRL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'KRL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'KRYPTON': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'KRYPTON',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ksh': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'L': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ksh',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'LabVIEW': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'LabVIEW',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Ladder': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Ladder',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Lagoona': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Lagoona',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'LANSA': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'LANSA',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Lasso': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Lasso',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'LaTeX': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'LaTeX',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Lava': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Lava',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'LC-3': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'LC-3',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Leda': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Leda',
         'type': keyword_type.types['PROGRAMMING_LANG']
 
     },
     'Legoscript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Legoscript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'LIL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'LIL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'LilyPond': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'LilyPond',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Limbo': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Limbo',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Limnor': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Limnor',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'LINC': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'LINC',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Lingo': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Lingo',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'LIS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'LIS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'LISA': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'LISA',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Lisaac': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Lisaac',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Lisp': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Lisp',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Lite-C': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Lite-C',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Lithe': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Little b': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Lithe',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Logo': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Logo',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Logtalk': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Logtalk',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'LotusScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'LotusScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'LPC': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'LPC',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'LSE': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'LSE',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'LSL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'LSL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'LiveScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'LiveScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Lua': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Lua',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Lucid': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Lucid',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Lustre': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Lustre',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'LYaPAS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'LYaPAS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Lynx': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Lynx',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'M2001': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'M2001',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'M4': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'M4',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'M#': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'M#',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MAD': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MAD',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MAD/I': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MAD/I',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Magik': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Magik',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Magma': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Magma',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Maple': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Maple',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MAPPER': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MAPPER',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MARK-IV': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MARK-IV',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Mary': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Mary',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MATH-MATIC': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MATH-MATIC',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Mathematica': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Mathematica',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MATLAB': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MATLAB',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Maxima': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Maxima',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Macsyma': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Macsyma',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Max': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Max',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MDL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MDL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Mercury': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Mercury',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Metafont': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Metafont',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Microcode': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Microcode',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MicroScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MicroScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MIIS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MIIS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Milk': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Milk',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MIMIC': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MIMIC',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Mirah': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Mirah',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Miranda': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Miranda',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ML': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ML',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Modelica': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Modelica',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Modula': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Modula',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Modula-2': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Modula-2',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Modula-3': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Modula-3',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Mohol': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Mohol',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MOO': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MOO',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Mortran': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Mortran',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Mouse': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Mouse',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MPD': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MPD',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Mathcad': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Mathcad',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MSIL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MSIL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MSL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MSL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MUMPS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MUMPS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'MPL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'MPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'NASM': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'NASM',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Napier88': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Napier88',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Neko': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Neko',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Nemerle': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Nemerle',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'nesC': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'nesC',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'NESL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'NESL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Net.Data': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Net.Data',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'NetLogo': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'NetLogo',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'NetRexx': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'NetRexx',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'NewLISP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'NewLISP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'NEWP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'NEWP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Newspeak': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Newspeak',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'NewtonScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'NewtonScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'NGL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'NGL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Nial': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Nial',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Nickle': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Nickle',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Nim': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Nim',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'NO': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'NO',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'NPL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'NPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'NSIS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'NSIS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Nu': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Nu',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'NWScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'NWScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'NXT-G': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'NXT-G',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'o:XML': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'o:XML',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Oak': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Oak',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Oberon': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Oberon',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'OBJ2': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'OBJ2',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ObjectLOGO': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ObjectLOGO',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Objective-C': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Objective C',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Obj-C': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Objective C',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ObjectiveC': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Objective C',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Objective-J': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Objective J',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Obliq': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Obliq',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'OCaml': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'OCaml',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'occam': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'occam',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Octave': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Octave',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'OmniMark': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'OmniMark',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Onyx': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Onyx',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Opa': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Opa',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Opal': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Opal',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'OpenCL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'OpenCL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'OPL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'OPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'OPS5': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'OPS5',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'OptimJ': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'OptimJ',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Orc': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Orc',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ORCA/Modula-2': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ORCA/Modula-2',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Oriel': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Oriel',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Orwell': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Orwell',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Oxygene': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Oxygene',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Oz': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Oz',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     "P''": {
-        'keyword': 'ALGOL 68',
+        'keyword': 'P''',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'P#': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'P#',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ParaSail': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ParaSail',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PARI/GP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PARI/GP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Pascal': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Pascal',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PCASTL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PCASTL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PCF': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PCF',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PEARL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PEARL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PeopleCode': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PeopleCode',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Perl': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Perl',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PDL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PDL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Perl6': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Perl',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Pharo': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Pharo',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PHP7': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PHP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PHP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PHP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Laravel': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Laravel',
         'type': keyword_type.types['WEB_FRWK']
     },
     'Phrogram': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Phrogram',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Pico': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Pico',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Picolisp': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Picolisp',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Pict': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Pict',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Pike': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Pike',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PIKT': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PIKT',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PILOT': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Pizza': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PILOT',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL/11': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-11',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL-11': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-11',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL/0': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-0',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL-0': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-0',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL/B': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-B',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL-B': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-B',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL/C': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-C',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL-C': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-C',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL/I': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-I',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL-I': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-I',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL/M': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-M',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL-M': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-M',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL/P': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-P',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL-P': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-P',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL/SQL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-SQL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL-SQL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL-SQL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PL360': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PL360',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PLANC': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PLANC',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Planner': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Planner',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PLEX': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PLEX',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PLEXIL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PLEXIL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'POP-11': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'POP-11',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PostScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PostScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PortablE': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PortablE',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Powerhouse': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Powerhouse',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PowerBuilder': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PowerBuilder',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PowerShell': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PowerShell',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PPL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Processing': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Processing',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Processing.js': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Processing.js',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Prograph': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Prograph',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PROIV': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PROIV',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Prolog': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Prolog',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PROMAL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PROMAL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Promela': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Promela',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PROSE': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PROSE',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PROTEL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'PROTEL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ProvideX': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ProvideX',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Pro*C': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Pro*C',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Pure': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Pure',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Python': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Python',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Q': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Q',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Qalb': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Qalb',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'QtScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'QtScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'QuakeC': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'QuakeC',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'QPL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'QPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'R': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'R',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'R++': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'R++',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Racket': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Racket',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'RAPID': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'RAPID',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Rapira': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Rapira',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Ratfiv': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Ratfiv',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Ratfor': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Ratfor',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'rc': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'rc',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'REBOL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'REBOL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'RedHat Linux': {
-        'keyword': 'RedHat Linux',
-        'type': keyword_type.types['OS']
-    },
     'Red': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Red',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Redcode': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Redcode',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'REFAL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'REFAL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Reia': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Reia',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'REXX': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'REXX',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Rlab': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Rlab',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ROOP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ROOP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'RPG': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'RPG',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'RPL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'RPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'RSL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'RSL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'RTL/2': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'RTL/2',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Ruby/Ror': {
@@ -2299,622 +2799,530 @@ keywords = {
         'type': keyword_type.types['WEB_FRWK']
     },
     'Ruby': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Ruby',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'JRuby': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'JRuby',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'RuneScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'RuneScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Rust': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Rust',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'S': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'S',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'S2': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'S2',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'S-Lang': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'S-Lang',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'S-PLUS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'S-PLUS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SA-C': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SA-C',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SabreTalk': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SabreTalk',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SAIL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SAIL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SALSA': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SALSA',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SAM76': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SAM76',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SAS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SAS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SASL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SASL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Sather': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Sather',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Sawzall': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Sawzall',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SBL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SBL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Scala': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Scala',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Scheme': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Scheme',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Scilab': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Scilab',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Scratch': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Scratch',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Script.NET': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Script.NET',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Sed': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Sed',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Seed7': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Seed7',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Self': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Self',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SenseTalk': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SenseTalk',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SequenceL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SequenceL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SETL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SETL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SIMPOL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SIMPOL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SIGNAL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SIGNAL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SiMPLE': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SiMPLE',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SIMSCRIPT': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SIMSCRIPT',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Simula': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Simula',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Simulink': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Simulink',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SISAL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SISAL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SLIP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SLIP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SMALL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SMALL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Smalltalk': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Small Basic': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Smalltalk',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SML': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SML',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Snap!': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Snap!',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SNOBOL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SNOBOL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Snowball': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Snowball',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SOL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SOL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Span': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'SPARK': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Span',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Speedcode': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Speedcode',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SPIN': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SPIN',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SP/k': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SP/k',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SPS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SPS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SQR': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SQR',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Squeak': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Squeak',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Squirrel': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Squirrel',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SR': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SR',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'S/SL': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Stackless Python': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'S/SL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Starlogo': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Starlogo',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Strand': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Strand',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Stata': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Stata',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Stateflow': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Stateflow',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Subtext': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Subtext',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SuperCollider': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SuperCollider',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SuperTalk': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SuperTalk',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Swift': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Swift',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SYMPL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SYMPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SyncCharts': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SyncCharts',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'SystemVerilog': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'T': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SystemVerilog',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TACL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TACL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TACPOL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TACL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TADS': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TADS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TAL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TAL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Tcl': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Tcl',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Tcl/Tk': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Tcl/Tk',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Tea': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Tea',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TECO': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TECO',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TELCOMP': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TELCOMP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TeX': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TeX',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TEX': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TEX',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TIE': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TIE',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Timber': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Timber',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TMG': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TMG',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TOM': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TOM',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TouchDevelop': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TouchDevelop',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Topspeed': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Topspeed',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TPU': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TPU',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Trac': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Trac',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TTM': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TTM',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Transcript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Transcript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TTCN': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TTCN',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Turing': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Turing',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TUTOR': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TUTOR',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TXL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TXL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TypeScript': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Turbo C++': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'TypeScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Ubercode': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'UCSD Pascal': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Ubercode',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Umple': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Umple',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Unicon': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Unicon',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Uniface': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Uniface',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'UNITY': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Unix shell': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'UNITY',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Shell': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Shell',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'UnrealScript': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'UnrealScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Vala': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Visual Basic': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Vala',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'VB': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Visual Basic',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'VBA': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Visual Basic .NET': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'VB .NET': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Visual Basic for Applications',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'VB.NET': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Visual DataFlex': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Visual DialogScript': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Visual Fortran': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Visual FoxPro': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Visual J++': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Visual J#': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Visual Objects': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Visual Prolog': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Visual Basic .NET',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'VSXu': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'VSXu',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'vvvv': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'WATFIV, WATFOR': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'vvvv',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'WebDNA': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'WebDNA',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'WebQL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'WebQL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Whiley': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Windows PowerShell': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Whiley',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Winbatch': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Wolfram Language': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Winbatch',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Wolfram': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Wolfram',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Wyvern': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Wyvern',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'X++': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'X++',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'X#': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'X#',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'X10': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'X10',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'XBL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'XBL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'XC': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'XC',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'xHarbour': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'xHarbour',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'XL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'XL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Xojo': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Xojo',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'XOTcl': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'XOTcl',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'XPL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'XPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'XPL0': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'XPL0',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'XQuery': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'XQuery',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'XSB': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'XSB',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'XSLT': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'XSLT',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Xtend': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Xtend',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Yorick': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Yorick',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'YQL': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Z notation': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'YQL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Zeno': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Zeno',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ZOPL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ZOPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Zsh': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Zsh',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ZPL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'ZPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TSQL': {
-        'keyword': 'T-SQL',
-        'type': keyword_type.types['DB']
-    },
-    'T SQL': {
         'keyword': 'T-SQL',
         'type': keyword_type.types['DB']
     },
@@ -2922,16 +3330,12 @@ keywords = {
        'keyword': 'T-SQL',
        'type': keyword_type.types['DB']
     },
-    'SQL Server': {
-        'keyword': 'MSSQL',
-        'type': keyword_type.types['DB']
-    },
     'SQL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'SQL',
         'type': keyword_type.types['DB']
     },
     'NoSQL': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'NoSQL',
         'type': keyword_type.types['DB']
     },
     'MongoDB': {
@@ -2944,14 +3348,6 @@ keywords = {
     },
     'Couchbase': {
         'keyword': 'Couchbase',
-        'type': keyword_type.types['DB']
-    },
-    'Graph databases': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['DB']
-    },
-    'Graph database': {
-        'keyword': 'ALGOL 68',
         'type': keyword_type.types['DB']
     },
     'Thrift': {
@@ -3126,10 +3522,6 @@ keywords = {
         'keyword': 'Apache HiveMind',
         'type': keyword_type.types['APACHE_FRWK']
     },
-    'Apache HTTP': {
-        'keyword': 'ALGOL 68',
-        'type': keyword_type.types['WEB_SRV']
-    },
     'AOLserver': {
         'keyword': 'AOLserver',
         'type': keyword_type.types['WEB_SRV']
@@ -3146,10 +3538,6 @@ keywords = {
         'keyword': 'Caudium',
         'type': keyword_type.types['WEB_SRV']
     },
-    'Cherokee HTTP Server': {
-        'keyword': 'Cherokee HTTP Server',
-        'type': keyword_type.types['WEB_SRV']
-    },
     'GlassFish': {
         'keyword': 'GlassFish',
         'type': keyword_type.types['WEB_SRV']
@@ -3160,14 +3548,6 @@ keywords = {
     },
     'HFS': {
         'keyword': 'HFS',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'IBM HTTP Server': {
-        'keyword': 'IBM HTTP Server',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Internet Information Services': {
-        'keyword': 'IIS',
         'type': keyword_type.types['WEB_SRV']
     },
     'IIS': {
@@ -3186,24 +3566,12 @@ keywords = {
         'keyword': 'lighttpd',
         'type': keyword_type.types['WEB_SRV']
     },
-    'LiteSpeed Web Server': {
-        'keyword': 'LiteSpeed Web Server',
-        'type': keyword_type.types['WEB_SRV']
-    },
     'Mongoose': {
         'keyword': 'Mongoose',
         'type': keyword_type.types['WEB_SRV']
     },
-    'Monkey HTTP Server': {
-        'keyword': 'Monkey HTTP Server',
-        'type': keyword_type.types['WEB_SRV']
-    },
     'NaviServer': {
         'keyword': 'NaviServer',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'NCSA HTTPd': {
-        'keyword': 'NCSA HTTPd',
         'type': keyword_type.types['WEB_SRV']
     },
     'Nginx': {
@@ -3214,40 +3582,12 @@ keywords = {
         'keyword': 'OpenLiteSpeed',
         'type': keyword_type.types['WEB_SRV']
     },
-    'Oracle HTTP Server': {
-        'keyword': 'Oracle HTTP Server',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Oracle iPlanet Web Server': {
-        'keyword': 'Oracle iPlanet Web Server',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Oracle WebLogic Server': {
-        'keyword': 'Oracle WebLogic Server',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Resin Open Source': {
-        'keyword': 'Resin',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Resin Professional': {
-        'keyword': 'Resin',
-        'type': keyword_type.types['WEB_SRV']
-    },
     'Resin': {
         'keyword': 'Resin',
         'type': keyword_type.types['WEB_SRV']
     },
     'thttpd': {
         'keyword': 'thttpd',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'TUX web server': {
-        'keyword': 'TUX web server',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Wakanda Server': {
-        'keyword': 'Wakanda Server',
         'type': keyword_type.types['WEB_SRV']
     },
     'WEBrick': {
@@ -3262,10 +3602,6 @@ keywords = {
         'keyword': 'Yaws',
         'type': keyword_type.types['WEB_SRV']
     },
-    'Zeus Web Server': {
-        'keyword': 'Zeus Web Server',
-        'type': keyword_type.types['WEB_SRV']
-    },
     'Zope': {
         'keyword': 'Zope',
         'type': keyword_type.types['WEB_SRV']
@@ -3274,12 +3610,8 @@ keywords = {
         'keyword': 'Boss EAP',
         'type': keyword_type.types['WEB_SRV']
     },
-    'JBoss EAP': {
-        'keyword': 'Boss EAP',
-        'type': keyword_type.types['WEB_SRV']
-    },
     'Tornado': {
-        'keyword': 'Tornado (web server)',
+        'keyword': 'Tornado',
         'type': keyword_type.types['WEB_SRV']
     },
     'iBATIS': {
@@ -3323,18 +3655,14 @@ keywords = {
         'type': keyword_type.types['APACHE_FRWK']
     },
     'Lucene': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Apache Lucene',
         'type': keyword_type.types['SEARCH_SRV']
     },
     'Solr': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Apache Solr',
         'type': keyword_type.types['SEARCH_SRV']
     },
     'Elasticsearch': {
-        'keyword': 'Elasticsearch',
-        'type': keyword_type.types['SEARCH_SRV']
-    },
-    'Elastic Search': {
         'keyword': 'Elasticsearch',
         'type': keyword_type.types['SEARCH_SRV']
     },
@@ -3343,7 +3671,7 @@ keywords = {
         'type': keyword_type.types['APACHE_FRWK']
     },
     'Mahout': {
-        'keyword': 'Apache Lucy',
+        'keyword': 'Apache Mahout',
         'type': keyword_type.types['APACHE_FRWK']
     },
     'Marmotta': {
@@ -3642,14 +3970,6 @@ keywords = {
         'keyword': 'NAnt',
         'type': keyword_type.types['BUILD_AUTO_TOOL']
     },
-    'Octopus Deploy': {
-        'keyword': 'Octopus Deploy',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
-    },
-    'Perforce Jam': {
-        'keyword': 'Perforce Jam',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
-    },
     'Psake': {
         'keyword': 'Psake',
         'type': keyword_type.types['BUILD_AUTO_TOOL']
@@ -3672,10 +3992,6 @@ keywords = {
     },
     'Tweaker': {
         'keyword': 'Tweaker',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
-    },
-    'Visual Build': {
-        'keyword': 'Visual Build',
         'type': keyword_type.types['BUILD_AUTO_TOOL']
     },
     'Waf': {
@@ -3722,20 +4038,8 @@ keywords = {
         'keyword': 'Jenkins',
         'type': keyword_type.types['CONT_INTEGRATION_TOOL']
     },
-    'Team Foundation Server': {
-        'keyword': 'Team Foundation Server',
-        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
-    },
-    'Visual Studio Team Services': {
-        'keyword': 'Visual Studio Team Services',
-        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
-    },
     'TeamCity': {
         'keyword': 'TeamCity',
-        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
-    },
-    'Travis CI': {
-        'keyword': 'Travis CI',
         'type': keyword_type.types['CONT_INTEGRATION_TOOL']
     },
     'Shippable': {
@@ -3758,10 +4062,6 @@ keywords = {
         'keyword': 'Distelli',
         'type': keyword_type.types['CONF_MANAGE_TOOL']
     },
-    'OpenMaker Software': {
-        'keyword': 'OpenMaker Software',
-        'type': keyword_type.types['CONF_MANAGE_TOOL']
-    },
     'Puppet': {
         'keyword': 'Puppet',
         'type': keyword_type.types['CONF_MANAGE_TOOL']
@@ -3782,10 +4082,6 @@ keywords = {
         'keyword': 'VMWare',
         'type': keyword_type.types['VM_ENV']
     },
-    'Hyper V': {
-        'keyword': 'Hyper-V',
-        'type': keyword_type.types['VM_ENV']
-    },
     'Hyper-V': {
         'keyword': 'Hyper-V',
         'type': keyword_type.types['VM_ENV']
@@ -3795,12 +4091,8 @@ keywords = {
         'type': keyword_type.types['VM_ENV']
     },
     'Docker': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Docker',
         'type': keyword_type.types['VM_ENV']
-    },
-    'Kali Linux': {
-        'keyword': 'Linux',
-        'type': keyword_type.types['OS']
     },
     'Linux': {
         'keyword': 'Linux',
@@ -3811,7 +4103,7 @@ keywords = {
         'type': keyword_type.types['OS']
     },
     'Unix/Linux': {
-        'keyword': 'Linux',
+        'keyword': 'Unix',
         'type': keyword_type.types['OS']
     },
     'Solaris': {
@@ -3838,19 +4130,11 @@ keywords = {
         'keyword': 'Windows',
         'type': keyword_type.types['OS']
     },
-    'OS X': {
-        'keyword': 'OS X',
-        'type': keyword_type.types['OS']
-    },
     'OSX': {
         'keyword': 'OS X',
         'type': keyword_type.types['OS']
     },
     'Mac': {
-        'keyword': 'OS X',
-        'type': keyword_type.types['OS']
-    },
-    'Mac OS X': {
         'keyword': 'OS X',
         'type': keyword_type.types['OS']
     },
@@ -3878,15 +4162,6 @@ keywords = {
         'keyword': 'Play Framework',
         'type': keyword_type.types['WEB_FRWK']
     },
-
-    'Play Framework': {
-        'keyword': 'Play Framework',
-        'type': keyword_type.types['WEB_FRWK']
-    },
-    'Play (Scala)': {
-        'keyword': 'Play Framework',
-        'type': keyword_type.types['WEB_FRWK']
-    },
     'PostgreSQL': {
         'keyword': 'PostgreSQL',
         'type': keyword_type.types['DB']
@@ -3900,6 +4175,10 @@ keywords = {
         'type': keyword_type.types['DB']
     },
     'MySQL/MariaDB': {
+        'keyword': 'MySQL',
+        'type': keyword_type.types['DB']
+    },
+    'MariaDB/MySQL': {
         'keyword': 'MariaDB',
         'type': keyword_type.types['DB']
     },
@@ -3907,40 +4186,8 @@ keywords = {
         'keyword': 'MSSQL',
         'type': keyword_type.types['DB']
     },
-    'MS SQL': {
-        'keyword': 'MSSQL',
-        'type': keyword_type.types['DB']
-    },
-    '4th Dimension': {
-        'keyword': '4th Dimension',
-        'type': keyword_type.types['DB']
-    },
-    'Adabas D': {
-        'keyword': 'Adabas D',
-        'type': keyword_type.types['DB']
-    },
-    'Alpha Five': {
-        'keyword': 'Alpha Five',
-        'type': keyword_type.types['DB']
-    },
-    'Aster Data': {
-        'keyword': 'Aster Data',
-        'type': keyword_type.types['DB']
-    },
-    'Amazon Aurora': {
-        'keyword': 'Amazon Aurora',
-        'type': keyword_type.types['DB']
-    },
     'Altibase': {
         'keyword': 'Altibase',
-        'type': keyword_type.types['DB']
-    },
-    'CA Datacom': {
-        'keyword': 'CA Datacom',
-        'type': keyword_type.types['DB']
-    },
-    'CA IDMS': {
-        'keyword': 'CA IDMS',
         'type': keyword_type.types['DB']
     },
     'Clustrix': {
@@ -3959,20 +4206,12 @@ keywords = {
         'keyword': 'DataEase',
         'type': keyword_type.types['DB']
     },
-    'Database Management Library': {
-        'keyword': 'Database Management Library',
-        'type': keyword_type.types['DB']
-    },
     'Dataphor': {
         'keyword': 'Dataphor',
         'type': keyword_type.types['DB']
     },
     'dBase': {
         'keyword': 'dBase',
-        'type': keyword_type.types['DB']
-    },
-    'Empress Embedded Database': {
-        'keyword': 'Empress Embedded Database',
         'type': keyword_type.types['DB']
     },
     'EXASolution': {
@@ -3987,20 +4226,12 @@ keywords = {
         'keyword': 'eXtremeDB',
         'type': keyword_type.types['DB']
     },
-    'FileMaker Pro': {
-        'keyword': 'FileMaker Pro',
-        'type': keyword_type.types['DB']
-    },
     'Firebird': {
         'keyword': 'Firebird',
         'type': keyword_type.types['DB']
     },
     'FrontBase': {
         'keyword': 'FrontBase',
-        'type': keyword_type.types['DB']
-    },
-    'Google Fusion Tables': {
-        'keyword': 'Google Fusion Tables',
         'type': keyword_type.types['DB']
     },
     'Greenplum': {
@@ -4015,24 +4246,8 @@ keywords = {
         'keyword': 'H2',
         'type': keyword_type.types['DB']
     },
-    'Helix database': {
-        'keyword': 'Helix database',
-        'type': keyword_type.types['DB']
-    },
     'HSQLDB': {
         'keyword': 'HSQLDB',
-        'type': keyword_type.types['DB']
-    },
-    'IBM DB2': {
-        'keyword': 'IBM DB2',
-        'type': keyword_type.types['DB']
-    },
-    'IBM Lotus Approach': {
-        'keyword': 'IBM Lotus Approach',
-        'type': keyword_type.types['DB']
-    },
-    'IBM DB2 Express-C': {
-        'keyword': 'IBM DB2 Express-C',
         'type': keyword_type.types['DB']
     },
     'Infobright': {
@@ -4051,16 +4266,8 @@ keywords = {
         'keyword': 'InterBase',
         'type': keyword_type.types['DB']
     },
-    'InterSystems Cache': {
-        'keyword': 'InterSystems Cache',
-        'type': keyword_type.types['DB']
-    },
     'GT.M': {
         'keyword': 'GT.M',
-        'type': keyword_type.types['DB']
-    },
-    'LibreOffice Base': {
-        'keyword': 'LibreOffice Base',
         'type': keyword_type.types['DB']
     },
     'Linter': {
@@ -4073,26 +4280,6 @@ keywords = {
     },
     'MemSQL': {
         'keyword': 'MemSQL',
-        'type': keyword_type.types['DB']
-    },
-    'Microsoft Access': {
-        'keyword': 'Microsoft Access',
-        'type': keyword_type.types['DB']
-    },
-    'Microsoft Jet Database Engine': {
-        'keyword': 'Microsoft Jet Database Engine',
-        'type': keyword_type.types['DB']
-    },
-    'SQL Azure': {
-        'keyword': 'SQL Azure',
-        'type': keyword_type.types['DB']
-    },
-    'Microsoft Visual FoxPro': {
-        'keyword': 'Microsoft Visual FoxPro',
-        'type': keyword_type.types['DB']
-    },
-    'Mimer SQL': {
-        'keyword': 'Mimer SQL',
         'type': keyword_type.types['DB']
     },
     'MonetDB': {
@@ -4111,10 +4298,6 @@ keywords = {
         'keyword': 'NexusDB',
         'type': keyword_type.types['DB']
     },
-    'NonStop SQL': {
-        'keyword': 'NonStop SQL',
-        'type': keyword_type.types['DB']
-    },
     'NuoDB': {
         'keyword': 'NuoDB',
         'type': keyword_type.types['DB']
@@ -4123,72 +4306,28 @@ keywords = {
         'keyword': 'Openbase',
         'type': keyword_type.types['DB']
     },
-    'OpenOffice.org Base': {
-        'keyword': 'OpenOffice.org Base',
-        'type': keyword_type.types['DB']
-    },
-    'Oracle': {
+    'Oracle Database': {
         'keyword': 'Oracle',
         'type': keyword_type.types['DB']
     },
-    'Oracle Rdb': {
-        'keyword': 'Oracle Rdb',
+    'Oracle RDBMS': {
+        'keyword': 'Oracle',
         'type': keyword_type.types['DB']
     },
     'Panorama': {
         'keyword': 'Panorama',
         'type': keyword_type.types['DB']
     },
-    'Pervasive PSQL': {
-        'keyword': 'Pervasive PSQL',
-        'type': keyword_type.types['DB']
-    },
     'Polyhedra': {
         'keyword': 'Polyhedra',
-        'type': keyword_type.types['DB']
-    },
-    'Progress Software': {
-        'keyword': 'Progress Software',
-        'type': keyword_type.types['DB']
-    },
-    'RDM Embedded': {
-        'keyword': 'RDM Embedded',
-        'type': keyword_type.types['DB']
-    },
-    'RDM Server': {
-        'keyword': 'RDM Server',
         'type': keyword_type.types['DB']
     },
     'R:Base': {
         'keyword': 'R:Base',
         'type': keyword_type.types['DB']
     },
-    'The SAS system': {
-        'keyword': 'The SAS system',
-        'type': keyword_type.types['DB']
-    },
-    'SAND CDBMS': {
-        'keyword': 'SAND CDBMS',
-        'type': keyword_type.types['DB']
-    },
-    'SAP HANA': {
-        'keyword': 'SAP HANA',
-        'type': keyword_type.types['DB']
-    },
-    'SAP Sybase Adaptive Server Enterprise': {
-        'keyword': 'SAP Sybase Adaptive Server Enterprise',
-        'type': keyword_type.types['DB']
-    },
-    'SAP Sybase': {
-        'keyword': 'SAP Sybase IQ',
-        'type': keyword_type.types['DB']
-    },
     'Sybase': {
-        'keyword': 'SAP Sybase IQ',
-        'type': keyword_type.types['DB']
-    },
-    'SQL Anywhere': {
-        'keyword': 'SQL Anywhere',
+        'keyword': 'SAP Sybase',
         'type': keyword_type.types['DB']
     },
     'ScimoreDB': {
@@ -4211,10 +4350,6 @@ keywords = {
         'keyword': 'SQLite',
         'type': keyword_type.types['DB']
     },
-    'Sybase Advantage Database Server': {
-        'keyword': 'Sybase Advantage Database Server',
-        'type': keyword_type.types['DB']
-    },
     'Teradata': {
         'keyword': 'Teradata',
         'type': keyword_type.types['DB']
@@ -4233,10 +4368,6 @@ keywords = {
     },
     'txtSQL': {
         'keyword': 'txtSQL',
-        'type': keyword_type.types['DB']
-    },
-    'Unisys RDMS 2200': {
-        'keyword': 'Unisys RDMS 2200',
         'type': keyword_type.types['DB']
     },
     'UniData': {
@@ -4260,7 +4391,7 @@ keywords = {
         'type': keyword_type.types['DB']
     },
     'Presto': {
-        'keyword': 'Presto (SQL Query Engine)',
+        'keyword': 'Presto',
         'type': keyword_type.types['DB']
     },
     'RethinkDB': {
@@ -4279,14 +4410,6 @@ keywords = {
         'keyword': 'Memcached',
         'type': keyword_type.types['DATA_STRUCT_SRV']
     },
-    'Android Studio': {
-        'keyword': 'Android',
-        'type': keyword_type.types['MOBILE_OS']
-    },
-    'Android Studio/Java': {
-        'keyword': 'Android',
-        'type': keyword_type.types['MOBILE_OS']
-    },
     'Android': {
         'keyword': 'Android',
         'type': keyword_type.types['MOBILE_OS']
@@ -4295,16 +4418,8 @@ keywords = {
         'keyword': 'iOS',
         'type': keyword_type.types['MOBILE_OS']
     },
-    'Windows Mobile': {
-        'keyword': 'Windows Phone',
-        'type': keyword_type.types['MOBILE_OS']
-    },
-    'Windows Phone': {
-        'keyword': 'Windows Phone',
-        'type': keyword_type.types['MOBILE_OS']
-    },
     'Blackberry': {
-        'keyword': 'Windows Phone',
+        'keyword': 'Blackberry',
         'type': keyword_type.types['MOBILE_OS']
     },
     'iPhone': {
@@ -4312,10 +4427,6 @@ keywords = {
         'type': keyword_type.types['MOBILE_OS']
     },
     'CommonJS': {
-        'keyword': 'CommonJS',
-        'type': keyword_type.types['JS_LIB']
-    },
-    'Common JS': {
         'keyword': 'CommonJS',
         'type': keyword_type.types['JS_LIB']
     },
@@ -4338,10 +4449,6 @@ keywords = {
     'AngularJS': {
         'keyword': 'AngularJS',
         'type': keyword_type.types['JS_LIB']
-    },
-    'React Native': {
-        'keyword': 'React Native',
-        'type': keyword_type.types['MOBILE_FRWK']
     },
     'React': {
         'keyword': 'React.js',
@@ -4547,12 +4654,6 @@ keywords = {
         'keyword': 'Mercury.js',
         'type': keyword_type.types['JS_LIB']
     },
-    """
-    'Three': {
-        'keyword': 'Three.js',
-        'type': keyword_type.types['JS_LIB']
-    },
-    """
     'Three.js': {
         'keyword': 'Three.js',
         'type': keyword_type.types['JS_LIB']
@@ -4647,18 +4748,14 @@ keywords = {
     },
     'Phantom.js': {
         'keyword': 'PhantomJS',
-        'type': keyword_type.types['KEYWORD']
+        'type': keyword_type.types['JS_LIB']
     },
     'PhantomJS': {
         'keyword': 'PhantomJS',
-        'type': keyword_type.types['KEYWORD']
+        'type': keyword_type.types['JS_LIB']
     },
     'Selenium': {
         'keyword': 'Selenium',
-        'type': keyword_type.types['KEYWORD']
-    },
-    'Amazon Web Services': {
-        'keyword': 'Amazon Web Services',
         'type': keyword_type.types['KEYWORD']
     },
     'AWS': {
@@ -4669,28 +4766,12 @@ keywords = {
         'keyword': 'Amazon EC2',
         'type': keyword_type.types['AWS_PRODUCT']
     },
-    'Elastic MapReduce': {
-        'keyword': 'Amazon Elastic MapReduce',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
     'Beanstalk': {
         'keyword': 'Amazon Elastic Beanstalk',
         'type': keyword_type.types['AWS_PRODUCT']
     },
-    'Amazon Lambda': {
+    'Lambda': {
         'keyword': 'Amazon Lambda',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'Amazon Route 53': {
-        'keyword': 'Amazon Route 53',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'Amazon Virtual Private Cloud': {
-        'keyword': 'Amazon Virtual Private Cloud',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'Amazon Simple Storage Service': {
-        'keyword': 'Amazon Simple Storage Service (S3)',
         'type': keyword_type.types['AWS_PRODUCT']
     },
     'S3': {
@@ -4699,10 +4780,6 @@ keywords = {
     },
     'Glacier': {
         'keyword': 'Amazon Glacier',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'Amazon Elastic Block Store': {
-        'keyword': 'Amazon Elastic Block Store',
         'type': keyword_type.types['AWS_PRODUCT']
     },
     'EBS': {
@@ -4721,10 +4798,6 @@ keywords = {
         'keyword': 'Amazon Redshift',
         'type': keyword_type.types['AWS_PRODUCT']
     },
-    'Amazon SimpleDB': {
-        'keyword': 'Amazon SimpleDB',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
     'HTML/XHTML': {
         'keyword': 'XHTML',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -4739,10 +4812,6 @@ keywords = {
     },
     'DHTML': {
         'keyword': 'DHTML',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'HTML 5': {
-        'keyword': 'HTML',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'HTML': {
@@ -4782,7 +4851,7 @@ keywords = {
         'type': keyword_type.types['CSS_FRWK']
     },
     'Dojo': {
-        'keyword': 'Bootstrap',
+        'keyword': 'Dojo',
         'type': keyword_type.types['CSS_FRWK']
     },
     'awsm.css': {
@@ -4799,14 +4868,6 @@ keywords = {
     },
     'Bulma': {
         'keyword': 'Bulma',
-        'type': keyword_type.types['CSS_FRWK']
-    },
-    'Cascade Framework': {
-        'keyword': 'Cascade Framework',
-        'type': keyword_type.types['CSS_FRWK']
-    },
-    'Cascade Framework Light': {
-        'keyword': 'Cascade Framework Light',
         'type': keyword_type.types['CSS_FRWK']
     },
     'Chopstick': {
@@ -4837,10 +4898,6 @@ keywords = {
         'keyword': 'inuitcss',
         'type': keyword_type.types['CSS_FRWK']
     },
-    'Jalsonic Opinion': {
-        'keyword': 'Jalsonic Opinion',
-        'type': keyword_type.types['CSS_FRWK']
-    },
     'Kathamo': {
         'keyword': 'Kathamo',
         'type': keyword_type.types['CSS_FRWK']
@@ -4849,48 +4906,12 @@ keywords = {
         'keyword': 'Kube',
         'type': keyword_type.types['CSS_FRWK']
     },
-    'Kule Lazy': {
-        'keyword': 'Kule Lazy',
-        'type': keyword_type.types['CSS_FRWK']
-    },
-    'Material Design Lite': {
-        'keyword': 'Material Design Lite',
-        'type': keyword_type.types['CSS_FRWK']
-    },
     'Materialize': {
         'keyword': 'Materialize',
         'type': keyword_type.types['CSS_FRWK']
     },
-    'Modest Grid': {
-        'keyword': 'Modest Grid',
-        'type': keyword_type.types['CSS_FRWK']
-    },
-    'Pure CSS': {
-        'keyword': 'Pure CSS',
-        'type': keyword_type.types['CSS_FRWK']
-    },
     'Responsee': {
         'keyword': 'Responsee',
-        'type': keyword_type.types['CSS_FRWK']
-    },
-    'Responsive BP': {
-        'keyword': 'Responsive BP',
-        'type': keyword_type.types['CSS_FRWK']
-    },
-    'Responsive Grid System': {
-        'keyword': 'Responsive Grid System',
-        'type': keyword_type.types['CSS_FRWK']
-    },
-    'Schema UI': {
-        'keyword': 'Schema UI',
-        'type': keyword_type.types['CSS_FRWK']
-    },
-    'Semantic UI': {
-        'keyword': 'Semantic UI',
-        'type': keyword_type.types['CSS_FRWK']
-    },
-    'Sierra SCSS Library': {
-        'keyword': 'Sierra SCSS Library',
         'type': keyword_type.types['CSS_FRWK']
     },
     'Tacit': {
@@ -4905,10 +4926,6 @@ keywords = {
         'keyword': 'Unsemantic',
         'type': keyword_type.types['CSS_FRWK']
     },
-    'Visual Component Library (VCL)': {
-        'keyword': 'Visual Component Library (VCL)',
-        'type': keyword_type.types['CSS_FRWK']
-    },
     'W3.CSS': {
         'keyword': 'W3.CSS',
         'type': keyword_type.types['CSS_FRWK']
@@ -4917,60 +4934,32 @@ keywords = {
         'keyword': 'Wee',
         'type': keyword_type.types['CSS_FRWK']
     },
-    'Diisba framework': {
-        'keyword': 'Diisba framework',
-        'type': keyword_type.types['CSS_FRWK']
-    },
     'Resque': {
         'keyword': 'Resque',
         'type': keyword_type.types['KEYWORD']
     },
     'Celery': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'Celery',
         'type': keyword_type.types['KEYWORD']
     },
     'XML': {
-        'keyword': 'ALGOL 68',
+        'keyword': 'XML',
         'type': keyword_type.types['KEYWORD']
-    },
-    'Neural Networks': {
-        'keyword': 'Neural Networks',
-        'type': keyword_type.types['VM_ENV']
     },
     'Neural-Networks': {
         'keyword': 'Neural Networks',
         'type': keyword_type.types['VM_ENV']
     },
-    'Machine learning': {
-        'keyword': 'Machine learning',
-        'type': keyword_type.types['KEYWORD']
-    },
     'Machine-learning': {
         'keyword': 'Machine learning',
-        'type': keyword_type.types['KEYWORD']
-    },
-    'Natural Language Processing': {
-        'keyword': 'Natural Language Processing',
-        'type': keyword_type.types['KEYWORD']
-    },
-    'Natural-Language Processing': {
-        'keyword': 'Natural Language Processing',
         'type': keyword_type.types['KEYWORD']
     },
     'Natural-Language-Processing': {
         'keyword': 'Natural Language Processing',
         'type': keyword_type.types['KEYWORD']
     },
-    'Artificial Intelligence': {
-        'keyword': 'Artificial Intelligence',
-        'type': keyword_type.types['KEYWORD']
-    },
     'Artificial-Intelligence': {
         'keyword': 'Artificial Intelligence',
-        'type': keyword_type.types['KEYWORD']
-    },
-    'Big Data': {
-        'keyword': 'Big Data',
         'type': keyword_type.types['KEYWORD']
     },
     'Big-Data': {
