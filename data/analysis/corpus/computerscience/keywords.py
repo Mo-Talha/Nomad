@@ -151,7 +151,8 @@ keywords = {
     },
     'Join Java': {
         'keyword': 'Join Java',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Java']
     },
     'JScript .NET': {
         'keyword': 'JScript .NET',
@@ -195,11 +196,13 @@ keywords = {
     },
     'Not eXactly C': {
         'keyword': 'Not eXactly C',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['C']
     },
     'Not Quite C': {
         'keyword': 'Not Quite C',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['C']
     },
     'Object Lisp': {
         'keyword': 'Object Lisp',
@@ -243,15 +246,18 @@ keywords = {
     },
     'Ruby/Ruby on Rails': {
         'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
     },
     'Ruby on Rails': {
         'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
     },
     'Ruby-on-Rails': {
         'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
     },
     'C#/Visual Studio': {
         'keyword': 'C#',
@@ -267,7 +273,8 @@ keywords = {
     },
     'Groovy on Grails': {
         'keyword': 'Groovy on Grails',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Groovy']
     },
     'RedHat Linux': {
         'keyword': 'RedHat Linux',
@@ -279,7 +286,8 @@ keywords = {
     },
     'Turbo C++': {
         'keyword': 'Turbo C++',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['C++']
     },
     'UCSD Pascal': {
         'keyword': 'UCSD Pascal',
@@ -343,11 +351,13 @@ keywords = {
     },
     'T SQL': {
         'keyword': 'T-SQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'SQL Server': {
         'keyword': 'MSSQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Graph databases': {
         'keyword': 'Graph databases',
@@ -359,7 +369,8 @@ keywords = {
     },
     'Apache HTTP': {
         'keyword': 'Apache HTTP Server',
-        'type': keyword_type.types['WEB_SRV']
+        'type': keyword_type.types['WEB_SRV'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'Cherokee HTTP Server': {
         'keyword': 'Cherokee HTTP Server',
@@ -455,15 +466,18 @@ keywords = {
     },
     'Play Framework': {
         'keyword': 'Play Framework',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java', 'Scala']
     },
     'Play (Scala)': {
         'keyword': 'Play Framework',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java', 'Scala']
     },
     'MS SQL': {
         'keyword': 'MSSQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     '4th Dimension': {
         'keyword': '4th Dimension',
@@ -539,7 +553,8 @@ keywords = {
     },
     'SQL Azure': {
         'keyword': 'SQL Azure',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Microsoft Visual FoxPro': {
         'keyword': 'Microsoft Visual FoxPro',
@@ -551,11 +566,13 @@ keywords = {
     },
     'Mimer SQL': {
         'keyword': 'Mimer SQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'NonStop SQL': {
         'keyword': 'NonStop SQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Oracle Rdb': {
         'keyword': 'Oracle Rdb',
@@ -563,11 +580,8 @@ keywords = {
     },
     'Pervasive PSQL': {
         'keyword': 'Pervasive PSQL',
-        'type': keyword_type.types['DB']
-    },
-    'Progress Software': {
-        'keyword': 'Progress Software',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'RDM Embedded': {
         'keyword': 'RDM Embedded',
@@ -599,7 +613,8 @@ keywords = {
     },
     'SQL Anywhere': {
         'keyword': 'SQL Anywhere',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Sybase Advantage Database Server': {
         'keyword': 'Sybase Advantage Database Server',
@@ -611,11 +626,13 @@ keywords = {
     },
     'Android Studio': {
         'keyword': 'Android',
-        'type': keyword_type.types['MOBILE_OS']
+        'type': keyword_type.types['MOBILE_OS'],
+        'extra': ['Java']
     },
     'Android Studio/Java': {
         'keyword': 'Android',
-        'type': keyword_type.types['MOBILE_OS']
+        'type': keyword_type.types['MOBILE_OS'],
+        'extra': ['Java']
     },
     'Windows Mobile': {
         'keyword': 'Windows Phone',
@@ -627,11 +644,13 @@ keywords = {
     },
     'Common JS': {
         'keyword': 'CommonJS',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'React Native': {
         'keyword': 'React Native',
-        'type': keyword_type.types['MOBILE_FRWK']
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['JavaScript', 'Android', 'iOS']
     },
     'Amazon Web Services': {
         'keyword': 'Amazon Web Services',
@@ -675,63 +694,77 @@ keywords = {
     },
     'Cascade Framework': {
         'keyword': 'Cascade Framework',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS']
     },
     'Cascade Framework Light': {
         'keyword': 'Cascade Framework Light',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS']
     },
     'Jalsonic Opinion': {
         'keyword': 'Jalsonic Opinion',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS']
     },
     'Kule Lazy': {
         'keyword': 'Kule Lazy',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS']
     },
     'Material Design Lite': {
         'keyword': 'Material Design Lite',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS']
     },
     'Modest Grid': {
         'keyword': 'Modest Grid',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS']
     },
     'Pure CSS': {
         'keyword': 'Pure CSS',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS']
     },
     'Responsive BP': {
         'keyword': 'Responsive BP',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS']
     },
     'Responsive Grid System': {
         'keyword': 'Responsive Grid System',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS']
     },
     'Schema UI': {
         'keyword': 'Schema UI',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS']
     },
     'Semantic UI': {
         'keyword': 'Semantic UI',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS']
     },
     'Sierra SCSS Library': {
         'keyword': 'Sierra SCSS Library',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS']
     },
     'Visual Component Library (VCL)': {
         'keyword': 'Visual Component Library (VCL)',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS']
     },
     'Diisba framework': {
         'keyword': 'Diisba framework',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS']
     },
     'Neural Networks': {
         'keyword': 'Neural Networks',
-        'type': keyword_type.types['VM_ENV']
+        'type': keyword_type.types['KEYWORD']
     },
     'Machine learning': {
         'keyword': 'Machine learning',
@@ -1050,8 +1083,14 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'C/C++': {
-        'keyword': 'C/C++',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'keyword': 'C++',
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['C']
+    },
+    'C++/C': {
+        'keyword': 'C',
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['C++']
     },
     'C': {
         'keyword': 'C',
@@ -1207,7 +1246,8 @@ keywords = {
     },
     'CoffeeScript': {
         'keyword': 'CoffeeScript',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['JavaScript']
     },
     'ColdFusion': {
         'keyword': 'ColdFusion',
@@ -1639,19 +1679,23 @@ keywords = {
     },
     'Groovy/Grails': {
         'keyword': 'Groovy on Grails',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Groovy']
     },
     'Grails/Groovy': {
         'keyword': 'Groovy on Grails',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Groovy']
     },
     'Groovy-on-Grails': {
         'keyword': 'Groovy on Grails',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Groovy']
     },
     'Grails': {
         'keyword': 'Groovy on Grails',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Groovy']
     },
     'Groovy': {
         'keyword': 'Groovy',
@@ -1659,7 +1703,8 @@ keywords = {
     },
     'Hack': {
         'keyword': 'Hack',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['PHP']
     },
     'HAL/S': {
         'keyword': 'HAL/S',
@@ -1799,11 +1844,13 @@ keywords = {
     },
     'J2EE': {
         'keyword': 'Java EE',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Java']
     },
     'JEE': {
         'keyword': 'Java EE',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Java']
     },
     'JavaScript': {
         'keyword': 'JavaScript',
@@ -2484,7 +2531,43 @@ keywords = {
     },
     'Laravel': {
         'keyword': 'Laravel',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Symfony': {
+        'keyword': 'Symfony',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'CodeIgniter': {
+        'keyword': 'CodeIgniter',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Phalcon': {
+        'keyword': 'Phalcon',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'CakePHP': {
+        'keyword': 'CakePHP',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Zend Framework': {
+        'keyword': 'Zend Framework',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'FuelPHP': {
+        'keyword': 'FuelPHP',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'PHPixie': {
+        'keyword': 'PHPixie',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
     },
     'Phrogram': {
         'keyword': 'Phrogram',
@@ -2572,11 +2655,13 @@ keywords = {
     },
     'PL/SQL': {
         'keyword': 'PL-SQL',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['SQL']
     },
     'PL-SQL': {
         'keyword': 'PL-SQL',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['SQL']
     },
     'PL360': {
         'keyword': 'PL360',
@@ -2632,7 +2717,8 @@ keywords = {
     },
     'Processing.js': {
         'keyword': 'Processing.js',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['JavaScript']
     },
     'Prograph': {
         'keyword': 'Prograph',
@@ -2780,23 +2866,28 @@ keywords = {
     },
     'Ruby/Ror': {
         'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
     },
     'Ruby/Rails': {
         'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
     },
     'Rails/Ruby': {
         'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
     },
     'Rails': {
         'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
     },
     'Rails3': {
         'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
     },
     'Ruby': {
         'keyword': 'Ruby',
@@ -2804,7 +2895,8 @@ keywords = {
     },
     'JRuby': {
         'keyword': 'JRuby',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Ruby']
     },
     'RuneScript': {
         'keyword': 'RuneScript',
@@ -2872,7 +2964,8 @@ keywords = {
     },
     'Scala': {
         'keyword': 'Scala',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Java']
     },
     'Scheme': {
         'keyword': 'Scheme',
@@ -3160,7 +3253,8 @@ keywords = {
     },
     'TypeScript': {
         'keyword': 'TypeScript',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['JavaScript']
     },
     'Ubercode': {
         'keyword': 'Ubercode',
@@ -3324,11 +3418,13 @@ keywords = {
     },
     'TSQL': {
         'keyword': 'T-SQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'T-SQL': {
        'keyword': 'T-SQL',
-       'type': keyword_type.types['DB']
+       'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'SQL': {
         'keyword': 'SQL',
@@ -3340,15 +3436,18 @@ keywords = {
     },
     'MongoDB': {
         'keyword': 'MongoDB',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
     },
     'Mongo': {
         'keyword': 'MongoDB',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
     },
     'Couchbase': {
         'keyword': 'Couchbase',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
     },
     'Thrift': {
         'keyword': 'Apache Thrift',
@@ -3376,11 +3475,13 @@ keywords = {
     },
     'Ant': {
         'keyword': 'Apache Ant',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'Buildr': {
         'keyword': 'Apache Buildr',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'Arrow': {
         'keyword': 'Apache Arrow',
@@ -3436,7 +3537,8 @@ keywords = {
     },
     'Cordova': {
         'keyword': 'Apache Cordova',
-        'type': keyword_type.types['MOBILE_FRWK']
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'cTAKES': {
         'keyword': 'Apache cTAKES',
@@ -3452,7 +3554,9 @@ keywords = {
     },
     'Cassandra': {
         'keyword': 'Apache Cassandra',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'Cayenne': {
         'keyword': 'Apache Cayenne',
@@ -3460,11 +3564,13 @@ keywords = {
     },
     'CouchDB': {
         'keyword': 'Apache CouchDB',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'Derby': {
         'keyword': 'Apache Derby',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'JDO': {
         'keyword': 'Apache JDO',
@@ -3656,11 +3762,13 @@ keywords = {
     },
     'Lucene': {
         'keyword': 'Apache Lucene',
-        'type': keyword_type.types['SEARCH_SRV']
+        'type': keyword_type.types['SEARCH_SRV'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'Solr': {
         'keyword': 'Apache Solr',
-        'type': keyword_type.types['SEARCH_SRV']
+        'type': keyword_type.types['SEARCH_SRV'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'Elasticsearch': {
         'keyword': 'Elasticsearch',
@@ -3680,7 +3788,8 @@ keywords = {
     },
     'Maven': {
         'keyword': 'Apache Maven',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'MINA': {
         'keyword': 'Apache MINA',
@@ -3800,11 +3909,13 @@ keywords = {
     },
     'Subversion': {
         'keyword': 'Apache Subversion',
-        'type': keyword_type.types['VC']
+        'type': keyword_type.types['VC'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'SVN': {
         'keyword': 'Apache Subversion',
-        'type': keyword_type.types['VC']
+        'type': keyword_type.types['VC'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'Git': {
         'keyword': 'Git',
@@ -3840,7 +3951,8 @@ keywords = {
     },
     'Tomcat': {
         'keyword': 'Apache Tomcat',
-        'type': keyword_type.types['WEB_SRV']
+        'type': keyword_type.types['WEB_SRV'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'UIMA': {
         'keyword': 'Apache UIMA',
@@ -4096,11 +4208,13 @@ keywords = {
     },
     'Linux': {
         'keyword': 'Linux',
-        'type': keyword_type.types['OS']
+        'type': keyword_type.types['OS'],
+        'extra': ['Unix']
     },
     'Linux/Unix': {
         'keyword': 'Linux',
-        'type': keyword_type.types['OS']
+        'type': keyword_type.types['OS'],
+        'extra': ['Unix']
     },
     'Unix/Linux': {
         'keyword': 'Unix',
@@ -4108,7 +4222,8 @@ keywords = {
     },
     'Solaris': {
         'keyword': 'Solaris',
-        'type': keyword_type.types['OS']
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
     },
     'Unix': {
         'keyword': 'Unix',
@@ -4116,15 +4231,18 @@ keywords = {
     },
     'CentOS': {
         'keyword': 'CentOS',
-        'type': keyword_type.types['OS']
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
     },
     'Ubuntu': {
         'keyword': 'Ubuntu',
-        'type': keyword_type.types['OS']
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
     },
     'RHEL': {
         'keyword': 'RHEL',
-        'type': keyword_type.types['OS']
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
     },
     'Windows': {
         'keyword': 'Windows',
@@ -4144,47 +4262,58 @@ keywords = {
     },
     'Python/Django': {
         'keyword': 'Django',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
     },
     'Django': {
         'keyword': 'Django',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
     },
     'Python/Flask': {
         'keyword': 'Flask',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
     },
     'Flask': {
         'keyword': 'Flask',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
     },
     'Play': {
         'keyword': 'Play Framework',
-        'type': keyword_type.types['WEB_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java', 'Scala']
     },
     'PostgreSQL': {
         'keyword': 'PostgreSQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Postgres': {
         'keyword': 'PostgreSQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'MySQL': {
         'keyword': 'MySQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'MySQL/MariaDB': {
         'keyword': 'MySQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'MariaDB/MySQL': {
         'keyword': 'MariaDB',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'MSSQL': {
         'keyword': 'MSSQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Altibase': {
         'keyword': 'Altibase',
@@ -4196,7 +4325,8 @@ keywords = {
     },
     'CSQL': {
         'keyword': 'CSQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'CUBRID': {
         'keyword': 'CUBRID',
@@ -4280,7 +4410,8 @@ keywords = {
     },
     'MemSQL': {
         'keyword': 'MemSQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'MonetDB': {
         'keyword': 'MonetDB',
@@ -4288,7 +4419,8 @@ keywords = {
     },
     'mSQL': {
         'keyword': 'mSQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Netezza': {
         'keyword': 'Netezza',
@@ -4336,7 +4468,8 @@ keywords = {
     },
     'SmallSQL': {
         'keyword': 'SmallSQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'solidDB': {
         'keyword': 'solidDB',
@@ -4344,11 +4477,13 @@ keywords = {
     },
     'SQLBase': {
         'keyword': 'SQLBase',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'SQLite': {
         'keyword': 'SQLite',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Teradata': {
         'keyword': 'Teradata',
@@ -4368,7 +4503,8 @@ keywords = {
     },
     'txtSQL': {
         'keyword': 'txtSQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'UniData': {
         'keyword': 'UniData',
@@ -4412,11 +4548,13 @@ keywords = {
     },
     'Android': {
         'keyword': 'Android',
-        'type': keyword_type.types['MOBILE_OS']
+        'type': keyword_type.types['MOBILE_OS'],
+        'extra': ['Java']
     },
     'iOS': {
         'keyword': 'iOS',
-        'type': keyword_type.types['MOBILE_OS']
+        'type': keyword_type.types['MOBILE_OS'],
+        'extra': ['Objective C', 'Swift']
     },
     'Blackberry': {
         'keyword': 'Blackberry',
@@ -4428,331 +4566,414 @@ keywords = {
     },
     'CommonJS': {
         'keyword': 'CommonJS',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Common.js': {
         'keyword': 'CommonJS',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Webpack': {
         'keyword': 'Webpack',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Angular': {
         'keyword': 'AngularJS',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Angular.js': {
         'keyword': 'AngularJS',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'AngularJS': {
         'keyword': 'AngularJS',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'React': {
         'keyword': 'React.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'React.js': {
         'keyword': 'React.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'ReactJS': {
         'keyword': 'React.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Node': {
         'keyword': 'Node.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Node.js': {
         'keyword': 'Node.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'NodeJS': {
         'keyword': 'Node.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Express': {
         'keyword': 'Express.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Express.js': {
         'keyword': 'Express.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Backbone': {
         'keyword': 'Backbone.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'BackboneJS': {
         'keyword': 'Backbone.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Backbone.js': {
         'keyword': 'Backbone.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Marionette': {
         'keyword': 'Marionette.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'MarionetteJS': {
         'keyword': 'Marionette.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Marionette.js': {
         'keyword': 'Marionette.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Ember': {
         'keyword': 'Ember.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'EmberJS': {
         'keyword': 'Ember.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Ember.js': {
         'keyword': 'Ember.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'jQuery': {
         'keyword': 'jQuery',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Underscore': {
         'keyword': 'Underscore.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'UnderscoreJS': {
         'keyword': 'Underscore.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Underscore.js': {
         'keyword': 'Underscore.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Lodash': {
         'keyword': 'Lodash.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Lo-dash': {
         'keyword': 'Lodash.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Lodash.js': {
         'keyword': 'Lodash.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'LodashJS': {
         'keyword': 'Lodash.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'D3': {
         'keyword': 'D3.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'D3JS': {
         'keyword': 'D3.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'D3.js': {
         'keyword': 'D3.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Grunt': {
         'keyword': 'Grunt.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Grunt.js': {
         'keyword': 'Grunt.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'GruntJS': {
         'keyword': 'Grunt.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Gulp': {
         'keyword': 'Gulp.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Gulp.js': {
         'keyword': 'Gulp.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'GulpJS': {
         'keyword': 'Gulp.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Aurelia': {
         'keyword': 'Aurelia.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Aurelia.js': {
         'keyword': 'Aurelia.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'AureliaJS': {
         'keyword': 'Aurelia.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Meteor': {
         'keyword': 'Meteor.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Meteor.js': {
         'keyword': 'Meteor.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'MeteorJS': {
         'keyword': 'Meteor.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Polymer': {
         'keyword': 'Polymer.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Polymer.js': {
         'keyword': 'Polymer.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'PolymerJS': {
         'keyword': 'Polymer.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Knockout': {
         'keyword': 'Knockout.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Knockout.js': {
         'keyword': 'Knockout.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'KnockoutJS': {
         'keyword': 'Knockout.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Vue': {
         'keyword': 'Vue.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Vue.js': {
         'keyword': 'Vue.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'VueJS': {
         'keyword': 'Vue.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Mercury.js': {
         'keyword': 'Mercury.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'MercuryJS': {
         'keyword': 'Mercury.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Three.js': {
         'keyword': 'Three.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'ThreeJS': {
         'keyword': 'Three.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Moment': {
         'keyword': 'Moment.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Moment.js': {
         'keyword': 'Moment.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'MomentJS': {
         'keyword': 'Moment.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Log4js': {
         'keyword': 'Log4js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Ionic': {
         'keyword': 'Ionic',
-        'type': keyword_type.types['MOBILE_FRWK']
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['JavaScript'],
+        'type_extra': [keyword_type.types['JS_LIB']]
     },
     'Chart.js': {
         'keyword': 'Chart.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'ChartJS': {
         'keyword': 'Chart.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'SocketIO': {
         'keyword': 'Socket.io',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'Socket.io': {
         'keyword': 'Socket.io',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'Mustache': {
         'keyword': 'Mustache.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'Mustache.js': {
         'keyword': 'Mustache.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'MustacheJS': {
         'keyword': 'Mustache.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'Handlebars': {
         'keyword': 'Handlebars.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'Handlebars.js': {
         'keyword': 'Handlebars.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'HandlebarsJS': {
         'keyword': 'Handlebars.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'Require.js': {
         'keyword': 'Require.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'RequireJS': {
         'keyword': 'Require.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'Bower': {
         'keyword': 'Bower',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'BowerJS': {
         'keyword': 'Bower.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'Bower.js': {
         'keyword': 'Bower.js',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'Phantom': {
         'keyword': 'PhantomJS',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'Phantom.js': {
         'keyword': 'PhantomJS',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'PhantomJS': {
         'keyword': 'PhantomJS',
-        'type': keyword_type.types['JS_LIB']
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript'],
     },
     'Selenium': {
         'keyword': 'Selenium',
@@ -4848,107 +5069,125 @@ keywords = {
     },
     'Bootstrap': {
         'keyword': 'Bootstrap',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Dojo': {
         'keyword': 'Dojo',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'awsm.css': {
         'keyword': 'awsm.css',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Baseguide': {
         'keyword': 'Baseguide',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'BoxySheets': {
         'keyword': 'BoxySheets',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Bulma': {
         'keyword': 'Bulma',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Chopstick': {
         'keyword': 'Chopstick',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Concise': {
         'keyword': 'Concise',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Flexify': {
         'keyword': 'Flexify',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'floatz': {
         'keyword': 'floatz',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Foundation': {
         'keyword': 'Foundation',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Ink': {
         'keyword': 'Ink',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'inuitcss': {
         'keyword': 'inuitcss',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Kathamo': {
         'keyword': 'Kathamo',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Kube': {
         'keyword': 'Kube',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Materialize': {
         'keyword': 'Materialize',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Responsee': {
         'keyword': 'Responsee',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Tacit': {
         'keyword': 'Tacit',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'uikit': {
         'keyword': 'uikit',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Unsemantic': {
         'keyword': 'Unsemantic',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'W3.CSS': {
         'keyword': 'W3.CSS',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Wee': {
         'keyword': 'Wee',
-        'type': keyword_type.types['CSS_FRWK']
+        'type': keyword_type.types['CSS_FRWK'],
+        'extra': ['CSS'],
     },
     'Resque': {
         'keyword': 'Resque',
-        'type': keyword_type.types['KEYWORD']
+        'type': keyword_type.types['FRWK']
     },
     'Celery': {
         'keyword': 'Celery',
-        'type': keyword_type.types['KEYWORD']
-    },
-    'XML': {
-        'keyword': 'XML',
-        'type': keyword_type.types['KEYWORD']
+        'type': keyword_type.types['FRWK']
     },
     'Neural-Networks': {
         'keyword': 'Neural Networks',
-        'type': keyword_type.types['VM_ENV']
+        'type': keyword_type.types['KEYWORD']
     },
     'Machine-learning': {
         'keyword': 'Machine learning',

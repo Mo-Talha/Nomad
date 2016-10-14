@@ -6,7 +6,7 @@ types = {
     'MOBILE_FRWK': 'Mobile Framework',
     'PROGRAMMING_LANG': 'Programming Language',
     'DB': 'Database',
-    'FRWK': 'Framework',
+    'FRWK': 'Framework/Library',
     'APACHE_FRWK': 'Apache Framework',
     'WEB_FRWK': 'Web Framework',
     'WEB_SRV': 'Web Server',
