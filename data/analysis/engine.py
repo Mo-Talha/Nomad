@@ -42,17 +42,49 @@ def get_keywords(summary, programs):
     for program in programs:
         if 'MATH' in program or 'ENG' in program:
             keywords = comp_sci_keywords.generate_keywords(summary)
+
             generated_keywords = load_chunker('computerscience').get_keywords(summary, keywords)
 
-            for k in generated_keywords[:]:
-                if k not in keywords:
-                    generated_keywords.remove(k)
+            gen_keywords = []
 
-            return generated_keywords
+            for k in generated_keywords:
+                gen_keywords = parse_keywords(k, comp_sci_keywords.keywords, gen_keywords)
+
+            return gen_keywords
 
     return []
+
+
+def parse_keywords(key, keywords, gen_keywords):
+
+    if not any(gk['keyword'] == key for gk in gen_keywords):
+        keyword_dict = keywords[key]
+
+        keyword = keyword_dict['keyword']
+        types = [keyword_dict['type']]
+
+        # Combine all types and extra types into one field
+        if 'type_extra' in keyword_dict:
+            types = types + keyword_dict['type_extra']
+
+        gen_keywords.append({
+            'keyword': keyword,
+            'types': types
+        })
+
+        if 'extra' in keyword_dict:
+            for k in keyword_dict['extra']:
+                    gen_keywords = parse_keywords(k, keywords, gen_keywords)
+
+    return gen_keywords
 
 
 def load_chunker(corpus_name):
     with open('{}/chunker/{}.pickle'.format(os.path.dirname(os.path.abspath(__file__)), corpus_name), 'rb') as f:
         return pickle.load(f)
+
+
+if __name__ == '__main__':
+    import filters
+
+    print get_keywords(filters.test_summary, ['MATH'])

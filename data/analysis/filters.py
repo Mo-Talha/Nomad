@@ -97,7 +97,7 @@ Requirements:
 -  Outgoing, hardworking and passionate about helping others.
 -  Enjoy working in an international team with diverse skills.
 -  Strong computer skills (Word, Excel and Power point).
--  Knowledge of a data analysis and modelling software (R, SPSS, Mat Lab) is an advantage.
+-  Knowledge of a data analysis and modelling software (R, SPSS, Mat Lab, Linux, Unix, Solaris, Cassandra, Ubuntu) is an advantage.
 -  Proficiency in Mandarin is an advantage, but not a necessity.
 
 Skill Development:

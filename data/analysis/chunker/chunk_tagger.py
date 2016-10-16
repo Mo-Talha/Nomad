@@ -99,6 +99,7 @@ class Chunker(nltk.ChunkParserI):
         keywords = []
 
         summary_sentences = [sentence.strip() for sentence in nltk.sent_tokenize(summary)]
+        corpus_keywords_lower = [k.lower() for k in corpus_keywords]
 
         for sentence in summary_sentences:
             tokenized_sentence = tokenizer.tokenize(sentence, corpus_keywords)
@@ -109,8 +110,8 @@ class Chunker(nltk.ChunkParserI):
             sentence_tags = nltk.chunk.tree2conlltags(conll_tree)
 
             for (word, tag, iob) in sentence_tags:
-                if iob.endswith("KEYWORD"):
-                    keywords.append(word)
+                if iob.endswith("KEYWORD") and word.lower() in corpus_keywords_lower:
+                    keywords.append(corpus_keywords[corpus_keywords_lower.index(word.lower())])
 
         return list(set(keywords))
 

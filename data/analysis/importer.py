@@ -59,11 +59,6 @@ def import_job(**kwargs):
 
     summary_keywords = engine.get_keywords(summary, programs)
 
-    keywords = []
-
-    for keyword in summary_keywords:
-        keywords.append(Keyword(keyword='', type=''))
-
     date = kwargs['date']
     year = date.year
 

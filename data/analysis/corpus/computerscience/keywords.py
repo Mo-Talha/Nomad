@@ -1,6 +1,10 @@
+import re
+
 import models.keyword_type as keyword_type
 
+
 keywords = {
+    # Keywords with spaces are prioritized
     'A-0 System': {
         'keyword': 'A-0 System',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -49,17 +53,15 @@ keywords = {
         'keyword': 'Visual LISP',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'Active Server Pages': {
-        'keyword': 'ASP.NET',
-        'type': keyword_type.types['WEB_FRWK']
-    },
     'Bash Scripting': {
-        'keyword': 'Bash Scripting',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'keyword': 'Bash',
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Linux']
     },
     'C Shell': {
-        'keyword': 'C Shell',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'keyword': 'Shell',
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Unix']
     },
     'Common Lisp': {
         'keyword': 'Common Lisp',
@@ -216,21 +218,20 @@ keywords = {
         'keyword': 'Object Pascal',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'Xcode/Objective-C': {
-        'keyword': 'Objective C',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'Xcode/Objective C': {
         'keyword': 'Objective C',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['iOS']
     },
     'Obj C': {
         'keyword': 'Objective C',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['iOS']
     },
     'Objective C': {
         'keyword': 'Objective C',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['iOS']
     },
     'OpenEdge ABL': {
         'keyword': 'OpenEdge ABL',
@@ -239,25 +240,6 @@ keywords = {
     'CMS Pipelines': {
         'keyword': 'CMS Pipelines',
         'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Red Hat Linux': {
-        'keyword': 'RedHat Linux',
-        'type': keyword_type.types['OS']
-    },
-    'Ruby/Ruby on Rails': {
-        'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Ruby']
-    },
-    'Ruby on Rails': {
-        'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Ruby']
-    },
-    'Ruby-on-Rails': {
-        'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Ruby']
     },
     'C#/Visual Studio': {
         'keyword': 'C#',
@@ -270,15 +252,6 @@ keywords = {
     'Executable UML': {
         'keyword': 'Executable UML',
         'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Groovy on Grails': {
-        'keyword': 'Groovy on Grails',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Groovy']
-    },
-    'RedHat Linux': {
-        'keyword': 'RedHat Linux',
-        'type': keyword_type.types['OS']
     },
     'Stackless Python': {
         'keyword': 'Stackless Python',
@@ -295,7 +268,8 @@ keywords = {
     },
     'Unix shell': {
         'keyword': 'Shell',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Unix']
     },
     'Visual Basic': {
         'keyword': 'Visual Basic',
@@ -319,7 +293,8 @@ keywords = {
     },
     'Visual Fortran': {
         'keyword': 'Visual Fortran',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Fortran']
     },
     'Visual FoxPro': {
         'keyword': 'Visual FoxPro',
@@ -343,34 +318,100 @@ keywords = {
     },
     'Windows PowerShell': {
         'keyword': 'PowerShell',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Windows']
     },
     'Z notation': {
         'keyword': 'Z notation',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'T SQL': {
-        'keyword': 'T-SQL',
-        'type': keyword_type.types['DB'],
-        'extra': ['SQL']
+    'Bourne shell': {
+        'keyword': 'Bourne shell',
+        'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'SQL Server': {
-        'keyword': 'MSSQL',
-        'type': keyword_type.types['DB'],
-        'extra': ['SQL']
+    'CMS EXEC': {
+        'keyword': 'CMS EXEC',
+        'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'Graph databases': {
-        'keyword': 'Graph databases',
-        'type': keyword_type.types['KEYWORD']
+    'Little b': {
+        'keyword': 'Little b',
+        'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'Graph database': {
-        'keyword': 'Graph databases',
-        'type': keyword_type.types['KEYWORD']
+    'Small Basic': {
+        'keyword': 'Small Basic',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'HTML 5': {
+        'keyword': 'HTML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'WATFIV, WATFOR': {
+        'keyword': 'WATFIV, WATFOR',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Active Server Pages': {
+        'keyword': 'ASP.NET',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['.NET']
+    },
+    'Ruby/Ruby on Rails': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
+    },
+    'Ruby on Rails': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
+    },
+    'Groovy on Grails': {
+        'keyword': 'Groovy on Grails',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Groovy']
+    },
+    'Play Framework': {
+        'keyword': 'Play Framework',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java', 'Scala']
+    },
+    'Play (Scala)': {
+        'keyword': 'Play Framework',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java', 'Scala']
+    },
+    'JavaServer Faces': {
+        'keyword': 'JavaServer Faces',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    'JBoss Seam': {
+        'keyword': 'JBoss Seam',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    'Google Web Toolkit': {
+        'keyword': 'Google Web Toolkit',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    'Stripes MVC': {
+        'keyword': 'Stripes',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
     },
     'Apache HTTP': {
         'keyword': 'Apache HTTP Server',
         'type': keyword_type.types['WEB_SRV'],
         'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Apache HTTP Server': {
+        'keyword': 'Apache HTTP Server',
+        'type': keyword_type.types['WEB_SRV'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Traffic Server': {
+        'keyword': 'Traffic Server',
+        'type': keyword_type.types['APACHE_FRWK']
     },
     'Cherokee HTTP Server': {
         'keyword': 'Cherokee HTTP Server',
@@ -388,12 +429,20 @@ keywords = {
         'keyword': 'NCSA HTTPd',
         'type': keyword_type.types['WEB_SRV']
     },
+    'OpenLink Virtuoso': {
+        'keyword': 'OpenLink Virtuoso',
+        'type': keyword_type.types['WEB_SRV']
+    },
     'Oracle HTTP Server': {
         'keyword': 'Oracle HTTP Server',
         'type': keyword_type.types['WEB_SRV']
     },
     'Oracle iPlanet Web Server': {
         'keyword': 'Oracle iPlanet Web Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Saetta Web Server': {
+        'keyword': 'Saetta Web Server',
         'type': keyword_type.types['WEB_SRV']
     },
     'Oracle WebLogic Server': {
@@ -424,55 +473,48 @@ keywords = {
         'keyword': 'JBoss EAP',
         'type': keyword_type.types['WEB_SRV']
     },
+    'IBM HTTP Server': {
+        'keyword': 'IBM HTTP Server',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Internet Information Services': {
+        'keyword': 'IIS',
+        'type': keyword_type.types['WEB_SRV']
+    },
     'Elastic Search': {
         'keyword': 'Elasticsearch',
         'type': keyword_type.types['SEARCH_SRV']
     },
-    'Octopus Deploy': {
-        'keyword': 'Octopus Deploy',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    'RedHat Linux': {
+        'keyword': 'RedHat Linux',
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
     },
-    'Perforce Jam': {
-        'keyword': 'Perforce Jam',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    'Red Hat Linux': {
+        'keyword': 'RedHat Linux',
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
     },
-    'Visual Build': {
-        'keyword': 'Visual Build',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    'Kali Linux': {
+        'keyword': 'Kali Linux',
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
     },
-    'Team Foundation Server': {
-        'keyword': 'Team Foundation Server',
-        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    'Mac OS': {
+        'keyword': 'OS X',
+        'type': keyword_type.types['OS']
     },
-    'Visual Studio Team Services': {
-        'keyword': 'Visual Studio Team Services',
-        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    'Mac OS X': {
+        'keyword': 'OS X',
+        'type': keyword_type.types['OS']
     },
-    'Travis CI': {
-        'keyword': 'Travis-CI',
-        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
-    },
-    'OpenMaker Software': {
-        'keyword': 'OpenMaker Software',
-        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    'OS X': {
+        'keyword': 'OS X',
+        'type': keyword_type.types['OS']
     },
     'Hyper V': {
         'keyword': 'Hyper-V',
         'type': keyword_type.types['VM_ENV']
-    },
-    'Kali Linux': {
-        'keyword': 'Kali Linux',
-        'type': keyword_type.types['OS']
-    },
-    'Play Framework': {
-        'keyword': 'Play Framework',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Java', 'Scala']
-    },
-    'Play (Scala)': {
-        'keyword': 'Play Framework',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Java', 'Scala']
     },
     'MS SQL': {
         'keyword': 'MSSQL',
@@ -547,9 +589,18 @@ keywords = {
         'keyword': 'LibreOffice Base',
         'type': keyword_type.types['DB']
     },
+    'Microsoft Access': {
+        'keyword': 'Microsoft Access',
+        'type': keyword_type.types['DB']
+    },
     'Microsoft Jet Database Engine': {
         'keyword': 'Microsoft Jet Database Engine',
         'type': keyword_type.types['DB']
+    },
+    'SQL Server': {
+        'keyword': 'MSSQL',
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'SQL Azure': {
         'keyword': 'SQL Azure',
@@ -558,10 +609,6 @@ keywords = {
     },
     'Microsoft Visual FoxPro': {
         'keyword': 'Microsoft Visual FoxPro',
-        'type': keyword_type.types['DB']
-    },
-    'Microsoft Access': {
-        'keyword': 'Microsoft Access',
         'type': keyword_type.types['DB']
     },
     'Mimer SQL': {
@@ -575,7 +622,11 @@ keywords = {
         'extra': ['SQL']
     },
     'Oracle Rdb': {
-        'keyword': 'Oracle Rdb',
+        'keyword': 'Oracle',
+        'type': keyword_type.types['DB']
+    },
+    'Oracle RDBMS': {
+        'keyword': 'Oracle',
         'type': keyword_type.types['DB']
     },
     'Pervasive PSQL': {
@@ -583,12 +634,20 @@ keywords = {
         'type': keyword_type.types['DB'],
         'extra': ['SQL']
     },
+    'Progress Software': {
+        'keyword': 'Progress Software',
+        'type': keyword_type.types['DB']
+    },
     'RDM Embedded': {
         'keyword': 'RDM Embedded',
         'type': keyword_type.types['DB']
     },
     'RDM Server': {
         'keyword': 'RDM Server',
+        'type': keyword_type.types['DB']
+    },
+    'The SAS system': {
+        'keyword': 'The SAS system',
         'type': keyword_type.types['DB']
     },
     'SAND CDBMS': {
@@ -607,10 +666,6 @@ keywords = {
         'keyword': 'SAP Sybase',
         'type': keyword_type.types['DB']
     },
-    'The SAS system': {
-        'keyword': 'The SAS system',
-        'type': keyword_type.types['DB']
-    },
     'SQL Anywhere': {
         'keyword': 'SQL Anywhere',
         'type': keyword_type.types['DB'],
@@ -624,6 +679,53 @@ keywords = {
         'keyword': 'Unisys RDMS 2200',
         'type': keyword_type.types['DB']
     },
+    'T SQL': {
+        'keyword': 'T-SQL',
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
+    },
+    'OpenOffice.org Base': {
+        'keyword': 'OpenOffice.org Base',
+        'type': keyword_type.types['DB']
+    },
+    'IBM Notes': {
+        'keyword': 'IBM Notes',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
+    },
+    'Virtuoso Universal Server': {
+        'keyword': 'Virtuoso Universal Server',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
+    },
+    'Calpont InfiniDB': {
+        'keyword': 'Calpont InfiniDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
+    },
+    'Cypher Query Language': {
+        'keyword': 'Cypher Query Language',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
+    },
+    'Oracle Spatial and Graph': {
+        'keyword': 'Oracle Spatial and Graph',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
+    },
+    'Sones GraphDB': {
+        'keyword': 'Sones GraphDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
+    },
+    'Graph databases': {
+        'keyword': 'Graph database',
+        'type': keyword_type.types['DB_TYPE']
+    },
+    'Graph database': {
+        'keyword': 'Graph database',
+        'type': keyword_type.types['DB_TYPE']
+    },
     'Android Studio': {
         'keyword': 'Android',
         'type': keyword_type.types['MOBILE_OS'],
@@ -635,62 +737,34 @@ keywords = {
         'extra': ['Java']
     },
     'Windows Mobile': {
-        'keyword': 'Windows Phone',
+        'keyword': 'Windows Mobile',
         'type': keyword_type.types['MOBILE_OS']
     },
     'Windows Phone': {
-        'keyword': 'Windows Phone',
+        'keyword': 'Windows Mobile',
         'type': keyword_type.types['MOBILE_OS']
-    },
-    'Common JS': {
-        'keyword': 'CommonJS',
-        'type': keyword_type.types['JS_LIB'],
-        'extra': ['JavaScript']
     },
     'React Native': {
         'keyword': 'React Native',
         'type': keyword_type.types['MOBILE_FRWK'],
         'extra': ['JavaScript', 'Android', 'iOS']
     },
-    'Amazon Web Services': {
-        'keyword': 'Amazon Web Services',
-        'type': keyword_type.types['KEYWORD']
+    'Crosswalk Project': {
+        'keyword': 'Crosswalk Project',
+        'type': keyword_type.types['MOBILE_FRWK']
     },
-    'Elastic MapReduce': {
-        'keyword': 'Amazon Elastic MapReduce',
-        'type': keyword_type.types['AWS_PRODUCT']
+    'Sencha Touch': {
+        'keyword': 'Sencha Touch',
+        'type': keyword_type.types['MOBILE_FRWK']
     },
-    'Amazon Lambda': {
-        'keyword': 'Amazon Lambda',
-        'type': keyword_type.types['AWS_PRODUCT']
+    'Codename One': {
+        'keyword': 'Codename One',
+        'type': keyword_type.types['MOBILE_FRWK']
     },
-    'Amazon Route 53': {
-        'keyword': 'Amazon Route 53',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'Amazon Virtual Private Cloud': {
-        'keyword': 'Amazon Virtual Private Cloud',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'Amazon VPC': {
-        'keyword': 'Amazon Virtual Private Cloud',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'Amazon Simple Storage Service': {
-        'keyword': 'Amazon Simple Storage Service (S3)',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'Amazon Elastic Block Store': {
-        'keyword': 'Amazon Elastic Block Store',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'Amazon SimpleDB': {
-        'keyword': 'Amazon SimpleDB',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'HTML 5': {
-        'keyword': 'HTML',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+    'Common JS': {
+        'keyword': 'CommonJS',
+        'type': keyword_type.types['JS_LIB'],
+        'extra': ['JavaScript']
     },
     'Cascade Framework': {
         'keyword': 'Cascade Framework',
@@ -762,6 +836,122 @@ keywords = {
         'type': keyword_type.types['CSS_FRWK'],
         'extra': ['CSS']
     },
+    'Meson build system': {
+        'keyword': 'Meson build system',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'MPW Make': {
+        'keyword': 'MPW Make',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Open Build Service': {
+        'keyword': 'Open Build Service',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'OpenMake Software': {
+        'keyword': 'OpenMake Software',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Octopus Deploy': {
+        'keyword': 'Octopus Deploy',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Perforce Jam': {
+        'keyword': 'Perforce Jam',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Visual Build': {
+        'keyword': 'Visual Build',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Continua CI': {
+        'keyword': 'Continua CI',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'GitLab CI': {
+        'keyword': 'GitLab CI',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Snap CI': {
+        'keyword': 'Snap CI',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Solano CI': {
+        'keyword': 'Solano CI',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Team Foundation Server': {
+        'keyword': 'Team Foundation Server',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Visual Studio Team Services': {
+        'keyword': 'Visual Studio Team Services',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Travis CI': {
+        'keyword': 'Travis-CI',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'OpenMaker Software': {
+        'keyword': 'OpenMaker Software',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'Fuse Message Broker': {
+        'keyword': 'Fuse Message Broker',
+        'type': keyword_type.types['MSG_BROKER']
+    },
+    'IBM Integration Bus': {
+        'keyword': 'IBM Integration Bus',
+        'type': keyword_type.types['MSG_BROKER']
+    },
+    'JBoss Messaging': {
+        'keyword': 'JBoss Messaging',
+        'type': keyword_type.types['MSG_BROKER']
+    },
+    'Microsoft BizTalk Server': {
+        'keyword': 'Microsoft BizTalk Server',
+        'type': keyword_type.types['MSG_BROKER']
+    },
+    'SAP PI': {
+        'keyword': 'SAP PI',
+        'type': keyword_type.types['MSG_BROKER']
+    },
+    'Solace Systems': {
+        'keyword': 'Solace Systems',
+        'type': keyword_type.types['MSG_BROKER']
+    },
+    'Spread Toolkit': {
+        'keyword': 'Spread Toolkit',
+        'type': keyword_type.types['MSG_BROKER']
+    },
+    'Elastic MapReduce': {
+        'keyword': 'Amazon Elastic MapReduce',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon Lambda': {
+        'keyword': 'Amazon Lambda',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon Route 53': {
+        'keyword': 'Amazon Route 53',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon Virtual Private Cloud': {
+        'keyword': 'Amazon Virtual Private Cloud',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon VPC': {
+        'keyword': 'Amazon Virtual Private Cloud',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon Simple Storage Service': {
+        'keyword': 'Amazon Simple Storage Service (S3)',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Amazon Elastic Block Store': {
+        'keyword': 'Amazon Elastic Block Store',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
     'Neural Networks': {
         'keyword': 'Neural Networks',
         'type': keyword_type.types['KEYWORD']
@@ -782,50 +972,15 @@ keywords = {
         'keyword': 'Big Data',
         'type': keyword_type.types['KEYWORD']
     },
-    'Bourne shell': {
-        'keyword': 'Bourne shell',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'CMS EXEC': {
-        'keyword': 'CMS EXEC',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Little b': {
-        'keyword': 'Little b',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Small Basic': {
-        'keyword': 'Small Basic',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'IBM HTTP Server': {
-        'keyword': 'IBM HTTP Server',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Internet Information Services': {
-        'keyword': 'IIS',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Mac OS X': {
-        'keyword': 'OS X',
-        'type': keyword_type.types['OS']
-    },
-    'OS X': {
-        'keyword': 'OS X',
-        'type': keyword_type.types['OS']
-    },
-    'OpenOffice.org Base': {
-        'keyword': 'OpenOffice.org Base',
-        'type': keyword_type.types['DB']
-    },
-    'WATFIV, WATFOR': {
-        'keyword': 'WATFIV, WATFOR',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+    'Amazon Web Services': {
+        'keyword': 'Amazon Web Services',
+        'type': keyword_type.types['KEYWORD']
     },
     'Natural-Language Processing': {
         'keyword': 'Natural Language Processing',
         'type': keyword_type.types['KEYWORD']
     },
+    # List of programming languages
     'A#': {
         'keyword': 'A#',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -994,14 +1149,6 @@ keywords = {
         'keyword': 'Axum',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'ASP.NET': {
-        'keyword': 'ASP.NET',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'ASP': {
-        'keyword': 'ASP.NET',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     '.NET': {
         'keyword': '.NET',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -1012,7 +1159,8 @@ keywords = {
     },
     'Bash': {
         'keyword': 'Bash',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Linux']
     },
     'bc': {
         'keyword': 'bc',
@@ -1677,29 +1825,10 @@ keywords = {
         'keyword': 'GRASS',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'Groovy/Grails': {
-        'keyword': 'Groovy on Grails',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Groovy']
-    },
-    'Grails/Groovy': {
-        'keyword': 'Groovy on Grails',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Groovy']
-    },
-    'Groovy-on-Grails': {
-        'keyword': 'Groovy on Grails',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Groovy']
-    },
-    'Grails': {
-        'keyword': 'Groovy on Grails',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Groovy']
-    },
     'Groovy': {
         'keyword': 'Groovy',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Java']
     },
     'Hack': {
         'keyword': 'Hack',
@@ -1861,19 +1990,19 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ECMAScript6': {
-        'keyword': 'ECMAScript6',
+        'keyword': 'ECMAScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ES6': {
-        'keyword': 'ECMAScript6',
+        'keyword': 'ECMAScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ECMAScript7': {
-        'keyword': 'ECMAScript7',
+        'keyword': 'ECMAScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'ES7': {
-        'keyword': 'ECMAScript7',
+        'keyword': 'ECMAScript',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'JCL': {
@@ -1946,7 +2075,8 @@ keywords = {
     },
     'Kotlin': {
         'keyword': 'Kotlin',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Java']
     },
     'KRC': {
         'keyword': 'KRC',
@@ -2381,17 +2511,25 @@ keywords = {
         'keyword': 'ObjectLOGO',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'Xcode/Objective-C': {
+        'keyword': 'Objective C',
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['iOS']
+    },
     'Objective-C': {
         'keyword': 'Objective C',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['iOS']
     },
     'Obj-C': {
         'keyword': 'Objective C',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['iOS']
     },
     'ObjectiveC': {
         'keyword': 'Objective C',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['iOS']
     },
     'Objective-J': {
         'keyword': 'Objective J',
@@ -2509,12 +2647,12 @@ keywords = {
         'keyword': 'Perl',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'PDL': {
-        'keyword': 'PDL',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'Perl6': {
         'keyword': 'Perl',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'PDL': {
+        'keyword': 'PDL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Pharo': {
@@ -2528,46 +2666,6 @@ keywords = {
     'PHP': {
         'keyword': 'PHP',
         'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Laravel': {
-        'keyword': 'Laravel',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['PHP']
-    },
-    'Symfony': {
-        'keyword': 'Symfony',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['PHP']
-    },
-    'CodeIgniter': {
-        'keyword': 'CodeIgniter',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['PHP']
-    },
-    'Phalcon': {
-        'keyword': 'Phalcon',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['PHP']
-    },
-    'CakePHP': {
-        'keyword': 'CakePHP',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['PHP']
-    },
-    'Zend Framework': {
-        'keyword': 'Zend Framework',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['PHP']
-    },
-    'FuelPHP': {
-        'keyword': 'FuelPHP',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['PHP']
-    },
-    'PHPixie': {
-        'keyword': 'PHPixie',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['PHP']
     },
     'Phrogram': {
         'keyword': 'Phrogram',
@@ -2587,10 +2685,6 @@ keywords = {
     },
     'Pike': {
         'keyword': 'Pike',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'PIKT': {
-        'keyword': 'PIKT',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'PILOT': {
@@ -2705,7 +2799,8 @@ keywords = {
     },
     'PowerShell': {
         'keyword': 'PowerShell',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Windows']
     },
     'PPL': {
         'keyword': 'PPL',
@@ -2863,31 +2958,6 @@ keywords = {
     'RTL/2': {
         'keyword': 'RTL/2',
         'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'Ruby/Ror': {
-        'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Ruby']
-    },
-    'Ruby/Rails': {
-        'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Ruby']
-    },
-    'Rails/Ruby': {
-        'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Ruby']
-    },
-    'Rails': {
-        'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Ruby']
-    },
-    'Rails3': {
-        'keyword': 'Ruby on Rails',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Ruby']
     },
     'Ruby': {
         'keyword': 'Ruby',
@@ -3083,6 +3153,10 @@ keywords = {
         'keyword': 'SP/k',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'SPSS': {
+        'keyword': 'SPSS',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
     'SPS': {
         'keyword': 'SPS',
         'type': keyword_type.types['PROGRAMMING_LANG']
@@ -3137,7 +3211,8 @@ keywords = {
     },
     'Swift': {
         'keyword': 'Swift',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['iOS']
     },
     'SYMPL': {
         'keyword': 'SYMPL',
@@ -3156,7 +3231,7 @@ keywords = {
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TACPOL': {
-        'keyword': 'TACL',
+        'keyword': 'TACPOL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TADS': {
@@ -3167,12 +3242,12 @@ keywords = {
         'keyword': 'TAL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'Tcl': {
-        'keyword': 'Tcl',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
     'Tcl/Tk': {
         'keyword': 'Tcl/Tk',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'Tcl': {
+        'keyword': 'Tcl',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Tea': {
@@ -3189,10 +3264,6 @@ keywords = {
     },
     'TeX': {
         'keyword': 'TeX',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'TEX': {
-        'keyword': 'TEX',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'TIE': {
@@ -3272,13 +3343,14 @@ keywords = {
         'keyword': 'Uniface',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'UNITY': {
-        'keyword': 'UNITY',
+    'Unity': {
+        'keyword': 'Unity',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
     'Shell': {
         'keyword': 'Shell',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Unix']
     },
     'UnrealScript': {
         'keyword': 'UnrealScript',
@@ -3416,75 +3488,860 @@ keywords = {
         'keyword': 'ZPL',
         'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'TSQL': {
-        'keyword': 'T-SQL',
-        'type': keyword_type.types['DB'],
-        'extra': ['SQL']
+    'HTML/XHTML': {
+        'keyword': 'XHTML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
     },
-    'T-SQL': {
-       'keyword': 'T-SQL',
-       'type': keyword_type.types['DB'],
-        'extra': ['SQL']
+    'XHTML': {
+        'keyword': 'XHTML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
     },
+    'HTML/DHTML': {
+        'keyword': 'DHTML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'DHTML': {
+        'keyword': 'DHTML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'HTML': {
+        'keyword': 'HTML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'CSS': {
+        'keyword': 'CSS',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'HTML5': {
+        'keyword': 'HTML',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'CSS/CSS3': {
+        'keyword': 'CSS',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'CSS3': {
+        'keyword': 'CSS',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'LESS': {
+        'keyword': 'LESS',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'SASS': {
+        'keyword': 'SASS',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    'SCSS': {
+        'keyword': 'SCSS',
+        'type': keyword_type.types['PROGRAMMING_LANG']
+    },
+    # List of database types
     'SQL': {
         'keyword': 'SQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB_TYPE']
     },
     'NoSQL': {
         'keyword': 'NoSQL',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB_TYPE']
     },
-    'MongoDB': {
-        'keyword': 'MongoDB',
-        'type': keyword_type.types['DB'],
-        'extra': ['NoSQL']
+    'NewSQL': {
+        'keyword': 'NewSQL',
+        'type': keyword_type.types['DB_TYPE']
     },
-    'Mongo': {
-        'keyword': 'MongoDB',
-        'type': keyword_type.types['DB'],
-        'extra': ['NoSQL']
+    # List of mobile frameworks
+    'Cordova': {
+        'keyword': 'Apache Cordova',
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['HTML', 'CSS', 'JavaScript'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
-    'Couchbase': {
-        'keyword': 'Couchbase',
-        'type': keyword_type.types['DB'],
-        'extra': ['NoSQL']
+    'Monaca': {
+        'keyword': 'Monaca',
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['HTML', 'JavaScript'],
     },
-    'Thrift': {
-        'keyword': 'Apache Thrift',
+    'Crosswalk': {
+        'keyword': 'Crosswalk Project',
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['HTML', 'CSS', 'JavaScript'],
+    },
+    'Enyo': {
+        'keyword': 'Enyo',
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['HTML', 'CSS', 'JavaScript'],
+    },
+    'iPFaces': {
+        'keyword': 'iPFaces',
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['PHP', 'ASP.NET', 'Java'],
+    },
+    'iUI': {
+        'keyword': 'iUI',
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['HTML', 'CSS', 'JavaScript'],
+    },
+    'Jembe': {
+        'keyword': 'Jembe',
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['HTML', 'CSS', 'JavaScript'],
+    },
+    'Jmango360': {
+        'keyword': 'Jmango360',
+        'type': keyword_type.types['MOBILE_FRWK']
+    },
+    'Kivy': {
+        'keyword': 'Kivy',
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['Python']
+    },
+    'mobl': {
+        'keyword': 'mobl',
+        'type': keyword_type.types['MOBILE_FRWK']
+    },
+    'MoSync': {
+        'keyword': 'MoSync',
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['C/C++', 'HTML', 'CSS', 'JavaScript'],
+    },
+    'Rhodes': {
+        'keyword': 'RhoMobile',
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['HTML', 'Ruby', 'JavaScript'],
+    },
+    'RhoMobile': {
+        'keyword': 'RhoMobile',
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['HTML', 'Ruby', 'JavaScript'],
+    },
+    'Sencha': {
+        'keyword': 'Sencha Touch',
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['HTML', 'CSS', 'JavaScript'],
+    },
+    'Ionic': {
+        'keyword': 'Ionic',
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['HTML', 'CSS', 'JavaScript'],
+    },
+    # List of mobile operating systems
+    'Android': {
+        'keyword': 'Android',
+        'type': keyword_type.types['MOBILE_OS'],
+        'extra': ['Java']
+    },
+    'iOS': {
+        'keyword': 'iOS',
+        'type': keyword_type.types['MOBILE_OS'],
+        'extra': ['Objective C', 'Swift']
+    },
+    'Blackberry': {
+        'keyword': 'Blackberry OS',
+        'type': keyword_type.types['MOBILE_OS']
+    },
+    'iPhone': {
+        'keyword': 'iOS',
+        'type': keyword_type.types['MOBILE_OS']
+    },
+    # List of operating systems
+    'Unix': {
+        'keyword': 'Unix',
+        'type': keyword_type.types['OS']
+    },
+    'BSD': {
+        'keyword': 'BSD',
+        'type': keyword_type.types['OS'],
+        'extra': ['Unix']
+    },
+    'FreeBSD': {
+        'keyword': 'FreeBSD',
+        'type': keyword_type.types['OS'],
+        'extra': ['Unix', 'BSD']
+    },
+    'Unix/Linux': {
+        'keyword': 'Unix',
+        'type': keyword_type.types['OS']
+    },
+    'Linux': {
+        'keyword': 'Linux',
+        'type': keyword_type.types['OS'],
+        'extra': ['Unix']
+    },
+    'Linux/Unix': {
+        'keyword': 'Linux',
+        'type': keyword_type.types['OS'],
+        'extra': ['Unix']
+    },
+    'Solaris': {
+        'keyword': 'Solaris',
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
+    },
+    'CentOS': {
+        'keyword': 'CentOS',
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
+    },
+    'Fedora': {
+        'keyword': 'Fedora',
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
+    },
+    'Debian': {
+        'keyword': 'Fedora',
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
+    },
+    'openSUSE': {
+        'keyword': 'openSUSE',
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
+    },
+    'Mageia': {
+        'keyword': 'Mageia',
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
+    },
+    'Manjaro': {
+        'keyword': 'Manjaro',
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
+    },
+    'Ubuntu': {
+        'keyword': 'Ubuntu',
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
+    },
+    'RHEL': {
+        'keyword': 'RedHat Linux',
+        'type': keyword_type.types['OS'],
+        'extra': ['Linux']
+    },
+    'Windows': {
+        'keyword': 'Windows',
+        'type': keyword_type.types['OS']
+    },
+    'OSX': {
+        'keyword': 'OS X',
+        'type': keyword_type.types['OS']
+    },
+    'Mac': {
+        'keyword': 'OS X',
+        'type': keyword_type.types['OS']
+    },
+    'MacOS': {
+        'keyword': 'OS X',
+        'type': keyword_type.types['OS']
+    },
+    # List of web servers
+    'AOLserver': {
+        'keyword': 'AOLserver',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Tomcat': {
+        'keyword': 'Apache Tomcat',
+        'type': keyword_type.types['WEB_SRV'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Boa': {
+        'keyword': 'Boa',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Caddy': {
+        'keyword': 'Caddy',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Resin': {
+        'keyword': 'Resin',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Caudium': {
+        'keyword': 'Caudium',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'HFS': {
+        'keyword': 'HFS',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'GlassFish': {
+        'keyword': 'GlassFish',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Hiawatha': {
+        'keyword': 'Hiawatha',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'IIS': {
+        'keyword': 'IIS',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Jetty': {
+        'keyword': 'Jetty',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Jexus': {
+        'keyword': 'Jexus',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'lighttpd': {
+        'keyword': 'lighttpd',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Mongoose': {
+        'keyword': 'Mongoose',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'NaviServer': {
+        'keyword': 'NaviServer',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Nginx': {
+        'keyword': 'Nginx',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'thttpd': {
+        'keyword': 'thttpd',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Xitami': {
+        'keyword': 'Xitami',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Yaws': {
+        'keyword': 'Yaws',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'Geronimo': {
+        'keyword': 'Apache Geronimo',
+        'type': keyword_type.types['WEB_SRV'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'JBoss': {
+        'keyword': 'JBoss EAP',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'OpenLiteSpeed': {
+        'keyword': 'OpenLiteSpeed',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    'WEBrick': {
+        'keyword': 'WEBrick',
+        'type': keyword_type.types['WEB_SRV']
+    },
+    # List of search servers
+    'Lucene': {
+        'keyword': 'Apache Lucene',
+        'type': keyword_type.types['SEARCH_SRV'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Lucene/Solr': {
+        'keyword': 'Apache Solr',
+        'type': keyword_type.types['SEARCH_SRV'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Solr/Lucene': {
+        'keyword': 'Apache Solr',
+        'type': keyword_type.types['SEARCH_SRV'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Solr': {
+        'keyword': 'Apache Solr',
+        'type': keyword_type.types['SEARCH_SRV'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Elasticsearch': {
+        'keyword': 'Elasticsearch',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'Splunk': {
+        'keyword': 'Splunk',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'Gigablast': {
+        'keyword': 'Gigablast',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'Grub': {
+        'keyword': 'Grub',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'Isearch': {
+        'keyword': 'Isearch',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'mnoGoSearch': {
+        'keyword': 'mnoGoSearch',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'Namazu': {
+        'keyword': 'Namazu',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'Nutch': {
+        'keyword': 'Nutch',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'Recoll': {
+        'keyword': 'Recoll',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'Searchdaimon': {
+        'keyword': 'Searchdaimon',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'Seeks': {
+        'keyword': '',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'Sphinx': {
+        'keyword': 'Sphinx',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'SWISH-E': {
+        'keyword': 'SWISH-E',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'Xapian': {
+        'keyword': 'Xapian',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'YaCy': {
+        'keyword': 'YaCy',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    'Zettair': {
+        'keyword': 'Zettair',
+        'type': keyword_type.types['SEARCH_SRV']
+    },
+    # List of data structure servers
+    'Redis': {
+        'keyword': 'Redis',
+        'type': keyword_type.types['DATA_STRUCT_SRV']
+    },
+    'Memcached': {
+        'keyword': 'Memcached',
+        'type': keyword_type.types['DATA_STRUCT_SRV']
+    },
+    'NCache': {
+        'keyword': 'NCache',
+        'type': keyword_type.types['DATA_STRUCT_SRV']
+    },
+    # List of web frameworks
+    # .NET web frameworks
+    'ASP.NET': {
+        'keyword': 'ASP.NET',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['.NET']
+    },
+    'ASP': {
+        'keyword': 'ASP.NET',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['.NET']
+    },
+    # C++ web frameworks
+    'CppCMS': {
+        'keyword': 'CppCMS',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['C++']
+    },
+    'Tntnet': {
+        'keyword': 'Tntnet',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['C++']
+    },
+    'Wt': {
+        'keyword': 'Wt',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['C++']
+    },
+    # ColdFusion web frameworks
+    'ColdBox': {
+        'keyword': 'ColdBox',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['ColdFusion']
+    },
+    'Mach-II': {
+        'keyword': 'Mach-II',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['ColdFusion']
+    },
+    'Model-Glue': {
+        'keyword': 'Model-Glue',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['ColdFusion']
+    },
+    # Groovy web frameworks
+    'Groovy/Grails': {
+        'keyword': 'Groovy on Grails',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Groovy']
+    },
+    'Grails/Groovy': {
+        'keyword': 'Groovy on Grails',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Groovy']
+    },
+    'Groovy-on-Grails': {
+        'keyword': 'Groovy on Grails',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Groovy']
+    },
+    'Grails': {
+        'keyword': 'Groovy on Grails',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Groovy']
+    },
+    # Java web frameworks
+    'Click': {
+        'keyword': 'Apache Click',
+        'type': keyword_type.types['APACHE_FRWK'],
+        'extra': ['Java'],
+        'type_extra': [keyword_type.types['WEB_FRWK']]
+    },
+    'OFBiz': {
+        'keyword': 'Apache OFBiz',
         'type': keyword_type.types['APACHE_FRWK']
     },
-    'Pig': {
-        'keyword': 'Apache Pig',
-        'type': keyword_type.types['APACHE_FRWK']
+    'Sling': {
+        'keyword': 'Apache Sling',
+        'type': keyword_type.types['APACHE_FRWK'],
+        'extra': ['Java'],
+        'type_extra': [keyword_type.types['WEB_FRWK']]
     },
+    'Struts': {
+        'keyword': 'Apache Struts',
+        'type': keyword_type.types['APACHE_FRWK'],
+        'extra': ['Java'],
+        'type_extra': [keyword_type.types['WEB_FRWK']]
+    },
+    'Tapestry': {
+        'keyword': 'Apache Tapestry',
+        'type': keyword_type.types['APACHE_FRWK'],
+        'extra': ['Java'],
+        'type_extra': [keyword_type.types['WEB_FRWK']]
+    },
+    'Wicket': {
+        'keyword': 'Apache Wicket',
+        'type': keyword_type.types['APACHE_FRWK'],
+        'extra': ['Java'],
+        'type_extra': [keyword_type.types['WEB_FRWK']]
+    },
+    'FormEngine': {
+        'keyword': 'FormEngine',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    'ItsNat': {
+        'keyword': 'ItsNat',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    'Jspx-bay': {
+        'keyword': 'Jspx-bay',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    'JVx': {
+        'keyword': 'JVx',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    'OpenXava': {
+        'keyword': 'JVx',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    'Play': {
+        'keyword': 'Play Framework',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java', 'Scala']
+    },
+    'RIFE': {
+        'keyword': 'RIFE',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    'Spring': {
+        'keyword': 'Spring Framework',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    'Stripes': {
+        'keyword': 'Stripes',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    'Vaadin': {
+        'keyword': 'Vaadin',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    'Wavemaker': {
+        'keyword': 'Wavemaker',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    'WebObjects': {
+        'keyword': 'WebObjects',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    'ztemplates': {
+        'keyword': 'ztemplates',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    'ZK': {
+        'keyword': 'ZK',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java']
+    },
+    # Lua web frameworks
+    'Kepler': {
+        'keyword': 'Kepler',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Lua']
+    },
+    # PHP web frameworks
+    'Banshee': {
+        'keyword': 'Banshee',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'CakePHP': {
+        'keyword': 'CakePHP',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'CodeIgniter': {
+        'keyword': 'CodeIgniter',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Drupal': {
+        'keyword': 'Drupal',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Fat-Free': {
+        'keyword': 'Fat-Free Framework',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'FuelPHP': {
+        'keyword': 'FuelPHP',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Fusebox': {
+        'keyword': 'Fusebox',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Joomla': {
+        'keyword': 'Joomla',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Kajona': {
+        'keyword': 'Kajona',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Laravel': {
+        'keyword': 'Laravel',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Lithium': {
+        'keyword': 'Lithium',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Nette': {
+        'keyword': 'Nette Framework',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Phalcon': {
+        'keyword': 'Phalcon',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'PRADO': {
+        'keyword': 'PRADO',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'SilverStripe': {
+        'keyword': 'SilverStripe',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Silex': {
+        'keyword': 'Silex',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Smart.Framework': {
+        'keyword': 'Smart.Framework',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Symfony': {
+        'keyword': 'Symfony',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'TYPO3': {
+        'keyword': 'TYPO3',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Yii': {
+        'keyword': 'Yii',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'Zend Framework': {
+        'keyword': 'Zend Framework',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    'PHPixie': {
+        'keyword': 'PHPixie',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['PHP']
+    },
+    # Ruby web frameworks
+    'Camping': {
+        'keyword': 'Camping',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
+    },
+    'Ruby-on-Rails': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
+    },
+    'Ruby/Ror': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
+    },
+    'Ruby/Rails': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
+    },
+    'Rails/Ruby': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
+    },
+    'Rails': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
+    },
+    'Rails3': {
+        'keyword': 'Ruby on Rails',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
+    },
+    'Sinatra': {
+        'keyword': 'Sinatra',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Ruby']
+    },
+    # Python web frameworks
+    'Bottle': {
+        'keyword': 'Bottle',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    'CherryPy': {
+        'keyword': 'CherryPy',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    'Python/Django': {
+        'keyword': 'Django',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    'Django': {
+        'keyword': 'Django',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    'Python/Flask': {
+        'keyword': 'Flask',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    'Flask': {
+        'keyword': 'Flask',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    'Pyjs': {
+        'keyword': 'Pyjs',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    'Pylons': {
+        'keyword': 'Pylons',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    'Pyramid': {
+        'keyword': 'Pyramid',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    'TACTIC': {
+        'keyword': 'TACTIC',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    'Tornado': {
+        'keyword': 'Tornado',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    'TurboGears': {
+        'keyword': 'TurboGears',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    'web2py': {
+        'keyword': 'web2py',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    'Webware': {
+        'keyword': 'Webware',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    'BlueBream': {
+        'keyword': 'BlueBream',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    'Zope': {
+        'keyword': 'Zope',
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Python']
+    },
+    # List of apache frameworks
     'Abdera': {
         'keyword': 'Apache Abdera',
         'type': keyword_type.types['APACHE_FRWK']
     },
-    'Accumulo': {
-        'keyword': 'Apache Accumulo',
-        'type': keyword_type.types['APACHE_FRWK']
-    },
-    'ActiveMQ': {
-        'keyword': 'Apache ActiveMQ',
-        'type': keyword_type.types['APACHE_FRWK']
-    },
     'Allura': {
         'keyword': 'Apache Allura',
-        'type': keyword_type.types['APACHE_FRWK']
-    },
-    'Ant': {
-        'keyword': 'Apache Ant',
-        'type': keyword_type.types['BUILD_AUTO_TOOL'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
-    },
-    'Buildr': {
-        'keyword': 'Apache Buildr',
-        'type': keyword_type.types['BUILD_AUTO_TOOL'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
-    },
-    'Arrow': {
-        'keyword': 'Apache Arrow',
         'type': keyword_type.types['APACHE_FRWK']
     },
     'APR': {
@@ -3531,15 +4388,6 @@ keywords = {
         'keyword': 'Apache Commons',
         'type': keyword_type.types['APACHE_FRWK']
     },
-    'Continuum': {
-        'keyword': 'Apache Continuum',
-        'type': keyword_type.types['APACHE_FRWK']
-    },
-    'Cordova': {
-        'keyword': 'Apache Cordova',
-        'type': keyword_type.types['MOBILE_FRWK'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
-    },
     'cTAKES': {
         'keyword': 'Apache cTAKES',
         'type': keyword_type.types['APACHE_FRWK']
@@ -3552,25 +4400,9 @@ keywords = {
         'keyword': 'Apache CXF',
         'type': keyword_type.types['APACHE_FRWK']
     },
-    'Cassandra': {
-        'keyword': 'Apache Cassandra',
-        'type': keyword_type.types['DB'],
-        'extra': ['NoSQL'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
-    },
     'Cayenne': {
         'keyword': 'Apache Cayenne',
         'type': keyword_type.types['APACHE_FRWK']
-    },
-    'CouchDB': {
-        'keyword': 'Apache CouchDB',
-        'type': keyword_type.types['DB'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
-    },
-    'Derby': {
-        'keyword': 'Apache Derby',
-        'type': keyword_type.types['DB'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'JDO': {
         'keyword': 'Apache JDO',
@@ -3580,8 +4412,8 @@ keywords = {
         'keyword': 'Apache Torque',
         'type': keyword_type.types['APACHE_FRWK']
     },
-    'Directory': {
-        'keyword': 'Apache Directory',
+    'Excalibur': {
+        'keyword': 'Apache Excalibur',
         'type': keyword_type.types['APACHE_FRWK']
     },
     'Felix': {
@@ -3604,20 +4436,8 @@ keywords = {
         'keyword': 'Apache Flume',
         'type': keyword_type.types['APACHE_FRWK']
     },
-    'Geronimo': {
-        'keyword': 'Apache Geronimo',
-        'type': keyword_type.types['APACHE_FRWK']
-    },
     'Giraph': {
         'keyword': 'Apache Giraph',
-        'type': keyword_type.types['APACHE_FRWK']
-    },
-    'Gump': {
-        'keyword': 'Apache Gump',
-        'type': keyword_type.types['APACHE_FRWK']
-    },
-    'Hadoop': {
-        'keyword': 'Apache Hadoop',
         'type': keyword_type.types['APACHE_FRWK']
     },
     'Hive': {
@@ -3627,98 +4447,6 @@ keywords = {
     'HiveMind': {
         'keyword': 'Apache HiveMind',
         'type': keyword_type.types['APACHE_FRWK']
-    },
-    'AOLserver': {
-        'keyword': 'AOLserver',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Boa': {
-        'keyword': 'Boa',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Caddy': {
-        'keyword': 'Caddy',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Caudium': {
-        'keyword': 'Caudium',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'GlassFish': {
-        'keyword': 'GlassFish',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Hiawatha': {
-        'keyword': 'Hiawatha',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'HFS': {
-        'keyword': 'HFS',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'IIS': {
-        'keyword': 'IIS',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Jetty': {
-        'keyword': 'Jetty',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Jexus': {
-        'keyword': 'Jexus',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'lighttpd': {
-        'keyword': 'lighttpd',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Mongoose': {
-        'keyword': 'Mongoose',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'NaviServer': {
-        'keyword': 'NaviServer',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Nginx': {
-        'keyword': 'Nginx',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'OpenLiteSpeed': {
-        'keyword': 'OpenLiteSpeed',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Resin': {
-        'keyword': 'Resin',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'thttpd': {
-        'keyword': 'thttpd',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'WEBrick': {
-        'keyword': 'WEBrick',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Xitami': {
-        'keyword': 'Xitami',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Yaws': {
-        'keyword': 'Yaws',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Zope': {
-        'keyword': 'Zope',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'JBoss': {
-        'keyword': 'Boss EAP',
-        'type': keyword_type.types['WEB_SRV']
-    },
-    'Tornado': {
-        'keyword': 'Tornado',
-        'type': keyword_type.types['WEB_SRV']
     },
     'iBATIS': {
         'keyword': 'Apache iBATIS',
@@ -3740,14 +4468,6 @@ keywords = {
         'keyword': 'Apache jclouds',
         'type': keyword_type.types['APACHE_FRWK']
     },
-    'Kafka': {
-        'keyword': 'Apache Kafka',
-        'type': keyword_type.types['APACHE_FRWK']
-    },
-    'RabbitMQ': {
-        'keyword': 'RabbitMQ',
-        'type': keyword_type.types['FRWK']
-    },
     'Kylin': {
         'keyword': 'Apache Kylin',
         'type': keyword_type.types['APACHE_FRWK']
@@ -3759,20 +4479,6 @@ keywords = {
     'log4j': {
         'keyword': 'Apache log4j',
         'type': keyword_type.types['APACHE_FRWK']
-    },
-    'Lucene': {
-        'keyword': 'Apache Lucene',
-        'type': keyword_type.types['SEARCH_SRV'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
-    },
-    'Solr': {
-        'keyword': 'Apache Solr',
-        'type': keyword_type.types['SEARCH_SRV'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
-    },
-    'Elasticsearch': {
-        'keyword': 'Elasticsearch',
-        'type': keyword_type.types['SEARCH_SRV']
     },
     'Lucy': {
         'keyword': 'Apache Lucy',
@@ -3786,21 +4492,12 @@ keywords = {
         'keyword': 'Apache Marmotta',
         'type': keyword_type.types['APACHE_FRWK']
     },
-    'Maven': {
-        'keyword': 'Apache Maven',
-        'type': keyword_type.types['BUILD_AUTO_TOOL'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
-    },
     'MINA': {
         'keyword': 'Apache MINA',
         'type': keyword_type.types['APACHE_FRWK']
     },
     'MyFaces': {
         'keyword': 'Apache MyFaces',
-        'type': keyword_type.types['APACHE_FRWK']
-    },
-    'OFBiz': {
-        'keyword': 'Apache OFBiz',
         'type': keyword_type.types['APACHE_FRWK']
     },
     'Olingo': {
@@ -3835,24 +4532,12 @@ keywords = {
         'keyword': 'Apache Pivot',
         'type': keyword_type.types['APACHE_FRWK']
     },
-    'Phoenix': {
-        'keyword': 'Apache Phoenix',
-        'type': keyword_type.types['APACHE_FRWK']
-    },
-    'HBase': {
-        'keyword': 'Apache HBase',
-        'type': keyword_type.types['APACHE_FRWK']
-    },
     'POI': {
         'keyword': 'Apache POI',
         'type': keyword_type.types['APACHE_FRWK']
     },
     'Portals': {
         'keyword': 'Apache Portals',
-        'type': keyword_type.types['APACHE_FRWK']
-    },
-    'Qpid': {
-        'keyword': 'Apache Qpid',
         'type': keyword_type.types['APACHE_FRWK']
     },
     'Samza': {
@@ -3895,52 +4580,6 @@ keywords = {
         'keyword': 'Apache Stratos',
         'type': keyword_type.types['APACHE_FRWK']
     },
-    'Struts': {
-        'keyword': 'Apache Struts',
-        'type': keyword_type.types['APACHE_FRWK']
-    },
-    'Hibernate': {
-        'keyword': 'Hibernate ORM',
-        'type': keyword_type.types['FRWK']
-    },
-    'Spring': {
-        'keyword': 'Spring MVC',
-        'type': keyword_type.types['FRWK']
-    },
-    'Subversion': {
-        'keyword': 'Apache Subversion',
-        'type': keyword_type.types['VC'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
-    },
-    'SVN': {
-        'keyword': 'Apache Subversion',
-        'type': keyword_type.types['VC'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
-    },
-    'Git': {
-        'keyword': 'Git',
-        'type': keyword_type.types['VC']
-    },
-    'P4': {
-        'keyword': 'Perforce',
-        'type': keyword_type.types['VC']
-    },
-    'Perforce': {
-        'keyword': 'Perforce',
-        'type': keyword_type.types['VC']
-    },
-    'CVS': {
-        'keyword': 'CVS',
-        'type': keyword_type.types['VC']
-    },
-    'Mercurial': {
-        'keyword': 'Mercurial',
-        'type': keyword_type.types['VC']
-    },
-    'Tapestry': {
-        'keyword': 'Apache Tapestry',
-        'type': keyword_type.types['APACHE_FRWK']
-    },
     'Tajo': {
         'keyword': 'Apache Tajo',
         'type': keyword_type.types['APACHE_FRWK']
@@ -3948,11 +4587,6 @@ keywords = {
     'Tika': {
         'keyword': 'Apache Tika',
         'type': keyword_type.types['APACHE_FRWK']
-    },
-    'Tomcat': {
-        'keyword': 'Apache Tomcat',
-        'type': keyword_type.types['WEB_SRV'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'UIMA': {
         'keyword': 'Apache UIMA',
@@ -3980,10 +4614,6 @@ keywords = {
     },
     'Tuscany': {
         'keyword': 'Apache Tuscany',
-        'type': keyword_type.types['APACHE_FRWK']
-    },
-    'Wicket': {
-        'keyword': 'Apache Wicket',
         'type': keyword_type.types['APACHE_FRWK']
     },
     'Xalan': {
@@ -4018,20 +4648,138 @@ keywords = {
         'keyword': 'Apache Storm',
         'type': keyword_type.types['APACHE_FRWK']
     },
+    'Thrift': {
+        'keyword': 'Apache Thrift',
+        'type': keyword_type.types['APACHE_FRWK']
+    },
+    'Pig': {
+        'keyword': 'Apache Pig',
+        'type': keyword_type.types['APACHE_FRWK']
+    },
+    # List of version control systems
+    'Subversion': {
+        'keyword': 'Apache Subversion',
+        'type': keyword_type.types['VC'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'SVN': {
+        'keyword': 'Apache Subversion',
+        'type': keyword_type.types['VC'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Git': {
+        'keyword': 'Git',
+        'type': keyword_type.types['VC']
+    },
+    'P4': {
+        'keyword': 'Perforce',
+        'type': keyword_type.types['VC']
+    },
+    'Perforce': {
+        'keyword': 'Perforce',
+        'type': keyword_type.types['VC']
+    },
+    'CVS': {
+        'keyword': 'CVS',
+        'type': keyword_type.types['VC']
+    },
+    'Mercurial': {
+        'keyword': 'Mercurial',
+        'type': keyword_type.types['VC']
+    },
+    # List of build automation server
+    'A-A-P': {
+        'keyword': 'A-A-P',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Ant': {
+        'keyword': 'Apache Ant',
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'extra': ['Java'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'BuildAMation': {
+        'keyword': 'BuildAMation',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Buildr': {
+        'keyword': 'Apache Buildr',
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Boot': {
+        'keyword': 'Boot',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Capistrano': {
+        'keyword': 'Capistrano',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'CMake': {
+        'keyword': 'CMake',
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'extra': ['C']
+    },
+    'ElectricCommander': {
+        'keyword': 'ElectricCommander',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'FinalBuilder': {
+        'keyword': 'FinalBuilder',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Gradle': {
+        'keyword': 'Gradle',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Leiningen': {
+        'keyword': 'Leiningen',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Make': {
+        'keyword': 'Make',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
     'Makefile': {
-        'keyword': 'Makefile',
+        'keyword': 'Make',
         'type': keyword_type.types['BUILD_AUTO_TOOL']
     },
     'Makefiles': {
-        'keyword': 'Makefile',
+        'keyword': 'Make',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Maven': {
+        'keyword': 'Apache Maven',
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'MSBuild': {
+        'keyword': 'MSBuild',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'NAnt': {
+        'keyword': 'NAnt',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'NMake': {
+        'keyword': 'NMake',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'Rake': {
+        'keyword': 'Rake',
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'extra': ['Ruby'],
+    },
+    'sbt': {
+        'keyword': 'sbt',
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
+    },
+    'SCons': {
+        'keyword': 'SCons',
         'type': keyword_type.types['BUILD_AUTO_TOOL']
     },
     'ASDF': {
         'keyword': 'ASDF',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
-    },
-    'A-A-P': {
-        'keyword': 'A-A-P',
         'type': keyword_type.types['BUILD_AUTO_TOOL']
     },
     'Brazel': {
@@ -4042,10 +4790,6 @@ keywords = {
         'keyword': 'BitBake',
         'type': keyword_type.types['BUILD_AUTO_TOOL']
     },
-    'Boot': {
-        'keyword': 'Boot',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
-    },
     'Buck': {
         'keyword': 'Buck',
         'type': keyword_type.types['BUILD_AUTO_TOOL']
@@ -4054,48 +4798,16 @@ keywords = {
         'keyword': 'Cabal',
         'type': keyword_type.types['BUILD_AUTO_TOOL']
     },
-    'FinalBuilder': {
-        'keyword': 'FinalBuilder',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
-    },
     'Flowtracer': {
         'keyword': 'Flowtracer',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
-    },
-    'Gradle': {
-        'keyword': 'Gradle',
         'type': keyword_type.types['BUILD_AUTO_TOOL']
     },
     'IncrediBuild': {
         'keyword': 'IncrediBuild',
         'type': keyword_type.types['BUILD_AUTO_TOOL']
     },
-    'Leiningen': {
-        'keyword': 'Leiningen',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
-    },
-    'MSBuild': {
-        'keyword': 'MSBuild',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
-    },
-    'NAnt': {
-        'keyword': 'NAnt',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
-    },
     'Psake': {
         'keyword': 'Psake',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
-    },
-    'Rake': {
-        'keyword': 'Rake',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
-    },
-    'sbt': {
-        'keyword': 'sbt',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
-    },
-    'SCons': {
-        'keyword': 'SCons',
         'type': keyword_type.types['BUILD_AUTO_TOOL']
     },
     'Stack': {
@@ -4110,8 +4822,27 @@ keywords = {
         'keyword': 'Waf',
         'type': keyword_type.types['BUILD_AUTO_TOOL']
     },
+    # List of continuous integration tools
     'AnthillPro': {
         'keyword': 'AnthillPro',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Continuum': {
+        'keyword': 'Apache Continuum',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL'],
+        'extra_type': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Gump': {
+        'keyword': 'Apache Gump',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL'],
+        'extra_type': [keyword_type.types['APACHE_FRWK']]
+    },
+    'AppVeyor': {
+        'keyword': 'AppVeyor',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Assertible': {
+        'keyword': 'Assertible',
         'type': keyword_type.types['CONT_INTEGRATION_TOOL']
     },
     'Bamboo': {
@@ -4122,24 +4853,60 @@ keywords = {
         'keyword': 'Buildbot',
         'type': keyword_type.types['CONT_INTEGRATION_TOOL']
     },
-    'BuiltIT': {
-        'keyword': 'BuiltIT',
+    'Buddy': {
+        'keyword': 'Buddy',
         'type': keyword_type.types['CONT_INTEGRATION_TOOL']
     },
-    'Buildout': {
-        'keyword': 'Buildout',
+    'BuildMaster': {
+        'keyword': 'BuildMaster',
         'type': keyword_type.types['CONT_INTEGRATION_TOOL']
     },
     'CABIE': {
         'keyword': 'CABIE',
         'type': keyword_type.types['CONT_INTEGRATION_TOOL']
     },
-    'CruiseControl': {
-        'keyword': 'CruiseControl',
+    'CircleCI': {
+        'keyword': 'CircleCI',
         'type': keyword_type.types['CONT_INTEGRATION_TOOL']
     },
-    'DeployBot': {
-        'keyword': 'DeployBot',
+    'Codeship': {
+        'keyword': 'Codeship',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Concourse': {
+        'keyword': 'Concourse',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'continuousphp': {
+        'keyword': 'continuousphp',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'CruiseControl.NET': {
+        'keyword': 'CruiseControl.NET',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Dockunit': {
+        'keyword': 'Dockunit',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Drone.io': {
+        'keyword': 'Drone.io',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'easyCIS': {
+        'keyword': 'easyCIS',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'GoCD': {
+        'keyword': 'GoCD',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Harrow': {
+        'keyword': 'Harrow',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Integrity': {
+        'keyword': 'Integrity',
         'type': keyword_type.types['CONT_INTEGRATION_TOOL']
     },
     'Hudson': {
@@ -4150,42 +4917,128 @@ keywords = {
         'keyword': 'Jenkins',
         'type': keyword_type.types['CONT_INTEGRATION_TOOL']
     },
-    'TeamCity': {
-        'keyword': 'TeamCity',
+    'LuntBuild': {
+        'keyword': 'LuntBuild',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Lordui': {
+        'keyword': 'Lordui',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'NCI': {
+        'keyword': 'NCI',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Probo.CI': {
+        'keyword': 'Probo.CI',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'QuickBuild': {
+        'keyword': 'QuickBuild',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Semaphore': {
+        'keyword': 'Semaphore',
         'type': keyword_type.types['CONT_INTEGRATION_TOOL']
     },
     'Shippable': {
         'keyword': 'Shippable',
         'type': keyword_type.types['CONT_INTEGRATION_TOOL']
     },
-    'Chef': {
-        'keyword': 'Chef',
-        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    'Strider': {
+        'keyword': 'Strider',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
     },
+    'TeamCity': {
+        'keyword': 'TeamCity',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'Buildout': {
+        'keyword': 'Buildout',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'CruiseControl': {
+        'keyword': 'CruiseControl',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    'DeployBot': {
+        'keyword': 'DeployBot',
+        'type': keyword_type.types['CONT_INTEGRATION_TOOL']
+    },
+    # List of configuration management tools
     'Ansible': {
         'keyword': 'Ansible',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'Bcfg2': {
+        'keyword': 'Bcfg2',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'cdist': {
+        'keyword': 'cdist',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'Chef': {
+        'keyword': 'Chef',
         'type': keyword_type.types['CONF_MANAGE_TOOL']
     },
     'CFEngine': {
         'keyword': 'CFEngine',
         'type': keyword_type.types['CONF_MANAGE_TOOL']
     },
-    'Distelli': {
-        'keyword': 'Distelli',
+    'ISconf': {
+        'keyword': 'ISconf',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'Juju': {
+        'keyword': 'Juju',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'PIKT': {
+        'keyword': 'PIKT',
         'type': keyword_type.types['CONF_MANAGE_TOOL']
     },
     'Puppet': {
         'keyword': 'Puppet',
         'type': keyword_type.types['CONF_MANAGE_TOOL']
     },
-    'Salt': {
-        'keyword': 'Salt',
+    'Quattor': {
+        'keyword': 'Quattor',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'Radmind': {
+        'keyword': 'Radmind',
         'type': keyword_type.types['CONF_MANAGE_TOOL']
     },
     'Rex': {
         'keyword': 'Rex',
         'type': keyword_type.types['CONF_MANAGE_TOOL']
     },
+    'Rudder': {
+        'keyword': 'Rudder',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'SmartFrog': {
+        'keyword': 'SmartFrog',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'Salt': {
+        'keyword': 'Salt',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'Spacewalk': {
+        'keyword': 'Spacewalk',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'STAF': {
+        'keyword': 'STAF',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    'Synctool': {
+        'keyword': 'Synctool',
+        'type': keyword_type.types['CONF_MANAGE_TOOL']
+    },
+    # List of VM environments
     'Vagrant': {
         'keyword': 'Vagrant',
         'type': keyword_type.types['VM_ENV']
@@ -4206,114 +5059,16 @@ keywords = {
         'keyword': 'Docker',
         'type': keyword_type.types['VM_ENV']
     },
-    'Linux': {
-        'keyword': 'Linux',
-        'type': keyword_type.types['OS'],
-        'extra': ['Unix']
-    },
-    'Linux/Unix': {
-        'keyword': 'Linux',
-        'type': keyword_type.types['OS'],
-        'extra': ['Unix']
-    },
-    'Unix/Linux': {
-        'keyword': 'Unix',
-        'type': keyword_type.types['OS']
-    },
-    'Solaris': {
-        'keyword': 'Solaris',
-        'type': keyword_type.types['OS'],
-        'extra': ['Linux']
-    },
-    'Unix': {
-        'keyword': 'Unix',
-        'type': keyword_type.types['OS']
-    },
-    'CentOS': {
-        'keyword': 'CentOS',
-        'type': keyword_type.types['OS'],
-        'extra': ['Linux']
-    },
-    'Ubuntu': {
-        'keyword': 'Ubuntu',
-        'type': keyword_type.types['OS'],
-        'extra': ['Linux']
-    },
-    'RHEL': {
-        'keyword': 'RHEL',
-        'type': keyword_type.types['OS'],
-        'extra': ['Linux']
-    },
-    'Windows': {
-        'keyword': 'Windows',
-        'type': keyword_type.types['OS']
-    },
-    'OSX': {
-        'keyword': 'OS X',
-        'type': keyword_type.types['OS']
-    },
-    'Mac': {
-        'keyword': 'OS X',
-        'type': keyword_type.types['OS']
-    },
-    'MacOS': {
-        'keyword': 'OS X',
-        'type': keyword_type.types['OS']
-    },
-    'Python/Django': {
-        'keyword': 'Django',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Python']
-    },
-    'Django': {
-        'keyword': 'Django',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Python']
-    },
-    'Python/Flask': {
-        'keyword': 'Flask',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Python']
-    },
-    'Flask': {
-        'keyword': 'Flask',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Python']
-    },
-    'Play': {
-        'keyword': 'Play Framework',
-        'type': keyword_type.types['WEB_FRWK'],
-        'extra': ['Java', 'Scala']
-    },
-    'PostgreSQL': {
-        'keyword': 'PostgreSQL',
+    # List of databases
+    'Arrow': {
+        'keyword': 'Apache Arrow',
         'type': keyword_type.types['DB'],
-        'extra': ['SQL']
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
-    'Postgres': {
-        'keyword': 'PostgreSQL',
+    'Derby': {
+        'keyword': 'Apache Derby',
         'type': keyword_type.types['DB'],
-        'extra': ['SQL']
-    },
-    'MySQL': {
-        'keyword': 'MySQL',
-        'type': keyword_type.types['DB'],
-        'extra': ['SQL']
-    },
-    'MySQL/MariaDB': {
-        'keyword': 'MySQL',
-        'type': keyword_type.types['DB'],
-        'extra': ['SQL']
-    },
-    'MariaDB/MySQL': {
-        'keyword': 'MariaDB',
-        'type': keyword_type.types['DB'],
-        'extra': ['SQL']
-    },
-    'MSSQL': {
-        'keyword': 'MSSQL',
-        'type': keyword_type.types['DB'],
-        'extra': ['SQL']
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'Altibase': {
         'keyword': 'Altibase',
@@ -4366,11 +5121,17 @@ keywords = {
     },
     'Greenplum': {
         'keyword': 'Greenplum',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['PostgreSQL']
     },
     'GroveSite': {
         'keyword': 'GroveSite',
         'type': keyword_type.types['DB']
+    },
+    'Hadoop': {
+        'keyword': 'Apache Hadoop',
+        'type': keyword_type.types['DB'],
+        'extra_type': [keyword_type.types['APACHE_FRWK']]
     },
     'H2': {
         'keyword': 'H2',
@@ -4378,6 +5139,10 @@ keywords = {
     },
     'HSQLDB': {
         'keyword': 'HSQLDB',
+        'type': keyword_type.types['DB']
+    },
+    'DB2': {
+        'keyword': 'IBM DB2',
         'type': keyword_type.types['DB']
     },
     'Infobright': {
@@ -4404,6 +5169,21 @@ keywords = {
         'keyword': 'Linter',
         'type': keyword_type.types['DB']
     },
+    'MariaDB': {
+        'keyword': 'MariaDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['MySQL', 'SQL']
+    },
+    'MySQL/MariaDB': {
+        'keyword': 'MySQL',
+        'type': keyword_type.types['DB'],
+        'extra': ['MariaDB', 'SQL']
+    },
+    'MariaDB/MySQL': {
+        'keyword': 'MariaDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['MySQL', 'SQL']
+    },
     'MaxDB': {
         'keyword': 'MaxDB',
         'type': keyword_type.types['DB']
@@ -4413,12 +5193,22 @@ keywords = {
         'type': keyword_type.types['DB'],
         'extra': ['SQL']
     },
+    'MSSQL': {
+        'keyword': 'MSSQL',
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
+    },
     'MonetDB': {
         'keyword': 'MonetDB',
         'type': keyword_type.types['DB']
     },
     'mSQL': {
         'keyword': 'mSQL',
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
+    },
+    'MySQL': {
+        'keyword': 'MySQL',
         'type': keyword_type.types['DB'],
         'extra': ['SQL']
     },
@@ -4438,12 +5228,8 @@ keywords = {
         'keyword': 'Openbase',
         'type': keyword_type.types['DB']
     },
-    'Oracle Database': {
-        'keyword': 'Oracle',
-        'type': keyword_type.types['DB']
-    },
-    'Oracle RDBMS': {
-        'keyword': 'Oracle',
+    'Oracle': {
+        'keyword': 'Oracle Database',
         'type': keyword_type.types['DB']
     },
     'Panorama': {
@@ -4453,6 +5239,16 @@ keywords = {
     'Polyhedra': {
         'keyword': 'Polyhedra',
         'type': keyword_type.types['DB']
+    },
+    'PostgreSQL': {
+        'keyword': 'PostgreSQL',
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
+    },
+    'Postgres': {
+        'keyword': 'PostgreSQL',
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'R:Base': {
         'keyword': 'R:Base',
@@ -4526,44 +5322,175 @@ keywords = {
         'keyword': 'VMDS',
         'type': keyword_type.types['DB']
     },
+    'TSQL': {
+        'keyword': 'T-SQL',
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
+    },
+    'T-SQL': {
+       'keyword': 'T-SQL',
+       'type': keyword_type.types['DB'],
+       'extra': ['SQL']
+    },
     'Presto': {
         'keyword': 'Presto',
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
+    },
+    'Phoenix': {
+        'keyword': 'Apache Phoenix',
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Parquet': {
+        'keyword': 'Apache Parquet',
+        'type': keyword_type.types['DB'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Druid': {
+        'keyword': 'Druid',
         'type': keyword_type.types['DB']
+    },
+    'Hypertable': {
+        'keyword': 'Hypertable',
+        'type': keyword_type.types['DB']
+    },
+    'RCFile': {
+        'keyword': 'RCFile',
+        'type': keyword_type.types['DB']
+    },
+    'Clickhouse': {
+        'keyword': 'Clickhouse',
+        'type': keyword_type.types['DB']
+    },
+    'Amazon SimpleDB': {
+        'keyword': 'Amazon SimpleDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL'],
+        'extra_type': [keyword_type.types['AWS_PRODUCT']]
+    },
+    'CouchDB': {
+        'keyword': 'Apache CouchDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Clusterpoint': {
+        'keyword': 'Clusterpoint',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
+    },
+    'CratelO': {
+        'keyword': 'CratelO',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
+    },
+    'DocumentDB': {
+        'keyword': 'DocumentDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
+    },
+    'HyperDex': {
+        'keyword': 'HyperDex',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
+    },
+    'MongoDB': {
+        'keyword': 'MongoDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
+    },
+    'Mongo': {
+        'keyword': 'MongoDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
     },
     'RethinkDB': {
         'keyword': 'RethinkDB',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
     },
-    'Varnish': {
-        'keyword': 'Varnish',
-        'type': keyword_type.types['DATA_STRUCT_SRV']
+    'SciDB': {
+        'keyword': 'SciDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
     },
-    'Redis': {
-        'keyword': 'Redis',
-        'type': keyword_type.types['DATA_STRUCT_SRV']
+    'Couchbase': {
+        'keyword': 'Couchbase',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
     },
-    'Memcached': {
-        'keyword': 'Memcached',
-        'type': keyword_type.types['DATA_STRUCT_SRV']
+    'Tarantool': {
+        'keyword': 'Tarantool',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
     },
-    'Android': {
-        'keyword': 'Android',
-        'type': keyword_type.types['MOBILE_OS'],
-        'extra': ['Java']
+    'Accumulo': {
+        'keyword': 'Apache Accumulo',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
-    'iOS': {
-        'keyword': 'iOS',
-        'type': keyword_type.types['MOBILE_OS'],
-        'extra': ['Objective C', 'Swift']
+
+    'Cassandra': {
+        'keyword': 'Apache Cassandra',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
-    'Blackberry': {
-        'keyword': 'Blackberry',
-        'type': keyword_type.types['MOBILE_OS']
+    'HBase': {
+        'keyword': 'Apache HBase',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
-    'iPhone': {
-        'keyword': 'iOS',
-        'type': keyword_type.types['MOBILE_OS']
+    'AllegroGraph': {
+        'keyword': 'AllegroGraph',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
     },
+    'Sparksee': {
+        'keyword': 'Sparksee',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
+    },
+    'FlockDB': {
+        'keyword': 'FlockDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
+    },
+    'InfiniteGraph': {
+        'keyword': 'InfiniteGraph',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
+    },
+    'Mulgara': {
+        'keyword': 'Mulgara',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
+    },
+    'Neo4j': {
+        'keyword': 'Neo4j',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
+    },
+    'OrientDB': {
+        'keyword': 'OrientDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
+    },
+    'Stardog': {
+        'keyword': 'Stardog',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
+    },
+    'Spanner': {
+        'keyword': 'Spanner',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    # List of JavaScript libraries/frameworks
     'CommonJS': {
         'keyword': 'CommonJS',
         'type': keyword_type.types['JS_LIB'],
@@ -4879,12 +5806,6 @@ keywords = {
         'type': keyword_type.types['JS_LIB'],
         'extra': ['JavaScript']
     },
-    'Ionic': {
-        'keyword': 'Ionic',
-        'type': keyword_type.types['MOBILE_FRWK'],
-        'extra': ['JavaScript'],
-        'type_extra': [keyword_type.types['JS_LIB']]
-    },
     'Chart.js': {
         'keyword': 'Chart.js',
         'type': keyword_type.types['JS_LIB'],
@@ -4975,98 +5896,7 @@ keywords = {
         'type': keyword_type.types['JS_LIB'],
         'extra': ['JavaScript'],
     },
-    'Selenium': {
-        'keyword': 'Selenium',
-        'type': keyword_type.types['KEYWORD']
-    },
-    'AWS': {
-        'keyword': 'Amazon Web Services',
-        'type': keyword_type.types['KEYWORD']
-    },
-    'EC2': {
-        'keyword': 'Amazon EC2',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'Beanstalk': {
-        'keyword': 'Amazon Elastic Beanstalk',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'Lambda': {
-        'keyword': 'Amazon Lambda',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'S3': {
-        'keyword': 'Amazon Simple Storage Service',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'Glacier': {
-        'keyword': 'Amazon Glacier',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'EBS': {
-        'keyword': 'Amazon Elastic Block Store',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'DynamoDB': {
-        'keyword': 'Amazon DynamoDB',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'ElastiCache': {
-        'keyword': 'Amazon ElastiCache',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'Redshift': {
-        'keyword': 'Amazon Redshift',
-        'type': keyword_type.types['AWS_PRODUCT']
-    },
-    'HTML/XHTML': {
-        'keyword': 'XHTML',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'XHTML': {
-        'keyword': 'XHTML',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'HTML/DHTML': {
-        'keyword': 'DHTML',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'DHTML': {
-        'keyword': 'DHTML',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'HTML': {
-        'keyword': 'HTML',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'CSS': {
-        'keyword': 'CSS',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'HTML5': {
-        'keyword': 'HTML',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'CSS/CSS3': {
-        'keyword': 'CSS',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'CSS3': {
-        'keyword': 'CSS',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'LESS': {
-        'keyword': 'LESS',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'SASS': {
-        'keyword': 'SASS',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
-    'SCSS': {
-        'keyword': 'SCSS',
-        'type': keyword_type.types['PROGRAMMING_LANG']
-    },
+    # List of CSS frameworks
     'Bootstrap': {
         'keyword': 'Bootstrap',
         'type': keyword_type.types['CSS_FRWK'],
@@ -5177,13 +6007,95 @@ keywords = {
         'type': keyword_type.types['CSS_FRWK'],
         'extra': ['CSS'],
     },
-    'Resque': {
-        'keyword': 'Resque',
-        'type': keyword_type.types['FRWK']
+    # List of AWS products
+    'EC2': {
+        'keyword': 'Amazon EC2',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Beanstalk': {
+        'keyword': 'Amazon Elastic Beanstalk',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Lambda': {
+        'keyword': 'Amazon Lambda',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'S3': {
+        'keyword': 'Amazon Simple Storage Service',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Glacier': {
+        'keyword': 'Amazon Glacier',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'EBS': {
+        'keyword': 'Amazon Elastic Block Store',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'DynamoDB': {
+        'keyword': 'Amazon DynamoDB',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'ElastiCache': {
+        'keyword': 'Amazon ElastiCache',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    'Redshift': {
+        'keyword': 'Amazon Redshift',
+        'type': keyword_type.types['AWS_PRODUCT']
+    },
+    # List of message brokers
+    'ActiveMQ': {
+        'keyword': 'Apache ActiveMQ',
+        'type': keyword_type.types['MSG_BROKER'],
+        'extra_type': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Kafka': {
+        'keyword': 'Apache Kafka',
+        'type': keyword_type.types['MSG_BROKER'],
+        'extra_type': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Qpid': {
+        'keyword': 'Apache Qpid',
+        'type': keyword_type.types['MSG_BROKER'],
+        'extra_type': [keyword_type.types['APACHE_FRWK']]
     },
     'Celery': {
         'keyword': 'Celery',
-        'type': keyword_type.types['FRWK']
+        'type': keyword_type.types['MSG_BROKER']
+    },
+    'Gearman': {
+        'keyword': 'Gearman',
+        'type': keyword_type.types['MSG_BROKER']
+    },
+    'HornetQ': {
+        'keyword': 'HornetQ',
+        'type': keyword_type.types['MSG_BROKER']
+    },
+    'JORAM': {
+        'keyword': 'JORAM',
+        'type': keyword_type.types['MSG_BROKER']
+    },
+    'QDB': {
+        'keyword': 'QDB',
+        'type': keyword_type.types['MSG_BROKER']
+    },
+    'RabbitMQ': {
+        'keyword': 'RabbitMQ',
+        'type': keyword_type.types['MSG_BROKER']
+    },
+    'Enduro/X ': {
+        'keyword': 'Enduro/X ',
+        'type': keyword_type.types['MSG_BROKER']
+    },
+    # List of indexable keywords
+    'AWS': {
+        'keyword': 'Amazon Web Services',
+        'type': keyword_type.types['KEYWORD']
+    },
+    'Selenium': {
+        'keyword': 'Selenium',
+        'type': keyword_type.types['KEYWORD']
     },
     'Neural-Networks': {
         'keyword': 'Neural Networks',
@@ -5223,10 +6135,12 @@ def get_keywords():
 def generate_keywords(summary):
     k = []
 
-    filtered_summary = summary.lower()
-
     for key in keywords:
-        if key.lower() in filtered_summary:
+        keyword_pattern = re.compile(r'(?<=[\s(,-/])({})(?=[\s),-./])'.format(re.escape(key)), re.IGNORECASE)
+
+        keyword_found = keyword_pattern.search(summary)
+
+        if keyword_found:
             k.append(key)
 
     return k
