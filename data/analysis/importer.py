@@ -57,7 +57,7 @@ def import_job(**kwargs):
 
     filtered_summary = engine.filter_summary(summary)
 
-    summary_keywords = engine.get_keywords(summary, programs)
+    summary_keywords = engine.get_keywords(filtered_summary, programs)
 
     date = kwargs['date']
     year = date.year
@@ -85,6 +85,8 @@ def import_job(**kwargs):
 
         applicant = Applicant(applicants=applicants, date=date)
 
+        keywords = [Keyword(keyword=k['keyword'], types=k['types']) for k in summary_keywords]
+
         # New job so number of remaining positions is same as openings
         job = Job(title=job_title, summary=filtered_summary, year=year,
                   term=term, location=[location], openings=openings, remaining=openings,
@@ -107,6 +109,8 @@ def import_job(**kwargs):
             logger.info(COMPONENT, 'Creating job: {}..'.format(job_title))
 
             applicant = Applicant(applicants=applicants, date=date)
+
+            keywords = [Keyword(keyword=k['keyword'], types=k['types']) for k in summary_keywords]
 
             # New job so number of remaining positions is same as openings
             job = Job(title=job_title, summary=engine.filter_summary(summary), year=year,
@@ -136,7 +140,9 @@ def import_job(**kwargs):
                 job.update(set__deprecated=True)
                 
                 applicant = Applicant(applicants=applicants, date=date)
-    
+
+                keywords = [Keyword(keyword=k['keyword'], types=k['types']) for k in summary_keywords]
+
                 # Assume new job so number of remaining positions is same as openings
                 new_job = Job(title=job_title, summary=filtered_summary, year=year, term=term,
                               location=[location], openings=openings, remaining=openings, applicants=[applicant],
@@ -213,6 +219,8 @@ def update_job(**kwargs):
 
     filtered_summary = engine.filter_summary(summary)
 
+    summary_keywords = engine.get_keywords(filtered_summary, programs)
+
     # Job summary is not the same. In this case the employer most likely changed the job
     if not filtered_summary == job.summary:
         logger.info(COMPONENT, 'Job: {}: different summary detected, deprecating and creating new job..'
@@ -222,10 +230,12 @@ def update_job(**kwargs):
 
         job.update(set__deprecated=True)
 
+        keywords = [Keyword(keyword=k['keyword'], types=k['types']) for k in summary_keywords]
+
         # Assume new job so number of remaining positions is same as openings
         new_job = Job(title=job.title, summary=filtered_summary, year=job.year, term=job.term,
                       location=[location], openings=openings, remaining=openings,
-                      levels=levels, programs=programs, url=job.url)
+                      levels=levels, programs=programs, url=job.url, keywords=keywords)
 
         new_job.save()
 

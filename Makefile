@@ -1,9 +1,26 @@
 SHELL=/bin/bash
 
 install:
+	@echo "*** Installing dependencies. ***"
+	@echo
+
 	./install.sh
+
+	@echo "Installing Python dependencies"
 	pip install -r requirements.txt
+
+	@echo "Installing NPM dependencies"
+	npm install
+
+	@echo "Done"
+
+install_nltk_data:
+	@echo "*** Installing NLTK data. ***"
+	@echo
+
 	sudo python -m nltk.downloader -d /usr/local/share/nltk_data all
+
+	@echo "Done"
 
 devel:
 	@echo "*** Setting development environment. ***"
@@ -72,7 +89,7 @@ import_comments:
 
 import: import_jobs import_comments
 
-train_compsci: clean_chunker
+train_compsci:
 	@echo "*** Training Computer Science Chunker. This may take a few minutes or less. ***"
 	@echo
 

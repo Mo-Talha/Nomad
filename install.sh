@@ -8,7 +8,6 @@ install_git(){
 
     sudo apt-get update -qq -y
     sudo apt-get install -y git
-
 }
 
 install_mongodb(){

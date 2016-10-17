@@ -2,6 +2,7 @@ import os
 import cPickle as pickle
 
 import nltk
+from nltk.tree import Tree
 
 import data.analysis.tokenizer.word_tokenizer as tokenizer
 
@@ -93,7 +94,7 @@ class Chunker(nltk.ChunkParserI):
 
         sentence_tags = [(word, tag, chunk_type) for ((word, tag), chunk_type) in tagged_sentence]
 
-        return nltk.chunk.conlltags2tree(sentence_tags)
+        return self.tags2tree(sentence_tags)
 
     def get_keywords(self, summary, corpus_keywords):
         keywords = []
@@ -123,7 +124,7 @@ class Chunker(nltk.ChunkParserI):
         trees = []
 
         for sentence in tagged_sentences:
-            tree = nltk.chunk.conlltags2tree(sentence, chunk_types="KEYWORD")
+            tree = self.tags2tree(sentence)
             trees.append(tree)
 
         chunk_score = super(Chunker, self).evaluate(trees)
@@ -144,3 +145,31 @@ class Chunker(nltk.ChunkParserI):
     def iob2tags(line):
         word, tag, chunk = line.rsplit(" ", 2)
         return word, tag, chunk
+
+    @staticmethod
+    def tags2tree(sentence, root_label='S', strict=False):
+        tree = Tree(root_label, [])
+        for (word, postag, chunktag) in sentence:
+            if chunktag is None:
+                if strict:
+                    raise ValueError("Bad tag sequence")
+                else:
+                    # Treat as O
+                    tree.append((word, postag))
+            elif chunktag.startswith('B'):
+                tree.append(Tree(chunktag[2:], [(word, postag)]))
+            elif chunktag.startswith('I'):
+                if (len(tree) == 0 or not isinstance(tree[-1], Tree) or
+                            tree[-1].label() != chunktag[2:]):
+                    if strict:
+                        raise ValueError("Bad tag sequence")
+                    else:
+                        # Treat as B-*
+                        tree.append(Tree(chunktag[2:], [(word, postag)]))
+                else:
+                    tree[-1].append((word, postag))
+            elif chunktag == 'O':
+                tree.append((word, postag))
+            else:
+                raise ValueError("Bad tag %r" % chunktag)
+        return tree

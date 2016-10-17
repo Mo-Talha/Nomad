@@ -158,11 +158,13 @@ keywords = {
     },
     'JScript .NET': {
         'keyword': 'JScript .NET',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['.NET']
     },
     'JavaFX Script': {
         'keyword': 'JavaFX Script',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Java']
     },
     'Klerer-May System': {
         'keyword': 'Klerer-May System',
@@ -170,7 +172,8 @@ keywords = {
     },
     'L# .NET': {
         'keyword': 'L# .NET',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['.NET']
     },
     'MASM Microsoft Assembly x86': {
         'keyword': 'MASM Microsoft Assembly x86',
@@ -208,7 +211,8 @@ keywords = {
     },
     'Object Lisp': {
         'keyword': 'Object Lisp',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Lisp']
     },
     'Object REXX': {
         'keyword': 'Object REXX',
@@ -273,15 +277,18 @@ keywords = {
     },
     'Visual Basic': {
         'keyword': 'Visual Basic',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['.NET']
     },
     'Visual Basic .NET': {
         'keyword': 'Visual Basic .NET',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['.NET']
     },
     'VB .NET': {
         'keyword': 'Visual Basic .NET',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['.NET']
     },
     'Visual DataFlex': {
         'keyword': 'Visual DataFlex',
@@ -302,11 +309,13 @@ keywords = {
     },
     'Visual J++': {
         'keyword': 'Visual J++',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Java']
     },
     'Visual J#': {
         'keyword': 'Visual J#',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['Java']
     },
     'Visual Objects': {
         'keyword': 'Visual Objects',
@@ -523,11 +532,13 @@ keywords = {
     },
     '4th Dimension': {
         'keyword': '4th Dimension',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Adabas D': {
         'keyword': 'Adabas D',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Alpha Five': {
         'keyword': 'Alpha Five',
@@ -535,19 +546,23 @@ keywords = {
     },
     'Aster Data': {
         'keyword': 'Aster Data',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Amazon Aurora': {
         'keyword': 'Amazon Aurora',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'CA Datacom': {
         'keyword': 'CA Datacom',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'CA IDMS': {
         'keyword': 'CA IDMS',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Database Management Library': {
         'keyword': 'Database Management Library',
@@ -555,11 +570,13 @@ keywords = {
     },
     'Empress Embedded Database': {
         'keyword': 'Empress Embedded Database',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'FileMaker Pro': {
         'keyword': 'FileMaker Pro',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Google Fusion Tables': {
         'keyword': 'Google Fusion Tables',
@@ -567,23 +584,28 @@ keywords = {
     },
     'Helix database': {
         'keyword': 'Helix database',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'IBM DB2': {
         'keyword': 'IBM DB2',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'IBM Lotus Approach': {
         'keyword': 'IBM Lotus Approach',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'IBM DB2 Express-C': {
         'keyword': 'IBM DB2 Express-C',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'InterSystems Cache': {
         'keyword': 'InterSystems Cache',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'LibreOffice Base': {
         'keyword': 'LibreOffice Base',
@@ -623,11 +645,13 @@ keywords = {
     },
     'Oracle Rdb': {
         'keyword': 'Oracle',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Oracle RDBMS': {
         'keyword': 'Oracle',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Pervasive PSQL': {
         'keyword': 'Pervasive PSQL',
@@ -636,35 +660,43 @@ keywords = {
     },
     'Progress Software': {
         'keyword': 'Progress Software',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'RDM Embedded': {
         'keyword': 'RDM Embedded',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'RDM Server': {
         'keyword': 'RDM Server',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'The SAS system': {
         'keyword': 'The SAS system',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'SAND CDBMS': {
         'keyword': 'SAND CDBMS',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'SAP HANA': {
         'keyword': 'SAP HANA',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'SAP Sybase Adaptive Server Enterprise': {
         'keyword': 'SAP Sybase Adaptive Server Enterprise',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'SAP Sybase': {
         'keyword': 'SAP Sybase',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'SQL Anywhere': {
         'keyword': 'SQL Anywhere',
@@ -673,11 +705,13 @@ keywords = {
     },
     'Sybase Advantage Database Server': {
         'keyword': 'Sybase Advantage Database Server',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Unisys RDMS 2200': {
         'keyword': 'Unisys RDMS 2200',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'T SQL': {
         'keyword': 'T-SQL',
@@ -701,7 +735,7 @@ keywords = {
     'Calpont InfiniDB': {
         'keyword': 'Calpont InfiniDB',
         'type': keyword_type.types['DB'],
-        'extra': ['NoSQL']
+        'extra': ['SQL']
     },
     'Cypher Query Language': {
         'keyword': 'Cypher Query Language',
@@ -738,28 +772,33 @@ keywords = {
     },
     'Windows Mobile': {
         'keyword': 'Windows Mobile',
-        'type': keyword_type.types['MOBILE_OS']
+        'type': keyword_type.types['MOBILE_OS'],
+        'extra': ['C#']
     },
     'Windows Phone': {
         'keyword': 'Windows Mobile',
-        'type': keyword_type.types['MOBILE_OS']
+        'type': keyword_type.types['MOBILE_OS'],
+        'extra': ['C#']
     },
     'React Native': {
         'keyword': 'React Native',
         'type': keyword_type.types['MOBILE_FRWK'],
-        'extra': ['JavaScript', 'Android', 'iOS']
+        'extra': ['HTML', 'CSS', 'JavaScript', 'Android', 'iOS']
     },
     'Crosswalk Project': {
         'keyword': 'Crosswalk Project',
-        'type': keyword_type.types['MOBILE_FRWK']
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['HTML', 'CSS', 'JavaScript', 'Android', 'iOS']
     },
     'Sencha Touch': {
         'keyword': 'Sencha Touch',
-        'type': keyword_type.types['MOBILE_FRWK']
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['HTML', 'CSS', 'JavaScript', 'Android', 'iOS']
     },
     'Codename One': {
         'keyword': 'Codename One',
-        'type': keyword_type.types['MOBILE_FRWK']
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['Java', 'Android', 'iOS']
     },
     'Common JS': {
         'keyword': 'CommonJS',
@@ -854,7 +893,8 @@ keywords = {
     },
     'Octopus Deploy': {
         'keyword': 'Octopus Deploy',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'extra': ['ASP.NET', 'C#', '.NET']
     },
     'Perforce Jam': {
         'keyword': 'Perforce Jam',
@@ -937,15 +977,15 @@ keywords = {
         'type': keyword_type.types['AWS_PRODUCT']
     },
     'Amazon Virtual Private Cloud': {
-        'keyword': 'Amazon Virtual Private Cloud',
+        'keyword': 'Amazon VPC',
         'type': keyword_type.types['AWS_PRODUCT']
     },
     'Amazon VPC': {
-        'keyword': 'Amazon Virtual Private Cloud',
+        'keyword': 'Amazon VPC',
         'type': keyword_type.types['AWS_PRODUCT']
     },
     'Amazon Simple Storage Service': {
-        'keyword': 'Amazon Simple Storage Service (S3)',
+        'keyword': 'Amazon S3',
         'type': keyword_type.types['AWS_PRODUCT']
     },
     'Amazon Elastic Block Store': {
@@ -1354,7 +1394,8 @@ keywords = {
     },
     'Clarion': {
         'keyword': 'Clarion',
-        'type': keyword_type.types['PROGRAMMING_LANG']
+        'type': keyword_type.types['PROGRAMMING_LANG'],
+        'extra': ['SQL']
     },
     'Clean': {
         'keyword': 'Clean',
@@ -3553,94 +3594,89 @@ keywords = {
     'Cordova': {
         'keyword': 'Apache Cordova',
         'type': keyword_type.types['MOBILE_FRWK'],
-        'extra': ['HTML', 'CSS', 'JavaScript'],
+        'extra': ['HTML', 'CSS', 'JavaScript', 'Android', 'iOS'],
         'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'Monaca': {
         'keyword': 'Monaca',
         'type': keyword_type.types['MOBILE_FRWK'],
-        'extra': ['HTML', 'JavaScript'],
+        'extra': ['HTML', 'JavaScript', 'Android', 'iOS'],
     },
     'Crosswalk': {
         'keyword': 'Crosswalk Project',
         'type': keyword_type.types['MOBILE_FRWK'],
-        'extra': ['HTML', 'CSS', 'JavaScript'],
+        'extra': ['HTML', 'CSS', 'JavaScript', 'Android', 'iOS'],
     },
     'Enyo': {
         'keyword': 'Enyo',
         'type': keyword_type.types['MOBILE_FRWK'],
-        'extra': ['HTML', 'CSS', 'JavaScript'],
+        'extra': ['HTML', 'CSS', 'JavaScript', 'Android', 'iOS'],
     },
     'iPFaces': {
         'keyword': 'iPFaces',
         'type': keyword_type.types['MOBILE_FRWK'],
-        'extra': ['PHP', 'ASP.NET', 'Java'],
+        'extra': ['PHP', 'ASP.NET', 'Java', 'Android', 'iOS'],
     },
     'iUI': {
         'keyword': 'iUI',
         'type': keyword_type.types['MOBILE_FRWK'],
-        'extra': ['HTML', 'CSS', 'JavaScript'],
+        'extra': ['HTML', 'CSS', 'JavaScript', 'Android', 'iOS'],
     },
     'Jembe': {
         'keyword': 'Jembe',
         'type': keyword_type.types['MOBILE_FRWK'],
-        'extra': ['HTML', 'CSS', 'JavaScript'],
+        'extra': ['HTML', 'CSS', 'JavaScript', 'Android', 'iOS'],
     },
     'Jmango360': {
         'keyword': 'Jmango360',
-        'type': keyword_type.types['MOBILE_FRWK']
+        'type': keyword_type.types['MOBILE_FRWK'],
+        'extra': ['Android', 'iOS']
     },
     'Kivy': {
         'keyword': 'Kivy',
         'type': keyword_type.types['MOBILE_FRWK'],
         'extra': ['Python']
     },
-    'mobl': {
-        'keyword': 'mobl',
-        'type': keyword_type.types['MOBILE_FRWK']
-    },
     'MoSync': {
         'keyword': 'MoSync',
         'type': keyword_type.types['MOBILE_FRWK'],
-        'extra': ['C/C++', 'HTML', 'CSS', 'JavaScript'],
+        'extra': ['C/C++', 'HTML', 'CSS', 'JavaScript', 'Android', 'iOS']
     },
     'Rhodes': {
         'keyword': 'RhoMobile',
         'type': keyword_type.types['MOBILE_FRWK'],
-        'extra': ['HTML', 'Ruby', 'JavaScript'],
+        'extra': ['HTML', 'Ruby', 'JavaScript', 'Android', 'iOS']
     },
     'RhoMobile': {
         'keyword': 'RhoMobile',
         'type': keyword_type.types['MOBILE_FRWK'],
-        'extra': ['HTML', 'Ruby', 'JavaScript'],
+        'extra': ['HTML', 'Ruby', 'JavaScript', 'Android', 'iOS']
     },
     'Sencha': {
         'keyword': 'Sencha Touch',
         'type': keyword_type.types['MOBILE_FRWK'],
-        'extra': ['HTML', 'CSS', 'JavaScript'],
+        'extra': ['HTML', 'CSS', 'JavaScript', 'Android', 'iOS']
     },
     'Ionic': {
         'keyword': 'Ionic',
         'type': keyword_type.types['MOBILE_FRWK'],
-        'extra': ['HTML', 'CSS', 'JavaScript'],
+        'extra': ['HTML', 'CSS', 'JavaScript', 'Android', 'iOS']
     },
     # List of mobile operating systems
     'Android': {
         'keyword': 'Android',
-        'type': keyword_type.types['MOBILE_OS'],
-        'extra': ['Java']
+        'type': keyword_type.types['MOBILE_OS']
     },
     'iOS': {
         'keyword': 'iOS',
-        'type': keyword_type.types['MOBILE_OS'],
-        'extra': ['Objective C', 'Swift']
-    },
-    'Blackberry': {
-        'keyword': 'Blackberry OS',
         'type': keyword_type.types['MOBILE_OS']
     },
     'iPhone': {
         'keyword': 'iOS',
+        'type': keyword_type.types['MOBILE_OS']
+    },
+    'Blackberry': {
+        'keyword': 'Blackberry OS',
         'type': keyword_type.types['MOBILE_OS']
     },
     # List of operating systems
@@ -3656,7 +3692,7 @@ keywords = {
     'FreeBSD': {
         'keyword': 'FreeBSD',
         'type': keyword_type.types['OS'],
-        'extra': ['Unix', 'BSD']
+        'extra': ['BSD']
     },
     'Unix/Linux': {
         'keyword': 'Unix',
@@ -3675,7 +3711,7 @@ keywords = {
     'Solaris': {
         'keyword': 'Solaris',
         'type': keyword_type.types['OS'],
-        'extra': ['Linux']
+        'extra': ['Unix']
     },
     'CentOS': {
         'keyword': 'CentOS',
@@ -3837,21 +3873,25 @@ keywords = {
     'Lucene/Solr': {
         'keyword': 'Apache Solr',
         'type': keyword_type.types['SEARCH_SRV'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
+        'type_extra': [keyword_type.types['APACHE_FRWK']],
+        'extra': ['Lucene']
     },
     'Solr/Lucene': {
         'keyword': 'Apache Solr',
         'type': keyword_type.types['SEARCH_SRV'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
+        'type_extra': [keyword_type.types['APACHE_FRWK']],
+        'extra': ['Lucene']
     },
     'Solr': {
         'keyword': 'Apache Solr',
         'type': keyword_type.types['SEARCH_SRV'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
+        'type_extra': [keyword_type.types['APACHE_FRWK']],
+        'extra': ['Lucene']
     },
     'Elasticsearch': {
         'keyword': 'Elasticsearch',
-        'type': keyword_type.types['SEARCH_SRV']
+        'type': keyword_type.types['SEARCH_SRV'],
+        'extra': ['Lucene']
     },
     'Splunk': {
         'keyword': 'Splunk',
@@ -3890,7 +3930,7 @@ keywords = {
         'type': keyword_type.types['SEARCH_SRV']
     },
     'Seeks': {
-        'keyword': '',
+        'keyword': 'Seeks',
         'type': keyword_type.types['SEARCH_SRV']
     },
     'Sphinx': {
@@ -3994,37 +4034,39 @@ keywords = {
     # Java web frameworks
     'Click': {
         'keyword': 'Apache Click',
-        'type': keyword_type.types['APACHE_FRWK'],
+        'type': keyword_type.types['WEB_FRWK'],
         'extra': ['Java'],
-        'type_extra': [keyword_type.types['WEB_FRWK']]
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'OFBiz': {
         'keyword': 'Apache OFBiz',
-        'type': keyword_type.types['APACHE_FRWK']
+        'type': keyword_type.types['WEB_FRWK'],
+        'extra': ['Java'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'Sling': {
         'keyword': 'Apache Sling',
-        'type': keyword_type.types['APACHE_FRWK'],
+        'type': keyword_type.types['WEB_FRWK'],
         'extra': ['Java'],
-        'type_extra': [keyword_type.types['WEB_FRWK']]
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'Struts': {
         'keyword': 'Apache Struts',
-        'type': keyword_type.types['APACHE_FRWK'],
+        'type': keyword_type.types['WEB_FRWK'],
         'extra': ['Java'],
-        'type_extra': [keyword_type.types['WEB_FRWK']]
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'Tapestry': {
         'keyword': 'Apache Tapestry',
-        'type': keyword_type.types['APACHE_FRWK'],
+        'type': keyword_type.types['WEB_FRWK'],
         'extra': ['Java'],
-        'type_extra': [keyword_type.types['WEB_FRWK']]
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'Wicket': {
         'keyword': 'Apache Wicket',
-        'type': keyword_type.types['APACHE_FRWK'],
+        'type': keyword_type.types['WEB_FRWK'],
         'extra': ['Java'],
-        'type_extra': [keyword_type.types['WEB_FRWK']]
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'FormEngine': {
         'keyword': 'FormEngine',
@@ -4690,7 +4732,8 @@ keywords = {
     # List of build automation server
     'A-A-P': {
         'keyword': 'A-A-P',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'extra': ['C']
     },
     'Ant': {
         'keyword': 'Apache Ant',
@@ -4705,20 +4748,22 @@ keywords = {
     'Buildr': {
         'keyword': 'Apache Buildr',
         'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'extra': ['Java'],
         'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'Boot': {
         'keyword': 'Boot',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'extra': ['Clojure', 'Java'],
     },
     'Capistrano': {
         'keyword': 'Capistrano',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'extra': ['Ruby']
     },
     'CMake': {
         'keyword': 'CMake',
-        'type': keyword_type.types['BUILD_AUTO_TOOL'],
-        'extra': ['C']
+        'type': keyword_type.types['BUILD_AUTO_TOOL']
     },
     'ElectricCommander': {
         'keyword': 'ElectricCommander',
@@ -4734,7 +4779,8 @@ keywords = {
     },
     'Leiningen': {
         'keyword': 'Leiningen',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'extra': ['Clojure', 'Java'],
     },
     'Make': {
         'keyword': 'Make',
@@ -4751,6 +4797,7 @@ keywords = {
     'Maven': {
         'keyword': 'Apache Maven',
         'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'extra': ['Java'],
         'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
     'MSBuild': {
@@ -4759,7 +4806,8 @@ keywords = {
     },
     'NAnt': {
         'keyword': 'NAnt',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'extra': ['.NET']
     },
     'NMake': {
         'keyword': 'NMake',
@@ -4768,11 +4816,12 @@ keywords = {
     'Rake': {
         'keyword': 'Rake',
         'type': keyword_type.types['BUILD_AUTO_TOOL'],
-        'extra': ['Ruby'],
+        'extra': ['Ruby']
     },
     'sbt': {
         'keyword': 'sbt',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'extra': ['Scala']
     },
     'SCons': {
         'keyword': 'SCons',
@@ -4780,7 +4829,8 @@ keywords = {
     },
     'ASDF': {
         'keyword': 'ASDF',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'extra': ['Lisp']
     },
     'Brazel': {
         'keyword': 'Brazel',
@@ -4796,7 +4846,8 @@ keywords = {
     },
     'Cabal': {
         'keyword': 'Cabal',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'extra': ['Haskell']
     },
     'Flowtracer': {
         'keyword': 'Flowtracer',
@@ -4808,11 +4859,8 @@ keywords = {
     },
     'Psake': {
         'keyword': 'Psake',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
-    },
-    'Stack': {
-        'keyword': 'Stack',
-        'type': keyword_type.types['BUILD_AUTO_TOOL']
+        'type': keyword_type.types['BUILD_AUTO_TOOL'],
+        'extra': ['PowerShell']
     },
     'Tweaker': {
         'keyword': 'Tweaker',
@@ -5068,15 +5116,8 @@ keywords = {
     'Derby': {
         'keyword': 'Apache Derby',
         'type': keyword_type.types['DB'],
+        'extra': ['SQL'],
         'type_extra': [keyword_type.types['APACHE_FRWK']]
-    },
-    'Altibase': {
-        'keyword': 'Altibase',
-        'type': keyword_type.types['DB']
-    },
-    'Clustrix': {
-        'keyword': 'Clustrix',
-        'type': keyword_type.types['DB']
     },
     'CSQL': {
         'keyword': 'CSQL',
@@ -5085,39 +5126,48 @@ keywords = {
     },
     'CUBRID': {
         'keyword': 'CUBRID',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'DataEase': {
         'keyword': 'DataEase',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Dataphor': {
         'keyword': 'Dataphor',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'dBase': {
         'keyword': 'dBase',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'EXASolution': {
         'keyword': 'EXASolution',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'EnterpriseDB': {
         'keyword': 'EnterpriseDB',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'eXtremeDB': {
         'keyword': 'eXtremeDB',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Firebird': {
         'keyword': 'Firebird',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'FrontBase': {
         'keyword': 'FrontBase',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Greenplum': {
         'keyword': 'Greenplum',
@@ -5126,48 +5176,53 @@ keywords = {
     },
     'GroveSite': {
         'keyword': 'GroveSite',
-        'type': keyword_type.types['DB']
-    },
-    'Hadoop': {
-        'keyword': 'Apache Hadoop',
         'type': keyword_type.types['DB'],
-        'extra_type': [keyword_type.types['APACHE_FRWK']]
+        'extra': ['SQL']
     },
     'H2': {
         'keyword': 'H2',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'HSQLDB': {
         'keyword': 'HSQLDB',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'DB2': {
         'keyword': 'IBM DB2',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Infobright': {
         'keyword': 'Infobright',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Informix': {
         'keyword': 'Informix',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Ingres': {
         'keyword': 'Ingres',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'InterBase': {
         'keyword': 'InterBase',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'GT.M': {
         'keyword': 'GT.M',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Linter': {
         'keyword': 'Linter',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'MariaDB': {
         'keyword': 'MariaDB',
@@ -5186,10 +5241,6 @@ keywords = {
     },
     'MaxDB': {
         'keyword': 'MaxDB',
-        'type': keyword_type.types['DB']
-    },
-    'MemSQL': {
-        'keyword': 'MemSQL',
         'type': keyword_type.types['DB'],
         'extra': ['SQL']
     },
@@ -5200,7 +5251,8 @@ keywords = {
     },
     'MonetDB': {
         'keyword': 'MonetDB',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'mSQL': {
         'keyword': 'mSQL',
@@ -5214,31 +5266,33 @@ keywords = {
     },
     'Netezza': {
         'keyword': 'Netezza',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'NexusDB': {
         'keyword': 'NexusDB',
-        'type': keyword_type.types['DB']
-    },
-    'NuoDB': {
-        'keyword': 'NuoDB',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Openbase': {
         'keyword': 'Openbase',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Oracle': {
         'keyword': 'Oracle Database',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Panorama': {
         'keyword': 'Panorama',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Polyhedra': {
         'keyword': 'Polyhedra',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'PostgreSQL': {
         'keyword': 'PostgreSQL',
@@ -5252,15 +5306,18 @@ keywords = {
     },
     'R:Base': {
         'keyword': 'R:Base',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Sybase': {
         'keyword': 'SAP Sybase',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'ScimoreDB': {
         'keyword': 'ScimoreDB',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'SmallSQL': {
         'keyword': 'SmallSQL',
@@ -5269,7 +5326,8 @@ keywords = {
     },
     'solidDB': {
         'keyword': 'solidDB',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'SQLBase': {
         'keyword': 'SQLBase',
@@ -5283,19 +5341,18 @@ keywords = {
     },
     'Teradata': {
         'keyword': 'Teradata',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Tibero': {
         'keyword': 'Tibero',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'TimesTen': {
         'keyword': 'TimesTen',
-        'type': keyword_type.types['DB']
-    },
-    'Trafodion': {
-        'keyword': 'Trafodion',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'txtSQL': {
         'keyword': 'txtSQL',
@@ -5304,23 +5361,28 @@ keywords = {
     },
     'UniData': {
         'keyword': 'UniData',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'UniVerse': {
         'keyword': 'UniVerse',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Vectorwise': {
         'keyword': 'Vectorwise',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'Vertica': {
         'keyword': 'Vertica',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'VMDS': {
         'keyword': 'VMDS',
-        'type': keyword_type.types['DB']
+        'type': keyword_type.types['DB'],
+        'extra': ['SQL']
     },
     'TSQL': {
         'keyword': 'T-SQL',
@@ -5340,17 +5402,8 @@ keywords = {
     'Phoenix': {
         'keyword': 'Apache Phoenix',
         'type': keyword_type.types['DB'],
-        'extra': ['SQL'],
+        'extra': ['SQL', 'HBase'],
         'type_extra': [keyword_type.types['APACHE_FRWK']]
-    },
-    'Parquet': {
-        'keyword': 'Apache Parquet',
-        'type': keyword_type.types['DB'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
-    },
-    'Druid': {
-        'keyword': 'Druid',
-        'type': keyword_type.types['DB']
     },
     'Hypertable': {
         'keyword': 'Hypertable',
@@ -5369,17 +5422,6 @@ keywords = {
         'type': keyword_type.types['DB'],
         'extra': ['NoSQL'],
         'extra_type': [keyword_type.types['AWS_PRODUCT']]
-    },
-    'CouchDB': {
-        'keyword': 'Apache CouchDB',
-        'type': keyword_type.types['DB'],
-        'extra': ['NoSQL'],
-        'type_extra': [keyword_type.types['APACHE_FRWK']]
-    },
-    'Clusterpoint': {
-        'keyword': 'Clusterpoint',
-        'type': keyword_type.types['DB'],
-        'extra': ['NoSQL']
     },
     'CratelO': {
         'keyword': 'CratelO',
@@ -5416,13 +5458,13 @@ keywords = {
         'type': keyword_type.types['DB'],
         'extra': ['NoSQL']
     },
-    'Couchbase': {
-        'keyword': 'Couchbase',
+    'Tarantool': {
+        'keyword': 'Tarantool',
         'type': keyword_type.types['DB'],
         'extra': ['NoSQL']
     },
-    'Tarantool': {
-        'keyword': 'Tarantool',
+    'Aerospike': {
+        'keyword': 'Aerospike',
         'type': keyword_type.types['DB'],
         'extra': ['NoSQL']
     },
@@ -5432,7 +5474,12 @@ keywords = {
         'extra': ['NoSQL'],
         'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
-
+    'Hadoop': {
+        'keyword': 'Apache Hadoop',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL'],
+        'extra_type': [keyword_type.types['APACHE_FRWK']]
+    },
     'Cassandra': {
         'keyword': 'Apache Cassandra',
         'type': keyword_type.types['DB'],
@@ -5445,8 +5492,59 @@ keywords = {
         'extra': ['NoSQL'],
         'type_extra': [keyword_type.types['APACHE_FRWK']]
     },
+    'Couchbase': {
+        'keyword': 'Couchbase',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
+    },
+    'Clusterpoint': {
+        'keyword': 'Clusterpoint',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
+    },
+    'Parquet': {
+        'keyword': 'Apache Parquet',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'Druid': {
+        'keyword': 'Druid',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
+    },
+    'Riak': {
+        'keyword': 'Riak',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
+    },
+    'Trafodion': {
+        'keyword': 'Trafodion',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL', 'Hadoop', 'HBase']
+    },
+    'CockroachDB': {
+        'keyword': 'CockroachDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
+    },
+    'Altibase': {
+        'keyword': 'Altibase',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL']
+    },
     'AllegroGraph': {
         'keyword': 'AllegroGraph',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
+    },
+    'Blazegraph': {
+        'keyword': 'Blazegraph',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
+    },
+    'DataStax': {
+        'keyword': 'DataStax',
         'type': keyword_type.types['DB'],
         'extra': ['Graph databases']
     },
@@ -5455,18 +5553,13 @@ keywords = {
         'type': keyword_type.types['DB'],
         'extra': ['Graph databases']
     },
-    'FlockDB': {
-        'keyword': 'FlockDB',
-        'type': keyword_type.types['DB'],
-        'extra': ['Graph databases']
-    },
     'InfiniteGraph': {
         'keyword': 'InfiniteGraph',
         'type': keyword_type.types['DB'],
         'extra': ['Graph databases']
     },
-    'Mulgara': {
-        'keyword': 'Mulgara',
+    'MarkLogic': {
+        'keyword': 'MarkLogic',
         'type': keyword_type.types['DB'],
         'extra': ['Graph databases']
     },
@@ -5475,8 +5568,28 @@ keywords = {
         'type': keyword_type.types['DB'],
         'extra': ['Graph databases']
     },
+    'OpenCog': {
+        'keyword': 'OpenCog',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
+    },
+    'Ontotext': {
+        'keyword': 'Ontotext',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
+    },
     'OrientDB': {
         'keyword': 'OrientDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NoSQL', 'Graph databases']
+    },
+    'Mulgara': {
+        'keyword': 'Mulgara',
+        'type': keyword_type.types['DB'],
+        'extra': ['Graph databases']
+    },
+    'Profium': {
+        'keyword': 'Profium',
         'type': keyword_type.types['DB'],
         'extra': ['Graph databases']
     },
@@ -5484,6 +5597,102 @@ keywords = {
         'keyword': 'Stardog',
         'type': keyword_type.types['DB'],
         'extra': ['Graph databases']
+    },
+    'NuoDB': {
+        'keyword': 'NuoDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'VoltDB': {
+        'keyword': 'VoltDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'Clustrix': {
+        'keyword': 'Clustrix',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'CouchDB': {
+        'keyword': 'Apache CouchDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL'],
+        'type_extra': [keyword_type.types['APACHE_FRWK']]
+    },
+    'SenseiDB': {
+        'keyword': 'SenseiDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'GenieDB': {
+        'keyword': 'GenieDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'ScalArc': {
+        'keyword': 'ScalArc',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'ScaleDB': {
+        'keyword': 'ScaleDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'Drizzle': {
+        'keyword': 'Drizzle',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'ScaleBase': {
+        'keyword': 'ScaleBase',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'Akiban': {
+        'keyword': 'Akiban',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'TransLattice': {
+        'keyword': 'TransLattice',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'HandlerSocket': {
+        'keyword': 'Percona',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'Percona': {
+        'keyword': 'Percona',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'Tokutek': {
+        'keyword': 'Tokutek',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'SchemafreeDB': {
+        'keyword': 'SchemafreeDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'JustOneDB': {
+        'keyword': 'JustOneDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'TokuDB': {
+        'keyword': 'TokuDB',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
+    },
+    'MemSQL': {
+        'keyword': 'MemSQL',
+        'type': keyword_type.types['DB'],
+        'extra': ['NewSQL']
     },
     'Spanner': {
         'keyword': 'Spanner',
@@ -6021,7 +6230,7 @@ keywords = {
         'type': keyword_type.types['AWS_PRODUCT']
     },
     'S3': {
-        'keyword': 'Amazon Simple Storage Service',
+        'keyword': 'Amazon S3',
         'type': keyword_type.types['AWS_PRODUCT']
     },
     'Glacier': {
@@ -6029,7 +6238,7 @@ keywords = {
         'type': keyword_type.types['AWS_PRODUCT']
     },
     'EBS': {
-        'keyword': 'Amazon Elastic Block Store',
+        'keyword': 'Amazon EBS',
         'type': keyword_type.types['AWS_PRODUCT']
     },
     'DynamoDB': {
@@ -6118,11 +6327,11 @@ keywords = {
         'type': keyword_type.types['KEYWORD']
     },
     'MapReduce': {
-        'keyword': 'Machine learning',
+        'keyword': 'MapReduce',
         'type': keyword_type.types['KEYWORD']
     },
     'Map/Reduce': {
-        'keyword': 'Machine learning',
+        'keyword': 'MapReduce',
         'type': keyword_type.types['KEYWORD']
     },
 }

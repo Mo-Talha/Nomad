@@ -1533,7 +1533,7 @@ other JJ O
 .NET NNP B-KEYWORD
 HTTP NNP O
 frameworks NNS O
-.  .O
+.  . O
 Relational NN O
 databases NNS O
 ( ( O

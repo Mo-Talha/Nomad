@@ -1,0 +1,22 @@
+{
+  "name": "nomad",
+  "version": "1.0.0",
+  "description": "Jobmine statistics",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mo-Talha/Nomad.git"
+  },
+  "author": "Muhammad Talha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mo-Talha/Nomad/issues"
+  },
+  "homepage": "https://github.com/Mo-Talha/Nomad#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1"
+  }
+}

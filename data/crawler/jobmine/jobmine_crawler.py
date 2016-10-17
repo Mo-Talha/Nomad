@@ -317,6 +317,15 @@ class JobmineCrawler(crawler.Crawler):
 
             coop_term_ele.send_keys(coop_term)
 
+            employer_name_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_EMPLYR_NAME')
+            employer_name_ele.clear()
+
+            job_title_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_JOB_TITLE')
+            job_title_ele.clear()
+
+            location_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_LOCATION')
+            location_ele.clear()
+
     def _wait_for_job_results(self, wait=15):
         # Wait for 15 seconds for results to appear
         try:

@@ -82,9 +82,3 @@ def parse_keywords(key, keywords, gen_keywords):
 def load_chunker(corpus_name):
     with open('{}/chunker/{}.pickle'.format(os.path.dirname(os.path.abspath(__file__)), corpus_name), 'rb') as f:
         return pickle.load(f)
-
-
-if __name__ == '__main__':
-    import filters
-
-    print get_keywords(filters.test_summary, ['MATH'])
