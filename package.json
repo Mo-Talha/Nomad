@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Jobmine statistics",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,19 @@
   },
   "homepage": "https://github.com/Mo-Talha/Nomad#readme",
   "devDependencies": {
-    "bower": "^1.7.9",
-    "gulp": "^3.9.1"
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "css-loader": "^0.25.0",
+    "isomorphic-style-loader": "^1.0.0",
+    "react-hot-loader": "^3.0.0-beta.6",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "dependencies": {
+    "isomorphic-style-loader": "^1.0.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
   }
 }

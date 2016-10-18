@@ -4,10 +4,10 @@ install_git(){
     # Get latest version of git
     if ! ls /etc/apt/sources.list.d/ 2>&1 | grep -q git-core-ubuntu-ppa; then
         sudo add-apt-repository -y ppa:git-core/ppa
-    fi
 
-    sudo apt-get update -qq -y
-    sudo apt-get install -y git
+        sudo apt-get update -qq -y
+        sudo apt-get install -y git
+    fi
 }
 
 install_mongodb(){
@@ -60,11 +60,12 @@ install_phantom(){
 }
 
 install_nodejs(){
-    if ! ls /etc/apt/sources.list.d/ 2>&1 | grep -q chris-lea-ubuntu-node_js; then
-        sudo add-apt-repository -y ppa:chris-lea/node.js
+    if ! which node >/dev/null; then
+        sudo apt-key adv --keyserver keyserver.ubuntu.com --recv 68576280
+
+        sudo apt-add-repository "deb https://deb.nodesource.com/node_4.x $(lsb_release -sc) main"
 
         sudo apt-get update -qq -y
-
         sudo apt-get install nodejs
     fi
 }

@@ -5280,7 +5280,7 @@ keywords = {
         'extra': ['SQL']
     },
     'Oracle': {
-        'keyword': 'Oracle Database',
+        'keyword': 'Oracle',
         'type': keyword_type.types['DB'],
         'extra': ['SQL']
     },
@@ -6338,7 +6338,7 @@ keywords = {
 
 
 def get_keywords():
-    return [keyword for keyword in keywords]
+    return [keywords[keyword]['keyword'] for keyword in keywords]
 
 
 def generate_keywords(summary):

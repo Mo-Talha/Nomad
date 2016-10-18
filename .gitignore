@@ -98,3 +98,4 @@ jobmine.py
 /dump/
 *.pickle
 node_modules
+bower_components
