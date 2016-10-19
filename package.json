@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Jobmine statistics",
   "scripts": {
-    "start": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --progress --verbose --colors --display-error-details --config webpack/common.config.js",
+    "build:production": "npm run clean && npm run build",
+    "clean": "rimraf dist"
   },
   "repository": {
     "type": "git",
@@ -27,7 +29,9 @@
     "webpack-dev-server": "^1.16.2"
   },
   "dependencies": {
+    "chart.js": "^2.3.0",
     "isomorphic-style-loader": "^1.0.0",
+    "moment": "^2.15.1",
     "react": "^15.3.2",
     "react-dom": "^15.3.2"
   }
