@@ -92,10 +92,14 @@ ENV/
 # IDE
 .idea
 
+#Crawler
+screenshot.png
+
 #Local Configurations
 jobmine.py
-*.png
-/dump/
-*.pickle
+
+#Node.js
+npm-debug.log*
+.node_repl_history
 node_modules
-bower_components
+.npm

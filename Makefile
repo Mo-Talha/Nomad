@@ -14,14 +14,6 @@ install:
 
 	@echo "Done"
 
-install_nltk_data:
-	@echo "*** Installing NLTK data. ***"
-	@echo
-
-	sudo python -m nltk.downloader -d /usr/local/share/nltk_data all
-
-	@echo "Done"
-
 devel:
 	@echo "*** Setting development environment. ***"
 	@echo
@@ -88,6 +80,15 @@ import_comments:
 
 
 import: import_jobs import_comments
+
+install_nltk_data:
+	@echo "*** Installing NLTK data. ***"
+	@echo
+
+	sudo python -m nltk.downloader -d /usr/local/share/nltk_data all
+
+	@echo "Done"
+
 
 train_compsci:
 	@echo "*** Training Computer Science Chunker. This may take a few minutes or less. ***"

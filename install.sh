@@ -10,6 +10,15 @@ install_git(){
     fi
 }
 
+install_nginx(){
+    if ! ls /etc/apt/sources.list.d/ 2>&1 | grep -q nginx-ubuntu-stable; then
+        sudo add-apt-repository -y ppa:nginx/stable
+
+        sudo apt-get update
+        sudo apt-get install -y nginx
+    fi
+}
+
 install_mongodb(){
     if ! ls /etc/apt/sources.list.d/ 2>&1 | grep -q mongodb-org-3.2; then
         # Import mongodb public GPG key
@@ -63,7 +72,7 @@ install_nodejs(){
     if ! which node >/dev/null; then
         sudo apt-key adv --keyserver keyserver.ubuntu.com --recv 68576280
 
-        sudo apt-add-repository "deb https://deb.nodesource.com/node_4.x $(lsb_release -sc) main"
+        sudo apt-add-repository "deb https://deb.nodesource.com/node_5.x $(lsb_release -sc) main"
 
         sudo apt-get update -qq -y
         sudo apt-get install nodejs
@@ -74,7 +83,8 @@ install_nodejs(){
 sudo echo
 
 install_git
+install_nginx
 install_mongodb
 install_redis
-install_phantom
 install_nodejs
+install_phantom

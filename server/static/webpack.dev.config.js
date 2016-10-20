@@ -2,61 +2,31 @@ var path = require('path');
 var webpack = require('webpack');
 
 module.exports = {
- entry: './js/main.js',
- output: {
-     path: path.resolve(__dirname, 'build'),
-     filename: 'server/dist/bundle.js'
- },
- module: {
-     loaders: [
-         {
-             test: /\.js$/,
-             loader: 'babel-loader',
-             query: {
-                 presets: ['es2015']
-             }
-         }
-     ]
- },
- stats: {
-     colors: true
- }
-};
-
-const webpack = require('webpack');
-const ExtractTextPlugin = require('extract-text-webpack-plugin');
-
-module.exports = {
-    devtool: 'cheap-module-eval-source-map',
+    devtool: 'inline-source-map',
     entry: [
-        'bootstrap-loader',
-        'webpack-hot-middleware/client',
-        './src/index',
+        './jsx',
     ],
     output: {
-        publicPath: '/dist/',
+        path: path.join(__dirname, 'dist'),
+        filename: 'bundle.js'
     },
-
+    resolve: {
+        modulesDirectories: ['../../node_modules'],
+        extensions: ['', '.js']
+    },
     module: {
-        loaders: [{
-            test: /\.scss$/,
-            loader: 'style!css?localIdentName=[path][name]--[local]!postcss-loader!sass',
-        }],
+    loaders: [
+         {
+             test: /\.js$/,
+             loader: ['babel', 'react-hot'],
+             query: {
+                 presets: ['react', 'es2015']
+             }
+         }
+        ]
     },
-
     plugins: [
-        new webpack.DefinePlugin({
-            'process.env': {
-                NODE_ENV: '"development"',
-            },
-            __DEVELOPMENT__: true,
-        }),
-        new ExtractTextPlugin('bundle.css'),
-        new webpack.optimize.OccurenceOrderPlugin(),
         new webpack.HotModuleReplacementPlugin(),
-        new webpack.NoErrorsPlugin(),
-        new webpack.ProvidePlugin({
-            jQuery: 'jquery',
-        }),
-    ],
+        new webpack.NoErrorsPlugin()
+    ]
 };
