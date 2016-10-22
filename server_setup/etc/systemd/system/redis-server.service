@@ -1,0 +1,21 @@
+[Unit]
+Description=Redis Datastore Server
+After=network.target
+
+[Service]
+Type=forking
+PIDFile=/var/run/redis/redis.pid
+User=redis
+Group=redis
+
+StandardOutput=journal+console
+StandardError=journal+console
+Environment=statedir=/var/run/redis
+PermissionsStartOnly=true
+ExecStart=/usr/local/bin/redis-server /etc/redis/redis.conf
+ExecReload=/bin/kill -USR2 /var/run/redis/redis.pid
+ExecStop=/usr/local/bin/redis-cli shutdown
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

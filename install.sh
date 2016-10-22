@@ -27,7 +27,7 @@ install_mongodb(){
         echo "deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.2.list
 
         sudo apt-get update -qq -y
-        sudo apt-get install mongodb-org
+        sudo apt-get install -y mongodb-org
 
         # Stop MongoDB
         sudo service mongod stop
@@ -37,18 +37,19 @@ install_mongodb(){
 install_redis(){
     if ! dpkg -s redis-server | grep -q "install ok installed"; then
         # Get latest version of Redis
-        wget http://download.redis.io/redis-stable.tar.gz
+        wget http://download.redis.io/releases/redis-3.2.4.tar.gz
 
-        tar xvzf redis-stable.tar.gz
+        tar xzf redis-3.2.4.tar.gz
 
-        cd redis-stable
+        cd redis-3.2.4
         sudo make install
 
-        cd ..
-        sudo rm -rf redis-stable
-        sudo rm -rf redis-stable.tar.gz
+        cd utils
+        sudo ./install_server.sh
 
-        sudo apt-get install redis-server
+        cd ../..
+        sudo rm -rf redis-3.2.4
+        sudo rm -rf redis-3.2.4.tar.gz
     fi
 }
 
@@ -75,7 +76,7 @@ install_nodejs(){
         sudo apt-add-repository "deb https://deb.nodesource.com/node_5.x $(lsb_release -sc) main"
 
         sudo apt-get update -qq -y
-        sudo apt-get install nodejs
+        sudo apt-get install -y nodejs
     fi
 }
 

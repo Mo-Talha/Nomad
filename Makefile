@@ -18,17 +18,7 @@ devel:
 	@echo "*** Setting development environment. ***"
 	@echo
 
-	@echo "Configuring Mongo"
-	sudo cp -v ./config/mongodb_dev.conf /etc/mongod.conf
-
-	@echo "Configuring Redis"
-	sudo cp -v ./config/redis_dev.conf /etc/redis/redis.conf
-
-	@echo "Starting Mongo"
-	sudo service mongod start
-
-	@echo "Starting Redis"
-	sudo service redis-server start
+	./setup.sh dev
 
 	@echo "Done"
 
@@ -36,17 +26,7 @@ prod:
 	@echo "*** Setting production environment. ***"
 	@echo
 
-	@echo "Configuring Mongo"
-	sudo cp -v ./config/mongodb_prod.conf /etc/mongod.conf
-
-	@echo "Configuring Redis"
-	sudo cp -v ./config/redis_prod.conf /etc/redis/redis.conf
-
-	@echo "Starting Mongo"
-	sudo service mongod start
-
-	@echo "Starting Redis"
-	sudo service redis-server start
+	./setup.sh prod
 
 	@echo "Done"
 
