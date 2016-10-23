@@ -35,7 +35,7 @@ install_mongodb(){
 }
 
 install_redis(){
-    if ! dpkg -s redis-server | grep -q "install ok installed"; then
+    if ! which redis-server >/dev/null; then
         # Get latest version of Redis
         wget http://download.redis.io/releases/redis-3.2.4.tar.gz
 

@@ -1,6 +1,6 @@
 import sys
 
-from mongoengine import *
+import mongoengine
 
 from data.crawler.jobmine.jobmine_crawler import JobmineCrawler
 from data.crawler.ratemycoopjob.ratemycoopjob_crawler import RateMyCoopJobCrawler
@@ -9,8 +9,7 @@ import shared.secrets as secrets
 
 
 def connect_mongo():
-    connect(secrets.MONGO_DATABASE, host=secrets.MONGO_HOST,
-            port=secrets.MONGO_PORT)
+    mongoengine.connect(secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT)
 
 if __name__ == '__main__':
     connect_mongo()

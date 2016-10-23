@@ -1,16 +1,10 @@
 SHELL=/bin/bash
 
 install:
-	@echo "*** Installing dependencies. ***"
+	@echo "*** Installing project dependencies. ***"
 	@echo
 
 	./install.sh
-
-	@echo "Installing Python dependencies"
-	pip install -r requirements.txt
-
-	@echo "Installing NPM dependencies"
-	npm install
 
 	@echo "Done"
 
@@ -35,10 +29,10 @@ clean:
 	find . -name 'ghostdriver.log' -delete
 	find . -name 'screenshot.png' -delete
 
-clean_chunker:
+clean_chunker: virtualenv
 	find . -name '*.pickle' -delete
 
-import_jobs:
+import_jobs: virtualenv
 	@echo "*** Importing Jobmine data. This may take several hours. ***"
 	@echo
 
@@ -48,7 +42,7 @@ import_jobs:
 	@echo
 	@echo "*** Done ***"
 
-import_comments:
+import_comments: virtualenv
 	@echo "*** Importing RateMyCoopJob data. This may take several hours or less. ***"
 	@echo
 
@@ -61,7 +55,7 @@ import_comments:
 
 import: import_jobs import_comments
 
-install_nltk_data:
+install_nltk_data: virtualenv
 	@echo "*** Installing NLTK data. ***"
 	@echo
 
@@ -70,7 +64,7 @@ install_nltk_data:
 	@echo "Done"
 
 
-train_compsci:
+train_compsci: virtualenv
 	@echo "*** Training Computer Science Chunker. This may take a few minutes or less. ***"
 	@echo
 
@@ -80,6 +74,13 @@ train_compsci:
 	@echo "*** Done ***"
 
 train: clean_chunker train_compsci
+
+virtualenv:
+	@if [[ "${VIRTUAL_ENV}" = "${HOME}/.virtualenv/Nomad" ]]; then \
+		true; \
+	else \
+		source ~/.virtualenv/Nomad/bin/activate
+	fi
 
 export_data:
 	mongodump --db nomad
