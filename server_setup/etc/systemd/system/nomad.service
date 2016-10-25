@@ -6,7 +6,10 @@ After=network.target
 User=www-data
 Group=www-data
 PIDFile=/tmp/nomad.pid
+KillSignal=SIGQUIT
+Restart=always
 ExecStart=/bin/sh -c "/home/<USER>/.virtualenv/Nomad/bin/uwsgi --ini /tmp/uwsgi.ini"
+ExecStop=/bin/sh -c "/home/<USER>/.virtualenv/Nomad/bin/uwsgi --stop /tmp/nomad.pid"
 
 [Install]
 WantedBy=multi-user.target
