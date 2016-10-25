@@ -26,6 +26,7 @@ configure_nginx(){
 
 configure_mongodb(){
     sudo killall mongod 2>/dev/null
+
     sudo rm -f /etc/mongod.conf
 
     sudo addgroup --quiet mongod 2>/dev/null
@@ -39,16 +40,11 @@ configure_mongodb(){
             sudo cp ./config/mongodb_dev.conf /etc/mongod.conf
             ;;
         prod)
-            sudo mkdir -p /home/Nomad/logs/mongo/
-            sudo mkdir -p /home/Nomad/data/mongo/
-
             sudo cp ./config/mongodb_prod.conf /etc/mongod.conf
             ;;
     esac
 
     sudo cp ./server_setup/etc/systemd/system/mongod.service /etc/systemd/system/mongod.service
-
-    sudo chmod 755 /etc/systemd/system/mongod.service
 }
 
 configure_redis(){
@@ -68,9 +64,9 @@ configure_redis(){
     sudo addgroup --quiet redis 2>/dev/null
     sudo adduser --quiet --system --no-create-home --ingroup redis --disabled-login --disabled-password redis
 
-    sudo chown -R redis:redis /var/log/redis
-    sudo chown -R redis:redis /etc/redis
-    sudo chown -R redis:redis /var/run/redis
+    sudo chown -R redis:redis /var/log/redis/
+    sudo chown -R redis:redis /etc/redis/
+    sudo chown -R redis:redis /var/run/redis/
 
     case "$ENV" in
     dev)
@@ -85,15 +81,23 @@ configure_redis(){
 }
 
 configure_uwsgi(){
+    sudo killall uwsgi 2>/dev/null
+
+    sudo rm -rf /var/log/uwsgi/
     sudo rm -f /tmp/uwsgi.ini
     sudo rm -f /etc/systemd/system/nomad.service
 
+    sudo mkdir -p /var/log/uwsgi/
+    sudo touch /var/log/uwsgi/uwsgi.log
+    
     sudo cp ./config/uwsgi.ini /tmp/uwsgi.ini
+    sudo sed -i -e "s/<USER>/$USER/g" /tmp/uwsgi.ini
 
-    sudo touch /etc/systemd/system/nomad.service
-    sudo /bin/sh -c "sed \"/\[Service\]/a User=$USER\" ./server_setup/etc/systemd/system/nomad.service > /etc/systemd/system/nomad.service"
+    sudo chown -R www-data:www-data /tmp/uwsgi.ini
+    sudo chown -R www-data:www-data /var/log/uwsgi/
 
-    sudo chmod 755 /etc/systemd/system/nomad.service
+    sudo cp ./server_setup/etc/systemd/system/nomad.service /etc/systemd/system/nomad.service
+    sudo sed -i -e "s/<USER>/$USER/g" /etc/systemd/system/nomad.service
 }
 
 echo "Configuring Virtualenv"

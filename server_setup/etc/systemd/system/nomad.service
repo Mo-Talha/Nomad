@@ -3,8 +3,10 @@ Description=Nomad uWSGI instance
 After=network.target
 
 [Service]
+User=www-data
+Group=www-data
 PIDFile=/tmp/nomad.pid
-ExecStart=/bin/sh -c "${HOME}/.virtualenv/Nomad/bin/uwsgi --ini /tmp/uwsgi.ini"
+ExecStart=/bin/sh -c "/home/<USER>/.virtualenv/Nomad/bin/uwsgi --ini /tmp/uwsgi.ini"
 
 [Install]
 WantedBy=multi-user.target

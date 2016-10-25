@@ -76,9 +76,9 @@ train_compsci: virtualenv
 train: clean_chunker train_compsci
 
 virtualenv:
-	@if [[ "${VIRTUAL_ENV}" = "${HOME}/.virtualenv/Nomad" ]]; then \
-		true; \
-	else \
+	@if [[ "${VIRTUAL_ENV}" = "${HOME}/.virtualenv/Nomad" ]]; then
+		true;
+	else
 		source ~/.virtualenv/Nomad/bin/activate
 	fi
 

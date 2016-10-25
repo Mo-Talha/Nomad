@@ -8,8 +8,6 @@ PIDFile=/var/run/redis/redis.pid
 User=redis
 Group=redis
 
-StandardOutput=journal+console
-StandardError=journal+console
 Environment=statedir=/var/run/redis
 PermissionsStartOnly=true
 ExecStart=/usr/local/bin/redis-server /etc/redis/redis.conf
