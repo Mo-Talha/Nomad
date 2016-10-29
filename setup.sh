@@ -134,6 +134,7 @@ pip install -r requirements.txt
 
 echo "Installing NPM dependencies"
 npm install
+./node_modules/bower/bin/bower install
 
 echo "Starting Nomad"
 sudo systemctl start nomad
