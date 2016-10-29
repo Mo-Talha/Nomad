@@ -10,6 +10,7 @@ KillSignal=SIGQUIT
 Restart=always
 ExecStart=/bin/sh -c "/home/<USER>/.virtualenv/Nomad/bin/uwsgi --ini /tmp/uwsgi.ini"
 ExecStop=/bin/sh -c "/home/<USER>/.virtualenv/Nomad/bin/uwsgi --stop /tmp/nomad.pid"
+ExecReload=/bin/sh -c "/home/<USER>/.virtualenv/Nomad/bin/uwsgi --reload /tmp/nomad.pid"
 
 [Install]
 WantedBy=multi-user.target

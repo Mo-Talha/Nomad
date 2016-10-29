@@ -95,11 +95,15 @@ ENV/
 #Crawler
 screenshot.png
 
-#Local Configurations
+# Local Configurations
 jobmine.py
+ratemycoopjob.py
 
-#Node.js
+# Node.js
 npm-debug.log*
 .node_repl_history
 node_modules
 .npm
+
+# Bower
+bower_components
