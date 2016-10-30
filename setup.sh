@@ -22,6 +22,8 @@ configure_nginx(){
 
     sudo cp ./server_setup/etc/nginx/sites-available/nomad /etc/nginx/sites-available/nomad
     sudo ln -sfnv /etc/nginx/sites-available/nomad /etc/nginx/sites-enabled/nomad
+
+    sudo sed -i -e "s/<USER>/$USER/g" /etc/nginx/sites-available/nomad
 }
 
 configure_mongodb(){
@@ -85,6 +87,7 @@ configure_uwsgi(){
 
     sudo rm -rf /var/log/uwsgi/
     sudo rm -f /tmp/uwsgi.ini
+    sudo rm -f /tmp/nomad.sock
     sudo rm -f /etc/systemd/system/nomad.service
 
     sudo mkdir -p /var/log/uwsgi/
