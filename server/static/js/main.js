@@ -17,9 +17,6 @@ var shim = {
     'lib/jquery': {
         exports: '$'
     },
-    'lib/bootstrap': {
-        deps: ['lib/jquery']
-    },
     'lib/chartjs': {
         exports: 'Chart'
     }
