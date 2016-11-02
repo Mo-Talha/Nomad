@@ -10,6 +10,7 @@
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
         {% block head_tags %}
         {% endblock %}
+        <link rel="stylesheet" href="/static/lib/font-awesome/css/font-awesome.min.css">
         <link href="/static/css/styles.css" rel="stylesheet">
         {% block stylesheets %}
         {% endblock %}
@@ -34,7 +35,7 @@
         {% if env == 'prod' %}
         <script async type="text/javascript" src="/static/dist/bundle.js"></script>
         {% else %}
-        <script async type="text/javascript" data-main="/static/js/main.js" src="/static/js/lib/requirejs/require.js"></script>
+        <script async type="text/javascript" data-main="/static/js/main.js" src="/static/lib/requirejs/require.js"></script>
         {% endif %}
     </body>
 </html>

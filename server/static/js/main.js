@@ -3,7 +3,8 @@ var paths = {
     'lib/underscore': 'lib/underscore/underscore.js',
     'lib/jquery': 'lib/jquery/dist/jquery.js',
     'lib/bootstrap': 'lib/bootstrap/dist/js/bootstrap.js',
-    'lib/chartjs': 'lib/chart.js/dist/Chart.js'
+    'lib/chartjs': 'lib/chart.js/dist/Chart.js',
+     hbs: 'lib/require-handlebars-plugin/hbs'
 };
 
 var shim = {
@@ -24,7 +25,7 @@ var shim = {
 
 require.config({
     shim: shim,
-    baseUrl: '/static/js/',
+    baseUrl: '/static/',
     paths: paths
 });
 

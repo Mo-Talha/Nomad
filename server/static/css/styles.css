@@ -13,14 +13,15 @@ a {
 
 body {
     font-family: 'Roboto', sans-serif;
-    overflow: hidden;
+    overflow-x: hidden;
     background-color: #eee;
     display: flex;
     flex-direction: column;
+    margin: 0;
+    padding: 0;
 }
 
 header {
-    position: absolute;
     top: 0;
     right: 0;
     left: 0;
@@ -73,15 +74,46 @@ header nav.navbar .navbar-container .navbar-items {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    flex-grow: 1;
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+    flex: 1;
     padding: 1rem;
     overflow-y: auto;
 }
 
+.card {
+    background-color: #fff;
+    box-shadow: 0 0.0625rem 0.25rem 0 rgba(0,0,0,0.14);
+    border-radius: 0.1875rem;
+}
 
+.card .card-header {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 0.5rem;
+    font-size: 0;
+    border-bottom: 0.0625rem solid rgba(0,0,0,0.12);
+}
+
+.card .card-header .card-header-title {
+    font-size: 0.99rem;
+    color: rgba(0,0,0,0.87);
+}
+
+.card .card-body-container .card-body .card-chart {
+    max-height: 640px;
+    max-width: 1024px;
+}
+
+
+/*
 main > .container .left,
 main > .container .right {
 -webkit-box-flex: 1;
@@ -91,50 +123,27 @@ flex: 1 0 18.75rem;
 min-width: 18.75rem;
 margin: 0.5rem;
 }
-.card {
-background-color: #fff;
-box-shadow: 0 0.0625rem 0.25rem 0 rgba(0,0,0,0.14);
-border-radius: 0.1875rem;
-}
-.card .card-header {
-display: -webkit-box;
-display: -webkit-flex;
-display: -ms-flexbox;
-display: flex;
--webkit-box-align: center;
--webkit-align-items: center;
--ms-flex-align: center;
-align-items: center;
-padding: 0.5rem;
-font-size: 0;
-border-bottom: 0.0625rem solid rgba(0,0,0,0.12);
-}
-.card .card-header .icon {
-margin-right: 0.5rem;
-}
-.card .card-header .icon svg path {
-fill: rgba(0,0,0,0.87);
-}
-.card .card-header .text {
-font-size: 0.875rem;
-color: rgba(0,0,0,0.87);
-text-transform: uppercase;
-}
+*/
+
 .card .card-body .site {
 padding: 0.25rem 0.5rem;
 color: rgba(0,0,0,0.87);
 }
+
 .card .card-body .site.active {
 color: #2196f3;
 font-weight: 500;
 }
+
 .card .card-body .site:hover {
 background-color: rgba(0,0,0,0.12);
 cursor: pointer;
 }
+
 .card .card-body .container {
 padding: 0.5rem;
 }
+
 .card .card-body .container canvas {
 width: 100%;
 height: auto;
