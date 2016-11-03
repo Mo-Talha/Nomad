@@ -1,5 +1,6 @@
-:root {
-    font-size: 16px;
+@font-face{
+    font-family: 'Roboto';
+    src: url('/static/fonts/Roboto-Regular.ttf'),
 }
 
 a {
@@ -19,6 +20,7 @@ body {
     flex-direction: column;
     margin: 0;
     padding: 0;
+    font-size: 16px;
 }
 
 header {
@@ -98,18 +100,19 @@ header nav.navbar .navbar-container .navbar-items {
     -ms-flex-align: center;
     align-items: center;
     padding: 0.5rem;
-    font-size: 0;
     border-bottom: 0.0625rem solid rgba(0,0,0,0.12);
 }
 
 .card .card-header .card-header-title {
-    font-size: 0.99rem;
+    font-size: 1.1rem;
     color: rgba(0,0,0,0.87);
+    padding-left: 10px;
 }
 
-.card .card-body-container .card-body .card-chart {
-    max-height: 640px;
-    max-width: 1024px;
+.card .card-body-container .card-body {
+    position: relative;
+    height: 640px;
+    width: 1024px;
 }
 
 

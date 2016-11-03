@@ -1,9 +1,9 @@
 var paths = {
-    'lib/backbone': 'lib/backbone/backbone.js',
-    'lib/underscore': 'lib/underscore/underscore.js',
-    'lib/jquery': 'lib/jquery/dist/jquery.js',
-    'lib/bootstrap': 'lib/bootstrap/dist/js/bootstrap.js',
-    'lib/chartjs': 'lib/chart.js/dist/Chart.js',
+    'lib/backbone': 'lib/backbone/backbone',
+    'lib/underscore': 'lib/underscore/underscore',
+    'lib/jquery': 'lib/jquery/dist/jquery',
+    'lib/bootstrap': 'lib/bootstrap/dist/js/bootstrap',
+    'lib/chartjs': 'lib/chart.js/dist/Chart',
      hbs: 'lib/require-handlebars-plugin/hbs'
 };
 
@@ -26,7 +26,12 @@ var shim = {
 require.config({
     shim: shim,
     baseUrl: '/static/',
-    paths: paths
+    paths: paths,
+    hbs: {
+        helpers: true,
+        templateExtension: 'hbs',
+        partialsUrl: ''
+    }
 });
 
 if (window.script) {

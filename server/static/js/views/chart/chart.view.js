@@ -3,17 +3,20 @@ define(['lib/backbone', 'hbs!js/views/chart/chart'],
 
 	var ChartView = Backbone.View.extend({
 
-		tagName:  'chart-container',
+        tagName: 'div',
+
+		className:  'chart-container',
 
 		template: template,
 
-		initialize: function () {
+		initialize: function (options) {
+            this.options = options || {};
 			this.listenTo(this.model, 'change', this.render);
 			this.listenTo(this.model, 'destroy', this.remove);
 		},
 
 		render: function () {
-   			this.$el.html(this.template(this.model.toJSON()));
+   			this.$el.html(this.template(this.options.data));
             this.drawChart();
 			return this;
 		}
