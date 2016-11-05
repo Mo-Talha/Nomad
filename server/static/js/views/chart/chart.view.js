@@ -20,6 +20,7 @@ define(['lib/backbone', 'hbs!js/views/chart/chart'],
             this.drawChart();
 			return this;
 		}
+
 	});
 
 	return ChartView;
