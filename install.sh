@@ -73,7 +73,7 @@ install_nodejs(){
     if ! which node >/dev/null; then
         sudo apt-key adv --keyserver keyserver.ubuntu.com --recv 68576280
 
-        sudo apt-add-repository "deb https://deb.nodesource.com/node_5.x $(lsb_release -sc) main"
+        sudo apt-add-repository "deb https://deb.nodesource.com/node_6.x $(lsb_release -sc) main"
 
         sudo apt-get update -qq -y
         sudo apt-get install -y nodejs

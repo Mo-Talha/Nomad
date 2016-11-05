@@ -137,6 +137,8 @@ pip install -r requirements.txt
 
 echo "Installing NPM dependencies"
 npm install
+
+echo "Installing Bower dependencies"
 ./node_modules/bower/bin/bower install
 
 echo "Starting Nomad"

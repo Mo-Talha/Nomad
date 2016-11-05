@@ -9,9 +9,8 @@ from models.job import Job
 from models.applicant import Applicant
 from models.comment import Comment
 from models.keyword import Keyword
-import models.employer_alias as employer_alias
-
 import models.program as Program
+import models.employer_alias as employer_alias
 
 import shared.logger as logger
 
