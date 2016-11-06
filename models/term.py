@@ -2,13 +2,14 @@
 This module is used to determine and/or manage UW co-op terms.
 """
 
-FALL_TERM = 1
-WINTER_TERM = 2
-SPRING_TERM = 3
+FALL_TERM = 'Fall'
+WINTER_TERM = 'Winter'
+SPRING_TERM = 'Spring'
 
 JUNIOR_TERM = 'Junior'
 INTERMEDIATE_TERM = 'Intermediate'
 SENIOR_TERM = 'Senior'
+
 
 def get_coop_term(date):
     # Reference starts at Fall 2016

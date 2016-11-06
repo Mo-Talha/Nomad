@@ -1,7 +1,8 @@
 define(['lib/backbone', 'lib/underscore', 'lib/jquery',
         'js/views/chart/programsvsjobs.view',
-        'js/views/chart/jobsvslevels'],
-    function(Backbone, _, $, ProgramsVsJobsView, JobsVsLevelsView){
+        'js/views/chart/jobsvslevels.view',
+        'js/views/chart/jobsvsterms.view'],
+    function(Backbone, _, $, ProgramsVsJobsView, JobsVsLevelsView, JobsVsTermsView){
 
     var DashboardView = Backbone.View.extend({
 
@@ -15,6 +16,7 @@ define(['lib/backbone', 'lib/underscore', 'lib/jquery',
             this.options = options || {};
             this.programsVsJobsChart = new ProgramsVsJobsView(options);
             this.jobsVsLevelsChart = new JobsVsLevelsView(options);
+            this.jobsVsTermsChart = new JobsVsTermsView(options);
         },
 
         events: {
@@ -24,6 +26,7 @@ define(['lib/backbone', 'lib/underscore', 'lib/jquery',
         render: function() {
             this.$el.append(this.programsVsJobsChart.render().el);
             this.$el.append(this.jobsVsLevelsChart.render().el);
+            this.$el.append(this.jobsVsTermsChart.render().el);
             return this;
         }
     });

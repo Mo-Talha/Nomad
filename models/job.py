@@ -14,7 +14,11 @@ import term as Term
 class Job(Document):
     meta = {
         'indexes': [
-            '$title'
+            '$title',
+            'levels',
+            'programs',
+            'year',
+            'term'
         ]
     }
 
@@ -31,7 +35,7 @@ class Job(Document):
     year = IntField(required=True)
 
     # Term job was advertised
-    term = IntField(choices=(Term.FALL_TERM, Term.WINTER_TERM, Term.SPRING_TERM))
+    term = StringField(choices=(Term.FALL_TERM, Term.WINTER_TERM, Term.SPRING_TERM))
 
     # Job location. Latest entry is most probable job location
     location = ListField(StringField(required=True))

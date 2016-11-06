@@ -21,7 +21,7 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
 
 			Chart.defaults.global.fontFamily = '"Roboto", sans-serif';
 
-            $.post('/api/jobs-vs-levels', '', function(response){
+            $.post('/api/jobs-vs-levels-stat', '', function(response){
                 var levels = _.sortBy(response.data, function(level){
                     return level.jobs;
                 }).reverse();

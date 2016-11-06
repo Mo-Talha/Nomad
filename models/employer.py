@@ -8,7 +8,10 @@ from comment import Comment
 class Employer(Document):
     meta = {
         'indexes': [
-            '$name',
+            {
+                'fields': ['$name'],
+                'unique': 'true'
+            },
             'overall.rating',
             'overall.count'
         ]

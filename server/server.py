@@ -34,12 +34,24 @@ def programs_vs_jobs_stat():
     return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
 
 
-@app.route('/api/jobs-vs-levels', methods=['POST'])
+@app.route('/api/jobs-vs-levels-stat', methods=['POST'])
 def jobs_vs_levels_stat():
     jobs_vs_levels = stats.get_jobs_vs_levels()
 
     response = {
         'data': [{'name': level, 'jobs': jobs_vs_levels[level]} for level in jobs_vs_levels]
+    }
+
+    return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
+
+
+@app.route('/api/jobs-vs-terms-stat', methods=['POST'])
+def jobs_vs_terms_stat():
+    jobs_vs_terms = stats.get_jobs_vs_terms()
+
+    response = {
+        'data': [{'year': term['_id']['year'], 'term': term['_id']['term'], 'jobs': term['count']}
+                 for term in jobs_vs_terms]
     }
 
     return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
