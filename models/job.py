@@ -18,7 +18,8 @@ class Job(Document):
             'levels',
             'programs',
             'year',
-            'term'
+            'term',
+            'location'
         ]
     }
 

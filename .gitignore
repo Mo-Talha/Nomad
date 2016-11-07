@@ -98,6 +98,7 @@ screenshot.png
 # Local Configurations
 jobmine.py
 ratemycoopjob.py
+secrets.py
 
 # Node.js
 npm-debug.log*
@@ -108,4 +109,6 @@ node_modules
 # Bower
 bower_components
 lib
+
+# MongoDB
 dump

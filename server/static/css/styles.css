@@ -83,7 +83,7 @@ header nav.navbar .navbar-container .navbar-menu {
 	display:none;
 }
 
-@media only screen and (min-width:661px) {
+@media only screen and (min-width:701px) {
 	header nav.navbar .navbar-container .navbar-menu {
     	display: none;
 	}
@@ -100,7 +100,7 @@ header nav.navbar .navbar-container .navbar-menu {
 	}
 }
 
-@media only screen and (max-width:660px) {
+@media only screen and (max-width:700px) {
 	header nav.navbar .navbar-container .navbar-menu {
 		display: block;
 	}
@@ -125,6 +125,9 @@ header nav.navbar .navbar-container .navbar-menu {
     .chart-container {
         width: 100% !important;
     }
+    .map-container {
+        width: 100% !important;
+    }
 }
 
 .dashboard-container {
@@ -147,6 +150,13 @@ header nav.navbar .navbar-container .navbar-menu {
 }
 
 .chart-container {
+    width: 50%;
+    height: 100%;
+    padding: 0.5rem;
+    display: inline-flex;
+}
+
+.map-container {
     width: 50%;
     height: 100%;
     padding: 0.5rem;

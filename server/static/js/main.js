@@ -4,7 +4,8 @@ var paths = {
     'lib/jquery': 'lib/jquery/dist/jquery',
     'lib/bootstrap': 'lib/bootstrap/dist/js/bootstrap',
     'lib/chartjs': 'lib/chart.js/dist/Chart',
-     hbs: 'lib/require-handlebars-plugin/hbs'
+     hbs: 'lib/require-handlebars-plugin/hbs',
+     async: 'lib/requirejs-plugins/src/async'
 };
 
 var shim = {

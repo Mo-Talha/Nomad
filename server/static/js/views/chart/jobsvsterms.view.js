@@ -2,7 +2,7 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
         'js/views/chart/chart.view'],
 	function($, _, Chart, ChartView){
 
-    var ProgramsVsJobsView = ChartView.extend({
+    var JobsVsTermsView = ChartView.extend({
 
         initialize: function(options) {
             options = options || {};
@@ -18,12 +18,13 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
 
         drawChart: function(){
             var ctx = this.$(".card-chart")[0];
+            var self = this;
 
 			Chart.defaults.global.fontFamily = '"Roboto", sans-serif';
 
             $.post('/api/jobs-vs-terms-stat', '', function(response){
                 var terms = _.sortBy(response.data, function(term){
-                    return term.year;
+                    return term.year + self._getTermPriority(term.term);
                 });
 
                 var labels = [];
@@ -89,10 +90,23 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
                     });
                 }, 0);
             });
+        },
+
+        _getTermPriority: function(term){
+            switch(term) {
+                case 'Fall':
+                    return 1;
+                case 'Winter':
+                    return 2;
+                case 'Spring':
+                    return 3;
+                default:
+                    return 0;
+            }
         }
 
     });
 
-    return ProgramsVsJobsView;
+    return JobsVsTermsView;
 
 });

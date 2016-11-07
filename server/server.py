@@ -5,8 +5,11 @@ import mongoengine
 from bson import json_util
 
 import analytics.statistics as stats
+
 import shared.secrets as secrets
 
+
+name = 'API'
 
 app = flask.Flask(__name__, template_folder="./templates")
 
@@ -52,6 +55,18 @@ def jobs_vs_terms_stat():
     response = {
         'data': [{'year': term['_id']['year'], 'term': term['_id']['term'], 'jobs': term['count']}
                  for term in jobs_vs_terms]
+    }
+
+    return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
+
+
+@app.route('/api/jobs-vs-locations-stat', methods=['POST'])
+def jobs_vs_locations_stat():
+    jobs_vs_locations = stats.get_jobs_vs_locations()
+
+    response = {
+        'data': [{'location': location['name'], 'longitude': location['longitude'], 'latitude': location['latitude']}
+                 for location in jobs_vs_locations]
     }
 
     return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")

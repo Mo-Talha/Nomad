@@ -1,6 +1,10 @@
 from mongoengine import connection
 
+import googlemaps
+
 from models.job import Job
+
+import shared.secrets as secrets
 
 
 def get_programs_vs_jobs():
@@ -17,7 +21,7 @@ def get_jobs_vs_terms():
     pipeline = [
         {"$redact": {
             "$cond": {
-                "if": { "$eq": ["$deprecated", "false"]},
+                "if": {"$eq": ["$deprecated", "false"]},
                 "then": "$$KEEP",
                 "else": "$$DESCEND"
             }
@@ -33,3 +37,24 @@ def get_jobs_vs_terms():
 
     return db.job.aggregate(pipeline)
 
+
+def get_jobs_vs_locations():
+    locations = Job.objects(deprecated=False).distinct(field="location")
+
+    gmaps = googlemaps.Client(key=secrets.GOOGLE_MAPS_API_KEY)
+
+    response = []
+
+    for location in locations:
+        geocode = gmaps.geocode(location)
+
+        if type(geocode) is list and len(geocode) > 0:
+            geocode = geocode[0]
+
+            response.append({
+                'name': location,
+                'longitude': geocode['geometry']['location']['lng'],
+                'latitude': geocode['geometry']['location']['lat']
+            })
+
+    return response
