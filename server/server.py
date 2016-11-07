@@ -9,7 +9,7 @@ import analytics.statistics as stats
 import shared.secrets as secrets
 
 
-name = 'API'
+component = 'API'
 
 app = flask.Flask(__name__, template_folder="./templates")
 
@@ -65,7 +65,7 @@ def jobs_vs_locations_stat():
     jobs_vs_locations = stats.get_jobs_vs_locations()
 
     response = {
-        'data': [{'location': location['name'], 'longitude': location['longitude'], 'latitude': location['latitude']}
+        'data': [{'name': location['name'], 'longitude': location['longitude'], 'latitude': location['latitude']}
                  for location in jobs_vs_locations]
     }
 

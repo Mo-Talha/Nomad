@@ -7,7 +7,7 @@ from rating import AggregateRating
 
 class Comment(EmbeddedDocument):
 
-    # Title of job
+    # Title of job (if commenting to job instead of employer)
     title = StringField(required=False, default=None)
 
     # Comment
@@ -22,16 +22,5 @@ class Comment(EmbeddedDocument):
     # Rating
     rating = EmbeddedDocumentField(AggregateRating, default=AggregateRating())
 
-    # Whether comment was crawled from RateMyCoopJob or added via web app
+    # Whether comment was crawled from RateMyCoopJob or added via web
     crawled = BooleanField(required=True, default=False)
-
-    def to_dict(self):
-        return {
-            'id': self._id,
-            'job_title': self.title,
-            'comment': self.comment,
-            'date': self.date,
-            'salary': self.salary,
-            'rating': self.rating.rating,
-            'crawled': self.crawled
-        }

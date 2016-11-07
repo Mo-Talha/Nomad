@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Mo-Talha/Nomad.svg?branch=master)](https://travis-ci.org/Mo-Talha/Nomad)
+
 # Nomad
 
 Jobmine statistics on employers and employees.

@@ -8,10 +8,7 @@ from comment import Comment
 class Employer(Document):
     meta = {
         'indexes': [
-            {
-                'fields': ['$name'],
-                'unique': 'true'
-            },
+            '$name',
             'overall.rating',
             'overall.count'
         ]
@@ -27,7 +24,7 @@ class Employer(Document):
     overall = EmbeddedDocumentField(AggregateRating, default=AggregateRating())
 
     # Warnings for employer
-    warnings = ListField(StringField)
+    warnings = ListField(StringField, default=[])
 
     # Comments about employer (added by UW students)
     comments = EmbeddedDocumentListField(Comment, default=[])

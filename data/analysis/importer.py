@@ -26,7 +26,7 @@ def import_job(**kwargs):
     job_title -- Title of job
     summary -- Job summary
     year -- Year the job was advertised
-    term -- Term job was advertised [Fall -> 1, Winter -> 2, Spring -> 3]
+    term -- Term job was advertised [Fall, Winter, Spring]
     location -- Location job was advertised
     openings -- Number of job openings
     remaining -- Number of job openings remaining

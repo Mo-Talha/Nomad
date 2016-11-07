@@ -21,22 +21,18 @@ define(['lib/jquery',
         drawMap: function(){
             var cardMap = this.$('.card-body').get(0);
 
-                setTimeout(function(){
-            var map = new google.maps.Map(cardMap, {
-                zoom: 1,
-                center: {
-                    lat: 0,
-                    lng: 0
-                }
-            });
-
-                }, 0);
-
-
-            /*$.post('/api/jobs-vs-locations-stat', '', function(response){
+            $.post('/api/jobs-vs-locations-stat', '', function(response){
                 var locations = response.data;
 
                 setTimeout(function(){
+                    var map = new google.maps.Map(cardMap, {
+                        zoom: 1,
+                        center: {
+                            lat: 0,
+                            lng: 0
+                        }
+                    });
+
                     _.each(locations, function(location){
                         new google.maps.Marker({
                           position: {
@@ -44,11 +40,11 @@ define(['lib/jquery',
                               lng: location.longitude
                           },
                           map: map,
-                          title: location.location || 'Location not found'
+                          title: location.name || 'Location not found'
                         });
                     });
                 }, 0);
-            });*/
+            });
         }
 
     });

@@ -6,6 +6,7 @@ from comment import Comment
 from applicant import Applicant
 from rating import AggregateRating
 from keyword import Keyword
+from location import Location
 
 import program as Program
 import term as Term
@@ -39,7 +40,7 @@ class Job(Document):
     term = StringField(choices=(Term.FALL_TERM, Term.WINTER_TERM, Term.SPRING_TERM))
 
     # Job location. Latest entry is most probable job location
-    location = ListField(StringField(required=True))
+    location = EmbeddedDocumentListField(Location, default=[])
 
     # Number of job openings
     openings = IntField(required=True, min_value=1)

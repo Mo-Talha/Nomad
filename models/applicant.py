@@ -10,10 +10,3 @@ class Applicant(EmbeddedDocument):
 
     # Date applicants was recorded
     date = DateTimeField(required=True, default=datetime.now())
-
-    def to_dict(self):
-        return {
-            'id': self._id,
-            'applicants': self.applicants,
-            'date': self.date
-        }
