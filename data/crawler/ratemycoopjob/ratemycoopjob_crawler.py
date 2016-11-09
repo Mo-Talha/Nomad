@@ -24,7 +24,7 @@ class RateMyCoopJobCrawler(crawler.Crawler):
     def crawl(self):
         self.logger.info(self.config.name, 'Loaded job search page')
 
-        total_results = int(self._wait_till_find_element_by(By.ID, 'all_jobs_info').text.split()[5])
+        total_results = int(self.wait_till_find_element_by(By.ID, 'all_jobs_info').text.split()[5])
 
         self.logger.info(self.config.name, '{} results found'.format(total_results))
 
@@ -44,7 +44,7 @@ class RateMyCoopJobCrawler(crawler.Crawler):
                 total_results += 1
                 continue
 
-            page_title = self._wait_till_find_element_by(By.CLASS_NAME, 'job_title').text
+            page_title = self.wait_till_find_element_by(By.CLASS_NAME, 'job_title').text
             page_title = re.compile('\s+at\s+').split(page_title)
 
             employer_name = page_title[1].strip()
@@ -56,7 +56,7 @@ class RateMyCoopJobCrawler(crawler.Crawler):
 
             if not self.redis.exists(job_key):
 
-                rating_list = self._wait_till_find_element_by(By.ID, 'job_rating_list')\
+                rating_list = self.wait_till_find_element_by(By.ID, 'job_rating_list')\
                     .find_elements_by_xpath("//div[@class='job_rating_box']")
 
                 comments = []

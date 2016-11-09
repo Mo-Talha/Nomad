@@ -25,9 +25,9 @@ class JobmineCrawler(crawler.Crawler):
 
         self.logger.info(self.config.name, 'Loaded {} homepage'.format(config.name))
 
-        self._wait_till_find_element_by(By.ID, 'userid').send_keys(config.username)
+        self.wait_till_find_element_by(By.ID, 'userid').send_keys(config.username)
 
-        pass_ele = self._wait_till_find_element_by(By.ID, 'pwd')
+        pass_ele = self.wait_till_find_element_by(By.ID, 'pwd')
         pass_ele.send_keys(config.password)
         pass_ele.send_keys(Keys.ENTER)
 
@@ -35,11 +35,10 @@ class JobmineCrawler(crawler.Crawler):
         self.wait()
 
         try:
-            job_search_ele_xpath = "(//li[@id='crefli_UW_CO_JOBSRCH_LINK']/a[1])[2]"
+            job_search_ele_xpath = "(//li[@id='crefli_UW_CO_JOBSRCH_LINK']//a[1])[2]"
 
             self.logger.info(self.config.name, 'Loaded menu')
 
-            # Wait for 10 seconds job search element to appear
             WebDriverWait(self.driver, 10).until(
                 EC.presence_of_element_located((By.XPATH, job_search_ele_xpath))
             )
@@ -55,9 +54,9 @@ class JobmineCrawler(crawler.Crawler):
 
         self._set_search_params()
 
-        coop_discipline_menu_1 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
-        coop_discipline_menu_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
-        coop_discipline_menu_3 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
+        coop_discipline_menu_1 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
+        coop_discipline_menu_2 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
+        coop_discipline_menu_3 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
 
         all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')[1:]
 
@@ -71,9 +70,9 @@ class JobmineCrawler(crawler.Crawler):
 
             # Each time we iterate through we click and/or interact with the DOM thus changing it. This
             # means that our old references to elements are stale and need to be reloaded
-            coop_discipline_menu_1 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
-            coop_discipline_menu_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
-            coop_discipline_menu_3 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
+            coop_discipline_menu_1 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
+            coop_discipline_menu_2 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
+            coop_discipline_menu_3 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
 
             all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')[1:]
 
@@ -111,7 +110,7 @@ class JobmineCrawler(crawler.Crawler):
 
             discipline_index += 3
 
-            search_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCHDW_UW_CO_DW_SRCHBTN')
+            search_ele = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCHDW_UW_CO_DW_SRCHBTN')
 
             self.logger.info(self.config.name, 'Initiating search..')
 
@@ -136,20 +135,20 @@ class JobmineCrawler(crawler.Crawler):
                 if total_results <= 1:
                     continue
 
-                employer_name = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBRES_VW_UW_CO_PARENT_NAME${}'
-                                                                .format(job_index)).text.encode('ascii', 'ignore')
+                employer_name = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBRES_VW_UW_CO_PARENT_NAME${}'
+                                                               .format(job_index)).text.encode('ascii', 'ignore')
 
-                job_title = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBTITLE_HL${}'
-                                                            .format(job_index)).text.encode('ascii', 'ignore')
+                job_title = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBTITLE_HL${}'
+                                                           .format(job_index)).text.encode('ascii', 'ignore')
 
-                location = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBRES_VW_UW_CO_WORK_LOCATN${}'
-                                                           .format(job_index)).text
+                location = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBRES_VW_UW_CO_WORK_LOCATN${}'
+                                                          .format(job_index)).text
 
-                openings = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBRES_VW_UW_CO_OPENGS${}'
-                                                           .format(job_index)).text
+                openings = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBRES_VW_UW_CO_OPENGS${}'
+                                                          .format(job_index)).text
 
-                applicants = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBAPP_CT_UW_CO_MAX_RESUMES${}'
-                                                             .format(job_index)).text
+                applicants = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBAPP_CT_UW_CO_MAX_RESUMES${}'
+                                                            .format(job_index)).text
 
                 # Redis job key for jobmine crawler
                 job_key = 'jobmine.{}.{}'.format(employer_name, job_title).replace(' ', '.')
@@ -164,20 +163,20 @@ class JobmineCrawler(crawler.Crawler):
                     # Switch to new window
                     self.driver.switch_to.window(self.driver.window_handles[1])
 
-                    self._switch_to_iframe('ptifrmtgtframe')
+                    self.switch_to_iframe_by_id('ptifrmtgtframe')
 
-                    summary = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
+                    summary = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
 
-                    programs = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR')\
+                    programs = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR')\
                         .text.strip(',')
-                    programs_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100')\
+                    programs_2 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100')\
                         .text.strip(',')
 
                     # If 2nd programs line exists
                     if not programs_2.isspace():
                         programs += ',' + programs_2
 
-                    job_levels = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR_100').text
+                    job_levels = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR_100').text
 
                     job_url = self.driver.current_url
 
@@ -189,7 +188,7 @@ class JobmineCrawler(crawler.Crawler):
                     # Switch back to job search page
                     self.driver.switch_to.window(self.driver.window_handles[0])
 
-                    self._switch_to_iframe('ptifrmtgtframe')
+                    self.switch_to_iframe_by_id('ptifrmtgtframe')
 
                     now = datetime.now()
 
@@ -215,7 +214,7 @@ class JobmineCrawler(crawler.Crawler):
 
                     job_index = 0
 
-                    next_page = self._wait_till_find_element_by(By.NAME, 'UW_CO_JOBRES_VW$hdown$img$0')
+                    next_page = self.wait_till_find_element_by(By.NAME, 'UW_CO_JOBRES_VW$hdown$img$0')
                     next_page.click()
 
                     self._wait_for_job_results()
@@ -228,28 +227,28 @@ class JobmineCrawler(crawler.Crawler):
         for job in Job.get_active_job_urls():
             self.driver.get(job['url'])
 
-            employer_name = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_EMPUNITDIV').text\
+            employer_name = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_EMPUNITDIV').text\
                 .encode('ascii', 'ignore')
 
-            job_title = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_TITLE').text\
+            job_title = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_TITLE').text\
                 .encode('ascii', 'ignore')
 
             job_key = 'jobmine.{}.{}'.format(employer_name, job_title).replace(' ', '.')
 
             if not self.redis.exists(job_key):
-                location = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_WORK_LOCATN').text
+                location = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_WORK_LOCATN').text
 
-                openings = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_AVAIL_OPENGS').text
+                openings = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_AVAIL_OPENGS').text
 
-                summary = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
+                summary = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
 
-                programs = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR').text.strip(',')
-                programs_2 = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100').text.strip(',')
+                programs = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR').text.strip(',')
+                programs_2 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100').text.strip(',')
 
                 if not programs_2.isspace():
                     programs += ',' + programs_2
 
-                levels = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR_100').text
+                levels = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR_100').text
 
                 importer.update_job(id=job['id'], location=location, levels=levels, openings=openings, summary=summary,
                                     programs=programs)
@@ -267,19 +266,19 @@ class JobmineCrawler(crawler.Crawler):
         try:
             self.logger.info(self.config.name, 'Setting job search parameters')
 
-            self._switch_to_iframe('ptifrmtgtframe')
+            self.switch_to_iframe_by_id('ptifrmtgtframe')
 
-            self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_COOP_JR')
+            self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_COOP_JR')
 
         except TimeoutException:
             self.logger.error('Job search page did not not load.')
             raise TimeoutException('Job search page did not not load')
 
         else:
-            coop_junior_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_COOP_JR')
-            coop_interm_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_COOP_INT')
-            coop_senior_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_COOP_SR')
-            coop_type_ele = self._wait_till_find_element_by(By.ID, 'TYPE_COOP')
+            coop_junior_ele = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_COOP_JR')
+            coop_interm_ele = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_COOP_INT')
+            coop_senior_ele = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_COOP_SR')
+            coop_type_ele = self.wait_till_find_element_by(By.ID, 'TYPE_COOP')
 
             if not coop_junior_ele.is_selected():
                 coop_junior_ele.click()
@@ -293,10 +292,10 @@ class JobmineCrawler(crawler.Crawler):
             if not coop_type_ele.is_selected():
                 coop_type_ele.click()
 
-            coop_job_status_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_JS_JOBSTATUS')
+            coop_job_status_ele = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_JS_JOBSTATUS')
 
             for option in coop_job_status_ele.find_elements_by_tag_name('option'):
-                if option.text == 'Apps Avail': #TODO: change to Posted
+                if option.text == 'Posted':
                     option.click()
                     break
 
@@ -312,18 +311,18 @@ class JobmineCrawler(crawler.Crawler):
             elif 9 <= now.month <= 12:
                 coop_term += 2
 
-            coop_term_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_WT_SESSION')
+            coop_term_ele = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_WT_SESSION')
             coop_term_ele.clear()
 
             coop_term_ele.send_keys(coop_term)
 
-            employer_name_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_EMPLYR_NAME')
+            employer_name_ele = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_EMPLYR_NAME')
             employer_name_ele.clear()
 
-            job_title_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_JOB_TITLE')
+            job_title_ele = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_JOB_TITLE')
             job_title_ele.clear()
 
-            location_ele = self._wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_LOCATION')
+            location_ele = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_LOCATION')
             location_ele.clear()
 
     def _wait_for_job_results(self, wait=15):

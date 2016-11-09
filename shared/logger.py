@@ -13,20 +13,13 @@ logger.setLevel(logging.INFO)
 console = logging.StreamHandler()
 logger.addHandler(console)
 
-logging.basicConfig(format='%(asctime)s %(message)s',
-                    datefmt='%m/%d/%Y %I:%M:%S %p', filename=log_name)
+logging.basicConfig(format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p', filename=log_name)
 
 
 def info(component, message):
-    if component:
-        logger.info('[{}] {}'.format(component, message))
-    else:
-        logger.info(message)
+    logger.info('[{}] {}'.format(component, message))
 
 
 def error(component, message):
-    if component:
-        logger.error('[{}] {}'.format(component, message))
-    else:
-        logger.error(message)
+    logger.error('[{}] {}'.format(component, message))
 

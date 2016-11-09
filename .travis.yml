@@ -1,0 +1,13 @@
+sudo: required
+
+language: python
+
+python:
+  - "2.7"
+
+install:
+  - sudo make install
+  - make devel
+
+script:
+  - py.test -v --color=yes --exitfirst --showlocals --durations=5

@@ -1,10 +1,9 @@
 import os
 import traceback
 import time
+import redis
 
 from datetime import datetime
-
-import redis
 
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
@@ -56,7 +55,7 @@ class Crawler:
         self.logger.info(self.config.name, 'Waiting {} seconds'.format(self.config.crawler_interval))
         time.sleep(self.config.crawler_interval)
 
-    def _wait_till_find_element_by(self, by, element_id, wait=10):
+    def wait_till_find_element_by(self, by, element_id, wait=10):
         try:
             WebDriverWait(self.driver, wait).until(
                 EC.presence_of_element_located((by, element_id))
@@ -68,18 +67,18 @@ class Crawler:
             self.logger.error(self.config.name, 'Could not find element: ' + element_id)
             raise TimeoutException('Could not find element: ' + element_id)
 
-    def _switch_to_iframe(self, iframe_name, wait=10):
+    def switch_to_iframe_by_id(self, iframe_id, wait=10):
         try:
             # Wait for iFrame to load (Sometimes an issue in PhantomJS)
             WebDriverWait(self.driver, wait).until(
-                EC.presence_of_element_located((By.ID, iframe_name))
+                EC.presence_of_element_located((By.ID, iframe_id))
             )
 
-            self.driver.switch_to.frame(self.driver.find_element_by_id(iframe_name))
+            self.driver.switch_to.frame(self.driver.find_element_by_id(iframe_id))
 
         except TimeoutException:
-            self.logger.error(self.config.name, 'Could not find iFrame: ' + iframe_name)
-            raise TimeoutException('Could not find iFrame: ' + iframe_name)
+            self.logger.error(self.config.name, 'Could not find iFrame: ' + iframe_id)
+            raise TimeoutException('Could not find iFrame: ' + iframe_id)
 
-    def take_screen_shot(self, pic_name='screenshot'):
-        self.driver.save_screenshot('{}/{}.png'.format(self._base_path, pic_name))
+    def take_screen_shot(self, screenshot_name='screenshot'):
+        self.driver.save_screenshot('{}/{}.png'.format(self._base_path, screenshot_name))
