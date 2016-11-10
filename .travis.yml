@@ -6,8 +6,7 @@ python:
   - "2.7"
 
 install:
-  - sudo make install
-  - make devel
+  - pip install -r requirements.txt
 
 script:
-  - py.test -v --color=yes --exitfirst --showlocals --durations=5
+  - python -m unittest discover --pattern=*test.py
