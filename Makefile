@@ -24,6 +24,9 @@ prod:
 
 	@echo "Done"
 
+run_tests:
+	PYTHONPATH=$(PYTHONPATH):. python -m unittest discover --pattern=*test.py -v
+
 clean:
 	find . -name '*.pyc' -delete
 	find . -name 'ghostdriver.log' -delete

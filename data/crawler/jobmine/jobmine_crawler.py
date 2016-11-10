@@ -25,7 +25,8 @@ class JobmineCrawler(crawler.Crawler):
 
         self.logger.info(self.config.name, 'Loaded {} homepage'.format(config.name))
 
-        self.wait_till_find_element_by(By.ID, 'userid').send_keys(config.username)
+        user_ele = self.wait_till_find_element_by(By.ID, 'userid')
+        user_ele.send_keys(config.username)
 
         pass_ele = self.wait_till_find_element_by(By.ID, 'pwd')
         pass_ele.send_keys(config.password)
@@ -55,8 +56,6 @@ class JobmineCrawler(crawler.Crawler):
         self._set_search_params()
 
         coop_discipline_menu_1 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
-        coop_discipline_menu_2 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP2')
-        coop_discipline_menu_3 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP3')
 
         all_disciplines = coop_discipline_menu_1.find_elements_by_tag_name('option')[1:]
 
@@ -168,13 +167,15 @@ class JobmineCrawler(crawler.Crawler):
                     summary = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
 
                     programs = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR')\
-                        .text.strip(',')
+                        .text.strip().strip(',')
                     programs_2 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100')\
-                        .text.strip(',')
+                        .text.strip().strip(',')
 
                     # If 2nd programs line exists
                     if not programs_2.isspace():
                         programs += ',' + programs_2
+
+                    programs = programs.split(',')
 
                     job_levels = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR_100').text
 
@@ -192,10 +193,9 @@ class JobmineCrawler(crawler.Crawler):
 
                     now = datetime.now()
 
-                    importer.import_job(employer_name=employer_name, job_title=job_title,
-                                        term=Term.get_term(now.month), location=location, levels=job_levels,
-                                        openings=openings, applicants=applicants, summary=summary, date=now,
-                                        programs=programs, url=job_url)
+                    importer.import_job(employer_name=employer_name, job_title=job_title, term=Term.get_term(now.month),
+                                        location=location, levels=job_levels, openings=openings, applicants=applicants,
+                                        summary=summary, date=now, programs=programs, url=job_url)
 
                     self.redis.set(job_key, 1)
                     self.redis.expire(job_key, self.config.cache_interval)

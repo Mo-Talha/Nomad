@@ -17,21 +17,21 @@ import models.term as Term
 import shared.jobmine as config
 
 
-class JobmineSite(unittest.TestCase):
+class JobmineCrawler(unittest.TestCase):
 
     def setUp(self):
-        self.driver = webdriver.PhantomJS(service_args=['--web-security=no', '--webdriver-loglevel=NONE'])
+        self.driver = webdriver.PhantomJS(service_log_path=os.path.devnull, service_args=['--web-security=no'])
         self.driver.get(config.url)
 
         user_ele = self.wait_till_find_element_by(By.ID, 'userid')
         self.assertEquals(user_ele.tag_name, u'input')
 
-        user_ele.send_keys(os.environ['JOBMINE_USER'] or config.username)
+        user_ele.send_keys(os.getenv('JOBMINE_USER', None) or config.username)
 
         pass_ele = self.wait_till_find_element_by(By.ID, 'pwd')
         self.assertEquals(pass_ele.tag_name, u'input')
 
-        pass_ele.send_keys(os.environ['JOBMINE_PASSWORD'] or config.password)
+        pass_ele.send_keys(os.getenv('JOBMINE_PASSWORD', None) or config.password)
         pass_ele.send_keys(Keys.ENTER)
 
         self.wait()
@@ -132,6 +132,9 @@ class JobmineSite(unittest.TestCase):
         search_ele = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCHDW_UW_CO_DW_SRCHBTN')
         self.assertEquals(search_ele.tag_name, u'input')
         self.assertIn(u'Search', search_ele.get_attribute('value'))
+
+        next_page_ele = self.wait_till_find_element_by(By.NAME, 'UW_CO_JOBRES_VW$hdown$img$0')
+        self.assertEquals(next_page_ele.tag_name, u'img')
 
         coop_discipline_menu_1 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBSRCH_UW_CO_ADV_DISCP1')
         self.assertEquals(coop_discipline_menu_1.tag_name, u'select')
