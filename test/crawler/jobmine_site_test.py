@@ -1,3 +1,4 @@
+import os
 import time
 import unittest
 
@@ -25,12 +26,12 @@ class JobmineSite(unittest.TestCase):
         user_ele = self.wait_till_find_element_by(By.ID, 'userid')
         self.assertEquals(user_ele.tag_name, u'input')
 
-        user_ele.send_keys(config.username)
+        user_ele.send_keys(os.environ['JOBMINE_USER'] or config.username)
 
         pass_ele = self.wait_till_find_element_by(By.ID, 'pwd')
         self.assertEquals(pass_ele.tag_name, u'input')
 
-        pass_ele.send_keys(config.password)
+        pass_ele.send_keys(os.environ['JOBMINE_PASSWORD'] or config.password)
         pass_ele.send_keys(Keys.ENTER)
 
         self.wait()
