@@ -637,8 +637,8 @@ class JobmineImporterTest(unittest.TestCase):
 
         importer.import_job(employer_name=employer_name, job_title=job_title, term=term_update,
                             location=location_update, levels=job_levels_update, openings=openings_update,
-                            remaining=remaining_update, applicants=applicants_update, summary=summary_update, date=now_update,
-                            programs=programs_update, url=job_url_update)
+                            remaining=remaining_update, applicants=applicants_update, summary=summary_update,
+                            date=now_update, programs=programs_update, url=job_url_update)
 
         location_update = location_update.lower()
 
