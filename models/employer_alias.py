@@ -2,5 +2,5 @@
 
 aliases = {
     'desire2learn': 'd2l',
-    'research in motion': 'BlackBerry'
+    'research in motion': 'blackberry'
 }

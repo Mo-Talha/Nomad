@@ -24,7 +24,7 @@ prod:
 
 	@echo "Done"
 
-run_tests:
+run_tests: virtualenv
 	PYTHONPATH=$(PYTHONPATH):. python -m unittest discover --pattern=*test.py -v
 
 clean:
@@ -62,7 +62,7 @@ install_nltk_data: virtualenv
 	@echo "*** Installing NLTK data. ***"
 	@echo
 
-	sudo python -m nltk.downloader -d /usr/local/share/nltk_data all
+	sudo python -m nltk.downloader -d /usr/local/share/nltk_data conll2000 conll2002 maxent_ne_chunker punkt averaged_perceptron_tagger
 
 	@echo "Done"
 
@@ -79,11 +79,7 @@ train_compsci: virtualenv
 train: clean_chunker train_compsci
 
 virtualenv:
-	@if [[ "${VIRTUAL_ENV}" = "${HOME}/.virtualenv/Nomad" ]]; then
-		true;
-	else
-		source ~/.virtualenv/Nomad/bin/activate
-	fi
+	source ~/.virtualenv/Nomad/bin/activate
 
 export_data:
 	mongodump --db nomad

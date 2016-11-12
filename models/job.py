@@ -5,7 +5,7 @@ from datetime import datetime
 from comment import Comment
 from applicant import Applicant
 from rating import AggregateRating
-from keyword import Keyword
+from job_keyword import Keyword
 from location import Location
 
 import program as Program
@@ -89,23 +89,4 @@ class Job(Document):
         return {
             'id': self.id,
             'url': self.url,
-        }
-
-    def to_dict(self):
-        return {
-            'id': self.id,
-            'title': self.title,
-            'url': self.url,
-            'summary': self.summary,
-            'year': self.year,
-            'term': self.term,
-            'location': self.location,
-            'openings': self.openings,
-            'remaining': self.remaining,
-            'hire_rate': self.hire_rate.rating,
-            'applicants': [self.applicants.to_dict()],
-            'programs': self.programs,
-            'levels': self.levels,
-            'comments': [self.comments.to_dict()],
-            'deprecated': self.deprecated,
         }

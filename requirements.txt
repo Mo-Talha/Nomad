@@ -9,3 +9,4 @@ Flask==0.11.1
 newrelic==2.70.0.51
 uWSGI==2.0.14
 virtualenv==15.0.3
+geopy==1.11.0

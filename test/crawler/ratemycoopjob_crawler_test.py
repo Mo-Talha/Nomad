@@ -12,7 +12,7 @@ from selenium.common.exceptions import TimeoutException
 import shared.ratemycoopjob as config
 
 
-class RateMyCoopJobCrawler(unittest.TestCase):
+class RateMyCoopJobCrawlerTest(unittest.TestCase):
 
     def setUp(self):
         self.driver = webdriver.PhantomJS(service_log_path=os.path.devnull, service_args=['--web-security=no'])
@@ -22,7 +22,7 @@ class RateMyCoopJobCrawler(unittest.TestCase):
     def tearDown(self):
         self.driver.close()
 
-    def test_elements_exists(self):
+    def test_elements_exist(self):
         all_jobs_ele = self.wait_till_find_element_by(By.ID, 'all_jobs_info')
         self.assertEqual(all_jobs_ele.tag_name, u'div')
 

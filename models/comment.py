@@ -1,6 +1,6 @@
-from mongoengine import *
-
 from datetime import datetime
+
+from mongoengine import *
 
 from rating import AggregateRating
 

@@ -1,6 +1,6 @@
 import re
 
-import models.keyword_type as keyword_type
+import models.job_keyword_type as keyword_type
 
 
 keywords = {

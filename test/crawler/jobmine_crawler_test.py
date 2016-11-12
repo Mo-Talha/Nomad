@@ -17,7 +17,7 @@ import models.term as Term
 import shared.jobmine as config
 
 
-class JobmineCrawler(unittest.TestCase):
+class JobmineCrawlerTest(unittest.TestCase):
 
     def setUp(self):
         self.driver = webdriver.PhantomJS(service_log_path=os.path.devnull, service_args=['--web-security=no'])
@@ -39,7 +39,7 @@ class JobmineCrawler(unittest.TestCase):
     def tearDown(self):
         self.driver.close()
 
-    def test_elements_exists(self):
+    def test_elements_exist(self):
         job_inquiry_ele = self.wait_till_find_element_by(By.XPATH, "(//li[@id='crefli_UW_CO_JOBSRCH_LINK']//a[1])[2]")
 
         self.assertEquals(job_inquiry_ele.tag_name, u'a')

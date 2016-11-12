@@ -1,7 +1,3 @@
-"""
-This module is used to determine and/or manage UW co-op terms.
-"""
-
 FALL_TERM = 'Fall'
 WINTER_TERM = 'Winter'
 SPRING_TERM = 'Spring'
@@ -39,3 +35,10 @@ def get_term(month):
         term = FALL_TERM
 
     return term
+
+
+def get_level(level):
+    levels = [JUNIOR_TERM, INTERMEDIATE_TERM, SENIOR_TERM]
+    for index, l in enumerate([l.lower() for l in levels]):
+        if level.lower() == l:
+            return levels[index]

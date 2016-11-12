@@ -167,17 +167,20 @@ class JobmineCrawler(crawler.Crawler):
                     summary = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
 
                     programs = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR')\
-                        .text.strip().strip(',')
+                        .text.strip().strip(',').strip()
                     programs_2 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100')\
-                        .text.strip().strip(',')
+                        .text.strip().strip(',').strip()
 
                     # If 2nd programs line exists
-                    if not programs_2.isspace():
+                    if programs_2:
                         programs += ',' + programs_2
 
-                    programs = programs.split(',')
+                    programs = programs.strip().split(',')
+                    programs = map(lambda p: p.strip(), programs)
 
                     job_levels = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR_100').text
+                    job_levels = job_levels.strip(',').strip().split(',')
+                    job_levels = map(lambda l: l.strip(), job_levels)
 
                     job_url = self.driver.current_url
 
@@ -242,13 +245,20 @@ class JobmineCrawler(crawler.Crawler):
 
                 summary = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
 
-                programs = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR').text.strip(',')
-                programs_2 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100').text.strip(',')
+                programs = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR')\
+                    .text.strip().strip(',').strip()
+                programs_2 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100')\
+                    .text.strip().strip(',').strip()
 
                 if not programs_2.isspace():
                     programs += ',' + programs_2
 
+                programs = programs.split(',')
+                programs = map(lambda p: p.strip(), programs)
+
                 levels = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR_100').text
+                levels = levels.strip(',').strip().split(',')
+                levels = map(lambda l: l.strip(), levels)
 
                 importer.update_job(id=job['id'], location=location, levels=levels, openings=openings, summary=summary,
                                     programs=programs)

@@ -7,8 +7,10 @@ from models.exceptions import DataIntegrityError
 from models.employer import Employer
 from models.job import Job
 from models.applicant import Applicant
+from models.location import Location
 from models.comment import Comment
-from models.keyword import Keyword
+from models.job_keyword import Keyword
+import models.term as Term
 import models.program as Program
 import models.employer_alias as employer_alias
 
@@ -33,22 +35,35 @@ def import_job(**kwargs):
     applicants -- Number of applicants job has (Optional)
     levels -- Levels job is intended for [Junior, Intermediate, Senior]
     programs -- Programs the job is specified for
-    url -- URL of job in Jobmine (Optional)
+    url -- URL of job in Jobmine
     date -- Date job was crawled (useful for knowing exactly # of applicants at what time)
     """
 
-    employer_name = kwargs['employer_name'].encode('ascii', 'ignore').lower()
+    employer_name = kwargs['employer_name'].lower()
 
-    job_title = kwargs['job_title'].encode('ascii', 'ignore').lower()
+    job_title = kwargs['job_title'].lower()
 
-    term = int(kwargs['term'])
+    term = kwargs['term']
 
-    levels = [level.encode('ascii', 'ignore').strip() for level in kwargs['levels'].split(',')]
+    levels = []
 
-    programs = [Program.get_program(program.encode('ascii', 'ignore').strip())
-                for program in kwargs['programs'].split(',')]
+    for level in kwargs['levels']:
+        uw_level = Term.get_level(level)
+        if uw_level:
+            levels.append(uw_level)
+        else:
+            logger.error(COMPONENT, 'Error processing level: {}'.format(level))
 
-    location = kwargs['location'].encode('ascii', 'ignore').lower()
+    programs = []
+
+    for program in kwargs['programs']:
+        uw_program = Program.get_program(program)
+        if uw_program:
+            programs.append(uw_program)
+        else:
+            logger.error(COMPONENT, 'Error processing program: {}'.format(program))
+
+    location = kwargs['location'].lower()
 
     openings = int(kwargs['openings'])
 
@@ -59,18 +74,15 @@ def import_job(**kwargs):
     summary_keywords = engine.get_keywords(filtered_summary, programs)
 
     date = kwargs['date']
+
     year = date.year
+
+    url = kwargs['url']
 
     applicants = 0
 
-    if 'applicants' in kwargs and (isinstance(kwargs['applicants'], str) or
-                                   isinstance(kwargs['applicants'], unicode) and kwargs['applicants'].strip()):
+    if kwargs['applicants']:
         applicants = int(kwargs['applicants'])
-
-    url = None
-
-    if 'url' in kwargs:
-        url = kwargs['url']
 
     logger.info(COMPONENT, 'Importing job: {} from {}'.format(job_title, employer_name))
 
@@ -80,7 +92,9 @@ def import_job(**kwargs):
 
         employer = Employer(name=employer_name)
 
-        logger.info(COMPONENT, 'Creating job: {}..'.format(job_title))
+        logger.info(COMPONENT, 'Creating job: {}'.format(job_title))
+
+        location = Location(name=location)
 
         applicant = Applicant(applicants=applicants, date=date)
 
@@ -105,7 +119,9 @@ def import_job(**kwargs):
 
         # If job does not exist, create it
         if not employer.job_exists(job_title):
-            logger.info(COMPONENT, 'Creating job: {}..'.format(job_title))
+            logger.info(COMPONENT, 'Creating job: {}'.format(job_title))
+
+            location = Location(name=location)
 
             applicant = Applicant(applicants=applicants, date=date)
 
@@ -131,13 +147,18 @@ def import_job(**kwargs):
                 raise DataIntegrityError('Job: {} by {} cannot be advertised before {}'
                                          .format(job_title, employer_name, job.year))
 
+            filtered_summary_compare = re.sub(r'\W+', '', filtered_summary.lower().strip()).strip()
+            job_summary_compare = re.sub(r'\W+', '', job.summary.lower().strip()).strip()
+
             # Job summary is not the same. In this case the employer most likely changed the job
-            if not filtered_summary == job.summary:
+            if not filtered_summary_compare == job_summary_compare:
                 logger.info(COMPONENT, 'Job: {}: different summary detected, deprecating and creating new job..'
                             .format(job_title))
 
                 job.update(set__deprecated=True)
-                
+
+                location = Location(name=location)
+
                 applicant = Applicant(applicants=applicants, date=date)
 
                 keywords = [Keyword(keyword=k['keyword'], types=k['types']) for k in summary_keywords]
@@ -162,6 +183,8 @@ def import_job(**kwargs):
                     
                     job.hire_rate.add_rating(hire_ratio)
 
+                    location = Location(name=location)
+
                     applicant = Applicant(applicants=applicants, date=date)
                     
                     job.update(set__year=year, set__term=term, add_to_set__location=location, set__openings=openings,
@@ -177,6 +200,8 @@ def import_job(**kwargs):
                     # Job posting has decreased, some positions filled up
                     if openings < job.openings:
                         remaining = openings
+
+                    location = Location(name=location)
 
                     applicant = Applicant(applicants=applicants, date=date)
 
@@ -199,12 +224,18 @@ def update_job(**kwargs):
 
     summary = kwargs['summary']
 
-    location = kwargs['location'].encode('ascii', 'ignore').lower()
+    location = kwargs['location'].lower()
 
-    programs = [Program.get_program(program.encode('ascii', 'ignore').strip())
-                for program in kwargs['programs'].split(',')]
+    levels = kwargs['levels']
 
-    levels = [level.encode('ascii', 'ignore').strip() for level in kwargs['levels'].split(',')]
+    programs = []
+
+    for program in kwargs['programs']:
+        uw_program = Program.get_program(program)
+        if uw_program:
+            programs.append(uw_program)
+        else:
+            logger.error(COMPONENT, 'Error processing program: {}'.format(program))
 
     openings = int(kwargs['openings'])
 
@@ -220,14 +251,19 @@ def update_job(**kwargs):
 
     summary_keywords = engine.get_keywords(filtered_summary, programs)
 
+    filtered_summary_compare = re.sub(r'\W+', '', filtered_summary.lower().strip()).strip()
+    job_summary_compare = re.sub(r'\W+', '', job.summary.lower().strip()).strip()
+
     # Job summary is not the same. In this case the employer most likely changed the job
-    if not filtered_summary == job.summary:
+    if not filtered_summary_compare == job_summary_compare:
         logger.info(COMPONENT, 'Job: {}: different summary detected, deprecating and creating new job..'
                     .format(kwargs['id']))
 
         employer = Employer.objects(jobs=kwargs['id']).first()
 
         job.update(set__deprecated=True)
+
+        location = Location(name=location)
 
         keywords = [Keyword(keyword=k['keyword'], types=k['types']) for k in summary_keywords]
 
@@ -242,6 +278,8 @@ def update_job(**kwargs):
 
     else:
         logger.info(COMPONENT, 'Job: {}: updating for current term'.format(kwargs['id']))
+
+        location = Location(name=location)
 
         job.update(add_to_set__location=location, set__remaining=remaining,
                    set__levels=list(set(levels + job.levels)),

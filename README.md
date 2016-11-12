@@ -16,3 +16,36 @@ Jobmine statistics on employers and employees.
 - Comment section crawled from ratemycoopjob.com
 - Google maps location of most probable location (for employer)
 - Allow user to input jobs that they are interested in (either by job title, keywords etc.) and mail them jobs they might be interested in
+
+To convert to new location settings
+db.getCollection('job').find().forEach(function(doc){
+    userLocationsList = doc.location;
+    locations = [];
+    userLocationsList.forEach(function(loc){
+        locations.push({
+                'name': loc,
+                'longitude': 0.0,
+                'latitude': 0.0
+        });
+    });
+    doc.location = locations;
+    db.getCollection('job').save(doc);
+});
+
+
+import mongoengine
+import time
+from models.job import Job
+from models.location import Location
+
+import shared.secrets as secrets
+
+if __name__ == "__main__":
+    mongoengine.connect(secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT)
+
+    for job in Job.objects:
+        for l in job.location:
+            location = Location(name=l.name)
+
+            job.update(location=l.name, longitude=location.longitude, latitude=location.latitude)
+            time.sleep(5)
