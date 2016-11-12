@@ -12,5 +12,5 @@ install:
   - pip install -r requirements.txt
 
 script:
-  - python -m nltk.downloader -d /usr/local/share/nltk_data conll2000 conll2002 maxent_ne_chunker punkt averaged_perceptron_tagger
+  - sudo python -m nltk.downloader -d /usr/local/share/nltk_data conll2000 conll2002 maxent_ne_chunker punkt averaged_perceptron_tagger
   - python -m unittest discover --pattern=*test.py -v
