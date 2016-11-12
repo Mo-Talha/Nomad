@@ -3,6 +3,7 @@ import redis
 from geopy.geocoders import Nominatim
 
 from mongoengine import *
+from mongoengine import connection
 
 import shared.secrets as secrets
 
@@ -15,7 +16,6 @@ redis = redis.Redis(connection_pool=pool)
 class Location(EmbeddedDocument):
 
     def __init__(self, *args, **kwargs):
-
         if 'longitude' not in kwargs and 'latitude' not in kwargs:
             cached_location = redis.hgetall('location:{}'.format(kwargs['name']))
 
@@ -23,16 +23,31 @@ class Location(EmbeddedDocument):
                 kwargs['longitude'] = cached_location['longitude']
                 kwargs['latitude'] = cached_location['latitude']
             else:
-                location = geolocator.geocode(kwargs['name'], timeout=10)
+                db = connection._get_db(reconnect=False)
 
-                if location:
-                    redis.hmset('location:{}'.format(kwargs['name']), {
-                        'longitude': location.longitude,
-                        'latitude': location.latitude
-                    })
+                pipeline = {
+                    "location": {
+                        "$elemMatch": {"name": kwargs['name'], "longitude": {"$ne": 0.0}, "latitude": {"$ne": 0.0}}
+                    }
+                }
 
-                    kwargs['longitude'] = location.longitude
-                    kwargs['latitude'] = location.latitude
+                job_locations = db.job.find_one(pipeline, {"location": 1})
+
+                if job_locations:
+                    longitude = job_locations['location'][0]['longitude']
+                    latitude = job_locations['location'][0]['latitude']
+                else:
+                    location = geolocator.geocode(kwargs['name'], timeout=10)
+                    longitude = location.longitude
+                    latitude = location.latitude
+
+                redis.hmset('location:{}'.format(kwargs['name']), {
+                    'longitude': longitude,
+                    'latitude': latitude
+                })
+
+                kwargs['longitude'] = longitude
+                kwargs['latitude'] = latitude
 
         super(EmbeddedDocument, self).__init__(*args, **kwargs)
 
