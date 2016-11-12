@@ -1,18 +1,22 @@
 import unittest
 import time
 import mongoengine
+import redis
 
 from datetime import datetime
 
 import data.analysis.importer as importer
-import test.analysis.importer_datamanager as datamanager
+import tests.analysis.importer_datamanager as datamanager
 
+from models.exceptions import DataIntegrityError
 from models.employer import Employer
 from models.job import Job
 import models.term as Term
 
 import shared.secrets as secrets
 
+
+redis = redis.StrictRedis(host=secrets.REDIS_HOST, port=secrets.REDIS_PORT, db=secrets.REDIS_DB)
 mongoengine.connect(secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT)
 
 
@@ -332,6 +336,64 @@ class JobmineImporterTest(unittest.TestCase):
 
         job_1.delete()
         job_2.delete()
+        employer.delete()
+
+        time.sleep(2)
+
+    def test_employer_exists_job_exist_update_invalid_year_import(self):
+        employer_name = 'Test Employer 7'
+        job_title = 'Test Job Title 7'
+        now = datetime.now()
+        term = Term.get_term(now.month)
+        location = 'Waterloo'
+        job_levels = ['Junior']
+        openings = 4
+        applicants = 10
+        summary = datamanager.test_summary_medium
+        programs = ['ENG-Electrical', 'ENG-Computer', 'SCI-Psychology', 'MATH-Business Administration']
+        job_url = 'https://testurl.com'
+
+        importer.import_job(employer_name=employer_name, job_title=job_title, term=term,
+                            location=location, levels=job_levels, openings=openings, applicants=applicants,
+                            summary=summary, date=now, programs=programs, url=job_url)
+
+        employer_name = employer_name.lower()
+        job_title = job_title.lower()
+        location = location.lower()
+
+        employer = Employer.objects(name=employer_name).no_dereference().first()
+
+        job = Job.objects(id__in=[job.id for job in employer.jobs], title=job_title).first()
+
+        self.assertEqual(employer.name, employer_name)
+        self.assertEqual(employer.overall.rating, 0.0)
+        self.assertTrue(len(employer.warnings) == 0)
+        self.assertTrue(len(employer.comments) == 0)
+
+        self.assertEqual(job.title, job_title)
+        self.assertEqual(job.url, job_url)
+        self.assertEqual(job.term, term)
+        self.assertEqual(job.location[0].name, location)
+        self.assertTrue(int(round(job.location[0].longitude)) == -81)
+        self.assertTrue(int(round(job.location[0].latitude)) == 43)
+        self.assertEqual(job.openings, openings)
+        self.assertEqual(job.remaining, openings)
+        self.assertEqual(job.hire_rate.rating, 0.0)
+        self.assertEqual(job.applicants[0].applicants, applicants)
+        self.assertEqual(job.applicants[0].date.year, now.year)
+        self.assertEqual(job.applicants[0].date.month, now.month)
+        self.assertEqual(job.applicants[0].date.day, now.day)
+        self.assertEqual(set(job.levels), set(job_levels))
+        self.assertTrue(len(job.comments) == 0)
+        self.assertEqual(set(job.programs), set(programs))
+        self.assertFalse(job.deprecated)
+
+        now = datetime(2010, 1, 1)
+
+        self.assertRaises(DataIntegrityError, importer.import_job, employer_name=employer_name, job_title=job_title,
+                          term=term, location=location, levels=job_levels, openings=openings, applicants=applicants,
+                          summary=summary, date=now, programs=programs, url=job_url)
+        job.delete()
         employer.delete()
 
         time.sleep(2)

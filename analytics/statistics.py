@@ -1,7 +1,5 @@
 from mongoengine import connection
 
-import googlemaps
-
 from models.job import Job
 
 import shared.secrets as secrets

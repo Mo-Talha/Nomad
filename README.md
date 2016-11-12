@@ -49,3 +49,15 @@ if __name__ == "__main__":
 
             job.update(location=l.name, longitude=location.longitude, latitude=location.latitude)
             time.sleep(5)
+
+        db = connection._get_db(reconnect=False)
+
+        pipeline = [
+            {"location": {
+                "$in": [
+                    {"name": kwargs['name'], "longitude": {"$ne": 0.0}, "latitude": {"$ne": 0.0}}
+                ]}},
+            {"location": 1}
+        ]
+
+        job_locations = db.job.find_one(pipeline)

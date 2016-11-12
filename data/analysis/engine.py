@@ -3,9 +3,9 @@ import sys
 import re
 import cPickle as pickle
 
-import filters
+import data.analysis.filters as filters
 
-import chunker.chunk_tagger as chunk_tagger
+import data.analysis.chunker.chunk_tagger as chunk_tagger
 import data.analysis.corpus.computerscience.keywords as comp_sci_keywords
 
 sys.modules['chunker.chunk_tagger'] = chunk_tagger

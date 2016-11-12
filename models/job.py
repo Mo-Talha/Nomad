@@ -2,14 +2,14 @@ from mongoengine import *
 
 from datetime import datetime
 
-from comment import Comment
-from applicant import Applicant
-from rating import AggregateRating
-from job_keyword import Keyword
-from location import Location
+from models.comment import Comment
+from models.applicant import Applicant
+from models.rating import AggregateRating
+from models.job_keyword import Keyword
+from models.location import Location
 
-import program as Program
-import term as Term
+import models.program as Program
+import models.term as Term
 
 
 class Job(Document):

@@ -1,7 +1,3 @@
-"""
-This file is dedicated to removing redundant/useless information about job summaries.
-"""
-
 remove = [
     """
     IMPORTANT NOTE ABOUT EMPLOYMENT AUTHORIZATIONS:
