@@ -686,5 +686,114 @@ class JobmineImporterTest(unittest.TestCase):
 
         time.sleep(2)
 
+    def test_employer_exists_job_exist_update_current_term_import(self):
+        employer_name = 'Test Employer 11'
+        job_title = 'Test Job Title 11'
+        now = datetime.now()
+        term = Term.get_term(now.month)
+        location = 'Waterloo'
+        job_levels = ['Senior']
+        openings = 10
+        applicants = 1
+        summary = datamanager.test_summary_small
+        programs = ['ARCH-Architecture']
+        job_url = 'http://testurl.com'
+
+        importer.import_job(employer_name=employer_name, job_title=job_title, term=term,
+                            location=location, levels=job_levels, openings=openings,
+                            applicants=applicants, summary=summary, date=now, programs=programs, url=job_url)
+
+        employer_name = employer_name.lower()
+        job_title = job_title.lower()
+        location = location.lower()
+
+        employer = Employer.objects(name=employer_name).no_dereference().first()
+
+        job = Job.objects(id__in=[job.id for job in employer.jobs], title=job_title).first()
+
+        self.assertEqual(employer.name, employer_name)
+        self.assertEqual(employer.overall.rating, 0.0)
+        self.assertEqual(employer.overall.count, 0)
+        self.assertTrue(len(employer.warnings) == 0)
+        self.assertTrue(len(employer.comments) == 0)
+
+        self.assertEqual(job.title, job_title)
+        self.assertEqual(job.url, job_url)
+        self.assertEqual(job.term, term)
+        self.assertEqual(job.location[0].name, location)
+        self.assertTrue(int(round(job.location[0].longitude)) == -81)
+        self.assertTrue(int(round(job.location[0].latitude)) == 43)
+        self.assertEqual(job.openings, openings)
+        self.assertEqual(job.remaining, openings)
+        self.assertEqual(job.hire_rate.rating, 0.0)
+        self.assertEqual(job.hire_rate.count, 0)
+        self.assertEqual(job.applicants[0].applicants, applicants)
+        self.assertEqual(job.applicants[0].date.year, now.year)
+        self.assertEqual(job.applicants[0].date.month, now.month)
+        self.assertEqual(job.applicants[0].date.day, now.day)
+        self.assertEqual(set(job.levels), set(job_levels))
+        self.assertTrue(len(job.comments) == 0)
+        self.assertEqual(set(job.programs), set(programs))
+        self.assertFalse(job.deprecated)
+
+        location_update = 'Toronto'
+        job_levels_update = ['Intermediate']
+        openings_update = 5
+        applicants_update = 5
+        summary_update = datamanager.test_summary_small
+        programs_update = ['ENG-Civil']
+        job_url_update = 'http://testurl.com/new'
+
+        importer.import_job(employer_name=employer_name, job_title=job_title, term=term,
+                            location=location_update, levels=job_levels_update, openings=openings_update,
+                            applicants=applicants_update, summary=summary_update,
+                            date=now, programs=programs_update, url=job_url_update)
+
+        location_update = location_update.lower()
+
+        employer.reload()
+        job.reload()
+
+        self.assertEqual(employer.name, employer_name)
+        self.assertEqual(employer.overall.rating, 0.0)
+        self.assertEqual(employer.overall.count, 0)
+        self.assertTrue(len(employer.warnings) == 0)
+        self.assertTrue(len(employer.comments) == 0)
+
+        self.assertEqual(job.title, job_title)
+        self.assertEqual(job.url, job_url_update)
+        self.assertEqual(job.term, term)
+        self.assertEqual(job.location[0].name, location)
+        self.assertEqual(job.location[1].name, location_update)
+        self.assertTrue(int(round(job.location[0].longitude)) == -81)
+        self.assertTrue(int(round(job.location[0].latitude)) == 43)
+        self.assertTrue(int(round(job.location[1].longitude)) == -79)
+        self.assertTrue(int(round(job.location[1].latitude)) == 44)
+        self.assertEqual(job.openings, openings)
+        self.assertEqual(job.remaining, openings_update)
+        self.assertEqual(job.hire_rate.rating, 0.0)
+        self.assertEqual(job.hire_rate.count, 0)
+        self.assertEqual(job.applicants[0].applicants, applicants)
+        self.assertEqual(job.applicants[0].date.year, now.year)
+        self.assertEqual(job.applicants[0].date.month, now.month)
+        self.assertEqual(job.applicants[0].date.day, now.day)
+        self.assertEqual(job.applicants[1].applicants, applicants_update)
+        self.assertEqual(job.applicants[1].date.year, now.year)
+        self.assertEqual(job.applicants[1].date.month, now.month)
+        self.assertEqual(job.applicants[1].date.day, now.day)
+        self.assertEqual(set(job.levels), {'Intermediate', 'Senior'})
+        self.assertTrue(len(job.comments) == 0)
+        self.assertEqual(set(job.programs), {'ARCH-Architecture', 'ENG-Civil'})
+        self.assertFalse(job.deprecated)
+
+        job_2 = Job.objects(id__in=[job.id for job in employer.jobs], title=job_title, deprecated=True).first()
+
+        self.assertEquals(job_2, None)
+
+        job.delete()
+        employer.delete()
+
+        time.sleep(2)
+
 if __name__ == "__main__":
     unittest.main()
