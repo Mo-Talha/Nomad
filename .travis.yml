@@ -10,6 +10,7 @@ before_install:
 
 install:
   - pip install -r requirements.txt
+  - source ~/virtualenv/python2.7/bin/activate
   - sudo python -m nltk.downloader -d /usr/local/share/nltk_data conll2000 conll2002 maxent_ne_chunker punkt averaged_perceptron_tagger
 
 script:
