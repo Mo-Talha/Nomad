@@ -10,6 +10,7 @@ from models.applicant import Applicant
 from models.location import Location
 from models.comment import Comment
 from models.job_keyword import Keyword
+from models.rating import AggregateRating
 import models.term as Term
 import models.program as Program
 import models.employer_alias as employer_alias
@@ -67,6 +68,8 @@ def import_job(**kwargs):
 
     openings = int(kwargs['openings'])
 
+    remaining = int(kwargs['remaining']) if 'remaining' in kwargs else openings
+
     summary = kwargs['summary']
 
     filtered_summary = engine.filter_summary(summary)
@@ -102,7 +105,7 @@ def import_job(**kwargs):
 
         # New job so number of remaining positions is same as openings
         job = Job(title=job_title, summary=filtered_summary, year=year,
-                  term=term, location=[location], openings=openings, remaining=openings,
+                  term=term, location=[location], openings=openings, remaining=remaining,
                   applicants=[applicant], levels=levels, programs=programs, url=url,
                   keywords=keywords)
 
@@ -129,7 +132,7 @@ def import_job(**kwargs):
 
             # New job so number of remaining positions is same as openings
             job = Job(title=job_title, summary=engine.filter_summary(summary), year=year,
-                      term=term, location=[location], openings=openings, remaining=openings,
+                      term=term, location=[location], openings=openings, remaining=remaining,
                       applicants=[applicant], levels=levels, programs=programs, url=url,
                       keywords=keywords)
 
@@ -165,7 +168,7 @@ def import_job(**kwargs):
 
                 # Assume new job so number of remaining positions is same as openings
                 new_job = Job(title=job_title, summary=filtered_summary, year=year, term=term,
-                              location=[location], openings=openings, remaining=openings, applicants=[applicant],
+                              location=[location], openings=openings, remaining=remaining, applicants=[applicant],
                               levels=levels, programs=programs, url=url, keywords=keywords)
     
                 new_job.save()
@@ -186,19 +189,21 @@ def import_job(**kwargs):
                     location = Location(name=location)
 
                     applicant = Applicant(applicants=applicants, date=date)
+
+                    hire_rate = AggregateRating(rating=job.hire_rate.rating, count=job.hire_rate.count)
                     
                     job.update(set__year=year, set__term=term, add_to_set__location=location, set__openings=openings,
-                               set__remaining=openings, push__applicants=applicant,
-                               set__levels=levels, set__programs=programs, url=url)
+                               set__remaining=remaining, push__applicants=applicant, set__hire_rate=hire_rate,
+                               set__levels=levels, set__programs=programs, set__url=url)
 
                 # Job is being updated. We need to update location, openings, levels, remaining, hire_rate, applicants
                 else:
                     logger.info(COMPONENT, 'Job: {}: updating for current term'.format(job_title))
 
-                    remaining = job.openings
+                    remaining = job.remaining
 
                     # Job posting has decreased, some positions filled up
-                    if openings < job.openings:
+                    if openings < remaining:
                         remaining = openings
 
                     location = Location(name=location)
@@ -207,7 +212,7 @@ def import_job(**kwargs):
 
                     job.update(add_to_set__location=location, set__remaining=remaining,
                                set__levels=list(set(levels + job.levels)), push__applicants=applicant,
-                               set__programs=list(set(programs + job.programs)), url=url)
+                               set__programs=list(set(programs + job.programs)), set__url=url)
 
 
 def update_job(**kwargs):
