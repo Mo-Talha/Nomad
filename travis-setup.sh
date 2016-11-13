@@ -25,4 +25,4 @@ sudo cp ./config/mongodb_dev.conf /etc/mongod.conf
 
 sudo /usr/bin/mongod --fork --quiet --config /etc/mongod.conf
 
-mongoimport -d nomad -c locations --type tsv --file allCountries.txt --fields countrycode,postalcode,name,name1,code1,name2,code2,name3,code3,latitude,longitude,accuracy
+mongoimport -d nomad -c locations --type tsv --file location_data/allCountries.txt --fields countrycode,postalcode,name,name1,code1,name2,code2,name3,code3,latitude,longitude,accuracy
