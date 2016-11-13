@@ -2,6 +2,7 @@
 
 sudo service mongodb stop
 
+sudo rm -f /etc/mongod.conf
 sudo cp ./config/mongodb_dev.conf /etc/mongod.conf
 
 # Import mongodb public GPG key
