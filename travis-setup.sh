@@ -2,6 +2,8 @@
 
 sudo service mongodb stop
 
+sudo cp ./config/mongodb_dev.conf /etc/mongod.conf
+
 # Import mongodb public GPG key
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv EA312927
 
