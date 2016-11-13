@@ -213,7 +213,7 @@ class RateMyCoopJobImporterTest(unittest.TestCase):
             'rating': 5,
             'salary': 100
         })
-        
+
         importer.import_comment(employer_name=self.employer_name, job_title=self.job_title, comments=comments)
 
         self.employer.reload()

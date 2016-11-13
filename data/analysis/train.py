@@ -31,18 +31,23 @@ def parse_sentence(chunker, sent, keywords):
     return chunker.parse(tagged_sentence)
 
 
+def train_computer_science(save):
+    comp_sci_corpus = PlaintextCorpusReader('{}/corpus/computerscience/'
+                                            .format(os.path.dirname(os.path.abspath(__file__))), '.*')
+
+    comp_sci_chunker = Chunker('computerscience', comp_sci_corpus.raw('train.txt'))
+    chunk_score = comp_sci_chunker.evaluate(comp_sci_corpus.raw('test.txt'))
+
+    print_chunk_score(chunk_score)
+
+    if save:
+        comp_sci_chunker.save_chunker()
+
+
 if __name__ == '__main__':
     if len(sys.argv) > 1:
         if sys.argv[1] == 'comp-sci':
-            comp_sci_corpus = PlaintextCorpusReader('{}/corpus/computerscience/'
-                                                    .format(os.path.dirname(os.path.abspath(__file__))), '.*')
-
-            comp_sci_chunker = Chunker('computerscience', comp_sci_corpus.raw('train.txt'))
-            chunk_score = comp_sci_chunker.evaluate(comp_sci_corpus.raw('test.txt'))
-
-            print_chunk_score(chunk_score)
-
-            comp_sci_chunker.save_chunker()
+            train_computer_science(True)
 
     else:
         comp_sci_corpus = PlaintextCorpusReader('{}/corpus/computerscience/'

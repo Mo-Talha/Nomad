@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
 sudo service mongodb stop
+sudo killall mongod 2>/dev/null
+sudo killall mongodb 2>/dev/null
 
 sudo apt-get purge mongodb mongodb-clients mongodb-server mongodb-dev
 sudo apt-get purge mongodb-10gen
@@ -19,4 +21,4 @@ sudo service mongod stop
 sudo rm -f /etc/mongod.conf
 sudo cp ./config/mongodb_dev.conf /etc/mongod.conf
 
-sudo service mongod start
+sudo /usr/bin/mongod --fork --quiet --config /etc/mongod.conf
