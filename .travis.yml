@@ -16,9 +16,5 @@ install:
   - pip install -r requirements.txt
   - sudo mv nltk_data /usr/local/share/nltk_data
 
-before_script:
-  - sleep 15
-  - mongo nomad --eval 'use nomad'
-
 script:
   - python -m unittest discover --pattern=*test.py -v
