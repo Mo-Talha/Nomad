@@ -55,7 +55,7 @@ class Location(EmbeddedDocument):
     name = StringField(required=True)
 
     # Location longitude
-    longitude = DecimalField(required=False)
+    longitude = FloatField(required=False)
 
     # Location latitude
-    latitude = DecimalField(required=False)
+    latitude = FloatField(required=False)

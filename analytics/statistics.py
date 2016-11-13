@@ -2,8 +2,6 @@ from mongoengine import connection
 
 from models.job import Job
 
-import shared.secrets as secrets
-
 
 def get_programs_vs_jobs():
     program_vs_job_freq = Job.objects(deprecated=False).item_frequencies('programs')
@@ -37,22 +35,15 @@ def get_jobs_vs_terms():
 
 
 def get_jobs_vs_locations():
-    locations = Job.objects(deprecated=False).distinct(field="location")
-
-    gmaps = googlemaps.Client(key=secrets.GOOGLE_MAPS_API_KEY)
+    locations = Job.objects(deprecated=False).only('location').distinct(field="location")
 
     response = []
 
     for location in locations:
-        geocode = gmaps.geocode(location)
-
-        if type(geocode) is list and len(geocode) > 0:
-            geocode = geocode[0]
-
-            response.append({
-                'name': location,
-                'longitude': geocode['geometry']['location']['lng'],
-                'latitude': geocode['geometry']['location']['lat']
-            })
+        response.append({
+            'name': location.name,
+            'longitude': location.longitude,
+            'latitude': location.latitude
+        })
 
     return response

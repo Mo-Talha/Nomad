@@ -10,8 +10,7 @@ if __name__ == "__main__":
 
     for job in Job.objects:
         for l in job.location:
-            if l.longitude == 0.0 and l.latitude == 0.0:
-                location = Location(name=l.name)
+            location = Location(name=l.name)
 
-                job.update(location=[location])
-                time.sleep(2)
+            job.update(location=[location])
+            time.sleep(2)
