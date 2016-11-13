@@ -70,8 +70,6 @@ class RateMyCoopJobImporterTest(unittest.TestCase):
         self.assertEqual(set(self.job.programs), set(programs))
         self.assertFalse(self.job.deprecated)
 
-        time.sleep(2)
-
     def tearDown(self):
         self.job.delete()
         self.employer.delete()

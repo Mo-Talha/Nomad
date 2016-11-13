@@ -1,5 +1,5 @@
 define(['lib/backbone', 'lib/underscore', 'lib/jquery',
-        'js/views/chart/programsvsjobs.view',
+        'js/views/chart/jobsvsprograms.view',
         'js/views/chart/jobsvslevels.view',
         'js/views/chart/jobsvsterms.view',
         'js/views/maps/jobsvslocations.view'],

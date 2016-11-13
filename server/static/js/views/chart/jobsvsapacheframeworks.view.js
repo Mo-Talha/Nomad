@@ -2,7 +2,7 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
         'js/views/chart/chart.view'],
 	function($, _, Chart, ChartView){
 
-    var ProgramsVsJobsView = ChartView.extend({
+    var JobsVsApacheFrameworks = ChartView.extend({
 
         initialize: function(options) {
             options = options || {};
@@ -10,7 +10,7 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
 
             options.data = {
                 'card-icon': options.data.icon || 'fa fa-bar-chart',
-                'title': options.data.title || 'Jobs vs. Programs'
+                'title': options.data.title || 'Most Popular Apache Frameworks'
             };
 
             ChartView.prototype.initialize.apply(this, [options]);
@@ -21,20 +21,20 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
 
 			Chart.defaults.global.fontFamily = '"Roboto", sans-serif';
 
-            $.post('/api/programs-vs-jobs-stat', '', function(response){
-                var programs = _.sortBy(response.data, function(program){
-                    return program.jobs;
+            $.post('/api/jobs-vs-apache-frameworks-stat', '', function(response){
+                var frameworks = _.sortBy(response.data, function(framework){
+                    return framework.jobs;
                 }).reverse();
 
                 var labels = [];
                 var data = [];
 
-                _.each(programs, function(program){
+                _.each(frameworks, function(framework){
                     if (labels.length <= 15){
-                        labels.push(program.name);
+                        labels.push(framework.name);
                     }
                     if (data.length <= 15){
-                        data.push(program.jobs)
+                        data.push(framework.jobs)
                     }
                 });
 
@@ -76,6 +76,6 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
 
     });
 
-    return ProgramsVsJobsView;
+    return JobsVsApacheFrameworks;
 
 });

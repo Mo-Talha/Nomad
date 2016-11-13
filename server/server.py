@@ -26,9 +26,14 @@ def index():
     return render_template('index.html', page_script='index.js')
 
 
-@app.route('/api/programs-vs-jobs-stat', methods=['POST'])
-def programs_vs_jobs_stat():
-    programs_vs_jobs = stats.get_programs_vs_jobs()
+@app.route("/csdashboard")
+def cs_dashboard():
+    return render_template('index.html', page_script='cs.js')
+
+
+@app.route('/api/jobs-vs-programs-stat', methods=['POST'])
+def jobs_vs_programs_stat():
+    programs_vs_jobs = stats.get_jobs_vs_programs()
 
     response = {
         'data': [{'name': program, 'jobs': programs_vs_jobs[program]} for program in programs_vs_jobs]
@@ -67,6 +72,90 @@ def jobs_vs_locations_stat():
     response = {
         'data': [{'name': location['name'], 'longitude': location['longitude'], 'latitude': location['latitude']}
                  for location in jobs_vs_locations]
+    }
+
+    return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
+
+
+@app.route('/api/jobs-vs-programming-languages-stat', methods=['POST'])
+def jobs_vs_programming_languages_stat():
+    jobs_vs_programming_languages = stats.get_jobs_vs_programming_languages()
+
+    response = {
+        'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
+                 for language in jobs_vs_programming_languages]
+    }
+
+    return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
+
+
+@app.route('/api/jobs-vs-databases-stat', methods=['POST'])
+def jobs_vs_databases_stat():
+    jobs_vs_databases = stats.get_jobs_vs_databases()
+
+    response = {
+        'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
+                 for language in jobs_vs_databases]
+    }
+
+    return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
+
+
+@app.route('/api/jobs-vs-operating-systems-stat', methods=['POST'])
+def jobs_vs_os_stat():
+    jobs_vs_os = stats.get_jobs_vs_operating_systems()
+
+    response = {
+        'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
+                 for language in jobs_vs_os]
+    }
+
+    return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
+
+
+@app.route('/api/jobs-vs-web-frameworks-stat', methods=['POST'])
+def jobs_vs_web_frameworks_stat():
+    jobs_vs_web_frameworks = stats.get_jobs_vs_web_frameworks()
+
+    response = {
+        'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
+                 for language in jobs_vs_web_frameworks]
+    }
+
+    return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
+
+
+@app.route('/api/jobs-vs-apache-frameworks-stat', methods=['POST'])
+def jobs_vs_apache_frameworks_stat():
+    jobs_vs_apache_frameworks = stats.get_jobs_vs_apache_frameworks()
+
+    response = {
+        'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
+                 for language in jobs_vs_apache_frameworks]
+    }
+
+    return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
+
+
+@app.route('/api/jobs-vs-js-libraries-stat', methods=['POST'])
+def jobs_vs_js_libraries_stat():
+    jobs_vs_js_libraries = stats.get_jobs_vs_javascript_libraries()
+
+    response = {
+        'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
+                 for language in jobs_vs_js_libraries]
+    }
+
+    return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
+
+
+@app.route('/api/jobs-vs-css-frameworks-stat', methods=['POST'])
+def jobs_vs_css_frameworks_stat():
+    jobs_vs_css_frameworks = stats.get_jobs_vs_css_frameworks()
+
+    response = {
+        'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
+                 for language in jobs_vs_css_frameworks]
     }
 
     return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")

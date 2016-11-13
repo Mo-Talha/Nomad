@@ -1,5 +1,4 @@
 import unittest
-import time
 import mongoengine
 import redis
 
@@ -81,8 +80,6 @@ class JobmineImporterTest(unittest.TestCase):
         job.delete()
         employer.delete()
 
-        time.sleep(2)
-
     def test_normal_unicode_import(self):
         employer_name = u'Test Employer 2'
         job_title = u'Test Job Title 2'
@@ -135,8 +132,6 @@ class JobmineImporterTest(unittest.TestCase):
 
         job.delete()
         employer.delete()
-
-        time.sleep(2)
 
     def test_edge_cases_import(self):
         employer_name = '123 Test Employer 3'
@@ -191,8 +186,6 @@ class JobmineImporterTest(unittest.TestCase):
         job.delete()
         employer.delete()
 
-        time.sleep(2)
-
     def test_edge_cases_unicode_import(self):
         employer_name = u'123 Test Employer 4'
         job_title = u'123 Test Job Title 4'
@@ -245,8 +238,6 @@ class JobmineImporterTest(unittest.TestCase):
 
         job.delete()
         employer.delete()
-
-        time.sleep(2)
 
     def test_employer_exists_job_does_not_exist_import(self):
         employer_name = 'Test Employer 5'
@@ -348,8 +339,6 @@ class JobmineImporterTest(unittest.TestCase):
         job_2.delete()
         employer.delete()
 
-        time.sleep(2)
-
     def test_employer_exists_job_exist_update_invalid_year_import(self):
         employer_name = 'Test Employer 7'
         job_title = 'Test Job Title 7'
@@ -407,8 +396,6 @@ class JobmineImporterTest(unittest.TestCase):
                           summary=summary, date=now, programs=programs, url=job_url)
         job.delete()
         employer.delete()
-
-        time.sleep(2)
 
     def test_employer_exists_job_exist_update_summary_1_import(self):
         employer_name = 'Test Employer 8'
@@ -497,11 +484,12 @@ class JobmineImporterTest(unittest.TestCase):
         self.assertEqual(set(job_2.programs), set(programs))
         self.assertFalse(job_2.deprecated)
 
+        employer.reload()
+        job.reload()
+
         job.delete()
         job_2.delete()
         employer.delete()
-
-        time.sleep(2)
 
     def test_employer_exists_job_exist_update_summary_2_import(self):
         employer_name = 'Test Employer 9'
@@ -570,8 +558,6 @@ class JobmineImporterTest(unittest.TestCase):
 
         job.delete()
         employer.delete()
-
-        time.sleep(2)
 
     def test_employer_exists_job_exist_update_job_new_term_import(self):
         employer_name = 'Test Employer 10'
@@ -684,8 +670,6 @@ class JobmineImporterTest(unittest.TestCase):
         job.delete()
         employer.delete()
 
-        time.sleep(2)
-
     def test_employer_exists_job_exist_update_current_term_import(self):
         employer_name = 'Test Employer 11'
         job_title = 'Test Job Title 11'
@@ -792,8 +776,6 @@ class JobmineImporterTest(unittest.TestCase):
 
         job.delete()
         employer.delete()
-
-        time.sleep(2)
 
 if __name__ == "__main__":
     unittest.main()
