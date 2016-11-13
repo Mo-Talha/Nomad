@@ -76,8 +76,10 @@ class Job(Document):
         return super(Job, self).save(*args, **kwargs)
 
     @classmethod
-    def comment_exists(cls, job_comment):
-        return True if cls.objects(comments__comment=job_comment, comments__crawled=True).count() > 0 else False
+    def comment_exists(cls, **kwargs):
+        return True if cls.objects(comments__comment=kwargs['comment'], comments__date=kwargs['date'],
+                                   comments__salary=kwargs['salary'], comments__rating__rating=kwargs['rating'],
+                                   comments__crawled=True).count() > 0 else False
 
     @staticmethod
     def get_active_job_urls():

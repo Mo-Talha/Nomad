@@ -1,4 +1,6 @@
 from datetime import datetime
+from dateutil.relativedelta import relativedelta
+
 import re
 
 import engine
@@ -301,30 +303,30 @@ def import_comment(**kwargs):
         comment -- Comment
         comment_date -- Date comment was submitted. Note: in non-standard form such as: 5 years ago, 3 weeks ago etc
         salary -- Job salary (hourly)
-        rating -- Job rating out of 5
+        rating -- Job rating out of 5 (1 - 5 stars on ratemycoopjob)
     """
 
-    employer_name = kwargs['employer_name'].encode('ascii', 'ignore').lower()
+    employer_name = kwargs['employer_name'].lower()
 
-    job_title = kwargs['job_title'].encode('ascii', 'ignore').lower()
+    job_title = kwargs['job_title'].lower()
 
     # If employer alias exists (ex. Research in motion -> Blackberry), use instead
     if employer_name in employer_alias.aliases:
-        employer_name = employer_alias.aliases[employer_name]
+        employer_name = employer_alias.aliases[employer_name].lower()
 
     # If employer does not exist
     if not Employer.objects.search_text("\"{}\"".format(employer_name)).count() > 0:
         logger.info(COMPONENT, 'Employer: {} does not exist, ignoring..'.format(employer_name))
         return
 
-    logger.info(COMPONENT, 'Importing comments for job: {} from {}'.format(job_title, employer_name))
+    logger.info(COMPONENT, 'Importing comments for job: {} from employer: {}'.format(job_title, employer_name))
 
-    employer = Employer.objects.search_text(employer_name).no_dereference().first()
+    employer = Employer.objects.search_text("\"{}\"".format(employer_name)).no_dereference().first()
 
     # Iterate through all comments
     for index, comment_obj in enumerate(kwargs['comments']):
 
-        comment = comment_obj['comment'].encode('ascii', 'ignore')
+        comment = comment_obj['comment']
 
         comment_date = _get_comment_date(comment_obj['comment_date'])
 
@@ -332,17 +334,17 @@ def import_comment(**kwargs):
 
         rating = float(comment_obj['rating']) / 5
 
-        # If job does not exist
+        # If job does not exist add to employer
         if not employer.job_exists(job_title):
-            if employer.comment_exists(comment):
-                logger.info(COMPONENT, 'Comment: {} already exists for employer: {}, ignoring..'
+            if employer.comment_exists(comment=comment, date=comment_date, salary=salary, rating=rating):
+                logger.info(COMPONENT, 'Comment: {} already exists for employer: {}, ignoring'
                             .format(index, employer_name))
 
             else:
                 logger.info(COMPONENT, 'Adding comment: {} to employer: {}'.format(index, employer_name))
 
-                new_comment = Comment(title=job_title, comment=comment, date=comment_date, salary=salary, crawled=True)
-                new_comment.rating.add_rating(rating)
+                new_comment = Comment(comment=comment, date=comment_date, salary=salary, crawled=True,
+                                      rating=AggregateRating(rating=rating, count=1))
 
                 employer.update(push__comments=new_comment)
 
@@ -350,25 +352,23 @@ def import_comment(**kwargs):
         else:
             job = Job.objects(id__in=[job.id for job in employer.jobs], title=job_title).first()
 
-            if job.comment_exists(comment):
-                logger.info(COMPONENT, 'Comment: {} already exists for job: {}, ignoring..'.format(index, job_title))
+            if job.comment_exists(comment=comment, date=comment_date, salary=salary, rating=rating):
+                logger.info(COMPONENT, 'Comment: {} already exists for job: {} for employer: {}, ignoring'
+                            .format(index, job_title, employer_name))
 
             else:
                 logger.info(COMPONENT, 'Adding comment: {} for job: {} from {}'.format(index, job_title, employer_name))
 
-                new_comment = Comment(comment=comment, date=comment_date, salary=salary, crawled=True)
-                new_comment.rating.add_rating(rating)
+                new_comment = Comment(comment=comment, date=comment_date, salary=salary, crawled=True,
+                                      rating=AggregateRating(rating=rating, count=1))
 
                 job.update(push__comments=new_comment)
 
-                # Remove same comment from employer (if exists)
-                logger.info(COMPONENT, 'Removing redundant comment: {} from employer {}'.format(index, employer_name))
-
-                employer.get_crawled_comments(comment).delete()
-
 
 def _get_comment_date(date_str):
-    date = datetime.now()
+    now = datetime.now()
+
+    date = datetime(now.year, now.month, now.day)
 
     date_re = re.search(r'(\d+)\s(month[s]?|year[s]?|day[s]?)', date_str)
 
@@ -378,25 +378,19 @@ def _get_comment_date(date_str):
     # Ex. for 5 days ago, date_time = days
     date_time = date_re.group(2)
 
-    day, month, year = date.day, date.month, date.year
-
     if 'day' in date_time:
-        day = date.day - date_num
+        if date_num < 1:
+            date_num = 1
+
+        date -= relativedelta(days=date_num)
 
     elif 'month' in date_time:
-        if datetime == 12:
-            year = date.year - 1
+        if date_num < 1:
+            date_num = 1
 
-        else:
-            month = date.month - date_num
+        date -= relativedelta(months=date_num)
 
     elif 'year' in date_time:
-        year = date.year - date_num
+        date -= relativedelta(years=date_num)
 
-    if day < 1:
-        day = 1
-
-    if not 1 <= month <= 12:
-        month = 1
-
-    return datetime(year, month, day)
+    return date

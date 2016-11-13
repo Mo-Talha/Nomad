@@ -239,3 +239,43 @@ Education/Experience
 - Experience with RESTful APIs
 - Experience with CoffeeScript, Backbone and/or Marionette are assets
 """
+
+test_comment_1 = """
+Your experience will vary from team to team. Theres so many things to do here and you have Amazon's resources to support
+you. The culture is different from amazon itself. They have intern only events and perks. Great snacks. No food though,
+but you get paid a little something extra to eat out down the street in the fancy city of Palo Alto.
+There a $1750 USD housing stipend - after tax.
+"""
+
+test_comment_2 = u"""
+Lots of challenging work to do and lots of freedom to choose your own projects. Also the pay is very nice here.
+"""
+
+test_comment_3 = """
+Pro: Lots of really intelligent people work here and the pay is amazing. The work is interesting and I got a relatively
+high degree of freedom to work on what interested me. The office is very close to the Palo Alto Caltrain stop which is
+very convenient. Con: Meals aren't included.
+"""
+
+test_comment_4 = """
+Pro: Lots of really intelligent people work here and the pay is amazing. The work is interesting and I got a relatively
+high degree of freedom to work on what interested me. The office is very close to the Palo Alto Caltrain stop which is
+very convenient. Con: Meals aren't included.
+"""
+
+test_comment_5 = """
+Pay is awesome! Plus you get a $1750/month stipend on top of your salary. Work is interesting, there are minimal perks.
+"""
+
+test_comment_6 = """
+Very interesting work & surrounded by brilliant people. Pay is top of the scale (plus extra transportation and
+relocation reimbursement) and great location. Unlike many tech companies around, they don't work you to death.
+Only bad thing is the minimal perks (no free meals and lunch in downtown Palo Alto can be expensive).
+"""
+
+test_comment_7 = """
+A9 works at a massive scale, has ~ 100 engineers. On most teams you'll get to work on, you have pretty good impact.
+Has the resources of Amazon. amazing location, amazing pay (a lot more than Amazon), good work, top-notch employees
+(some of them include one of the guys that worked on Unix at AT&T, the guy that wrote STL for C++, and a whole lot
+more). unfortunately, not many girls work here.
+"""
