@@ -5,12 +5,20 @@ language: python
 python:
   - "2.7"
 
+services:
+  - mongodb
+  - redis-server
+
 before_install:
   - /bin/bash -c "cd /Nomad; cp shared/secrets.example.py shared/secrets.py; cp shared/jobmine.example.py shared/jobmine.py; cp shared/ratemycoopjob.example.py shared/ratemycoopjob.py;"
 
 install:
   - pip install -r requirements.txt
   - sudo mv nltk_data /usr/local/share/nltk_data
+
+before_script:
+  - sleep 15
+  - mongo nomad --eval 'use nomad'
 
 script:
   - python -m unittest discover --pattern=*test.py -v
