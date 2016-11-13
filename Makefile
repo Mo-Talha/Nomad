@@ -6,6 +6,16 @@ install:
 
 	./install.sh
 
+	@echo "*** Installing NLTK data ***"
+	@echo
+	sudo cp -a nltk_data /usr/local/share/nltk_data
+	@echo
+
+	@echo "*** Installing Geonames data ***"
+	@echo
+	mongoimport -d nomad -c locations --type tsv --file location_data/allCountries.txt --fields countrycode,postalcode,name,name1,code1,name2,code2,name3,code3,latitude,longitude,accuracy
+	@echo
+
 	@echo "Done"
 
 devel:
@@ -24,7 +34,7 @@ prod:
 
 	@echo "Done"
 
-run_tests: virtualenv
+test: virtualenv
 	PYTHONPATH=$(PYTHONPATH):. python -m unittest discover --pattern=*test.py -v
 
 clean:

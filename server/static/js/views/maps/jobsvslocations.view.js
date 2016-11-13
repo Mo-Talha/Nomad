@@ -34,14 +34,16 @@ define(['lib/jquery',
                     });
 
                     _.each(locations, function(location){
-                        new google.maps.Marker({
-                          position: {
-                              lat: location.longitude,
-                              lng: location.longitude
-                          },
-                          map: map,
-                          title: location.name || 'Location not found'
-                        });
+                        if (location.longitude != 0 && location.latitude != 0){
+                            new google.maps.Marker({
+                              position: {
+                                  lat: location.latitude,
+                                  lng: location.longitude
+                              },
+                              map: map,
+                              title: location.name || 'Location not found'
+                            });
+                        }
                     });
                 }, 0);
             });

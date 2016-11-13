@@ -1,53 +1,29 @@
-import redis
-
-from geopy.geocoders import Nominatim
-
 from mongoengine import *
-from mongoengine import connection
 
-import shared.secrets as secrets
-
-geolocator = Nominatim(country_bias='CA')
-
-pool = redis.ConnectionPool(host=secrets.REDIS_HOST, port=secrets.REDIS_PORT, db=secrets.REDIS_DB)
-redis = redis.Redis(connection_pool=pool)
+from models.locations import Locations
 
 
 class Location(EmbeddedDocument):
 
     def __init__(self, *args, **kwargs):
         if 'longitude' not in kwargs and 'latitude' not in kwargs:
-            cached_location = redis.hgetall('location:{}'.format(kwargs['name']))
+            locations = Locations.objects.search_text("\"{}\"".format(kwargs['name']))
 
-            if cached_location:
-                kwargs['longitude'] = cached_location['longitude']
-                kwargs['latitude'] = cached_location['latitude']
-            else:
-                db = connection._get_db(reconnect=False)
+            longitude = 0
+            latitude = 0
 
-                pipeline = {
-                    "location": {
-                        "$elemMatch": {"name": kwargs['name'], "longitude": {"$ne": 0.0}, "latitude": {"$ne": 0.0}}
-                    }
-                }
+            if locations:
+                longitude = locations[0].longitude
+                latitude = locations[0].latitude
 
-                job_locations = db.job.find_one(pipeline, {"location": 1})
+                for location in locations:
+                    if location.countrycode == 'CA':
+                        longitude = location.longitude
+                        latitude = location.latitude
+                        break
 
-                if job_locations:
-                    longitude = job_locations['location'][0]['longitude']
-                    latitude = job_locations['location'][0]['latitude']
-                else:
-                    location = geolocator.geocode(kwargs['name'], timeout=10)
-                    longitude = location.longitude
-                    latitude = location.latitude
-
-                redis.hmset('location:{}'.format(kwargs['name']), {
-                    'longitude': longitude,
-                    'latitude': latitude
-                })
-
-                kwargs['longitude'] = longitude
-                kwargs['latitude'] = latitude
+            kwargs['latitude'] = latitude
+            kwargs['longitude'] = longitude
 
         super(EmbeddedDocument, self).__init__(*args, **kwargs)
 
@@ -55,7 +31,7 @@ class Location(EmbeddedDocument):
     name = StringField(required=True)
 
     # Location longitude
-    longitude = FloatField(required=False)
+    longitude = FloatField(required=True)
 
     # Location latitude
-    latitude = FloatField(required=False)
+    latitude = FloatField(required=True)

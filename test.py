@@ -1,5 +1,4 @@
 import mongoengine
-import time
 from models.job import Job
 from models.location import Location
 
@@ -13,4 +12,3 @@ if __name__ == "__main__":
             location = Location(name=l.name)
 
             job.update(location=[location])
-            time.sleep(2)
