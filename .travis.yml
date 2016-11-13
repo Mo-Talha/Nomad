@@ -13,7 +13,7 @@ before_install:
   - /bin/bash -c "cd /Nomad; cp shared/secrets.example.py shared/secrets.py; cp shared/jobmine.example.py shared/jobmine.py; cp shared/ratemycoopjob.example.py shared/ratemycoopjob.py;"
 
 install:
-  - sudo travis-setup.sh
+  - sudo bash travis-setup.sh
   - pip install -r requirements.txt
   - sudo mv nltk_data /usr/local/share/nltk_data
 
