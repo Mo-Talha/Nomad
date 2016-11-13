@@ -18,4 +18,4 @@ sudo rm -f /etc/mongod.conf
 
 sudo cp ./config/mongodb_dev.conf /etc/mongod.conf
 
-sudo service mongod start
+sudo /usr/bin/mongod --quiet --config /etc/mongod.conf
