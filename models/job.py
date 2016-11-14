@@ -20,6 +20,7 @@ class Job(Document):
             'programs',
             'year',
             'term',
+            ('year', 'term'),
             'location'
         ]
     }

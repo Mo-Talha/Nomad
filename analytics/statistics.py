@@ -5,13 +5,45 @@ from models.job import Job
 
 
 def get_jobs_vs_programs():
-    job_vs_program_freq = Job.objects(deprecated=False).item_frequencies('programs')
-    return job_vs_program_freq
+    pipeline = [
+        {"$redact": {
+            "$cond": {
+                "if": {"$eq": ["$deprecated", False]},
+                "then": "$$KEEP",
+                "else": "$$PRUNE"
+            }
+        }},
+        {"$project": {"_id": 0, "programs": 1}},
+        {"$unwind": "$programs"},
+        {"$group": {"_id": {
+            "program": "$programs"
+        }, "count": {"$sum": 1}}}
+    ]
+
+    db = connection._get_db(reconnect=False)
+
+    return db.job.aggregate(pipeline)
 
 
 def get_jobs_vs_levels():
-    jobs_vs_levels_freq = Job.objects(deprecated=False).item_frequencies('levels')
-    return jobs_vs_levels_freq
+    pipeline = [
+        {"$redact": {
+            "$cond": {
+                "if": {"$eq": ["$deprecated", False]},
+                "then": "$$KEEP",
+                "else": "$$PRUNE"
+            }
+        }},
+        {"$project": {"_id": 0, "levels": 1}},
+        {"$unwind": "$levels"},
+        {"$group": {"_id": {
+            "level": "$levels"
+        }, "count": {"$sum": 1}}}
+    ]
+
+    db = connection._get_db(reconnect=False)
+
+    return db.job.aggregate(pipeline)
 
 
 def get_jobs_vs_terms():
@@ -19,7 +51,7 @@ def get_jobs_vs_terms():
         {"$redact": {
             "$cond": {
                 "if": {"$eq": ["$deprecated", False]},
-                "then": "$$DESCEND",
+                "then": "$$KEEP",
                 "else": "$$PRUNE"
             }
         }},
@@ -36,18 +68,26 @@ def get_jobs_vs_terms():
 
 
 def get_jobs_vs_locations():
-    locations = Job.objects(deprecated=False).only('location').distinct(field="location")
+    pipeline = [
+        {"$redact": {
+            "$cond": {
+                "if": {"$eq": ["$deprecated", False]},
+                "then": "$$KEEP",
+                "else": "$$PRUNE"
+            }
+        }},
+        {"$project": {"_id": 0, "location": 1}},
+        {"$unwind": "$location"},
+        {"$group": {"_id": {
+            "location": "$location.name",
+            "longitude": "$location.longitude",
+            "latitude": "$location.latitude"
+        }}}
+    ]
 
-    response = []
+    db = connection._get_db(reconnect=False)
 
-    for location in locations:
-        response.append({
-            'name': location.name,
-            'longitude': location.longitude,
-            'latitude': location.latitude
-        })
-
-    return response
+    return db.job.aggregate(pipeline)
 
 
 def get_jobs_vs_programming_languages():
@@ -194,6 +234,38 @@ def get_jobs_vs_apache_frameworks():
         }},
         {"$unwind": "$keywords"},
         {"$match": {"keywords.types": {"$in": [keyword_type.types["APACHE_FRWK"]]}}},
+        {"$group": {
+            "_id": {
+                "keyword": "$keywords.keyword",
+                "types": "$keywords.types"
+            },
+            "count": {
+                "$sum": 1
+            }
+        }}
+    ]
+
+    db = connection._get_db(reconnect=False)
+
+    return db.job.aggregate(pipeline)
+
+
+def get_jobs_vs_search_servers():
+    pipeline = [
+        {"$redact": {
+            "$cond": {
+                "if": {"$eq": ["$deprecated", False]},
+                "then": "$$KEEP",
+                "else": "$$PRUNE"
+            }
+        }},
+        {"$project": {
+            "_id": 0,
+            "keywords": 1,
+            "deprecated": 1
+        }},
+        {"$unwind": "$keywords"},
+        {"$match": {"keywords.types": {"$in": [keyword_type.types["SEARCH_SRV"]]}}},
         {"$group": {
             "_id": {
                 "keyword": "$keywords.keyword",

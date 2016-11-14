@@ -4,10 +4,11 @@ define(['lib/backbone', 'lib/underscore', 'lib/jquery',
         'js/views/chart/jobsvsoperatingsystems.view',
         'js/views/chart/jobsvswebframeworks.view',
         'js/views/chart/jobsvsapacheframeworks.view',
+        'js/views/chart/jobsvssearchservers.view',
         'js/views/chart/jobsvsjavascriptlibraries.view',
         'js/views/chart/jobsvscssframeworks.view'],
     function(Backbone, _, $, JobsVsProgrammingLanguages, JobsVsDatabases, JobsVsOS, JobsVsWebFrameworks,
-            JobsVsApacheFrameworks, JobsVsJavaScriptLibraries, JobsVsCssFrameworks){
+            JobsVsApacheFrameworks, JobsVsSearchServers, JobsVsJavaScriptLibraries, JobsVsCssFrameworks){
 
     var CSDashboardView = Backbone.View.extend({
 
@@ -24,6 +25,7 @@ define(['lib/backbone', 'lib/underscore', 'lib/jquery',
             this.jobsVsOS = new JobsVsOS(options);
             this.jobsVsWebFrameworks = new JobsVsWebFrameworks(options);
             this.jobsVsApacheFrameworks = new JobsVsApacheFrameworks(options);
+            this.jobsVsSearchServers = new JobsVsSearchServers(options);
             this.jobsVsJavaScriptLibraries = new JobsVsJavaScriptLibraries(options);
             this.jobsVsCssFrameworks = new JobsVsCssFrameworks(options);
         },
@@ -34,6 +36,7 @@ define(['lib/backbone', 'lib/underscore', 'lib/jquery',
             this.$el.append(this.jobsVsOS.render().el);
             this.$el.append(this.jobsVsWebFrameworks.render().el);
             this.$el.append(this.jobsVsApacheFrameworks.render().el);
+            this.$el.append(this.jobsVsSearchServers.render().el);
             this.$el.append(this.jobsVsJavaScriptLibraries.render().el);
             this.$el.append(this.jobsVsCssFrameworks.render().el);
             return this;

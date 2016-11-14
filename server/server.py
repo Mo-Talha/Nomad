@@ -36,7 +36,7 @@ def jobs_vs_programs_stat():
     programs_vs_jobs = stats.get_jobs_vs_programs()
 
     response = {
-        'data': [{'name': program, 'jobs': programs_vs_jobs[program]} for program in programs_vs_jobs]
+        'data': [{'name': program['_id']['program'], 'jobs': program['count']} for program in programs_vs_jobs]
     }
 
     return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
@@ -47,7 +47,7 @@ def jobs_vs_levels_stat():
     jobs_vs_levels = stats.get_jobs_vs_levels()
 
     response = {
-        'data': [{'name': level, 'jobs': jobs_vs_levels[level]} for level in jobs_vs_levels]
+        'data': [{'name': level['_id']['level'], 'jobs': level['count']} for level in jobs_vs_levels]
     }
 
     return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
@@ -70,8 +70,9 @@ def jobs_vs_locations_stat():
     jobs_vs_locations = stats.get_jobs_vs_locations()
 
     response = {
-        'data': [{'name': location['name'], 'longitude': location['longitude'], 'latitude': location['latitude']}
-                 for location in jobs_vs_locations]
+        'data': [{'name': location['_id']['location'], 'longitude': location['_id']['longitude'],
+                  'latitude': location['_id']['latitude']} for location in jobs_vs_locations
+                 if location['_id']['longitude'] != 0 and location['_id']['latitude'] != 0]
     }
 
     return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
@@ -132,6 +133,18 @@ def jobs_vs_apache_frameworks_stat():
     response = {
         'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
                  for language in jobs_vs_apache_frameworks]
+    }
+
+    return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
+
+
+@app.route('/api/jobs-vs-search-servers-stat', methods=['POST'])
+def jobs_vs_search_servers_stat():
+    jobs_vs_search_servers = stats.get_jobs_vs_search_servers()
+
+    response = {
+        'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
+                 for language in jobs_vs_search_servers]
     }
 
     return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")

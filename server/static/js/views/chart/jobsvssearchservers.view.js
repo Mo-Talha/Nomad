@@ -2,7 +2,7 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
         'js/views/chart/chart.view'],
 	function($, _, Chart, ChartView){
 
-    var JobsVsLevelsView = ChartView.extend({
+    var JobsVsSearchServers = ChartView.extend({
 
         initialize: function(options) {
             options = options || {};
@@ -10,7 +10,7 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
 
             options.data = {
                 'card-icon': options.data.icon || 'fa fa-pie-chart',
-                'title': options.data.title || 'Most Popular OSs'
+                'title': options.data.title || 'Most Popular Search Servers'
             };
 
             ChartView.prototype.initialize.apply(this, [options]);
@@ -21,20 +21,20 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
 
 			Chart.defaults.global.fontFamily = '"Roboto", sans-serif';
 
-            $.post('/api/jobs-vs-operating-systems-stat', '', function(response){
-                var oses = _.sortBy(response.data, function(os){
-                    return os.jobs;
+            $.post('/api/jobs-vs-search-servers-stat', '', function(response){
+                var servers = _.sortBy(response.data, function(server){
+                    return server.jobs;
                 }).reverse();
 
                 var labels = [];
                 var data = [];
 
-                _.each(oses, function(os){
+                _.each(servers, function(server){
                     if (labels.length <= 10){
-                        labels.push(os.name);
+                        labels.push(server.name);
                     }
                     if (data.length <= 10){
-                        data.push(os.jobs)
+                        data.push(server.jobs)
                     }
                 });
 
@@ -88,6 +88,6 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
 
     });
 
-    return JobsVsLevelsView;
+    return JobsVsSearchServers;
 
 });

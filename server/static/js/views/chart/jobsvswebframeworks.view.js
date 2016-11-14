@@ -10,7 +10,7 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
 
             options.data = {
                 'card-icon': options.data.icon || 'fa fa-pie-chart',
-                'title': options.data.title || 'Most Web Frameworks'
+                'title': options.data.title || 'Most Popular Web Frameworks'
             };
 
             ChartView.prototype.initialize.apply(this, [options]);
@@ -46,21 +46,27 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
                             datasets: [{
                                 data: data,
                                 backgroundColor: [
-                                    "#FF6384",
-                                    "#36A2EB",
-                                    "#FFCE56",
                                     "#F7464A",
                                     "#46BFBD",
-                                    "rgba(75,192,192,0.4)",
+                                    "#FDB45C",
+                                    "#949FB1",
+                                    "#4D5360",
+                                    "#669999",
+                                    "#FF6384",
+                                    "#36A2EB",
+                                    "#fbbc05",
                                     "#196c32"
                                 ],
                                 hoverBackgroundColor: [
-                                    "#FF6384",
-                                    "#36A2EB",
-                                    "#FFCE56",
                                     "#F7464A",
                                     "#46BFBD",
-                                    "rgba(75,192,192,0.4)",
+                                    "#FDB45C",
+                                    "#949FB1",
+                                    "#4D5360",
+                                    "#669999",
+                                    "#FF6384",
+                                    "#36A2EB",
+                                    "#fbbc05",
                                     "#196c32"
                                 ]
                             }]

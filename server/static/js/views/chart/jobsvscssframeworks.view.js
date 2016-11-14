@@ -10,7 +10,7 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
 
             options.data = {
                 'card-icon': options.data.icon || 'fa fa-pie-chart',
-                'title': options.data.title || 'Most CSS Frameworks'
+                'title': options.data.title || 'Most Popular CSS Frameworks'
             };
 
             ChartView.prototype.initialize.apply(this, [options]);
@@ -54,7 +54,7 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
                                     "rgba(75,192,192,0.4)",
                                     "#196c32",
                                     "#FDB45C",
-                                    "#949FB1",
+                                    "#fbbc05",
                                     "#4D5360"
                                 ],
                                 hoverBackgroundColor: [
@@ -66,7 +66,7 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
                                     "rgba(75,192,192,0.4)",
                                     "#196c32",
                                     "#FDB45C",
-                                    "#949FB1",
+                                    "#fbbc05",
                                     "#4D5360"
                                 ]
                             }]
