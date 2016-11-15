@@ -2,7 +2,9 @@ import unittest
 import mongoengine
 import redis
 
+from mongoengine import connection
 from datetime import datetime
+from bson.objectid import ObjectId
 
 import data.analysis.importer as importer
 import tests.analysis.importer_datamanager as datamanager
@@ -374,8 +376,10 @@ class JobmineImporterTest(unittest.TestCase):
         self.assertEqual(job.url, job_url)
         self.assertEqual(job.term, term)
         self.assertEqual(job.location[0].name, location)
-        self.assertTrue(int(round(job.location[0].longitude)) == -81)
-        self.assertTrue(int(round(job.location[0].latitude)) == 43)
+        self.assertEqual(int(round(job.location[0].longitude)), -81)
+        self.assertEqual(int(round(job.location[0].latitude)), 43)
+#        self.assertTrue(int(round(job.location[0].longitude)) == -81)
+#        self.assertTrue(int(round(job.location[0].latitude)) == 43)
         self.assertEqual(job.openings, openings)
         self.assertEqual(job.remaining, openings)
         self.assertEqual(job.hire_rate.rating, 0.0)
@@ -458,6 +462,9 @@ class JobmineImporterTest(unittest.TestCase):
 
         self.assertTrue(job.deprecated)
 
+        old_job = Job.objects(id__in=[job.id for job in employer.jobs], title=job_title, deprecated=True).first()
+        old_job.delete()
+
         job_2 = Job.objects(id__in=[job.id for job in employer.jobs], title=job_title, deprecated=False).first()
 
         self.assertEqual(employer.name, employer_name)
@@ -484,10 +491,6 @@ class JobmineImporterTest(unittest.TestCase):
         self.assertEqual(set(job_2.programs), set(programs))
         self.assertFalse(job_2.deprecated)
 
-        employer.reload()
-        job.reload()
-
-        job.delete()
         job_2.delete()
         employer.delete()
 

@@ -1,7 +1,6 @@
 from mongoengine import connection
 
 import models.job_keyword_type as keyword_type
-from models.job import Job
 
 
 def get_jobs_vs_programs():
