@@ -48,26 +48,26 @@ define(['lib/jquery', 'lib/underscore', 'lib/chartjs',
                                 backgroundColor: [
                                     "#F7464A",
                                     "#46BFBD",
-                                    "#4D5360",
-                                    "#F7464A",
-                                    "#46BFBD",
-                                    "rgba(75,192,192,0.4)",
-                                    "#196c32",
                                     "#FDB45C",
+                                    "#949FB1",
+                                    "#4D5360",
+                                    "#669999",
+                                    "#FF6384",
+                                    "#36A2EB",
                                     "#fbbc05",
-                                    "#4D5360"
+                                    "#196c32"
                                 ],
                                 hoverBackgroundColor: [
                                     "#F7464A",
                                     "#46BFBD",
-                                    "#4D5360",
-                                    "#F7464A",
-                                    "#46BFBD",
-                                    "rgba(75,192,192,0.4)",
-                                    "#196c32",
                                     "#FDB45C",
+                                    "#949FB1",
+                                    "#4D5360",
+                                    "#669999",
+                                    "#FF6384",
+                                    "#36A2EB",
                                     "#fbbc05",
-                                    "#4D5360"
+                                    "#196c32"
                                 ]
                             }]
                         },

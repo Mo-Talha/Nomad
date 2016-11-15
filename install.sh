@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+install_java(){
+    if ! which java >/dev/null; then
+        sudo apt-get install -y openjdk-8-jre
+    fi
+}
+
 install_git(){
     # Get latest version of git
     if ! ls /etc/apt/sources.list.d/ 2>&1 | grep -q git-core-ubuntu-ppa; then
@@ -83,6 +89,7 @@ install_nodejs(){
 # Get password
 sudo echo
 
+install_java
 install_git
 install_nginx
 install_mongodb
