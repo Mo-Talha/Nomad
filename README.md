@@ -7,7 +7,6 @@
 Jobmine statistics on employers and employees.
 
 ## Statistics
-- Show most popular skill on homepage (for software: programming languages)
 - Show employer & employer jobs popularity (by # of applicants)
 - Show how many spots the employer usually has and how many of them usually get filled (some employers advertise a lot more positions than they hire)
 - Show warnings for employer
@@ -17,47 +16,4 @@ Jobmine statistics on employers and employees.
 - Google maps location of most probable location (for employer)
 - Allow user to input jobs that they are interested in (either by job title, keywords etc.) and mail them jobs they might be interested in
 
-To convert to new location settings
-db.getCollection('job').find().forEach(function(doc){
-    userLocationsList = doc.location;
-    locations = [];
-    userLocationsList.forEach(function(loc){
-        locations.push({
-                'name': loc,
-                'longitude': 0.0,
-                'latitude': 0.0
-        });
-    });
-    doc.location = locations;
-    db.getCollection('job').save(doc);
-});
-
-
-import mongoengine
-import time
-from models.job import Job
-from models.location import Location
-
-import shared.secrets as secrets
-
-if __name__ == "__main__":
-    mongoengine.connect(secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT)
-
-    for job in Job.objects:
-        for l in job.location:
-            location = Location(name=l.name)
-
-            job.update(location=l.name, longitude=location.longitude, latitude=location.latitude)
-            time.sleep(5)
-
-        db = connection._get_db(reconnect=False)
-
-        pipeline = [
-            {"location": {
-                "$in": [
-                    {"name": kwargs['name'], "longitude": {"$ne": 0.0}, "latitude": {"$ne": 0.0}}
-                ]}},
-            {"location": 1}
-        ]
-
-        job_locations = db.job.find_one(pipeline)
+db.getCollection('job').find({$text: {$search: "Software engineering"}}, {score: {$meta: "textScore"}}).sort({score:{$meta:"textScore"}})

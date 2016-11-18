@@ -64,11 +64,58 @@ header nav.navbar .navbar-container .navbar-title {
     text-transform: uppercase;
 }
 
+header nav.navbar .navbar-container .navbar-search {
+    position: relative;
+    height: auto;
+    display: flex;
+    padding-left: 30px;
+    width: 40%;
+}
+
+header nav.navbar .navbar-container .navbar-search-icon {
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    padding: 0;
+    margin: 0;
+    background: #fff;
+    border: 0;
+    border-radius: 3px 0 0 3px;
+    vertical-align: top;
+    text-align: center;
+    line-height: 45px;
+    color: #a7a7a7;
+    -webkit-transition: .3s ease;
+    -moz-transition: .3s ease;
+    -o-transition: .3s ease;
+    transition: .3s ease;
+}
+
+header nav.navbar .navbar-container .navbar-search-form {
+    width: 100%;
+}
+
+header nav.navbar .navbar-container .navbar-search-form .navbar-searchbar {
+    position: relative;
+    display: inline-block;
+    background: #fff;
+    height: 45px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: none;
+    border-radius: 0 3px 3px 0;
+    font-size: 14px;
+    outline: none;
+    box-shadow: none;
+}
+
 header nav.navbar .navbar-container .navbar-items {
     display: inline-flex;
     margin-left: auto;
     margin-right: 3rem;
     border: 0;
+    float: right;
 }
 
 header nav.navbar .navbar-container .navbar-items a {
@@ -196,6 +243,14 @@ header nav.navbar .navbar-container .navbar-menu {
 }
 
 .card .card-body-container .card-body {
+    width: 100%;
+    height: 100%;
+}
+
+.job-search-container {
+    position: absolute;
+    display: flex;
+    background-color: #fff;
     width: 100%;
     height: 100%;
 }

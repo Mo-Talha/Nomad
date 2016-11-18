@@ -28,7 +28,7 @@ class Crawler:
 
         self.driver = webdriver.PhantomJS(service_args=['--web-security=no', '--webdriver-logfile=' + self._log_name])
 
-        self.driver.implicitly_wait(self.config.crawler_interval)
+        self.driver.implicitly_wait(60)
 
     def run(self):
         try:

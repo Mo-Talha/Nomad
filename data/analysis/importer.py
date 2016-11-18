@@ -86,8 +86,11 @@ def import_job(**kwargs):
 
     applicants = 0
 
-    if kwargs['applicants']:
-        applicants = int(kwargs['applicants'])
+    try:
+        if kwargs['applicants']:
+            applicants = int(kwargs['applicants'])
+    except Exception:
+        pass
 
     logger.info(COMPONENT, 'Importing job: {} from {}'.format(job_title, employer_name))
 
@@ -244,7 +247,13 @@ def update_job(**kwargs):
         else:
             logger.error(COMPONENT, 'Error processing program: {}'.format(program))
 
-    openings = int(kwargs['openings'])
+    openings = 0
+
+    try:
+        if kwargs['openings']:
+            openings = int(kwargs['openings'])
+    except Exception:
+        pass
 
     job = Job.objects(id=kwargs['id']).first()
 

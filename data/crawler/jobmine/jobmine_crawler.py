@@ -230,11 +230,11 @@ class JobmineCrawler(crawler.Crawler):
         for job in Job.get_active_job_urls():
             self.driver.get(job['url'])
 
-            employer_name = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_EMPUNITDIV').text\
-                .encode('ascii', 'ignore')
+            employer_name = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_EMPUNITDIV')\
+                .text.encode('ascii', 'ignore')
 
-            job_title = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_TITLE').text\
-                .encode('ascii', 'ignore')
+            job_title = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_TITLE')\
+                .text.encode('ascii', 'ignore')
 
             job_key = 'jobmine.{}.{}'.format(employer_name, job_title).replace(' ', '.')
 
@@ -250,7 +250,7 @@ class JobmineCrawler(crawler.Crawler):
                 programs_2 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100')\
                     .text.strip().strip(',').strip()
 
-                if not programs_2.isspace():
+                if programs_2:
                     programs += ',' + programs_2
 
                 programs = programs.split(',')

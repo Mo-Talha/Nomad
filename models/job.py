@@ -15,7 +15,7 @@ import models.term as Term
 class Job(Document):
     meta = {
         'indexes': [
-            '$title',
+            ('$title', '$summary'),
             'levels',
             'programs',
             'year',
