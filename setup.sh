@@ -103,6 +103,25 @@ configure_uwsgi(){
     sudo sed -i -e "s/<USER>/$USER/g" /etc/systemd/system/nomad.service
 }
 
+configure_elasticsearch(){
+    sudo killall elasticsearch 2>/dev/null
+
+    sudo rm -f /etc/elasticsearch/elasticsearch.yml
+
+    sudo addgroup --quiet elasticsearch 2>/dev/null
+    sudo adduser --quiet --system --no-create-home --ingroup elasticsearch --disabled-login --disabled-password elasticsearch
+
+    sudo mkdir -p /var/log/elasticsearch/
+    sudo mkdir -p /etc/elasticsearch/
+
+    sudo chown -R elasticsearch:elasticsearch /var/log/elasticsearch/
+    sudo chown -R elasticsearch:elasticsearch /etc/elasticsearch/
+    sudo chown -R elasticsearch:elasticsearch /var/lib/elasticsearch/
+    sudo chown -R elasticsearch:elasticsearch /usr/share/elasticsearch
+
+    sudo cp ./config/elasticsearch.yml /etc/elasticsearch/elasticsearch.yml
+}
+
 echo "Configuring Virtualenv"
 configure_virtualenv
 
@@ -117,6 +136,9 @@ configure_redis
 
 echo "Configuring uWSGI"
 configure_uwsgi
+
+echo "Configuring ElasticSearch"
+configure_elasticsearch
 
 sudo systemctl daemon-reload
 
@@ -140,6 +162,9 @@ npm install
 
 echo "Installing Bower dependencies"
 ./node_modules/bower/bin/bower install
+
+echo "Starting ElasticSearch"
+sudo systemctl start elasticsearch
 
 echo "Starting Nomad"
 sudo systemctl start nomad

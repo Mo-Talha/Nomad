@@ -1,6 +1,7 @@
 import os
 import flask
 import mongoengine
+import elasticsearch
 
 from bson import json_util
 
@@ -13,12 +14,18 @@ component = 'API'
 
 app = flask.Flask(__name__, template_folder="./templates")
 
+elastic = elasticsearch.Elasticsearch()
+
 
 def render_template(*args, **kwargs):
     kwargs.update({
         'env': os.environ.get('ENV') or ''
     })
     return flask.render_template(*args, **kwargs)
+
+
+def connect():
+    mongoengine.connect(secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT)
 
 
 @app.route("/")
@@ -175,5 +182,5 @@ def jobs_vs_css_frameworks_stat():
 
 
 if __name__ == "__main__":
-    mongoengine.connect(secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT)
-    app.run(host='0.0.0.0', debug=True)
+    connect()
+    app.run(host='0.0.0.0')

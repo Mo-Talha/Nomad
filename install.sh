@@ -6,6 +6,17 @@ install_java(){
     fi
 }
 
+install_elasticsearch(){
+    if ! ls /etc/apt/sources.list.d/ 2>&1 | grep -q elasticsearch.list; then
+        wget -qO - https://artifacts.elastic.co/GPG-KEY-elasticsearch | sudo apt-key add -
+
+        echo "deb http://packages.elastic.co/elasticsearch/5.0.0/debian stable main" | sudo tee -a /etc/apt/sources.list.d/elasticsearch.list
+
+        sudo apt-get update -qq -y
+        sudo apt-get install -y elasticsearch
+    fi
+}
+
 install_git(){
     # Get latest version of git
     if ! ls /etc/apt/sources.list.d/ 2>&1 | grep -q git-core-ubuntu-ppa; then
@@ -90,6 +101,7 @@ install_nodejs(){
 sudo echo
 
 install_java
+install_elasticsearch
 install_git
 install_nginx
 install_mongodb
