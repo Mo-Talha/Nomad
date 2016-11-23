@@ -8,7 +8,7 @@ import shared.secrets as secrets
 import shared.logger as logger
 
 
-COMPONENT = 'Elastic'
+COMPONENT = 'Search'
 
 mongoengine.connect(secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT)
 
@@ -50,18 +50,16 @@ def index_jobmine():
     employers = []
     jobs = []
 
-    job_index = 0
-
-    for i, employer in enumerate(Employer.objects.only('name', 'jobs')):
+    for employer in Employer.objects.only('name', 'jobs'):
         logger.info(COMPONENT, 'Indexing employer: {}'.format(employer.name))
 
         employer_document = {
             "_index": "jobmine",
             "_type": "employers",
-            "_id": i,
+            "_id": employer.name,
             "_source": {
-                "name": employer.name,
-                "jobs": [job.title for job in employer.jobs]
+                "employer_name": employer.name,
+                "employer_jobs": [str(job.id) for job in employer.jobs]
             }
         }
 
@@ -73,22 +71,22 @@ def index_jobmine():
             job_document = {
                 "_index": "jobmine",
                 "_type": "jobs",
-                "_parent": i,
-                "_id": job_index,
+                "_parent": employer.name,
+                "_id": str(job.id),
                 "_source": {
-                    "title": job.title,
-                    "year": job.year,
-                    "term": job.term,
-                    "summary": job.term,
-                    "locations": [location.name for location in job.location],
-                    "programs": job.programs,
-                    "levels": job.levels
+                    "employer_name": employer.name,
+                    "job_title": job.title,
+                    "job_year": job.year,
+                    "job_term": job.term,
+                    "job_summary": job.summary,
+                    "job_keywords": [k.keyword for k in job.keywords],
+                    "job_locations": [location.name for location in job.location],
+                    "job_programs": job.programs,
+                    "job_levels": job.levels
                 }
             }
 
             jobs.append(job_document)
-
-            job_index += 1
 
             if len(jobs) == 1000:
                 helpers.bulk(elastic, jobs)

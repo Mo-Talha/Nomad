@@ -2,11 +2,13 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Nomad - Jobmine Statistics</title>
+        {% block title %}
+        {% endblock %}
         <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
         <meta property="og:url" content="http://nomad.com/">
         <meta property="og:description" content="Jobmine statistics.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" href="/static/img/favicon.ico">
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
         {% block head_tags %}
         {% endblock %}
@@ -28,8 +30,8 @@
         </script>
     </head>
     <body>
-        {% include 'header.html' %}
-        {% include 'dashboard.html' %}
+        {% block header %}
+        {% endblock %}
         {% block templates %}
         {% endblock %}
         {% if env == 'prod' %}

@@ -1,4 +1,5 @@
 import os
+import string
 import flask
 import mongoengine
 import elasticsearch
@@ -29,13 +30,46 @@ def connect():
 
 
 @app.route("/")
+@app.route("/dashboard")
 def index():
-    return render_template('index.html', page_script='index.js')
+    return render_template('dashboard.html', page_script='index.js')
 
 
 @app.route("/csdashboard")
 def cs_dashboard():
-    return render_template('index.html', page_script='cs.js')
+    return render_template('dashboard.html', page_script='cs.js')
+
+
+@app.route("/search")
+def search():
+    print flask.request.args.get('q')
+    response = elastic.search(index='jobmine', doc_type=['jobs'], body={
+        "from": 0, "size": 15,
+        "query": {
+            "multi_match": {
+                "query": flask.request.args.get('q'),
+                "type": "cross_fields",
+                "fields": ["employer_name^4", "job_title^4", "job_term"]
+            },
+
+        }
+    })
+
+    jobs = []
+
+    if 'hits' in response and 'hits' in response['hits']:
+        for job in response['hits']['hits']:
+            jobs.append({
+                'employer_name': string.capwords(job['_source']['employer_name']),
+                'job_title': string.capwords(job['_source']['job_title']),
+                'job_year': job['_source']['job_year'],
+                'job_term': job['_source']['job_term'],
+                'job_programs': job['_source']['job_programs'],
+                'job_keywords': job['_source']['job_keywords']
+            })
+
+    return render_template('search.html', jobs=jobs, total_results="{:,}".format(int(response['hits']['total'])),
+                           time_taken=float(response['took']) / 1000)
 
 
 @app.route('/api/jobs-vs-programs-stat', methods=['POST'])
@@ -183,4 +217,4 @@ def jobs_vs_css_frameworks_stat():
 
 if __name__ == "__main__":
     connect()
-    app.run(host='0.0.0.0')
+    app.run(host='0.0.0.0', debug=True)

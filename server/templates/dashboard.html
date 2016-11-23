@@ -1,1 +1,13 @@
-<div class="dashboard-container"></div>
+{% extends 'index.html' %}
+
+{% block title %}
+    <title>Nomad - Dashboard</title>
+{% endblock %}
+
+{% block header %}
+    {% include 'dashboard_header.html' %}
+{% endblock %}
+
+{% block templates %}
+    <div class="dashboard-container"></div>
+{% endblock %}

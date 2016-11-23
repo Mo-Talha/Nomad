@@ -1,0 +1,11 @@
+{% extends 'header.html' %}
+{% block search %}
+    <div class="navbar-search">
+        <div class="navbar-search-container">
+            <span class="navbar-search-icon"><i class="fa fa-search"></i></span>
+            <form accept-charset="UTF-8" action="/search" class="navbar-search-form" method="get">
+                <input class="navbar-searchbar" name="q" value="" tabindex="2" autocapitalize="off" autofocus="" aria-label="Search" type="text" placeholder="Search jobs/employers">
+            </form>
+        </div>
+    </div>
+{% endblock %}

@@ -1,36 +1,9 @@
 {% extends 'index.html' %}
 
-{% block templates %}
-<div class="job-search-container">
-    <div class="job-search-row">
-        <ol>
-            {% for job in jobs %}
-                <div class="job-search-header">
-                    <div class="job-search-title">
-                        {{ job.title }}
-                    </div>
-                    <div class="job-search-term">
-                    <div class="job-search-coop-term">
-                        {{ job.term }}
-                    </div>
-                      <div class="job-search-year">
-                        {{ job.year }}
-                      </div>
-                    </div>
-                </div>
-                {% if job.keywords %}
-                    <div class="job-search-keywords">
-                        {% for keyword in job.keywords %}
-                            <div class="job-search-keyword-box">
-                                <div class="job-search-keyword">
-                                    {{ keyword }}
-                                </div>
-                            </div>
-                        {% endfor %}
-                    </div>
-                {% endif %}
-            {% endfor %}
-        </ol>
-      </div>
-</div>
+{% block title %}
+    <title>Nomad - Jobs</title>
+{% endblock %}
+
+{% block header %}
+    {% include 'jobs_header.html' %}
 {% endblock %}

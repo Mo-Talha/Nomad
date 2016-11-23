@@ -2,6 +2,21 @@ a {
     text-decoration: none;
 }
 
+ul,
+ol {
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #333;
+}
+
 *,
 * * {
     box-sizing: border-box;
@@ -14,9 +29,9 @@ html {
 body {
     font-family: 'Roboto', sans-serif;
     overflow-x: hidden;
-    background-color: #eee;
     display: flex;
     flex-direction: column;
+    background-color: #eee;
     margin: 0;
     padding: 0;
     font-size: 16px;
@@ -72,7 +87,16 @@ header nav.navbar .navbar-container .navbar-search {
     width: 40%;
 }
 
-header nav.navbar .navbar-container .navbar-search-icon {
+header nav.navbar .navbar-container .navbar-search .navbar-search-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    color: #fff;
+    background-color: #fff;
+    border-radius: 3px;
+}
+
+header nav.navbar .navbar-container .navbar-search .navbar-search-container .navbar-search-icon {
     display: inline-block;
     width: 45px;
     height: 45px;
@@ -91,11 +115,11 @@ header nav.navbar .navbar-container .navbar-search-icon {
     transition: .3s ease;
 }
 
-header nav.navbar .navbar-container .navbar-search-form {
+header nav.navbar .navbar-container .navbar-search .navbar-search-container .navbar-search-form {
     width: 100%;
 }
 
-header nav.navbar .navbar-container .navbar-search-form .navbar-searchbar {
+header nav.navbar .navbar-container .navbar-search .navbar-search-container .navbar-search-form .navbar-searchbar {
     position: relative;
     display: inline-block;
     background: #fff;
@@ -248,9 +272,55 @@ header nav.navbar .navbar-container .navbar-menu {
 }
 
 .job-search-container {
-    position: absolute;
     display: flex;
+    flex-direction: column;
     background-color: #fff;
-    width: 100%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
     height: 100%;
+}
+
+.job-search-container .job-search-results {
+    padding: 20px 0 20px 0;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.job-search-container .job-search-row {
+    position: relative;
+}
+
+.job-search-container .job-search-row .job-search {
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border-bottom: 1px #e5e5e5 solid;
+}
+
+.job-search-container .job-search-row .job-search .job-search-header {
+    display: inline-flex;
+    align-items: center;
+}
+
+.job-search-container .job-search-row .job-search .job-search-header .job-search-title {
+    display: inline-block;
+    color: #1a78c2;
+    text-decoration: none;
+    font-size: 18px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.job-search-container .job-search-row .job-search .job-search-header .job-search-term {
+    position: absolute;
+    display: inline-block;
+    right: 0;
+}
+
+.job-search-container .job-search-row .job-search .job-search-header .job-search-term .job-search-coop-term {
+    display: inline-block;
+}
+
+.job-search-container .job-search-row .job-search .job-search-header .job-search-term .job-search-year {
+    display: inline-block;
 }
