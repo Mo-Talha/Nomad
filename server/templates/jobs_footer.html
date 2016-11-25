@@ -1,0 +1,26 @@
+{% if total_results_unformatted > 10 %}
+    <div class="jobs-search-paginate-container">
+        <div class="job-search-pagination">
+            {% if pagination[0] == page %}
+                <a class="previous_page disabled">Previous</a>
+            {% endif %}
+            {% if pagination[0] != page %}
+                <a class="previous_page" href="/search?q={{ query }}&p={{ page - 1 }}">Previous</a>
+            {% endif %}
+            {% for i in pagination %}
+                {% if i == page %}
+                    <em class="current">{{ i }}</em>
+                {% endif %}
+                {% if i != page %}
+                    <a rel="next" href="/search?q={{ query }}&p={{ i }}">{{ i }}</a>
+                {% endif %}
+            {% endfor %}
+            {% if pagination[-1] == page %}
+                <a class="next_page disabled">Next</a>
+            {% endif %}
+            {% if pagination[-1] != page %}
+                <a class="next_page" rel="next" href="/search?q={{ query }}&p={{ page + 1 }}">Next</a>
+            {% endif %}
+        </div>
+    </div>
+{% endif %}

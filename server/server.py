@@ -2,10 +2,11 @@ import os
 import string
 import flask
 import mongoengine
-import elasticsearch
+import colors
 
 from bson import json_util
 
+import data.search.elastic as elastic
 import analytics.statistics as stats
 
 import shared.secrets as secrets
@@ -14,8 +15,6 @@ import shared.secrets as secrets
 component = 'API'
 
 app = flask.Flask(__name__, template_folder="./templates")
-
-elastic = elasticsearch.Elasticsearch()
 
 
 def render_template(*args, **kwargs):
@@ -42,34 +41,62 @@ def cs_dashboard():
 
 @app.route("/search")
 def search():
-    print flask.request.args.get('q')
-    response = elastic.search(index='jobmine', doc_type=['jobs'], body={
-        "from": 0, "size": 15,
-        "query": {
-            "multi_match": {
-                "query": flask.request.args.get('q'),
-                "type": "cross_fields",
-                "fields": ["employer_name^4", "job_title^4", "job_term"]
-            },
+    query = flask.request.args.get('q') or ''
+    current_page = flask.request.args.get('p') or 1
+    current_page = int(current_page)
 
-        }
-    })
+    response = elastic.query_jobs(query, current_page)
+    time_taken = float(response['took']) / 1000
+    total_results = int(response['hits']['total'])
 
     jobs = []
 
     if 'hits' in response and 'hits' in response['hits']:
         for job in response['hits']['hits']:
+            keywords = []
+
+            for keyword in job['_source']['job_keywords']:
+                color = '#949FB1'
+
+                if keyword in colors.colors and colors.colors[keyword]['color']:
+                    color = colors.colors[keyword]['color']
+
+                keywords.append({
+                    'keyword': keyword,
+                    'color': color
+                })
+
             jobs.append({
                 'employer_name': string.capwords(job['_source']['employer_name']),
                 'job_title': string.capwords(job['_source']['job_title']),
                 'job_year': job['_source']['job_year'],
                 'job_term': job['_source']['job_term'],
                 'job_programs': job['_source']['job_programs'],
-                'job_keywords': job['_source']['job_keywords']
+                'job_keywords': keywords
             })
 
-    return render_template('search.html', jobs=jobs, total_results="{:,}".format(int(response['hits']['total'])),
-                           time_taken=float(response['took']) / 1000)
+    return render_template('search.html', jobs=jobs, total_results="{:,}".format(total_results),
+                           total_results_unformatted=total_results, page=current_page, query=query,
+                           pagination=_get_pagination(current_page, total_results),
+                           time_taken=time_taken)
+
+
+def _get_pagination(current_page, total_page):
+    start_page = current_page - 5
+    end_page = current_page + 4
+    total_page /= 10
+    total_page += 1
+
+    if start_page <= 0:
+        end_page -= (start_page - 1)
+        start_page = 1
+
+    if end_page > total_page:
+        end_page = total_page
+        if end_page > 10:
+            start_page = end_page - 9
+
+    return range(start_page, end_page + 1)
 
 
 @app.route('/api/jobs-vs-programs-stat', methods=['POST'])

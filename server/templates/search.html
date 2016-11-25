@@ -10,42 +10,57 @@
 
 {% block templates %}
     <div class="job-search-container">
-        <div class="job-search-results">
-            <h3>About {{ total_results }} jobs found ({{ time_taken }} seconds)</h3>
-        </div>
-        <div class="job-search-row">
-            <ol>
-                {% for job in jobs %}
-                    <div class="job-search">
-                        <div class="job-search-header">
-                            <a class="job-search-title" href="#">
-                                {{ job['employer_name'] }}/{{ job['job_title'] }}
-                            </a>
-                            <div class="job-search-term">
-                                <div class="job-search-coop-term">
-                                    {{ job['job_term'] }}
-                                </div>
-                                <div class="job-search-year">
-                                    {{ job['job_year'] }}
+        <div class="job-search-container-wrapper">
+            <div class="job-search-results">
+                <h3>About {{ total_results }} jobs found ({{ time_taken }} seconds)</h3>
+            </div>
+            <div class="job-search-row">
+                <ol>
+                    {% for job in jobs %}
+                        <div class="job-search">
+                            <div class="job-search-header">
+                                <a class="job-search-title" href="#">
+                                    {{ job['employer_name'] }}/{{ job['job_title'] }}
+                                </a>
+                                <div class="job-search-term">
+                                    <div class="job-search-coop-term">
+                                        {{ job['job_term'] }}
+                                    </div>
+                                    <div class="job-search-year">
+                                        {{ job['job_year'] }}
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="job-search-content">
-                            {% if job['job_keywords']|length > 0 %}
-                                <div class="job-search-keywords">
-                                    {% for keyword in job['job_keywords'] %}
-                                        <div class="job-search-keyword-box">
-                                            <div class="job-search-keyword">
-                                                {{ keyword }}
+                            <div class="job-search-content">
+                                {% if job['job_programs']|length > 0 %}
+                                    <div class="job-search-programs">
+                                        {% for program in job['job_programs'] %}
+                                            <div class="job-search-program-box">
+                                                <div class="job-search-program">{{ program }}</div>
                                             </div>
-                                        </div>
-                                    {% endfor %}
-                                </div>
-                            {% endif %}
+                                        {% endfor %}
+                                    </div>
+                                {% endif %}
+                                {% if job['job_keywords']|length > 0 %}
+                                    <div class="job-search-keywords">
+                                        {% for keyword in job['job_keywords'] %}
+                                            <div class="job-search-keyword-box">
+                                                <div class="job-search-keyword-color" style="background-color:{{ keyword['color'] }};"></div>
+                                                <div class="job-search-keyword">{{ keyword['keyword'] }}</div>
+                                            </div>
+                                        {% endfor %}
+                                    </div>
+                                {% endif %}
+                            </div>
                         </div>
-                    </div>
-                {% endfor %}
-            </ol>
-          </div>
+                    {% endfor %}
+                </ol>
+              </div>
+
+        </div>
     </div>
+{% endblock %}
+
+{% block footer %}
+    {% include 'jobs_footer.html' %}
 {% endblock %}

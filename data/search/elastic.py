@@ -10,17 +10,15 @@ import shared.logger as logger
 
 COMPONENT = 'Search'
 
-mongoengine.connect(secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT)
-
-elastic = elasticsearch.Elasticsearch()
+elastic_instance = elasticsearch.Elasticsearch()
 
 
 def index_jobmine():
     logger.info(COMPONENT, 'Indexing jobmine data')
 
-    elastic.indices.delete(index='jobmine', ignore=[404])
+    elastic_instance.indices.delete(index='jobmine', ignore=[404])
 
-    elastic.indices.create('jobmine', body={
+    elastic_instance.indices.create('jobmine', body={
         "mappings": {
             "employers": {
                 "properties": {
@@ -66,42 +64,62 @@ def index_jobmine():
         employers.append(employer_document)
 
         for job in employer.jobs:
-            logger.info(COMPONENT, 'Indexing job: {} for employer: {}'.format(job.title, employer.name))
+            if not job.deprecated:
+                logger.info(COMPONENT, 'Indexing job: {} for employer: {}'.format(job.title, employer.name))
 
-            job_document = {
-                "_index": "jobmine",
-                "_type": "jobs",
-                "_parent": employer.name,
-                "_id": str(job.id),
-                "_source": {
-                    "employer_name": employer.name,
-                    "job_title": job.title,
-                    "job_year": job.year,
-                    "job_term": job.term,
-                    "job_summary": job.summary,
-                    "job_keywords": [k.keyword for k in job.keywords],
-                    "job_locations": [location.name for location in job.location],
-                    "job_programs": job.programs,
-                    "job_levels": job.levels
+                job_document = {
+                    "_index": "jobmine",
+                    "_type": "jobs",
+                    "_parent": employer.name,
+                    "_id": str(job.id),
+                    "_source": {
+                        "employer_name": employer.name,
+                        "job_title": job.title,
+                        "job_year": job.year,
+                        "job_term": job.term,
+                        "job_summary": job.summary,
+                        "job_keywords": [k.keyword for k in job.keywords],
+                        "job_locations": [location.name for location in job.location],
+                        "job_programs": job.programs,
+                        "job_levels": job.levels
+                    }
                 }
-            }
 
-            jobs.append(job_document)
+                jobs.append(job_document)
 
             if len(jobs) == 1000:
-                helpers.bulk(elastic, jobs)
+                helpers.bulk(elastic_instance, jobs)
                 jobs = []
 
         if len(employers) == 1000:
-            helpers.bulk(elastic, employers)
+            helpers.bulk(elastic_instance, employers)
             employers = []
 
     if len(employers) > 0:
-        helpers.bulk(elastic, employers)
+        helpers.bulk(elastic_instance, employers)
 
     if len(jobs) > 0:
-        helpers.bulk(elastic, jobs)
+        helpers.bulk(elastic_instance, jobs)
+
+
+def query_jobs(query, page):
+    start_page = 10 * (int(page) - 1)
+
+    response = elastic_instance.search(index='jobmine', doc_type=['jobs'], body={
+        "from": start_page, "size": 10,
+        "query": {
+            "multi_match": {
+                "query": query,
+                "type": "cross_fields",
+                "fields": ["employer_name^4", "job_title^4", "job_term"]
+            },
+
+        }
+    })
+
+    return response
 
 
 if __name__ == "__main__":
+    mongoengine.connect(secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT)
     index_jobmine()
