@@ -34,7 +34,7 @@ prod:
 
 	@echo "Done"
 
-test: virtualenv
+test:
 	source ~/.virtualenv/Nomad/bin/activate && PYTHONPATH=$(PYTHONPATH):. python -m unittest discover --pattern=*test.py -v
 
 clean:
