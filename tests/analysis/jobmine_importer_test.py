@@ -749,7 +749,7 @@ class JobmineImporterTest(unittest.TestCase):
         self.assertEqual(job.location[0].name, location)
         self.assertEqual(job.location[1].name, location_update)
         self.assertEqual(int(round(job.location[0].longitude)), -81)
-        self.assertEqual(int(round(job.location[0].latitude)),  43)
+        self.assertEqual(int(round(job.location[0].latitude)),  44)
         self.assertEqual(int(round(job.location[1].longitude)), -79)
         self.assertEqual(int(round(job.location[1].latitude)),  44)
         self.assertEqual(job.openings, openings)
