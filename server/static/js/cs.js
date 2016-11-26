@@ -1,4 +1,4 @@
-require(['lib/jquery', 'js/views/dashboard/csdashboard.view'],
+require(['lib/jquery', 'js/views/dashboard/csdashboard.view', 'js/search'],
     function($, CSDashboardView) {
 
     $('.navbar-menu').click(function(){

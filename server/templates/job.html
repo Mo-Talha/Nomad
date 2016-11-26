@@ -1,0 +1,93 @@
+{% extends 'index.html' %}
+
+{% block title %}
+    <title>{{ job_data['employer_name'] }}/{{ job_data['job_title'] }}</title>
+{% endblock %}
+
+{% block header %}
+    {% include 'job_header.html' %}
+{% endblock %}
+
+{% block templates %}
+    <div class="job-container">
+        <div class="job-container-wrapper">
+            <div class="job-header">
+                <div class="job-title-header">
+                    <div class="job-title">
+                        {{ job_data['employer_name'] }}/{{ job_data['job_title'] }}
+                    </div>
+                    <div class="job-term">
+                        <div class="job-coop-term">
+                            {{ job_data['job_term'] }}
+                        </div>
+                        <div class="job-year">
+                            {{ job_data['job_year'] }}
+                        </div>
+                    </div>
+                    <div class="job-positions-left">
+                        {{ job_data['job_remaining'] }}/{{ job_data['job_openings'] }} positions remaining
+                    </div>
+                    <div class="job-hire-rate">
+                        {{ job_data['job_hire_rate'] }} hire rate
+                    </div>
+                </div>
+                {% if job_data['job_levels']|length > 0 %}
+                    <div class="job-levels">
+                        Job Levels: &nbsp;
+                        {% for level in job_data['job_levels'] %}
+                            <div class="job-level-box">
+                                <div class="job-level">{{ level }}</div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+                {% if job_data['job_programs']|length > 0 %}
+                    <div class="job-programs">
+                        Programs: &nbsp;
+                        {% for program in job_data['job_programs'] %}
+                            <div class="job-program-box">
+                                <div class="job-program">{{ program }}</div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+                {% if job_data['job_locations']|length > 0 %}
+                    <div class="job-locations">
+                        Locations: &nbsp;
+                        {% for location in job_data['job_locations'] %}
+                            <div class="job-location-box">
+                                <div class="job-location">{{ location }}</div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+                {% if job_data['job_keywords']|length > 0 %}
+                    <div class="job-keywords">
+                        {% for keyword in job_data['job_keywords'] %}
+                            <div class="job-keyword-box">
+                                <div class="job-keyword-color" style="background-color:{{ keyword['color'] }};"></div>
+                                <div class="job-keyword">{{ keyword['keyword'] }}</div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+            </div>
+            <div class="job-content">
+                <div class="job-description-container">
+                    <span class="job-description-header">Description:</span>
+                    <br>
+                    <p class="job-description">
+                        {{ job_data['job_summary']|safe }}
+                    </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    {# window.pageData.comments = {{ comments|tojson|safe }}; #}
+</script>
+{% endblock %}

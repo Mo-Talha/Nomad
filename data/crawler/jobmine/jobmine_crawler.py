@@ -141,7 +141,7 @@ class JobmineCrawler(crawler.Crawler):
                                                            .format(job_index)).text.encode('ascii', 'ignore')
 
                 location = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBRES_VW_UW_CO_WORK_LOCATN${}'
-                                                          .format(job_index)).text
+                                                          .format(job_index)).text.encode('ascii', 'ignore')
 
                 openings = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBRES_VW_UW_CO_OPENGS${}'
                                                           .format(job_index)).text
@@ -228,49 +228,58 @@ class JobmineCrawler(crawler.Crawler):
 
         # Iterate through "active" jobs in DB (i.e. non-deprecated, current term)
         for job in Job.get_active_job_urls():
-            self.driver.get(job['url'])
+            job_update_key = 'jobmine.update.{}'.format(job['id']).replace(' ', '.')
 
-            employer_name = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_EMPUNITDIV')\
-                .text.encode('ascii', 'ignore')
+            if not self.redis.exists(job_update_key):
+                self.driver.get(job['url'])
 
-            job_title = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_TITLE')\
-                .text.encode('ascii', 'ignore')
+                employer_name = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_EMPUNITDIV')\
+                    .text.encode('ascii', 'ignore')
 
-            job_key = 'jobmine.{}.{}'.format(employer_name, job_title).replace(' ', '.')
+                job_title = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_TITLE')\
+                    .text.encode('ascii', 'ignore')
 
-            if not self.redis.exists(job_key):
-                location = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_WORK_LOCATN').text
+                job_key = 'jobmine.{}.{}'.format(employer_name, job_title).replace(' ', '.')
 
-                openings = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_AVAIL_OPENGS').text
+                if not self.redis.exists(job_key):
+                    location = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_WORK_LOCATN')\
+                        .text.encode('ascii', 'ignore')
 
-                summary = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
+                    openings = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_AVAIL_OPENGS').text
 
-                programs = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR')\
-                    .text.strip().strip(',').strip()
-                programs_2 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100')\
-                    .text.strip().strip(',').strip()
+                    summary = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_VW_UW_CO_JOB_DESCR').text
 
-                if programs_2:
-                    programs += ',' + programs_2
+                    programs = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR')\
+                        .text.strip().strip(',').strip()
+                    programs_2 = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR100')\
+                        .text.strip().strip(',').strip()
 
-                programs = programs.split(',')
-                programs = map(lambda p: p.strip(), programs)
+                    if programs_2:
+                        programs += ',' + programs_2
 
-                levels = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR_100').text
-                levels = levels.strip(',').strip().split(',')
-                levels = map(lambda l: l.strip(), levels)
+                    programs = programs.split(',')
+                    programs = map(lambda p: p.strip(), programs)
 
-                importer.update_job(id=job['id'], location=location, levels=levels, openings=openings, summary=summary,
-                                    programs=programs)
+                    levels = self.wait_till_find_element_by(By.ID, 'UW_CO_JOBDTL_DW_UW_CO_DESCR_100').text
+                    levels = levels.strip(',').strip().split(',')
+                    levels = map(lambda l: l.strip(), levels)
 
-                self.redis.set(job_key, 1)
-                self.redis.expire(job_key, self.config.cache_interval)
+                    importer.update_job(id=job['id'], location=location, levels=levels, openings=openings, summary=summary,
+                                        programs=programs)
+
+                    self.redis.set(job_key, 1)
+                    self.redis.set(job_update_key, 1)
+                    self.redis.expire(job_key, self.config.cache_interval)
+                    self.redis.expire(job_update_key, self.config.cache_interval)
+
+                else:
+                    self.logger.info(self.config.name, 'Job: {} from {} already exists in cache, skipping..'
+                                     .format(job_title, employer_name))
+
+                self.wait()
 
             else:
-                self.logger.info(self.config.name, 'Job: {} from {} already exists in cache, skipping..'
-                                 .format(job_title, employer_name))
-
-            self.wait()
+                self.logger.info(self.config.name, 'Job: {} already exists in cache, skipping..'.format(job['id']))
 
     def _set_search_params(self):
         try:

@@ -68,7 +68,7 @@ def import_job(**kwargs):
 
     location = kwargs['location'].lower()
 
-    openings = int(kwargs['openings'])
+    openings = int(kwargs['openings']) or 0
 
     remaining = int(kwargs['remaining']) if 'remaining' in kwargs else openings
 

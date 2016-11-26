@@ -1,3 +1,60 @@
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(/static/fonts/roboto-regular-cyrillic-ext.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(/static/fonts/roboto-regular-cyrillic.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(/static/fonts/roboto-regular-greek-ext.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(/static/fonts/roboto-regular-greek.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(/static/fonts/roboto-regular-viet.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(/static/fonts/roboto-regular-latin-ext.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(/static/fonts/roboto-regular-latin.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
 a {
     text-decoration: none;
 }
@@ -441,4 +498,161 @@ header nav.navbar .navbar-container .navbar-menu {
 .jobs-search-paginate-container .job-search-pagination a:hover {
     text-decoration: none;
     background: #eee;
+}
+
+.job-container {
+    height: 100%;
+    width: 100%;
+    padding: 0.5rem;
+    display: inline-flex;
+}
+
+.job-container .job-container-wrapper {
+    background-color: #fff;
+    box-shadow: 0 0.0625rem 0.25rem 0 rgba(0,0,0,0.14);
+    border-radius: 0.1875rem;
+    height: 100%;
+    width: 90%;
+    padding: 0.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    color: #333
+}
+
+.job-container .job-container-wrapper .job-header {
+    display: block;
+    position: relative;
+    border-bottom: 1px #e5e5e5 solid;
+    margin-bottom: 1rem;
+}
+
+.job-container .job-container-wrapper .job-header {
+    align-items: center;
+}
+
+.job-container .job-container-wrapper .job-header .job-title-header {
+    display: flex;
+    align-items: center;
+    margin: 10px 0 70px 0;
+}
+
+.job-container .job-container-wrapper .job-header .job-title-header .job-title {
+    display: inline-flex;
+    color: #1a78c2;
+    text-decoration: none;
+    font-size: 18px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    align-items: center;
+}
+
+.job-container .job-container-wrapper .job-header .job-title-header .job-term {
+    position: absolute;
+    display: inline-block;
+    right: 0;
+    color: #333;
+    font-size: 18px;
+    padding-right: 10px;
+}
+
+.job-container .job-container-wrapper .job-header .job-title-header .job-positions-left {
+    position: absolute;
+    right: 0;
+    top: 30px;
+    padding-right: 10px;
+}
+
+.job-container .job-container-wrapper .job-header .job-title-header .job-hire-rate {
+    position: absolute;
+    right: 0;
+    top: 60px;
+    padding-right: 10px;
+}
+
+.job-container .job-container-wrapper .job-header .job-title-header .job-term .job-coop-term {
+    display: inline-block;
+}
+
+.job-container .job-container-wrapper .job-header .job-title-header .job-term .job-year {
+    display: inline-block;
+}
+
+.job-container .job-container-wrapper .job-header .job-levels {
+    font-size: 14px;
+    margin-bottom: 1rem;
+}
+
+.job-container .job-container-wrapper .job-header .job-levels .job-level-box {
+    display: inline-block;
+    margin-right: 2px;
+}
+
+.job-container .job-container-wrapper .job-header .job-levels .job-level-box .job-level {
+    display: inline-block;
+}
+
+.job-container .job-container-wrapper .job-header .job-programs {
+    font-size: 14px;
+    margin-bottom: 1rem;
+}
+
+.job-container .job-container-wrapper .job-header .job-programs .job-program-box {
+    display: inline-block;
+    margin-right: 2px;
+}
+
+.job-container .job-container-wrapper .job-header .job-programs .job-program-box .job-program {
+    display: inline-block;
+}
+
+.job-container .job-container-wrapper .job-header .job-locations {
+    font-size: 14px;
+    margin-bottom: 1rem;
+}
+
+.job-container .job-container-wrapper .job-header .job-locations .job-location-box {
+    display: inline-block;
+}
+
+.job-container .job-container-wrapper .job-header .job-locations .job-location-box .job-location {
+    display: inline-block;
+    margin-right: 2px;
+}
+
+.job-container .job-container-wrapper .job-header .job-keywords {
+    display: inline-block;
+    font-size: 14px;
+    margin-bottom: 1rem;
+}
+
+.job-container .job-container-wrapper .job-header .job-keywords .job-keyword-box {
+    display: inline-block;
+    margin-right: 8px;
+}
+
+.job-container .job-container-wrapper .job-header .job-keywords .job-keyword-box .job-keyword {
+    display: inline-block;
+}
+
+.job-container .job-container-wrapper .job-header .job-keywords .job-keyword-box .job-keyword-color {
+    position: relative;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+.job-container .job-container-wrapper .job-content,
+.job-container .job-container-wrapper .job-content .job-description-container {
+    width: 100%;
+    height: 100%;
+    font-size: 14px;
+}
+
+.job-container .job-container-wrapper .job-content .job-description-container .job-description {
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+    word-wrap: break-word;
+    line-height: 130%;
 }

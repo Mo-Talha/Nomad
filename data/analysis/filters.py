@@ -46,6 +46,30 @@ remove = [
     travel awards /scholarships detailed at Student Awards and Financial Aid (SAFA): https://uwaterloo.ca/student-awards
     -financial-aid/international-experience-awards. Apply as early as possible as applications have deadlines - see
     SAFA site for details.
+    """,
+    """
+    IMPORTANT NOTE FROM CECA RE: EMPLOYMENT OUTSIDE Canada and USA
+
+    This work opportunity will be outside Canada and USA, and therefore will have certain financial realities.
+    Students should be aware that student salaries in countries outside North America are typically significantly
+    lower than Canadian minimum wages, and that it is unlikely that the local salary will allow for any significant level
+    of savings during the work term.
+
+    Also, international companies do not necessarily provide any additional compensation for airfare, work permit or
+    housing expenses. Sign-offs will not be permitted for financial reasons; so, please review what is covered or
+    not covered in the compensation details. Use a currency converter like http://www.bankofcanada.ca/rates/exchange
+    /daily-converter/  to understand the Canadian equivalent.  Students should assume that all expenses related to airfare,
+    work permit and housing will be the responsibility of the student.
+
+    Also, please go to https://uwaterloo.ca/co-operative-education/working-abroad/finding-international-job-opportunities
+    /are-you-eligible-work-abroad, and read the information listed in its entirety before you apply for this job. Please
+    be aware of mandatory and other requirements for students working outside Canada: https://uwaterloo.ca/co-operative
+    -education/working-abroad/found-international-job-jobmine.
+
+    Co-op students who are successful in obtaining an international co-op work term can consider applying for international
+    travel awards /scholarships detailed at Student Awards and Financial Aid (SAFA): https://uwaterloo.ca/student-awards
+    -financial-aid/international-experience-awards. Apply as early as possible as applications have deadlines - see
+    SAFA site for details.
     """
 ]
 

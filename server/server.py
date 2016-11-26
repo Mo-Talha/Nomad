@@ -1,3 +1,4 @@
+import math
 import os
 import string
 import flask
@@ -5,6 +6,9 @@ import mongoengine
 import colors
 
 from bson import json_util
+
+from models.employer import Employer
+from models.job import Job
 
 import data.search.elastic as elastic
 import analytics.statistics as stats
@@ -39,8 +43,52 @@ def cs_dashboard():
     return render_template('dashboard.html', page_script='cs.js')
 
 
-@app.route("/search")
-def search():
+@app.route("/jobs")
+@app.route("/job")
+def display_job():
+    employer_name = flask.request.args.get('employer') or ''
+    job_title = flask.request.args.get('title') or ''
+
+    employer = Employer.objects(name=employer_name).no_dereference().first()
+
+    job = Job.objects(id__in=[job.id for job in employer.jobs], title=job_title, deprecated=False).first()
+
+    summary = job.summary.strip('-').strip('_').strip('-').strip('_').strip().replace('\n', '<br>')\
+        .replace('\r\n', '<br>')
+
+    keywords = []
+
+    for keyword in job.keywords:
+        color = '#949FB1'
+
+        if keyword.keyword in colors.colors and colors.colors[keyword.keyword]['color']:
+            color = colors.colors[keyword.keyword]['color']
+
+        keywords.append({
+            'keyword': keyword.keyword,
+            'color': color
+        })
+
+    job_data = {
+        'employer_name': string.capwords(employer.name),
+        'job_title': string.capwords(job.title),
+        'job_term': job.term,
+        'job_year': job.year,
+        'job_summary': summary,
+        'job_locations': [string.capwords(location.name) for location in job.location],
+        'job_openings': job.openings,
+        'job_remaining': job.remaining,
+        'job_hire_rate': job.hire_rate.rating,
+        'job_programs': job.programs,
+        'job_levels': job.levels,
+        'job_keywords': keywords
+    }
+
+    return render_template('job.html', job_data=job_data, page_script='job.js')
+
+
+@app.route("/jobs/search")
+def search_job():
     query = flask.request.args.get('q') or ''
     current_page = flask.request.args.get('p') or 1
     current_page = int(current_page)
@@ -75,17 +123,58 @@ def search():
                 'job_keywords': keywords
             })
 
+    return render_template('job_search.html', jobs=jobs, total_results="{:,}".format(total_results),
+                           total_results_unformatted=total_results, page=current_page, query=query,
+                           pagination=_get_pagination(current_page, total_results),
+                           time_taken=time_taken, page_script='search.js')
+
+
+@app.route("/search")
+def search():
+    query = flask.request.args.get('q') or ''
+    current_page = flask.request.args.get('p') or 1
+    current_page = int(current_page)
+
+    response = elastic.query_jobs_and_employers(query, current_page)
+    time_taken = float(response['took']) / 1000
+    total_results = int(response['hits']['total'])
+
+    jobs = []
+
+    if 'hits' in response and 'hits' in response['hits']:
+        for job in response['hits']['hits']:
+            keywords = []
+
+            for keyword in job['_source']['job_keywords']:
+                color = '#949FB1'
+
+                if keyword in colors.colors and colors.colors[keyword]['color']:
+                    color = colors.colors[keyword]['color']
+
+                keywords.append({
+                    'keyword': keyword,
+                    'color': color
+                })
+
+            jobs.append({
+                'employer_name': string.capwords(job['_source']['employer_name']),
+                'job_title': string.capwords(job['_source']['job_title']),
+                'job_year': job['_source']['job_year'],
+                'job_term': job['_source']['job_term'],
+                'job_programs': job['_source']['job_programs'],
+                'job_keywords': keywords
+            })
+
     return render_template('search.html', jobs=jobs, total_results="{:,}".format(total_results),
                            total_results_unformatted=total_results, page=current_page, query=query,
                            pagination=_get_pagination(current_page, total_results),
-                           time_taken=time_taken)
+                           time_taken=time_taken, page_script='search.js')
 
 
 def _get_pagination(current_page, total_page):
     start_page = current_page - 5
     end_page = current_page + 4
-    total_page /= 10
-    total_page += 1
+    total_page = int(math.ceil(float(total_page) / 10))
 
     if start_page <= 0:
         end_page -= (start_page - 1)

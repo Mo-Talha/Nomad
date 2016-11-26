@@ -1,8 +1,11 @@
+from datetime import datetime
 import mongoengine
+
 import elasticsearch
 from elasticsearch import helpers
 
 from models.employer import Employer
+import models.term as Term
 
 import shared.secrets as secrets
 import shared.logger as logger
@@ -22,8 +25,8 @@ def index_jobmine():
         "mappings": {
             "employers": {
                 "properties": {
-                    "name": {"type": "string"},
-                    "jobs": {"type": "string"}
+                    "employer_name": {"type": "string"},
+                    "employer_jobs": {"type": "string"}
                 }
             },
             "jobs": {
@@ -31,13 +34,13 @@ def index_jobmine():
                     "type": "employers"
                 },
                 "properties": {
-                    "title": {"type": "string"},
-                    "year": {"type": "integer"},
-                    "term": {"type": "string"},
-                    "summary": {"type": "string"},
-                    "locations": {"type": "string"},
-                    "programs": {"type": "string"},
-                    "levels": {"type": "string"}
+                    "job_title": {"type": "string"},
+                    "job_year": {"type": "integer"},
+                    "job_term": {"type": "string"},
+                    "job_summary": {"type": "string"},
+                    "job_locations": {"type": "string"},
+                    "job_programs": {"type": "string"},
+                    "job_levels": {"type": "string"}
                 }
             }
         }
@@ -102,20 +105,74 @@ def index_jobmine():
         helpers.bulk(elastic_instance, jobs)
 
 
-def query_jobs(query, page):
+def query_jobs_and_employers(query, page):
     start_page = 10 * (int(page) - 1)
+
+    now = datetime.now()
 
     response = elastic_instance.search(index='jobmine', doc_type=['jobs'], body={
         "from": start_page, "size": 10,
+        "sort": [
+            {"job_year": "desc"},
+            "_score"
+        ],
         "query": {
+            "bool": {
+                "should": [
+                    {
+                        "match": {
+                            "job_term": Term.get_term(now.month)
+                        }
+                    }
+                ],
+                "must": {
+                    "multi_match": {
+                        "query": query,
+                        "type": "cross_fields",
+                        "fields": ["employer_name^4", "job_title^4", "job_term"]
+                    }
+                }
+            }
+        }
+    })
+
+    return response
+
+
+def query_jobs(query, page):
+    start_page = 10 * (int(page) - 1)
+
+    now = datetime.now()
+
+    body = {
+        "from": start_page, "size": 10,
+        "sort": [
+            {"job_year": "desc"},
+            "_score"
+        ],
+        "query": {
+            "bool": {
+                "should": [
+                    {
+                        "match": {
+                            "job_term": Term.get_term(now.month)
+                        }
+                    }
+                ]
+            }
+        }
+    }
+
+    if query:
+        body['query']['bool']['must'] = {
             "multi_match": {
                 "query": query,
                 "type": "cross_fields",
-                "fields": ["employer_name^4", "job_title^4", "job_term"]
-            },
-
+                "fields": ["job_title^4", "job_keywords^4", "job_summary^3", "job_term"]
+            }
         }
-    })
+
+    response = elastic_instance.search(index='jobmine', doc_type=['jobs'], body=body)
 
     return response
 

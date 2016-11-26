@@ -6,10 +6,9 @@
         {% endblock %}
         <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
         <meta property="og:url" content="http://nomad.com/">
-        <meta property="og:description" content="Jobmine statistics.">
+        <meta property="og:description" content="Jobmine and WaterlooWorks statistics.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="icon" href="/static/img/favicon.ico">
-        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
         {% block head_tags %}
         {% endblock %}
         <link rel="stylesheet" href="/static/lib/font-awesome/css/font-awesome.min.css">
@@ -28,6 +27,8 @@
         window.script = '{{ ('/static/js/%s' % (page_script)) }}';
         {% endif %}
         </script>
+        {% block scripts %}
+        {% endblock %}
     </head>
     <body>
         {% block header %}

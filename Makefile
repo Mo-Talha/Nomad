@@ -35,32 +35,32 @@ prod:
 	@echo "Done"
 
 test: virtualenv
-	PYTHONPATH=$(PYTHONPATH):. python -m unittest discover --pattern=*test.py -v
+	source ~/.virtualenv/Nomad/bin/activate && PYTHONPATH=$(PYTHONPATH):. python -m unittest discover --pattern=*test.py -v
 
 clean:
 	find . -name '*.pyc' -delete
 	find . -name 'ghostdriver.log' -delete
 	find . -name 'screenshot.png' -delete
 
-clean_chunker: virtualenv
+clean_chunker:
 	find . -name '*.pickle' -delete
 
-import_jobs: virtualenv
+import_jobs:
 	@echo "*** Importing Jobmine data. This may take several hours. ***"
 	@echo
 
 	@echo "Importing jobs"
-	PYTHONPATH=$(PYTHONPATH):. python data/main.py jobmine
+	source ~/.virtualenv/Nomad/bin/activate && PYTHONPATH=$(PYTHONPATH):. python data/main.py jobmine
 
 	@echo
 	@echo "*** Done ***"
 
-import_comments: virtualenv
+import_comments:
 	@echo "*** Importing RateMyCoopJob data. This may take several hours or less. ***"
 	@echo
 
 	@echo "Importing comments"
-	PYTHONPATH=$(PYTHONPATH):. python data/main.py ratemycoopjob
+	source ~/.virtualenv/Nomad/bin/activate && PYTHONPATH=$(PYTHONPATH):. python data/main.py ratemycoopjob
 
 	@echo
 	@echo "*** Done ***"
@@ -68,28 +68,26 @@ import_comments: virtualenv
 
 import: import_jobs import_comments
 
-install_nltk_data: virtualenv
-	@echo "*** Installing NLTK data. ***"
-	@echo
-
-	sudo python -m nltk.downloader -d /usr/local/share/nltk_data conll2000 conll2002 maxent_ne_chunker punkt averaged_perceptron_tagger
-
-	@echo "Done"
-
-
-train_compsci: virtualenv
+train_compsci:
 	@echo "*** Training Computer Science Chunker. This may take a few minutes or less. ***"
 	@echo
 
-	PYTHONPATH=$(PYTHONPATH):. python data/analysis/train.py comp-sci
+	source ~/.virtualenv/Nomad/bin/activate && PYTHONPATH=$(PYTHONPATH):. python data/analysis/train.py comp-sci
 
 	@echo
 	@echo "*** Done ***"
 
 train: clean_chunker train_compsci
 
-virtualenv:
-	source ~/.virtualenv/Nomad/bin/activate
+index:
+	@echo "*** Indexing Elasticsearch. This may take a few minutes or less. ***"
+	@echo
+
+	@echo "Indexing"
+	source ~/.virtualenv/Nomad/bin/activate && PYTHONPATH=$(PYTHONPATH):. python data/search/elastic.py
+
+	@echo
+	@echo "*** Done ***"
 
 export_data:
 	mongodump --db nomad
