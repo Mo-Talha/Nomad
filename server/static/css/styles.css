@@ -504,7 +504,6 @@ header nav.navbar .navbar-container .navbar-menu {
     height: 100%;
     width: 100%;
     padding: 0.5rem;
-    display: inline-flex;
 }
 
 .job-container .job-container-wrapper {
@@ -512,11 +511,21 @@ header nav.navbar .navbar-container .navbar-menu {
     box-shadow: 0 0.0625rem 0.25rem 0 rgba(0,0,0,0.14);
     border-radius: 0.1875rem;
     height: 100%;
-    width: 90%;
+    width: 80%;
     padding: 0.5rem;
     margin-left: auto;
     margin-right: auto;
     color: #333
+}
+
+.job-container .chart-container {
+    height: 100%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #333;
+    display: block;
+    padding: 0.5rem 0 0.5rem 0;
 }
 
 .job-container .job-container-wrapper .job-header {
@@ -555,17 +564,24 @@ header nav.navbar .navbar-container .navbar-menu {
     padding-right: 10px;
 }
 
-.job-container .job-container-wrapper .job-header .job-title-header .job-positions-left {
+.job-container .job-container-wrapper .job-header .job-title-header .job-applicants {
     position: absolute;
     right: 0;
     top: 30px;
     padding-right: 10px;
 }
 
-.job-container .job-container-wrapper .job-header .job-title-header .job-hire-rate {
+.job-container .job-container-wrapper .job-header .job-title-header .job-positions-left {
     position: absolute;
     right: 0;
     top: 60px;
+    padding-right: 10px;
+}
+
+.job-container .job-container-wrapper .job-header .job-title-header .job-hire-rate {
+    position: absolute;
+    right: 0;
+    top: 90px;
     padding-right: 10px;
 }
 

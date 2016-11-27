@@ -5,6 +5,7 @@ import flask
 import mongoengine
 import colors
 
+from datetime import datetime
 from bson import json_util
 
 from models.employer import Employer
@@ -69,6 +70,15 @@ def display_job():
             'color': color
         })
 
+    applicants = {}
+
+    for applicant in job.applicants:
+        applicants[applicant.date] = applicant.applicants,
+
+    now = datetime.now()
+
+    earliest = max(date for date in applicants if date < now)
+
     job_data = {
         'employer_name': string.capwords(employer.name),
         'job_title': string.capwords(job.title),
@@ -78,10 +88,11 @@ def display_job():
         'job_locations': [string.capwords(location.name) for location in job.location],
         'job_openings': job.openings,
         'job_remaining': job.remaining,
-        'job_hire_rate': job.hire_rate.rating,
+        'job_hire_rate': int(job.hire_rate.rating * 100),
         'job_programs': job.programs,
         'job_levels': job.levels,
-        'job_keywords': keywords
+        'job_keywords': keywords,
+        'job_applicants': applicants[earliest][0] or 0
     }
 
     return render_template('job.html', job_data=job_data, page_script='job.js')

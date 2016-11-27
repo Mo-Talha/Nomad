@@ -2,18 +2,65 @@
 [![Requirements Status](https://requires.io/github/Mo-Talha/Nomad/requirements.svg?branch=master)](https://requires.io/github/Mo-Talha/Nomad/requirements/?branch=master)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-# Nomad
+# WaterlooWorks statistics on employers
 
-Jobmine statistics on employers and employees.
+This project is dedicated to providing students statistical information on employers.
 
-## Statistics
-- Show employer & employer jobs popularity (by # of applicants)
-- Show how many spots the employer usually has and how many of them usually get filled (some employers advertise a lot more positions than they hire)
-- Show warnings for employer
-- Rating for each employer
-- Show keywords for each job (Ex. software jobs: programming languages)
-- Comment section crawled from ratemycoopjob.com
-- Google maps location of most probable location (for employer)
-- Allow user to input jobs that they are interested in (either by job title, keywords etc.) and mail them jobs they might be interested in
+### Installing
 
-db.getCollection('job').find({$text: {$search: "Software engineering"}}, {score: {$meta: "textScore"}}).sort({score:{$meta:"textScore"}})
+To install this project for developing and testing purposes, first install project dependencies.
+
+
+```
+make install
+```
+
+Then, install the development or production environment.
+
+```
+make devel
+```
+
+```
+make prod
+```
+
+## Virtualenv
+
+We work inside a virtualenv for an isolated environment. Whenever using Python and/or Python dependencies, type 
+
+```
+source ~/.virtualenv/Nomad/bin/activate
+```
+
+## Running the tests
+
+To run the python tests, simply run 
+
+```
+make test
+```
+
+## Built With
+
+* [Nginx](https://www.nginx.com/resources/wiki/) - The web server
+* [MongoDB](https://www.mongodb.com/) - Database
+* [Redis](https://redis.io/) - Caching
+* [Elasticsearch](https://www.elastic.co/products/elasticsearch) - Searching
+* [NLTK](http://www.nltk.org/) - Natural language processing on job descriptions to generate keywords
+
+## Authors
+
+* **Muhammad Talha** - *Initial work* - [Mo-Talha](https://github.com/Mo-Talha)
+
+See also the list of [contributors](https://github.com/Mo-Talha/Nomad/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* [UWFlow](https://github.com/UWFlow/rmc) - For technologies inspiration and code copying :)
+* [Codepen.io](http://codepen.io/) - For UI designs
+* [Github](https://github.com) - For UI designs

@@ -24,11 +24,14 @@
                             {{ job_data['job_year'] }}
                         </div>
                     </div>
+                    <div class="job-applicants">
+                        {{ job_data['job_applicants'] }} applicants
+                    </div>
                     <div class="job-positions-left">
                         {{ job_data['job_remaining'] }}/{{ job_data['job_openings'] }} positions remaining
                     </div>
                     <div class="job-hire-rate">
-                        {{ job_data['job_hire_rate'] }} hire rate
+                        {{ job_data['job_hire_rate'] }}% hire rate
                     </div>
                 </div>
                 {% if job_data['job_levels']|length > 0 %}
@@ -84,10 +87,4 @@
             </div>
         </div>
     </div>
-{% endblock %}
-
-{% block scripts %}
-<script>
-    {# window.pageData.comments = {{ comments|tojson|safe }}; #}
-</script>
 {% endblock %}

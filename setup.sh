@@ -24,6 +24,7 @@ configure_nginx(){
     sudo ln -sfnv /etc/nginx/sites-available/nomad /etc/nginx/sites-enabled/nomad
 
     sudo sed -i -e "s/<USER>/$USER/g" /etc/nginx/sites-available/nomad
+    sudo systemctl enable nginx
 }
 
 configure_mongodb(){
@@ -47,6 +48,7 @@ configure_mongodb(){
     esac
 
     sudo cp ./server_setup/etc/systemd/system/mongod.service /etc/systemd/system/mongod.service
+    sudo systemctl enable mongod
 }
 
 configure_redis(){
@@ -80,6 +82,7 @@ configure_redis(){
     esac
 
     sudo cp ./server_setup/etc/systemd/system/redis-server.service /etc/systemd/system/redis-server.service
+    sudo systemctl enable redis-server
 }
 
 configure_uwsgi(){
@@ -101,6 +104,7 @@ configure_uwsgi(){
 
     sudo cp ./server_setup/etc/systemd/system/nomad.service /etc/systemd/system/nomad.service
     sudo sed -i -e "s/<USER>/$USER/g" /etc/systemd/system/nomad.service
+    sudo systemctl enable nomad
 }
 
 configure_elasticsearch(){
@@ -120,6 +124,7 @@ configure_elasticsearch(){
     sudo chown -R elasticsearch:elasticsearch /usr/share/elasticsearch
 
     sudo cp ./config/elasticsearch.yml /etc/elasticsearch/elasticsearch.yml
+    sudo systemctl enable elasticsearch
 }
 
 echo "Configuring Virtualenv"
