@@ -16,6 +16,79 @@ COMPONENT = 'Search'
 elastic_instance = elasticsearch.Elasticsearch()
 
 
+def index_employer_jobmine(employer):
+    employer_document = {
+        "_index": "jobmine",
+        "_type": "employers",
+        "_id": employer.name,
+        "_source": {
+            "employer_name": employer.name,
+            "employer_jobs": [str(job.id) for job in employer.jobs]
+        }
+    }
+
+    elastic_instance.index('jobmine', 'employers', employer_document, id=employer.name)
+
+
+def update_employer_jobmine(employer):
+    employer_document = {
+        "doc": {
+            "employer_name": employer.name,
+            "employer_jobs": [str(job.id) for job in employer.jobs]
+        }
+    }
+
+    elastic_instance.update('jobmine', 'employers', employer.name, body=employer_document)
+
+
+def delete_employer_jobmine(employer):
+    elastic_instance.delete('jobmine', 'employers', employer.name, ignore=[404])
+
+
+def index_job_jobmine(employer, job):
+    job_document = {
+        "_index": "jobmine",
+        "_type": "jobs",
+        "_parent": employer.name,
+        "_id": str(job.id),
+        "_source": {
+            "employer_name": employer.name,
+            "job_title": job.title,
+            "job_year": job.year,
+            "job_term": job.term,
+            "job_summary": job.summary,
+            "job_keywords": [k.keyword for k in job.keywords],
+            "job_locations": [location.name for location in job.location],
+            "job_programs": job.programs,
+            "job_levels": job.levels
+        }
+    }
+
+    elastic_instance.index('jobmine', 'jobs', job_document, id=str(job.id), parent=employer.name)
+
+
+def update_job_jobmine(employer, job):
+    job_document = {
+        "doc": {
+            "employer_name": employer.name,
+            "job_title": job.title,
+            "job_year": job.year,
+            "job_term": job.term,
+            "job_summary": job.summary,
+            "job_keywords": [k.keyword for k in job.keywords],
+            "job_locations": [location.name for location in job.location],
+            "job_programs": job.programs,
+            "job_levels": job.levels
+        }
+    }
+
+    elastic_instance.update('jobmine', 'jobs', str(job.id), body=job_document, parent=employer.name)
+
+
+def delete_job_jobmine(employer, job):
+    elastic_instance.delete('jobmine', 'job', str(job.id), parent=employer.name, ignore=[404])
+
+
 def index_jobmine():
     logger.info(COMPONENT, 'Indexing jobmine data')
 

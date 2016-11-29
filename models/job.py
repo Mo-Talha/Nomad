@@ -70,6 +70,9 @@ class Job(Document):
     # Deprecated
     deprecated = BooleanField(default=False)
 
+    # Last indexed
+    last_indexed = DateTimeField(required=False, default=datetime.now())
+
     def save(self, *args, **kwargs):
         if not self.remaining:
             self.remaining = self.openings

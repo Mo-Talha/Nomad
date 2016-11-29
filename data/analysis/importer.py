@@ -1,9 +1,10 @@
+import re
+
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
-import re
-
 import engine
+import data.search.elastic as elastic
 
 from models.exceptions import DataIntegrityError
 from models.employer import Employer
@@ -40,6 +41,7 @@ def import_job(**kwargs):
     programs -- Programs the job is specified for
     url -- URL of job in Jobmine
     date -- Date job was crawled (useful for knowing exactly # of applicants at what time)
+    index -- Boolean to indicate whether to index or not (default True)
     """
 
     employer_name = kwargs['employer_name'].lower()
@@ -68,7 +70,7 @@ def import_job(**kwargs):
 
     location = kwargs['location'].lower()
 
-    openings = int(kwargs['openings']) or 0
+    openings = int(kwargs['openings'])
 
     remaining = int(kwargs['remaining']) if 'remaining' in kwargs else openings
 
@@ -91,6 +93,11 @@ def import_job(**kwargs):
             applicants = int(kwargs['applicants'])
     except Exception:
         pass
+
+    index = True
+
+    if index in kwargs:
+        index = kwargs['index']
 
     logger.info(COMPONENT, 'Importing job: {} from {}'.format(job_title, employer_name))
 
@@ -115,9 +122,15 @@ def import_job(**kwargs):
                   keywords=keywords)
 
         job.save()
+        job.reload()
 
         employer.jobs.append(job)
         employer.save()
+        employer.reload()
+
+        if index:
+            elastic.index_employer_jobmine(employer)
+            elastic.index_job_jobmine(employer, job)
 
     # Employer already exists
     else:
@@ -142,8 +155,13 @@ def import_job(**kwargs):
                       keywords=keywords)
 
             job.save()
+            job.reload()
 
             employer.update(push__jobs=job)
+
+            if index:
+                elastic.update_employer_jobmine(employer)
+                elastic.index_job_jobmine(employer, job)
 
         # Job already exists
         else:
@@ -160,26 +178,38 @@ def import_job(**kwargs):
 
             # Job summary is not the same. In this case the employer most likely changed the job
             if not filtered_summary_compare == job_summary_compare:
-                logger.info(COMPONENT, 'Job: {}: different summary detected, deprecating and creating new job..'
-                            .format(job_title))
 
-                job.update(set__deprecated=True)
+                if openings >= 1:
+                    logger.info(COMPONENT, 'Job: {}: different summary detected, deprecating and creating new job..'
+                                .format(job_title))
 
-                location = Location(name=location)
+                    job.update(set__deprecated=True)
 
-                applicant = Applicant(applicants=applicants, date=date)
+                    location = Location(name=location)
 
-                keywords = [Keyword(keyword=k['keyword'], types=k['types']) for k in summary_keywords]
+                    applicant = Applicant(applicants=applicants, date=date)
 
-                # Assume new job so number of remaining positions is same as openings
-                new_job = Job(title=job_title, summary=filtered_summary, year=year, term=term,
-                              location=[location], openings=openings, remaining=remaining, applicants=[applicant],
-                              levels=levels, programs=programs, url=url, keywords=keywords)
-    
-                new_job.save()
-    
-                employer.update(push__jobs=new_job)
-            
+                    keywords = [Keyword(keyword=k['keyword'], types=k['types']) for k in summary_keywords]
+
+                    # Assume new job so number of remaining positions is same as openings
+                    new_job = Job(title=job_title, summary=filtered_summary, year=year, term=term,
+                                  location=[location], openings=openings, remaining=remaining, applicants=[applicant],
+                                  levels=levels, programs=programs, url=url, keywords=keywords)
+
+                    new_job.save()
+                    new_job.reload()
+
+                    employer.update(push__jobs=new_job)
+
+                    if index:
+                        elastic.delete_employer_jobmine(employer)
+                        elastic.delete_job_jobmine(employer, job)
+                        elastic.index_employer_jobmine(employer)
+                        elastic.index_job_jobmine(employer, new_job)
+                else:
+                    logger.info(COMPONENT, 'Job: {}: different summary detected but invalid openings: {}, ignoring..'
+                                .format(job_title, openings))
+
             # Job is the same (same title and description)
             else:
                 # If job is being advertised in new term
@@ -199,7 +229,10 @@ def import_job(**kwargs):
                     
                     job.update(set__year=year, set__term=term, add_to_set__location=location, set__openings=openings,
                                set__remaining=remaining, push__applicants=applicant, set__hire_rate=hire_rate,
-                               set__levels=levels, set__programs=programs, set__url=url)
+                               set__levels=levels, set__programs=programs, set__url=url, set__last_indexed=datetime.now())
+
+                    if index:
+                        elastic.update_job_jobmine(employer, job)
 
                 # Job is being updated. We need to update location, openings, levels, remaining, hire_rate, applicants
                 else:
@@ -217,7 +250,11 @@ def import_job(**kwargs):
 
                     job.update(add_to_set__location=location, set__remaining=remaining,
                                set__levels=list(set(levels + job.levels)), push__applicants=applicant,
-                               set__programs=list(set(programs + job.programs)), set__url=url)
+                               set__programs=list(set(programs + job.programs)), set__url=url,
+                               set__last_indexed=datetime.now())
+
+                    if index:
+                        elastic.update_job_jobmine(employer, job)
 
 
 def update_job(**kwargs):
@@ -230,6 +267,7 @@ def update_job(**kwargs):
     programs -- Programs the job is specified for
     levels -- Levels job is intended for [Junior, Intermediate, Senior]
     openings -- Number of job openings
+    index -- Boolean to indicate whether to index or not (default True)
     """
 
     summary = kwargs['summary']
@@ -251,9 +289,14 @@ def update_job(**kwargs):
 
     try:
         if kwargs['openings']:
-            openings = int(kwargs['openings'])
+            openings = int(kwargs['openings']) or 0
     except Exception:
         pass
+
+    index = False
+
+    if index in kwargs:
+        index = kwargs['index']
 
     job = Job.objects(id=kwargs['id']).first()
 
@@ -270,28 +313,38 @@ def update_job(**kwargs):
     filtered_summary_compare = re.sub(r'\W+', '', filtered_summary.lower().strip()).strip()
     job_summary_compare = re.sub(r'\W+', '', job.summary.lower().strip()).strip()
 
+    employer = Employer.objects(jobs=kwargs['id']).first()
+
     # Job summary is not the same. In this case the employer most likely changed the job
     if not filtered_summary_compare == job_summary_compare:
-        logger.info(COMPONENT, 'Job: {}: different summary detected, deprecating and creating new job..'
-                    .format(kwargs['id']))
 
-        employer = Employer.objects(jobs=kwargs['id']).first()
+        if openings >= 1:
+            logger.info(COMPONENT, 'Job: {}: different summary detected, deprecating and creating new job..'
+                        .format(kwargs['id']))
 
-        job.update(set__deprecated=True)
+            job.update(set__deprecated=True)
 
-        location = Location(name=location)
+            location = Location(name=location)
 
-        keywords = [Keyword(keyword=k['keyword'], types=k['types']) for k in summary_keywords]
+            keywords = [Keyword(keyword=k['keyword'], types=k['types']) for k in summary_keywords]
 
-        # Assume new job so number of remaining positions is same as openings
-        new_job = Job(title=job.title, summary=filtered_summary, year=job.year, term=job.term,
-                      location=[location], openings=openings, remaining=openings,
-                      levels=levels, programs=programs, url=job.url, keywords=keywords)
+            # Assume new job so number of remaining positions is same as openings
+            new_job = Job(title=job.title, summary=filtered_summary, year=job.year, term=job.term,
+                          location=[location], openings=openings, remaining=openings,
+                          levels=levels, programs=programs, url=job.url, keywords=keywords)
 
-        new_job.save()
+            new_job.save()
 
-        employer.update(push__jobs=new_job)
+            employer.update(push__jobs=new_job)
 
+            if index:
+                elastic.delete_employer_jobmine(employer)
+                elastic.delete_job_jobmine(employer, job)
+                elastic.index_employer_jobmine(employer)
+                elastic.index_job_jobmine(employer, new_job)
+        else:
+            logger.info(COMPONENT, 'Job: {}: different summary detected but invalid openings: {}, ignoring..'
+                        .format(job.title, openings))
     else:
         logger.info(COMPONENT, 'Job: {}: updating for current term'.format(kwargs['id']))
 
@@ -299,7 +352,10 @@ def update_job(**kwargs):
 
         job.update(add_to_set__location=location, set__remaining=remaining,
                    set__levels=list(set(levels + job.levels)),
-                   set__programs=list(set(programs + job.programs)))
+                   set__programs=list(set(programs + job.programs)), set__last_indexed=datetime.now())
+
+        if index:
+            elastic.update_job_jobmine(employer, job)
 
 
 def import_comment(**kwargs):

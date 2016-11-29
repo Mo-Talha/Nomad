@@ -198,7 +198,7 @@ class JobmineCrawler(crawler.Crawler):
 
                     importer.import_job(employer_name=employer_name, job_title=job_title, term=Term.get_term(now.month),
                                         location=location, levels=job_levels, openings=openings, applicants=applicants,
-                                        summary=summary, date=now, programs=programs, url=job_url)
+                                        summary=summary, date=now, programs=programs, url=job_url, index=True)
 
                     self.redis.set(job_key, 1)
                     self.redis.expire(job_key, self.config.cache_interval)
@@ -266,7 +266,7 @@ class JobmineCrawler(crawler.Crawler):
                         levels = map(lambda l: l.strip(), levels)
 
                         importer.update_job(id=job['id'], location=location, levels=levels, openings=openings, summary=summary,
-                                            programs=programs)
+                                            programs=programs, index=True)
 
                         self.redis.set(job_key, 1)
                         self.redis.set(job_update_key, 1)
@@ -280,7 +280,7 @@ class JobmineCrawler(crawler.Crawler):
                     self.wait()
                 except TimeoutException:
                     self.logger.error(self.config.name, 'ERROR crawling Job: {}, deprecating'.format(job['id']))
-                    job.update(set__deprecated=True)
+                    Job.objects(id=job['id']).update(set__deprecated=True)
 
             else:
                 self.logger.info(self.config.name, 'Job: {} already exists in cache, skipping..'.format(job['id']))
