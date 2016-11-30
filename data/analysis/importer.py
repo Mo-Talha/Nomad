@@ -94,7 +94,7 @@ def import_job(**kwargs):
     except Exception:
         pass
 
-    index = True
+    index = False
 
     if index in kwargs:
         index = kwargs['index']

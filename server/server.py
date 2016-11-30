@@ -70,17 +70,34 @@ def display_job():
             'color': color
         })
 
+    job_applicants = 0
+
     applicants = {}
 
-    for applicant in job.applicants:
-        applicants[applicant.date] = applicant.applicants,
+    if len(applicants) > 0:
+        for applicant in job.applicants:
+            applicants[applicant.date] = applicant.applicants,
 
-    now = datetime.now()
+        now = datetime.now()
 
-    earliest = max(date for date in applicants if date < now)
+        earliest = max(date for date in applicants if date < now)
+
+        job_applicants = applicants[earliest][0]
+
+    comments = []
+
+    for comment in job.comments:
+        comments.append({
+            'comment': comment.comment,
+            'date': comment.date.isoformat(),
+            'salary': comment.salary,
+            'rating': int(comment.rating.rating * 100),
+            'crawled': comment.crawled
+        })
 
     job_data = {
         'employer_name': string.capwords(employer.name),
+        'job_id': job.id,
         'job_title': string.capwords(job.title),
         'job_term': job.term,
         'job_year': job.year,
@@ -92,10 +109,10 @@ def display_job():
         'job_programs': job.programs,
         'job_levels': job.levels,
         'job_keywords': keywords,
-        'job_applicants': applicants[earliest][0] or 0
+        'job_applicants': job_applicants
     }
 
-    return render_template('job.html', job_data=job_data, page_script='job.js')
+    return render_template('job.html', job_data=job_data, comments=comments, page_script='job.js')
 
 
 @app.route("/jobs/search")
@@ -340,6 +357,13 @@ def jobs_vs_css_frameworks_stat():
     }
 
     return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
+
+
+@app.route('/api/comment', methods=['POST'])
+def comment():
+    print flask.request.get_json()
+
+    return flask.Response(status=200)
 
 
 if __name__ == "__main__":
