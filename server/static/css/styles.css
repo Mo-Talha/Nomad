@@ -644,6 +644,7 @@ header nav.navbar .navbar-container .navbar-menu {
 .job-container .job-container-wrapper .job-header .job-keywords .job-keyword-box {
     display: inline-block;
     margin-right: 8px;
+    margin-bottom: 10px;
 }
 
 .job-container .job-container-wrapper .job-header .job-keywords .job-keyword-box .job-keyword {
@@ -672,3 +673,51 @@ header nav.navbar .navbar-container .navbar-menu {
     word-wrap: break-word;
     line-height: 130%;
 }
+
+.job-container .job-comments {
+    height: 100%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #333;
+    margin-top: 1rem;
+    font-size: 14px;
+}
+
+.job-container .job-comments .job-comment-container {
+    background-color: #fff;
+    box-shadow: 0 0.0625rem 0.25rem 0 rgba(0,0,0,0.14);
+    border-radius: 0.1875rem;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.job-container .job-comments .job-comment-container .job-comment-wrapper .job-comment .job-comment-header {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-bottom: 1rem;
+}
+
+.job-container .job-comments .job-comment-container .job-comment-wrapper .job-comment .job-comment-header .job-comment-rating {
+    display: inline-flex;
+}
+
+.job-container .job-comments .job-comment-container .job-comment-wrapper .job-comment .job-comment-content .job-comment-text {
+    margin-bottom: 1rem;
+}
+
+.job-container .job-comments .job-comment-container .job-comment-wrapper .job-comment .job-comment-footer {
+    display: flex;
+}
+
+.job-container .job-comments .job-comment-container .job-comment-wrapper .job-comment .job-comment-footer > div {
+    display: inline-flex;
+    padding-right: 8px;
+    color: rgb(154, 154, 154);
+}
+
+.job-container .job-comments .job-comment-container .job-comment-wrapper .job-comment .job-comment-footer .job-comment-ratemycoopjob > a {
+    color: #1a78c2;
+    opacity: 0.8;
+}
+

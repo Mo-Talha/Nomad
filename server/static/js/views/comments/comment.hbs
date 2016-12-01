@@ -1,0 +1,23 @@
+<div class="job-comment-wrapper">
+    <div class="job-comment">
+        <div class="job-comment-header">
+            <div class="job-comment-rating">
+                {{#each ratings}}
+                    <i class="fa {{ this }} fa-lg" aria-hidden="true"></i>
+                {{/each}}
+            </div>
+        </div>
+        <div class="job-comment-content">
+            <div class="job-comment-text">
+                {{ text }}
+            </div>
+            <div class="job-comment-footer">
+                <div class="job-comment-date">{{ date_formatted }}</div>
+                <div class="job-comment-salary">Salary: ${{ salary }}/h</div>
+                {{# if crawled}}
+                    <div class="job-comment-ratemycoopjob">Via.&nbsp;<a href="http://www.ratemycoopjob.com/"> RateMyCoopJob</a></div>
+                {{/if}}
+            </div>
+        </div>
+    </div>
+</div>

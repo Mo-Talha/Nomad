@@ -91,7 +91,7 @@ def display_job():
             'comment': comment.comment,
             'date': comment.date.isoformat(),
             'salary': comment.salary,
-            'rating': int(comment.rating.rating * 100),
+            'rating': comment.rating.rating * 5,
             'crawled': comment.crawled
         })
 

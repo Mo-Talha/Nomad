@@ -90,7 +90,7 @@
 {% endblock %}
 {% block scripts %}
 <script>
-window.job_id = {{ job_data['job_id'] }};
+window.job_id = "{{ job_data['job_id'] }}";
 window.comments = {{ comments|tojson|safe }};
 </script>
 {% endblock %}

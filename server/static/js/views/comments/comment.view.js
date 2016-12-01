@@ -1,14 +1,52 @@
-        _convertToReadableDate: function(date){
-            var monthNames = [
-              "January", "February", "March",
-              "April", "May", "June", "July",
-              "August", "September", "October",
-              "November", "December"
-            ];
+define(['lib/jquery', 'lib/underscore', 'lib/backbone',
+    'hbs!js/views/comments/comment'
+], function ($, _, Backbone, CommentTemplate) {
+	'use strict';
 
-            var day = date.getDate();
-            var monthIndex = date.getMonth();
-            var year = date.getFullYear();
+	var CommentView = Backbone.View.extend({
 
-            return monthNames[monthIndex] + ' ' + day + ', ' + year;
+		tagName: 'div',
+
+		className: 'job-comment-container',
+
+		template: CommentTemplate,
+
+		initialize: function () {
+			this.listenTo(this.model, 'change', this.render);
+			this.listenTo(this.model, 'destroy', this.remove);
+		},
+
+		render: function () {
+			this.$el.html(this.template(_.extend(this.model.toJSON(), this._addRatings(this.model.get('rating')))));
+			return this;
+		},
+
+		clear: function () {
+			this.model.destroy();
+		},
+
+        _addRatings: function(rating){
+		    var i;
+            var star_classes = [];
+
+            for (i = 1; i <= rating; i++){
+                star_classes.push('fa-star');
+            }
+
+            if (rating % 1 != 0){
+                star_classes.push('fa-star-half-o');
+            }
+
+            while (i <= 5 && star_classes.length < 5) {
+                star_classes.push('fa-star-o');
+                i++;
+            }
+
+            return {
+                ratings: star_classes
+            };
         }
+	});
+
+	return CommentView;
+});
