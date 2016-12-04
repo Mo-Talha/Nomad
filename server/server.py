@@ -4,20 +4,25 @@ import string
 import flask
 import mongoengine
 import colors
+import json
+import dateutil.parser
 
 from datetime import datetime
 from bson import json_util
 
 from models.employer import Employer
 from models.job import Job
+from models.comment import Comment
+from models.rating import AggregateRating
 
 import data.search.elastic as elastic
 import analytics.statistics as stats
 
 import shared.secrets as secrets
+import shared.logger as logger
 
 
-component = 'API'
+COMPONENT = 'API'
 
 app = flask.Flask(__name__, template_folder="./templates")
 
@@ -359,11 +364,27 @@ def jobs_vs_css_frameworks_stat():
     return flask.Response(response=json_util.dumps(response), status=200, mimetype="application/json")
 
 
-@app.route('/api/comment', methods=['POST'])
-def comment():
-    print flask.request.get_json()
+@app.route('/api/comment', defaults={'job_id': None})
+@app.route('/api/comment/<string:job_id>', methods=['POST', 'PUT'])
+def comment(job_id):
+    data = json.loads(flask.request.data)
 
-    return flask.Response(status=200)
+    comment_text = data['text']
+    comment_date = dateutil.parser.parse(data['date'])
+    salary = data['salary'] or 0
+    rating = (float(data['rating']) / 5) or 0
+
+    if job_id is not None and comment_text:
+        job = Job.objects(id=job_id).first()
+
+        logger.info(COMPONENT, 'Adding comment for job: {}'.format(job_id))
+
+        new_comment = Comment(comment=comment_text, date=comment_date, salary=salary, crawled=False,
+                              rating=AggregateRating(rating=rating, count=1))
+
+        job.update(push__comments=new_comment)
+
+    return json.dumps({'success': True}), 200, {'ContentType': 'application/json'}
 
 
 if __name__ == "__main__":

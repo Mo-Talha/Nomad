@@ -5,10 +5,10 @@ define(['lib/jquery', 'lib/backbone', 'js/models/comment.model'],
 
         model: Comment,
 
-        url: '/api/comment.json',
+        url: '/api/comment',
 
         comparator: function(model) {
-            return new Date(model.get('date')).getTime();
+            return -(new Date(model.get('date')).getTime());
         }
 
     });
