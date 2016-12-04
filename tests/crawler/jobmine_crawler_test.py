@@ -17,6 +17,7 @@ import models.term as Term
 import shared.jobmine as config
 
 
+@unittest.skip("Jobmine has been shut down, skipping..")
 class JobmineCrawlerTest(unittest.TestCase):
 
     def setUp(self):
