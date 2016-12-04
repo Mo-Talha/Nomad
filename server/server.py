@@ -59,6 +59,9 @@ def display_job():
 
     job = Job.objects(id__in=[job.id for job in employer.jobs], title=job_title, deprecated=False).first()
 
+    if not employer or not job:
+        return render_template('404.html')
+
     summary = job.summary.strip('-').strip('_').strip('-').strip('_').strip().replace('\n', '<br>')\
         .replace('\r\n', '<br>')
 
@@ -376,6 +379,9 @@ def comment(job_id):
 
     if job_id is not None and comment_text:
         job = Job.objects(id=job_id).first()
+
+        if not job:
+            return render_template('404.html')
 
         logger.info(COMPONENT, 'Adding comment for job: {}'.format(job_id))
 
