@@ -98,7 +98,7 @@ configure_uwsgi(){
 
     sudo chown -R www-data:www-data /tmp/uwsgi.ini
     sudo chown -R www-data:www-data /var/log/uwsgi/
-    sudo chown -R www-data:www-data ~/Nomad/logs/
+    sudo setfacl -m u:www-data:rwx ~/Nomad/logs/
 
     sudo cp ./server_setup/etc/systemd/system/nomad.service /etc/systemd/system/nomad.service
     sudo sed -i -e "s/<USER>/$USER/g" /etc/systemd/system/nomad.service

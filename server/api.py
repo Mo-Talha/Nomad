@@ -1,5 +1,5 @@
 import math
-#import os
+import os
 import string
 import flask
 import mongoengine
@@ -21,7 +21,7 @@ from models.rating import AggregateRating
 import analytics.statistics as stats
 
 import shared.secrets as secrets
-#import shared.logger as logger
+import shared.logger as logger
 
 
 COMPONENT = 'API'
@@ -31,7 +31,7 @@ app = flask.Flask(__name__, template_folder="./templates")
 
 def render_template(*args, **kwargs):
     kwargs.update({
-        'env': ''#os.environ.get('ENV') or ''
+        'env': os.environ.get('ENV') or ''
     })
     return flask.render_template(*args, **kwargs)
 
@@ -380,7 +380,7 @@ def comment(job_id):
         if not job:
             return render_template('404.html')
 
-        #logger.info(COMPONENT, 'Adding comment for job: {}'.format(job_id))
+        logger.info(COMPONENT, 'Adding comment for job: {}'.format(job_id))
 
         new_comment = Comment(comment=comment_text, date=comment_date, salary=salary, crawled=False,
                               rating=AggregateRating(rating=rating, count=1))
