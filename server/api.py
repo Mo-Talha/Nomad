@@ -1,12 +1,14 @@
 import math
-import os
+#import os
 import string
 import flask
 import mongoengine
-import colors
 import json
 import dateutil.parser
 
+import server.colors as colors
+
+from uwsgidecorators import postfork
 from datetime import datetime
 from bson import json_util
 
@@ -15,11 +17,11 @@ from models.job import Job
 from models.comment import Comment
 from models.rating import AggregateRating
 
-import data.search.elastic as elastic
+#import data.search.elastic as elastic
 import analytics.statistics as stats
 
 import shared.secrets as secrets
-import shared.logger as logger
+#import shared.logger as logger
 
 
 COMPONENT = 'API'
@@ -29,13 +31,9 @@ app = flask.Flask(__name__, template_folder="./templates")
 
 def render_template(*args, **kwargs):
     kwargs.update({
-        'env': os.environ.get('ENV') or ''
+        'env': ''#os.environ.get('ENV') or ''
     })
     return flask.render_template(*args, **kwargs)
-
-
-def connect():
-    mongoengine.connect(secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT)
 
 
 @app.route("/")
@@ -47,7 +45,6 @@ def index():
 @app.route("/csdashboard")
 def cs_dashboard():
     return render_template('dashboard.html', page_script='cs.js')
-
 
 @app.route("/jobs")
 @app.route("/job")
@@ -383,7 +380,7 @@ def comment(job_id):
         if not job:
             return render_template('404.html')
 
-        logger.info(COMPONENT, 'Adding comment for job: {}'.format(job_id))
+        #logger.info(COMPONENT, 'Adding comment for job: {}'.format(job_id))
 
         new_comment = Comment(comment=comment_text, date=comment_date, salary=salary, crawled=False,
                               rating=AggregateRating(rating=rating, count=1))
@@ -398,6 +395,10 @@ def page_not_found(e):
     return render_template('404.html'), 404
 
 
+@postfork
+def connect():
+    mongoengine.connect(db=secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT, alias='default')
+
+
 if __name__ == "__main__":
-    connect()
     app.run(host='0.0.0.0', debug=True)

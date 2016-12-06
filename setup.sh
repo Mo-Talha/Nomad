@@ -13,7 +13,7 @@ configure_virtualenv(){
 }
 
 configure_nginx(){
-    sudo killall nginx 2>/dev/null
+    sudo killall -9 nginx 2>/dev/null
 
     sudo rm -f /etc/nginx/sites-enabled/default
     sudo rm -f /etc/nginx/sites-available/default
@@ -24,7 +24,6 @@ configure_nginx(){
     sudo ln -sfnv /etc/nginx/sites-available/nomad /etc/nginx/sites-enabled/nomad
 
     sudo sed -i -e "s/<USER>/$USER/g" /etc/nginx/sites-available/nomad
-    sudo systemctl enable nginx
 }
 
 configure_mongodb(){
@@ -48,7 +47,6 @@ configure_mongodb(){
     esac
 
     sudo cp ./server_setup/etc/systemd/system/mongod.service /etc/systemd/system/mongod.service
-    sudo systemctl enable mongod
 }
 
 configure_redis(){
@@ -82,29 +80,28 @@ configure_redis(){
     esac
 
     sudo cp ./server_setup/etc/systemd/system/redis-server.service /etc/systemd/system/redis-server.service
-    sudo systemctl enable redis-server
 }
 
 configure_uwsgi(){
-    sudo killall uwsgi 2>/dev/null
+    sudo killall -9 uwsgi 2>/dev/null
 
-    sudo rm -rf /var/log/uwsgi/
     sudo rm -f /tmp/uwsgi.ini
     sudo rm -f /tmp/nomad.sock
+    sudo rm -f /tmp/nomad.pid
     sudo rm -f /etc/systemd/system/nomad.service
 
     sudo mkdir -p /var/log/uwsgi/
     sudo touch /var/log/uwsgi/uwsgi.log
-    
+
     sudo cp ./config/uwsgi.ini /tmp/uwsgi.ini
     sudo sed -i -e "s/<USER>/$USER/g" /tmp/uwsgi.ini
 
     sudo chown -R www-data:www-data /tmp/uwsgi.ini
     sudo chown -R www-data:www-data /var/log/uwsgi/
+    sudo chown -R www-data:www-data ~/Nomad/logs/
 
     sudo cp ./server_setup/etc/systemd/system/nomad.service /etc/systemd/system/nomad.service
     sudo sed -i -e "s/<USER>/$USER/g" /etc/systemd/system/nomad.service
-    sudo systemctl enable nomad
 }
 
 configure_elasticsearch(){
@@ -124,7 +121,6 @@ configure_elasticsearch(){
     sudo chown -R elasticsearch:elasticsearch /usr/share/elasticsearch
 
     sudo cp ./config/elasticsearch.yml /etc/elasticsearch/elasticsearch.yml
-    sudo systemctl enable elasticsearch
 }
 
 echo "Configuring Virtualenv"
@@ -147,9 +143,6 @@ configure_elasticsearch
 
 sudo systemctl daemon-reload
 
-echo "Starting Nginx"
-sudo systemctl start nginx
-
 echo "Starting MongoDB"
 sudo systemctl start mongod
 
@@ -169,7 +162,10 @@ echo "Installing Bower dependencies"
 ./node_modules/bower/bin/bower install
 
 echo "Starting ElasticSearch"
-sudo systemctl start elasticsearch
+#sudo systemctl start elasticsearch
 
 echo "Starting Nomad"
 sudo systemctl start nomad
+
+echo "Starting Nginx"
+sudo systemctl start nginx

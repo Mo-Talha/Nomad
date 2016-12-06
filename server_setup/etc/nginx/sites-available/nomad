@@ -1,28 +1,24 @@
 server {
-  listen       80;
-  server_name  nomad;
+    listen       80;
+    server_name  SITE_URL;
 
-  location / {
-    try_files $uri @nomad;
-  }
+    location ~ /.well-known {
+        allow all;
+    }
 
-  location ~ /.well-known {
-    allow all;
-  }
+    location /static {
+        expires 2d;
+        add_header Pragma public;
+        add_header Cache-Control "public";
 
-  location /static {
-    expires 2d;
-    add_header Pragma public;
-    add_header Cache-Control "public";
+        alias /home/<USER>/Nomad/server/static/;
+    }
 
-    alias /home/<USER>/Nomad/server/static/;
-  }
+    location / {
+        expires epoch;
+        add_header Cache-Control no-cache;
 
-  location @nomad {
-    expires epoch;
-    add_header Cache-Control no-cache;
-
-    include uwsgi_params;
-    uwsgi_pass unix:/tmp/nomad.sock;
-  }
+        include /etc/nginx/uwsgi_params;
+        uwsgi_pass unix:/tmp/nomad.sock;
+    }
 }
