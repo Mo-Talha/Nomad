@@ -32,6 +32,8 @@ prod:
 
 	./setup.sh prod
 
+	npm run build
+
 	@echo "Done"
 
 test:

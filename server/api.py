@@ -23,7 +23,6 @@ import analytics.statistics as stats
 import shared.secrets as secrets
 import shared.logger as logger
 
-
 COMPONENT = 'API'
 
 app = flask.Flask(__name__, template_folder="./templates")
@@ -407,4 +406,8 @@ def connect():
 
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', debug=True)
+    try:
+        app.run(host='0.0.0.0', debug=True)
+    except KeyboardInterrupt:
+        pass
+

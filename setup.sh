@@ -13,6 +13,7 @@ configure_virtualenv(){
 }
 
 configure_nginx(){
+    sudo systemctl stop nginx 2>/dev/null
     sudo killall -9 nginx 2>/dev/null
 
     sudo rm -f /etc/nginx/sites-enabled/default
@@ -83,6 +84,7 @@ configure_redis(){
 }
 
 configure_uwsgi(){
+    sudo systemctl stop nomad 2>/dev/null
     sudo killall -9 uwsgi 2>/dev/null
 
     sudo rm -f /tmp/uwsgi.ini
@@ -112,6 +114,7 @@ configure_uwsgi(){
 }
 
 configure_elasticsearch(){
+    sudo systemctl stop elasticsearch 2>/dev/null
     sudo killall elasticsearch 2>/dev/null
 
     sudo rm -f /etc/elasticsearch/elasticsearch.yml
@@ -169,7 +172,7 @@ echo "Installing Bower dependencies"
 ./node_modules/bower/bin/bower install
 
 echo "Starting ElasticSearch"
-#sudo systemctl start elasticsearch
+sudo systemctl start elasticsearch
 
 echo "Starting Nomad"
 sudo systemctl start nomad
