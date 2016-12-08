@@ -26,7 +26,11 @@ require.config({
         'lib/chartjs': 'lib/chart.js/dist/Chart',
         'lib/hbs': 'lib/require-handlebars-plugin/hbs',
          hbs: 'lib/require-handlebars-plugin/hbs',
-         async: 'lib/requirejs-plugins/src/async'
+         async: 'lib/requirejs-plugins/src/async',
+        'index': 'js/index',
+        'job': 'js/job',
+        'search': 'js/search',
+        'cs': 'js/cs'
     },
     hbs: {
         helpers: true,

@@ -102,6 +102,13 @@ configure_uwsgi(){
 
     sudo cp ./server_setup/etc/systemd/system/nomad.service /etc/systemd/system/nomad.service
     sudo sed -i -e "s/<USER>/$USER/g" /etc/systemd/system/nomad.service
+
+    case "$ENV" in
+    prod)
+        sudo sed -i -e '$a\' /tmp/uwsgi.ini
+        sudo /bin/bash -c  "echo 'env=ENV=prod' >> /tmp/uwsgi.ini"
+        ;;
+    esac
 }
 
 configure_elasticsearch(){

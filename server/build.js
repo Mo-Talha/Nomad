@@ -3,19 +3,23 @@
    mainConfigFile: 'static/js/main.js',
    out: 'static/dist/bundle.js',
    preserveLicenseComments: false,
-   removeCombined: true,
+   removeCombined: false,
    findNestedDependencies: true,
-   optimize: 'none',
-   optimizeCss: "standard",
+   optimize: 'uglify2',
+   optimizeCss: 'standard',
    paths: {
        'lib/backbone': 'lib/backbone/backbone',
        'lib/underscore': 'lib/underscore/underscore',
        'lib/jquery': 'lib/jquery/dist/jquery',
        'lib/chartjs': 'lib/chart.js/dist/Chart',
        'lib/hbs': 'lib/require-handlebars-plugin/hbs',
-       'async': 'lib/requirejs-plugins/src/async'
+       'async': 'lib/requirejs-plugins/src/async',
+       'index': 'js/index',
+       'job': 'js/job',
+       'cs': 'js/cs'
    },
-   include: ['lib/jquery', 'lib/backbone', 'lib/underscore', 'lib/chartjs',
-             'lib/hbs', 'async', 'js/index', 'js/cs', 'js/job'],
+   name: "js/main",
+   include: ['lib/jquery', 'lib/underscore', 'lib/backbone', 'lib/chartjs',
+             'lib/hbs', 'async', 'index', 'cs', 'job'],
    stubModules: ['lib/hbs/json2', 'lib/hbs/handlebars']
 })

@@ -12,19 +12,11 @@
         {% block head_tags %}
         {% endblock %}
         <link rel="stylesheet" href="/static/lib/font-awesome/css/font-awesome.min.css">
-        <link href="/static/css/styles.css" rel="stylesheet">
         {% block stylesheets %}
         {% endblock %}
         <script>
-        {% if env == 'prod' %}
-        window.env = 'prod';
-        {% else %}
-        window.env = 'dev';
-        {% endif %}
-        </script>
-        <script>
-        {% if page_script %}
-        window.script = '{{ ('/static/js/%s' % (page_script)) }}';
+        {% if page_script%}
+        window.script = '{{ ('%s' % (page_script)) }}';
         {% endif %}
         </script>
         {% block scripts %}
@@ -38,8 +30,10 @@
         {% block footer %}
         {% endblock %}
         {% if env == 'prod' %}
-        <script async type="text/javascript" src="/static/dist/bundle.js"></script>
+        <script async type="text/javascript" data-main="/static/dist/bundle.js" src="/static/lib/requirejs/require.js"></script>
+        <link href="/static/dist/styles.css" rel="stylesheet">
         {% else %}
+        <link href="/static/css/styles.css" rel="stylesheet">
         <script async type="text/javascript" data-main="/static/js/main.js" src="/static/lib/requirejs/require.js"></script>
         {% endif %}
     </body>

@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "WaterlooWorks statistics",
   "scripts": {
-    "build": "node server/static/lib/r.js/dist/r.js -o server/build.js",
-    "clean": "rimraf server/static/dist/bundle.js 2>/dev/null"
+    "build": "node server/static/lib/r.js/dist/r.js -o server/build.js && node server/static/lib/r.js/dist/r.js -o optimizeCss=default cssIn=server/static/css/styles.css out=server/static/dist/styles.css",
+    "clean": "rimraf server/static/dist/bundle.js 2>/dev/null && rimraf server/static/dist/styles.js 2>/dev/null"
   },
   "repository": {
     "type": "git",

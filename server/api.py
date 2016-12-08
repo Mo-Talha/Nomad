@@ -30,8 +30,13 @@ app = flask.Flask(__name__, template_folder="./templates")
 
 
 def render_template(*args, **kwargs):
+    env = os.environ.get('ENV')
+
+    if not env:
+        env = 'dev'
+
     kwargs.update({
-        'env': os.environ.get('ENV') or ''
+        'env': env
     })
     return flask.render_template(*args, **kwargs)
 
@@ -39,12 +44,12 @@ def render_template(*args, **kwargs):
 @app.route("/")
 @app.route("/dashboard")
 def index():
-    return render_template('dashboard.html', page_script='index.js')
+    return render_template('dashboard.html', page_script='index')
 
 
 @app.route("/csdashboard")
 def cs_dashboard():
-    return render_template('dashboard.html', page_script='cs.js')
+    return render_template('dashboard.html', page_script='cs')
 
 
 @app.route("/jobs")
@@ -118,7 +123,7 @@ def display_job():
         'job_applicants': job_applicants
     }
 
-    return render_template('job.html', job_data=job_data, comments=comments, page_script='job.js')
+    return render_template('job.html', job_data=job_data, comments=comments, page_script='job')
 
 
 @app.route("/jobs/search")
@@ -160,7 +165,7 @@ def search_job():
     return render_template('job_search.html', jobs=jobs, total_results="{:,}".format(total_results),
                            total_results_unformatted=total_results, page=current_page, query=query,
                            pagination=_get_pagination(current_page, total_results),
-                           time_taken=time_taken, page_script='search.js')
+                           time_taken=time_taken, page_script='search')
 
 
 @app.route("/search")
@@ -202,7 +207,7 @@ def search():
     return render_template('search.html', jobs=jobs, total_results="{:,}".format(total_results),
                            total_results_unformatted=total_results, page=current_page, query=query,
                            pagination=_get_pagination(current_page, total_results),
-                           time_taken=time_taken, page_script='search.js')
+                           time_taken=time_taken, page_script='search')
 
 
 def _get_pagination(current_page, total_page):
