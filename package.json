@@ -1,11 +1,10 @@
 {
   "name": "nomad",
   "version": "1.0.0",
-  "description": "Jobmine statistics",
+  "description": "WaterlooWorks statistics",
   "scripts": {
-    "devel": "webpack --watch --progress --verbose --colors --display-error-details --config ./webpack.config.js",
-    "prod": "npm run clean && npm run devel && webpack --progress --verbose --colors --display-error-details --config ./webpack.config.js",
-    "clean": "rimraf server/static/dist"
+    "build": "node server/static/lib/r.js/dist/r.js -o server/build.js",
+    "clean": "rimraf server/static/dist/bundle.js 2>/dev/null"
   },
   "repository": {
     "type": "git",
@@ -18,6 +17,7 @@
   },
   "homepage": "https://github.com/Mo-Talha/Nomad#readme",
   "dependencies": {
-    "bower": "^1.8.0"
+    "bower": "^1.8.0",
+    "rimraf": "^2.5.4"
   }
 }

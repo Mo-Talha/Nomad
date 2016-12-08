@@ -46,6 +46,7 @@ def index():
 def cs_dashboard():
     return render_template('dashboard.html', page_script='cs.js')
 
+
 @app.route("/jobs")
 @app.route("/job")
 def display_job():

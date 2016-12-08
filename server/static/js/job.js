@@ -1,4 +1,4 @@
-require(['lib/jquery', 'lib/underscore', 'js/views/comments/comments.view',
+define(['lib/jquery', 'lib/underscore', 'js/views/comments/comments.view',
         'js/collections/comments.collection', 'js/util',
         'js/search'],
     function($, _, CommentsView, CommentCollection, Util) {

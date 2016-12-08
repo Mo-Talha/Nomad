@@ -1,4 +1,4 @@
-require(['lib/jquery'], function($) {
+define(['lib/jquery'], function($) {
 
     $(document).ready(function(){
         $('.navbar-searchbar').on('keyup keypress', function(e) {
