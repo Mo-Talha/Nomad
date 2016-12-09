@@ -423,6 +423,7 @@ if __name__ == "__main__":
     if uwsgi_enabled:
         try:
             connect_uwsgi()
+            connect()
             app.run(host='0.0.0.0')
         except KeyboardInterrupt:
             print "KeyboardInterrupt received, ignoring because of known Python-multithreading error"
