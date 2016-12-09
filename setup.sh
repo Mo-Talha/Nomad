@@ -134,7 +134,9 @@ configure_elasticsearch(){
 }
 
 echo "Installing Python dependencies"
-pip install -r requirements.txt
+pip install virtualenv
+
+source ~/.virtualenv/Nomad/bin/activate && pip install -r requirements.txt
 
 echo "Configuring Virtualenv"
 configure_virtualenv

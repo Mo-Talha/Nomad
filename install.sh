@@ -100,6 +100,8 @@ install_nodejs(){
 # Get password
 sudo echo
 
+sudo apt-get install -y python-pip
+
 install_java
 install_elasticsearch
 install_git

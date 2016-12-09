@@ -11,11 +11,6 @@ install:
 	sudo cp -a nltk_data /usr/local/share/nltk_data
 	@echo
 
-	@echo "*** Installing Geonames data ***"
-	@echo
-	mongoimport -d nomad -c locations --type tsv --file location_data/allCountries.txt --fields countrycode,postalcode,name,name1,code1,name2,code2,name3,code3,latitude,longitude,accuracy
-	@echo
-
 	@echo "Done"
 
 devel:
@@ -67,6 +62,11 @@ import_comments:
 	@echo
 	@echo "*** Done ***"
 
+import_locations:
+	@echo "*** Installing Geonames data ***"
+	@echo
+	mongoimport -d nomad -c locations --type tsv --file location_data/allCountries.txt --fields countrycode,postalcode,name,name1,code1,name2,code2,name3,code3,latitude,longitude,accuracy
+	@echo
 
 import: import_jobs import_comments
 
