@@ -133,6 +133,9 @@ configure_elasticsearch(){
     sudo cp ./config/elasticsearch.yml /etc/elasticsearch/elasticsearch.yml
 }
 
+echo "Installing Python dependencies"
+pip install -r requirements.txt
+
 echo "Configuring Virtualenv"
 configure_virtualenv
 
@@ -161,9 +164,6 @@ sudo systemctl start redis-server
 
 echo "Starting Virtualenv"
 source $HOME/.virtualenv/Nomad/bin/activate
-
-echo "Installing Python dependencies"
-pip install -r requirements.txt
 
 echo "Installing NPM dependencies"
 npm install
