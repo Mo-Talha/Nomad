@@ -16,9 +16,9 @@ COMPONENT = 'Search'
 elastic_instance = elasticsearch.Elasticsearch()
 
 
-def index_employer_jobmine(employer):
+def index_employer_waterlooworks(employer):
     employer_document = {
-        "_index": "jobmine",
+        "_index": "waterlooworks",
         "_type": "employers",
         "_id": employer.name,
         "_source": {
@@ -27,10 +27,10 @@ def index_employer_jobmine(employer):
         }
     }
 
-    elastic_instance.index('jobmine', 'employers', employer_document, id=employer.name)
+    elastic_instance.index('waterlooworks', 'employers', employer_document, id=employer.name)
 
 
-def update_employer_jobmine(employer):
+def update_employer_waterlooworks(employer):
     employer_document = {
         "doc": {
             "employer_name": employer.name,
@@ -38,16 +38,16 @@ def update_employer_jobmine(employer):
         }
     }
 
-    elastic_instance.update('jobmine', 'employers', employer.name, body=employer_document)
+    elastic_instance.update('waterlooworks', 'employers', employer.name, body=employer_document)
 
 
-def delete_employer_jobmine(employer):
-    elastic_instance.delete('jobmine', 'employers', employer.name, ignore=[404])
+def delete_employer_waterlooworks(employer):
+    elastic_instance.delete('waterlooworks', 'employers', employer.name, ignore=[404])
 
 
-def index_job_jobmine(employer, job):
+def index_job_waterlooworks(employer, job):
     job_document = {
-        "_index": "jobmine",
+        "_index": "waterlooworks",
         "_type": "jobs",
         "_parent": employer.name,
         "_id": str(job.id),
@@ -64,10 +64,10 @@ def index_job_jobmine(employer, job):
         }
     }
 
-    elastic_instance.index('jobmine', 'jobs', job_document, id=str(job.id), parent=employer.name)
+    elastic_instance.index('waterlooworks', 'jobs', job_document, id=str(job.id), parent=employer.name)
 
 
-def update_job_jobmine(employer, job):
+def update_job_waterlooworks(employer, job):
     job_document = {
         "doc": {
             "employer_name": employer.name,
@@ -82,19 +82,19 @@ def update_job_jobmine(employer, job):
         }
     }
 
-    elastic_instance.update('jobmine', 'jobs', str(job.id), body=job_document, parent=employer.name)
+    elastic_instance.update('waterlooworks', 'jobs', str(job.id), body=job_document, parent=employer.name)
 
 
-def delete_job_jobmine(employer, job):
-    elastic_instance.delete('jobmine', 'job', str(job.id), parent=employer.name, ignore=[404])
+def delete_job_waterlooworks(employer, job):
+    elastic_instance.delete('waterlooworks', 'job', str(job.id), parent=employer.name, ignore=[404])
 
 
-def index_jobmine():
-    logger.info(COMPONENT, 'Indexing jobmine data')
+def index_waterlooworks():
+    logger.info(COMPONENT, 'Indexing waterlooworks data')
 
-    elastic_instance.indices.delete(index='jobmine', ignore=[404])
+    elastic_instance.indices.delete(index='waterlooworks', ignore=[404])
 
-    elastic_instance.indices.create('jobmine', body={
+    elastic_instance.indices.create('waterlooworks', body={
         "mappings": {
             "employers": {
                 "properties": {
@@ -119,7 +119,7 @@ def index_jobmine():
         }
     })
 
-    logger.info(COMPONENT, 'Indexing jobmine employers and jobs')
+    logger.info(COMPONENT, 'Indexing waterlooworks employers and jobs')
 
     employers = []
     jobs = []
@@ -128,7 +128,7 @@ def index_jobmine():
         logger.info(COMPONENT, 'Indexing employer: {}'.format(employer.name))
 
         employer_document = {
-            "_index": "jobmine",
+            "_index": "waterlooworks",
             "_type": "employers",
             "_id": employer.name,
             "_source": {
@@ -144,7 +144,7 @@ def index_jobmine():
                 logger.info(COMPONENT, 'Indexing job: {} for employer: {}'.format(job.title, employer.name))
 
                 job_document = {
-                    "_index": "jobmine",
+                    "_index": "waterlooworks",
                     "_type": "jobs",
                     "_parent": employer.name,
                     "_id": str(job.id),
@@ -183,7 +183,7 @@ def query_jobs_and_employers(query, page):
 
     now = datetime.now()
 
-    response = elastic_instance.search(index='jobmine', doc_type=['jobs'], body={
+    response = elastic_instance.search(index='waterlooworks', doc_type=['jobs'], body={
         "from": start_page, "size": 10,
         "sort": [
             {"job_year": "desc"},
@@ -245,11 +245,11 @@ def query_jobs(query, page):
             }
         }
 
-    response = elastic_instance.search(index='jobmine', doc_type=['jobs'], body=body)
+    response = elastic_instance.search(index='waterlooworks', doc_type=['jobs'], body=body)
 
     return response
 
 
 if __name__ == "__main__":
     mongoengine.connect(secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT)
-    index_jobmine()
+    index_waterlooworks()
