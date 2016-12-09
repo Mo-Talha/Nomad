@@ -4,11 +4,11 @@ import string
 import flask
 import mongoengine
 import json
+import imp
 import dateutil.parser
 
 import server.colors as colors
 
-from uwsgidecorators import postfork
 from datetime import datetime
 from bson import json_util
 
@@ -26,6 +26,13 @@ import shared.logger as logger
 COMPONENT = 'API'
 
 app = flask.Flask(__name__, template_folder="./templates")
+
+
+try:
+    imp.find_module('uwsgi')
+    uwsgi_enabled = True
+except ImportError:
+    uwsgi_enabled = False
 
 
 def render_template(*args, **kwargs):
@@ -400,14 +407,26 @@ def page_not_found(e):
     return render_template('404.html'), 404
 
 
-@postfork
+def connect_uwsgi():
+    from uwsgidecorators import postfork
+
+    @postfork
+    def connect_uwsgi_mongo():
+        mongoengine.connect(db=secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT,
+                            alias='default')
+
+
 def connect():
     mongoengine.connect(db=secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT, alias='default')
 
-
 if __name__ == "__main__":
-    try:
+    if uwsgi_enabled:
+        try:
+            connect_uwsgi()
+            app.run(host='0.0.0.0')
+        except KeyboardInterrupt:
+            print "KeyboardInterrupt received, ignoring because of known Python-multithreading error"
+            pass
+    else:
+        connect()
         app.run(host='0.0.0.0', debug=True)
-    except KeyboardInterrupt:
-        pass
-
