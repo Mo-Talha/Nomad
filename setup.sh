@@ -118,6 +118,7 @@ configure_elasticsearch(){
     sudo killall elasticsearch 2>/dev/null
 
     sudo rm -f /etc/elasticsearch/elasticsearch.yml
+    sudo rm -f /etc/default/elasticsearch
 
     sudo addgroup --quiet elasticsearch 2>/dev/null
     sudo adduser --quiet --system --no-create-home --ingroup elasticsearch --disabled-login --disabled-password elasticsearch
@@ -128,9 +129,10 @@ configure_elasticsearch(){
     sudo chown -R elasticsearch:elasticsearch /var/log/elasticsearch/
     sudo chown -R elasticsearch:elasticsearch /etc/elasticsearch/
     sudo chown -R elasticsearch:elasticsearch /var/lib/elasticsearch/
-    sudo chown -R elasticsearch:elasticsearch /usr/share/elasticsearch
+    sudo chown -R elasticsearch:elasticsearch /usr/share/elasticsearch/
 
     sudo cp ./config/elasticsearch.yml /etc/elasticsearch/elasticsearch.yml
+    sudo cp ./config/elasticsearch /etc/default/elasticsearch
 }
 
 echo "Installing Python dependencies"
