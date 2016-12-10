@@ -6,6 +6,17 @@
 
 This project is dedicated to providing students statistical information on employers.
 
+## Features
+
+Features include:
+
+* Basic statistics such as highest number of coop jobs advertised in UW programs, levels (Junior, Intermediate, Senior), terms and locations.
+* Computer science statistics such as most popular programming languages, databases, OSs, web frameworks, apache frameworks, search servers, JS libraries and CSS frameworks.
+* Fast searching for job and employer names.
+* Searching for job keywords (e.x. Java, C++) and descriptions is available.
+* Each job application includes a comment section for students to comment on their experience.
+* Comments section also include comments from [RateMyCoopJob](http://www.ratemycoopjob.com/) (if applicable).
+
 ### Installing
 
 To install this project for developing and testing purposes, first install project dependencies.
