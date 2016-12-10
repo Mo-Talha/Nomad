@@ -136,10 +136,10 @@ configure_elasticsearch(){
 echo "Installing Python dependencies"
 pip install virtualenv
 
-source ~/.virtualenv/Nomad/bin/activate && pip install -r requirements.txt
-
 echo "Configuring Virtualenv"
 configure_virtualenv
+
+source ~/.virtualenv/Nomad/bin/activate && pip install -r requirements.txt
 
 echo "Configuring Nginx"
 configure_nginx
@@ -164,9 +164,6 @@ sudo systemctl start mongod
 echo "Starting Redis"
 sudo systemctl start redis-server
 
-echo "Starting Virtualenv"
-source $HOME/.virtualenv/Nomad/bin/activate
-
 echo "Installing NPM dependencies"
 npm install
 
@@ -175,6 +172,9 @@ echo "Installing Bower dependencies"
 
 echo "Starting ElasticSearch"
 sudo systemctl start elasticsearch
+
+echo "Starting Virtualenv"
+source $HOME/.virtualenv/Nomad/bin/activate
 
 echo "Starting Nomad"
 sudo systemctl start nomad

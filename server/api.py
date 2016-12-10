@@ -4,7 +4,6 @@ import string
 import flask
 import mongoengine
 import json
-import imp
 import dateutil.parser
 
 import server.colors as colors
@@ -17,7 +16,7 @@ from models.job import Job
 from models.comment import Comment
 from models.rating import AggregateRating
 
-#import data.search.elastic as elastic
+import data.search.elastic as elastic
 import analytics.statistics as stats
 
 import shared.secrets as secrets
@@ -29,10 +28,16 @@ app = flask.Flask(__name__, template_folder="./templates")
 
 
 try:
-    imp.find_module('uwsgi')
-    uwsgi_enabled = True
+    from uwsgidecorators import *
 except ImportError:
-    uwsgi_enabled = False
+    def postfork(func):
+        pass
+    postfork = postfork
+    pass
+
+
+def connect():
+    mongoengine.connect(db=secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT, alias='default')
 
 
 def render_template(*args, **kwargs):
@@ -407,27 +412,11 @@ def page_not_found(e):
     return render_template('404.html'), 404
 
 
-def connect_uwsgi():
-    from uwsgidecorators import postfork
+@postfork
+def connect_uwsgi_mongo():
+    connect()
 
-    @postfork
-    def connect_uwsgi_mongo():
-        mongoengine.connect(db=secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT,
-                            alias='default')
-
-
-def connect():
-    mongoengine.connect(db=secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT, alias='default')
 
 if __name__ == "__main__":
-    if uwsgi_enabled:
-        try:
-            connect_uwsgi()
-            connect()
-            app.run(host='0.0.0.0')
-        except KeyboardInterrupt:
-            print "KeyboardInterrupt received, ignoring because of known Python-multithreading error"
-            pass
-    else:
-        connect()
-        app.run(host='0.0.0.0', debug=True)
+    connect()
+    app.run(host='0.0.0.0', debug=True)
