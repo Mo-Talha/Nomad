@@ -60,6 +60,12 @@ def render_template(*args, **kwargs):
     return flask.render_template(*args, **kwargs)
 
 
+@app.route('/robots.txt')
+@app.route('/sitemap.xml')
+def robots():
+    return flask.send_from_directory(app.static_folder, flask.request.path[1:])
+
+
 @app.route("/")
 @app.route("/dashboard")
 def index():
