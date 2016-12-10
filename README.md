@@ -2,9 +2,9 @@
 [![Requirements Status](https://requires.io/github/Mo-Talha/Nomad/requirements.svg?branch=master)](https://requires.io/github/Mo-Talha/Nomad/requirements/?branch=master)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-# WaterlooWorks statistics on employers
+# WaterlooWorks job hosting platform and statistics on employers
 
-This project is dedicated to providing students statistical information on employers.
+This project is dedicated to providing students with a job searching platform and statistical information on employers.
 
 ## Features
 
@@ -13,7 +13,7 @@ Features include:
 * Basic statistics such as highest number of coop jobs advertised in UW programs, levels (Junior, Intermediate, Senior), terms and locations.
 * Computer science statistics such as most popular programming languages, databases, OSs, web frameworks, apache frameworks, search servers, JS libraries and CSS frameworks.
 * Fast searching for job and employer names.
-* Searching for job keywords (e.x. Java, C++) and descriptions is available.
+* Searching for job keywords (e.x. Java, C++) and descriptions is also available.
 * Each job application includes a comment section for students to comment on their experience.
 * Comments section also include comments from [RateMyCoopJob](http://www.ratemycoopjob.com/) (if applicable).
 
@@ -72,6 +72,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [UWFlow](https://github.com/UWFlow/rmc) - For technologies inspiration and code copying :)
+* [UWFlow](https://github.com/UWFlow/rmc) - For technologies inspiration and copying source code :)
 * [Codepen.io](http://codepen.io/) - For UI designs
 * [Github](https://github.com) - For UI designs
