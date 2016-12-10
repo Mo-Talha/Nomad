@@ -22,7 +22,7 @@
         {% block scripts %}
         {% endblock %}
     </head>
-    <body>
+    <body onload="document.body.className += ' loaded';">
         {% block header %}
         {% endblock %}
         {% block templates %}

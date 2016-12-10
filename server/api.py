@@ -3,6 +3,7 @@ import os
 import string
 import flask
 import mongoengine
+import redis
 import json
 import dateutil.parser
 
@@ -26,6 +27,13 @@ COMPONENT = 'API'
 
 app = flask.Flask(__name__, template_folder="./templates")
 
+redis_instance = None
+
+try:
+    redis_instance = redis.StrictRedis(host=secrets.REDIS_HOST, port=secrets.REDIS_PORT, db=secrets.REDIS_DB)
+except redis.exceptions.ConnectionError:
+    redis_instance = None
+    pass
 
 try:
     from uwsgidecorators import *
@@ -240,7 +248,19 @@ def _get_pagination(current_page, total_page):
 
 @app.route('/api/jobs-vs-programs-stat', methods=['POST'])
 def jobs_vs_programs_stat():
-    programs_vs_jobs = stats.get_jobs_vs_programs()
+    redis_key = '{}.{}.stat'.format(COMPONENT, 'jobsvsprograms')
+
+    if redis_instance:
+        if redis_instance.exists(redis_key):
+            programs_vs_jobs = json.loads(redis_instance.get(redis_key))
+
+        else:
+            programs_vs_jobs = list(stats.get_jobs_vs_programs())
+
+            redis_instance.set(redis_key, json.dumps(programs_vs_jobs))
+            redis_instance.expire(redis_key, 21600)
+    else:
+        programs_vs_jobs = list(stats.get_jobs_vs_programs())
 
     response = {
         'data': [{'name': program['_id']['program'], 'jobs': program['count']} for program in programs_vs_jobs]
@@ -251,7 +271,19 @@ def jobs_vs_programs_stat():
 
 @app.route('/api/jobs-vs-levels-stat', methods=['POST'])
 def jobs_vs_levels_stat():
-    jobs_vs_levels = stats.get_jobs_vs_levels()
+    redis_key = '{}.{}.stat'.format(COMPONENT, 'jobsvslevels')
+
+    if redis_instance:
+        if redis_instance.exists(redis_key):
+            jobs_vs_levels = json.loads(redis_instance.get(redis_key))
+
+        else:
+            jobs_vs_levels = list(stats.get_jobs_vs_levels())
+
+            redis_instance.set(redis_key, json.dumps(jobs_vs_levels))
+            redis_instance.expire(redis_key, 21600)
+    else:
+        jobs_vs_levels = list(stats.get_jobs_vs_levels())
 
     response = {
         'data': [{'name': level['_id']['level'], 'jobs': level['count']} for level in jobs_vs_levels]
@@ -262,7 +294,19 @@ def jobs_vs_levels_stat():
 
 @app.route('/api/jobs-vs-terms-stat', methods=['POST'])
 def jobs_vs_terms_stat():
-    jobs_vs_terms = stats.get_jobs_vs_terms()
+    redis_key = '{}.{}.stat'.format(COMPONENT, 'jobsvsterms')
+
+    if redis_instance:
+        if redis_instance.exists(redis_key):
+            jobs_vs_terms = json.loads(redis_instance.get(redis_key))
+
+        else:
+            jobs_vs_terms = list(stats.get_jobs_vs_terms())
+
+            redis_instance.set(redis_key, json.dumps(jobs_vs_terms))
+            redis_instance.expire(redis_key, 21600)
+    else:
+        jobs_vs_terms = list(stats.get_jobs_vs_terms())
 
     response = {
         'data': [{'year': term['_id']['year'], 'term': term['_id']['term'], 'jobs': term['count']}
@@ -274,7 +318,19 @@ def jobs_vs_terms_stat():
 
 @app.route('/api/jobs-vs-locations-stat', methods=['POST'])
 def jobs_vs_locations_stat():
-    jobs_vs_locations = stats.get_jobs_vs_locations()
+    redis_key = '{}.{}.stat'.format(COMPONENT, 'jobsvslocations')
+
+    if redis_instance:
+        if redis_instance.exists(redis_key):
+            jobs_vs_locations = json.loads(redis_instance.get(redis_key))
+
+        else:
+            jobs_vs_locations = list(stats.get_jobs_vs_locations())
+
+            redis_instance.set(redis_key, json.dumps(jobs_vs_locations))
+            redis_instance.expire(redis_key, 21600)
+    else:
+        jobs_vs_locations = list(stats.get_jobs_vs_locations())
 
     response = {
         'data': [{'name': location['_id']['location'], 'longitude': location['_id']['longitude'],
@@ -287,7 +343,19 @@ def jobs_vs_locations_stat():
 
 @app.route('/api/jobs-vs-programming-languages-stat', methods=['POST'])
 def jobs_vs_programming_languages_stat():
-    jobs_vs_programming_languages = stats.get_jobs_vs_programming_languages()
+    redis_key = '{}.{}.stat'.format(COMPONENT, 'jobsvsprogramminglanguages')
+
+    if redis_instance:
+        if redis_instance.exists(redis_key):
+            jobs_vs_programming_languages = json.loads(redis_instance.get(redis_key))
+
+        else:
+            jobs_vs_programming_languages = list(stats.get_jobs_vs_programming_languages())
+
+            redis_instance.set(redis_key, json.dumps(jobs_vs_programming_languages))
+            redis_instance.expire(redis_key, 21600)
+    else:
+        jobs_vs_programming_languages = list(stats.get_jobs_vs_programming_languages())
 
     response = {
         'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
@@ -299,7 +367,19 @@ def jobs_vs_programming_languages_stat():
 
 @app.route('/api/jobs-vs-databases-stat', methods=['POST'])
 def jobs_vs_databases_stat():
-    jobs_vs_databases = stats.get_jobs_vs_databases()
+    redis_key = '{}.{}.stat'.format(COMPONENT, 'jobsvsdatabases')
+
+    if redis_instance:
+        if redis_instance.exists(redis_key):
+            jobs_vs_databases = json.loads(redis_instance.get(redis_key))
+
+        else:
+            jobs_vs_databases = list(stats.get_jobs_vs_databases())
+
+            redis_instance.set(redis_key, json.dumps(jobs_vs_databases))
+            redis_instance.expire(redis_key, 21600)
+    else:
+        jobs_vs_databases = list(stats.get_jobs_vs_databases())
 
     response = {
         'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
@@ -311,7 +391,19 @@ def jobs_vs_databases_stat():
 
 @app.route('/api/jobs-vs-operating-systems-stat', methods=['POST'])
 def jobs_vs_os_stat():
-    jobs_vs_os = stats.get_jobs_vs_operating_systems()
+    redis_key = '{}.{}.stat'.format(COMPONENT, 'jobsvsos')
+
+    if redis_instance:
+        if redis_instance.exists(redis_key):
+            jobs_vs_os = json.loads(redis_instance.get(redis_key))
+
+        else:
+            jobs_vs_os = list(stats.get_jobs_vs_operating_systems())
+
+            redis_instance.set(redis_key, json.dumps(jobs_vs_os))
+            redis_instance.expire(redis_key, 21600)
+    else:
+        jobs_vs_os = list(stats.get_jobs_vs_operating_systems())
 
     response = {
         'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
@@ -323,7 +415,19 @@ def jobs_vs_os_stat():
 
 @app.route('/api/jobs-vs-web-frameworks-stat', methods=['POST'])
 def jobs_vs_web_frameworks_stat():
-    jobs_vs_web_frameworks = stats.get_jobs_vs_web_frameworks()
+    redis_key = '{}.{}.stat'.format(COMPONENT, 'jobsvswebframeworks')
+
+    if redis_instance:
+        if redis_instance.exists(redis_key):
+            jobs_vs_web_frameworks = json.loads(redis_instance.get(redis_key))
+
+        else:
+            jobs_vs_web_frameworks = list(stats.get_jobs_vs_web_frameworks())
+
+            redis_instance.set(redis_key, json.dumps(jobs_vs_web_frameworks))
+            redis_instance.expire(redis_key, 21600)
+    else:
+        jobs_vs_web_frameworks = list(stats.get_jobs_vs_web_frameworks())
 
     response = {
         'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
@@ -335,7 +439,19 @@ def jobs_vs_web_frameworks_stat():
 
 @app.route('/api/jobs-vs-apache-frameworks-stat', methods=['POST'])
 def jobs_vs_apache_frameworks_stat():
-    jobs_vs_apache_frameworks = stats.get_jobs_vs_apache_frameworks()
+    redis_key = '{}.{}.stat'.format(COMPONENT, 'jobsvsapacheframeworks')
+
+    if redis_instance:
+        if redis_instance.exists(redis_key):
+            jobs_vs_apache_frameworks = json.loads(redis_instance.get(redis_key))
+
+        else:
+            jobs_vs_apache_frameworks = list(stats.get_jobs_vs_apache_frameworks())
+
+            redis_instance.set(redis_key, json.dumps(jobs_vs_apache_frameworks))
+            redis_instance.expire(redis_key, 21600)
+    else:
+        jobs_vs_apache_frameworks = list(stats.get_jobs_vs_apache_frameworks())
 
     response = {
         'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
@@ -347,7 +463,19 @@ def jobs_vs_apache_frameworks_stat():
 
 @app.route('/api/jobs-vs-search-servers-stat', methods=['POST'])
 def jobs_vs_search_servers_stat():
-    jobs_vs_search_servers = stats.get_jobs_vs_search_servers()
+    redis_key = '{}.{}.stat'.format(COMPONENT, 'jobsvssearchservers')
+
+    if redis_instance:
+        if redis_instance.exists(redis_key):
+            jobs_vs_search_servers = json.loads(redis_instance.get(redis_key))
+
+        else:
+            jobs_vs_search_servers = list(stats.get_jobs_vs_search_servers())
+
+            redis_instance.set(redis_key, json.dumps(jobs_vs_search_servers))
+            redis_instance.expire(redis_key, 21600)
+    else:
+        jobs_vs_search_servers = list(stats.get_jobs_vs_search_servers())
 
     response = {
         'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
@@ -359,7 +487,19 @@ def jobs_vs_search_servers_stat():
 
 @app.route('/api/jobs-vs-js-libraries-stat', methods=['POST'])
 def jobs_vs_js_libraries_stat():
-    jobs_vs_js_libraries = stats.get_jobs_vs_javascript_libraries()
+    redis_key = '{}.{}.stat'.format(COMPONENT, 'jobsvsjslibraries')
+
+    if redis_instance:
+        if redis_instance.exists(redis_key):
+            jobs_vs_js_libraries = json.loads(redis_instance.get(redis_key))
+
+        else:
+            jobs_vs_js_libraries = list(stats.get_jobs_vs_javascript_libraries())
+
+            redis_instance.set(redis_key, json.dumps(jobs_vs_js_libraries))
+            redis_instance.expire(redis_key, 21600)
+    else:
+        jobs_vs_js_libraries = list(stats.get_jobs_vs_javascript_libraries())
 
     response = {
         'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}
@@ -371,7 +511,19 @@ def jobs_vs_js_libraries_stat():
 
 @app.route('/api/jobs-vs-css-frameworks-stat', methods=['POST'])
 def jobs_vs_css_frameworks_stat():
-    jobs_vs_css_frameworks = stats.get_jobs_vs_css_frameworks()
+    redis_key = '{}.{}.stat'.format(COMPONENT, 'jobsvscsslibraries')
+
+    if redis_instance:
+        if redis_instance.exists(redis_key):
+            jobs_vs_css_frameworks = json.loads(redis_instance.get(redis_key))
+
+        else:
+            jobs_vs_css_frameworks = list(stats.get_jobs_vs_css_frameworks())
+
+            redis_instance.set(redis_key, json.dumps(jobs_vs_css_frameworks))
+            redis_instance.expire(redis_key, 21600)
+    else:
+        jobs_vs_css_frameworks = list(stats.get_jobs_vs_css_frameworks())
 
     response = {
         'data': [{'name': language['_id']['keyword'], 'jobs': language['count']}

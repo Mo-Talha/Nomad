@@ -5,8 +5,10 @@ define(['lib/jquery', 'js/views/dashboard/csdashboard.view', 'js/search'],
         $('.navbar-items').animate({height: 'toggle'}, 200);
     });
 
-    var dashboard = new CSDashboardView();
+    $(document).ready(function(){
+        var dashboard = new CSDashboardView();
 
-    $('.dashboard-container').html(dashboard.render().el);
+        $('.dashboard-container').html(dashboard.render().el);
+    });
 
 });

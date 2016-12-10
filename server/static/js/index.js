@@ -5,8 +5,10 @@ define(['lib/jquery', 'js/views/dashboard/dashboard.view', 'js/search'],
         $('.navbar-items').animate({height: 'toggle'}, 200);
     });
 
-    var generalDashboard = new DashboardView();
+    $(document).ready(function(){
+        var generalDashboard = new DashboardView();
 
-    $('.dashboard-container').html(generalDashboard.render().el);
+        $('.dashboard-container').html(generalDashboard.render().el);
+    });
 
 });

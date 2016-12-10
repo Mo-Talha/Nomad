@@ -109,6 +109,10 @@ body {
     font-size: 16px;
 }
 
+body:not(.loaded) {
+  display:none;
+}
+
 header {
     top: 0;
     right: 0;
