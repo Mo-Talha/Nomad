@@ -19,7 +19,7 @@ redis = redis.StrictRedis(host=secrets.REDIS_HOST, port=secrets.REDIS_PORT, db=s
 mongoengine.connect(secrets.MONGO_DATABASE, host=secrets.MONGO_HOST, port=secrets.MONGO_PORT)
 
 
-class JobmineImporterTest(unittest.TestCase):
+class JobImporterTest(unittest.TestCase):
 
     def setUp(self):
         pass

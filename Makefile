@@ -43,11 +43,11 @@ clean_chunker:
 	find . -name '*.pickle' -delete
 
 import_jobs:
-	@echo "*** Importing Jobmine data. This may take several hours. ***"
+	@echo "*** Importing WaterlooWorks data. This may take several hours. ***"
 	@echo
 
 	@echo "Importing jobs"
-	source ~/.virtualenv/Nomad/bin/activate && PYTHONPATH=$(PYTHONPATH):. python data/main.py jobmine
+	source ~/.virtualenv/Nomad/bin/activate && PYTHONPATH=$(PYTHONPATH):. python data/main.py waterlooworks
 
 	@echo
 	@echo "*** Done ***"

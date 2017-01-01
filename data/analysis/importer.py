@@ -25,7 +25,7 @@ COMPONENT = 'Importer'
 
 
 def import_job(**kwargs):
-    """Import job from Jobmine.
+    """Import job.
 
     Keyword arguments:
     employer_name -- Employer name
@@ -39,7 +39,7 @@ def import_job(**kwargs):
     applicants -- Number of applicants job has (Optional)
     levels -- Levels job is intended for [Junior, Intermediate, Senior]
     programs -- Programs the job is specified for
-    url -- URL of job in Jobmine
+    url -- URL of job
     date -- Date job was crawled (useful for knowing exactly # of applicants at what time)
     index -- Boolean to indicate whether to index or not (default True)
     """
@@ -129,8 +129,8 @@ def import_job(**kwargs):
         employer.reload()
 
         if index:
-            elastic.index_employer_jobmine(employer)
-            elastic.index_job_jobmine(employer, job)
+            elastic.index_employer_waterlooworks(employer)
+            elastic.index_job_waterlooworks(employer, job)
 
     # Employer already exists
     else:
@@ -160,8 +160,8 @@ def import_job(**kwargs):
             employer.update(push__jobs=job)
 
             if index:
-                elastic.update_employer_jobmine(employer)
-                elastic.index_job_jobmine(employer, job)
+                elastic.update_employer_waterlooworks(employer)
+                elastic.index_job_waterlooworks(employer, job)
 
         # Job already exists
         else:
@@ -202,10 +202,10 @@ def import_job(**kwargs):
                     employer.update(push__jobs=new_job)
 
                     if index:
-                        elastic.delete_employer_jobmine(employer)
-                        elastic.delete_job_jobmine(employer, job)
-                        elastic.index_employer_jobmine(employer)
-                        elastic.index_job_jobmine(employer, new_job)
+                        elastic.delete_employer_waterlooworks(employer)
+                        elastic.delete_job_waterlooworks(employer, job)
+                        elastic.index_employer_waterlooworks(employer)
+                        elastic.index_job_waterlooworks(employer, new_job)
                 else:
                     logger.info(COMPONENT, 'Job: {}: different summary detected but invalid openings: {}, ignoring..'
                                 .format(job_title, openings))
@@ -232,7 +232,7 @@ def import_job(**kwargs):
                                set__levels=levels, set__programs=programs, set__url=url, set__last_indexed=datetime.now())
 
                     if index:
-                        elastic.update_job_jobmine(employer, job)
+                        elastic.update_job_waterlooworks(employer, job)
 
                 # Job is being updated. We need to update location, openings, levels, remaining, hire_rate, applicants
                 else:
@@ -254,11 +254,11 @@ def import_job(**kwargs):
                                set__last_indexed=datetime.now())
 
                     if index:
-                        elastic.update_job_jobmine(employer, job)
+                        elastic.update_job_waterlooworks(employer, job)
 
 
 def update_job(**kwargs):
-    """Update job from Jobmine.
+    """Update job.
 
     Keyword arguments:
     id -- Job ID
@@ -338,10 +338,10 @@ def update_job(**kwargs):
             employer.update(push__jobs=new_job)
 
             if index:
-                elastic.delete_employer_jobmine(employer)
-                elastic.delete_job_jobmine(employer, job)
-                elastic.index_employer_jobmine(employer)
-                elastic.index_job_jobmine(employer, new_job)
+                elastic.delete_employer_waterlooworks(employer)
+                elastic.delete_job_waterlooworks(employer, job)
+                elastic.index_employer_waterlooworks(employer)
+                elastic.index_job_waterlooworks(employer, new_job)
         else:
             logger.info(COMPONENT, 'Job: {}: different summary detected but invalid openings: {}, ignoring..'
                         .format(job.title, openings))
@@ -355,7 +355,7 @@ def update_job(**kwargs):
                    set__programs=list(set(programs + job.programs)), set__last_indexed=datetime.now())
 
         if index:
-            elastic.update_job_jobmine(employer, job)
+            elastic.update_job_waterlooworks(employer, job)
 
 
 def import_comment(**kwargs):

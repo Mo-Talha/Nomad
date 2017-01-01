@@ -353,7 +353,6 @@ programs = {
         'program': 'MATH-Teaching',
         'faculty': 'Math'
     },
-    # Apparently jobmine misspells university programs..
     u'SCI\s*?-?\s*?\(?unspeci?fied\)?': {
         'program': 'SCI-(unspecified)',
         'faculty': 'SCI'

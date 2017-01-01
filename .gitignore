@@ -96,7 +96,6 @@ ENV/
 screenshot.png
 
 # Local Configurations
-jobmine.py
 ratemycoopjob.py
 secrets.py
 

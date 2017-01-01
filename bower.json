@@ -1,6 +1,6 @@
 {
   "name": "nomad",
-  "description": "Jobmine statistics",
+  "description": "WaterlooWorks statistics",
   "main": "index.js",
   "authors": [
     "Muhammad Talha"
@@ -8,7 +8,7 @@
   "license": "MIT",
   "keywords": [
     "Nomad",
-    "Jobmine"
+    "WaterlooWorks"
   ],
   "homepage": "https://github.com/Mo-Talha/Nomad",
   "private": true,
