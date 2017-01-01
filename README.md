@@ -2,7 +2,7 @@
 [![Requirements Status](https://requires.io/github/Mo-Talha/Nomad/requirements.svg?branch=master)](https://requires.io/github/Mo-Talha/Nomad/requirements/?branch=master)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-# WaterlooWorks job hosting platform and statistics on employers
+# Job hosting platform and statistics on employers
 
 This project is dedicated to providing students with a job searching platform and statistical information on employers.
 
