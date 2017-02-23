@@ -6,12 +6,12 @@
 
 This project is dedicated to providing students with a job searching platform and statistical information on employers.
 
-![General Dashboard Page 1](http://imgur.com/cCQ27zo.png)
-![General Dashboard Page 2](http://imgur.com/lSArJWy.png)
-![CS Dashboard Page 1](http://imgur.com/ErLq9Lv.png)
-![CS Dashboard Page 2](http://imgur.com/d6lw1rM.png)
-![CS Dashboard Page 3](http://imgur.com/69joneL.png)
-![CS Dashboard Page 4](http://imgur.com/gFFXYLT.png)
+![General Dashboard Page 1](http://imgur.com/03jfWcc.png)
+![General Dashboard Page 2](http://imgur.com/TC1mwMA.png)
+![CS Dashboard Page 1](http://imgur.com/zh4yWsa.png)
+![CS Dashboard Page 2](http://imgur.com/ukPSByS.png)
+![CS Dashboard Page 3](http://imgur.com/mFgXBes.png)
+![CS Dashboard Page 4](http://imgur.com/JIIcR3g.png)
 
 
 ## Features
