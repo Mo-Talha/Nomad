@@ -2,9 +2,7 @@
 [![Requirements Status](https://requires.io/github/Mo-Talha/Nomad/requirements.svg?branch=master)](https://requires.io/github/Mo-Talha/Nomad/requirements/?branch=master)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-# Job hosting platform and statistics on employers
-
-This project is dedicated to providing students with a job searching platform and statistical information on employers.
+# Natural language processing on co-op postings
 
 ![General Dashboard Page 1](http://imgur.com/03jfWcc.png)
 ![General Dashboard Page 2](http://imgur.com/TC1mwMA.png)
